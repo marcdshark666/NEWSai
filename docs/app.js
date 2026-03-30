@@ -2,6 +2,7 @@
   payload: null,
   activeSvtSourceId: null,
   hlsInstance: null,
+  isRefreshing: false,
 };
 
 const elements = {
@@ -10,6 +11,8 @@ const elements = {
   sourceCount: document.querySelector("#sourceCount"),
   videoCount: document.querySelector("#videoCount"),
   refreshButton: document.querySelector("#refreshButton"),
+  refreshCommand: document.querySelector("#refreshCommand"),
+  refreshMessage: document.querySelector("#refreshMessage"),
   tv4Rail: document.querySelector("#tv4Rail"),
   tv4ViewAll: document.querySelector("#tv4ViewAll"),
   svtTabs: document.querySelector("#svtTabs"),
@@ -82,13 +85,17 @@ function allVideos() {
   return newestFirst(allSources().flatMap((source) => source.articles || []));
 }
 
+function primaryVideo() {
+  return allVideos()[0] || null;
+}
+
 function featuredVideo() {
   const tv4Primary = sourceById("tv4-nyheterna");
   if (tv4Primary?.articles?.length) {
     return newestFirst(tv4Primary.articles)[0];
   }
 
-  return allVideos()[0] || null;
+  return primaryVideo();
 }
 
 function cardBackground(url, overlay) {
@@ -105,6 +112,19 @@ function playDataset(item) {
     data-embed-url="${escapeHtml(item.embed_url || item.url)}"
     data-play-mode="${escapeHtml(item.play_mode || "page_iframe")}"
     data-title="${escapeHtml(item.title)}"
+  `;
+}
+
+function emptyState(label, href, message) {
+  return `
+    <div class="empty-state">
+      <strong>${escapeHtml(message)}</strong>
+      <p>Tryck pa Hamta senaste videos for att lasa in senaste sparade feeden och oppna senaste klippet nar det finns data.</p>
+      <div class="empty-state__actions">
+        <button class="pill pill--action" type="button" data-action="refresh-latest">Hamta senaste</button>
+        <a class="section-link" href="${escapeHtml(href || "#")}" target="_blank" rel="noreferrer">Oppna ${escapeHtml(label)}</a>
+      </div>
+    </div>
   `;
 }
 
@@ -165,8 +185,16 @@ function renderHero() {
         </div>
         <h1 class="hero__title">The cinematic news wall is loading.</h1>
         <p class="hero__summary">
-          Din video-cache ar inte fylld an. Kor update-workflowen sa hamtas de senaste videorna in.
+          Din video-cache ar inte fylld an. Tryck pa Hamta senaste videos for att lasa in senaste sparade feed och spela senaste klippet direkt nar cachen ar redo.
         </p>
+        <div class="hero__actions">
+          <button class="hero-button hero-button--primary" type="button" data-action="refresh-latest">
+            Hamta senaste
+          </button>
+          <a class="hero-button hero-button--secondary" href="https://www.tv4play.se/nyheter" target="_blank" rel="noreferrer">
+            Oppna kalla
+          </a>
+        </div>
       </div>
     `;
     return;
@@ -191,7 +219,9 @@ function renderHero() {
         <button class="hero-button hero-button--primary" type="button" ${playDataset(featured)}>
           Watch now
         </button>
-        <a class="hero-button hero-button--secondary" href="#tv4Rail">More info</a>
+        <button class="hero-button hero-button--secondary" type="button" data-action="refresh-latest">
+          Hamta senaste
+        </button>
       </div>
       <div class="hero__meta">
         <span>${escapeHtml(featured.source_name)}</span>
@@ -208,7 +238,7 @@ function renderTv4() {
 
   elements.tv4Rail.innerHTML = items.length
     ? items.map((item) => renderVideoCard(item)).join("")
-    : `<p class="empty-copy">No TV4 videos available yet.</p>`;
+    : emptyState("TV4", sourceById("tv4-nyheterna")?.display_url, "TV4-videor ar inte cachelagrade an.");
 }
 
 function ensureActiveSvtSource() {
@@ -248,7 +278,7 @@ function renderSvtRail() {
 
   elements.svtRail.innerHTML = items.length
     ? items.map((item) => renderVideoCard(item)).join("")
-    : `<p class="empty-copy">No SVT videos available yet.</p>`;
+    : emptyState("SVT", source?.display_url, "SVT-videor ar inte cachelagrade an.");
 }
 
 function renderFox() {
@@ -258,7 +288,7 @@ function renderFox() {
   const secondary = items.slice(1, 7);
 
   if (!heroItem) {
-    elements.foxFeature.innerHTML = `<p class="empty-copy">No Fox videos available yet.</p>`;
+    elements.foxFeature.innerHTML = emptyState("Fox", foxSource?.display_url, "Fox-videor ar inte cachelagrade an.");
     elements.foxRail.innerHTML = "";
     return;
   }
@@ -292,7 +322,7 @@ function renderBbc() {
 
   elements.bbcList.innerHTML = items.length
     ? items.map((item) => renderBbcItem(item)).join("")
-    : `<p class="empty-copy">No BBC stories available yet.</p>`;
+    : emptyState("BBC", bbcSource?.display_url, "BBC-klipp ar inte cachelagrade an.");
 }
 
 function renderStatus() {
@@ -340,6 +370,21 @@ function playMediaSource(url) {
   void video.play().catch(() => {});
 }
 
+function openPlayerFromItem(item) {
+  if (!item) {
+    return;
+  }
+
+  openPlayer({
+    dataset: {
+      embedUrl: item.embed_url || item.url,
+      playUrl: item.url,
+      playMode: item.play_mode || "page_iframe",
+      title: item.title || "Video",
+    },
+  });
+}
+
 function openPlayer(trigger) {
   const embedUrl = trigger.dataset.embedUrl || trigger.dataset.playUrl;
   const fallbackUrl = trigger.dataset.playUrl;
@@ -367,7 +412,56 @@ function closePlayer() {
   document.body.classList.remove("is-modal-open");
 }
 
-async function loadData() {
+function setRefreshButtonState(isRefreshing) {
+  if (elements.refreshButton) {
+    elements.refreshButton.disabled = isRefreshing;
+    elements.refreshButton.classList.toggle("is-loading", isRefreshing);
+    elements.refreshButton.setAttribute("aria-busy", String(isRefreshing));
+    elements.refreshButton.setAttribute("aria-label", isRefreshing ? "Hamtar senaste videos" : "Hamta senaste videos");
+  }
+
+  if (elements.refreshCommand) {
+    elements.refreshCommand.disabled = isRefreshing;
+    elements.refreshCommand.classList.toggle("is-loading", isRefreshing);
+    elements.refreshCommand.textContent = isRefreshing ? "Hamtar senaste videos..." : "Hamta senaste videos";
+  }
+}
+
+function setRefreshMessage(message, tone = "info") {
+  if (!elements.refreshMessage) {
+    return;
+  }
+
+  if (!message) {
+    elements.refreshMessage.hidden = true;
+    elements.refreshMessage.className = "sync-banner";
+    elements.refreshMessage.textContent = "";
+    return;
+  }
+
+  elements.refreshMessage.hidden = false;
+  elements.refreshMessage.className = `sync-banner sync-banner--${tone}`;
+  elements.refreshMessage.textContent = message;
+}
+
+function idleMessage() {
+  const latest = primaryVideo();
+
+  if (!latest) {
+    setRefreshMessage(
+      "Tryck pa Hamta senaste videos for att lasa in senaste sparade feed. Nar en ny cache finns oppnas senaste klippet automatiskt.",
+      "warning"
+    );
+    return;
+  }
+
+  setRefreshMessage(
+    `Senast synkade cache ${formatDate(state.payload?.generated_at)}. Tryck pa Hamta senaste videos for att kontrollera nyare klipp.`,
+    "info"
+  );
+}
+
+async function loadData(options = {}) {
   const response = await fetch(`./data/news.json?ts=${Date.now()}`, {
     cache: "no-store",
   });
@@ -378,6 +472,46 @@ async function loadData() {
 
   state.payload = await response.json();
   render();
+
+  if (!options.preserveMessage) {
+    idleMessage();
+  }
+}
+
+async function refreshLatest() {
+  if (state.isRefreshing) {
+    return;
+  }
+
+  state.isRefreshing = true;
+  setRefreshButtonState(true);
+  setRefreshMessage("Hamtar senaste sparade videor...", "info");
+
+  try {
+    await loadData({ preserveMessage: true });
+
+    const latest = primaryVideo();
+    if (!latest) {
+      setRefreshMessage(
+        "Ingen ny videocache finns an. Kor update-jobbet i GitHub eller vanta till nasta 20-minutersuppdatering.",
+        "warning"
+      );
+      return;
+    }
+
+    setRefreshMessage(
+      `Senaste videocache hamtad ${formatDate(state.payload?.generated_at)}. Oppnar senaste video nu.`,
+      "success"
+    );
+    openPlayerFromItem(latest);
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    setRefreshMessage(message, "error");
+    elements.tv4Rail.innerHTML = `<p class="empty-copy">${escapeHtml(message)}</p>`;
+  } finally {
+    state.isRefreshing = false;
+    setRefreshButtonState(false);
+  }
 }
 
 document.addEventListener("click", (event) => {
@@ -395,20 +529,30 @@ document.addEventListener("click", (event) => {
     return;
   }
 
+  const refreshTarget = event.target.closest("[data-action='refresh-latest']");
+  if (refreshTarget) {
+    void refreshLatest();
+    return;
+  }
+
   const closeTarget = event.target.closest("[data-close-modal='true']");
   if (closeTarget) {
     closePlayer();
   }
 });
 
-elements.closePlayer.addEventListener("click", closePlayer);
-elements.refreshButton.addEventListener("click", () => {
-  loadData().catch((error) => {
-    elements.tv4Rail.innerHTML = `<p class="empty-copy">${escapeHtml(error.message)}</p>`;
-  });
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && !elements.playerModal.hidden) {
+    closePlayer();
+  }
 });
+
+elements.closePlayer.addEventListener("click", closePlayer);
+elements.refreshButton.addEventListener("click", () => void refreshLatest());
+elements.refreshCommand?.addEventListener("click", () => void refreshLatest());
 
 loadData().catch((error) => {
-  elements.tv4Rail.innerHTML = `<p class="empty-copy">${escapeHtml(error.message)}</p>`;
+  const message = error instanceof Error ? error.message : String(error);
+  setRefreshMessage(message, "error");
+  elements.tv4Rail.innerHTML = `<p class="empty-copy">${escapeHtml(message)}</p>`;
 });
-

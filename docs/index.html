@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="sv">
   <head>
     <meta charset="utf-8" />
@@ -32,11 +32,16 @@
         </div>
         <div class="topbar-actions">
           <button class="topbar-icon" type="button" aria-label="Search">&#9906;</button>
-          <button id="refreshButton" class="topbar-icon" type="button" aria-label="Refresh">&#8635;</button>
+          <button id="refreshButton" class="topbar-icon" type="button" aria-label="Hamta senaste videos">&#8635;</button>
         </div>
       </header>
 
       <main class="mobile-feed">
+        <section class="command-bar" aria-label="Uppdatera videoflode">
+          <button id="refreshCommand" class="command-button" type="button">Hamta senaste videos</button>
+          <p id="refreshMessage" class="sync-banner" hidden></p>
+        </section>
+
         <section id="hero" class="hero"></section>
 
         <section class="stream-section">
@@ -149,3 +154,5 @@
     </div>
   </body>
 </html>
+
+

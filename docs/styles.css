@@ -125,6 +125,73 @@ a {
   font-size: 1rem;
 }
 
+.topbar-icon.is-loading {
+  animation: spin 0.9s linear infinite;
+}
+
+.command-bar {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.command-button {
+  min-height: 50px;
+  border: 0;
+  border-radius: 16px;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  color: #090c12;
+  background: linear-gradient(135deg, #ff8e80, #ff7668);
+  box-shadow: var(--shadow);
+  transition: transform 180ms ease, filter 180ms ease;
+}
+
+.command-button.is-loading {
+  filter: saturate(0.8);
+}
+
+.command-button:hover {
+  transform: translateY(-2px);
+}
+
+.command-button:disabled,
+.topbar-icon:disabled {
+  cursor: wait;
+  opacity: 0.78;
+}
+
+.sync-banner {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 16px;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--muted);
+}
+
+.sync-banner--info {
+  background: rgba(47, 228, 255, 0.08);
+  color: #b9f6ff;
+}
+
+.sync-banner--success {
+  background: rgba(41, 208, 122, 0.12);
+  color: #bff5d7;
+}
+
+.sync-banner--warning {
+  background: rgba(255, 183, 77, 0.12);
+  color: #ffe0b0;
+}
+
+.sync-banner--error {
+  background: rgba(217, 17, 30, 0.14);
+  color: #ffc2c7;
+}
+
 .hero {
   position: relative;
   min-height: 520px;
@@ -353,6 +420,14 @@ a {
   color: var(--cyan);
 }
 
+.pill--action {
+  font: inherit;
+  font-weight: 700;
+  border-color: rgba(47, 228, 255, 0.42);
+  background: rgba(47, 228, 255, 0.14);
+  color: var(--cyan);
+}
+
 .section-caption,
 .empty-copy,
 .status-item span,
@@ -380,6 +455,32 @@ a {
 .content-rail--compact {
   grid-auto-columns: 168px;
   margin-top: 12px;
+}
+
+.empty-state {
+  display: grid;
+  gap: 10px;
+  min-width: min(100%, 320px);
+  padding: 18px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.empty-state strong {
+  line-height: 1.2;
+}
+
+.empty-state p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.empty-state__actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .video-card__button,
@@ -633,6 +734,12 @@ a {
   margin: 0;
   max-width: 46ch;
   line-height: 1.5;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 @media (min-width: 900px) {
