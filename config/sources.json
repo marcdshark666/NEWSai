@@ -1,0 +1,103 @@
+[
+  {
+    "id": "tv4-nyheterna",
+    "name": "TV4 Nyheterna",
+    "provider": "TV4",
+    "category": "Nyheter",
+    "displayUrl": "https://www.tv4play.se/nyheter",
+    "fetchUrl": "https://www.tv4play.se/nyheter",
+    "strategy": "tv4play_listing",
+    "description": "Senaste videoinslagen fran TV4 Nyheterna.",
+    "maxItems": 12
+  },
+  {
+    "id": "tv4-ekonomi",
+    "name": "TV4 Ekonomi",
+    "provider": "TV4",
+    "category": "Ekonomi",
+    "displayUrl": "https://www.tv4.se/ekonomi",
+    "fetchUrl": "https://www.tv4.se/ekonomi",
+    "strategy": "tv4_listing",
+    "description": "Ekonominyheter och marknadsbevakning fran TV4.",
+    "maxItems": 12
+  },
+  {
+    "id": "svt-rapport",
+    "name": "Rapport",
+    "provider": "SVT Play",
+    "category": "Nyheter",
+    "displayUrl": "https://www.svtplay.se/rapport",
+    "fetchUrl": "https://www.svtplay.se/rapport",
+    "strategy": "svt_program",
+    "description": "SVT:s stora nyhetssandningar och snabba nyhetsuppdateringar.",
+    "maxItems": 12
+  },
+  {
+    "id": "svt-aktuellt",
+    "name": "Aktuellt",
+    "provider": "SVT Play",
+    "category": "Fordjupning",
+    "displayUrl": "https://www.svtplay.se/aktuellt",
+    "fetchUrl": "https://www.svtplay.se/aktuellt",
+    "strategy": "svt_program",
+    "description": "Fördjupning, analyser och stora nyhetssandningar fran SVT.",
+    "maxItems": 10
+  },
+  {
+    "id": "svt-sportnytt",
+    "name": "Sportnytt",
+    "provider": "SVT Play",
+    "category": "Sport",
+    "displayUrl": "https://www.svtplay.se/sportnytt",
+    "fetchUrl": "https://www.svtplay.se/sportnytt",
+    "strategy": "svt_program",
+    "description": "De senaste sportsandningarna och snabba uppdateringarna fran SVT Sport.",
+    "maxItems": 12
+  },
+  {
+    "id": "svt-morgonstudion",
+    "name": "Morgonstudion",
+    "provider": "SVT Play",
+    "category": "Morgon",
+    "displayUrl": "https://www.svtplay.se/morgonstudion",
+    "fetchUrl": "https://www.svtplay.se/morgonstudion",
+    "strategy": "svt_program",
+    "description": "Direkta morgonsandningar med nyheter, sport, kultur och intervjuer.",
+    "maxItems": 8
+  },
+  {
+    "id": "svt-kulturnyheterna",
+    "name": "Kulturnyheterna",
+    "provider": "SVT Play",
+    "category": "Kultur",
+    "displayUrl": "https://www.svtplay.se/kulturnyheterna",
+    "fetchUrl": "https://www.svtplay.se/kulturnyheterna",
+    "strategy": "svt_program",
+    "description": "Kulturnyheter och kortare specialsandningar fran SVT.",
+    "maxItems": 12
+  },
+  {
+    "id": "fox-news",
+    "name": "Fox News",
+    "provider": "Amerikansk media",
+    "category": "USA",
+    "displayUrl": "https://www.foxnews.com/video",
+    "fetchUrl": "https://www.foxnews.com/video",
+    "strategy": "fox_video_listing",
+    "description": "Amerikansk mediarad med Fox News Video. Oversta nivan visar de viktigaste klippen forst.",
+    "maxItems": 16,
+    "prioritySplit": 6
+  },
+  {
+    "id": "bbc-video",
+    "name": "BBC Video",
+    "provider": "BBC",
+    "category": "Globalt",
+    "displayUrl": "https://www.bbc.com/video",
+    "fetchUrl": "https://feeds.bbci.co.uk/news/video_and_audio/news_front_page/rss.xml",
+    "strategy": "bbc_rss",
+    "description": "BBC:s video- och ljudflode med de storsta nyhetshandelserna forst i feeden.",
+    "maxItems": 14,
+    "prioritySplit": 5
+  }
+]

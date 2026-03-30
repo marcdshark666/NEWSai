@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NEWSai Video Wall</title>
+    <meta
+      name="description"
+      content="En Netflix-inspirerad videovagg for nyheter fran TV4, SVT Play, Fox News och BBC."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header id="hero" class="hero"></header>
+
+      <main class="catalog">
+        <section class="summary-strip">
+          <div class="summary-card">
+            <span class="summary-label">Senast uppdaterad</span>
+            <strong id="generatedAt">Vantar pa data</strong>
+          </div>
+          <div class="summary-card">
+            <span class="summary-label">Kallor</span>
+            <strong id="sourceCount">0</strong>
+          </div>
+          <div class="summary-card">
+            <span class="summary-label">Videor</span>
+            <strong id="videoCount">0</strong>
+          </div>
+          <button id="refreshButton" class="refresh-button" type="button">Uppdatera vy</button>
+        </section>
+
+        <section class="section-shell">
+          <div class="section-heading">
+            <p class="section-kicker">Nyast overallt</p>
+            <h2>Senaste videoflodet</h2>
+          </div>
+          <div id="latestRow" class="shelf rail rail-large"></div>
+        </section>
+
+        <div id="providerSections" class="provider-sections"></div>
+      </main>
+    </div>
+
+    <div id="playerModal" class="player-modal" hidden>
+      <div class="player-backdrop" data-close-modal="true"></div>
+      <div class="player-dialog" role="dialog" aria-modal="true" aria-labelledby="playerTitle">
+        <div class="player-topline">
+          <div>
+            <p class="section-kicker">Spelar nu</p>
+            <h2 id="playerTitle">Video</h2>
+          </div>
+          <button id="closePlayer" class="close-button" type="button" aria-label="Stang spelare">
+            Stang
+          </button>
+        </div>
+
+        <div class="player-frame-wrap">
+          <iframe
+            id="playerFrame"
+            title="Inbaddad video"
+            allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <div class="player-footer">
+          <p>
+            Om en kalla blockerar inbaddning i iframe kan du alltid oppna videon direkt hos
+            originalkallan.
+          </p>
+          <a id="playerFallback" class="fallback-link" href="#" target="_blank" rel="noreferrer">
+            Oppna hos kallan
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

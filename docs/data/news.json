@@ -1,0 +1,116 @@
+{
+  "generated_at": null,
+  "update_interval_minutes": 20,
+  "sources": [
+    {
+      "id": "tv4-nyheterna",
+      "name": "TV4 Nyheterna",
+      "provider": "TV4",
+      "category": "Nyheter",
+      "description": "Senaste videoinslagen fran TV4 Nyheterna.",
+      "display_url": "https://www.tv4play.se/nyheter",
+      "fetch_url": "https://www.tv4play.se/nyheter",
+      "status": "pending",
+      "article_count": 0,
+      "articles": []
+    },
+    {
+      "id": "tv4-ekonomi",
+      "name": "TV4 Ekonomi",
+      "provider": "TV4",
+      "category": "Ekonomi",
+      "description": "Ekonominyheter och marknadsbevakning fran TV4.",
+      "display_url": "https://www.tv4.se/ekonomi",
+      "fetch_url": "https://www.tv4.se/ekonomi",
+      "status": "pending",
+      "article_count": 0,
+      "articles": []
+    },
+    {
+      "id": "svt-rapport",
+      "name": "Rapport",
+      "provider": "SVT Play",
+      "category": "Nyheter",
+      "description": "SVT:s stora nyhetssandningar och snabba nyhetsuppdateringar.",
+      "display_url": "https://www.svtplay.se/rapport",
+      "fetch_url": "https://www.svtplay.se/rapport",
+      "status": "pending",
+      "article_count": 0,
+      "articles": []
+    },
+    {
+      "id": "svt-aktuellt",
+      "name": "Aktuellt",
+      "provider": "SVT Play",
+      "category": "Fordjupning",
+      "description": "Fördjupning, analyser och stora nyhetssandningar fran SVT.",
+      "display_url": "https://www.svtplay.se/aktuellt",
+      "fetch_url": "https://www.svtplay.se/aktuellt",
+      "status": "pending",
+      "article_count": 0,
+      "articles": []
+    },
+    {
+      "id": "svt-sportnytt",
+      "name": "Sportnytt",
+      "provider": "SVT Play",
+      "category": "Sport",
+      "description": "De senaste sportsandningarna och snabba uppdateringarna fran SVT Sport.",
+      "display_url": "https://www.svtplay.se/sportnytt",
+      "fetch_url": "https://www.svtplay.se/sportnytt",
+      "status": "pending",
+      "article_count": 0,
+      "articles": []
+    },
+    {
+      "id": "svt-morgonstudion",
+      "name": "Morgonstudion",
+      "provider": "SVT Play",
+      "category": "Morgon",
+      "description": "Direkta morgonsandningar med nyheter, sport, kultur och intervjuer.",
+      "display_url": "https://www.svtplay.se/morgonstudion",
+      "fetch_url": "https://www.svtplay.se/morgonstudion",
+      "status": "pending",
+      "article_count": 0,
+      "articles": []
+    },
+    {
+      "id": "svt-kulturnyheterna",
+      "name": "Kulturnyheterna",
+      "provider": "SVT Play",
+      "category": "Kultur",
+      "description": "Kulturnyheter och kortare specialsandningar fran SVT.",
+      "display_url": "https://www.svtplay.se/kulturnyheterna",
+      "fetch_url": "https://www.svtplay.se/kulturnyheterna",
+      "status": "pending",
+      "article_count": 0,
+      "articles": []
+    },
+    {
+      "id": "fox-news",
+      "name": "Fox News",
+      "provider": "Amerikansk media",
+      "category": "USA",
+      "description": "Amerikansk mediarad med Fox News Video. Oversta nivan visar de viktigaste klippen forst.",
+      "display_url": "https://www.foxnews.com/video",
+      "fetch_url": "https://www.foxnews.com/video",
+      "status": "pending",
+      "article_count": 0,
+      "priority_split": 6,
+      "articles": []
+    },
+    {
+      "id": "bbc-video",
+      "name": "BBC Video",
+      "provider": "BBC",
+      "category": "Globalt",
+      "description": "BBC:s video- och ljudflode med de storsta nyhetshandelserna forst i feeden.",
+      "display_url": "https://www.bbc.com/video",
+      "fetch_url": "https://feeds.bbci.co.uk/news/video_and_audio/news_front_page/rss.xml",
+      "status": "pending",
+      "article_count": 0,
+      "priority_split": 5,
+      "articles": []
+    }
+  ]
+}

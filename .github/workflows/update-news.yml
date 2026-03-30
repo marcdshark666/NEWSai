@@ -1,0 +1,40 @@
+name: Update News Cache
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/20 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh video feed
+        run: python scripts/update_video_feed.py
+
+      - name: Commit cache update
+        run: |
+          if git diff --quiet -- docs/data/news.json; then
+            echo "No feed changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/news.json
+          git commit -m "Refresh news video cache"
+          git push
