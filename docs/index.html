@@ -31,14 +31,17 @@
           <span>NEWS</span>
         </div>
         <div class="topbar-actions">
-          <button class="topbar-icon" type="button" aria-label="Search">&#9906;</button>
+          <button id="githubAuthTopbar" class="topbar-icon topbar-icon--label" type="button" aria-label="Koppla GitHub">GH</button>
           <button id="refreshButton" class="topbar-icon" type="button" aria-label="Hamta senaste videos">&#8635;</button>
         </div>
       </header>
 
       <main class="mobile-feed">
         <section class="command-bar" aria-label="Uppdatera videoflode">
-          <button id="refreshCommand" class="command-button" type="button">Hamta senaste videos</button>
+          <div class="command-actions">
+            <button id="refreshCommand" class="command-button" type="button">Hamta senaste videos</button>
+            <button id="githubAuthCommand" class="command-button command-button--secondary" type="button">Koppla GitHub</button>
+          </div>
           <p id="refreshMessage" class="sync-banner" hidden></p>
         </section>
 
@@ -150,6 +153,43 @@
           <p>Om en video fortfarande blockerar spelning i sidan finns originalkallan alltid har.</p>
           <a id="playerFallback" href="#" target="_blank" rel="noreferrer">Open source</a>
         </div>
+      </div>
+    </div>
+
+    <div id="authModal" class="player-modal" hidden>
+      <div class="player-modal__backdrop" data-close-auth="true"></div>
+      <div class="player-modal__dialog auth-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="authTitle">
+        <div class="player-modal__top">
+          <div>
+            <p class="mini-label">GitHub</p>
+            <h3 id="authTitle">Koppla live-uppdatering</h3>
+          </div>
+          <button id="closeAuth" class="close-button" type="button">Close</button>
+        </div>
+
+        <form id="authForm" class="auth-form">
+          <label class="auth-form__label" for="githubToken">GitHub token</label>
+          <input
+            id="githubToken"
+            class="auth-input"
+            type="password"
+            autocomplete="off"
+            placeholder="github_pat_..."
+          />
+          <p class="auth-help">
+            Anvand en fine-grained token for detta repo med Actions: Read and write samt Contents: Read. Tokenen
+            sparas bara i din webblasare.
+          </p>
+          <label class="auth-check">
+            <input id="rememberGithubToken" type="checkbox" />
+            Kom ihag pa denna enhet
+          </label>
+          <div class="auth-actions">
+            <button class="hero-button hero-button--primary" type="submit">Spara token</button>
+            <button id="clearGithubToken" class="hero-button hero-button--secondary" type="button">Logga ut</button>
+          </div>
+          <p id="authStatus" class="sync-banner" hidden></p>
+        </form>
       </div>
     </div>
   </body>
