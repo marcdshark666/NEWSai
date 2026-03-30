@@ -14,6 +14,7 @@ const state = {
   isRefreshing: false,
   githubToken: null,
   resumeRefreshAfterAuth: false,
+  autoRefreshTriggered: false,
 };
 
 const elements = {
@@ -821,6 +822,16 @@ async function refreshLatest() {
   }
 }
 
+async function autoRefreshOnVisit() {
+  if (!state.githubToken || state.autoRefreshTriggered) {
+    return;
+  }
+
+  state.autoRefreshTriggered = true;
+  setRefreshMessage("GitHub ar kopplat. Uppdaterar nyheterna automatiskt nar du oppnar sidan...", "info");
+  await refreshLatest();
+}
+
 document.addEventListener("click", (event) => {
   const playTarget = event.target.closest("[data-play-url]");
   if (playTarget) {
@@ -907,12 +918,9 @@ elements.authForm?.addEventListener("submit", async (event) => {
     saveGithubToken(token, remember);
     syncGithubButtons();
     closeAuthModal();
-    setRefreshMessage("GitHub ar kopplat. Du kan nu starta live-uppdatering direkt fran sidan.", "success");
-
-    if (state.resumeRefreshAfterAuth) {
-      state.resumeRefreshAfterAuth = false;
-      await refreshLatest();
-    }
+    setRefreshMessage("GitHub ar kopplat. Startar en direkt uppdatering av nyheterna nu.", "success");
+    state.resumeRefreshAfterAuth = false;
+    await refreshLatest();
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
     setAuthStatus(`Kunde inte verifiera tokenen: ${message}`, "error");
@@ -927,8 +935,16 @@ const storedAuth = loadStoredGithubToken();
 state.githubToken = storedAuth.token;
 syncGithubButtons();
 
-loadData().catch((error) => {
-  const message = error instanceof Error ? error.message : String(error);
-  setRefreshMessage(message, "error");
-  elements.tv4Rail.innerHTML = `<p class="empty-copy">${escapeHtml(message)}</p>`;
-});
+async function bootstrap() {
+  try {
+    await loadData();
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    setRefreshMessage(message, "error");
+    elements.tv4Rail.innerHTML = `<p class="empty-copy">${escapeHtml(message)}</p>`;
+  }
+
+  await autoRefreshOnVisit();
+}
+
+void bootstrap();
