@@ -6,7 +6,7 @@
     <title>Cinema News</title>
     <meta
       name="description"
-      content="Mobil nyhetsvideo med TV4, SVT Play, Fox News och BBC i en filmisk videovagg."
+      content="Publik nyhetsvagg med video, livefloden och upplasning av textnyheter pa en och samma plats."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -16,7 +16,8 @@
     />
     <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
     <link rel="stylesheet" href="./styles.css" />
-    <script src="./app.js" defer></script>
+    <link rel="stylesheet" href="./styles.public.css" />
+    <script src="./app.public.js" defer></script>
   </head>
   <body>
     <div class="app-shell">
@@ -32,14 +33,16 @@
         </div>
         <div class="topbar-actions">
           <span class="topbar-icon topbar-icon--label topbar-icon--status" aria-label="Publik live-cache">LIVE</span>
-          <button id="refreshButton" class="topbar-icon" type="button" aria-label="Hamta senaste videos">&#8635;</button>
+          <button id="refreshButton" class="topbar-icon" type="button" aria-label="Hamta senaste nu">&#8635;</button>
         </div>
       </header>
 
-      <main class="mobile-feed">
-        <section class="command-bar" aria-label="Uppdatera videoflode">
-          <button id="refreshCommand" class="command-button" type="button">Hamta senaste videos</button>
-          <p class="command-note">Publik sajt utan login. Videocachen uppdateras automatiskt var 20:e minut.</p>
+      <main id="homeSection" class="mobile-feed">
+        <section class="command-bar" aria-label="Uppdatera publikt nyhetsflode">
+          <button id="refreshCommand" class="command-button" type="button">Hamta senaste nu</button>
+          <p class="command-note">
+            Publik sajt utan login. Cache uppdateras automatiskt var 20:e minut och kan laddas om direkt pa kommando.
+          </p>
           <p id="refreshMessage" class="sync-banner" hidden></p>
         </section>
 
@@ -83,11 +86,26 @@
           <div class="section-head">
             <div class="section-title">
               <span class="section-marker section-marker--bbc"></span>
-              <h2>BBC News</h2>
+              <h2>BBC World</h2>
             </div>
           </div>
           <div id="bbcList" class="bbc-list"></div>
           <a id="bbcViewAll" class="bbc-button" href="#" target="_blank" rel="noreferrer">View all BBC stories</a>
+        </section>
+
+        <section id="newsroomHub" class="newsroom-hub" aria-label="Newsroom sections"></section>
+
+        <section id="liveHub" class="stream-section stream-section--live">
+          <div class="section-head">
+            <div class="section-title">
+              <span class="section-marker section-marker--live"></span>
+              <h2>Live nu</h2>
+            </div>
+            <button class="section-link section-link--button" type="button" data-action="refresh-latest">Refresh</button>
+          </div>
+          <p class="section-caption section-caption--left">Direkta och live-nara floden samlade pa ett stalle.</p>
+          <div id="liveFeature"></div>
+          <div id="liveRail" class="content-rail content-rail--compact"></div>
         </section>
 
         <section class="status-strip">
@@ -100,34 +118,34 @@
             <strong id="sourceCount">0</strong>
           </div>
           <div class="status-item">
-            <span>Videos</span>
-            <strong id="videoCount">0</strong>
+            <span>Stories</span>
+            <strong id="storyCount">0</strong>
           </div>
         </section>
       </main>
 
       <nav class="bottom-nav" aria-label="Primary navigation">
-        <button class="bottom-nav__item is-active" type="button">
+        <button class="bottom-nav__item is-active" type="button" data-scroll-target="#homeSection">
           <span class="bottom-nav__icon">&#8962;</span>
           <span>Home</span>
         </button>
-        <button class="bottom-nav__item" type="button">
+        <button class="bottom-nav__item" type="button" data-scroll-target="#newsroomHub">
           <span class="bottom-nav__icon">&#9638;</span>
           <span>Sections</span>
         </button>
-        <button class="bottom-nav__item" type="button">
+        <button class="bottom-nav__item" type="button" data-scroll-target="#liveHub">
           <span class="bottom-nav__icon">&#9654;</span>
           <span>Live</span>
         </button>
-        <button class="bottom-nav__item" type="button">
-          <span class="bottom-nav__icon">&#9679;</span>
-          <span>Profile</span>
+        <button class="bottom-nav__item" type="button" data-action="refresh-latest">
+          <span class="bottom-nav__icon">&#8635;</span>
+          <span>Refresh</span>
         </button>
       </nav>
     </div>
 
     <div id="playerModal" class="player-modal" hidden>
-      <div class="player-modal__backdrop" data-close-modal="true"></div>
+      <div class="player-modal__backdrop" data-close-modal="player"></div>
       <div class="player-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="playerTitle">
         <div class="player-modal__top">
           <div>
@@ -147,9 +165,59 @@
           <video id="playerVideo" controls playsinline hidden></video>
         </div>
 
+        <div class="modal-toolbar">
+          <div class="reader-controls">
+            <button id="playerPrev" class="modal-button" type="button">Prev</button>
+            <button id="playerNext" class="modal-button" type="button">Next</button>
+          </div>
+          <a id="playerFallback" class="modal-button modal-button--link" href="#" target="_blank" rel="noreferrer">
+            Open source
+          </a>
+        </div>
+
         <div class="player-modal__footer">
-          <p>Om en video fortfarande blockerar spelning i sidan finns originalkallan alltid har.</p>
-          <a id="playerFallback" href="#" target="_blank" rel="noreferrer">Open source</a>
+          <p>Om en video blockeras i sidan finns originalkallan alltid kvar som fallback.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="readerModal" class="reader-modal" hidden>
+      <div class="player-modal__backdrop" data-close-modal="reader"></div>
+      <div class="reader-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="readerTitle">
+        <div class="player-modal__top">
+          <div>
+            <p class="mini-label">Reader mode</p>
+            <h3 id="readerTitle">Story</h3>
+          </div>
+          <button id="closeReader" class="close-button" type="button">Close</button>
+        </div>
+
+        <div id="readerHero" class="reader-hero"></div>
+
+        <div class="modal-toolbar">
+          <div class="reader-controls">
+            <button id="readerPrev" class="modal-button" type="button">Prev</button>
+            <button id="readerSpeak" class="modal-button modal-button--primary" type="button">Play text</button>
+            <button id="readerNext" class="modal-button" type="button">Next</button>
+          </div>
+          <button id="readerSpeed" class="modal-button" type="button">1.0x</button>
+        </div>
+
+        <div class="reader-meta">
+          <span id="readerSource">Source</span>
+          <span id="readerDate">Time pending</span>
+        </div>
+
+        <div class="reader-copy">
+          <p id="readerSummary" class="reader-summary"></p>
+          <div id="readerBody" class="reader-body"></div>
+        </div>
+
+        <div class="player-modal__footer">
+          <p>Textnyheter kan spelas upp direkt i webblasaren med inbyggd upplasning.</p>
+          <a id="readerFallback" class="modal-button modal-button--link" href="#" target="_blank" rel="noreferrer">
+            Open source
+          </a>
         </div>
       </div>
     </div>
