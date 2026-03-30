@@ -1,6 +1,7 @@
 const PUBLIC_CACHE_URL = "./data/news.json"
 const SOURCES_CONFIG_URL = "../config/sources.json"
 const AUTO_REFRESH_INTERVAL_MS = 5 * 60 * 1000
+const SEEN_ITEMS_STORAGE_KEY = "cinema-news-seen-items"
 const READER_SPEEDS = [0.85, 1, 1.2, 1.5]
 const PROVIDER_ACCENTS = {
   TV4: "#ff6f66",
@@ -33,6 +34,7 @@ const state = {
   currentItemId: null,
   currentModal: null,
   speechRateIndex: 1,
+  seenItemIds: new Set(),
 }
 
 const elements = {
@@ -192,8 +194,12 @@ function allItems() {
   return newestFirst(allSources().flatMap((source) => source.articles || []))
 }
 
+function nonLiveItems(items) {
+  return items.filter((item) => !item.is_live)
+}
+
 function allVideos() {
-  return allItems().filter((item) => item.article_type === "video")
+  return nonLiveItems(allItems()).filter((item) => item.article_type === "video")
 }
 
 function newsroomSources() {
@@ -219,7 +225,7 @@ function liveItems() {
 
 function featuredLeadItem() {
   const tv4Primary = sourceById("tv4-nyheterna")
-  if (tv4Primary?.articles?.length) return newestFirst(tv4Primary.articles)[0]
+  if (tv4Primary?.articles?.length) return nonLiveItems(newestFirst(tv4Primary.articles))[0]
   return allVideos()[0] || allItems()[0] || null
 }
 
@@ -253,6 +259,45 @@ function currentItem() {
   return itemById(state.currentItemId)
 }
 
+function loadSeenItemIds() {
+  try {
+    const raw = window.localStorage.getItem(SEEN_ITEMS_STORAGE_KEY)
+    if (!raw) return new Set()
+    const parsed = JSON.parse(raw)
+    return new Set(Array.isArray(parsed) ? parsed : [])
+  } catch (error) {
+    return new Set()
+  }
+}
+
+function persistSeenItemIds() {
+  try {
+    window.localStorage.setItem(SEEN_ITEMS_STORAGE_KEY, JSON.stringify([...state.seenItemIds]))
+  } catch (error) {
+    // Ignore storage failures and continue rendering.
+  }
+}
+
+function isItemNew(item) {
+  return Boolean(item?.id) && !state.seenItemIds.has(item.id)
+}
+
+function updateSeenMarkers(itemId) {
+  document.querySelectorAll(`[data-item-id="${itemId}"]`).forEach((button) => {
+    button.closest(".story-card")?.classList.remove("story-card--new")
+    button.closest(".feature-panel")?.classList.remove("feature-panel--new")
+    button.closest(".bbc-item")?.classList.remove("bbc-item--new")
+    button.querySelectorAll(".story-new-badge").forEach((badge) => badge.remove())
+  })
+}
+
+function markItemSeen(itemId) {
+  if (!itemId || state.seenItemIds.has(itemId)) return
+  state.seenItemIds.add(itemId)
+  persistSeenItemIds()
+  updateSeenMarkers(itemId)
+}
+
 function itemKindLabel(item) {
   if (item.is_live) return "LIVE"
   return item.article_type === "video" ? "VIDEO" : "TEXT"
@@ -275,13 +320,17 @@ function emptyState(label, href, message) {
   return `
     <div class="empty-state">
       <strong>${escapeHtml(message)}</strong>
-      <p>Tryck pa Hamta senaste nu for att lasa om senaste publika cache. Alla med lank kan anvanda sidan utan login.</p>
+      <p>Tryck pa Hamta alla kallor for att lasa om senaste publika cache for hela nyhetsvaggen. Alla med lank kan anvanda sidan utan login.</p>
       <div class="empty-state__actions">
-        <button class="pill pill--action" type="button" data-action="refresh-latest">Hamta senaste</button>
+        <button class="pill pill--action" type="button" data-action="refresh-latest">Hamta alla kallor</button>
         <a class="section-link" href="${escapeHtml(href || "#")}" target="_blank" rel="noreferrer">Oppna ${escapeHtml(label)}</a>
       </div>
     </div>
   `
+}
+
+function newBadgeMarkup(item) {
+  return isItemNew(item) ? `<span class="story-new-badge">Nytt</span>` : ""
 }
 
 function renderStoryCard(item, queueKey, variant = "standard") {
@@ -292,9 +341,11 @@ function renderStoryCard(item, queueKey, variant = "standard") {
       : "linear-gradient(180deg, rgba(5, 8, 14, 0.12), rgba(5, 8, 14, 0.92)), linear-gradient(135deg, rgba(47, 228, 255, 0.16), rgba(7, 9, 13, 0.5))"
 
   return `
-    <article class="story-card story-card--${escapeHtml(variant)} story-card--${escapeHtml(item.article_type)} ${item.is_live ? "story-card--live" : ""}">
+    <article class="story-card story-card--${escapeHtml(variant)} story-card--${escapeHtml(item.article_type)} ${item.is_live ? "story-card--live" : ""} ${isItemNew(item) ? "story-card--new" : ""}">
       <button class="story-card__button" type="button" ${queueDataset(item, queueKey)}>
-        <div class="story-card__media" ${cardBackground(item.image_url, overlay)}></div>
+        <div class="story-card__media" ${cardBackground(item.image_url, overlay)}>
+          ${newBadgeMarkup(item)}
+        </div>
         <div class="story-card__overlay">
           <div class="story-card__eyebrow">
             <span class="story-chip">${escapeHtml(itemKindLabel(item))}</span>
@@ -314,12 +365,14 @@ function renderStoryCard(item, queueKey, variant = "standard") {
 
 function renderFeaturePanel(item, queueKey, accentLabel) {
   return `
-    <article class="feature-panel ${item.is_live ? "feature-panel--live" : ""}">
+    <article class="feature-panel ${item.is_live ? "feature-panel--live" : ""} ${isItemNew(item) ? "feature-panel--new" : ""}">
       <button class="feature-panel__button" type="button" ${queueDataset(item, queueKey)}>
         <div
           class="feature-panel__media"
           ${cardBackground(item.image_url, "linear-gradient(180deg, rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.98))")}
-        ></div>
+        >
+          ${newBadgeMarkup(item)}
+        </div>
         <div class="feature-panel__content">
           <span class="feature-panel__label">${escapeHtml(accentLabel || itemKindLabel(item))}</span>
           <strong>${escapeHtml(item.title)}</strong>
@@ -333,12 +386,14 @@ function renderFeaturePanel(item, queueKey, accentLabel) {
 
 function renderBbcItem(item, queueKey) {
   return `
-    <article class="bbc-item">
+    <article class="bbc-item ${isItemNew(item) ? "bbc-item--new" : ""}">
       <button class="bbc-item__button" type="button" ${queueDataset(item, queueKey)}>
         <div
           class="bbc-item__thumb"
           ${cardBackground(item.image_url, "linear-gradient(135deg, rgba(13, 16, 27, 0.3), rgba(13, 16, 27, 0.78))")}
-        ></div>
+        >
+          ${newBadgeMarkup(item)}
+        </div>
         <div class="bbc-item__copy">
           <div class="story-card__eyebrow">
             <span class="story-chip">${escapeHtml(itemKindLabel(item))}</span>
@@ -366,9 +421,9 @@ function renderHero() {
           <span class="hero-badge">Public cache</span>
         </div>
         <h1 class="hero__title">The cinematic news wall is loading.</h1>
-        <p class="hero__summary">Sidan ar oppen for alla. Tryck pa Hamta senaste nu for att lasa om den senaste publika cachen nar som helst.</p>
+        <p class="hero__summary">Sidan ar oppen for alla. Tryck pa Hamta alla kallor for att lasa om den senaste publika cachen nar som helst.</p>
         <div class="hero__actions">
-          <button class="hero-button hero-button--primary" type="button" data-action="refresh-latest">Hamta senaste</button>
+          <button class="hero-button hero-button--primary" type="button" data-action="refresh-latest">Hamta alla kallor</button>
           <a class="hero-button hero-button--secondary" href="https://www.tv4play.se/nyheter" target="_blank" rel="noreferrer">Oppna kalla</a>
         </div>
       </div>
@@ -390,7 +445,7 @@ function renderHero() {
       <p class="hero__summary">${escapeHtml(trimText(featured.summary || featured.body_text, 220) || "Latest lead item from the current news wall.")}</p>
       <div class="hero__actions">
         <button class="hero-button hero-button--primary" type="button" ${queueDataset(featured, queueKey)}>${escapeHtml(itemActionLabel(featured))}</button>
-        <button class="hero-button hero-button--secondary" type="button" data-action="refresh-latest">Hamta senaste</button>
+        <button class="hero-button hero-button--secondary" type="button" data-action="refresh-latest">Hamta alla kallor</button>
       </div>
       <div class="hero__meta">
         <span>${escapeHtml(featured.source_name)}</span>
@@ -401,7 +456,7 @@ function renderHero() {
 }
 
 function renderTv4() {
-  const items = newestFirst(providerSources("TV4").flatMap((source) => source.articles || [])).slice(0, 10)
+  const items = nonLiveItems(newestFirst(providerSources("TV4").flatMap((source) => source.articles || []))).slice(0, 10)
   const queueKey = registerQueue("tv4", items)
   elements.tv4ViewAll.href = sourceById("tv4-nyheterna")?.display_url || "#"
   elements.tv4Rail.innerHTML = items.length
@@ -433,7 +488,7 @@ function renderSvtTabs() {
 
 function renderSvtRail() {
   const source = sourceById(state.activeSvtSourceId)
-  const items = newestFirst(source?.articles || []).slice(0, 10)
+  const items = nonLiveItems(newestFirst(source?.articles || [])).slice(0, 10)
   const queueKey = registerQueue(`svt:${source?.id || "empty"}`, items)
   elements.svtRail.innerHTML = items.length
     ? items.map((item) => renderStoryCard(item, queueKey)).join("")
@@ -442,7 +497,7 @@ function renderSvtRail() {
 
 function renderFox() {
   const foxSource = sourceById("fox-news")
-  const items = [...(foxSource?.articles || [])].sort((left, right) => (left.sort_order ?? 0) - (right.sort_order ?? 0))
+  const items = nonLiveItems([...(foxSource?.articles || [])].sort((left, right) => (left.sort_order ?? 0) - (right.sort_order ?? 0)))
   const queueKey = registerQueue("fox", items)
   elements.foxFeature.innerHTML = items[0]
     ? renderFeaturePanel(items[0], queueKey, "Top stories")
@@ -452,7 +507,7 @@ function renderFox() {
 
 function renderBbc() {
   const bbcSource = sourceById("bbc-video")
-  const items = newestFirst(bbcSource?.articles || []).slice(0, 6)
+  const items = nonLiveItems(newestFirst(bbcSource?.articles || [])).slice(0, 6)
   const queueKey = registerQueue("bbc", items)
   elements.bbcViewAll.href = bbcSource?.display_url || "#"
   elements.bbcList.innerHTML = items.length
@@ -474,7 +529,7 @@ function renderNewsroomSections() {
   elements.newsroomHub.innerHTML = newsroomGroups()
     .map(([provider, sources]) => {
       const activeSource = sourceById(state.activeNewsroomSourceByProvider[provider])
-      const items = newestFirst(activeSource?.articles || [])
+      const items = nonLiveItems(newestFirst(activeSource?.articles || []))
       const queueKey = registerQueue(`newsroom:${slugify(provider)}:${activeSource?.id || "empty"}`, items)
       const accent = providerAccent(provider)
       return `
@@ -730,6 +785,7 @@ function openReaderFromItem(item) {
 function openItemById(itemId, queueKey) {
   const item = itemById(itemId)
   if (!item) return
+  markItemSeen(itemId)
   setCurrentQueue(queueKey, itemId)
   if (item.article_type === "video") return openPlayerFromItem(item)
   openReaderFromItem(item)
@@ -747,12 +803,12 @@ function setRefreshButtonState(isRefreshing) {
     elements.refreshButton.disabled = isRefreshing
     elements.refreshButton.classList.toggle("is-loading", isRefreshing)
     elements.refreshButton.setAttribute("aria-busy", String(isRefreshing))
-    elements.refreshButton.setAttribute("aria-label", "Hamta senaste nu")
+    elements.refreshButton.setAttribute("aria-label", "Hamta alla kallor")
   }
   if (elements.refreshCommand) {
     elements.refreshCommand.disabled = isRefreshing
     elements.refreshCommand.classList.toggle("is-loading", isRefreshing)
-    elements.refreshCommand.textContent = isRefreshing ? "Hamtar senaste nu..." : "Hamta senaste nu"
+    elements.refreshCommand.textContent = isRefreshing ? "Hamtar alla kallor..." : "Hamta alla kallor"
   }
 }
 
@@ -772,9 +828,9 @@ function setRefreshMessage(message, tone = "info") {
 function setIdleMessage() {
   const latest = featuredLeadItem()
   if (!latest) {
-    return setRefreshMessage("Sidan ar publik och uppdateras automatiskt var 20:e minut. Tryck pa Hamta senaste nu for att lasa om senaste publika cache.", "warning")
+    return setRefreshMessage("Sidan ar publik och uppdateras automatiskt var 20:e minut. Tryck pa Hamta alla kallor for att lasa om hela den publika cachen.", "warning")
   }
-  setRefreshMessage(`Publik cache uppdaterad ${formatDate(state.payload?.generated_at)}. Sidan fortsatter att kontrollera nya klipp och stories automatiskt medan den ar oppen.`, "info")
+  setRefreshMessage(`Publik cache for alla kallor uppdaterad ${formatDate(state.payload?.generated_at)}. Sidan fortsatter att kontrollera nya klipp och stories automatiskt medan den ar oppen.`, "info")
 }
 
 function setNavButtonState(targetSelector) {
@@ -808,7 +864,7 @@ async function fetchPayload() {
 }
 
 async function syncLatestCache(options = {}) {
-  const { openLatestItem = false, background = false, announce = background ? "Kontrollerar om en ny publik cache finns..." : "Hamtar senaste publika cache..." } = options
+  const { openLatestItem = false, background = false, announce = background ? "Kontrollerar om en ny publik cache finns for alla kallor..." : "Hamtar senaste publika cache for alla kallor..." } = options
   if (state.isRefreshing) return
   state.isRefreshing = true
   setRefreshButtonState(true)
@@ -819,18 +875,18 @@ async function syncLatestCache(options = {}) {
     state.payload = await fetchPayload()
     render()
     const latest = featuredLeadItem()
-    if (!latest) return setRefreshMessage("Den publika cachen ar laddad men innehaller inga stories an. GitHub Actions fortsatter att uppdatera var 20:e minut.", "warning")
+    if (!latest) return setRefreshMessage("Den publika cachen ar laddad men innehaller inga stories an. GitHub Actions fortsatter att uppdatera alla kallor var 20:e minut.", "warning")
     const generatedAt = state.payload?.generated_at
     const hasNewerCache = previousGeneratedAt !== generatedAt
     if (openLatestItem) {
-      setRefreshMessage(hasNewerCache ? `Senaste publika cache hamtad ${formatDate(generatedAt)}. Oppnar senaste inslaget nu.` : `Du ser redan senaste publika cache ${formatDate(generatedAt)}. Oppnar senaste inslaget nu.`, "success")
-      return openItemById(latest.id, "all-latest")
-    }
-    if (background) {
-      if (hasNewerCache) setRefreshMessage(`Ny publik cache hittad ${formatDate(generatedAt)}. Sidan ar uppdaterad.`, "success")
+      setRefreshMessage(hasNewerCache ? `Alla kallor ar uppdaterade mot senaste publika cache ${formatDate(generatedAt)}.` : `Alla sektioner visar redan senaste publika cache ${formatDate(generatedAt)}.`, "success")
       return
     }
-    setRefreshMessage(hasNewerCache ? `Publik cache uppdaterad ${formatDate(generatedAt)}.` : `Du ser redan senaste publika cache ${formatDate(generatedAt)}.`, "success")
+    if (background) {
+      if (hasNewerCache) setRefreshMessage(`Ny publik cache hittad for alla kallor ${formatDate(generatedAt)}. Sidan ar uppdaterad.`, "success")
+      return
+    }
+    setRefreshMessage(hasNewerCache ? `Publik cache uppdaterad for alla kallor ${formatDate(generatedAt)}.` : `Du ser redan senaste publika cache for alla kallor ${formatDate(generatedAt)}.`, "success")
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error)
     setRefreshMessage(message, "error")
@@ -844,7 +900,7 @@ async function syncLatestCache(options = {}) {
 async function autoRefreshOnVisit() {
   if (state.autoRefreshTriggered) return
   state.autoRefreshTriggered = true
-  await syncLatestCache({ openLatestItem: false, background: false, announce: "Uppdaterar den publika cachen nar sidan oppnas..." })
+  await syncLatestCache({ openLatestItem: false, background: false, announce: "Uppdaterar den publika cachen for alla kallor nar sidan oppnas..." })
 }
 
 function startBackgroundPolling() {
@@ -868,7 +924,7 @@ document.addEventListener("click", (event) => {
     return render()
   }
   const refreshTarget = event.target.closest("[data-action='refresh-latest']")
-  if (refreshTarget) return void syncLatestCache({ openLatestItem: true })
+  if (refreshTarget) return void syncLatestCache({ openLatestItem: false })
   const navTarget = event.target.closest("[data-scroll-target]")
   if (navTarget) return scrollToTarget(navTarget.dataset.scrollTarget)
   const closeTarget = event.target.closest("[data-close-modal]")
@@ -899,11 +955,12 @@ elements.readerPrev?.addEventListener("click", () => stepQueue(-1))
 elements.readerNext?.addEventListener("click", () => stepQueue(1))
 elements.readerSpeak?.addEventListener("click", toggleSpeech)
 elements.readerSpeed?.addEventListener("click", cycleSpeechRate)
-elements.refreshButton?.addEventListener("click", () => void syncLatestCache({ openLatestItem: true }))
-elements.refreshCommand?.addEventListener("click", () => void syncLatestCache({ openLatestItem: true }))
+elements.refreshButton?.addEventListener("click", () => void syncLatestCache({ openLatestItem: false }))
+elements.refreshCommand?.addEventListener("click", () => void syncLatestCache({ openLatestItem: false }))
 
 async function bootstrap() {
   try {
+    state.seenItemIds = loadSeenItemIds()
     await ensureSourceCatalog()
     state.payload = await fetchPayload()
     render()

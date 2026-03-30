@@ -33,15 +33,15 @@
         </div>
         <div class="topbar-actions">
           <span class="topbar-icon topbar-icon--label topbar-icon--status" aria-label="Publik live-cache">LIVE</span>
-          <button id="refreshButton" class="topbar-icon" type="button" aria-label="Hamta senaste nu">&#8635;</button>
+          <button id="refreshButton" class="topbar-icon" type="button" aria-label="Hamta alla kallor">&#8635;</button>
         </div>
       </header>
 
       <main id="homeSection" class="mobile-feed">
         <section class="command-bar" aria-label="Uppdatera publikt nyhetsflode">
-          <button id="refreshCommand" class="command-button" type="button">Hamta senaste nu</button>
+          <button id="refreshCommand" class="command-button" type="button">Hamta alla kallor</button>
           <p class="command-note">
-            Publik sajt utan login. Cache uppdateras automatiskt var 20:e minut och kan laddas om direkt pa kommando.
+            Publik sajt utan login. Cache uppdateras automatiskt var 20:e minut och kan laddas om direkt for alla kallsidor pa kommando.
           </p>
           <p id="refreshMessage" class="sync-banner" hidden></p>
         </section>
@@ -101,7 +101,7 @@
               <span class="section-marker section-marker--live"></span>
               <h2>Live nu</h2>
             </div>
-            <button class="section-link section-link--button" type="button" data-action="refresh-latest">Refresh</button>
+            <button class="section-link section-link--button" type="button" data-action="refresh-latest">Refresh live</button>
           </div>
           <p class="section-caption section-caption--left">Direkta och live-nara floden samlade pa ett stalle.</p>
           <div id="liveFeature"></div>
@@ -139,7 +139,7 @@
         </button>
         <button class="bottom-nav__item" type="button" data-action="refresh-latest">
           <span class="bottom-nav__icon">&#8635;</span>
-          <span>Refresh</span>
+          <span>Alla källor</span>
         </button>
       </nav>
     </div>

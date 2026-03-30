@@ -38,8 +38,10 @@
 }
 
 .story-card__media {
+  position: relative;
   min-height: 214px;
   border-radius: 18px;
+  overflow: hidden;
   background-color: var(--surface-soft);
   background-position: center;
   background-size: cover;
@@ -146,7 +148,9 @@
 }
 
 .feature-panel__media {
+  position: relative;
   min-height: 290px;
+  overflow: hidden;
   background-color: var(--surface-soft);
   background-position: center;
   background-size: cover;
@@ -175,6 +179,31 @@
 
 .newsroom-feature {
   margin-bottom: 12px;
+}
+
+.bbc-item__thumb {
+  position: relative;
+  overflow: hidden;
+}
+
+.story-new-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 24px;
+  padding: 0 10px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #ff5f63, #d9111e);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  box-shadow: 0 10px 24px rgba(217, 17, 30, 0.35);
 }
 
 .modal-toolbar {
