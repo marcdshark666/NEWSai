@@ -54,7 +54,10 @@
               <span class="section-marker section-marker--tv4"></span>
               <h2>TV4 Nyheterna</h2>
             </div>
-            <a id="tv4ViewAll" class="section-link" href="#" target="_blank" rel="noreferrer">View all</a>
+            <div class="section-actions">
+              <button id="tv4Refresh" class="section-link section-link--button" type="button">Hamta TV4</button>
+              <a id="tv4ViewAll" class="section-link" href="#" target="_blank" rel="noreferrer">Open all</a>
+            </div>
           </div>
           <div id="tv4Rail" class="content-rail"></div>
         </section>
@@ -64,6 +67,10 @@
             <div class="section-title">
               <span class="section-marker section-marker--svt"></span>
               <h2>SVT Play</h2>
+            </div>
+            <div class="section-actions">
+              <button id="svtRefresh" class="section-link section-link--button" type="button">Hamta SVT</button>
+              <a id="svtViewAll" class="section-link" href="#" target="_blank" rel="noreferrer">Open current</a>
             </div>
           </div>
           <div id="svtTabs" class="pill-row"></div>
@@ -77,6 +84,10 @@
               <span class="section-marker section-marker--fox"></span>
               <h2>Fox News Video</h2>
             </div>
+            <div class="section-actions">
+              <button id="foxRefresh" class="section-link section-link--button" type="button">Hamta Fox</button>
+              <a id="foxViewAll" class="section-link" href="#" target="_blank" rel="noreferrer">Open all</a>
+            </div>
           </div>
           <div id="foxFeature"></div>
           <div id="foxRail" class="content-rail content-rail--compact"></div>
@@ -87,6 +98,9 @@
             <div class="section-title">
               <span class="section-marker section-marker--bbc"></span>
               <h2>BBC World</h2>
+            </div>
+            <div class="section-actions">
+              <button id="bbcRefresh" class="section-link section-link--button" type="button">Hamta BBC</button>
             </div>
           </div>
           <div id="bbcList" class="bbc-list"></div>
@@ -101,7 +115,9 @@
               <span class="section-marker section-marker--live"></span>
               <h2>Live nu</h2>
             </div>
-            <button class="section-link section-link--button" type="button" data-action="refresh-latest">Refresh live</button>
+            <div class="section-actions">
+              <button id="liveRefresh" class="section-link section-link--button" type="button">Hamta live</button>
+            </div>
           </div>
           <p class="section-caption section-caption--left">Direkta och live-nara floden samlade pa ett stalle.</p>
           <div id="liveFeature"></div>
