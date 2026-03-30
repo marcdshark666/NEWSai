@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import hashlib
 import json
@@ -56,16 +56,18 @@ VIDEO_BLOCKLIST = {
     "home",
     "spela",
     "play",
+    "watch",
     "watch now",
     "watch live",
-    "min lista",
     "my list",
+    "min lista",
     "visa beskrivning",
     "mer om programmet",
     "see more",
-    "watch",
     "authorize",
 }
+
+DIRECT_MEDIA_EXTENSIONS = (".m3u8", ".mp4", ".webm")
 
 
 def normalize_text(value: str | None) -> str:
@@ -78,11 +80,11 @@ def normalize_text(value: str | None) -> str:
 def fold_text(value: str | None) -> str:
     text = normalize_text(value).lower()
     return (
-        text.replace("å", "a")
+        text.replace("a", "a")
         .replace("ä", "a")
         .replace("ö", "o")
         .replace("é", "e")
-        .replace("ï", "i")
+        .replace("i", "i")
     )
 
 
@@ -146,8 +148,8 @@ def parse_date_value(value: str | None) -> str | None:
     folded = fold_text(candidate)
     relative_match = re.search(r"\b(idag|igar|imorgon)\b\s*(\d{1,2})[:.](\d{2})", folded)
     if relative_match:
-        day_map = {"igar": -1, "idag": 0, "imorgon": 1}
-        base = datetime.now(timezone.utc) + timedelta(days=day_map[relative_match.group(1)])
+        offsets = {"igar": -1, "idag": 0, "imorgon": 1}
+        base = datetime.now(timezone.utc) + timedelta(days=offsets[relative_match.group(1)])
         parsed = base.replace(
             hour=int(relative_match.group(2)),
             minute=int(relative_match.group(3)),
@@ -189,6 +191,7 @@ def extract_json_ld_values(soup: BeautifulSoup) -> list[dict[str, Any]]:
         raw = script.string or script.get_text(strip=True)
         if not raw:
             continue
+
         try:
             payload = json.loads(raw)
         except json.JSONDecodeError:
@@ -211,7 +214,41 @@ def extract_json_ld_values(soup: BeautifulSoup) -> list[dict[str, Any]]:
     return values
 
 
-def generic_video_metadata(url: str, fallback_title: str, play_mode: str = "page_iframe") -> dict[str, Any]:
+def media_mode(url: str) -> str:
+    lowered = url.lower()
+    return "media" if lowered.endswith(DIRECT_MEDIA_EXTENSIONS) else "iframe"
+
+
+def extract_embed_target(url: str, soup: BeautifulSoup) -> tuple[str, str]:
+    fox_match = re.search(r"/video/(\d+)", url)
+    if fox_match:
+        return (f"https://video.foxnews.com/v/video-embed.html?video_id={fox_match.group(1)}", "iframe")
+
+    meta_candidates = [
+        soup.find("meta", attrs={"name": "twitter:player"}),
+        soup.find("meta", attrs={"property": "twitter:player"}),
+        soup.find("meta", attrs={"property": "og:video:url"}),
+        soup.find("meta", attrs={"property": "og:video:secure_url"}),
+        soup.find("meta", attrs={"property": "og:video"}),
+    ]
+
+    for candidate in meta_candidates:
+        if not candidate:
+            continue
+        target = normalize_text(candidate.get("content"))
+        if target:
+            return (target, media_mode(target))
+
+    for item in extract_json_ld_values(soup):
+        for key in ("embedUrl", "contentUrl"):
+            target = normalize_text(item.get(key))
+            if target:
+                return (target, media_mode(target))
+
+    return (url, "page_iframe")
+
+
+def generic_page_metadata(url: str, fallback_title: str) -> dict[str, Any]:
     html = fetch_text(url)
     soup = BeautifulSoup(html, "html.parser")
 
@@ -243,25 +280,22 @@ def generic_video_metadata(url: str, fallback_title: str, play_mode: str = "page
     if og_image:
         image_url = normalize_text(og_image.get("content"))
 
-    meta_dates = [
+    for meta_node in [
         soup.find("meta", attrs={"property": "article:published_time"}),
         soup.find("meta", attrs={"name": "article:published_time"}),
         soup.find("meta", attrs={"property": "og:updated_time"}),
         soup.find("meta", attrs={"name": "date"}),
-    ]
-    for meta_date in meta_dates:
-        if not meta_date:
+    ]:
+        if not meta_node:
             continue
-        published_at = parse_date_value(meta_date.get("content"))
+        published_at = parse_date_value(meta_node.get("content"))
         if published_at:
             break
 
     if not published_at:
         for item in extract_json_ld_values(soup):
             for key in ("datePublished", "dateCreated", "dateModified", "uploadDate"):
-                if key not in item:
-                    continue
-                published_at = parse_date_value(str(item[key]))
+                published_at = parse_date_value(str(item.get(key, "")))
                 if published_at:
                     break
             if published_at:
@@ -270,21 +304,16 @@ def generic_video_metadata(url: str, fallback_title: str, play_mode: str = "page
     if not published_at:
         published_at = parse_date_value(soup.get_text(" ", strip=True))
 
-    metadata = {
+    embed_url, play_mode = extract_embed_target(url, soup)
+
+    return {
         "title": title or fallback_title or url,
         "summary": summary,
         "image_url": image_url,
         "published_at": published_at,
-        "embed_url": url,
+        "embed_url": embed_url,
         "play_mode": play_mode,
     }
-
-    fox_match = re.search(r"/video/(\d+)", url)
-    if fox_match:
-        metadata["embed_url"] = f"https://video.foxnews.com/v/video-embed.html?video_id={fox_match.group(1)}"
-        metadata["play_mode"] = "iframe"
-
-    return metadata
 
 
 def looks_like_video_title(title: str) -> bool:
@@ -326,14 +355,30 @@ def collect_candidates(fetch_url: str, pattern: str, limit: int, require_anchor_
     return candidates
 
 
+def empty_source_payload(source: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "id": source["id"],
+        "name": source["name"],
+        "provider": source.get("provider", source["name"]),
+        "category": source.get("category", "Video"),
+        "description": source.get("description", ""),
+        "display_url": source["displayUrl"],
+        "fetch_url": source["fetchUrl"],
+        "status": "pending",
+        "article_count": 0,
+        "priority_split": int(source.get("prioritySplit", 0)),
+        "articles": [],
+    }
+
+
 def build_video_items(source: dict[str, Any], candidates: list[dict[str, str]], order_by_time: bool) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
-    seen: set[str] = set()
+    seen_titles: set[str] = set()
     max_items = int(source.get("maxItems", 12))
 
     for candidate in candidates:
         try:
-            metadata = generic_video_metadata(candidate["url"], candidate.get("list_title", ""))
+            metadata = generic_page_metadata(candidate["url"], candidate.get("list_title", ""))
         except requests.RequestException:
             metadata = {
                 "title": candidate.get("list_title") or candidate["url"],
@@ -345,10 +390,10 @@ def build_video_items(source: dict[str, Any], candidates: list[dict[str, str]], 
             }
 
         title = normalize_text(metadata["title"])
-        title_key = fold_text(title)
-        if not title or title_key in seen:
+        key = fold_text(title)
+        if not title or key in seen_titles:
             continue
-        seen.add(title_key)
+        seen_titles.add(key)
 
         items.append(
             {
@@ -387,8 +432,8 @@ def build_rss_payload(source: dict[str, Any]) -> dict[str, Any]:
         xml_text = fetch_text(source["fetchUrl"])
         root = ET.fromstring(xml_text)
         channel_items = root.findall("./channel/item")
-
         media_ns = "{http://search.yahoo.com/mrss/}"
+
         items: list[dict[str, Any]] = []
         for index, item in enumerate(channel_items[:max_items]):
             title = normalize_text(item.findtext("title"))
@@ -404,6 +449,19 @@ def build_rss_payload(source: dict[str, Any]) -> dict[str, Any]:
             if not title or not url:
                 continue
 
+            embed_url = url
+            play_mode = "page_iframe"
+            try:
+                page_metadata = generic_page_metadata(url, title)
+                title = normalize_text(page_metadata["title"]) or title
+                summary = page_metadata["summary"] or summary
+                image_url = page_metadata["image_url"] or image_url
+                published_at = page_metadata["published_at"] or published_at
+                embed_url = page_metadata["embed_url"]
+                play_mode = page_metadata["play_mode"]
+            except requests.RequestException:
+                pass
+
             items.append(
                 {
                     "id": hashlib.sha1(url.encode("utf-8")).hexdigest()[:12],
@@ -416,8 +474,8 @@ def build_rss_payload(source: dict[str, Any]) -> dict[str, Any]:
                     "url": url,
                     "image_url": image_url,
                     "published_at": published_at,
-                    "embed_url": url,
-                    "play_mode": "page_iframe",
+                    "embed_url": embed_url,
+                    "play_mode": play_mode,
                     "sort_order": index,
                 }
             )
@@ -430,22 +488,6 @@ def build_rss_payload(source: dict[str, Any]) -> dict[str, Any]:
         payload["error"] = str(exc)
 
     return payload
-
-
-def empty_source_payload(source: dict[str, Any]) -> dict[str, Any]:
-    return {
-        "id": source["id"],
-        "name": source["name"],
-        "provider": source.get("provider", source["name"]),
-        "category": source.get("category", "Video"),
-        "description": source.get("description", ""),
-        "display_url": source["displayUrl"],
-        "fetch_url": source["fetchUrl"],
-        "status": "pending",
-        "article_count": 0,
-        "priority_split": int(source.get("prioritySplit", 0)),
-        "articles": [],
-    }
 
 
 def build_source_payload(source: dict[str, Any]) -> dict[str, Any]:
@@ -529,3 +571,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

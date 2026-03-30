@@ -3,83 +3,147 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>NEWSai Video Wall</title>
+    <title>Cinema News</title>
     <meta
       name="description"
-      content="En Netflix-inspirerad videovagg for nyheter fran TV4, SVT Play, Fox News och BBC."
+      content="Mobil nyhetsvideo med TV4, SVT Play, Fox News och BBC i en filmisk videovagg."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@400;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Space+Grotesk:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
     <link rel="stylesheet" href="./styles.css" />
     <script src="./app.js" defer></script>
   </head>
   <body>
     <div class="app-shell">
-      <header id="hero" class="hero"></header>
+      <header class="topbar">
+        <button class="icon-button" type="button" aria-label="Open menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="brand-lockup" aria-label="Cinema News">
+          <span>CINEMA</span>
+          <span>NEWS</span>
+        </div>
+        <div class="topbar-actions">
+          <button class="topbar-icon" type="button" aria-label="Search">&#9906;</button>
+          <button id="refreshButton" class="topbar-icon" type="button" aria-label="Refresh">&#8635;</button>
+        </div>
+      </header>
 
-      <main class="catalog">
-        <section class="summary-strip">
-          <div class="summary-card">
-            <span class="summary-label">Senast uppdaterad</span>
-            <strong id="generatedAt">Vantar pa data</strong>
+      <main class="mobile-feed">
+        <section id="hero" class="hero"></section>
+
+        <section class="stream-section">
+          <div class="section-head">
+            <div class="section-title">
+              <span class="section-marker section-marker--tv4"></span>
+              <h2>TV4 Nyheterna</h2>
+            </div>
+            <a id="tv4ViewAll" class="section-link" href="#" target="_blank" rel="noreferrer">View all</a>
           </div>
-          <div class="summary-card">
-            <span class="summary-label">Kallor</span>
+          <div id="tv4Rail" class="content-rail"></div>
+        </section>
+
+        <section class="stream-section">
+          <div class="section-head">
+            <div class="section-title">
+              <span class="section-marker section-marker--svt"></span>
+              <h2>SVT Play</h2>
+            </div>
+          </div>
+          <div id="svtTabs" class="pill-row"></div>
+          <p class="section-caption">Latest from SVT</p>
+          <div id="svtRail" class="content-rail"></div>
+        </section>
+
+        <section class="stream-section stream-section--fox">
+          <div class="section-head">
+            <div class="section-title">
+              <span class="section-marker section-marker--fox"></span>
+              <h2>Fox News Video</h2>
+            </div>
+          </div>
+          <div id="foxFeature"></div>
+          <div id="foxRail" class="content-rail content-rail--compact"></div>
+        </section>
+
+        <section class="stream-section stream-section--bbc">
+          <div class="section-head">
+            <div class="section-title">
+              <span class="section-marker section-marker--bbc"></span>
+              <h2>BBC News</h2>
+            </div>
+          </div>
+          <div id="bbcList" class="bbc-list"></div>
+          <a id="bbcViewAll" class="bbc-button" href="#" target="_blank" rel="noreferrer">View all BBC stories</a>
+        </section>
+
+        <section class="status-strip">
+          <div class="status-item">
+            <span>Updated</span>
+            <strong id="generatedAt">Waiting</strong>
+          </div>
+          <div class="status-item">
+            <span>Sources</span>
             <strong id="sourceCount">0</strong>
           </div>
-          <div class="summary-card">
-            <span class="summary-label">Videor</span>
+          <div class="status-item">
+            <span>Videos</span>
             <strong id="videoCount">0</strong>
           </div>
-          <button id="refreshButton" class="refresh-button" type="button">Uppdatera vy</button>
         </section>
-
-        <section class="section-shell">
-          <div class="section-heading">
-            <p class="section-kicker">Nyast overallt</p>
-            <h2>Senaste videoflodet</h2>
-          </div>
-          <div id="latestRow" class="shelf rail rail-large"></div>
-        </section>
-
-        <div id="providerSections" class="provider-sections"></div>
       </main>
+
+      <nav class="bottom-nav" aria-label="Primary navigation">
+        <button class="bottom-nav__item is-active" type="button">
+          <span class="bottom-nav__icon">&#8962;</span>
+          <span>Home</span>
+        </button>
+        <button class="bottom-nav__item" type="button">
+          <span class="bottom-nav__icon">&#9638;</span>
+          <span>Sections</span>
+        </button>
+        <button class="bottom-nav__item" type="button">
+          <span class="bottom-nav__icon">&#9654;</span>
+          <span>Live</span>
+        </button>
+        <button class="bottom-nav__item" type="button">
+          <span class="bottom-nav__icon">&#9679;</span>
+          <span>Profile</span>
+        </button>
+      </nav>
     </div>
 
     <div id="playerModal" class="player-modal" hidden>
-      <div class="player-backdrop" data-close-modal="true"></div>
-      <div class="player-dialog" role="dialog" aria-modal="true" aria-labelledby="playerTitle">
-        <div class="player-topline">
+      <div class="player-modal__backdrop" data-close-modal="true"></div>
+      <div class="player-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="playerTitle">
+        <div class="player-modal__top">
           <div>
-            <p class="section-kicker">Spelar nu</p>
-            <h2 id="playerTitle">Video</h2>
+            <p class="mini-label">Now playing</p>
+            <h3 id="playerTitle">Video</h3>
           </div>
-          <button id="closePlayer" class="close-button" type="button" aria-label="Stang spelare">
-            Stang
-          </button>
+          <button id="closePlayer" class="close-button" type="button">Close</button>
         </div>
 
-        <div class="player-frame-wrap">
+        <div class="player-modal__frame">
           <iframe
             id="playerFrame"
-            title="Inbaddad video"
+            title="News video player"
             allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
             allowfullscreen
           ></iframe>
+          <video id="playerVideo" controls playsinline hidden></video>
         </div>
 
-        <div class="player-footer">
-          <p>
-            Om en kalla blockerar inbaddning i iframe kan du alltid oppna videon direkt hos
-            originalkallan.
-          </p>
-          <a id="playerFallback" class="fallback-link" href="#" target="_blank" rel="noreferrer">
-            Oppna hos kallan
-          </a>
+        <div class="player-modal__footer">
+          <p>Om en video fortfarande blockerar spelning i sidan finns originalkallan alltid har.</p>
+          <a id="playerFallback" href="#" target="_blank" rel="noreferrer">Open source</a>
         </div>
       </div>
     </div>
