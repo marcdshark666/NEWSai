@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T09:58:13Z",
+  "generated_at": "2026-04-04T11:05:41Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -259,7 +259,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Stormen Dave på väg mot Sverige: ”20 meter per sekund” Trafiken i påsk – omkörningsförbud och sänkt hastighet Berättar om fördomarna och mardrömsbeskedet • ”Hela rummet skakade” Ännu ett sund kan stängas • ”Direkt inverkan på Sverige” • Populära varorna blir dyrare Sågar en ”poserande” Trump: ”Han lämnar självklart inte” Republikaner och demokrater går samman – efter Trumps uttalande ”Man kan lätt offra flera liv för att rädda en eller två” Källor: Underskattar Iran – kan ”fullständigt förgöra” regionen",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Overshoot Day – tidigare än någonsin • ”Vi går åt helt fel håll” Storbråk om klimatet: ”Noll trovärdighet när de säger så” Attackerar klimatministern: ”Hon har inte heller nån trovärdighet” Stormen Dave på väg mot Sverige: ”20 meter per sekund” Trafiken i påsk – omkörningsförbud och sänkt hastighet Berättar om fördomarna och mardrömsbeskedet • ”Hela rummet skakade”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -270,7 +270,7 @@
             "Ekonomi",
             "TV4"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         },
         {
@@ -2175,6 +2175,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "8b029b805eee",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Senegal bans ministers from foreign travel as oil price rise bites",
+          "summary": "The fuel cost is nearly double what the government budgeted for putting pressure on stretched finances.",
+          "body_text": "Government ministers in Senegal have been banned from all non-essential foreign travel following the rise in the price of oil resulting from the conflict in Iran, the prime minister has announced. Speaking at a youth rally on Friday, Ousmane Sonko said that the current cost of a barrel of oil was approaching double what had been budgeted for. Sonko has postponed his own trips to Niger and Spain as part of the restrictions. He said that the mines minister would announce further measures to curb government spending in the coming week. Senegal's move is the latest response from the continent to the oil price rise, which has seen countries reducing fuel levies and rationing electricity. In his speech to young people, the prime minister said he did not want to \"frighten\" his audience or put pressure on them. Instead, he wanted to give them a \"sense of this world, which is a difficult world\", but added that though things were hard the Senegalese were resilient. Despite a fledgling oil and gas industry, Senegal relies heavily on importing fuel. Last year, the International Monetary Fund described the economy as \"robust\" with a growth rate of almost 8% and low inflation. But its public debt – standing at more than 130% of the total annual size of the economy - is high. Sonko, installed as prime minister two years ago, blamed the previous government for saddling his administration with the debt, which he said had made the current situation of dealing with the price of oil even more difficult. Elsewhere on the continent, this week South Africa's government responded to the rising oil price by reducing the tax it charges on petrol in an effort to limit the increase of the cost of fuel at the pumps. Fuel shortages in Ethiopia have forced some government institutions to send employees on annual leave. South Sudan has started to ration electricity in its capital, Juba, while Zimbabwe is increasing the ethanol content in its petrol. The effective closure of the Strait of Hormuz in the Persian Gulf as a result of the US-Israeli war on Iran has also led to a restriction of the supply of fertiliser to the rest of the world. An estimated 30% of this essential farming input goes through the Gulf. Humanitarian organisation the International Rescue Committee warned on Wednesday that this was a \"food security timebomb\", particularly for East Africa which relies on fertiliser imports from the Middle East.",
+          "url": "https://www.bbc.com/news/articles/cp84z5r4d32o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3764/live/cb2fe310-300c-11f1-8d50-677398226ba9.jpg",
+          "published_at": "2026-04-04T10:15:01Z",
+          "embed_url": "https://www.bbc.com/news/articles/cp84z5r4d32o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "6882b4821747",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2196,23 +2220,71 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
-          "id": "eec709bc825f",
+          "id": "6d35459d9b24",
           "source_id": "bbc-video",
           "source_name": "BBC World",
           "provider": "BBC",
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Abuja community evicted to build Nigeria's capital: 'We want a voice in our land'",
-          "summary": "People evicted to build Nigeria's capital accuse the government of failing to fulfill its promises to them.",
-          "body_text": "Now in her 80s, Lami Ezekiel remembers construction crews arriving in her ancestral home in Maitama, as it was destroyed to build Nigeria's capital, Abuja. \"We just saw big trucks and construction vehicles destroying our farms,\" she recalls. This was in the late 1980s. She, like others who lived on the land on which the city was built, say they are still waiting for the compensation they were promised at the time. The planning for the new capital right in the centre of the country began a decade earlier. On 4 February 1976, the military government led by Murtala Muhammed created an area called the Federal Capital Territory (FCT) - 7,315 sq km (2,824 sq miles) of land carved from Niger, Plateau and Kaduna states. Born in 1982 in Kabusa, which lies within the FCT, Isaac David remembers a childhood of streams and farmland where families drank water from springs and cultivated land that had sustained them for generations. Today, where streams once flowed, stands a luxury hotel - the Transcorp Hilton Abuja. Land once planted with crops now holds buildings such as the United Nations headquarters and the embassy of the United States. Nigeria's seat of power, the Aso Rock presidential villa, rests on what was once a community shrine. \"Those of us who want to farm now have to go and buy farmland on the outskirts of town,\" says David, who now owns farms in neighbouring Niger state. Lagos, the former capital, was seen as vulnerable because of its coastal location and politically sensitive because it lay in the heart of Yoruba land in a country managing ethnic rivalries. Abuja was presented as neutral territory - officially described as \"no man's land\".",
-          "url": "https://www.bbc.com/news/articles/clyggr00x5vo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9a9a/live/e28392a0-291d-11f1-934f-036468834728.jpg",
-          "published_at": "2026-04-04T00:17:20Z",
-          "embed_url": "https://www.bbc.com/news/articles/clyggr00x5vo",
+          "title": "Peru stadium football rally leaves one dead and dozens injured",
+          "summary": "Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.",
+          "body_text": "An incident ahead of a local football derby in the Peruvian capital Lima has left one fan dead and dozens injured. Officials are investigating the cause. Initial reports suggested parts of the stadium's wall and structure had collapsed, which has since been disputed. Confirming the death, Peruvian Health Minister Juan Carlos Velasco Guerrero told media at a Lima hospital that 47 people were hurt - three of whom are in a critical condition. Hundreds had gathered around Alejandro Villanueva Stadium wearing football shirts and waving flags of the home team, Alianza Lima, ahead of a match against local rivals Universitario de Deportes. Fire Chief Marcos Pajuelo told reporters that the structure of the southern stands appeared to be in good condition. \"There are no collapsed walls or sections fallen into the pit,\" Pajuelo said. Saturday night's match will still go ahead as planned, the football league said. Earlier, the interior ministry published on X that 40 firefighters responded to an emergency at the stadium \"involving people trapped in a structure\". However, Alianza Lima later published a statement , also on X, that said: \"According to the preliminary information available, the incident is not related to the collapse of walls or structural facilities of the sports complex\". The Peruvian Professional Football League's said in a statement that authorities are investigating the circumstances of the rally and highlighted its \"commitment to the safety and well-being of all attendees at sporting events.\"",
+          "url": "https://www.bbc.com/news/articles/ckgxyn3ljgjo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c761/live/64486520-2fdd-11f1-b297-95b0a0a8331e.jpg",
+          "published_at": "2026-04-04T06:26:21Z",
+          "embed_url": "https://www.bbc.com/news/articles/ckgxyn3ljgjo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "9b93dce2b142",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "How Canada's largest gun control effort in decades is missing the mark",
+          "summary": "Canada recently banned 2,500 models of \"assault-style\" firearms - but a plan to buy-back tens of thousands of guns fell short by half.",
+          "body_text": "Heidi Rathjen has been calling for a ban on assault-style rifles since 1989, when a gunman opened fire on her classmates at Montreal's École Polytechnique. The shooting, in which 14 women were killed and more than a dozen injured, was a turning point for Canada, changing how the country viewed gun violence. More than two decades later, after another deadly mass shooting in 2020, Ottawa did roll out a ban on some 2,500 models of such \"assault-style\" weapons. But a scheme designed to buy back these now-prohibited guns from their owners has had a bumpy roll out, and the programme looks likely to miss the mark. Many legal gun owners are distrustful of the process, two provinces have refused to take part, and even gun control activists like Rathjen say the federal efforts, though a win for public safety, are flawed because the ban does not apply widely enough. \"Without a comprehensive ban on assault weapons, there is no ban… and the money will be wasted,\" said Rathjen, a spokesperson for gun control advocacy group PolySeSouvient. Even Canada's own minister of public safety, Gary Anandasangaree, was caught criticising his government's plan in an audio clip leaked to the Toronto Star. \"Don't ask me to explain the logic to you on this,\" he told a Toronto man in a secretly recorded conversation late last year, when pressed on programme's value when most gun crimes in Canada are committed with illegal weapons. Anandasangaree later said his comments were \"misguided\", and that he believes in the programme's importance. So why is Canada struggling with a measure that saw success in places like Australia - where 650,000 firearms were bought back and destroyed after the Port Arthur massacre in 1996, according to figures by the Australian government - and New Zealand, which collected around 56,000 firearms after the Christchurch mosque shooting in 2019? Joel Negin, a professor of public health at the University of Sydney, said Australia's measures in 1996 largely worked because they were part of a broad suite of measures implemented \"very quickly\" after the massacre. Australia's programme was also well-funded thanks to a short-term levy that was placed on taxpayers, he noted.",
+          "url": "https://www.bbc.com/news/articles/cvg09dq4x5qo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9241/live/b54682b0-2ec8-11f1-bb7c-976587a5003c.jpg",
+          "published_at": "2026-04-04T00:32:45Z",
+          "embed_url": "https://www.bbc.com/news/articles/cvg09dq4x5qo",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "b9e0f2de06d5",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Mapping Bombay's metamorphosis from imperial fort city to modern megapolis",
+          "summary": "A new exhibition charts Bombay's passage through the centuries via paintings, photographs and prints.",
+          "body_text": "From seven islands to a city of 20 million, Bombay (now Mumbai) has been shaped over centuries by political, economic and social forces. From Koli fisherfolk to colonial planners, and Bollywood stars to textile barons, many have influenced the western Indian city's landscape and identity. The city is ever-evolving, the past giving way to the future, birthing new guises and blurring the old. From fishing nets to ports and mills to malls, Bombay has constantly reinvented itself and remained a city in flux. A new exhibition 'Bombay Framed' charts the city's shape-shifting passage through the centuries using a stunning array of paintings, photographs and multimedia prints. More than 100 images spanning three centuries have an extraordinary range that document the city in its full diversity from the elite worlds of Zoroastrian merchants and cinema stars to working-class lives of ordinary citizens. \"Together they invite us to see the city itself as a kind of artwork: layered, complex and made up of many different experiences,\" Gyan Prakash, curator of the exhibition organised by DAG art gallery, told the BBC. According to Prakash there are a few key moments when Bombay really changed - in the 1830s and 40s, when reclamations and bunds joined the seven separate islets into a single island city. Two decades later, in the 1860s, the fort walls came down, paving the way for imperial buildings to come up which gave the city its distinct colonial identity. In the 1920s and 30s the Marine Drive corniche, with its Art Deco buildings was constructed, birthing a uniquely modern architectural style that departed from the earlier Victorian Gothic character. Since the 2000s the city's planners have been preoccupied with building more utilitarian infrastructure, with new sea bridges and coastal roads, radically transforming how the city looks today. Through its history, Bombay has remained a city of stark contradictions and wild extremes - luxury towers jostling for space with shanty towns, the restless chaos of the city standing in contrast to the calmness of the ocean surrounding it and heritage structures co-existing with the city's modern pursuits. This is a city of ancient caves but also of modern mills and atomic research facilities, which makes it impossible for two people to view it in the same way.",
+          "url": "https://www.bbc.com/news/articles/cj60k3x879ro",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2fed/live/d6ab00b0-273f-11f1-a79a-77e93010d956.jpg",
+          "published_at": "2026-04-04T00:09:54Z",
+          "embed_url": "https://www.bbc.com/news/articles/cj60k3x879ro",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2220,7 +2292,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "44353a803068",
@@ -2244,7 +2316,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "a85da12b503c",
@@ -2268,7 +2340,31 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
+        },
+        {
+          "id": "daaffb3444c6",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+          "summary": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
+          "body_text": "Ukrainian President Volodymyr Zelensky has accused Moscow of choosing \"Easter escalation\" over an Easter ceasefire after Russia carried out another deadly large-scale drone and missile attack on Ukraine. Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles across the country. Major daytime attacks, which were once rare, have been increasing. It's happening as efforts to end the war, led by the US, have stalled since US President Donald Trump and his team shifted focus to the conflict in the Middle East. Meanwhile, Zelensky agreed with a British intelligence assessment that the situation on the frontline in the east was the \"most favourable\" for Ukraine in 10 months, as the advance of Russian troops appears to have slowed. But there has been no let-up in the air raids. In the Zhytomyr region, west of Ukraine's capital, Kyiv, rescuers had to search for survivors beneath the rubble of their homes as a whole line of houses was destroyed. In the Kyiv region, a drone was filmed careering towards a block of flats, then slamming into its side, starting a fire. In Kharkiv, in north-eastern Ukraine, a woman was killed and other people were critically injured in a day of strikes the mayor called \"one of the biggest\" on the city so far. Zelensky described the barrage as Russia's response to his proposal of a temporary truce for the holidays: Orthodox Christians celebrate Easter next weekend both in Ukraine and in Russia. \"The Russians have only intensified their strikes, turning what should have been silence in the skies into an Easter escalation,\" he wrote on X. In recent days, Ukraine has launched multiple deep strikes of its own, targeting energy facilities on the northern coast of Russia in particular. One port, in Ust-Luga, has been hit by drones multiple times, forcing Russia to suspend exports.",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
+          "published_at": "2026-04-03T20:43:33Z",
+          "embed_url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 7
         },
         {
           "id": "716e59dcf7e6",
@@ -2292,31 +2388,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "9381be25368e",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Dezi Freeman: Questions remain after Australian fugitive's death",
-          "summary": "Double-murderer Dezi Freeman evaded capture for seven months in the bush but police believe he had help.",
-          "body_text": "Just weeks ago, from the foothills of the mountains Dezi Freeman had disappeared into months before, police told the world they \"strongly\" believed Australia's most wanted man was dead. The well-known conspiracy theorist and self-described \"sovereign citizen\" had escaped into dense bushland near the small Victorian town of Porepunkah in August, immediately after shooting and killing two police officers who had come to search his home in relation to historical child sex abuse offences. But on Monday morning, Australia woke to the news that Freeman had been found alive after one of the largest manhunts in Australian history - only to have been killed in a standoff at a remote farm where he had set up camp. His death has brought a semblance of closure to some of those affected, surfaced complicated feelings in others, and raised many questions. Not least among them: where had Freeman spent the past seven months - and did he have help? Police had spent at least 24 hours staking out the ramshackle campsite on a property in Thologolong, a town near the Victorian/New South Wales border, before calling on Freeman - real name Desmond Filby - to surrender. \"We gave him every opportunity to come out peacefully and safely. He didn't take that option,\" Victoria Chief Commissioner of Police Mike Bush said. After three hours, Freeman came out of one of the three old shipping containers at the camp at around 8:30 local time (22:30 Sunday BST), bearing a gun stolen from the slain officers. He was shot by multiple police snipers simultaneously, local media have reported, citing police sources. It was a shock for locals – including the elderly farmer who owns the land, according to his family. Richard Sutherland has been in Tasmania for months, his brother and neighbour Neil Sutherland has said, and he certainly did not know Freeman or sympathise with his beliefs. Appearing in Thologolong and its surrounds recently, however, were a handful of road signs graffitied with Freeman's name – something Janice Newnham told the BBC she'd thought was \"somebody's April Fool's Day joke\". The local cattle farmer is still sceptical that locals in the town of 22 could have known where Freeman was hiding.",
-          "url": "https://www.bbc.com/news/articles/cg7358zzz0no",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6dc8/live/9c3419e0-2e69-11f1-a79a-77e93010d956.png",
-          "published_at": "2026-04-03T19:19:02Z",
-          "embed_url": "https://www.bbc.com/news/articles/cg7358zzz0no",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "76e2e3efd559",
@@ -2340,7 +2412,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "6c2b45f41e45",
@@ -2364,7 +2436,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 10
         },
         {
           "id": "271cfe43e4b4",
@@ -2388,31 +2460,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "66e330ef0ea8",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "US deports eight people 'of African origin' to Uganda",
-          "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
-          "body_text": "Eight people from different African countries have been deported to Uganda from the United States, the first such transfer under a migration deal signed last year. The group arrived on Wednesday after a US judge approved their cases, Uganda's foreign ministry said. The ministry said in a statement that its deal with the US designated Uganda as a safe third country for migrants who cannot return to their countries, for reasons such as persecution. The Uganda Law Society has condemned the deportations, saying the individuals had effectively been dumped in the country \"through an undignified, harrowing and dehumanising process\". The organisation called the process illegal and said it would challenge it in court. The BBC has asked the US Department of Homeland Security for comment. US President Donald Trump's administration has deported dozens of people to third countries since coming into power last January - part of its hard-line approach towards immigration. Human rights campaigners have condemned the policy, with some questioning its legality. It said they were neither Ugandan nor US citizens but were \"of African origin who may not be granted asylum in the USA and are reluctant to or may have concerns about returning to their country of origin\". The BBC's US partner CBS News reports that Uganda agreed to accept deported migrants as long as they did not have criminal histories. According to the US, many of those transferred to other third countries have been convicted criminals. Since the start of his second term, Trump has embarked on sweeping efforts to remove undocumented migrants - a key election promise that drew mass support during this campaign.",
-          "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c493/live/68ed97c0-2f70-11f1-a79a-77e93010d956.jpg",
-          "published_at": "2026-04-03T16:22:45Z",
-          "embed_url": "https://www.bbc.com/news/articles/c8ej43z8yw4o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 9
+          "sort_order": 11
         },
         {
           "id": "24283c417458",
@@ -2429,54 +2477,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c9f0/live/4152aaf0-2f72-11f1-8612-f1cd1152f88c.jpg",
           "published_at": "2026-04-03T15:34:13Z",
           "embed_url": "https://www.bbc.com/news/articles/crr1q4kjvn2o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "71a1864c8e31",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "France's Muslim gathering ban overturned by courts",
-          "summary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
-          "body_text": "A major gathering of Muslims in northern Paris is going ahead as planned after a French court overturned a government bid to ban it. The Paris police department argued that the four-day Annual Encounter of Muslims of France was a security threat because it could be a target of terrorism. But the organisers – the Muslims of France (MF) association – sought an emergency injunction to let the event go ahead, arguing that a ban would be a breach of basic liberties. The administrative court agreed and overturned the government decree, just two hours before the planned 14:00 (13:00 BST) opening. The court said in its ruling that elements provided by police \"did not establish the risk of counter-demonstrations, or that the gathering would be targeted by far-right groups\". It also dismissed the argument that the event would pose an unacceptable strain on police resources, noting that the organisers had themselves assured extra security. Part cultural and religious conference, part trade fair, the gathering used to be an annual event, but has not been held since 2019. Before that it regularly drew tens of thousands of people from across Europe. The Muslims of France association - France's biggest Muslim body - is said by critics to be close to the international Muslim Brotherhood, though it denies that. Earlier, in justifying the ban, the Paris police department said that in \"an international and national context which is particularly tense\", the gathering was \"exposed to an important terrorist risk toward the Muslim community\". \"In a context of political agitation and a heavy polarisation of debate\" it was possible that \"small far-right groups could mobilise with a view to disrupting the event\", it said. It also claimed that actions against the gathering could be \"conducted remotely by foreign influences\". France has regularly accused Russia, as well as Iran, of stirring up dissension by paying proxies to carry out small-scale acts of provocation or sabotage.",
-          "url": "https://www.bbc.com/news/articles/cwyjekvwww0o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1667/live/4c676ee0-2f67-11f1-a79a-77e93010d956.jpg",
-          "published_at": "2026-04-03T10:49:26Z",
-          "embed_url": "https://www.bbc.com/news/articles/cwyjekvwww0o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 11
-        },
-        {
-          "id": "9d6baf8cf9a3",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Captain Ibrahim Traoré says Burkina Faso must 'forget' about democracy",
-          "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
-          "body_text": "Democracy \"kills\" and the people of Burkina Faso must \"forget\" it, the country's military ruler has said in an interview aired on state television. Capt Ibrahim Traoré, who seized power in a coup three years ago, suggested most Africans do not want the system of democracy and that Burkina Faso had its own, alternative approach, without giving details. Traoré initially pledged to restore democratic rule to the West African country by July 2024, but two months before this deadline, the junta announced it would extend its rule for another five years. In January, the authorities announced a ban on all political parties as part of a plan to \"rebuild the state\". In Thursday night's interview, Traoré said: \"People need to forget about the issue of democracy. Democracy is not for us. \"Look at Libya, this is an example close to us,\" said the 38-year-old, who casts himself as a revolutionary leader standing up to Western imperialism. Libya was ruled autocratically for four decades by Colonel Muammar Gaddafi, who oversaw a brutal regime while also providing Libyans with subsidised housing, free education and free healthcare. He was killed during a rebellion assisted by Western military intervention. The north African country has since failed to hold elections and is split between two rival administrations, along with numerous armed groups. \"Wherever they [Western powers] try to establish democracy in the world, it's always accompanied by bloodshed,\" Traoré said in his interview. While there has been a spate of military takeovers in recent years, most African countries do still hold regular elections, even if some are criticised as being rigged in favour of incumbents. Two military leaders - in Gabon and Guinea - have organised elections which they have gone on to win. Traoré also addressed the dissolution of political parties, saying he considered them to be divisive, dangerous and incompatible with the revolutionary project. \"The truth is, politics in Africa – or at least what we've experienced in Burkina - is that a real politician is someone who embodies every vice: a liar, a sycophant, a smooth-talker,\" he said.",
-          "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9ef8/live/3cb15a10-2f49-11f1-934f-036468834728.jpg",
-          "published_at": "2026-04-03T10:23:38Z",
-          "embed_url": "https://www.bbc.com/news/articles/cly0zp1xgz3o",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2608,25 +2608,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "a2fb20b0bb3a",
+          "id": "8ad961cb1cf9",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Circo Beat: los mejores eventos de la semana bajo el lente de “Somos”",
-          "summary": "Arte, colaboraciones y festejos de aniversario compusieron las citas más destacadas de la semana que se va. Descubre las postales que dejaron en nuestro recorrido fotográfico.",
-          "body_text": "Arte, colaboraciones y festejos de aniversario compusieron las citas más destacadas de la semana que se va. Descubre las postales que dejaron en nuestro recorrido fotográfico.",
-          "url": "https://elcomercio.pe/somos/fotos/circo-beat-04042026-los-mejores-eventos-de-la-semana-bajo-nuestro-lente-fotos-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/S3TTNEKPTZBHDMFZX3KDPYCVCI.jpg?auth=2a54c7d9bbb5f7d64c5337d27afd74588143b199e6a3e026b11a8601f311240c&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-04T09:04:00Z",
-          "embed_url": "https://elcomercio.pe/somos/fotos/circo-beat-04042026-los-mejores-eventos-de-la-semana-bajo-nuestro-lente-fotos-noticia/",
+          "title": "Lucha contra la pobreza: ¿cómo vamos?",
+          "summary": "La pobreza es uno de los problemas más urgentes que enfrenta el Estado Peruano. El Perú aún no recupera los niveles previos a la pandemia del COVID-19. La pobreza afecta al 27,6% de la población, equivalente a 9,4 millones de ciudadanos, muy por encima del 20,2% registrado en el 2019 (INEI, 2025).",
+          "body_text": "La pobreza es uno de los problemas más urgentes que enfrenta el Estado Peruano. El Perú aún no recupera los niveles previos a la pandemia del COVID-19. La pobreza afecta al 27,6% de la población, equivalente a 9,4 millones de ciudadanos, muy por encima del 20,2% registrado en el 2019 (INEI, 2025). En el Perú de hoy, coexisten dos retos que requieren respuestas simultáneas, pero diferenciadas: 1) el recrudecimiento de la pobreza rural, donde la incidencia de pobreza alcanza el 39,3% y persisten bolsones de pobreza extrema en zonas altoandinas, amazónicas y en contextos indígenas; 2) el crecimiento de la pobreza urbana: el 70% de los pobres monetarios del Perú residen en ciudades. Lima Metropolitana ha visto prácticamente duplicarse su tasa de pobreza en cinco años. La gestión pública no ha reaccionado a esta nueva realidad y en estos años hemos incurrido en inercia programática: seguimos implementando soluciones que ya no responden con efectividad a los problemas que enfrentamos. La Política Nacional de Desarrollo e Inclusión Social (diciembre, 2022) planteó reducir la pobreza monetaria al 15% en el 2030 (Midis, 2022), una meta muy distante a la luz de los resultados alcanzados. El nuevo gobierno heredará una situación compleja que requiere sentido de urgencia, pero que no admite atajos ni salidas facilistas. ¿Cómo avanzamos? Al menos tres líneas de acción son prioritarias y factibles en los próximos cinco años. Primero, promover la autonomía económica de los hogares vulnerables. Nadie sale de la pobreza solo con programas sociales. Para retomar la senda de reducción de la pobreza se requiere impulsar el crecimiento económico y mejorar el clima de inversiones, claves para la generación de empleo y ampliar el espacio fiscal para la inversión social. Una salida sostenible de la pobreza pasa por acceder a empleo de calidad, mejorar la vinculación con los mercados y dinamizar economías locales. Eso implica fortalecer la agricultura familiar, impulsar la empleabilidad y el emprendimiento, y mejorar el acceso al crédito y a la educación financiera. Más allá de ‘bonificar’ las respuestas de política social (entrega de bonos temporales sin objetivos claros), urge conectar las intervenciones de alivio a la pobreza con el acceso a oportunidades económicas (capacitación para el trabajo, intermediación laboral, servicios de cuidado, etc.). Segundo, construir sobre lo avanzado. Reconocer las limitaciones de los instrumentos de lucha contra la pobreza no debe suponer minimizar lo avanzado o caer en borrón y cuenta nueva, sino más bien impulsar una agenda orientada a mejorar la efectividad y el impacto de la inversión social. Esto implica fortalecer los programas sociales que funcionan y cuentan con rutas de mejora claras, como por ejemplo las transferencias monetarias (Juntos y Pensión 65). Asimismo, urge sincerar el rol de programas como Beca 18 y el programa de alimentación escolar (ex Qali Warma), a la luz de sus problemas de implementación y sostenibilidad fiscal. Tercero, reconstruir la capacidad estatal para la gestión social. El mayor obstáculo para implementar una estrategia efectiva de lucha contra la pobreza no es la falta de recursos, sino el deterioro de la capacidad de gestión en un contexto marcado por la alta rotación e inestabilidad política. Una ruta de mejora factible es promover la colaboración con iniciativas del sector privado orientadas al desarrollo socioeconómico y sostenibilidad. A pesar de su centralidad, la lucha contra la pobreza enfrenta una notoria orfandad política y ha estado ausente en el debate electoral. Es urgente generar coaliciones público-privadas para sostener su prioridad política, así como monitorear la efectividad de los recursos públicos invertidos en nombre de la pobreza.",
+          "url": "https://elcomercio.pe/opinion/columnistas/lucha-contra-la-pobreza-como-vamos-por-norma-correa-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/GNHUVTEMYJGS7AFUK2NB5SOY3E.jpg?auth=83305e1c924144860d0fe7625cf35af623d180de2344b94a5cfc38a5cecdad7f&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-04T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/opinion/columnistas/lucha-contra-la-pobreza-como-vamos-por-norma-correa-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Circo Beat, Sociales, Eventos, Fotos, Cócteles, Sociedad, Lima, Vida en Lima",
-            "Fotos",
+            "pobreza, desarrollo",
+            "Columnistas",
             "Senaste",
             "El Comercio"
           ],
@@ -4274,6 +4274,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "a88cc23f3d9b",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Iran hotar nytt sund – slår mot ekonomin i Europa",
+          "summary": "Iran har utfärdat en ny antydan om att slå mot Bab al-Mandabsundet. Det hade fått stora konsekvenser för Europa – eftersom mycket fraktas därigenom.",
+          "body_text": "Irans nya hot mot Bab al-Mandabsundet är ingen lek. Det hade slagit extremt hårt mot europeiska konsumenter, menar experten. – Jag tror inte att det bara är retorik längre, det finns ett övervägande, säger Alexander Atarodi. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Iran hotar att stänga Bab al-Mandabsundet – kan slå hårt mot Europas ekonomi. Experten menar att hotet är allvarligt, inte bara retorik. Störningar riskerar att påverka både energisektorn och varuflöden. Iran har gått ut med en ny varning mot världsekonomin. Denna gång mot Bab al-Mandabsundet som leder sjötrafiken mot Suezkanalen. Mellanösternexperten Alexander Atarodi ser att Iran tillsammans med huthirebellerna i Jemen hade kunnat göra verklighet av sitt hot – och att konsekvenserna hade blivit förödande för världsekonomin i allmänhet men Europa i synnerhet. Genom Mandabsundet passerar över 50 procent av Kinas export till Europa. Trots att det geografiskt ligger en bra bit från Iran har regimen ett inflytande över området genom huthimilisen i Jemen. På dem har Iran länge satsat pengar och resurser, förklarar Atarodi. – Skulle de komma överens med huthierna om att störa trafiken skulle vi få en ytterligare allvarlig situation med konsekvenser för världsekonomin som skiljer sig från störningarna i Hormuz. Det såg vi 2024 när rebellmilisen attackerade handelsfartyg kring Bab al-Mandab. Då tvingades rederier omdirigera sina fartyg till att i stället segla runt Afrika, vilket ledde till höga extrakostnader för varor. I början av mars meddelande Iran att Hormuzsundet stängt. Genom det fraktas en femtedel av världens oljeproduktion.",
+          "url": "https://www.expressen.se/nyheter/varlden/irans-hot-allvarligt-for-europa-inte-bara-retorik-langre/",
+          "image_url": "https://static.bonniernews.se/images/7a/4c/7a4c7c749054403b9e7fb706fd97e10b/16x9/original.png",
+          "published_at": "2026-04-04T10:36:29Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/irans-hot-allvarligt-for-europa-inte-bara-retorik-langre/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "241c060d87c3",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Krismöte",
+          "summary": "Dave stormar mot Sverige med full fart. SMHI har utfärdat stormvarningar i flera län på påskdagen. SJ och Trafikverket samlas i ett krismöte för att diskutera hur man ska tackla ovädret.",
+          "body_text": "SMHI har utfärdat stormvarningar i flera län på påskdagen. SJ och Trafikverket samlas i ett krismöte för att diskutera hur man ska tackla ovädret. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På söndagen sveper ovädret Dave in från brittiska öarna. Då kommer det blåsa upp ordentligt, främst i Västsverige. Under påskdagen väntas mycket blåsigt väder i stora delar av norra Götaland och sydligaste Svealand, enligt SMHI. Man har utfärdat en orange varning för vind, vilket är den näst högsta nivån. Vindbyarna kan bli så kraftiga att det blåser i stormhastighet, enligt SMHI. ”Ge dig inte ut i trafiken i onödan eller förbered dig på att du kan bli stillastående”, skriver man. SMHI uppmanar även till att förankra lösa föremål och varnar för att det är troligt att kollektivtrafik och elnät kan störas av blåsten. På påskafton samlades Trafikverket och SJ i ett extrainsatt möte för att diskutera hur man ska rusta inför stormen. Mötet handlade bland annat om vilka åtgärder som kan bli aktuella att ta till i Västsverige. – Det kan bli så att vi stänger av delar av järnvägen, om vi inte kan upprätthålla säkerheten. Det kan röra sig om vissa broar också, säger Johan Nilsson Holmqvist, presskommunikatör på Trafikverket. Han betonar att läget kan ändras snabbt och att man som resenär både på järn- och bilväg ska hålla sig uppdaterad. Om man befinner sig i det berörda området bör man tänka ett extra varv innan man ger sig ut på påskdagsresa.",
+          "url": "https://www.expressen.se/nyheter/vader/trafikverket-och-sj-i-krismote-infor-stormen-dave/",
+          "image_url": "https://static.bonniernews.se/images/96/14/9614ba8a53484eb9bfefe7bf95e64dbc/16x9/original.png",
+          "published_at": "2026-04-04T10:33:31Z",
+          "embed_url": "https://www.expressen.se/nyheter/vader/trafikverket-och-sj-i-krismote-infor-stormen-dave/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "d6ac5cf8c423",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4295,7 +4343,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "f2e8663604c6",
@@ -4319,7 +4367,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "9ace31f2b2e8",
@@ -4343,7 +4391,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "b802dae53be7",
@@ -4353,7 +4401,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "SMHI:s varning – snösmockan",
+          "title": "SMHI:s varning efter snösmocka",
           "summary": "En vit... påsk? När landet samlas till påskfirande vräker snön ner på flera håll, och i Värmland varnar SMHI för snö. Samtidigt står ett brittiskt oväder för dörren.",
           "body_text": "När landet samlas till påskfirande vräker snön ner på flera håll. Samtidigt står ett brittiskt oväder för dörren. SMHI har utfärdat en orange varning för vind i flera län. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Påskafton bjuder på ett riktigt aprilväder. Under morgonen snöar det på flera håll runtom i Sverige, även i de södra och mellersta delarna av landet. – Det var lite mer inslag av snö än vad prognosen ville ha i går, säger SMHI :s meteorolog Hilda Westberg. På vissa ställen har snön lagt sig på marken. Men det blir inget långvarigt snötäcke. – Det kommer övergå allt mer i regn framåt dagen innan det rör sig bort under eftermiddagen, säger Westberg. I delar av Värmland är en gul varning för snö utfärdad, som gäller fram till lunchtid. Totalt kan ungefär fem centimeter snö komma fram till dess. Det är, enligt SMHI, inte särskilt troligt att man utfärdar fler varningar just för snö. Vädret ställer dock till det i trafiken och väderomslaget gör det halt på vissa vägar. På väg 50 utanför Ljusnarsberg i Örebro län körde en bil av vägen och voltade. Ingen skadades allvarligt, men enligt polisen var det mycket halt på sträckan. Även utanför Köping inträffade en singelolycka som tros ha inträffat på grund av halka, och på väg 56 mellan Strängstorp och Bie. I Värmland ställde vägunderlaget till det då E18 blockerades av stillastående lastbilar. Inte heller påskdagen kommer bli lugn vädermässigt. Då drar ovädret ”Dave” in från Storbritannien, och det kan bli mycket blåsigt, främst på Västkusten.",
           "url": "https://www.expressen.se/nyheter/vader/snosmocka-pa-paskafton-smhis-varning/",
@@ -4367,7 +4415,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "c3974a626902",
@@ -4391,7 +4439,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "4e6d40ecc2c3",
@@ -4415,7 +4463,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "b77fc74b72af",
@@ -4425,61 +4473,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Nestlé vädjar om hjälp att hitta stulen Kitkat – ”det är inte ett aprilskämt”",
-          "summary": "413 793 stycken Kitkat stals nyligen under en transport. Nu vädjar Nestlé om hjälp att hitta stöldgodset – och alla kan hjälpa till.",
-          "body_text": "413 793 stycken Kitkat stals nyligen under en transport. Nu vädjar Nestlé om hjälp att hitta stöldgodset – och alla kan hjälpa till. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Strax före påskhelgen stal någon tolv ton choklad – mer specifikt 413 793 styckförpackade Kitkat – från en varutransport på väg mellan Italien och Polen. Det blev skräckrubriker för godisälskare: påskgodiset hotat. 413 793 Kitkat stals under transport mellan Italien och Polen. Nestlé vädjar om hjälp – alla kan spåra sina Kitkat med en webbtjänst. I dagsläget verkar det saknas spår efter stöldkuppen och man får förmoda att tjuvarna själva har svårt att konsumera hela bytet; att sätta i sig tolv ton Kitkat, innan bäst före-datum går ut inom något år, innebär att äta över 30 kilo choklad – varje dag. Ett troligt scenario är snarare att stöldgodset dyker upp i handeln. Vilket Nestlé också verkar tro, för nu vädjar de om hjälp från alla som nyligen köpt Kitkat. Nestlé har skapat vad de kallar för en Kitkat tracker där man kan hjälpa till att spåra ursprunget på sin inhandlade Kitkat. Nyheten kom ursprungligen den 1 april och många trodde att Nestlé skojat till det. Men via X skrev företaget : ”för att klargöra, det är inte ett aprilskämt”. Har man en Kitkat hemma kan man kika på förpackningens baksida efter ett åttasiffrigt nummer. Siffrorna skrivs sedan in i spårningsverktyget som man hittar här .",
-          "url": "https://www.expressen.se/nyheter/varlden/nestle-vadjar-om-hjalp-att-hitta-stulna-kitkat-bitar/",
-          "image_url": "https://static.bonniernews.se/images/95/af/95af150da21147bb9eed1abb4176441c/16x9/original.jpg",
-          "published_at": "2026-04-04T06:48:23Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/nestle-vadjar-om-hjalp-att-hitta-stulna-kitkat-bitar/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "0e19d040aeb6",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Stök på bilträff i Jönköping",
-          "summary": "25 personer omhändertogs under långfredagens bilträff efter motormässan i Jönköping. Polisen hade tagit höjd för att det skulle kunna bli stökigt. – Natten har avlöpt ungefär som vi har tänkt oss, säger Mats Pettersson på polisen.",
-          "body_text": "25 personer omhändertogs under långfredagens bilträff efter motormässan i Jönköping. Polisen hade tagit höjd för att det skulle kunna bli stökigt. – Natten har avlöpt ungefär som vi har tänkt oss, säger Mats Pettersson på polisen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I helgen pågår en motormässa på Elmia i Jönköping . I samband med den arrangeras bilträffar på kvällarna på parkeringen vid köpcentrumet Asecs. Polisen har tidigare gjort uppskattningen att 9 000 människor kan samlas där. Och det blev relativt stökigt under mässans första kväll. Polisen i Jönköping utfärdade totalt 55 ordningsböter, och omhändertog 25 personer enligt lagen om berusning, LOB. Man har även upprättat fyra anmälningar om misshandel, och en anmälan om rån efter att en tonårspojke ska ha blivit slagen, sparkad på och rånad på sin mobiltelefon. – Det är ungefär som vi har förväntat oss. Det är jättemånga människor och hög berusning på ett antal individer. Vi är glada att vi inte fått några grova brott att hantera, säger Mats Pettersson, presstalesperson hos polisen. Han vet inte exakt hur många människor som befann sig på träffen, men säger att det dåliga vädret kan ha spelat in i uppslutningen. – Då vet vi att fler inte orkar hålla ut lika länge, säger Pettersson. Även ikväll, på påskafton, väntas människor samlas på parkeringen för en liknande fest.",
-          "url": "https://www.expressen.se/nyheter/sverige/stok-pa-parkeringsfest-i-jonkoping/",
-          "image_url": "https://static.bonniernews.se/images/69/65/6965d174d9754daebfbc99f1dd301c60/16x9/original.jpg",
-          "published_at": "2026-04-04T06:28:31Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/stok-pa-parkeringsfest-i-jonkoping/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "f97e6bd7ff41",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen Idag 07.57 Iran antyder: Ytterligare ett sund kan stängas",
+          "title": "Världen Idag 08.48 Nestlé vädjar om hjälp att hitta stulna Kitkat-bitar",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/iran-antyder-ytterligare-ett-sund-kan-stangas/",
+          "url": "https://www.expressen.se/nyheter/varlden/nestle-vadjar-om-hjalp-att-hitta-stulna-kitkat-bitar/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/iran-antyder-ytterligare-ett-sund-kan-stangas/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/nestle-vadjar-om-hjalp-att-hitta-stulna-kitkat-bitar/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4490,20 +4490,20 @@
           "sort_order": 8
         },
         {
-          "id": "faaa8a45a10e",
+          "id": "0e19d040aeb6",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige Idag 09.13 Larmen om vägglöss ökar – Anticimex varnar i påsk",
+          "title": "Sverige Idag 08.28 Stök på parkeringsfest i Jönköping",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/larmet-vagglossen-okar-anticimex-varnar-i-pask/",
+          "url": "https://www.expressen.se/nyheter/sverige/stok-pa-parkeringsfest-i-jonkoping/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/larmet-vagglossen-okar-anticimex-varnar-i-pask/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/stok-pa-parkeringsfest-i-jonkoping/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
