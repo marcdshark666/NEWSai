@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T09:54:22Z",
+  "generated_at": "2026-04-07T12:09:39Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "baa75f51d608",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Lägsta kaffepriset på ett halvår",
+          "summary": "Nyheter från TV4: Lägsta kaffepriset på ett halvår",
+          "body_text": "Svenska kafferosterier har fått kraftigt höjda kostnader. Arkivbild. På råvarubörsen i London föll priset på robustakaffe med 1,7 procent som en konsekvens av stark export från Vietnam och därmed ett förväntat överutbud av den svarta drycken på världsmarknaden. Även priset på arabicabönan faller, med 2 procent på börsen i New York. Ny statistik visar att leveranserna av kaffe från Vietnam var 13 procent högre i mars än samma månad i fjol. I Brasilien väntas rekordskördar inför säsongen 2026/2027.",
+          "url": "https://www.tv4.se/artikel/tt-260407-kaffepris1-b707b2f3/lagsta-kaffepriset-pa-ett-halvar",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdl-N6H3aLr1Tw/169bf7e5856049c2ed350074b9a708ef/Svenska_kafferosterier_har_f_tt_kraftigt_h_jda_kostnader._Arkivbild.",
+          "published_at": "2026-04-07T11:51:04Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260407-kaffepris1-b707b2f3/lagsta-kaffepriset-pa-ett-halvar",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "e5ce94745c3e",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "6a752f566775",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "c94470e41daf",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "a5499e7e0159",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlr6SOBJyNfE0/fe55fc144977e8fb0bb421907ccdabce/Billigare_droppar._Arkivbild.",
           "published_at": "2026-04-07T06:01:06Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260407-inflation1-f5dcade8/inflationen-sjunker-ovantat-inga-krigseffekter",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "a5fed8c9ac21",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Börsen stiger i öppningen",
-          "summary": "Nyheter från TV4: Börsen stiger i öppningen",
-          "body_text": "Ringer in med fallande index. Arkivbild. Efter ett par minuters handel har det breda OMXS-indexet stigit med 1 procent. Bland tungviktarna ligger Ericsson i topp, upp över 2 procent. I USA pekar förhandeln på fallande kurser efter att ha stigit något i går. Asienbörserna rörde sig relativt lite under natten till tisdagen. På oljemarknaden har priset stigit något ytterligare. Ett fat Nordsjöolja kostar på tisdagsmorgonen strax över 111 dollar. Under natten mot onsdag löper USA:s president Trumps nya tidsfrist ut gentemot Iran att öppna Hormuzsundet, annars hotar nya krigshandlingar. Kronan har stadigt försvagats under Irankriget. En dollar kostar nu 9,47 medan euron noteras till 10,93.",
-          "url": "https://www.tv4.se/artikel/tt-260407-marknaden1-b28819f2/borsen-stiger-i-oppningen",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdluBerYqSqn30/a2175ca48f61c5caba4dae860ae658f2/Ringer_in_med_fallande_index._Arkivbild.",
-          "published_at": "2026-04-07T05:27:17Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260407-marknaden1-b28819f2/borsen-stiger-i-oppningen",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 ”Lyckas med sånt ingen annan politiker gör” Israel: ”Kraftfullt” angrepp har riktats mot gasanläggning i Iran Trumps lögn – när han går till rasande attack mot allierade Ex-stridspiloten om räddningen: ”Väldigt stor händelse” Sågar en ”poserande” Trump: ”Han lämnar självklart inte” Fruns uppmaning • ”Förtjänar inte det här”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Kritikstorm i sociala medier – efter Penny Parneviks vinbild Nya läckta samtal • JD Vance på besök i Ungern – ska kampanja Ringde Ryssland i smyg i pauser: ”Förrått sitt land och hela Europa”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1774,6 +1774,54 @@
           "sort_order": 0
         },
         {
+          "id": "cb84346a2997",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Strategist warns about Michigan Senate candidate's controversial rally, Virginia governor's poor poll numbers | Fox News Video",
+          "summary": "Republican strategist Cassie Smedile discusses Michigan Senate candidate Abdul El-Sayed's controversial rally with anti-Israel streamer Hasan Piker, who made extreme comments about 9/11 and October 7 attacks.",
+          "body_text": "Republican strategist Cassie Smedile discusses Michigan Senate candidate Abdul El-Sayed's controversial rally with anti-Israel streamer Hasan Piker, who made extreme comments about 9/11 and October 7 attacks. Republican strategist Cassie Smedile discusses Michigan Senate candidate Abdul El-Sayed's controversial rally alongside anti-Israel streamer Hasan Piker. Piker's past comments include saying America deserved 9/11 and downplaying October 7 attacks. Smedile also critiques Virginia Governor Abigail Spanberger's struggling approval, with 46% of voters disapproving, highlighting the Democrat party's strategy.",
+          "url": "https://www.foxnews.com/video/6392677591112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73344e16-838e-4b65-b812-52da8b430704/be2fd53d-fd03-41ac-9879-c084a65515fb/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-04-07T10:17:31Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392677591112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "45fdb43791f1",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump issues ultimatum to Iran on Strait of Hormuz as NATO's role questioned | Fox News Video",
+          "summary": "President Trump demands Iran reopen the Strait of Hormuz by tonight or face U.S. military strikes on infrastructure. Military analyst Rebecca Grant discusses the high-stakes situation and NATO's response.",
+          "body_text": "President Trump demands Iran reopen the Strait of Hormuz by tonight or face U.S. military strikes on infrastructure. Military analyst Rebecca Grant discusses the high-stakes situation and NATO's response. President Donald Trump issues a final ultimatum to Iran to reopen the Strait of Hormuz by tonight, threatening US military strikes on critical infrastructure like bridges and power plants if ignored. Military analyst Rebecca Grant dissects the escalating tensions, diplomatic failures, and NATO's questioned role. The segment also covers an extraordinary US military rescue mission in Iran.",
+          "url": "https://www.foxnews.com/video/6392677714112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bc9a8ea-d7e9-4fb2-83e5-e87037817061/f50516d8-812a-4f17-a13d-db876197f68b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-04-07T10:13:00Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392677714112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "4dd456e3e5c3",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1795,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "505609ff38fd",
@@ -1819,7 +1867,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "50070f9192b1",
@@ -1843,7 +1891,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "f018ed9345f0",
@@ -1867,7 +1915,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "1ceae8c69362",
@@ -1891,7 +1939,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "ee38cb1e91bc",
@@ -1915,7 +1963,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "0f4e0d698e47",
@@ -1939,7 +1987,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "d5663007fadf",
@@ -1956,54 +2004,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91daf0bf-0554-4f4a-83db-59b823ec901e/43b2cfe1-e487-47e2-89eb-5a94b9747677/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-04-07T02:37:31Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392664973112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "b75579c29057",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Democrats run as ‘moderates,’ govern very differently, Vivek Ramaswamy says | Fox News Video",
-          "summary": "FOX Business host Charles Payne and Ohio GOP gubernatorial candidate Vivek Ramaswamy discuss Virginia Gov. Abigail Spanberger’s declining approval rating amid backlash over far-left policies on ‘Hannity.’",
-          "body_text": "FOX Business host Charles Payne and Ohio GOP gubernatorial candidate Vivek Ramaswamy discuss Virginia Gov. Abigail Spanberger’s declining approval rating amid backlash over far-left policies on ‘Hannity.’",
-          "url": "https://www.foxnews.com/video/6392662680112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15c5ed6b-374d-4702-a816-bb401fcccda9/a6a584e9-0411-4219-b62c-38ec8d4d74ab/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-04-07T02:21:15Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392662680112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "ff389a5b012c",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "ICE arrests relatives of slain Iranian general Soleimani | Fox News Video",
-          "summary": "Fox News correspondent Christina Coleman has the latest on the relatives of slain Iranian Revolutionary Guard Corps Maj. Gen. Qasem Soleimani on 'Hannity.'",
-          "body_text": "Fox News correspondent Christina Coleman has the latest on the relatives of slain Iranian Revolutionary Guard Corps Maj. Gen. Qasem Soleimani on 'Hannity.'",
-          "url": "https://www.foxnews.com/video/6392663816112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d18c8ad9-545f-44e9-8243-c336989b4e3b/b571eb39-ba18-40c4-b11b-4a2b57a32404/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-04-07T01:56:57Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392663816112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2086,44 +2086,44 @@
           "sort_order": 13
         },
         {
-          "id": "180decae7787",
+          "id": "e0707e20f749",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Gutfeld! - Monday, April 6 | Fox News Video",
-          "summary": "Megan Rapinoe, Iran War, US Air Force",
-          "body_text": "Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
-          "url": "https://www.foxnews.com/video/6392676636112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/cdafa5cc-ca17-4ede-af4c-a36e6b31e59d/9d9c94fc-0775-4694-933e-c6d162c9f849/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-04-07T08:52:50Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392676636112",
+          "title": "WATCH LIVE: VP Vance speaks alongside Hungarian Prime Minister Viktor Orban | Fox News Video",
+          "summary": "Vice President JD Vance holds a joint press conference with Orban in Budapest, Hungary.",
+          "body_text": "Vice President JD Vance holds a joint press conference with Orban in Budapest, Hungary.",
+          "url": "https://www.foxnews.com/video/6392680313112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a5a5e5-470e-468d-bb28-d960285b4483/7667a58c-fd5d-4fdd-82f8-fd72b81d57e7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-04-07T11:03:17Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392680313112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
             "USA",
             "Amerikansk media"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 14
         },
         {
-          "id": "c50066fa73ba",
+          "id": "7af7d617f0ae",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Hannity - Monday, April 6 | Fox News Video",
-          "summary": "FNC, Rescue Behind Enemy Lines, Ceasefire Deal Deadline Approaches, Media Polarization and Isolationist Sentiment, Iranian General Niece's Legal Status Revoked, Artemis 2 Astronauts Make History,",
-          "body_text": "FNC, Rescue Behind Enemy Lines, Ceasefire Deal Deadline Approaches, Media Polarization and Isolationist Sentiment, Iranian General Niece's Legal Status Revoked, Artemis 2 Astronauts Make History, Sean Hannity interviews political figures and newsmakers and offers his own perspective.",
-          "url": "https://www.foxnews.com/video/6392673650112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/915e36c6-07da-4adb-aed0-82c56b1aba1b/c9d54609-4c80-43ec-8657-707765a8126c/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-04-07T07:36:20Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392673650112",
+          "title": "Fox News At Night - Monday, March 6 | Fox News Video",
+          "summary": "FNC, Fox News at Night, Trace Gallagher, Israel, war, Iran, civilian infrastructure, airman",
+          "body_text": "FNC, Fox News at Night, Trace Gallagher, Israel, war, Iran, civilian infrastructure, airman Hard news and analysis of compelling stories.",
+          "url": "https://www.foxnews.com/video/6392680669112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/b8b44da4-4626-466f-afc9-bcf530f75d07/7315c423-ae4b-4200-a20f-bc677060caa4/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-04-07T10:35:52Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392680669112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2151,6 +2151,78 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "0b06888d7254",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Offset: Former Migos rapper shot in Florida - reports",
+          "summary": "Reports suggest the former Migos rapper is in a \"stable\" condition.",
+          "body_text": "Former Migos rapper Offset has been shot outside a casino in Florida, according to US media reports. The 34-year-old, whose real name is Kiari Kendrell Cephus, is in a \"stable\" condition and being \"closely monitored\" in hospital, a spokesperson told Variety. The Seminole Police Department have told BBC Newsbeat the incident happened on Monday evening and that two people have been detained in connection with the shooting. BBC Newsbeat has contacted Offset's representatives for comment. Police said an incident took place \"at a valet area\" after 19:00 on Monday, outside of Seminole Hard Rock Hollywood\" and \"resulted in non-life threatening injuries to an individual\". The force also said the \"investigation is ongoing\". Offset is best known for being part of the hip-hop trio Migos along with Quavo and Takeoff. He married US singer and rapper Cardi B in 2017 and the couple have three children. They later separated and filed for divorce in 2024. Multi-platinum group Migos first went viral with the song Versace in 2013. Another hit followed in 2017, Bad and Boujee, which made it to number one on the Billboard Hot 100. They have been described as one of the most influential groups of their generation .",
+          "url": "https://www.bbc.com/news/articles/c1w4lnjej4do",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8413/live/d3bdba90-325d-11f1-934f-036468834728.jpg",
+          "published_at": "2026-04-07T10:23:18Z",
+          "embed_url": "https://www.bbc.com/news/articles/c1w4lnjej4do",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "bfb41435c599",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "One dead as train travelling at 99mph collides with lorry in France",
+          "summary": "The lorry driver is in custody after the train driver died during the collision in northern France.",
+          "body_text": "A train driver has died after his high-speed passenger train collided with a lorry at a level crossing in France while travelling at an estimated 160km/h (99mph). The incident took place shortly before 07:00 (05:00 GMT) on Tuesday morning between Béthune and Lens in the northern Pas-de-Calais region. Two people initially deemed to have sustained critical injuries following the crash were \"doing well\", while 13 others sustained minor injuries, local authorities said. The driver of the lorry, which was carrying military equipment at the time, is in police custody, but officials said it was too early to determine the cause. An investigation into potential aggravated manslaughter is under way. The vehicle belonged to a commercial haulier and the driver was not a member of the military, officials said. The train had been travelling from Dunkirk to Paris when the collision occurred and it continued moving for several hundred metres before coming to a stop. CEO of France's state-owned rail operator, Jean Castex, confirmed the train driver had been a 56-year-old long-term employee of the company at a news conference on Tuesday. \"My first thoughts go to his family, his loved ones and colleagues,\" he said. \"I also want to pay tribute to the two train staff members who were on board and who calmly stepped in and helped the passengers.\" Castex, also a former French prime minister, said there had not been any indication of any problem with the barriers at the level crossing, adding that a lower-speed train had passed through minutes earlier. The region's President Xavier Bertrand described the accident as a \"terrible tragedy\". The regional rail network, TER Hauts-de-France, said direct services between Béthune and Lens had been suspended until Thursday – with trains taking an alternative route.",
+          "url": "https://www.bbc.com/news/articles/cq590egv9vzo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a1d8/live/4bbe50a0-3267-11f1-a291-032c2f0b6204.jpg",
+          "published_at": "2026-04-07T10:18:36Z",
+          "embed_url": "https://www.bbc.com/news/articles/cq590egv9vzo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "b5c47f685510",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Universal Music Group gets $64bn takeover offer from Bill Ackman's Pershing Square",
+          "summary": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
+          "body_text": "Universal Music Group, the entertainment giant behind acts such as Taylor Swift, Sabrina Carpenter and Kendrick Lamar, has received a takeover offer estimated to be worth $64.3bn (£48bn). US investment company Pershing Square is offering to buy Universal in a merger that would see the new company listed in America, its billionaire chief executive Bill Ackman said. As well as representing a huge list of artists, the world's largest music company also runs Abbey Road studios and owns labels such as EMI and Island Records. Pershing Square, which already owns a stake in Universal, also has holdings in Google, Meta and Amazon, as well as Restaurant Brands International, which includes Burger King. Ackman said its management had \"done an excellent job nurturing and continuing to build a world-class artist roster and generating strong business performance\". He said Universal had reshaped the industry to put artists at its centre, and had shown it could seize growth opportunities from artificial intelligence while protecting intellectual property. But he said the company's stock price had \"languished\" due to issues unrelated to the performance of its music business, which could all be \"addressed with this transaction\". In a letter to its board of directors on Tuesday, Ackman said Universal had \"dramatically underperformed\" in several key US and world stock indexes. He blamed a variety of factors, including uncertainty around Bolloré Group's 18% stake and its US listing being postponed. Under the terms of the deal, Universal's shareholders would receive a total of €9.4bn in cash (€5.05 per share) and 0.77 shares in the new company for each Universal share they owned. The new company would be listed on the New York stock exchange. Ackman said its board would also be \"refreshed\" to include US talent agent and former Walt Disney Company president Michael Ovitz. Pershing hopes to close the deal by the end of the year. Universal's shares were up about 11% in early trading. The company has been approached for comment.",
+          "url": "https://www.bbc.com/news/articles/cz0ex432dmyo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1327/live/03a29b70-3265-11f1-bdf9-bf5479a63eec.jpg",
+          "published_at": "2026-04-07T10:06:53Z",
+          "embed_url": "https://www.bbc.com/news/articles/cz0ex432dmyo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "94c68f9b4734",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2172,7 +2244,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "086431fe04e2",
@@ -2196,7 +2268,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "a69817b14f09",
@@ -2220,7 +2292,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "b4d3098f7711",
@@ -2232,9 +2304,9 @@
           "source_kind": "mixed",
           "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
           "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
-          "body_text": "US Vice-President JD Vance has travelled to Budapest to back veteran Hungarian Prime Minister Viktor Orbán, a key European ally of the Trump administration, ahead of tough parliamentary elections on Sunday. Vance is expected to take part in a joint press conference before addressing an election rally with Orbán in a football stadium on Tuesday afternoon. Last month, US President Donald Trump said Orbán had his \"complete and total support\" in a video message to the Hungarian Conservative Political Action Conference (CPAC) in Budapest. The 12 April election is billed as Orbán's toughest challenge in a political career going back almost 40 years. He has won four elections in a row since 2010. On Sunday he faces Peter Magyar, a former insider in Orbán's Fidesz party, who broke with him two years ago to found the centre-right Tisza party. Tisza leads Fidesz by between 10% and 20% in most polls. Only the strongly pro-government Nézőpont agency puts Fidesz narrowly ahead. Orbán is hoping that Vance's visit will impress undecided Hungarian voters enough to back him once again, as a strong and internationally respected leader in turbulent times. \"I'm looking forward to seeing my good friend Viktor, and we'll talk about any number of things related to the US-Hungary relationship,\" Vance told reporters as he left Washington earlier. Orbán has strong ties to the US Maga movement backing the American president, who said last month: \"I hope he wins, and I hope he wins big.\" Their friendship goes back to 2016, when Orbán was the first and only EU leader to support him in the US presidential election. He strongly backed Trump for re-election in 2024, and was in Washington last October to secure an exemption for Hungary from US sanctions on Russian oil giants Rosneft and Lukoil. Trump later made clear that the exemption was a personal deal between himself and Orbán – implying that if Orbán lost this election, his successor would have to re-apply. Foreign Minister Péter Szijjártó told Hungarian media that the two leaders' friendship had created a \"new golden age\" in relations.",
+          "body_text": "US Vice-President JD Vance has travelled to Budapest to back veteran Hungarian Prime Minister Viktor Orbán, a key European ally of the Trump administration, ahead of tough parliamentary elections on Sunday. Vance is expected to take part in a joint press conference before addressing an election rally with Orbán in a football stadium on Tuesday afternoon. The 12 April election is billed as Orbán's toughest challenge in a political career going back almost 40 years. He has won four elections in a row since 2010. Vance and his wife Usha were welcomed by Foreign Minister Péter Szijjártó who told Hungarian media that Orbán's friendship with President Donald Trump had created a \"new golden age\" in relations. Last month, Trump said Orbán had his \"complete and total support\" in a video message to the Hungarian Conservative Political Action Conference (CPAC) in Budapest. On Sunday Orbán faces Péter Magyar, a former insider in the prime minister's Fidesz party, who broke with him two years ago to found the centre-right Tisza party. Tisza leads Fidesz by between 10% and 20% in most polls. Only the strongly pro-government Nézőpont agency puts Fidesz narrowly ahead. Orbán is hoping that Vance's visit will impress undecided Hungarian voters enough to back him once again, as a strong and internationally respected leader in turbulent times. \"I'm looking forward to seeing my good friend Viktor, and we'll talk about any number of things related to the US-Hungary relationship,\" Vance told reporters as he left Washington earlier. Officials are painting his two-day trip as the first top-level US visit since former President George Bush in 2006, although Secretary of State Marco Rubio met Orbán in Budapest in February. Orbán has strong ties to the US Maga movement backing the American president, who said last month: \"I hope he wins, and I hope he wins big.\" Their friendship goes back to 2016, when Orbán was the first and only EU leader to support him in the US presidential election. He strongly backed Trump for re-election in 2024, and was in Washington last October to secure an exemption for Hungary from US sanctions on Russian oil giants Rosneft and Lukoil. Trump later made clear that the exemption was a personal deal between himself and Orbán – implying that if Orbán lost this election, his successor would have to re-apply.",
           "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/31b4/live/6ab44b00-3202-11f1-8df9-2146dc911a76.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/28ae/live/9d36a360-3267-11f1-934f-036468834728.jpg",
           "published_at": "2026-04-07T01:45:41Z",
           "embed_url": "https://www.bbc.com/news/articles/cyv16lq2rp1o",
           "play_mode": "page_iframe",
@@ -2244,7 +2316,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "ab00e706d833",
@@ -2268,7 +2340,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "8776b586ad42",
@@ -2292,7 +2364,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "27b2ec312a9f",
@@ -2316,7 +2388,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "1705a41bc848",
@@ -2340,7 +2412,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 10
         },
         {
           "id": "3f2ba6c4492b",
@@ -2364,55 +2436,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "d7d3da098eac",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-          "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
-          "body_text": "US President Donald Trump has endorsed a former top adviser to ex-UK Prime Minister David Cameron for governor of California, shaking up an unusually unpredictable race in the heavily Democratic state. Trump declared Republican candidate Steve Hilton would \"be a great governor\" in a Truth Social post. The president argued that \"Democrats have done an absolutely horrendous job\" in California and that \"people are fleeing\" the state. Hilton is one of 10 total candidates running in the 2 June primary. The top two finishers, regardless of party, will advance to the general election. Republicans have not won a statewide election in California in two decades. Hilton posted on X on Monday that he was \"deeply honoured\" to receive the Republican president's endorsement. But Trump's backing could become a hindrance if Hilton faces a Democrat in November's election in the liberal-leaning state. Hilton, who now lives in California, previously served as a top aide to Cameron from 2010-12, but later grew critical of the Conservative prime minister's immigration policy. Hilton went on to host a Fox News show for several years and continues to contribute to the conservative news network. He is running for governor on a platform of lower taxes and cutting back the state budget, while helping lower housing and other costs for families. Hilton joined Stanford University in California as a visiting scholar in 2012 and said he was applying for US citizenship in 2019. Democrats dominate California state politics, but Republicans view this as a rare chance to capture the governor's mansion because of a splintered Democratic field of candidates in the state's so-called jungle primary system. Trump's endorsement of Hilton, however, may squeeze out the other Republican in the race, Riverside County Sheriff Chad Bianco, leaving the door ajar for a Democrat to become a top vote-winner.",
-          "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/05ad/live/ea8133c0-31df-11f1-82b6-073392989d2e.jpg",
-          "published_at": "2026-04-06T18:55:45Z",
-          "embed_url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
-          "sort_order": 9
-        },
-        {
-          "id": "915af15e9950",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Eritrea football: Seven players fail to return home after international match",
-          "summary": "Several footballers have absconded in the past leaving behind what rights groups call a repressive government.",
-          "body_text": "Seven players from the Eritrean football squad that scored a historic victory in Eswatini last week have failed to return home, a source close to the team has told the BBC. While some of their teammates flew back from Eswatini's neighbour, South Africa, the seven are said to have absconded. There have been several cases when Eritreans competing in various sports have not gone home after international fixtures in recent years. Rights groups have described the government in Asmara as highly repressive - a charge which the authorities reject. Despite its small population, hundreds of thousands of Eritreans have sought asylum abroad. The news of the players absconding will come as a blow to the team, which, following its 2-1 win in Eswatini and 4-1 victory on aggregate, was celebrating a return to the qualifying group stages for the Africa Cup of Nations for the first time in 19 years. Only 10 of the 24-man squad were based in Eritrea and just three of those players, including team captain Ablelom Teklezghi, have now returned, sources in Asmara told BBC Tigrinya. While it is unclear where the missing players have gone, reports say some of them have been seen in South Africa. Those who have absconded include goalkeeper Kubrom Solomon and veteran winger Medhanie Redie. Eritrea's state-owned media outlets have been unusually quiet on the victorious team's return, which have in the past been accompanied by a big fanfare. Sources say preparations were made for a similar reception but was cancelled following news of the disappearance of the players. The spokesperson of Eritrea's Sport and Culture Commission, who has been providing updates on social media about the recent success of the team, posted pictures of some of the returning players and staff in Egypt, where the Eritrean embassy and community members organised a reception for them. They stopped in Cairo on the way back to Eritrea.",
-          "url": "https://www.bbc.com/news/articles/c747037e2kgo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cecb/live/f948cc10-2d2a-11f1-934f-036468834728.jpg",
-          "published_at": "2026-04-06T17:31:33Z",
-          "embed_url": "https://www.bbc.com/news/articles/c747037e2kgo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
+          "sort_order": 11
         },
         {
           "id": "eb3c2e383ad8",
@@ -2436,30 +2460,6 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 11
-        },
-        {
-          "id": "2eeebc207af8",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
-          "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
-          "body_text": "US television presenter Savannah Guthrie has returned to NBC's Today show, telling her co-anchors it was \"good to be back\", as the search for her mother continues. It was her first appearance in the studio since 30 January, two days before her 84-year-old mother Nancy was reported missing. Her co-anchors noted on Monday that many fans were standing outside the studios on a chilly New York morning carrying signs welcoming Guthrie back. \"I'm really feeling the love,\" she said in response. Investigators believe Nancy Guthrie, who was last seen on 31 January, was taken against her will from her home near Tucson, Arizona, but they have not shared a possible motive or arrested a suspect. Before giving his typical weather report, NBC forecaster Al Roker blew her a kiss and said: \"It's good to see you my dear.\" Guthrie carried on with the news as usual, telling viewers about the Artemis moon mission and the National Collegiate Athletic Association men's basketball tournament finals. She wore a bright yellow dress, which NBC said was in tribute to the yellow ribbons and flowers left at her mother's home, as well as worn by journalists in her newsroom. Last month, she said it was \"part of my purpose right now\" to return to work although she was unsure if she would still be able to do it. On Easter Sunday, Savannah Guthrie reaffirmed her Christian faith in an Easter video message from a church in New York. \"I still believe. And so I say with conviction, 'Happy Easter,'\" she said in her closing message at the end of the Easter Sunday service at Good Shepherd New York. The NBC presenter, one of the most recognisable figures on morning television in the US, had temporarily stepped away from her anchoring duties after her mother's disappearance. She also stood down from NBC's coverage of the Winter Olympics.",
-          "url": "https://www.bbc.com/news/articles/c04xqglg7xgo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c4b0/live/3e425db0-31e3-11f1-b044-9f47bdd1018a.jpg",
-          "published_at": "2026-04-06T10:16:36Z",
-          "embed_url": "https://www.bbc.com/news/articles/c04xqglg7xgo",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
           "sort_order": 12
         },
         {
@@ -2584,56 +2584,30 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "3780c15eb23a",
+          "id": "bcb097af5ecf",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "El papel clave de la CIA que definió el éxito del audaz rescate del piloto del F-15 derribado por Irán",
-          "summary": "¿Cómo fue el rescate del piloto del caza F-15 en Irán y qué revela esta misión de alto riesgo sobre las capacidades militares de Estados Unidos? En esta nota los detalles de una operación que marca un nuevo punto en las tensiones militares en Medio Oriente",
-          "body_text": "En medio de una de las operaciones más delicadas de la guerra, Estados Unidos ejecutó una incursión encubierta en territorio de Irán para rescatar al segundo tripulante de un F-15E Strike Eagle derribado, en una misión que combinó fuerzas especiales, apoyo aéreo y un componente clave que apenas empieza a salir a la luz: una campaña de engaño diseñada para confundir a las fuerzas iraníes. En la medianoche del domingo, el presidente de Estados Unidos, Donald Trump, anunció que el segundo tripulante del caza derribado había sido “rescatado con éxito” tras una misión que describió como “muy peligrosa” en territorio de Irán. Destacó el “trabajo increíble” de las fuerzas especiales y aseguró que el aviador se encontraba a salvo pese a haber resultado herido. Horas más tarde, Trump reveló que el piloto rescatado está “gravemente herido”. Agregó que se trata de “un coronel muy respetado”. Según Trump, en la operación participaron unos 200 soldados de unidades de operaciones especiales. El viernes, Irán derribó en su territorio un caza F-15 estadounidense. Uno de los dos tripulantes fue rescatado poco después, pero el otro seguía desaparecido, lo que desató una búsqueda frenética que se prolongó hasta el sábado. En una entrevista con Axios, Trump dijo que el ejército iraní derribó el F-15 con un misil portátil. “Tuvieron suerte”, aseguró. De acuerdo con medios de Estados Unidos, el segundo piloto se encontraba en una zona montañosa de la provincia de Kohgiluyeh y Boyer-Ahmad, lugar que está bajo el control operativo de la Guardia Revolucionaria de Irán. El piloto tenía una pistola, una baliza y un dispositivo de comunicaciones cifradas y seguras para coordinar con los rescatistas, señaló el diario The New York Times. Trump dijo a Axios que el piloto logró enviar un mensaje, pero inicialmente se temió que estaba cautivo y que en realidad se trataba de una trampa de Irán para intentar tender una emboscada a las fuerzas estadounidenses que fueran en su rescate. Luego se tuvo la certeza de que el mensaje era real. El New York Times informó que ese primer mensaje del piloto fue enviado 14 horas después de que fuera derribado su avión, por lo que se presume que el aviador estaba inconsciente al aterrizar, por lo que inicialmente no pudo establecer contacto. Herido, el piloto caminó y se escondió en las montañas para evitar ser capturado, mientras que los drones MQ-9 Reaper bombardeaban con misiles a las fuerzas iraníes que lo buscaban y trataban de acercarse a su posición. En un intento por confundir a los iraníes, que ofrecían una recompensa de 60.000 dólares por información sobre la ubicación del piloto o su captura, la CIA orquestó una maniobra de distracción: difundió información falsa que indicaba que este ya había sido rescatado y que iba a ser sacado de Irán por tierra, según el New York Times. Medios iraníes habían informado que mucha gente se había desplazado a la zona para buscar al militar, pero el ejército había pedido que “nadie maltratara al piloto”. “El ejército iraní lo buscaba intensamente, con un gran contingente, y se acercaba peligrosamente”, afirmó Trump en uno de sus mensajes. Según CBS, mientras la operación de engaño estaba en marcha, la CIA utilizó sus capacidades para rastrear al piloto y logró localizarlo en una grieta de la montaña. De inmediato comunicó su ubicación exacta al Pentágono y la Casa Blanca. Trump ordenó una misión de rescate inmediata, y la CIA continuó proporcionando información en tiempo real. El NYT informó que los comandos del Equipo 6 de los Navy SEAL recibieron la misión de extraer al piloto, con la participación de aviones de ataque, helicópteros y drones. Las labores de búsqueda y rescate estuvieron marcadas por fuego cruzado entre los helicópteros estadounidenses y las fuerzas iraníes que se encontraban en tierra. El ejército de Irán afirmó el domingo que los comandos estadounidenses utilizaron para la operación un aeropuerto abandonado en la provincia meridional de Isfahán. En ese aeropuerto habrían aterrizado aviones de operaciones especiales MC-130J llevando a los comandos. Se cree que esos dos aviones de transporte iban a evacuar a los equipos de rescate pero no pudieron despegar una vez cumplida la misión. Según las autoridades de Estados Unidos, esos aviones fueron destruidos para evitar que cayeran en manos del enemigo, y los comandos lograron salir en otras tres aeronaves que fueron enviadas para recogerlos. Sin embargo, Irán aseguró que fueron sus fuerzas militares las que destruyeron los dos aviones MC-130J y también y dos helicópteros Black Hawk. Además, en imágenes divulgadas por medios estatales iraníes se observan los restos quemados de dos helicópteros ligeros MH-6/AH-6 Little Bird utilizados en operaciones especiales, conocidos como Night Stalkers, dijo el New York Post. Según CBS, los tres aviones de rescate volaron desde Irán hacia Kuwait, uno tras otro a corta distancia. La misión concluyó justo antes de la medianoche del domingo en EE.UU., con todas las fuerzas estadounidenses fuera del espacio aéreo enemigo. Trump explicó que el rescate se produjo a plena luz del día, “algo también inusual”. “Esta es la primera vez en la historia militar que dos pilotos estadounidenses han sido rescatados, por separado, en lo profundo del territorio enemigo”, escribió Trump. “¡NUNCA ABANDONAREMOS A UN SOLDADO ESTADOUNIDENSE!”, siguió. Para Andrés Gómez de la Torre, especialista en temas de defensa e inteligencia, el rescate del tripulante del F-15E Strike Eagle en Irán refleja la evolución hacia “guerras híbridas o multidominio”, donde las operaciones militares se combinan con inteligencia avanzada y campañas de desinformación. Según explicó a El Comercio, la misión habría estado respaldada primero por una agresiva inteligencia operativa con alto conocimiento del terreno, mediante inteligencia de imágenes y señales. Y en segundo lugar, consideró que es muy probable la participación de colaboradores locales opositores al régimen de los ayatolas. “Más allá de eso, hay que destacar las maniobras de engaño impulsadas por la CIA, que se ha vuelto más agresiva bajo el gobierno de Donald Trump”, remarcó. En ese contexto, Gómez de la Torre consideró que adelantar un supuesto rescate y traslado por tierra del piloto fue clave para desviar la atención iraní, evitando así un escenario de captura del militar que habría abierto la puerta a presiones y negociación política como las vividas tras la Crisis de los Rehenes en Irán durante el gobierno de Jimmy Carter. “Habríamos tenido el chantaje como herramienta de negociación y guerra psicológica en favor de Irán si capturaban al tripulante”, agregó. Gómez de la Torre añadió que la operación combinó fuerzas especiales —con protagonismo de los Navy SEAL— y el uso intensivo de drones MQ-9 Reaper, que habrían tenido un rol relevante en acciones nocturnas para producir bajas en el enemigo. Aunque reconoció que la operación implicó un alto costo material por la pérdida de aeronaves, subrayó su fuerte impacto político al reforzar la posición de Washington y del propio Trump en el conflicto.",
-          "url": "https://elcomercio.pe/mundo/oriente-medio/iran-rescate-del-piloto-del-caza-f-15-derribado-asi-fue-la-operacion-de-estados-unidos-para-sacarlo-de-territorio-enemigo-donald-trump-israel-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/BSNOHJIRMBBN5B3HZD4KB6LSBM.jpg?auth=8814296c1e9b7bd160fc7dcf04fb93a79a478a89f29ad5ce8517d7111a79bf21&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T11:22:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/iran-rescate-del-piloto-del-caza-f-15-derribado-asi-fue-la-operacion-de-estados-unidos-para-sacarlo-de-territorio-enemigo-donald-trump-israel-noticia/",
+          "title": "Isabel Allende: “Yo quisiera ser una novelista romántica, pero no me sale”",
+          "summary": "En su más reciente libro, Allende comparte triunfos, errores y aprendizajes que el proceso de escritura le ha brindado a lo largo de los años.",
+          "body_text": "A Isabel Allende le encanta el término “cocina literaria”. Su día de trabajo empieza con el sabor del café, bien cargado aunque no muy amargo. A esa primera taza le seguirán otras hasta que las palabras, cómo ingredientes que se van integrando en un sabroso caldo, vayan encontrando nuevos sentidos y suelten sus sabores sutiles. Hay tantas recetas y métodos de creación como hay cocineros y escritoras, aunque son relativamente pocos los que se sientan a compartir sus secretos. Y en “La Palabra Mágica”, su más reciente libro, la autora chilena se anima a hacerlo. — En tu libro recuerdas cuando olvidaste el manuscrito de “La casa de los espíritus” en una peluquería y que al volver, lo reencontraste en la basura de aquel salón. ¿Buscas reivindicar al escritor distraído? No, mira: yo trabajaba doce horas diarias en un colegio entonces. Corría como un enano porque tenía que hacerme cargo también de todas las cosas de la casa. Tenía una vida muy difícil y en aquella época no existía ninguna de las facilidades que tenemos hoy. Tenía un solo manuscrito en una bolsa que llevaba conmigo como si fuera un recién nacido. ¡Y se me fue a quedar en la peluquería! Yo creo que fue casi una metáfora de cómo el tremendo esfuerzo que supone escribir algo muchas veces va a dar a la basura. Uno escribe porque ama el proceso, pero también porque quiere comunicarse. Y tantos escritores se quedan con el manuscrito, si no es en la basura, en una gaveta. — ¿Si el camión de la basura se lo hubiera llevado, lo habrías reescrito? Yo creo que sí. Por supuesto, habría sido otro libro. Pero el proceso de escribirlo me salvó la vida. Yo iba a cumplir 40 años y estaba seca por dentro, sentía que mi vida no iba a ninguna parte. En el fondo, pienso que “La casa de los espíritus” fue un ejercicio de nostalgia. De tratar de recuperar todo lo perdido: mi país, la familia, los amigos, las anécdotas, el ambiente, todo lo que yo recibí de niña. Fue tan rico ese proceso, tan sanador, que lo habría hecho de nuevo. — ¿Qué libros sobre el proceso de escritura te apasionan especialmente? Ninguno. Yo no estudié literatura. No sabía que existían talleres, cursos, clases. No tenía idea de la industria del libro tampoco. Había sido periodista, andaba en la calle reporteando, sin pensar en literatura. Y nunca tuve un libro de referencia de cómo escribir. Pero me leí con pasión todo el “Boom” latinoamericano. Esa fue mi gran inspiración. Ese coro de voces múltiples, diferentes pero armónicas, que nos contaron un continente. — Eres de las escritoras que afirman que un trauma, o una experiencia fundamental en la vida definen la vocación literaria. ¿Es necesario un dolor original para ser escritor? Mira, yo no sé. Hay escritores que han podido escribir sin salir nunca de su casa, pero que tienen la imaginación y la empatía suficiente para ponerse en cualquier caso. Pero yo creo que de las experiencias dolorosas, difíciles, nace el deseo de exorcizarlas. Esos demonios que se quedan con uno y que necesitas ventilar. Y encuentra maneras que, a veces, son muy torcidas. Eso me pasó, por ejemplo, con “La isla bajo el mar”. No sabía por qué yo estaba escribiendo durante cuatro años un libro sobre la esclavitud en Haití. Pero cuando terminé el libro, me di cuenta que trataba sobre la impunidad del poder absoluto, un tema que me ha atormentado desde chica. Yo creo que es de ahí de donde sale, aunque no estés consciente de eso. ¡Por eso me cuesta tanto escribir una novela romántica! Yo quisiera ser una novelista romántica, pero no me sale. Mi experiencia de vida no ha sido esa. En cambio, podría escribir una sobre asesinatos, eso de todas maneras. — ¿Sueñas con escribir tu propia Madame Bovary? No. A veces me han preguntado qué libro me habría gustado escribir. Y yo siempre digo que “Harry Potter”. Porque la novela de J.K. Rowling puso a leer a una generación completa de niños, completamente absortos. — Citas a Nietzsche diciendo, “Si me dan una hoja de papel y algo para escribir, podría poner el mundo al revés.” La frase se parece mucho a la dicha por Arquímedes sobre la palanca: “Denme un punto de apoyo y moveré al mundo”. ¿Es la escritura una palanca? Muy pocos libros tienen el poder de cambiar algo fundamental. Cito siempre “La cabaña del tío Tom”, que hizo por el movimiento anti esclavista más que todo lo hecho antes por los abolicionistas. ¿Por qué? Porque tocó gente que nunca habría escuchado una voz que hablara sobre el fin de la esclavitud. Les cayó la novela en las manos y se dieron cuenta de que la esclavitud era el pecado de su nación, y cambió toda una manera de pensar. Cuando escritores latinoamericanos como Vargas Llosa o García Márquez escriben sobre dictadura, penetran en un medio donde no llegan otros discursos. Y obligan a pensar. Yo no creo que puedas mover el mundo con un libro, pero sí puedes sacudir conciencias. — ¿Cuánto influye la familia en un escritor? ¿El miedo a ventilar misterios familiares puede cortar la inspiración? Yo recibo mucho correo. Me llegan a menudo cartas de personas que quieren escribir algo que les pasó: un divorcio, un cáncer, lo que sea. Y entonces me dicen que temen la reacción de la familia involucrada en el libro. Yo les digo siempre que pongan en la balanza la opinión de esta gente por un lado y por otro la necesidad absoluta de contar la historia. Cuéntala y después vemos, podemos cambiar los nombres, editamos, ¡pero cuéntala! Cuando mi mamá leyó “La casa de los espíritus”, se molestó mucho. Decía que estaba exponiendo muchas cosas. Lo que más le molestó fue que le había puesto el nombre de mi padre al villano. Acepté cambiar el nombre, que no me costaba nada. Pero si mi mamá me hubiera pedido que eliminara algo de la novela, no lo habría aceptado. Si me dan a elegir entre ofender a la familia o contar la historia, yo cuento la historia. Si se ofenden, ¡qué le vamos a hacer! — “Tengo una pegatina en la puerta del refrigerador que me recuerda que no es necesario ser genial, lo bueno es suficiente”, escribes. ¿Es necesario bajar un poco las expectativas en el proceso creativo? En una ocasión fui con mi hija Paula a dar unos cursos en Clermont. Yo no había enseñado nunca nada, y antes de entrar a la clase, Paula me dice: “Dile a tus estudiantes que escriban una mala novela”. “Pero, Paula, ¿cómo?”, pregunté. “Sí”, me responde, “Porque si se proponen escribir la gran novela americana, no van a empezar nunca”. Lo malo se puede corregir, pero lo que no está en el papel no existe. Entonces, dale, empieza, lánzate. Ya uno verá cómo flota. Pero no se puede esperar ser un perfecto nadador antes de lanzarse al agua. Es un poco arrogante pensar que uno es capaz de escribir una novela perfecta. — ¿A nivel de estilo, cómo llevas la manía con las palabras? ¿Te peleas con los adjetivos, con los adverbios, con los gerundios? Procuro no caer en el cliché. No diré que “Fulanita tenía ojos verdes”; voy a decir que “tenía ojos de espinaca”. Busco lo diferente. Trato que mis frases sean claras, aunque sean largas, aunque tengan adjetivos. Me llegan a veces correos de aspirantes a escritores, y no entiendo lo que dicen. Es tal el barroco, le dan tantas vueltas a las cosas, que no se les entiende. Cuando leo mis primeros libros siento que recargaba demasiado el lenguaje. Después de cuarenta años viviendo en inglés, me han depurado el castellano. Para los latinos, es casi una falta de cortesía ir directo al grano. En Estados Unidos no quieres que el otro pierda tiempo, y eso me ha ayudado mucho en depurar el lenguaje. — Me llama la atención cómo en tu libro vinculas tu disciplina literaria con la disciplina militar de tu abuelo. Coincides totalmente con Vargas Llosa en eso. Yo aprendí la disciplina por mi abuelo. Me crié en la escuela del rigor, aprendiendo que la vida no es fácil, que uno no viene a este mundo a pasarlo bien, que uno viene a este mundo a trabajar, a sufrir, a hacerse fuerte. Y me ha servido inmensamente en la vida, sobre todo en el exilio y la escritura. — ¿Crees que el lector de hoy es menos capaz que antes? En general, sí. Hace 50 años, lo que había era literatura. No existían las miniseries. Había la costumbre de leer. Y se empezaba a leer desde chico. Salvo el cine, no había otra entretención. Ahora hay muchas otras distracciones. Los jóvenes tienen miedo de la página de papel porque están acostumbrados a la pantalla. La gente quiere todo resumido. Los libros ya no pueden ser largos porque el editor te los rechaza. — ¿Y cómo va el proceso de escribir tus memorias? ¿Será una continuación de “La suma de los días”? ¡Ya la terminé! Será distinta. Son sólo diez años, desde mi divorcio de Willy (William Gordon) con quien estuve 28 años. Es el tiempo en que estuve sola y encontré otro amor. Todo el mundo se divorcia, todo el mundo se vuelve a casar. ¡Pero no a mi edad! Cuando me separé a los 74 años, la gente no lo podía creer. Pero pienso que es mucho más difícil quedarse en algo que no funciona que estar sola. Entonces vendí la casa enorme y me compré una casa chiquita, con un solo dormitorio y una cama para terminar mis días con mi perra. Sin embargo, no pasó mucho tiempo antes que me cayera otro marido. Nos habíamos recién conocido y nos pescó el Covid allí. Cuando se enfermaba él, yo dormía en el sofá. Y cuando me daba a mí, también dormía en el sofá, porque él no cabía. Ahora tenemos una casa con dos camas. Es una memoria sobre la vejez, sobre el amor a cualquier edad.",
+          "url": "https://elcomercio.pe/eldominical/entrevista/isabel-allende-yo-quisiera-ser-una-novelista-romantica-pero-no-me-sale-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/QRO4SYWKUVHVFKWEWSWHXRVACU.jpg?auth=10bef7dde54c1c6b90ddb7c571dcd792b643a42594d0ae250d607f7b1bf56dc8&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-07T12:07:20Z",
+          "embed_url": "https://elcomercio.pe/eldominical/entrevista/isabel-allende-yo-quisiera-ser-una-novelista-romantica-pero-no-me-sale-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Cómo fue la operación que rescató al tripulante del caza F-15 de EE.UU. derribado por Irán, Cómo fue la operación que rescató al tripulante del caza F-15 de Estados Unidos derribado por Irán, irán, estados unidos, donald trump, israel, caza F-15 derribado en irán, guerra, bombardeos, CIA, ataques, misiles, drones, rescate piloto F-15 Irán, piloto F-15 derribado en Irán, rescate Estados Unidos Irán, operación rescate piloto EE.UU., F-15 derribado Irán 2026, cómo fue el rescate del piloto del F-15 en Irán, operación secreta Estados Unidos rescate piloto Irán, detalles rescate piloto F-15 territorio enemigo, misión rescate fuerzas especiales EE.UU. Irán, piloto estadounidense rescatado en Irán qué pasó, conflicto Estados Unidos Irán 2026",
-            "Oriente Medio",
+            "Cultura, El Dominical, El Dominical de El Comercio, Isabel Allende, Isabel Allende entrevista, Isabel Allende libros, Libros 2025, La Palabra Mágica",
+            "Entrevista",
             "Senaste",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 0
-        },
-        {
-          "id": "b4bc0bc92fb2",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tabla de posiciones de la Liga 1 2026: así quedó la fecha 9 del Torneo Apertura",
-          "summary": "Tabla de posiciones Liga 1 2026: revisa cómo se mueven las posiciones del Torneo Apertura tras la victoria de Universitario sobre Alianza Lima en el clásico del fútbol peruano.",
-          "body_text": "La Liga 1 2026 continúa con el desarrollo de la fecha 9 del Torneo Apertura, jornada clave que puede mover la parte alta de la tabla. Equipos como Alianza Lima, Los Chankas y Cienciano buscan consolidarse en los primeros lugares, mientras que Universitario, Sporting Cristal y UTC intentan acercarse a la pelea por el liderato del campeonato. La jornada comenzó con el partido entre Sporting Cristla y CD Moquegua en el Estadio Alberto Gallardo. Sorpresivamente, el cuadro visitante venció 2-1 a los celestes y sumó tres puntos claves para salir de la parte baja de la tabla. En tanto, el viernes se cerró con dos partidos: Alianza Atlético y Atlético Grau empataron 2-2, mientras que Cienciano venció 3-2 a ADT. El sábado se jugaron tres partidos más. A primera hora, Deportivo Garcilaso venció 3-2 a Sport Boys en el Garcilaso de la Vega; posteriormente, Melgar cayó 3-1 ante Cusco FC en el Monumental de la UNSA; mientras que el día se cerró con la victoria de Universitario por 1-0 sobre Alianza Lima en el Monumental. La fecha sigue este domingo con dos partido más: Sport Huancayo recibirá a Comerciantes Unidos, mientras que Juan Pablo II se medirá contra UTC, que busca los puntos para meterse nuevamente en la pelea por el Apertura. Y, por último, la fecha 9 finaliza el lunes con un solo partido: FC Cajamarca será local ante Los Chankas, que es el líder del Torneo Apertura y uno de los invictos hasta esta parte del campeonato. Viernes 3 de abril Sábado 4 de abril Domingo 5 de abril Lunes 6 de abril",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/35SGMUEC4NESLNU7XYWTTFGDW4.jpg?auth=118976bbda0ad96e92555a10c13cedac7d922f7fa564099c2d2cbedefa757472&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T07:58:43Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Apertura, Tabla Torneo Apertura, partidos Liga 1, resultados Liga 1",
-            "Fútbol peruano",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
         },
         {
           "id": "411f7668db8e",
@@ -2648,13 +2622,39 @@
           "body_text": "Con la cercanía de las Elecciones Generales 2026, crece la atención de la ciudadanía hacia un proceso que definirá a las principales autoridades del país. En una sola jornada, los votantes elegirán a quienes ocuparán diversos cargos de liderazgo político, convirtiendo este evento en uno de los más significativos dentro del calendario democrático. Diversos aspirantes se presentan como opciones para los electores, quienes deberán analizar, reflexionar y tomar decisiones antes de emitir su voto. Por la magnitud de la elección y la cantidad de puestos en disputa, los miembros de mesa podrían enfrentar jornadas más largas de lo habitual, ya que su labor incluye supervisar la votación y garantizar el conteo correcto de sufragios. Más allá del incentivo económico de S/ 165, los ciudadanos designados recibirán beneficios adicionales por cumplir esta función cívica, que abarcan tanto aspectos de formación como apoyo logístico durante el desarrollo de la jornada electoral. A continuación, te explicamos con detalle en qué consisten estas compensaciones y cómo se implementarán. La misma plataforma de la ONPE te indicará si fuiste seleccionado como miembro de mesa titular o suplente. Recuerda que la elección de miembros de mesa se realiza por sorteo entre los ciudadanos hábiles para votar. Si apareces como designado, deberás presentarte el día de la elección desde temprano para instalar la mesa de sufragio. Ser miembro de mesa es un deber cívico obligatorio, por lo que es importante revisar la plataforma con anticipación ya que corres el riesgo de sufrir una multa. Frente a este escenario, la Oficina Nacional de Procesos Electorales (ONPE) comunicó que los ciudadanos designados como miembros de mesa obtendrán dos refrigerios durante la jornada y una retribución de S/ 165, siempre que cumplan con asistir a la capacitación previa y permanezcan hasta el cierre de la votación. Por su parte, Rafael Arias, representante del organismo electoral, ofreció declaraciones a RPP en las que explicó con detalle las responsabilidades, condiciones y requisitos que deberán cumplir quienes colaboren en la organización y desarrollo de los comicios, asegurando así un proceso ordenado y transparente. La votación comienza formalmente a las 7:00 a. m. y se cierra a las 5:00 p. m. No obstante, la labor de los integrantes de mesa continúa incluso después de culminen los sufragios. “Luego viene el escrutinio que puede demorar entre 6 a 8 horas aproximadamente dado que son cinco elecciones las que van a escrutar con hasta siete votos preferenciales”, indicó Arias. Por ello, es posible que numerosos integrantes de mesa se queden en los centros de votación hasta altas horas de la noche (aproximadamente 12 p.m.). Como miembro de mesa asignado tendrás una serie de responsabilidades desde la instalación de la mesa de sufragio a primera hora, asistir a los votantes durante el desarrollo de la votación, identificar a cada votante según su cédula de identidad, contar los votos de la mesa encargada y entregar las actas electorales. Por cada mesa de sufragio se elige a un presidente, un secretario, un tercer miembro y seis suplentes según lo indicado en la ley N.º 32231. “El cargo del miembro de mesa es irrenunciable. Todos, titulares y suplentes, deben estar el día de la elección, el 12 de abril, desde las seis de la mañana para firmar la hoja de asistencia”, indicó Franz Paz Retuerto, especialista en asistencia, monitoreo y soporte de la ONP, al medio RPP. Para finalizar, cabe recordar que cada miembro de mesa recibirá un monto asignado por su labor, la cual asciende a S/ 165. De no presentarse a cumplir con el puesto asignado en la mesa de votación, tendrá una sanción de acuerdo a ley y una respectiva multa, que asciende a S/ 275 según lo declarado por Paz Retuerto.",
           "url": "https://elcomercio.pe/respuestas/tramites/soy-miembro-de-mesa-verifica-con-tu-dni-y-conoce-el-pago-y-beneficios-link-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/TXFND5ESRBGQBCC5EJUXZG5S6Y.jpg?auth=26b5b9596080eef3c24dbec4339fe2e77bde3669e020f4ce3d3e5fcbcd9f6c62&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T05:25:23Z",
+          "published_at": "2026-04-07T11:00:01Z",
           "embed_url": "https://elcomercio.pe/respuestas/tramites/soy-miembro-de-mesa-verifica-con-tu-dni-y-conoce-el-pago-y-beneficios-link-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "elecciones generales 2026, elecciones 2026, elecciones generales, miembro de mesa 2026, miembro de mesa elecciones, multa para miembros de mesa, cuánto es el pago a los miembros de mesa, cuánto cobran los miembros de mesa, miembros de mesa multa",
             "Tramites",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "b4bc0bc92fb2",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tabla de posiciones de la Liga 1 2026: así quedó la fecha 9 del Torneo Apertura",
+          "summary": "Tabla de posiciones Liga 1 2026: revisa cómo se mueven las posiciones del Torneo Apertura tras la victoria de Universitario sobre Alianza Lima en el clásico del fútbol peruano.",
+          "body_text": "La Liga 1 2026 continúa con el desarrollo de la fecha 9 del Torneo Apertura, jornada clave que puede mover la parte alta de la tabla. Equipos como Alianza Lima, Los Chankas y Cienciano buscan consolidarse en los primeros lugares, mientras que Universitario, Sporting Cristal y UTC intentan acercarse a la pelea por el liderato del campeonato. La jornada comenzó con el partido entre Sporting Cristla y CD Moquegua en el Estadio Alberto Gallardo. Sorpresivamente, el cuadro visitante venció 2-1 a los celestes y sumó tres puntos claves para salir de la parte baja de la tabla. En tanto, el viernes se cerró con dos partidos: Alianza Atlético y Atlético Grau empataron 2-2, mientras que Cienciano venció 3-2 a ADT. El sábado se jugaron tres partidos más. A primera hora, Deportivo Garcilaso venció 3-2 a Sport Boys en el Garcilaso de la Vega; posteriormente, Melgar cayó 3-1 ante Cusco FC en el Monumental de la UNSA; mientras que el día se cerró con la victoria de Universitario por 1-0 sobre Alianza Lima en el Monumental. La fecha sigue este domingo con dos partido más: Sport Huancayo recibirá a Comerciantes Unidos, mientras que Juan Pablo II se medirá contra UTC, que busca los puntos para meterse nuevamente en la pelea por el Apertura. Y, por último, la fecha 9 finaliza el lunes con un solo partido: FC Cajamarca será local ante Los Chankas, que es el líder del Torneo Apertura y uno de los invictos hasta esta parte del campeonato. Viernes 3 de abril Sábado 4 de abril Domingo 5 de abril Lunes 6 de abril",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/35SGMUEC4NESLNU7XYWTTFGDW4.jpg?auth=118976bbda0ad96e92555a10c13cedac7d922f7fa564099c2d2cbedefa757472&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-07T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Apertura, Tabla Torneo Apertura, partidos Liga 1, resultados Liga 1",
+            "Fútbol peruano",
             "Senaste",
             "El Comercio"
           ],
@@ -2674,7 +2674,7 @@
           "body_text": "Dólar BCV en Venezuela hoy, martes 7 de abril de 2026. Consulta la cotización del dólar según el Banco Central de Venezuela (BCV). El tipo de cambio del dólar estadounidense es importante para la economía venezolana porque ayuda a establecer una equivalencia entre ambos billetes. Esta cotización se emplea para facilitar el flujo de la economía entre monedas/billetes de distintos países y así realizar transacciones, pagos efectivos y otros servicios, sin ningún tipo de problema. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 474,53 Bs según el Banco Central de Venezuela.",
           "url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-tasa-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NW2B2RXTQVHFBLXEFAPGPKJTEI.png?auth=1481df61d254396b869df6ee7fbc87283a6e5d1fd9909eccfaff8b84c14c2675&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T05:22:25Z",
+          "published_at": "2026-04-07T11:00:01Z",
           "embed_url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-tasa-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2861,32 +2861,6 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "b4bc0bc92fb2",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tabla de posiciones de la Liga 1 2026: así quedó la fecha 9 del Torneo Apertura",
-          "summary": "Tabla de posiciones Liga 1 2026: revisa cómo se mueven las posiciones del Torneo Apertura tras la victoria de Universitario sobre Alianza Lima en el clásico del fútbol peruano.",
-          "body_text": "La Liga 1 2026 continúa con el desarrollo de la fecha 9 del Torneo Apertura, jornada clave que puede mover la parte alta de la tabla. Equipos como Alianza Lima, Los Chankas y Cienciano buscan consolidarse en los primeros lugares, mientras que Universitario, Sporting Cristal y UTC intentan acercarse a la pelea por el liderato del campeonato. La jornada comenzó con el partido entre Sporting Cristla y CD Moquegua en el Estadio Alberto Gallardo. Sorpresivamente, el cuadro visitante venció 2-1 a los celestes y sumó tres puntos claves para salir de la parte baja de la tabla. En tanto, el viernes se cerró con dos partidos: Alianza Atlético y Atlético Grau empataron 2-2, mientras que Cienciano venció 3-2 a ADT. El sábado se jugaron tres partidos más. A primera hora, Deportivo Garcilaso venció 3-2 a Sport Boys en el Garcilaso de la Vega; posteriormente, Melgar cayó 3-1 ante Cusco FC en el Monumental de la UNSA; mientras que el día se cerró con la victoria de Universitario por 1-0 sobre Alianza Lima en el Monumental. La fecha sigue este domingo con dos partido más: Sport Huancayo recibirá a Comerciantes Unidos, mientras que Juan Pablo II se medirá contra UTC, que busca los puntos para meterse nuevamente en la pelea por el Apertura. Y, por último, la fecha 9 finaliza el lunes con un solo partido: FC Cajamarca será local ante Los Chankas, que es el líder del Torneo Apertura y uno de los invictos hasta esta parte del campeonato. Viernes 3 de abril Sábado 4 de abril Domingo 5 de abril Lunes 6 de abril",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/35SGMUEC4NESLNU7XYWTTFGDW4.jpg?auth=118976bbda0ad96e92555a10c13cedac7d922f7fa564099c2d2cbedefa757472&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T07:58:43Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Apertura, Tabla Torneo Apertura, partidos Liga 1, resultados Liga 1",
-            "Fútbol peruano",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
           "id": "411f7668db8e",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2899,13 +2873,39 @@
           "body_text": "Con la cercanía de las Elecciones Generales 2026, crece la atención de la ciudadanía hacia un proceso que definirá a las principales autoridades del país. En una sola jornada, los votantes elegirán a quienes ocuparán diversos cargos de liderazgo político, convirtiendo este evento en uno de los más significativos dentro del calendario democrático. Diversos aspirantes se presentan como opciones para los electores, quienes deberán analizar, reflexionar y tomar decisiones antes de emitir su voto. Por la magnitud de la elección y la cantidad de puestos en disputa, los miembros de mesa podrían enfrentar jornadas más largas de lo habitual, ya que su labor incluye supervisar la votación y garantizar el conteo correcto de sufragios. Más allá del incentivo económico de S/ 165, los ciudadanos designados recibirán beneficios adicionales por cumplir esta función cívica, que abarcan tanto aspectos de formación como apoyo logístico durante el desarrollo de la jornada electoral. A continuación, te explicamos con detalle en qué consisten estas compensaciones y cómo se implementarán. La misma plataforma de la ONPE te indicará si fuiste seleccionado como miembro de mesa titular o suplente. Recuerda que la elección de miembros de mesa se realiza por sorteo entre los ciudadanos hábiles para votar. Si apareces como designado, deberás presentarte el día de la elección desde temprano para instalar la mesa de sufragio. Ser miembro de mesa es un deber cívico obligatorio, por lo que es importante revisar la plataforma con anticipación ya que corres el riesgo de sufrir una multa. Frente a este escenario, la Oficina Nacional de Procesos Electorales (ONPE) comunicó que los ciudadanos designados como miembros de mesa obtendrán dos refrigerios durante la jornada y una retribución de S/ 165, siempre que cumplan con asistir a la capacitación previa y permanezcan hasta el cierre de la votación. Por su parte, Rafael Arias, representante del organismo electoral, ofreció declaraciones a RPP en las que explicó con detalle las responsabilidades, condiciones y requisitos que deberán cumplir quienes colaboren en la organización y desarrollo de los comicios, asegurando así un proceso ordenado y transparente. La votación comienza formalmente a las 7:00 a. m. y se cierra a las 5:00 p. m. No obstante, la labor de los integrantes de mesa continúa incluso después de culminen los sufragios. “Luego viene el escrutinio que puede demorar entre 6 a 8 horas aproximadamente dado que son cinco elecciones las que van a escrutar con hasta siete votos preferenciales”, indicó Arias. Por ello, es posible que numerosos integrantes de mesa se queden en los centros de votación hasta altas horas de la noche (aproximadamente 12 p.m.). Como miembro de mesa asignado tendrás una serie de responsabilidades desde la instalación de la mesa de sufragio a primera hora, asistir a los votantes durante el desarrollo de la votación, identificar a cada votante según su cédula de identidad, contar los votos de la mesa encargada y entregar las actas electorales. Por cada mesa de sufragio se elige a un presidente, un secretario, un tercer miembro y seis suplentes según lo indicado en la ley N.º 32231. “El cargo del miembro de mesa es irrenunciable. Todos, titulares y suplentes, deben estar el día de la elección, el 12 de abril, desde las seis de la mañana para firmar la hoja de asistencia”, indicó Franz Paz Retuerto, especialista en asistencia, monitoreo y soporte de la ONP, al medio RPP. Para finalizar, cabe recordar que cada miembro de mesa recibirá un monto asignado por su labor, la cual asciende a S/ 165. De no presentarse a cumplir con el puesto asignado en la mesa de votación, tendrá una sanción de acuerdo a ley y una respectiva multa, que asciende a S/ 275 según lo declarado por Paz Retuerto.",
           "url": "https://elcomercio.pe/respuestas/tramites/soy-miembro-de-mesa-verifica-con-tu-dni-y-conoce-el-pago-y-beneficios-link-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/TXFND5ESRBGQBCC5EJUXZG5S6Y.jpg?auth=26b5b9596080eef3c24dbec4339fe2e77bde3669e020f4ce3d3e5fcbcd9f6c62&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T05:25:23Z",
+          "published_at": "2026-04-07T11:00:01Z",
           "embed_url": "https://elcomercio.pe/respuestas/tramites/soy-miembro-de-mesa-verifica-con-tu-dni-y-conoce-el-pago-y-beneficios-link-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "elecciones generales 2026, elecciones 2026, elecciones generales, miembro de mesa 2026, miembro de mesa elecciones, multa para miembros de mesa, cuánto es el pago a los miembros de mesa, cuánto cobran los miembros de mesa, miembros de mesa multa",
             "Tramites",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "b4bc0bc92fb2",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tabla de posiciones de la Liga 1 2026: así quedó la fecha 9 del Torneo Apertura",
+          "summary": "Tabla de posiciones Liga 1 2026: revisa cómo se mueven las posiciones del Torneo Apertura tras la victoria de Universitario sobre Alianza Lima en el clásico del fútbol peruano.",
+          "body_text": "La Liga 1 2026 continúa con el desarrollo de la fecha 9 del Torneo Apertura, jornada clave que puede mover la parte alta de la tabla. Equipos como Alianza Lima, Los Chankas y Cienciano buscan consolidarse en los primeros lugares, mientras que Universitario, Sporting Cristal y UTC intentan acercarse a la pelea por el liderato del campeonato. La jornada comenzó con el partido entre Sporting Cristla y CD Moquegua en el Estadio Alberto Gallardo. Sorpresivamente, el cuadro visitante venció 2-1 a los celestes y sumó tres puntos claves para salir de la parte baja de la tabla. En tanto, el viernes se cerró con dos partidos: Alianza Atlético y Atlético Grau empataron 2-2, mientras que Cienciano venció 3-2 a ADT. El sábado se jugaron tres partidos más. A primera hora, Deportivo Garcilaso venció 3-2 a Sport Boys en el Garcilaso de la Vega; posteriormente, Melgar cayó 3-1 ante Cusco FC en el Monumental de la UNSA; mientras que el día se cerró con la victoria de Universitario por 1-0 sobre Alianza Lima en el Monumental. La fecha sigue este domingo con dos partido más: Sport Huancayo recibirá a Comerciantes Unidos, mientras que Juan Pablo II se medirá contra UTC, que busca los puntos para meterse nuevamente en la pelea por el Apertura. Y, por último, la fecha 9 finaliza el lunes con un solo partido: FC Cajamarca será local ante Los Chankas, que es el líder del Torneo Apertura y uno de los invictos hasta esta parte del campeonato. Viernes 3 de abril Sábado 4 de abril Domingo 5 de abril Lunes 6 de abril",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/35SGMUEC4NESLNU7XYWTTFGDW4.jpg?auth=118976bbda0ad96e92555a10c13cedac7d922f7fa564099c2d2cbedefa757472&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-07T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Apertura, Tabla Torneo Apertura, partidos Liga 1, resultados Liga 1",
+            "Fútbol peruano",
             "Economia",
             "El Comercio"
           ],
@@ -2925,7 +2925,7 @@
           "body_text": "Dólar BCV en Venezuela hoy, martes 7 de abril de 2026. Consulta la cotización del dólar según el Banco Central de Venezuela (BCV). El tipo de cambio del dólar estadounidense es importante para la economía venezolana porque ayuda a establecer una equivalencia entre ambos billetes. Esta cotización se emplea para facilitar el flujo de la economía entre monedas/billetes de distintos países y así realizar transacciones, pagos efectivos y otros servicios, sin ningún tipo de problema. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 474,53 Bs según el Banco Central de Venezuela.",
           "url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-tasa-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NW2B2RXTQVHFBLXEFAPGPKJTEI.png?auth=1481df61d254396b869df6ee7fbc87283a6e5d1fd9909eccfaff8b84c14c2675&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T05:22:25Z",
+          "published_at": "2026-04-07T11:00:01Z",
           "embed_url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-tasa-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3138,56 +3138,30 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "3780c15eb23a",
+          "id": "56dafea628c4",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "El papel clave de la CIA que definió el éxito del audaz rescate del piloto del F-15 derribado por Irán",
-          "summary": "¿Cómo fue el rescate del piloto del caza F-15 en Irán y qué revela esta misión de alto riesgo sobre las capacidades militares de Estados Unidos? En esta nota los detalles de una operación que marca un nuevo punto en las tensiones militares en Medio Oriente",
-          "body_text": "En medio de una de las operaciones más delicadas de la guerra, Estados Unidos ejecutó una incursión encubierta en territorio de Irán para rescatar al segundo tripulante de un F-15E Strike Eagle derribado, en una misión que combinó fuerzas especiales, apoyo aéreo y un componente clave que apenas empieza a salir a la luz: una campaña de engaño diseñada para confundir a las fuerzas iraníes. En la medianoche del domingo, el presidente de Estados Unidos, Donald Trump, anunció que el segundo tripulante del caza derribado había sido “rescatado con éxito” tras una misión que describió como “muy peligrosa” en territorio de Irán. Destacó el “trabajo increíble” de las fuerzas especiales y aseguró que el aviador se encontraba a salvo pese a haber resultado herido. Horas más tarde, Trump reveló que el piloto rescatado está “gravemente herido”. Agregó que se trata de “un coronel muy respetado”. Según Trump, en la operación participaron unos 200 soldados de unidades de operaciones especiales. El viernes, Irán derribó en su territorio un caza F-15 estadounidense. Uno de los dos tripulantes fue rescatado poco después, pero el otro seguía desaparecido, lo que desató una búsqueda frenética que se prolongó hasta el sábado. En una entrevista con Axios, Trump dijo que el ejército iraní derribó el F-15 con un misil portátil. “Tuvieron suerte”, aseguró. De acuerdo con medios de Estados Unidos, el segundo piloto se encontraba en una zona montañosa de la provincia de Kohgiluyeh y Boyer-Ahmad, lugar que está bajo el control operativo de la Guardia Revolucionaria de Irán. El piloto tenía una pistola, una baliza y un dispositivo de comunicaciones cifradas y seguras para coordinar con los rescatistas, señaló el diario The New York Times. Trump dijo a Axios que el piloto logró enviar un mensaje, pero inicialmente se temió que estaba cautivo y que en realidad se trataba de una trampa de Irán para intentar tender una emboscada a las fuerzas estadounidenses que fueran en su rescate. Luego se tuvo la certeza de que el mensaje era real. El New York Times informó que ese primer mensaje del piloto fue enviado 14 horas después de que fuera derribado su avión, por lo que se presume que el aviador estaba inconsciente al aterrizar, por lo que inicialmente no pudo establecer contacto. Herido, el piloto caminó y se escondió en las montañas para evitar ser capturado, mientras que los drones MQ-9 Reaper bombardeaban con misiles a las fuerzas iraníes que lo buscaban y trataban de acercarse a su posición. En un intento por confundir a los iraníes, que ofrecían una recompensa de 60.000 dólares por información sobre la ubicación del piloto o su captura, la CIA orquestó una maniobra de distracción: difundió información falsa que indicaba que este ya había sido rescatado y que iba a ser sacado de Irán por tierra, según el New York Times. Medios iraníes habían informado que mucha gente se había desplazado a la zona para buscar al militar, pero el ejército había pedido que “nadie maltratara al piloto”. “El ejército iraní lo buscaba intensamente, con un gran contingente, y se acercaba peligrosamente”, afirmó Trump en uno de sus mensajes. Según CBS, mientras la operación de engaño estaba en marcha, la CIA utilizó sus capacidades para rastrear al piloto y logró localizarlo en una grieta de la montaña. De inmediato comunicó su ubicación exacta al Pentágono y la Casa Blanca. Trump ordenó una misión de rescate inmediata, y la CIA continuó proporcionando información en tiempo real. El NYT informó que los comandos del Equipo 6 de los Navy SEAL recibieron la misión de extraer al piloto, con la participación de aviones de ataque, helicópteros y drones. Las labores de búsqueda y rescate estuvieron marcadas por fuego cruzado entre los helicópteros estadounidenses y las fuerzas iraníes que se encontraban en tierra. El ejército de Irán afirmó el domingo que los comandos estadounidenses utilizaron para la operación un aeropuerto abandonado en la provincia meridional de Isfahán. En ese aeropuerto habrían aterrizado aviones de operaciones especiales MC-130J llevando a los comandos. Se cree que esos dos aviones de transporte iban a evacuar a los equipos de rescate pero no pudieron despegar una vez cumplida la misión. Según las autoridades de Estados Unidos, esos aviones fueron destruidos para evitar que cayeran en manos del enemigo, y los comandos lograron salir en otras tres aeronaves que fueron enviadas para recogerlos. Sin embargo, Irán aseguró que fueron sus fuerzas militares las que destruyeron los dos aviones MC-130J y también y dos helicópteros Black Hawk. Además, en imágenes divulgadas por medios estatales iraníes se observan los restos quemados de dos helicópteros ligeros MH-6/AH-6 Little Bird utilizados en operaciones especiales, conocidos como Night Stalkers, dijo el New York Post. Según CBS, los tres aviones de rescate volaron desde Irán hacia Kuwait, uno tras otro a corta distancia. La misión concluyó justo antes de la medianoche del domingo en EE.UU., con todas las fuerzas estadounidenses fuera del espacio aéreo enemigo. Trump explicó que el rescate se produjo a plena luz del día, “algo también inusual”. “Esta es la primera vez en la historia militar que dos pilotos estadounidenses han sido rescatados, por separado, en lo profundo del territorio enemigo”, escribió Trump. “¡NUNCA ABANDONAREMOS A UN SOLDADO ESTADOUNIDENSE!”, siguió. Para Andrés Gómez de la Torre, especialista en temas de defensa e inteligencia, el rescate del tripulante del F-15E Strike Eagle en Irán refleja la evolución hacia “guerras híbridas o multidominio”, donde las operaciones militares se combinan con inteligencia avanzada y campañas de desinformación. Según explicó a El Comercio, la misión habría estado respaldada primero por una agresiva inteligencia operativa con alto conocimiento del terreno, mediante inteligencia de imágenes y señales. Y en segundo lugar, consideró que es muy probable la participación de colaboradores locales opositores al régimen de los ayatolas. “Más allá de eso, hay que destacar las maniobras de engaño impulsadas por la CIA, que se ha vuelto más agresiva bajo el gobierno de Donald Trump”, remarcó. En ese contexto, Gómez de la Torre consideró que adelantar un supuesto rescate y traslado por tierra del piloto fue clave para desviar la atención iraní, evitando así un escenario de captura del militar que habría abierto la puerta a presiones y negociación política como las vividas tras la Crisis de los Rehenes en Irán durante el gobierno de Jimmy Carter. “Habríamos tenido el chantaje como herramienta de negociación y guerra psicológica en favor de Irán si capturaban al tripulante”, agregó. Gómez de la Torre añadió que la operación combinó fuerzas especiales —con protagonismo de los Navy SEAL— y el uso intensivo de drones MQ-9 Reaper, que habrían tenido un rol relevante en acciones nocturnas para producir bajas en el enemigo. Aunque reconoció que la operación implicó un alto costo material por la pérdida de aeronaves, subrayó su fuerte impacto político al reforzar la posición de Washington y del propio Trump en el conflicto.",
-          "url": "https://elcomercio.pe/mundo/oriente-medio/iran-rescate-del-piloto-del-caza-f-15-derribado-asi-fue-la-operacion-de-estados-unidos-para-sacarlo-de-territorio-enemigo-donald-trump-israel-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/BSNOHJIRMBBN5B3HZD4KB6LSBM.jpg?auth=8814296c1e9b7bd160fc7dcf04fb93a79a478a89f29ad5ce8517d7111a79bf21&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T11:22:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/iran-rescate-del-piloto-del-caza-f-15-derribado-asi-fue-la-operacion-de-estados-unidos-para-sacarlo-de-territorio-enemigo-donald-trump-israel-noticia/",
+          "title": "Irán amenaza con privar de petróleo y gas a Estados Unidos y sus aliados “durante años”",
+          "summary": "“Hemos dado muestras hasta ahora de una gran contención con un espíritu de buena vecindad, pero estas reservas quedan desde ahora levantadas”, advirtió la Guardia de la Revolución de Irán en un comunicado",
+          "body_text": "Los Guardianes de la Revolución, el ejército ideológico de Irán, amenazaron este martes con acciones contra infraestructuras que “privarán a Estados Unidos y a sus aliados del petróleo y el gas de la región durante años”. “Hemos dado muestras hasta ahora de una gran contención con un espíritu de buena vecindad, pero estas reservas quedan desde ahora levantadas”, advirtieron los Guardianes en un comunicado difundido por la televisión estatal. “Si el ejército terrorista estadounidense cruza las líneas rojas, nuestra respuesta se extenderá más allá de la región”, añadieron. Información en desarrollo",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/iran-amenaza-con-privar-de-petroleo-y-gas-a-estados-unidos-y-sus-aliados-durante-anos-donald-trump-israel-estrecho-de-ormuz-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/37PCB4PYMRGBHGAONEK6NAZWEA.jpg?auth=491de99cc187adcc1e20e29a5f13a562f978bce5a6808692baedba8739bdca4c&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-07T11:57:42Z",
+          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/iran-amenaza-con-privar-de-petroleo-y-gas-a-estados-unidos-y-sus-aliados-durante-anos-donald-trump-israel-estrecho-de-ormuz-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Cómo fue la operación que rescató al tripulante del caza F-15 de EE.UU. derribado por Irán, Cómo fue la operación que rescató al tripulante del caza F-15 de Estados Unidos derribado por Irán, irán, estados unidos, donald trump, israel, caza F-15 derribado en irán, guerra, bombardeos, CIA, ataques, misiles, drones, rescate piloto F-15 Irán, piloto F-15 derribado en Irán, rescate Estados Unidos Irán, operación rescate piloto EE.UU., F-15 derribado Irán 2026, cómo fue el rescate del piloto del F-15 en Irán, operación secreta Estados Unidos rescate piloto Irán, detalles rescate piloto F-15 territorio enemigo, misión rescate fuerzas especiales EE.UU. Irán, piloto estadounidense rescatado en Irán qué pasó, conflicto Estados Unidos Irán 2026",
+            "Irán amenaza con privar de petróleo y gas a Estados Unidos y sus aliados “durante años”, irán, estados unidos, donald trump, israel, estrecho de ormuz, petróleo, gas, guerra, bombardeos, ataques, misiles, drones, ultimátum de trump, ultimátum de trump a irán",
             "Oriente Medio",
             "Mundo",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 0
-        },
-        {
-          "id": "b4bc0bc92fb2",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tabla de posiciones de la Liga 1 2026: así quedó la fecha 9 del Torneo Apertura",
-          "summary": "Tabla de posiciones Liga 1 2026: revisa cómo se mueven las posiciones del Torneo Apertura tras la victoria de Universitario sobre Alianza Lima en el clásico del fútbol peruano.",
-          "body_text": "La Liga 1 2026 continúa con el desarrollo de la fecha 9 del Torneo Apertura, jornada clave que puede mover la parte alta de la tabla. Equipos como Alianza Lima, Los Chankas y Cienciano buscan consolidarse en los primeros lugares, mientras que Universitario, Sporting Cristal y UTC intentan acercarse a la pelea por el liderato del campeonato. La jornada comenzó con el partido entre Sporting Cristla y CD Moquegua en el Estadio Alberto Gallardo. Sorpresivamente, el cuadro visitante venció 2-1 a los celestes y sumó tres puntos claves para salir de la parte baja de la tabla. En tanto, el viernes se cerró con dos partidos: Alianza Atlético y Atlético Grau empataron 2-2, mientras que Cienciano venció 3-2 a ADT. El sábado se jugaron tres partidos más. A primera hora, Deportivo Garcilaso venció 3-2 a Sport Boys en el Garcilaso de la Vega; posteriormente, Melgar cayó 3-1 ante Cusco FC en el Monumental de la UNSA; mientras que el día se cerró con la victoria de Universitario por 1-0 sobre Alianza Lima en el Monumental. La fecha sigue este domingo con dos partido más: Sport Huancayo recibirá a Comerciantes Unidos, mientras que Juan Pablo II se medirá contra UTC, que busca los puntos para meterse nuevamente en la pelea por el Apertura. Y, por último, la fecha 9 finaliza el lunes con un solo partido: FC Cajamarca será local ante Los Chankas, que es el líder del Torneo Apertura y uno de los invictos hasta esta parte del campeonato. Viernes 3 de abril Sábado 4 de abril Domingo 5 de abril Lunes 6 de abril",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/35SGMUEC4NESLNU7XYWTTFGDW4.jpg?auth=118976bbda0ad96e92555a10c13cedac7d922f7fa564099c2d2cbedefa757472&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T07:58:43Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Apertura, Tabla Torneo Apertura, partidos Liga 1, resultados Liga 1",
-            "Fútbol peruano",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
         },
         {
           "id": "411f7668db8e",
@@ -3202,13 +3176,39 @@
           "body_text": "Con la cercanía de las Elecciones Generales 2026, crece la atención de la ciudadanía hacia un proceso que definirá a las principales autoridades del país. En una sola jornada, los votantes elegirán a quienes ocuparán diversos cargos de liderazgo político, convirtiendo este evento en uno de los más significativos dentro del calendario democrático. Diversos aspirantes se presentan como opciones para los electores, quienes deberán analizar, reflexionar y tomar decisiones antes de emitir su voto. Por la magnitud de la elección y la cantidad de puestos en disputa, los miembros de mesa podrían enfrentar jornadas más largas de lo habitual, ya que su labor incluye supervisar la votación y garantizar el conteo correcto de sufragios. Más allá del incentivo económico de S/ 165, los ciudadanos designados recibirán beneficios adicionales por cumplir esta función cívica, que abarcan tanto aspectos de formación como apoyo logístico durante el desarrollo de la jornada electoral. A continuación, te explicamos con detalle en qué consisten estas compensaciones y cómo se implementarán. La misma plataforma de la ONPE te indicará si fuiste seleccionado como miembro de mesa titular o suplente. Recuerda que la elección de miembros de mesa se realiza por sorteo entre los ciudadanos hábiles para votar. Si apareces como designado, deberás presentarte el día de la elección desde temprano para instalar la mesa de sufragio. Ser miembro de mesa es un deber cívico obligatorio, por lo que es importante revisar la plataforma con anticipación ya que corres el riesgo de sufrir una multa. Frente a este escenario, la Oficina Nacional de Procesos Electorales (ONPE) comunicó que los ciudadanos designados como miembros de mesa obtendrán dos refrigerios durante la jornada y una retribución de S/ 165, siempre que cumplan con asistir a la capacitación previa y permanezcan hasta el cierre de la votación. Por su parte, Rafael Arias, representante del organismo electoral, ofreció declaraciones a RPP en las que explicó con detalle las responsabilidades, condiciones y requisitos que deberán cumplir quienes colaboren en la organización y desarrollo de los comicios, asegurando así un proceso ordenado y transparente. La votación comienza formalmente a las 7:00 a. m. y se cierra a las 5:00 p. m. No obstante, la labor de los integrantes de mesa continúa incluso después de culminen los sufragios. “Luego viene el escrutinio que puede demorar entre 6 a 8 horas aproximadamente dado que son cinco elecciones las que van a escrutar con hasta siete votos preferenciales”, indicó Arias. Por ello, es posible que numerosos integrantes de mesa se queden en los centros de votación hasta altas horas de la noche (aproximadamente 12 p.m.). Como miembro de mesa asignado tendrás una serie de responsabilidades desde la instalación de la mesa de sufragio a primera hora, asistir a los votantes durante el desarrollo de la votación, identificar a cada votante según su cédula de identidad, contar los votos de la mesa encargada y entregar las actas electorales. Por cada mesa de sufragio se elige a un presidente, un secretario, un tercer miembro y seis suplentes según lo indicado en la ley N.º 32231. “El cargo del miembro de mesa es irrenunciable. Todos, titulares y suplentes, deben estar el día de la elección, el 12 de abril, desde las seis de la mañana para firmar la hoja de asistencia”, indicó Franz Paz Retuerto, especialista en asistencia, monitoreo y soporte de la ONP, al medio RPP. Para finalizar, cabe recordar que cada miembro de mesa recibirá un monto asignado por su labor, la cual asciende a S/ 165. De no presentarse a cumplir con el puesto asignado en la mesa de votación, tendrá una sanción de acuerdo a ley y una respectiva multa, que asciende a S/ 275 según lo declarado por Paz Retuerto.",
           "url": "https://elcomercio.pe/respuestas/tramites/soy-miembro-de-mesa-verifica-con-tu-dni-y-conoce-el-pago-y-beneficios-link-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/TXFND5ESRBGQBCC5EJUXZG5S6Y.jpg?auth=26b5b9596080eef3c24dbec4339fe2e77bde3669e020f4ce3d3e5fcbcd9f6c62&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T05:25:23Z",
+          "published_at": "2026-04-07T11:00:01Z",
           "embed_url": "https://elcomercio.pe/respuestas/tramites/soy-miembro-de-mesa-verifica-con-tu-dni-y-conoce-el-pago-y-beneficios-link-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "elecciones generales 2026, elecciones 2026, elecciones generales, miembro de mesa 2026, miembro de mesa elecciones, multa para miembros de mesa, cuánto es el pago a los miembros de mesa, cuánto cobran los miembros de mesa, miembros de mesa multa",
             "Tramites",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "b4bc0bc92fb2",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tabla de posiciones de la Liga 1 2026: así quedó la fecha 9 del Torneo Apertura",
+          "summary": "Tabla de posiciones Liga 1 2026: revisa cómo se mueven las posiciones del Torneo Apertura tras la victoria de Universitario sobre Alianza Lima en el clásico del fútbol peruano.",
+          "body_text": "La Liga 1 2026 continúa con el desarrollo de la fecha 9 del Torneo Apertura, jornada clave que puede mover la parte alta de la tabla. Equipos como Alianza Lima, Los Chankas y Cienciano buscan consolidarse en los primeros lugares, mientras que Universitario, Sporting Cristal y UTC intentan acercarse a la pelea por el liderato del campeonato. La jornada comenzó con el partido entre Sporting Cristla y CD Moquegua en el Estadio Alberto Gallardo. Sorpresivamente, el cuadro visitante venció 2-1 a los celestes y sumó tres puntos claves para salir de la parte baja de la tabla. En tanto, el viernes se cerró con dos partidos: Alianza Atlético y Atlético Grau empataron 2-2, mientras que Cienciano venció 3-2 a ADT. El sábado se jugaron tres partidos más. A primera hora, Deportivo Garcilaso venció 3-2 a Sport Boys en el Garcilaso de la Vega; posteriormente, Melgar cayó 3-1 ante Cusco FC en el Monumental de la UNSA; mientras que el día se cerró con la victoria de Universitario por 1-0 sobre Alianza Lima en el Monumental. La fecha sigue este domingo con dos partido más: Sport Huancayo recibirá a Comerciantes Unidos, mientras que Juan Pablo II se medirá contra UTC, que busca los puntos para meterse nuevamente en la pelea por el Apertura. Y, por último, la fecha 9 finaliza el lunes con un solo partido: FC Cajamarca será local ante Los Chankas, que es el líder del Torneo Apertura y uno de los invictos hasta esta parte del campeonato. Viernes 3 de abril Sábado 4 de abril Domingo 5 de abril Lunes 6 de abril",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/35SGMUEC4NESLNU7XYWTTFGDW4.jpg?auth=118976bbda0ad96e92555a10c13cedac7d922f7fa564099c2d2cbedefa757472&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-07T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Apertura, Tabla Torneo Apertura, partidos Liga 1, resultados Liga 1",
+            "Fútbol peruano",
             "Mundo",
             "El Comercio"
           ],
@@ -3228,7 +3228,7 @@
           "body_text": "Dólar BCV en Venezuela hoy, martes 7 de abril de 2026. Consulta la cotización del dólar según el Banco Central de Venezuela (BCV). El tipo de cambio del dólar estadounidense es importante para la economía venezolana porque ayuda a establecer una equivalencia entre ambos billetes. Esta cotización se emplea para facilitar el flujo de la economía entre monedas/billetes de distintos países y así realizar transacciones, pagos efectivos y otros servicios, sin ningún tipo de problema. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 474,53 Bs según el Banco Central de Venezuela.",
           "url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-tasa-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NW2B2RXTQVHFBLXEFAPGPKJTEI.png?auth=1481df61d254396b869df6ee7fbc87283a6e5d1fd9909eccfaff8b84c14c2675&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T05:22:25Z",
+          "published_at": "2026-04-07T11:00:01Z",
           "embed_url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-tasa-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3415,32 +3415,6 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "b4bc0bc92fb2",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tabla de posiciones de la Liga 1 2026: así quedó la fecha 9 del Torneo Apertura",
-          "summary": "Tabla de posiciones Liga 1 2026: revisa cómo se mueven las posiciones del Torneo Apertura tras la victoria de Universitario sobre Alianza Lima en el clásico del fútbol peruano.",
-          "body_text": "La Liga 1 2026 continúa con el desarrollo de la fecha 9 del Torneo Apertura, jornada clave que puede mover la parte alta de la tabla. Equipos como Alianza Lima, Los Chankas y Cienciano buscan consolidarse en los primeros lugares, mientras que Universitario, Sporting Cristal y UTC intentan acercarse a la pelea por el liderato del campeonato. La jornada comenzó con el partido entre Sporting Cristla y CD Moquegua en el Estadio Alberto Gallardo. Sorpresivamente, el cuadro visitante venció 2-1 a los celestes y sumó tres puntos claves para salir de la parte baja de la tabla. En tanto, el viernes se cerró con dos partidos: Alianza Atlético y Atlético Grau empataron 2-2, mientras que Cienciano venció 3-2 a ADT. El sábado se jugaron tres partidos más. A primera hora, Deportivo Garcilaso venció 3-2 a Sport Boys en el Garcilaso de la Vega; posteriormente, Melgar cayó 3-1 ante Cusco FC en el Monumental de la UNSA; mientras que el día se cerró con la victoria de Universitario por 1-0 sobre Alianza Lima en el Monumental. La fecha sigue este domingo con dos partido más: Sport Huancayo recibirá a Comerciantes Unidos, mientras que Juan Pablo II se medirá contra UTC, que busca los puntos para meterse nuevamente en la pelea por el Apertura. Y, por último, la fecha 9 finaliza el lunes con un solo partido: FC Cajamarca será local ante Los Chankas, que es el líder del Torneo Apertura y uno de los invictos hasta esta parte del campeonato. Viernes 3 de abril Sábado 4 de abril Domingo 5 de abril Lunes 6 de abril",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/35SGMUEC4NESLNU7XYWTTFGDW4.jpg?auth=118976bbda0ad96e92555a10c13cedac7d922f7fa564099c2d2cbedefa757472&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T07:58:43Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Apertura, Tabla Torneo Apertura, partidos Liga 1, resultados Liga 1",
-            "Fútbol peruano",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
           "id": "411f7668db8e",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3453,13 +3427,39 @@
           "body_text": "Con la cercanía de las Elecciones Generales 2026, crece la atención de la ciudadanía hacia un proceso que definirá a las principales autoridades del país. En una sola jornada, los votantes elegirán a quienes ocuparán diversos cargos de liderazgo político, convirtiendo este evento en uno de los más significativos dentro del calendario democrático. Diversos aspirantes se presentan como opciones para los electores, quienes deberán analizar, reflexionar y tomar decisiones antes de emitir su voto. Por la magnitud de la elección y la cantidad de puestos en disputa, los miembros de mesa podrían enfrentar jornadas más largas de lo habitual, ya que su labor incluye supervisar la votación y garantizar el conteo correcto de sufragios. Más allá del incentivo económico de S/ 165, los ciudadanos designados recibirán beneficios adicionales por cumplir esta función cívica, que abarcan tanto aspectos de formación como apoyo logístico durante el desarrollo de la jornada electoral. A continuación, te explicamos con detalle en qué consisten estas compensaciones y cómo se implementarán. La misma plataforma de la ONPE te indicará si fuiste seleccionado como miembro de mesa titular o suplente. Recuerda que la elección de miembros de mesa se realiza por sorteo entre los ciudadanos hábiles para votar. Si apareces como designado, deberás presentarte el día de la elección desde temprano para instalar la mesa de sufragio. Ser miembro de mesa es un deber cívico obligatorio, por lo que es importante revisar la plataforma con anticipación ya que corres el riesgo de sufrir una multa. Frente a este escenario, la Oficina Nacional de Procesos Electorales (ONPE) comunicó que los ciudadanos designados como miembros de mesa obtendrán dos refrigerios durante la jornada y una retribución de S/ 165, siempre que cumplan con asistir a la capacitación previa y permanezcan hasta el cierre de la votación. Por su parte, Rafael Arias, representante del organismo electoral, ofreció declaraciones a RPP en las que explicó con detalle las responsabilidades, condiciones y requisitos que deberán cumplir quienes colaboren en la organización y desarrollo de los comicios, asegurando así un proceso ordenado y transparente. La votación comienza formalmente a las 7:00 a. m. y se cierra a las 5:00 p. m. No obstante, la labor de los integrantes de mesa continúa incluso después de culminen los sufragios. “Luego viene el escrutinio que puede demorar entre 6 a 8 horas aproximadamente dado que son cinco elecciones las que van a escrutar con hasta siete votos preferenciales”, indicó Arias. Por ello, es posible que numerosos integrantes de mesa se queden en los centros de votación hasta altas horas de la noche (aproximadamente 12 p.m.). Como miembro de mesa asignado tendrás una serie de responsabilidades desde la instalación de la mesa de sufragio a primera hora, asistir a los votantes durante el desarrollo de la votación, identificar a cada votante según su cédula de identidad, contar los votos de la mesa encargada y entregar las actas electorales. Por cada mesa de sufragio se elige a un presidente, un secretario, un tercer miembro y seis suplentes según lo indicado en la ley N.º 32231. “El cargo del miembro de mesa es irrenunciable. Todos, titulares y suplentes, deben estar el día de la elección, el 12 de abril, desde las seis de la mañana para firmar la hoja de asistencia”, indicó Franz Paz Retuerto, especialista en asistencia, monitoreo y soporte de la ONP, al medio RPP. Para finalizar, cabe recordar que cada miembro de mesa recibirá un monto asignado por su labor, la cual asciende a S/ 165. De no presentarse a cumplir con el puesto asignado en la mesa de votación, tendrá una sanción de acuerdo a ley y una respectiva multa, que asciende a S/ 275 según lo declarado por Paz Retuerto.",
           "url": "https://elcomercio.pe/respuestas/tramites/soy-miembro-de-mesa-verifica-con-tu-dni-y-conoce-el-pago-y-beneficios-link-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/TXFND5ESRBGQBCC5EJUXZG5S6Y.jpg?auth=26b5b9596080eef3c24dbec4339fe2e77bde3669e020f4ce3d3e5fcbcd9f6c62&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T05:25:23Z",
+          "published_at": "2026-04-07T11:00:01Z",
           "embed_url": "https://elcomercio.pe/respuestas/tramites/soy-miembro-de-mesa-verifica-con-tu-dni-y-conoce-el-pago-y-beneficios-link-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "elecciones generales 2026, elecciones 2026, elecciones generales, miembro de mesa 2026, miembro de mesa elecciones, multa para miembros de mesa, cuánto es el pago a los miembros de mesa, cuánto cobran los miembros de mesa, miembros de mesa multa",
             "Tramites",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "b4bc0bc92fb2",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tabla de posiciones de la Liga 1 2026: así quedó la fecha 9 del Torneo Apertura",
+          "summary": "Tabla de posiciones Liga 1 2026: revisa cómo se mueven las posiciones del Torneo Apertura tras la victoria de Universitario sobre Alianza Lima en el clásico del fútbol peruano.",
+          "body_text": "La Liga 1 2026 continúa con el desarrollo de la fecha 9 del Torneo Apertura, jornada clave que puede mover la parte alta de la tabla. Equipos como Alianza Lima, Los Chankas y Cienciano buscan consolidarse en los primeros lugares, mientras que Universitario, Sporting Cristal y UTC intentan acercarse a la pelea por el liderato del campeonato. La jornada comenzó con el partido entre Sporting Cristla y CD Moquegua en el Estadio Alberto Gallardo. Sorpresivamente, el cuadro visitante venció 2-1 a los celestes y sumó tres puntos claves para salir de la parte baja de la tabla. En tanto, el viernes se cerró con dos partidos: Alianza Atlético y Atlético Grau empataron 2-2, mientras que Cienciano venció 3-2 a ADT. El sábado se jugaron tres partidos más. A primera hora, Deportivo Garcilaso venció 3-2 a Sport Boys en el Garcilaso de la Vega; posteriormente, Melgar cayó 3-1 ante Cusco FC en el Monumental de la UNSA; mientras que el día se cerró con la victoria de Universitario por 1-0 sobre Alianza Lima en el Monumental. La fecha sigue este domingo con dos partido más: Sport Huancayo recibirá a Comerciantes Unidos, mientras que Juan Pablo II se medirá contra UTC, que busca los puntos para meterse nuevamente en la pelea por el Apertura. Y, por último, la fecha 9 finaliza el lunes con un solo partido: FC Cajamarca será local ante Los Chankas, que es el líder del Torneo Apertura y uno de los invictos hasta esta parte del campeonato. Viernes 3 de abril Sábado 4 de abril Domingo 5 de abril Lunes 6 de abril",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/35SGMUEC4NESLNU7XYWTTFGDW4.jpg?auth=118976bbda0ad96e92555a10c13cedac7d922f7fa564099c2d2cbedefa757472&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-07T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-ver-partidos-y-resultados-de-la-fecha-9-del-torneo-apertura-con-alianza-lima-universitario-y-sporting-cristal-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Apertura, Tabla Torneo Apertura, partidos Liga 1, resultados Liga 1",
+            "Fútbol peruano",
             "Peru",
             "El Comercio"
           ],
@@ -3479,7 +3479,7 @@
           "body_text": "Dólar BCV en Venezuela hoy, martes 7 de abril de 2026. Consulta la cotización del dólar según el Banco Central de Venezuela (BCV). El tipo de cambio del dólar estadounidense es importante para la economía venezolana porque ayuda a establecer una equivalencia entre ambos billetes. Esta cotización se emplea para facilitar el flujo de la economía entre monedas/billetes de distintos países y así realizar transacciones, pagos efectivos y otros servicios, sin ningún tipo de problema. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 474,53 Bs según el Banco Central de Venezuela.",
           "url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-tasa-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NW2B2RXTQVHFBLXEFAPGPKJTEI.png?auth=1481df61d254396b869df6ee7fbc87283a6e5d1fd9909eccfaff8b84c14c2675&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-07T05:22:25Z",
+          "published_at": "2026-04-07T11:00:01Z",
           "embed_url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-tasa-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3726,6 +3726,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "94e35b2a442a",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Spotify's prompted playlist feature will now work for podcasts, too | TechCrunch",
+          "summary": "Spotify will now allow users to input natural language prompts to create podcast playlist.",
+          "body_text": "Spotify said today that it is expanding its AI-powered feature to create playlists, called Prompted Playlist, to include podcasts as well. The company started testing the Prompted Playlists feature in New Zealand late last year with a focus on creating music-based lists. This year, the company launched the feature in new geographies, including the U.S., Canada , the U.K., Ireland, Australia, and Sweden . Now, the beta feature will enable premium users in all these markets to create AI-aided playlists for podcasts in English. Users can tap on “Create” and select the “Prompted Playlists” option to get started and add a prompt such as “Make a playlist of True Crime podcasts I would be interested in. Add highly rated series I might have missed, especially ones full of twists and turns.” Users can also select the frequency at which the playlists are updated, with options including daily, weekly (with a selection of days), and doesn’t update. The company said that when a particular episode is added to your playlist, it will carry a short note indicating why it was included in your list. “Podcast fans are always looking for their next great listen. Prompted Playlist makes discovery feel effortless and personal. For creators, it unlocks powerful new opportunities for discovery, bringing both back catalog and new episodes to audiences who are actively signaling what they want to hear,” Lizzy Hale, Spotify’s Global Head of Podcast Editorial, said in a statement. Spotify noted that more than 34 million podcasts are discovered for the first time every week on Spotify. The company is leaning into aiding more podcast discovery with this new AI-powered feature. It said that users might see Prompted Playlists created by Spotify’s culture team on their home screen, which can be easily customized by tweaking the prompt. The audio streaming company has been making tweaks to its platform to be more podcast-friendly. Earlier this year, it lowered the criteria for monetization for video podcasts . Under the new rules, creators need to have three published podcasts, 2,000 consumption hours over the prior 30 days, and at least 1,000 engaged listeners over the last 30 days. During its Q4 2025 earnings call in February, co-CEO Alex Norström said that there were over 530,000 video podcasts on the platform. Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web. You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal. StrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle. Tickets are limited. North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+          "url": "https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Header.jpeg?resize=1200,684",
+          "published_at": "2026-04-07T12:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/04/Header.jpeg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "a9ebf067336a",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3747,30 +3771,6 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "929ee1305477",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "AI design platform Picsart launches a creator monetization program | TechCrunch",
-          "summary": "The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages.",
-          "body_text": "AI-powered design platform Picsart is launching a creator monetization program , the company told TechCrunch exclusively. The program is open to all creators, with no invite lists and no minimum audience size required. The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages. Picsart says the program is designed to reward creative output and performance, rather than focusing on scale or follower count. By launching a creator monetization program, Picsart is evolving from a creative tool into a platform where creators can earn revenue. The company likely sees the move as a way to both attract and retain creators. Picsart notes that simply generating and posting AI images without creative efforts won’t drive meaningful engagement or earnings. Once the content is created, creators fill out a short form with the URL of the submitted asset live on social, tag it according to the campaign requirements, and add a brief description of how they created it within Picsart. Content is shared directly to a creator’s own Instagram, TikTok, YouTube, and X accounts. Earnings are calculated based on views, comments, shares, and reach. Creators can track their earnings directly on their dashboard and withdraw the funds through Stripe. “We’ve always believed that creativity should be for everyone — and now, so should the rewards,” Picsart founder and CEO Hovhannes Avoyan said in a statement. “The creator economy has a structural problem: platforms have never truly committed to compensating everyday creators. Earn with Picsart is our commitment to the millions who have made this community what it is. It’s open, structured, and straightforward – show up, make things, and if your content performs, you get paid.” The company says there are earning opportunities for creators of all kinds, whether they produce tutorials, aesthetic edits, or short-form videos. Founded in 2011, Picsart has more than 130 million users worldwide. The company reached unicorn status amid the creator economy boom in 2021. The expansion into creator monetization comes a few weeks after Picsart announced that it’s launching an AI agent marketplace where creators can “hire” AI assistants for different tasks, such as resizing and remixing social content or editing product photos on Shopify. Aisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University. You can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.",
-          "url": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/picsart-image.jpg?resize=1200,800",
-          "published_at": "2026-04-07T04:01:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/06/picsart-image.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
           "sort_order": 1
         },
         {
@@ -3979,33 +3979,9 @@
       "source_kind": "story",
       "live_section": false,
       "status": "ok",
-      "article_count": 8,
+      "article_count": 6,
       "priority_split": 0,
       "articles": [
-        {
-          "id": "a15e2c2600f3",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Character.ai responds to a wrongful death lawsuit aimed at its chatbots.",
-          "summary": "[Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25845977/c_ai_motion_to_dismiss.jpg?quality=90&strip=all] Last fall, Megan Garcia sued Character.AI, its founders, and Google over the death by suicide of her 14-year-old son, who had chatted continuously with its bots, including just before his death. In December, the firm added safety measures aimed at teens and concerns over addiction. TechCrunch reports that Character.ai has filed a motion to dismiss the case, which you can read in full here.",
-          "body_text": "[Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25845977/c_ai_motion_to_dismiss.jpg?quality=90&strip=all] Last fall, Megan Garcia sued Character.AI, its founders, and Google over the death by suicide of her 14-year-old son, who had chatted continuously with its bots, including just before his death. In December, the firm added safety measures aimed at teens and concerns over addiction. TechCrunch reports that Character.ai has filed a motion to dismiss the case, which you can read in full here.",
-          "url": "https://www.theverge.com/2025/1/24/24351455/character-ai-responds-to-a-wrongful-death-lawsuit-aimed-at-its-chatbots",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25845977/c_ai_motion_to_dismiss.jpg?quality=90&strip=all&crop=13.308567603748,0,73.382864792503,100",
-          "published_at": "2025-01-25T01:22:05Z",
-          "embed_url": "https://www.theverge.com/2025/1/24/24351455/character-ai-responds-to-a-wrongful-death-lawsuit-aimed-at-its-chatbots",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
         {
           "id": "7eb34a0b68af",
           "source_id": "theverge-latest",
@@ -4028,7 +4004,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 0
         },
         {
           "id": "28abfb2d5ee1",
@@ -4052,7 +4028,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 1
         },
         {
           "id": "f04a70842a93",
@@ -4076,7 +4052,7 @@
             "The Verge"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 2
         },
         {
           "id": "9cddc1cef230",
@@ -4100,7 +4076,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 3
         },
         {
           "id": "cc06d6dc9870",
@@ -4124,7 +4100,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 4
         },
         {
           "id": "fb44355c0cb3",
@@ -4148,31 +4124,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "5ace2c4385e9",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "https://www.theverge.com/2025/1/24/24351455/character-ai-responds-to-a-wrongful-death-lawsuit-aimed-at-its-chatbots\\\"\\u003eCharacter.ai\\u003c/a\\u003e",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.theverge.com/2025/1/24/24351455/character-ai-responds-to-a-wrongful-death-lawsuit-aimed-at-its-chatbots\\\"\\u003eCharacter.ai\\u003c/a\\u003e",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.theverge.com/2025/1/24/24351455/character-ai-responds-to-a-wrongful-death-lawsuit-aimed-at-its-chatbots\\\"\\u003eCharacter.ai\\u003c/a\\u003e",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 7
+          "sort_order": 5
         }
       ]
     },
@@ -4361,8 +4313,8 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
-          "summary": "Tjänstgörande nöjesredaktör: Sandra Wejbro Tjänstgörande reporter/redaktör kväll: Emanuel Silva Nöjeschef: Nathalie Mark Chefredaktör, vd och ansvarig utgivare:",
-          "body_text": "Uppdaterad 2026-04-01 10.57 | Publicerad 2017-05-23 Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "summary": "Tjänstgörande nöjesredaktör: Sandra Wejbro Tjänstgörande reporter/redaktör kväll: Linnea Söderberg Nöjeschef: Nathalie Mark Chefredaktör, vd och ansvarig utgiva",
+          "body_text": "Uppdaterad 13.46 | Publicerad 2017-05-23 Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://cdn.aftonbladet.se/logotypes/v2/web/share-aftonbladet.jpg",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4394,6 +4346,126 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "db4f90499c83",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "JD Vance hyllar Orbán på pressträff i Ungern",
+          "summary": "JD Vance är på besök i Budapest. På tisdagen håller han en pressträff tillsammans med Ungerns premiärminister Viktor Orbán.",
+          "body_text": "På tisdagen håller han en pressträff tillsammans med Ungerns premiärminister Viktor Orbán. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA:s vicepresident JD Vance har på tisdagen rest till landet för att visa Ungerns nuvarande premiärminister Viktor Orbán sitt stöd. På eftermiddagen håller de en gemensam pressträff i Ungerns huvudstad Budapest, under parollen ”Dagen för amerikansk-ungersk vänskap”. Ledarna säger sig ha diskuterat en rad saker under ett möte som föregick pressträffen – bland annat energikrisen, kristna värderingar och global säkerhet. – USA är världens starkaste land. Jag är glad att ha dem som allierade, säger Orbán på pressträffen. – De två ledare som har gjort allra mest för att avsluta kriget i Ukraina är Donald Trump och Viktor Orbán, säger han. Enligt Vance har ”EU:s byråkrater” gjort allt i sin makt för att motarbeta Orbán och Ungern. – Det har de gjort för att de hatar den här killen. Donald Trump, president i USA, har upprepade gånger uttalat sitt stöd för Orbán. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
+          "url": "https://www.expressen.se/nyheter/varlden/jd-vance-och-viktor-orban-haller-presstraff-i-ungern/",
+          "image_url": "https://static.bonniernews.se/images/13/34/13341d74a7a24648924b3b6b81bd455b/16x9/original.jpg",
+          "published_at": "2026-04-07T12:06:59Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/jd-vance-och-viktor-orban-haller-presstraff-i-ungern/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "84c7294b1ce6",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "JUST NU: Efter hoten – attack mot viktiga ön",
+          "summary": "USA bekräftar att man attackerar den viktiga oljeön Kharg, enligt flera medier.",
+          "body_text": "USA bekräftar att man attackerar den viktiga oljeön Kharg, enligt flera medier. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kharg är en liten ö som ligger några få mil utanför Irans kust i norra Persiska viken. Nästan all iransk olja som går på export passerar ön, då det är den enda platsen där de största tankfartygen kan lägga till. På ön finns oljeterminaler och depåer. USA:s president Donald Trump har hotat att ”utplåna” bland annat Kharg om Iran inte går amerikanska krav till mötes. Attacker mot ön antas dock få följder för den globala energikrisen och ett mer varaktigt ingripande bedöms vara svårgenomfört givet öns närhet till kusten. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
+          "url": "https://www.expressen.se/nyheter/varlden/usa-attackerar-oljeon-kharg-i-iran/",
+          "image_url": "https://static.bonniernews.se/images/3c/00/3c00b5a607a8498c895c0801785b28ac/16x9/original.png",
+          "published_at": "2026-04-07T11:38:08Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/usa-attackerar-oljeon-kharg-i-iran/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "6ee9530a4e96",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Biståndskravet efter kritiken",
+          "summary": "Färre somalier ska invandra till Sverige, det är regeringens nya mål I den nya strategin för biståndet till Somalia.",
+          "body_text": "Färre somalier ska invandra till Sverige, det är regeringens nya mål I den nya strategin för biståndet till Somalia. – Svenska folket är inte en massa bankomater där vi bara förutsättningslöst skickar pengar, säger bistånds- och utrikeshandelsminister Benjamin Dousa (M). Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I december, efter att Ekot avslöjat en kritiserad överenskommelse om 100 miljoner kronor, reste Dousa till Somalia. Han träffade då den somaliske presidenten Hassan Sheikh Mohamud och ställde krav på att Somalia ska ta emot sina egna medborgare för att få bistånd av Sverige. – Han kvitterade att han förstår att det här är en viktig fråga för Sverige och att de kommer ta emot sina egna medborgare, säger Dousa. I regeringens nya biståndsstrategi minskar antalet mål från tolv till sex – och ett helt nytt tillkommer. För att få fortsatt bistånd måste Somalia se till att inte fel personer söker sig till Sverige och att de som utvisas tas emot av landet. – Somalia förutsätts ta tillbaka sina egna medborgare som saknar laglig grund i Sverige. Och dessutom att motverka irreguljär migration till Sverige och till Europa från första början, säger Benjamin Dousa . Regeringen minskar samtidigt biståndet till Somalia, till 630 miljoner kronor under en treårsperiod. Biståndet för 2026 krymper till 200 miljoner kronor, att jämföra med 310 miljoner kronor förra året, och 490 miljoner kronor under 2025. Dousa påpekar att Sverige sedan 1998 skänkt över 10 miljarder kronor i bistånd, och samtidigt knappt haft något återvändande till landet. Sedan tvångsutvisningarna började 2024 har 53 personer tvångsutvisats till Somalia. Mer än hälften av dem har varit brottsbelastade, bland annat dömda för bedrägeri, medhjälp till mord och våldtäkt mot barn. Nu ska också vägen in till Sverige täppas till. – Vi kommer ha betydligt mer fokus på invandring än tidigare.",
+          "url": "https://www.expressen.se/nyheter/politik/minskar-bistandet-kraver-att-somalia-hindrar-migranter/",
+          "image_url": "https://static.bonniernews.se/images/8b/d6/8bd6a4c9f12c4e0fb624b397c2a2a601/16x9/original.jpg",
+          "published_at": "2026-04-07T11:01:05Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/minskar-bistandet-kraver-att-somalia-hindrar-migranter/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
+          "id": "e688e6243d19",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Man från Djursholm utan körkort åkte självkörande Tesla – döms",
+          "summary": "En man i 40-årsåldern från Djursholm hade blivit av med körkortet – nu döms han för att ha åkt runt i en självkörande Tesla.",
+          "body_text": "”Vem kör egentligen?” lyder ett klassiskt citat från Kalle Anka under en kaotisk husvagnsfärd. Frågan blev nyligen aktuell i Uppsala tingsrätt när en man utan körkort dömdes för att ha åkt runt i en självkörande Tesla. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En man i 40-årsåldern från Djursholm hade blivit av med körkortet. Men det hindrade honom inte från att köra – eller åtminstone sätta sig i förarsätet på en självkörande Tesla. Nu döms mannen efter att ha framfört sin Tesla vid tre tillfällen: På E18 och riksväg 55, inom loppet av ett par timmar. Uppsala tingsrätt avfärdar mannens förklaring. I förhör menar mannen, som nekar till brott, att bilen är självkörande – att han endast skrev in adress och destination – och att det ”således var bilen som körde honom och inte tvärtom”, enligt en dom från Uppsala tingsrätt. Vidare menar mannen att han lika gärna hade kunnat sitta i baksätet – men valde att sitta i framsätet för att ”kunna styra musiken”. I domen konstaterar Uppsala tingsrätt att mannen, som tidigare har dömts för trafikrelaterade brott, var den som ”satte bilen i rörelse”, ”interagerade med bilens styrsystem” och därför, enligt Trafikbrottslagen, ”ska klassificeras som förare”. ”I vilken utsträckning han under färden hade händerna på ratten saknar härvid betydelse” , skriver Uppsala tingsrätt. Mannen döms nu till 100 dagsböter och en totalsumma på 5 000 kronor, för tre fall av grov olovlig körning.",
+          "url": "https://www.expressen.se/nyheter/sverige/man-fran-djursholm-utan-korkort-akte-sjalvkorande-tesla-doms/",
+          "image_url": "https://static.bonniernews.se/images/5a/c3/5ac39812ccef4bacbdf60b25a2bfc46d/16x9/original.png",
+          "published_at": "2026-04-07T10:52:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/man-fran-djursholm-utan-korkort-akte-sjalvkorande-tesla-doms/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 3
+        },
+        {
+          "id": "97af852a51ac",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "S: Inför språkkrav i hela välfärden",
+          "summary": "Enligt S förslag ska staten ta ansvar för att utforma språktest för respektive område. Det kan handla om allt från fritidspersonal till sjukvård.",
+          "body_text": "Socialdemokraterna vill utreda ett nationellt språkkrav i svenska för hela välfärden. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Enligt partiets integrationspolitiska talesperson Lawen Redar är det krav på språkträning i äldreomsorgen som regeringen inför i år bra, men inte tillräckligt. – All personal som arbetar nära människor måste stärkas i det svenska språket, säger hon på en pressträff. Enligt förslaget, som S vill ska utredas, ska staten ta ansvar för att utforma språktest för respektive område. Det kan handla om allt från fritidspersonal till sjukvård. Utöver ett allmänt språkkrav vill S att det införs ett språkkrav i förskolan ”redan nu”, eftersom det enligt Redar redan är färdigutrett. – Alla förskolor måste jobba med det svenska språket. Om man redan jobbar i förskola ska man få språkfrämjande insatser på arbetstid. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
+          "url": "https://www.expressen.se/nyheter/politik/s-vill-ha-sprakkrav-i-hela-valfarden/",
+          "image_url": "https://static.bonniernews.se/images/4a/03/4a03697fe9e344b281da80a219db7135/16x9/original.jpg",
+          "published_at": "2026-04-07T10:43:56Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/s-vill-ha-sprakkrav-i-hela-valfarden/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 4
+        },
+        {
           "id": "85cd1cce8438",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4401,11 +4473,11 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Orbáns löfte – orden till Putin: ”Jag är mus”",
+          "title": "Orbáns löfte – orden till Putin",
           "summary": "I mitten av oktober ringde Orbán upp Putin. Nu har samtalet läckt ut. Orbán ska ha bedyrat sin vänskap och lojalitet med den ryska ledaren – och jämfört sig själv med en mus.",
           "body_text": "I mitten av oktober ringde Orbán upp Putin. Nu har det kommit fram vad som sades i samtalet, rapporterar Bloomberg. Orbán ska ha bedyrat sin vänskap och lojalitet med den ryska ledaren – och jämfört sig själv med en mus. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Telefonsamtalet mellan Ungerns Viktor Orbán och Rysslands Vladimir Putin ägde rum den 17 oktober. Vad de pratade om har inte varit offentligt, men nu avslöjar Bloomberg att stämningen mellan ledarna minst sagt var god. Tidningen har tagit del av utskriften av samtalet. Orbán ska ha sagt att han kommer göra i princip allt för den ryska presidenten, och lovade honom sitt fulla stöd. – I går nådde vår vänskap en sådan nivå att jag kan hjälpa till på vilket sätt som helst. Om det finns något jag kan hjälpa till med så står jag till din tjänst, sa Orbán. För att understryka sin lojalitet jämförde han situationen med en populär ungersk saga, där en mus hjälper ett inburat lejon, enligt Bloomberg. I liknelsen är Orbán musen och Putin lejonet. Samtalet hölls med syftet att diskutera ifall ett potentiellt möte mellan USA och Ryssland skulle kunna hållas i Budapest. Både Putin och Orbán passade dessutom på att hylla USA:s president Donald Trump under pratstunden. – Han rör sig framåt som en stridsvagn och det funkar för honom. Det kan man bara känna lycka över, ska Putin ha sagt om Trump. I helgen är det val i Ungern. Opinionssiffrorna pekar på att Orbán kommer få det tufft mot oppositionsledaren Peter Magyar. Han har däremot fått stöd av USA:s president Donald Trump. På tisdagen har Trumps vice president, JD Vance, rest till Ungern för att hjälpa till i valspurten. Vance och Orbán kommer ha en gemensam presskonferens på tisdagseftermiddagen.",
           "url": "https://www.expressen.se/nyheter/varlden/orbans-och-putins-telefonsamtal-lackt-helhjartade-loftet/",
-          "image_url": "https://static.bonniernews.se/images/ba/d4/bad4bc4ea60142128c7530c2576da2ae/16x9/original.jpg",
+          "image_url": "https://static.bonniernews.se/images/25/a6/25a6f2bbd6c94807be51ba0261591843/16x9/original.png",
           "published_at": "2026-04-07T08:55:36Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/orbans-och-putins-telefonsamtal-lackt-helhjartade-loftet/",
           "play_mode": "page_iframe",
@@ -4415,7 +4487,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 5
         },
         {
           "id": "bd67bfdc7a7e",
@@ -4439,7 +4511,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 6
         },
         {
           "id": "6855495a99ed",
@@ -4463,7 +4535,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 7
         },
         {
           "id": "38f051a9254c",
@@ -4473,133 +4545,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Hittade arvet på vinden – får inte ut pengarna",
-          "summary": "En man ärvde över en miljon kronor i kontanter efter sina föräldrar. Sedelbuntarna förvarades i flyttlådor uppe på vinden. Men Riksbanken sätter stopp för att mannen ska få pengarna, rapporterar Mitti.",
-          "body_text": "En man ärvde över en miljon kronor i kontanter efter sina föräldrar. Sedelbuntarna förvarades i flyttlådor uppe på vinden. Men Riksbanken sätter stopp för att mannen ska få pengarna, rapporterar Mitti. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En man i Upplands Väsby fick, efter föräldrarnas död, veta att de lämnat efter sig 1 078 600 kronor i kontanter som han skulle få ärva. Mannens föräldrar använde bara kontanter i vardagen, enligt mannens egen utsago som Mitti tagit del av. Mannen hittade sedelbuntarna i flyttkartonger uppe på vinden. Då var de gamla och inte längre giltiga. Det behöver dock inte vara något hinder för att man ska kunna ta ut arvet – Riksbanken kan lösa in ogiltiga sedlar och mynt om det finns särskilda skäl. Men den här gången gick det inte. Enligt Riksbanken gick det nämligen inte att bevisa att pengarna inte kommer från brottslig verksamhet eller brott. Den som ansöker om att lösa in pengarna måste kunna förklara var de kommer ifrån, och presentera bevis för det, säger Sveriges riksbanks presschef Tomas Lundberg till Mitti. Mannen har överklagat beslutet till förvaltningsrätten. Enligt honom kom pengarna från bostadsförsäljningar. Rätten har dock avslagit mannens överklagan, eftersom ”väsentlig information saknas om sedlarnas ursprung och förvärv”. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
-          "url": "https://www.expressen.se/nyheter/sverige/arvde-en-miljon-kronor-i-kontant-far-inte-pengarna/",
-          "image_url": "https://static.bonniernews.se/images/29/61/29615decf59040529c20cf9f0548440a/16x9/original.png",
-          "published_at": "2026-04-07T07:26:52Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/arvde-en-miljon-kronor-i-kontant-far-inte-pengarna/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "d5fba49dbab5",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Larm: Civila drabbas allt hårdare i Iran",
-          "summary": "Civila i Iran faller offer för kriget i allt större utsträckning, larmar FN:s humanitära samordningsorgan Ocha.",
-          "body_text": "Civila i Iran faller offer för kriget i allt större utsträckning, larmar FN:s humanitära samordningsorgan Ocha. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Minst 2 100 civila människor har dödats i kriget, mellan den 28 februari och 30 mars, enligt Ochas senaste sammanställning . Där räknas antalet civila som skadats till nästan 28 000. USA :s och Israels flygbombningar av olika delar av landet har orsakat stora antal civila dödsoffer och omfattande skador på civil byggnation. Fler än hundratusen civila byggnader har skadats i kriget, skriver rapporten och hänvisar då till Iranska röda halvmånen. Det civila dödstalet har ”fortsatt att stiga skarpt då det har rapporterats om anfall mot flygplatser, sjukhus, bostadsområden, marknader, skolor, industrier och kulturarv över nästan alla drabbade provinser”, meddelar Ocha. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
-          "url": "https://www.expressen.se/nyheter/varlden/larm-civila-drabbas-allt-hardare-i-iran/",
-          "image_url": "https://static.bonniernews.se/images/9e/00/9e004aba27134d0e913e2075a01d8e25/16x9/original.jpg",
-          "published_at": "2026-04-07T06:43:48Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/larm-civila-drabbas-allt-hardare-i-iran/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "3211718f9330",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Udda svaret på Trumps nya hot",
-          "summary": "I natt löper Trumps deadline för Iran ut. Om de inte har öppnat Hormuzsundet klockan 02 kommer ”helvetet braka löst”, enligt presidenten.",
-          "body_text": "I natt löper Trumps deadline för Iran ut. Om de inte har öppnat Hormuzsundet klockan 02 kommer ”helvetet braka löst”, enligt presidenten. Samtidigt säger Iran nej till vapenvila – och regimen kommer nu med en udda uppmaning till landets unga. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Klockan 02 natten mot onsdag, svensk tid, löper den tidsfrist som Donald Trump har satt ut. Han vill att Iran innan dess öppnar Hormuzsundet för trafik. Annars hotar han med en rad saker – bland annat att skicka Iran ”tillbaka till stenåldern”, och att ”förstöra” hela landet på en kväll. Trump har skjutit upp tidsfristen flera gånger. Det amerikanska hotet riktas bland annat mot iransk infrastruktur. Nu uppmanar en iransk regeringsanställd unga iranier att hjälpa till att skydda den – genom att forma ”mänskliga kedjor” kring viktiga energianläggningar. Alireza Rahimi, som är sekreterare i Irans i högsta råd för ungdomar, vill att ”alla unga, atleter, konstnärer, studenter och deras lärare” ska samlas klockan 14 vid kraftverken för att visa att energianläggningarna ”tillhör Irans framtid”. Det skriver Sky News. Under påskhelgen har USA och Iran suttit i samtal om vapenvila, enligt källor till Axios. Chansen att lyckas komma överens har dock bedömts vara liten. På måndagseftermiddagen gick Iran dessutom ut och sa bestämt nej till ett eldupphör. ”Iran, med hänsyn till tidigare erfarenheter, avvisar ett eldupphör och betonar istället nödvändigheten av ett permanent slut på kriget utifrån Irans egna överväganden”, skrev den statliga nyhetsbyrån Irna på Telegram. Attackerna fortsätter samtidigt från alla inblandades håll. Under natten mot tisdag genomförde Israel en attackvåg mot Teheran. Iran svarade då på anfallen, enligt Israels militär IDF som säger sig skjuta ner robotarna. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-tidsfrist-snart-slut-udda-uppmaningen-fran-iran/",
-          "image_url": "https://static.bonniernews.se/images/89/f1/89f16adf18314aac9c806455f12696e5/16x9/original.png",
-          "published_at": "2026-04-07T06:30:21Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-tidsfrist-snart-slut-udda-uppmaningen-fran-iran/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "ac1328d8ef25",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Erkände dubbelmord för häktesvakten: ”Du kanske blir arg nu”",
-          "summary": "Den mordmisstänkte 24-årige torpeden erkände plötsligt för en kriminalvårdare: ”Du kanske blir arg nu. Jag har dödat två kurder.”",
-          "body_text": "Premium Den mordmisstänkte 24-årige torpeden erkänner plötsligt för en kriminalvårdare med kurdisk bakgrund: – Du kanske blir arg nu. Jag har dödat två kurder. Nu har mannen åtalats och riskerar livstids fängelse för ett dubbelmord i Biskopsgården i april förra året. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. EXIT FBK: ✓ Målkungen är klar ✓ Stjärnan lämnar Norlings stöd – efter dödsskjutningen: ”Helt ofattbart” Talar ut om avskedet: ”Var inställd på att fullfölja mitt kontrakt”",
-          "url": "https://www.expressen.se/nyheter/krim/erkande-dubbelmord-for-haktesvakt-jag-har-dodat-tva-kurder/",
-          "image_url": "https://static.bonniernews.se/images/8b/9e/8b9e54c10c6b440fa69a5add592c60e8/16x9/original.jpg",
-          "published_at": "2026-04-07T03:00:00Z",
-          "embed_url": "https://www.expressen.se/nyheter/krim/erkande-dubbelmord-for-haktesvakt-jag-har-dodat-tva-kurder/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "41e49dec6aec",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Går vidare – slopar permanenta uppehållstillstånd | Expressen",
-          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
-          "body_text": "Följ Expressens valbevakning med Max V Karlsson, Anna Gullberg, Viktor Barth-Kron, Anette Holmqvist och Emma Åhman. Regeringen går vidare med förslaget om att utmönstra möjligheten att få permanent uppehållstillstånd. Lagen föreslås börja gälla den 12 juli i år. Möjligheten för asylinvandrare att få permanent uppehållstillstånd ska tas bort, vilket nu föreslås i en lagrådsremiss. Regel ska i stället vara tillfälliga uppehållstillstånd. Redan i dag är huvudregeln att bara tidsbegränsade uppehållstillstånd beviljas de med skyddsbehov. Men efter viss tid kan permanent tillstånd ändå beviljas. Förslaget rör den som är flykting, alternativt skyddsbehövande eller vidarebosatt i Sverige. Möjligheten tas också bort för den som beviljas uppehållstillstånd på grund av synnerligen ömmande omständigheter, om personen inte kan utvisas på grund av så kallade verkställighetshinder och för anknytning. Nu är pressträffen slut. KD-ledaren Ebba Busch väntas snart komma med en kommentar. Nu får Kristersson en fråga om vilka de naturliga ministerposterna är för Moderaterna och vem som är en tänkbar finansministerkandidat. – Som sagt kommer vi inte att fördela några statsrådsposter överhuvudtaget utan vi har enats om de här sakerna och de kommer vi att stå fast vid. Sedan kommer vi ha bra diskussioner efteråt, säger Kristersson. Nu får partiledarna frågor om ministerposter. – Vi fördelar egentligen bara en ministerpost idag och det är statsministerposten. Jag tycker att det låter jättebra med migrationsminister Jimmie Åkesson, men vi är inte där än, men att en sverigedemokrat ska ansvar för den frågan tycker jag är helt givet, säger Åkesson. En fråga handlar om hur partierna ska agera för att Liberalerna ska komma in i riksdagen.",
-          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5a87dce5-502c-4276-b133-995065259145",
-          "image_url": "https://static.bonniernews.se/images/72/21/7221cd51a65a41318bea4aa99c677859/16x9/original.jpg",
-          "published_at": "2026-01-09T11:58:16Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5a87dce5-502c-4276-b133-995065259145",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "125194b8f3ef",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen Idag 02.23 Trumps mardröm: ”Den största och mest kraftfulla”",
+          "title": "Sverige Idag 09.26 Ärvde en miljon kronor i kontant – får inte pengarna",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-mardrom--den-storsta-och-mest-kraftfulla/",
+          "url": "https://www.expressen.se/nyheter/sverige/arvde-en-miljon-kronor-i-kontant-far-inte-pengarna/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-mardrom--den-storsta-och-mest-kraftfulla/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/arvde-en-miljon-kronor-i-kontant-far-inte-pengarna/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4610,20 +4562,20 @@
           "sort_order": 8
         },
         {
-          "id": "ee4c1ec2f728",
+          "id": "d5fba49dbab5",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen Idag 00.37 Dansade på bröllop – sen dog de i varandras armar",
+          "title": "Världen Idag 08.43 Larm: Civila drabbas allt hårdare i Iran",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/dansade-pa-brollop-sen--dog-de-i-varandras-armar/",
+          "url": "https://www.expressen.se/nyheter/varlden/larm-civila-drabbas-allt-hardare-i-iran/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/dansade-pa-brollop-sen--dog-de-i-varandras-armar/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/larm-civila-drabbas-allt-hardare-i-iran/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
