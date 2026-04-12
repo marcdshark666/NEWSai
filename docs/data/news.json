@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T09:08:49Z",
+  "generated_at": "2026-04-12T11:22:36Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Experten: ”Väldigt oklart vad nästa steg nu blir” Trump gick på UFC-gala – medan ”världen står i brand” De fem viktigaste punkterna – för att lösa blodiga konflikten Inspiration från Ukraina • Kan utföra kamikaze-uppdrag Giftskandalen som skakar Orbán inför valet: ”Orolig för hela landet” Reporter Lisa Grenfors och fotograf Matin Hamarahem",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Kräver ersättning • ”Gav sitt starka, oreserverade stöd till det här övergreppet” Pensionerade polisen plågas ännu av da Costa-fallet: ”Kan hända igen” Pekades ut – fick livet förstört: ”Grannen kallar mig mördare” Experten: ”Väldigt oklart vad nästa steg nu blir” Trump gick på UFC-gala – medan ”världen står i brand” De fem viktigaste punkterna – för att lösa blodiga konflikten Inspiration från Ukraina • Kan utföra kamikaze-uppdrag",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -246,7 +246,7 @@
             "Ekonomi",
             "TV4"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 8
         },
         {
@@ -2086,6 +2086,30 @@
           "sort_order": 13
         },
         {
+          "id": "250ee1aa16fd",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Life, Liberty, And Levin - Saturday, April 11 | Fox News Video",
+          "summary": "President Trump, Epic Fury, Iran Negotiation, Tension, No Deal, Vice President, JD Vance,",
+          "body_text": "President Trump, Epic Fury, Iran Negotiation, Tension, No Deal, Vice President, JD Vance, Life, Liberty & Levin explores the fundamental values and principles undergirding America.",
+          "url": "https://www.foxnews.com/video/6392961600112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/388649be-f634-4590-8c5e-a3042d6646ae/a854ab21-18bd-4c51-a44f-36b646f8d840/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-04-12T07:30:40Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392961600112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "d9147be6d729",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2100,30 +2124,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/5598e5b7-30fb-4a98-be03-642537a950ef/b12f62d6-702b-40d2-b954-f33c92dd1440/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-04-12T05:53:44Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392959186112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "7d45748c436d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "My View with Lara Trump - Saturday, April 11 | Fox News Video",
-          "summary": "FNC, middle east peace, saving downed aviators, american manufacturing resurgence",
-          "body_text": "FNC, middle east peace, saving downed aviators, american manufacturing resurgence Presenting in-depth analysis of the issues and stories that matter most to Americans.",
-          "url": "https://www.foxnews.com/video/6392958653112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/85b05a2d-12ce-4bb8-8021-13ac6c408902/1396f7c5-e98c-4449-9432-6df61b434e7d/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-04-12T04:35:13Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6392958653112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2151,6 +2151,54 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "17f3dd4c3f9b",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+          "summary": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
+          "body_text": "Justin Bieber made a nostalgia-fuelled return to the major stage as Coachella's much-anticipated headline act. The 32-year-old spent much of Saturday night's gig sitting in front of a laptop and singing to YouTube music videos of his older hits, such as Baby and Never say Never - delighting the crowd in an apparent tribute to the platform on which he was discovered. He also played some of the home videos that had brought him to the industry's attention aged 12, pulling them up on the big screen, and appeared to interact with the live comments on the YouTube stream of his set. It marked the star's biggest live show in four years, having cancelled his Justice world tour following health issues. He opened the gig alone on an otherwise empty stage, performing tracks from his 2025 albums Swag and Swag II - before telling the crowd he wanted to take them \"on a journey\" and reaching back into his archive. He repeatedly asked the audience: \"How far back do you go?\" Bieber also played the clip for which he most recently went viral - and which prompted speculation about his mental state - in which he confronted a photographer and said: \"It's not clocking to you, I'm standing on business.\" Dressed in a hoodie and shorts on a stripped-back stage, Bieber was joined by musical guests including The Kid Laroi, Wizkid, Tems and Dijon. The star's wife Hailey Bieber was spotted in the crowd, alongside celebrity couple Timothée Chalamet and Kylie Jenner. Bieber cancelled his world tour after revealing he was suffering from facial paralysis, after being diagnosed with Ramsay Hunt syndrome - a complication from contracting shingles - in 2022. He released his surprise album Swag in July 2025, and in February performed live at the Grammy Awards. His Coachella set marked a starker departure from the previous night's headline act, Sabrina Carpenter, whose Hollywood-themed gig included costume changes, choreography and elaborate stage design.",
+          "url": "https://www.bbc.com/news/articles/c75kx5dw395o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d135/live/63585db0-365d-11f1-a35a-c10911d2db0e.jpg",
+          "published_at": "2026-04-12T10:07:58Z",
+          "embed_url": "https://www.bbc.com/news/articles/c75kx5dw395o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "ebd5e111df14",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Ukraine and Russia accuse each other of thousands of ceasefire violations",
+          "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+          "body_text": "Ukraine and Russia have each accused one another of hundreds of violations of a short ceasefire coinciding with Orthdox Easter celebrations. The Ukrainian military said on Sunday morning that Russian forces had committed 2,299 violations since the truce began at 16:00 local time (13:00 GMT) on Saturday. The Russian defence ministry, in turn, said Ukrainian forces had committed 1,971 violations, including three attempted counter-attacks in Dnipropetrovsk region. Ukrainian President Volodymyr Zelensky earlier said his nation's forces would respond \"symmetrically\" to Russian attacks during the ceasefire, calling Easter \"a time of peace\". He added that he hoped the truce could be extended beyond Easter to facilitate peace negotiations which have all but stalled with the outbreak of war in the Middle East - but Russia rejected the idea, saying its attacks would resume on Monday. Russian troops mounted 28 attacks and carried out nearly 2,000 drone strikes, Ukraine's military said, but did not use bombs or missiles. In Ukraine's northern Sumy region, which borders Russia, local authorities said a Russian drone hit an ambulance overnight, injuring three medics. Russia's defence ministry said Ukraine had launched three overnight attacks on positions in the Pokrovsk area and Otradne in Dnipropetrovsk region. It also said four attempts by Ukrainian troops to advance in Sumy and Donetsk were \"thwarted\". Russian President Vladimir Putin announced the Easter ceasefire earlier this week, having previously resisted repeated calls from Ukraine for a temporary cessation of fighting. Zelensky said his forces would act in kind. Earlier in the year, Putin acquiesced to a US request to halt strikes on energy infrastructure as Ukraine braced for bitterly cold temperatures. Both Ukrainian and Russian sources accused each other of limited violations in the first few hours of the truce on Saturday, before making the much larger claims.",
+          "url": "https://www.bbc.com/news/articles/cz78y73v830o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg",
+          "published_at": "2026-04-12T09:19:47Z",
+          "embed_url": "https://www.bbc.com/news/articles/cz78y73v830o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "bf19a5ef2936",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2160,19 +2208,19 @@
           "source_kind": "mixed",
           "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
           "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-          "body_text": "Asha Bhosle, a legendary Bollywood singer who became a cultural icon, has died aged 92, her son has confirmed. The unrivalled queen of Indian playback singing died in Mumbai, having been admitted to hospital after suffering a heart attack. Her death marks the end of an era in Bollywood music - with her career spanning more than eight decades and encompassing more than 12,000 songs. Bhosle's distinctive voice breathed life into countless film songs as actors lip-synced to her unforgettable tracks. Her pervasive presence in Bollywood earned her the 1997 hit Cornershop tribute Brimful of Asha, and she was also known internationally for a collaboration with British musician Boy George. Her voice had an infectious quality that kept fans on their feet, dancing and singing along, ensuring that her music became the soundtrack to generations. With vocals that effortlessly traversed the entire spectrum - from romantic ballads to peppy, foot-tapping numbers - she became the go-to voice for composers across genres. Bhosle's range and energy transformed every song into a celebration, making her timeless melodies the heartbeat of Bollywood music. Whether it was the playful rhythm of Dum Maro Dum, the seduction of Piya Tu Ab To Aaja, or the energetic Mehndi Hai Rachnewali, Bhosle's versatility knew no bounds. The soundtracks of films such as Teesri Manzil, Caravan, Yaadon Ki Baaraat, Ijaazat, and Saagar have become iconic. Another highlight was Umrao Jaan, in which music director Khayyam brought out what many believe was Bhosle's finest performance. Bhosle carved her own path in the world of music, distinct from her sister Lata Mangeshkar , who died in 2022. While Mangeshkar embodied classical grace and precision, Bhosle brought a bold, dynamic energy to every song she sang.",
+          "body_text": "Asha Bhosle, a legendary Bollywood singer who became a cultural icon, has died aged 92, her son has confirmed. The unrivalled queen of Indian playback singing died in Mumbai, having been admitted to hospital after suffering a heart attack. Her death marks the end of an era in Bollywood music - with her career spanning more than eight decades and encompassing more than 12,000 songs. Bhosle's distinctive voice breathed life into countless film songs as actors lip-synced to her unforgettable tracks. Her pervasive presence in Bollywood earned her the 1997 hit Cornershop tribute Brimful of Asha, and she was also known internationally for a collaboration with British musician Boy George. Her voice had an infectious quality that kept fans on their feet, dancing and singing along, ensuring that her music became the soundtrack to generations. The news of her death has seen an outpouring of tributes on social media. Prime Minister Narendra Modi called her \"one of the most iconic and versatile voices India has ever known.\" In a post on X, he said her \"extraordinary musical journey\" enriched the nation's cultural heritage and touched \"countless hearts across the world\". Actor and politician Hema Malini voiced her grief, saying the singer's death \"is especially hard for me as I have an emotional connect with Ashaji - she has made many of my songs so popular with her unique voice and style\". Composer Shankar Mahadevan said \"every Indian is heartbroken today\", adding that her music would \"never perish as long as humanity exists\" and that she would \"live forever, with her incredible voice echoing across the world\". The tributes reflect a wider recognition of Bhosle's remarkable artistry. With a voice that moved effortlessly from romantic ballads to energetic numbers, she became the go-to singer for composers across genres. Her range and vitality made every song a celebration and defined the sound of Bollywood for generations.",
           "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/dbda/live/0f5c1ea0-ffdf-11ef-b50e-9d086302645f.jpg",
           "published_at": "2026-04-12T08:24:01Z",
           "embed_url": "https://www.bbc.com/news/articles/c6ppd0qdp1do",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
           ],
-          "is_live": false,
-          "sort_order": 0
+          "is_live": true,
+          "sort_order": 2
         },
         {
           "id": "dd19c1c2212d",
@@ -2196,7 +2244,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "afff1fdd2ffc",
@@ -2208,7 +2256,7 @@
           "source_kind": "mixed",
           "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
           "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-          "body_text": "An Orthodox Easter truce agreed by Russia and Ukraine came into force on Saturday afternoon but 38 minutes later we heard air raid sirens in the Kharkiv region in north-eastern Ukraine. Since then, officials and military have recorded multiple ceasefire violations along the frontline, although no long-range missile or drone strikes. The pause in fighting is supposed to last until Easter Monday to give people a much-needed rest, more than four years after Russia launched its full-scale invasion. \"Easter should be a time of safety, a time of peace,\" Ukraine's President Volodymyr Zelensky wrote on X, warning that Ukrainian forces would respond \"strictly in kind\" to any actions by Moscow. Expectations and trust are very low here. Shortly before the 16:00 (13:00 GMT) start time for the truce, families brought baskets full of iced Easter cakes, painted eggs and sausage to St John the Theologian Church for a blessing. They formed a line around the building to be doused with holy water by the parish priest. The service is traditionally held just before midnight, with a procession around the church, but it was mid-afternoon this year because of the curfew. \"Do you believe them?\" Fr Viktor wanted to know, when I asked about the significance of a Russian ceasefire. St John's church itself was damaged at the start of the full-scale war and its windows on one side are still boarded up. \"Maybe there will be a pause,\" one parishioner called Larisa suggested. \"But then Russia will only launch even more intense attacks. We've seen that before.\" At a military training ground about 12 miles (19km) from the Russian border, members of Yasni Ochi strike UAV unit, part of Khartia corps, are spending the weekend testing new kit for the frontline.",
+          "body_text": "An Orthodox Easter truce agreed by Russia and Ukraine came into force on Saturday afternoon but 38 minutes later we heard air raid sirens in Kharkiv, north-eastern Ukraine. By mid-morning on Easter Sunday, as families across the country attended church, Ukraine's military had recorded more than 2,000 ceasefire violations along the frontline, but no long-range missile or drone strikes. Russia's military gave a similar number. The pause in fighting was supposed to last until Monday, to give people a much-needed rest more than four years after Russia launched its full-scale invasion. \"Easter should be a time of safety, a time of peace,\" Ukraine's President Volodymyr Zelensky wrote on X shortly after the truce began, warning that Ukrainian forces would respond \"strictly in kind\" to any actions by Moscow. But expectations and trust were very low. Shortly before the 16:00 (13:00 GMT) start time for the truce, people brought baskets full of iced Easter cakes, painted eggs and sausage to St John the Theologian Church for a blessing. They formed a line around the building to be doused with holy water by the parish priest. The service is traditionally held just before midnight, with a procession around the church, but it was mid-afternoon this year because of the curfew. \"Do you believe them?\" Fr Viktor wanted to know, when I asked about the significance of a Russian ceasefire. St John's church itself was damaged at the start of the full-scale war and its windows on one side are still boarded up. \"Maybe there will be a pause,\" one parishioner called Larisa suggested. \"But then Russia will only launch even more intense attacks. We've seen that before.\" At a military training ground about 12 miles (19km) from the Russian border, members of Yasni Ochi strike UAV unit, part of Khartia corps, are spending the weekend testing new kit for the frontline.",
           "url": "https://www.bbc.com/news/articles/cj0vn30574no",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9267/live/5ce7f850-3617-11f1-879d-1b2f5c3919b8.jpg",
           "published_at": "2026-04-12T04:20:37Z",
@@ -2220,7 +2268,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "c554da28f167",
@@ -2244,7 +2292,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "e6ab72d28b09",
@@ -2268,7 +2316,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "f5fafe132054",
@@ -2280,9 +2328,9 @@
           "source_kind": "mixed",
           "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect Magyar",
           "summary": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters.",
-          "body_text": "Hungarians are going to the polls in large numbers, in a vote that could bring down Prime Minister Viktor Orbán after 16 years, and have significant repercussions for the rest of Europe, the US and Russia. Most polls favour Péter Magyar, who formed a grassroots party, Tisza, after splitting from the ruling Fidesz party. After voting in Budapest, he said if he won he would bolster Hungary's position in the EU and Nato and move against corruption. Orbán told reporters after casting his ballot \"I am here to win\" and, asked if he had underestimated his rival, said \"I don't underestimate anyone\". Voting takes place until 19:00 (17:00 GMT) and results will start to come through during the evening. After three hours, a record 16.89% of the electorate had voted, a dramatic six-point increase on four years ago and an indication that voters are far more mobilised this time around. Orbán had turned tensions up a notch ahead of the vote, claiming the opposition would \"stop at nothing to seize power\", and Magyar responded by appealing to voters not to give in to \"Fidesz pressure and blackmail\". After 16 years of Orbán running Hungary with what the European Parliament termed a \"hybrid regime of electoral autocracy\", Magyar and his Tisza party are promising \"a change of regime\", a reset of relations with the European Union and an end to close relations with Russia. He attracted far greater numbers to his final rally in the second city Debrecen than Orbán in Budapest. But Orbán remains highly valued by US President Donald Trump, who has called on Hungarians to \"get out and vote\" for his \"true friend, fighter, and WINNER\". Addressing supporters on Saturday night, the Fidesz leader insisted victory was still in reach and kept to his main campaign themes of targeting Brussels and Ukraine. \"We don't give our children, we don't give our weapons and we don't give our money,\" he said. His message resonated with the crowd, who chanted \"we won't let that happen\". One supporter, Johanna, said she backed his policies on protecting the family and particularly on the war in Ukraine.",
+          "body_text": "Hungarians are going to the polls in large numbers, in a vote that could bring down Prime Minister Viktor Orbán after 16 years, and have significant repercussions for the rest of Europe, the US and Russia. Most polls favour Péter Magyar, who formed a grassroots party, Tisza, after splitting from the ruling Fidesz party. After voting in Budapest, he said if he won he would bolster Hungary's position in the EU and Nato and move against corruption. Orbán told reporters after casting his ballot \"I am here to win\" and, asked if he had underestimated his rival, said \"I don't underestimate anyone\". Voting takes place until 19:00 (17:00 GMT) and results will start to come through during the evening. After five hours, a record 37.98% of the electorate had voted, a dramatic 12-point increase on four years ago and an indication that voters are far more mobilised this time around. Orbán had turned tensions up a notch ahead of the vote, claiming the opposition would \"stop at nothing to seize power\", and Magyar responded by appealing to voters not to give in to \"Fidesz pressure and blackmail\". After 16 years of Orbán running Hungary with what the European Parliament termed a \"hybrid regime of electoral autocracy\", Magyar and his Tisza party are promising \"a change of regime\", a reset of relations with the European Union and an end to close relations with Russia. He attracted far greater numbers to his final rally in the second city Debrecen than Orbán in Budapest. But Orbán remains highly valued by US President Donald Trump, who has called on Hungarians to \"get out and vote\" for his \"true friend, fighter, and WINNER\". Addressing supporters on Saturday night, the Fidesz leader insisted victory was still in reach and kept to his main campaign themes of targeting Brussels and Ukraine. \"We don't give our children, we don't give our weapons and we don't give our money,\" he said. His message resonated with the crowd, who chanted \"we won't let that happen\". One supporter, Johanna, said she backed his policies on protecting the family and particularly on the war in Ukraine.",
           "url": "https://www.bbc.com/news/articles/cdxdepjrv95o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c41c/live/a048e7f0-3642-11f1-9e53-c1f9d2562c19.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/00ca/live/c2585e40-3654-11f1-879d-1b2f5c3919b8.png",
           "published_at": "2026-04-11T23:25:42Z",
           "embed_url": "https://www.bbc.com/news/articles/cdxdepjrv95o",
           "play_mode": "iframe",
@@ -2292,7 +2340,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "c1f4ccd1c77c",
@@ -2316,31 +2364,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "5241164aef15",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Iran war: We spoke to the man making Lego-style AI videos that experts say are powerful propaganda",
-          "summary": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
-          "body_text": "At first glance they look like they could be scenes out of a Lego movie, although more vivid and fast-paced. But these viral AI videos inspired by the instantly recognisable Lego aesthetic feature dying children, fighter jets and US President Donald Trump - and are in fact pro-Iran propaganda. For our new BBC podcast, Top Comment , we spoke to a representative of Explosive Media, one of the key accounts generating these clips. He wanted us to refer to him as Mr Explosive. He's a savvy social media operator who initially denies working for the Iranian government. In previous interviews the outlet has said it is \"totally independent\". But upon further questioning, Mr Explosive admits the regime is a \"customer\" - something he's never before confirmed publicly. The overriding message of these videos is that Iran is resisting what it sees as an almighty global oppressor: the United States. The clips are garish and not subtle at all - but that hasn't put a dent in how vigorously people are sharing and commenting on them. In one of the videos, Donald Trump falls through a whirlwind of \"Epstein file\" documents as rap lyrics tell us \"the secrets are leaking, the pressure is rising\". In another, George Floyd can be seen under a policeman's boot as we hear Iran is \"standing here for everyone your system ever wronged\". \"Slopaganda\" - coined in an academic paper last year as a play on 'AI slop' - is too weak a term to capture how powerful this \"highly sophisticated\" content is, says leading propaganda expert Dr Emma Briant. AI-generated propaganda clips are estimated to have been viewed hundreds of millions of times over the course of the war. In our video call with Mr Explosive, he appears silhouetted and flanked by red and green light, the colours of the Iranian flag. On his desk there's a green-feathered helmet associated with the warrior Husayn ibn Ali, who features in several of their videos. He says his team at Explosive Media consists of fewer than ten people who use Lego-style graphics \"because it is a world language\". Iranian and Russian state media accounts on X regularly share them to millions of followers.",
-          "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
-          "published_at": "2026-04-11T23:13:23Z",
-          "embed_url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "94ae5246d1ec",
@@ -2364,7 +2388,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "19dec37453c2",
@@ -2388,7 +2412,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "5e10ac437052",
@@ -2412,30 +2436,6 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "92d3f7b86793",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Coachella 2026: Festival kicks off with Sabrina Carpenter and surprise guests",
-          "summary": "The festival in California was also forced to cancel a set by DJ Anyma on Friday because of strong winds.",
-          "body_text": "The Coachella music festival has kicked off with surprise guest actor Susan Sarandon featuring in pop star Sabrina Carpenter's headlining performance on Friday. The actor delivered a monologue as an older version of 26-year-old Carpenter in the middle of her set. Other stars who featured in the singer's classic Hollywood-themed gig were comedian Will Ferrell and actor Sam Elliott. The massive festival in the California desert draws more than 100,000 people daily over two weekends, according to police from the city of Indio. This year, weather agencies have warned of wind and dust in the area, with strong winds forcing the festival to cancel a set by DJ Anyma after Carpenter's performance. \"Due to strong wind conditions affecting Anyma's stage build, he is unable to perform tonight,\" the Coachella Valley Music and Arts Festival said in a statement on Instagram on Friday. \"Coachella and Anyma have made this decision together with your safety as the priority.\" The National Weather Service had said wind gusts were expected to reach around 25 miles per hour on Friday. An air quality advisory is also in place in the Coachella Valley from Friday afternoon until Sunday morning because of windblown dust that could be unhealthy for sensitive groups. \"Particle pollution can get deep into the lungs and cause serious health problems such as asthma attacks, heart and lung disease symptoms, and increased risk of lung infections,\" the National Weather Service warned. Indio is listed as one of the potentially impacted areas, although the local air quality management district said levels of polluting particles were measured as good to moderate since noon on Thursday. To kick off the globally renowned festival, Carpenter - headlining for the first time - turned the stage into the Hollywood Hills, nicknaming it \"Sabrinawood\". She began her set by appearing in a short film where she was pulled over while driving at night by the actor Elliott. He lets her go, and afterwards she emerges on stage. Comedian Ferrell appeared later on stage pretending to be an electrician. Other performers on Friday included global girl group KATSEYE and British artist Disclosure.",
-          "url": "https://www.bbc.com/news/articles/cpwjnvrpn8eo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ff8a/live/54b67970-35ba-11f1-abb0-49ba9f510e0d.jpg",
-          "published_at": "2026-04-11T15:45:05Z",
-          "embed_url": "https://www.bbc.com/news/articles/cpwjnvrpn8eo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
           "sort_order": 11
         },
         {
@@ -4055,30 +4055,6 @@
           "sort_order": 2
         },
         {
-          "id": "6b8f919b8644",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse\\\"\\u003ethe",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse\\\"\\u003ethe",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse\\\"\\u003ethe",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
           "id": "69804b585cb7",
           "source_id": "theverge-latest",
           "source_name": "The Verge",
@@ -4093,6 +4069,30 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing\",\"title\":\"NASA’s",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "6b8f919b8644",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse\\\"\\u003ethe",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse\\\"\\u003ethe",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse\\\"\\u003ethe",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4225,20 +4225,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "cc3b23c1e7bc",
+          "id": "c5d85006d500",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Försökte döda litet barn",
-          "summary": "Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma.",
-          "body_text": "Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
-          "url": "https://www.expressen.se/nyheter/sverige/forsokt-doda-litet-barn/",
-          "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
-          "published_at": "2026-04-12T08:47:02Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/forsokt-doda-litet-barn/",
+          "title": "Trump-chefen: ”Jag blev teleporterad till Waffle House”",
+          "summary": "Tänk att det är just hit man kommer när Gud teleporterar en: En våffelrestaurang på landsbygden i sydöstra USA. Men nu sopas spåren igen efter Trumps krismyndighetschef som säger att just det har hänt honom.",
+          "body_text": "Tänk att det är just hit man kommer när Gud teleporterar en: En våffelrestaurang på landsbygden i sydöstra USA. Men nu sopas spåren igen efter Trumps krismyndighetschef som säger att just det har hänt honom. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. • FEMA-chefen Gregg Phillips påstår att han teleporterats till en restaurang i Rome, Georgia. • ”Gud låter sig inte hånas. Jag vet vad jag har upplevt. Jag vet vem jag tjänar” , skrev han. Expressen besöker restaurangen – där kunderna har svårt att tro på Gudshistorien. Alla vägar leder till Rom, det är ju sen gammalt. Men att det gäller även paranormala rutter har blivit känt först på sista tiden. Och då är det visst Rome i amerikanska delstaten Georgia det handlar om. Om det låter märkligt så beror det på att det är märkligt. Allt kommer sig av uttalandena från Gregg Phillips, chef för akutinsatser på krishanteringsmyndigheten FEMA. Han har alltså sagt att han blev teleporterad till en Waffle House-restaurang i den lilla staden Rome, en och en halv timme ut på landsbygden från Atlanta. – Det var på riktigt. Teleportering är inte kul, har Expressen tidigare rapporterat att han sagt.",
+          "url": "https://www.expressen.se/nyheter/varlden/gregg-phillips-jag-blev--teleporterad-till-waffle-house/",
+          "image_url": "https://static.bonniernews.se/images/3d/bc/3dbc896981914107b91d002a89e5fd22/16x9/original.jpg",
+          "published_at": "2026-04-12T10:51:29Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/gregg-phillips-jag-blev--teleporterad-till-waffle-house/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4249,6 +4249,30 @@
           "sort_order": 0
         },
         {
+          "id": "1b514eb7453a",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Risken: Nu kan vapenvilan falla – ”Stora jokern”",
+          "summary": "JD Vance lämnade förhandlingsbordet och nu håller världen andan. Vad kommer hända med vapenvilan? Och hur dyr kommer bensinen blir?",
+          "body_text": "JD Vance lämnade förhandlingsbordet och nu håller världen andan. Vad kommer hända med vapenvilan? Och hur dyr kommer bensinen bli? – Oljepriset kommer absolut att påverkas uppåt, säger råvaruanalytikern Christian Kopfer. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Under natten mot söndag svensk tid stod det klart att förhandlingarna mellan USA och Iran brakat samman. JD Vance sa att Iran inte gått med på USA:s röda linjer och Iran å sin sida kallade USA:s krav för både oskäliga och olagliga. • Det finns en risk att kriget återupptas efter sammanbrottet i diskussionerna mellan Iran och USA. • Mellanösternkännaren Alexander Atarodi tror att Israels agerande kan påverka möjligheterna att avtalet håller och förlängs. • Oljepriserna kommer att påverkas och närma sig 100 dollar fatet, men kommer inte rusa – så länge parterna inte signalerar att det blir krig igen. Risken att kriget nu återupptas får världen att hålla andan. ”I en Mellanösternbaserad logik är detta ögonblicket när köparen lämnar butiken med motiveringen att priset är för högt. Men i det här fallet tror bägge parter att de är säljare”, skriver Sky News-analytiker Dominic Waghorn. CNN:s analytiker Nic Robertson anser att sammanbrottet åter riskerar att sätta världsekonomin i gungning. ”Misslyckandet med samtalen mellan USA och Iran är ett slag mot förhoppningarna om att hitta en avfart till krisen” skriver han.",
+          "url": "https://www.expressen.se/nyheter/varlden/experten-oljepriset-kommer-att-stiga-/",
+          "image_url": "https://static.bonniernews.se/images/aa/94/aa94ce42ac7448a7a8f141ab47b62733/16x9/original.jpg",
+          "published_at": "2026-04-12T10:26:09Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/experten-oljepriset-kommer-att-stiga-/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "8c10c1d610d1",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4256,11 +4280,11 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Därför sprack förhandlingen – han pekas ut",
+          "title": "Därför sprack samtalen – JD Vance pekas ut",
           "summary": "Förhandlingarna mellan Iran och USA sprack. Kommentatorer menar nu att det är den amerikanske vice presidenten som får bära hundhuvudet.",
           "body_text": "Förhandlingarna mellan Iran och USA sprack. Iran kallade USA:s ”slutgiltiga och bästa erbjudande” för ”olagliga anspråk”. Det är den amerikanske vicepresidenten som kommer att få bära hundhuvudet, menar flera kommentatorer. – Trump har en fantastisk förmåga att skylla ifrån sig, säger Mellanösternkännaren Alexander Atarodi. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA har lämnat förhandlingsbordet med Iran. Parterna beskrivs ha stått alldeles för långt ifrån varandra – både i sak och ton. Analytiker pekar på att det hela ses som ett misslyckande för vicepresidenten JD Vance. Samtalen mellan USA och Iran är på den högsta nivån sedan bildandet av Islamiska republiken 1979 och det är svårt att överskatta komplexiteten i diskussionerna. – De har inte talat med varandra, face to face, på 47 år. Mina förväntningar kanske inte var noll, men i alla fall väldigt, väldigt låga, säger Mellanösternexperten Alexander Atarodi. Efter 21 timmar lämnade USA förhandlingsbordet. Det hela tycks ha fallit på att Iran inte vill acceptera USA:s krav på att de aldrig ska utveckla kärnvapen.",
           "url": "https://www.expressen.se/nyheter/varlden/analysen-han-bar-ansvaret-for-haveriet-/",
-          "image_url": "https://static.bonniernews.se/images/6d/a1/6da1a9ebc8c841b7b49d9f13cfe83b73/16x9/original.png",
+          "image_url": "https://static.bonniernews.se/images/31/c6/31c680ed7a6b4120bacaf649486c3dc1/16x9/original.png",
           "published_at": "2026-04-12T06:16:59Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/analysen-han-bar-ansvaret-for-haveriet-/",
           "play_mode": "page_iframe",
@@ -4270,7 +4294,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "72c7d9e58b6a",
@@ -4294,7 +4318,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "634470562818",
@@ -4318,7 +4342,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "4baf4ea6dc3e",
@@ -4342,7 +4366,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "d9208dcd778c",
@@ -4359,30 +4383,6 @@
           "image_url": "https://static.bonniernews.se/images/9e/b5/9eb5163d5d444056b4ab34ccd00192cb/16x9/original.png",
           "published_at": "2026-04-12T01:45:01Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/usa-lamnar-forhandlingarna-nar-ingen-overenskommelse-med-iran/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "15b0c68a8b1d",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Nioåring hölls inlåst i skåpbil i nästan två år",
-          "summary": "Den nioåriga pojken hittades i måndags – naken under en filt i sin pappas skåpbil. Där har han tillbringat de senaste 18 månaderna. Pojken vårdas nu på sjukhus.",
-          "body_text": "Den nioåriga pojken hittades i måndags – naken under en filt i sin pappas skåpbil. Där har han tillbringat de senaste 18 månaderna. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Upptäckten gjordes i måndags när en granne larmade polis om ljud som lät som ett barn inne i en skåpbil i den lilla byn Hagenbach i Frankrike , nära gränsen mot Tyskland och Schweiz. Polisen bröt sig in i skåpbilen och hittade pojken naken, i fosterställning, under en filt och på en hög med skräp, uppger åklagaren Nicolas Heitz, enligt The Guardian . Bredvid pojken fanns mänsklig avföring. Enligt Heitz var pojken svårt undernärd och oförmögen att gå efter att ha tvingats sitta ner så länge. Pojkens 43-åriga pappa säger enligt åklagaren att han spärrade in sin son i skåpbilen i november 2024 för att skydda honom från sin partner, som ville placera barnet i psykiatrisk vård. Det finns inget som bekräftar att pojken haft psykiska problem, men han har sagt till utredarna att han hade ”stora problem” med sin pappas partner och att han inte trodde att pappan hade något annat val än att låsa in honom, uppger AP . Pojken har också berättat att den senaste gången han duschade var i slutet av 2024. – Vi kan inte förstå det. Det är hemskt, det finns inga ord, säger grannen Danielle till Sky News . – Jag har inte märkt någonting. Aldrig hört någonting. Det känns som att vi lever i en film eller en dröm. Det går bara inte att förstå. Pappan misstänks nu för människorov och flera andra brott. Hans partner förnekar att hon kände till att pojken fanns i skåpbilen, men misstänks bland annat för att ha underlåtit att hjälpa ett barn i fara. Pojken, hans 12-åriga syster och 10-åriga styvsyster har tagits om hand av sociala myndigheter. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
-          "url": "https://www.expressen.se/nyheter/varlden/nioaring-holls-inlast-i-skapbil-i-nastan-tva-ar/",
-          "image_url": "https://static.bonniernews.se/images/cd/5d/cd5dc6c1e4a0468da7276661fb60abb7/16x9/original.jpg",
-          "published_at": "2026-04-12T01:24:10Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/nioaring-holls-inlast-i-skapbil-i-nastan-tva-ar/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4417,6 +4417,30 @@
           "sort_order": 7
         },
         {
+          "id": "15b0c68a8b1d",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Världen Idag 03.24 Nioåring hölls inlåst i skåpbil i nästan två år",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/varlden/nioaring-holls-inlast-i-skapbil-i-nastan-tva-ar/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/varlden/nioaring-holls-inlast-i-skapbil-i-nastan-tva-ar/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
           "id": "857263cabaa0",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4431,30 +4455,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/pavens-kritik-mot-trump-storhetsvansinne/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "1db9e6630bf3",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen I går 23.44 Xis maktspel för att hjälpa Iran i kriget",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/xis-maktspel-for-att-hjalpa-iran-i-kriget/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/xis-maktspel-for-att-hjalpa-iran-i-kriget/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
