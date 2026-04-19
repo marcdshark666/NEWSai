@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T09:10:58Z",
+  "generated_at": "2026-04-19T11:23:30Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Tankesmedja: Kan ha skaffat sig ett avgörande inflytande i fredsförhandlingarna Tre möjliga scenarier när vapenvilan närmar sig sitt slut Olof Lundh: ”Girigaste VM genom alla tider” Flera personer blev skjutna på öppen gata",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Rysslandsvänlig ex‑president leder opinionsmätningarna Putinvän och Trumpviskare – de pekas ut som ”arvtagare” till Orbán Tankesmedja: Kan ha skaffat sig ett avgörande inflytande i fredsförhandlingarna Tre möjliga scenarier när vapenvilan närmar sig sitt slut Kvinnan hittades död i en isvak • Maken friades från misstankar – men åtalas nu igen Åklagaren: 51-åring dränkte exfrun i isvak – på grund av pengar",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1775,6 +1775,31 @@
           "sort_order": 0
         },
         {
+          "id": "46d12967bbd5",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump warns Iran as US military responds to Strait of Hormuz threats | Fox News Video",
+          "summary": "President Donald Trump warns Iran after the regime closes the Strait of Hormuz and opens fire on vessels. Ret. Lt. Tom Sauer, a former Navy mine specialist, discusses the U.S. Navy's mine countermeasures.",
+          "body_text": "President Donald Trump warns Iran after the regime closes the Strait of Hormuz and opens fire on vessels. Ret. Lt. Tom Sauer, a former Navy mine specialist, discusses the U.S. Navy's mine countermeasures. President Donald Trump issues a strong warning to Iran following its actions in the Strait of Hormuz, where the regime attempted to close the vital waterway and fired upon vessels. Former Navy Lieutenant Commander Tom Sauer details the U.S. Navy's mine countermeasures, including the USS Miguel Keith, USS Pioneer, and USS Chief, emphasizing the complex challenges posed by small IRGC gunboats.",
+          "url": "https://www.foxnews.com/video/6393414645112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1e541a4-cfce-4935-9405-a3c5bfad6cba/5c6291df-ceb7-40ec-a9ca-b2ff128315c2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-04-19T11:09:36Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6393414645112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "3e062120e110",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1797,7 +1822,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "4998e2e27aba",
@@ -1822,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "b479e59848c6",
@@ -1847,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "f20d99084dd3",
@@ -1872,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "61c0caf381a0",
@@ -1897,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "7247cae73e7d",
@@ -1922,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "8c79ae3818d4",
@@ -1947,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "445d55a30bcd",
@@ -1972,7 +1997,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "9c8871ab53a9",
@@ -1989,31 +2014,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59ad2bd0-1d9e-4ed1-9917-53d1eee2e878/3dc07004-1c40-44d1-a715-9545bf1e42ca/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-04-18T23:02:24Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6393388135112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "16fcb0598afa",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "US-Iran talks expected to continue throughout the weekend | Fox News Video",
-          "summary": "‘The Big Weekend Show’ discusses the volatile U.S.-Iran relationship, noting the economic impact of the Strait of Hormuz blockade and more.",
-          "body_text": "‘The Big Weekend Show’ discusses the volatile U.S.-Iran relationship, noting the economic impact of the Strait of Hormuz blockade and more.",
-          "url": "https://www.foxnews.com/video/6393388988112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe1eaf0d-9e9d-4462-8806-2af25625fe75/b0f285fe-b127-4eec-b37f-38e9a3d09247/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-04-18T22:53:56Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6393388988112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2100,20 +2100,20 @@
           "sort_order": 13
         },
         {
-          "id": "0d993b1a7a35",
+          "id": "ef6bd5267e92",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "The Journal Editorial Report – Saturday, April 18 | Fox News Video",
-          "summary": "FNC, california governor race, gdp tax cuts, iran economic pressure",
-          "body_text": "FNC, california governor race, gdp tax cuts, iran economic pressure Paul Gigot discusses news, politics, society and finance.",
-          "url": "https://www.foxnews.com/video/6393403765112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/822a84e1-8c65-4896-9309-d3aaea3731c1/00947483-b94e-41c3-a27a-00ad4266a874/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-04-19T03:37:14Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6393403765112",
+          "title": "Life, Liberty, and Levin - Saturday, April 18 | Fox News Video",
+          "summary": "China, Robert Greenway, Heritage Foundation",
+          "body_text": "China, Robert Greenway, Heritage Foundation Explore the fundamental values and principles undergirding American society, culture and politics.",
+          "url": "https://www.foxnews.com/video/6393409469112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/798c3a1a-3a05-4b6c-9226-c3e3ef942f06/5cbe17e1-f95e-4935-a2ee-2e72b2c8ccd2/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-04-19T08:58:47Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6393409469112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2125,20 +2125,20 @@
           "sort_order": 14
         },
         {
-          "id": "5330c71bb734",
+          "id": "996ebfbff9d2",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Fox News At Night - Friday, April 17 | Fox News Video",
-          "summary": "FNC, Fox News at Night, Jonathan Hunt, Strait of Hormuz, US blockade, scientist deaths, severe storms",
-          "body_text": "FNC, Fox News at Night, Jonathan Hunt, Strait of Hormuz, US blockade, scientist deaths, severe storms Hard news and analysis of compelling stories.",
-          "url": "https://www.foxnews.com/video/6393364161112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/540f728c-02e9-44f9-9661-61748a3a7b45/e04321a4-7bd0-48d6-86c4-31783f4d805c/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-04-18T12:28:46Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6393364161112",
+          "title": "My View With Lara Trump - Saturday, April 18 | Fox News Video",
+          "summary": "Iran, Trump, Eric Swalwell",
+          "body_text": "in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
+          "url": "https://www.foxnews.com/video/6393408230112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/4b2466c0-3002-4978-925b-e31fe18a4568/1576cbf4-6b4b-457f-9ec0-b673ecfbc52f/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-04-19T07:27:27Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6393408230112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2167,6 +2167,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "f733cbb7b205",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Zelensky condemns US extension of Russian sanctions waiver",
+          "summary": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
+          "body_text": "Ukraine's President Volodymyr Zelensky has condemned a US decision to extend the period during which Russia is allowed to sell oil despite Western sanctions. The move means countries can purchase Russian oil and petroleum products already loaded on vessels at sea until 16 May. The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran. But in his remarks on Sunday, Zelensky said \"every dollar paid for Russian oil is money for the war\" in Ukraine. Widespread sanctions have been in place against Russia since President Vladimir Putin launched his full-scale invasion of its neighbour in February 2022. The devastating US and Israel attacks against Iran have prompted it to retaliate not only against Israel and US military bases in the Gulf, but also against energy fatalities and other civilian sites across Arab allies of the US in the region. Additionally, Iran has virtually shut the Strait of Hormuz - the narrow passage where some 20% of the world's oil and liquefied natural gas (LNG) is usually transported through. This has led to turmoil in energy markets, with fears that a world recession may ensue if it is not reopened soon. The US move to ease Russian sanctions on 13 March was widely condemned by Zelensky as well as his European allies. Extending the waiver on Friday, the US said it wanted \"to ensure oil is available to those ⁠who need it\" as negotiations to end the war \"accelerate\". The Ukrainian leader said Russia had more than 110 tankers from its \"shadow fleet\" - vessels with obscured ownership designed to help it bypass sanctions - with \"over 12 million tons\" of oil. Their sale, he added, would bring $10bn (£7.4bn) to Moscow's coffers as \"a resource that is directly converted into new strikes against Ukraine\". The Ukrainian leader did not explain what those figures were based on.",
+          "url": "https://www.bbc.com/news/articles/c248m3z49j1o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7d55/live/ec70a3b0-3bcf-11f1-879d-1b2f5c3919b8.jpg",
+          "published_at": "2026-04-19T09:55:22Z",
+          "embed_url": "https://www.bbc.com/news/articles/c248m3z49j1o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "730d2c2a6878",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2176,7 +2200,7 @@
           "source_kind": "mixed",
           "title": "Bodies of 50 infants dumped at Trinidad graveyard",
           "summary": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\".",
-          "body_text": "The remains of at least 50 infants and six adults have been dumped at a graveyard in Trinidad and Tobago, police say. In a statement, the country's police service (TTPS) said the bodies were found in the town of Cumuto, about 40km (25 miles) from the capital Port of Spain on Trinidad - one of the two islands forming the Caribbean nation. A preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\", it added. It is unclear if the incident is linked to gang violence in the country with one of the highest murder rates in Latin America and the Caribbean. The police statement said five of the adults - four men and two women - had identification tags on them. Two showed signs of having had post-mortem examinations. The discovery was \"deeply troubling\", police commissioner Allister Guevarro said. \"Any individual or institution found to have violated that duty will be held fully accountable,\" the commissioner said. A state of emergency which gives police extended powers of search and arrest has been renewed since being introduced on 2 March. The US state department has issued several travel advisories since then - due to crime as well as \"a heightened risk of terrorism\". \"Although violent crime in Trinidad and Tobago has dropped greatly since 2024 due to security efforts started during the previous state of emergencies, crime remains a challenge throughout the country,\" the advisory said.",
+          "body_text": "The remains of at least 50 infants and six adults have been dumped at a graveyard in Trinidad and Tobago, police say. In a statement, the country's police service (TTPS) said the bodies were found in the town of Cumuto, about 40km (25 miles) from the capital Port of Spain on Trinidad - one of the two islands forming the Caribbean nation. A preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\", it added. It is unclear if the incident is linked to gang violence in the country with one of the highest murder rates in Latin America and the Caribbean. The police statement said five of the six adults - four men and two women - had identification tags on them. Two showed signs of having had post-mortem examinations. The discovery was \"deeply troubling\", police commissioner Allister Guevarro said. \"Any individual or institution found to have violated that duty will be held fully accountable,\" the commissioner said. A state of emergency which gives police extended powers of search and arrest has been renewed since being introduced on 2 March. The US state department has issued several travel advisories since then - due to crime as well as \"a heightened risk of terrorism\". \"Although violent crime in Trinidad and Tobago has dropped greatly since 2024 due to security efforts started during the previous state of emergencies, crime remains a challenge throughout the country,\" the advisory said.",
           "url": "https://www.bbc.com/news/articles/ce8jl1271pjo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f7b2/live/e7799a40-3bbd-11f1-a8e7-7d83213cdc89.jpg",
           "published_at": "2026-04-19T07:49:45Z",
@@ -2188,7 +2212,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "40371e2824f2",
@@ -2205,30 +2229,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a112/live/db9993e0-3bc4-11f1-879d-1b2f5c3919b8.jpg",
           "published_at": "2026-04-19T05:12:40Z",
           "embed_url": "https://www.bbc.com/news/articles/cy91r7ww3weo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "d863a39ff26c",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Sudanese band Aswat Almadina on playing on through the war",
-          "summary": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
-          "body_text": "Members of one of Sudan's most influential bands, Aswat Almadina, are scattered across the world, clinging to the hope that their music will be an inspiration for peace in a nation ravaged by war. Timon was among the six members of the band who left Sudan two months after the conflict started in 2023, traumatised by the sight of dead bodies, destroyed buildings and burnt-out cars in the streets of the capital, Khartoum. \"It was like something out of a zombie movie,\" Timon tells the BBC Focus on Africa podcast . More than 150,000 people have died in the conflict, and about 12 million have fled their homes in what the United Nations has called the world's largest humanitarian crisis. Timon - whose real name is Mohammed Almustafa - was among the founding members of Aswat Almadina, meaning Sounds of the City, in 2014. Their music blends Middle Eastern folk influences with urban pop and vibrant jazz, creating a distinctive and compelling sound from a once-peaceful city with an estimated population of more than seven million. \"We called ourselves 'Sounds of the City' as Khartoum is our inspiration,\" says Timon. \"Our music comes from the atmosphere in Khartoum, the natural sounds of the city, the sounds of the people, the sounds of the streets.\" They quickly built a devoted following, especially among Sudanese youth, and became the first Sudanese band to tour the country. \"I remember one time we were performing, and we saw one lady holding a sign that said: 'Your music saved my life',\" says Ibrahem Mahmoud, the co-founder and lead vocalist. \"I always keep that memory with me - it means that our music has a big responsibility.\" Their lyrics, addressing social justice, corruption, and the everyday struggles of young people, earned them recognition as UNDP Goodwill Ambassadors in 2017.",
-          "url": "https://www.bbc.com/news/articles/cx2ddjv90v9o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5cf5/live/9cb676d0-3a7e-11f1-850e-07c4418cf86c.jpg",
-          "published_at": "2026-04-18T23:09:49Z",
-          "embed_url": "https://www.bbc.com/news/articles/cx2ddjv90v9o",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2600,25 +2600,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "ebd1442800fe",
+          "id": "563b672089e0",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Cómo ver WWE WrestleMania 2026 (Noche 2) EN VIVO hoy? Transmisión online, hora de inicio, canales TV y cartelera completa",
-          "summary": "Este domingo 19 de abril, mira la transmisión de WWE Wrestlemania 2026 Noche 2 EN VIVO y EN DIRECTO, desde el Allegiant Stadium de Las Vegas, Nevada. Conoce los horarios y canales de TV del evento.",
-          "body_text": "Llegamos al día final del evento más importante de la lucha libre de entretenimiento. Este domingo 19 de abril, desde el Allegiant Stadium de Las Vegas en Nevada, podrás seguir la transmisión de WWE Wrestlemania 2026 Noche 2 EN VIVO, con la pelea estelar de Roman Reigns vs. CM Punk por el Campeonato Mundial de la WWE. Todo ha quedado listo para cerrar con broche de oro este evento, que el próximo año se va a trasladar por primera vez fuera de los Estados Unidos y será en Arabia Saudi. A continuación, te dejo con los horarios y canales de transmisión para ver el evento. La transmisión de WWE Wrestlemania 2026 Noche 2 será a partir de las 18:00 horas Tiempo del Este en Estados Unidos o 15:00 horas Tiempo del Pacífico. Además, aquí te dejo con todos los horarios en diferentes partes del mundo para que puedas seguir este evento. No te pierdas el minuto a minuto de cada combate en esta emocionante jornada de lucha libre de WWE Wrestlemania 2026 Noche 2. Este domingo 19 de abril, tienes la opción de ver WWE Wrestlemania 2026 Noche 2 EN VIVO a través de NETFLIX en todo el mundo o Peacock únicamente desde Estados Unidos. Estas son las dos opciones oficiales que tendrás para ver la jornada completa de la segunda noche de WWE Wrestlemania 2026 desde el Allegiant Stadium de Las Vegas, Nevada. Cabe señalar que el día domingo 19 de abril se llevará a cabo la Noche 2 de WWE Wrestlemania, desde el mismo escenario en el Allegiant Stadium de Las Vegas, Nevada.",
-          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/como-ver-wwe-wrestlemania-2026-noche-2-en-vivo-hoy-transmision-online-hora-de-inicio-canales-tv-y-cartelera-completa-nnda-nnrt-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B754RHFPDJDMJM363LWEBIZI6Y.jpg?auth=eb1db330f6c7c3272bd9df9a87d3c96b4af8d74fb6b99d35810d9ea4f5060662&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-19T09:00:00Z",
-          "embed_url": "https://elcomercio.pe/mag/usa/en-vivo-us/como-ver-wwe-wrestlemania-2026-noche-2-en-vivo-hoy-transmision-online-hora-de-inicio-canales-tv-y-cartelera-completa-nnda-nnrt-noticia/",
+          "title": "Desarticulan banda extorsionista, joven peruano gana beca en el MIT y el Gobierno sostiene respaldo a Petro‑Perú con medidas condicionadas",
+          "summary": "Revisa los comentarios editoriales de El Comercio de este domingo 19 de abril.",
+          "body_text": "En el Semáforo de este domingo 19 de abril, conoce la postura de El Comercio sobre los siguientes temas. Primero, la captura de Los Despiadados II prueba que coordinar fiscalía y PNP frena las mafias de transporte, aunque exige acciones sostenidas. Segundo, la beca en el MIT de Renato Gaitán demuestra que el esfuerzo supera barreras sociales. Finalmente, el salvataje a Petro-Perú preocupa y requiere reformas y control estricto. La desarticulación de Los Despiadados II confirma que, cuando la fiscalía y la PNP actúan de manera coordinada, el Estado sí puede golpear con eficacia a las mafias que asfixian al transporte. La captura, producto de un operativo que permitió localizar y detener a sus integrantes, representa un avance, aunque todavía insuficiente. El mensaje es claro: se necesitan persistencia, inteligencia y presencia sostenida para que este golpe no sea solo una victoria momentánea. El inspirador caso del joven de Villa El Salvador que desarmaba sus juguetes por curiosidad, aprendió inglés de forma autodidacta y hoy alcanza una beca completa en el prestigioso MIT nos llena de inmenso orgullo. La historia de Desarticulan banda extorsionista, joven peruano gana beca en el MIT y el Gobierno sostiene respaldo a Petro‑Perú con medidas condicionadas n demuestra que el talento, combinado con esfuerzo incansable y gran disciplina, puede superar cualquier barrera económica o social. Celebramos este extraordinario logro que debe servir como motor para que más jóvenes peruanos persigan sus sueños con absoluta convicción. Lamentable, aunque revelador, es que el Gobierno confirme un apoyo financiero excepcional para Petro-Perú. Si bien asegurar el abastecimiento de combustibles evita un perjuicio mayor para la ciudadanía y la economía, también reabre una preocupación legítima sobre el uso de recursos públicos en esta empresa estatal. Este respaldo solo tendría sentido si viene acompañado por reformas serias, control estricto y resultados verificables, no como otro salvataje sin cambios de fondo.",
+          "url": "https://elcomercio.pe/opinion/columnistas/desarticulan-banda-extorsionista-joven-peruano-gana-beca-en-el-mit-y-el-gobierno-sostiene-respaldo-a-petroperu-con-medidas-condicionadas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/FLEGOYFJ3FDWDM5Y74FX3GYSZI.jpeg?auth=db00576c8994814ddffc537a85b09909ecc3b971421bd45ec7384a4f000c1560&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-19T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/opinion/columnistas/desarticulan-banda-extorsionista-joven-peruano-gana-beca-en-el-mit-y-el-gobierno-sostiene-respaldo-a-petroperu-con-medidas-condicionadas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "como ver wwe wrestlemania en vivo, como ver wwe wrestlemania 2026 en vivo, como ver wwe wrestlemania 2026 en vivo noche 2, como ver noche 2 wwe wrestlemania 2026, como ver wwe wrestlemania 2026 noche 2 en vivo, transmision wwe wrestlemania 2026 noche 2 en vivo, hora de inicio wwe wrestlemania 2026 noche 2, canales wwe wrestlemania 2026 en vivo noche 2",
-            "En Vivo US",
+            "Congreso, Petro-Perú",
+            "Columnistas",
             "Senaste",
             "El Comercio"
           ],
@@ -3154,24 +3154,24 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "7c25bd539d66",
+          "id": "73f90b8359be",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Efemérides del 19 de abril: ¿Qué pasó en el mundo un día como hoy?",
-          "summary": "Conoce qué sucedía en el mundo un 19 de abril, un día cargado de nacimientos, muertes y otros momentos históricos que conmocionaron al mundo.",
-          "body_text": "Conoce qué sucedía en el mundo un 19 de abril, un día cargado de nacimientos, muertes y otros momentos históricos que conmocionaron al mundo.",
-          "url": "https://elcomercio.pe/mundo/actualidad/efemerides-del-19-de-abril-que-paso-en-el-mundo-un-dia-como-hoy-principe-rainiero-de-monaco-grace-kelly-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/VPXEA32IAZGDJPGCW2IXANQRRE.jpg?auth=a45a2ebb5340e2243e844682be159966cb93f449e69e13c2ee1d9db3bb869408&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-04-19T04:55:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/actualidad/efemerides-del-19-de-abril-que-paso-en-el-mundo-un-dia-como-hoy-principe-rainiero-de-monaco-grace-kelly-ultimas-noticia/",
+          "title": "¿Por qué el conteo electoral en el Perú tarda más de una semana mientras en la región se define en horas?",
+          "summary": "En Sudamérica, los resultados electorales se definen el mismo día de la jornada electoral o en 48 horas. En el Perú, el conteo sigue sin definir el balotaje.",
+          "body_text": "Mientras en el Perú el ritmo del conteo electoral aumenta la incertidumbre, en otros países de la región los procesos recientes -entre el 2023 y el 2025- para definir sus balotajes han sido más rápidos, claros y eficientes. A una semana de la jornada electoral en nuestro territorio, con cerca del 94% de actas contabilizadas, según la ONPE, el país aún no define quién acompañará a Keiko Fujimori en segunda vuelta, pues Roberto Sánchez y Rafael López Aliaga se disputan voto a voto. La lentitud no solo retrasa el resultado, sino que prolonga un escenario de caos poco habitual a nivel regional. El contraste más evidente aparece con Chile. El Servicio Electoral (Servel) alcanzó el 95% de mesas escrutadas de la primera vuelta del 16 de noviembre del 2025 apenas entre cuatro y cinco horas después del cierre de los comicios, con una tendencia irreversible. Hacia la madrugada del 17, con el 99,99% procesado, el balotaje entre Jeannette Jara y José Antonio Kast estaba confirmado. La rapidez del conteo permitió certezas en alrededor de diez horas y media, en un sistema que combina transmisión eficiente de actas, organización logística y una menor fragmentación electoral. Ecuandor, por su parte, ofrece un escenario distinto, aunque igualmente más definido que el peruano. El 12 de febrero del 2025, alrededor de las 9 p.m., el Consejo Nacional Electoral (CNE) informó que el escrutinio de la primera vuelta habia alcanzado el 99,8% de las actas procesadas. Con ese nivel de avance, quedó claro desde esa misma noche de los comicios que Daniel Noboa y Luisa González pasarían al balotaje. Si bien el 100% técnico se alcanzó días después y los resultados finales tardaron semanas por la resolución de actas observadas y recursos legales, la certeza política nunca estuvo en duda. Argentina, en tanto, combina velocidad en la difusión de resultados con una validación institucional más extensa. En el 2023, la Dirección Nacional Electoral (DINE) difundió el 76,12% de mesas apenas tres horas y veinte minutos después del cierre y superó el 98% antes de la medianoche, confirmando el pase a segunda vuelta de Sergio Massa y Javier Milei. El escrutinio definitivo, a cargo de la Justicia Nacional Electoral (JNE), tomó 11 días y no responde a un retraso operativo, sino a un proceso de verificación legal que incluye votos del exterior y actas con inconsistencias. Bolivia, finalmente, muestra una lógica mixta: resultados preliminares rápidos y cierre oficial en pocos días. El Sistema de Resultados Preliminar (SIREPRE) difundió el 80% de actas tres horas después del cierre y superó el 92% esa misma noche, suficiente para perfilar el balotaje entre Rodrigo Paz y Jorge Quiroga. El cómputo oficial —con validez legal— se completó cinco días después, tras el procesamiento físico de actas por los tribunales departamentales. Para el especialista Enzo Elguera, CEO de la consultora IMASOLU, lo observado en el Perú rompe con un patrón regional bastante claro, incluso en sistemas manuales, los resultados suelen definirse el mismo día o, como máximo, en 48 horas. “Lo que estamos viendo no responde a un estándar regional, sino a una combinación de fallas logísticas, alta fragmentación y limitaciones estructurales”, señala Elguera a El Comercio. Entre los factores que explican esta diferencia aparecen la elevada cantidad de candidaturas, problemas en la instalación de mesas, la extensión de la jornada electoral en algunas zonas y la dependencia de un sistema mayoritariamente manual. A ello se suma la geografía del país, que retrasa la llegada de actas desde zonas rurales, y las dificultades en la digitalización de resultados. Más allá de lo técnico, la demora tiene efectos políticos concretos. A diferencia de otros países de la región, donde la rapidez del conteo reduce la incertidumbre y consolida la confianza en el proceso, en el Perú la falta de resultados claros prolonga la tensión y abre espacio a cuestionamientos como los que se están viviendo ahora mismo. En ese escenario, la diferencia no es solo de tiempos, sino de estándares.",
+          "url": "https://elcomercio.pe/mundo/actualidad/por-que-el-conteo-electoral-en-el-peru-tarda-mas-que-otros-paises-de-sudamerica-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/WVJFPXSMJFFYDB2O4PRGUZGOJM.jpg?auth=813f6b60f1c8d6650c6ce189a3b6a9500a5e692a23fc38609986f2706775ba20&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-04-19T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/mundo/actualidad/por-que-el-conteo-electoral-en-el-peru-tarda-mas-que-otros-paises-de-sudamerica-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Efemérides del 19 de abril, Efemérides, 19 de abril, un día como hoy, boda Grace Kelly Rainiero Mónaco, matrimonio real 1956 Mónaco, Grace Kelly princesa de Mónaco historia, Rainiero III boda histórica, aniversario boda real 70 años, realeza y Hollywood unión histórica, Grace Kelly historia de amor",
+            "ONPE, Elecciones Generales 2026, Por qué tarda tanto el conteo de votos ONPE, Por qué demoran conteo de votos ONPE, Cuándo salen resultados de elecciones Perú, Cuándo es la segunda vuelta elecciones Perú, Elecciones Perú, Cuándo dan el 100% ONPE, Rafael López Aliaga, Roberto Sánchez, Se podrá anular las elecciones",
             "Actualidad",
             "Mundo",
             "El Comercio"
@@ -4242,6 +4242,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "055e86693915",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Efter Orbáns fall – ”Putins trojanska häst” kan ta över",
+          "summary": "Rumen Radev vill stärka Bulgariens relation till Ryssland inför valet",
+          "body_text": "Under söndagen går Bulgarien till sitt åttonde val på fem år. Den Rysslandsvänlige Rumen Radev leder opinionsmätningarna och tros vinna. Radev har kritiserat EU:s sanktioner mot Ryssland och vill ”återupprätta relationen” med landet, enligt Financial Times . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Bulgarien går till val för åttonde gången på fem år. Rysslandsvänlige Rumen Radev leder opinionsmätningarna. EU-parlamentarikern Valérie Hayer uttrycker oro för Bulgariens framtida relation till Ryssland. Fyra månader efter att massprotester fällde den förra regeringen så går Bulgarien till sitt åttonde val på fem år, rapporterar New York Times . Den rysslandsvänlige Rumen Radev, som leder vänsterpartiet Progressiva Bulgarien, toppar opinionsmätningarna för att bli ny premiärminister, enligt Financial Times. Radev har inte velat fördöma Rysslands invasionskrig i Ukraina och har samtidigt kritiserat EU:s sanktioner mot ryssarna. På ett kampanjmöte inför slutspurten visade Rumen Radev även bilder på honom tillsammans med Vladimir Putin och andra världsledare. Den tippade favoriten har inför valet sagt att Bulgarien kan vara en ”mycket viktig länk för att återupprätta relationen med Ryssland”, enligt FT. Den franska liberala EU-parlamentarikern Valérie Hayer säger till FT att hon är ”mycket oroad” över att Radev kan vinna valet. – Med tanke på Radevs inställning till Putin och Ryssland finns det en risk för en pro-Kreml-regering i ett kritiskt läge – han skulle vara Putins trojanska häst i Europa, säger hon till FT.",
+          "url": "https://www.expressen.se/nyheter/varlden/putins-trojanska-hast-gar-till-val-som-favorit/",
+          "image_url": "https://static.bonniernews.se/images/4c/62/4c62254367fa453ab9408dcb1a221e1d/16x9/original.png",
+          "published_at": "2026-04-19T09:45:40Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/putins-trojanska-hast-gar-till-val-som-favorit/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "9a31f8d03043",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4251,9 +4275,9 @@
           "source_kind": "story",
           "title": "Magyar rasar mot ”Magyar”: ”Ryska”",
           "summary": "Péter Magyar anklagar motståndarna för valfusk efter valsegern i Ungern och kräver omval i ett distrikt.",
-          "body_text": "Viktor Orbán förlorade förra veckan makten i Ungern. Nu anklagar den nya premiärministern Péter Magyar motståndarpartiet för valfusk. ”Detta är den ryska spelboken i sin mest cyniska form”, skriver premiärministern på X . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. För en vecka sedan vann Péter Magyar och hans parti Tisza det ungerska valet med en supermajoritet. Nu kräver dock partiet en ny omröstning i ett distrikt – detta efter anklagelser om fusk tagna direkt från den ”ryska spelboken”, enligt TVP World . Viktor Orbáns partikamrat Peter Agh fick 46.26 procent av rösterna i Sarvar-distriktet, medan Tiszapartiets Viktória Strompová fick 45.79. Samtidigt fick en kandidat med samma namn som partiledaren ”Péter Magyar” 1.6 procent, 909 röster. Premiärministern menar att hans namne inte ens bor i distriktet. ”TISZA:s kandidat, Viktória Strompová, missade med endast 258 röster. Detta var inte en rättvis politisk tävling, utan ett medvetet försök att vilseleda väljarna”, skriver han på X. ”Detta är den ryska spelboken i sin mest cyniska form.” Péter Magyar kräver nu ett omval i länet och uppger även att polisen har inlett en utredning. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
+          "body_text": "Viktor Orbán förlorade förra veckan makten i Ungern. Nu anklagar den nya premiärministern Péter Magyar motståndarpartiet för valfusk. ”Detta är den ryska spelboken i sin mest cyniska form”, skriver premiärministern på X . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. För en vecka sedan vann Péter Magyar och hans parti Tisza det ungerska valet med en supermajoritet. Nu kräver dock partiet en ny omröstning i ett distrikt – detta efter anklagelser om fusk tagna direkt från den ”ryska spelboken”, enligt TVP World . Viktor Orbáns partikamrat Péter Ágh fick 46.26 procent av rösterna i Sárvár-distriktet, medan Tiszapartiets Viktória Strompová fick 45.79. Samtidigt fick en kandidat med samma namn som partiledaren ”Péter Magyar” 1.6 procent, 909 röster. Premiärministern menar att hans namne inte ens bor i distriktet. ”TISZA:s kandidat, Viktória Strompová, missade med endast 258 röster. Detta var inte en rättvis politisk tävling, utan ett medvetet försök att vilseleda väljarna”, skriver han på X. ”Detta är den ryska spelboken i sin mest cyniska form.” Péter Magyar kräver nu ett omval i länet och uppger även att polisen har inlett en utredning. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
           "url": "https://www.expressen.se/nyheter/varlden/magyar-rasar-mot-magyar-pastatt-valfusk-i-ungern/",
-          "image_url": "https://static.bonniernews.se/images/cf/6b/cf6ba7b9b67e44a6a27910b14c983749/16x9/original.png",
+          "image_url": "https://static.bonniernews.se/images/00/70/00701ba927544862b5e2ef48735aeb8b/16x9/original.png",
           "published_at": "2026-04-19T08:51:36Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/magyar-rasar-mot-magyar-pastatt-valfusk-i-ungern/",
           "play_mode": "page_iframe",
@@ -4263,7 +4287,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "272a4c6d6f69",
@@ -4287,7 +4311,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "639da92c85e5",
@@ -4299,7 +4323,7 @@
           "source_kind": "story",
           "title": "Okända överpriserna för inköpen till Sagerska palatset",
           "summary": "Okända notor avslöjar den verkliga kostnaden för statsministerparets heminredning i Sagerska palatset. När Ulf Kristersson och Birgitta Ed ville ha en ny köksmatta kostade konsulterna tre gånger så mycket som själva mattan. Regeringens upplägg fördyrar minsta inköp – en brödspade för 675 kronor kostade skattebetalarna 2363 kronor.",
-          "body_text": "Okända notor avslöjar den verkliga kostnaden för statsministerparets heminredning i Sagerska palatset. När Ulf Kristersson och Birgitta Ed ville ha en ny köksmatta kostade konsulterna tre gånger så mycket som själva mattan. Regeringens upplägg fördyrar minsta inköp – en brödspade för 675 kronor kostade skattebetalarna 2363 kronor. När Ulf Kristersson i oktober 2022 tog över som Sveriges statsminister fick han och hustrun Birgitta Ed Kristersson också flytta in i statsministerbostaden i Sagerska palatset vid Strömmen i Stockholm. Regeringskansliet hyr den lyxiga representationsbostaden möblerad av myndigheten Statens Fastighetsverk, SFV, som lyder under regeringen. När en ny statsminister flyttar in ges möjligheten att anpassa bostaden efter personliga önskemål och familjeförhållanden betalt av myndigheten med skattemedel – så kallad hyresgästanpassning. Något som Ulf Kristersson och hans hustru Birgitta Ed nyttjat mer än tidigare statsministrar. Även långt efter inflyttningen 2022 har statsministerparet använt möjligheten att få hyresgästanpassningar. Konstföremål, gardiner, tavlor, exklusiva kuddar, dukar och mattor har köpts in av myndigheten efter önskemål från hyresgästen. Notan hamnar hos regeringskansliet genom ett tillägg på hyran, enligt ett avtal mellan myndigheterna. SFV anlitar i sin tur inredningsarkitekter för att förverkliga önskemålen vilket gör varje inköp betydligt dyrare. Arkitekterna fakturerar myndigheten över 1000 kronor i timmen och i flera fall har arbetskostnaden överstigit priset för den inköpta varan. Här är konsulternas kostnadsförslag till brödspaden statsministerparet ville köpa: En inredningsdetalj som krävde särskilt många timmar från det inhyrda arkitektföretaget var vilken matta som paret skulle ha i köket. Under tre dagar i mars 2023 debiterade företaget sammanlagt 19 arbetstimmar relaterade till statsministerparets köksmatta. I april slår inredningsarkitekterna larm om att de dragit över budgeten för hyresgästanpassning med nästan 50 000 kronor bara i arbetstid. ”Det gäller utformningen av vardagsrum plan 3, men framför allt köksmattan till lägenheten som tagit mer tid än beräknat.” skriver arkitektföretaget. Själva mattan som slutligen köptes in kostade 7400 kronor – arkitekterna fakturerade totalt 27 400 – arbetstiden kostade nästan tre gånger så mycket som mattan.",
+          "body_text": "Okända notor avslöjar den verkliga kostnaden för statsministerparets heminredning i Sagerska palatset. När Ulf Kristersson och Birgitta Ed ville ha en ny köksmatta kostade konsulterna tre gånger så mycket som själva mattan. Regeringens upplägg fördyrar minsta inköp – en brödspade för 675 kronor kostade skattebetalarna 2363 kronor. När Ulf Kristersson i oktober 2022 tog över som Sveriges statsminister fick han och hustrun Birgitta Ed Kristersson också flytta in i statsministerbostaden i Sagerska palatset vid Strömmen i Stockholm. Regeringskansliet hyr den lyxiga representationsbostaden möblerad av myndigheten Statens Fastighetsverk, SFV, som lyder under regeringen. När en ny statsminister flyttar in ges möjligheten att anpassa bostaden efter personliga önskemål och familjeförhållanden betalt av myndigheten med skattemedel – så kallad hyresgästanpassning. Något som Ulf Kristersson och hans hustru Birgitta Ed nyttjat mer än tidigare statsministrar. Även långt efter inflyttningen 2022 har statsministerparet använt möjligheten att få hyresgästanpassningar. Konstföremål, gardiner, tavlor, exklusiva kuddar, dukar och mattor har köpts in av myndigheten efter önskemål från hyresgästen. Notan hamnar hos regeringskansliet genom ett tillägg på hyran, enligt ett avtal mellan myndigheterna. SFV anlitar i sin tur inredningsarkitekter för att förverkliga önskemålen vilket gör varje inköp betydligt dyrare. Arkitekterna fakturerar myndigheten över 1000 kronor i timmen och i flera fall har arbetskostnaden överstigit priset för den inköpta varan. Här är konsulternas kostnadsförslag till brödspaden statsministerparet ville köpa: En inredningsdetalj som krävde särskilt många timmar från det inhyrda arkitektföretaget var vilken matta som paret skulle ha i köket. Under tre dagar i mars 2023 debiterade företaget sammanlagt 19 arbetstimmar relaterade till statsministerparets köksmatta. I april slår inredningsarkitekterna larm om att de dragit över budgeten för hyresgästanpassning med nästan 50 000 kronor bara i arbetstid. ”Det gäller utformningen av vardagsrum plan 3, men framför allt köksmattan till lägenheten som tagit mer tid än beräknat.” skriver arkitektföretaget.",
           "url": "https://www.expressen.se/nyheter/sverige/har-ar-overpriserna-for-statsministerparets-inkop/",
           "image_url": "https://static.bonniernews.se/images/d5/cf/d5cf2053337344ff8e2f55455cfee5c4/16x9/original.jpg",
           "published_at": "2026-04-19T07:10:18Z",
@@ -4311,7 +4335,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "795d983d8b78",
@@ -4335,7 +4359,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "46775c71cf63",
@@ -4359,7 +4383,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "01cd98c4b2fe",
@@ -4383,47 +4407,23 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "9dda9d758f0a",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Mamman mördades av Aminahs pappa",
-          "summary": "Mitt i natten vaknade den då tioåriga Aminah av att det var poliser i familjens villa. Hennes pappa hade mördat hennes mamma. – Jag lever fortfarande med konsekvenserna av det som hände, säger hon.",
-          "body_text": "Mitt i natten vaknade den då tioåriga Aminah av att det var poliser i familjens villa. – Jag lever fortfarande med konsekvenserna av det som hände, säger hon. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. Köksmatta för 7 000 – betalade 27 000 • Lista: Se inköpen Betalade allt – rädd för att straffas • \"Gick sönder\" Huset som ska lösa krisen i allsvenska klubben JENS LILJESTRAND: Jag – backstabbing bitch på ett slott",
-          "url": "https://www.expressen.se/nyheter/sverige/aminahs-pappa-mordade-hennes-mamma/",
-          "image_url": "https://static.bonniernews.se/images/99/0c/990cd61e11f04fac8062c76b7e8d11ff/16x9/original.jpg",
-          "published_at": "2026-04-19T03:00:00Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/aminahs-pappa-mordade-hennes-mamma/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
           "sort_order": 6
         },
         {
-          "id": "2a1cbd2c7e65",
+          "id": "9575d9e31e6c",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Kvinna död – blev påkörd vid en fest",
-          "summary": "En 60-årig kvinna omkom och en man i 90-årsåldern skadades när de blev påkörda i samband med en fest söder om Linköping. En man i 80-årsåldern har gripits. – Han misstänks bland annat för grovt vållande till annans död och grovt rattfylleri, säger polisens ledningsbefäl Linus Maxe.",
-          "body_text": "En 60-årig kvinna omkom och en man i 90-årsåldern skadades när de blev påkörda i samband med en fest söder om Linköping. – Han misstänks bland annat för grovt vållande till annans död och grovt rattfylleri, säger polisens ledningsbefäl Linus Maxe. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Larmet om olyckan kom vid 23.30 på lördagskvällen. Två personer hade blivit påkörda i anslutning till ett hus en bit söder om Linköping . – Det har varit någon form av privat tillställning, säger polisens ledningsbefäl Linus Maxe. En 60-årig kvinna och en man i 90-årsåldern fördes till sjukhus, allvarligt skadade. – Kvinnan avled senare på sjukhuset. För mannen är läget numera stabilt, säger Linus Maxe. Samtliga inblandade verkar känna varandra, enligt polisen. På plats fanns ett stort antal personer som polisen genomför förhör med. – Det är fler personer som är ganska berusade, så vi kommer behöva genomföra nya förhör, säger Linus Maxe. Den gripna mannen misstänks för grovt vållande till annans död, grov vårdslöshet i trafik, grovt rattfylleri och grovt vållande till kroppsskada. Bilen är tagen i beslag. – Det finns inga omständigheter som tyder på att det varit meningen, men sådant kan ändras, säger Linus Maxe. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här.",
-          "url": "https://www.expressen.se/nyheter/sverige/tva-pakorda-kvinna-dod/",
-          "image_url": "https://static.bonniernews.se/images/e2/c4/e2c4ed24a3b04c67bbb960053ed7c10e/16x9/original.jpg",
-          "published_at": "2026-04-19T02:02:53Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/tva-pakorda-kvinna-dod/",
+          "title": "Vänsterpartiet röstar emot sänkt partiskatt | Expressen",
+          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
+          "body_text": "Följ Expressens valbevakning med Max V Karlsson, Anna Gullberg, Viktor Barth-Kron, Anette Holmqvist och Emma Åhman. Vänsterpartiets kongress röstad ned partistyrelsens förslag om att minska den interna partiskatten för heltidspolitiker och riksdagsledamöter. För riksdagsledamöter hade det inneburit att de skulle få behålla 41 700 kronor istället för 37 530 kronor efter skatt. 92 av 122 ska ha röstat emot förslaget. Vänsterpartiet håller kongress i Örebro och partiledare Nooshi Dadgostar presenterar flera förslag vad gäller tandvård. V vill återinföra gratis tandvård för unga upp till 23 år. – Vi vet att goda vanor i ungdomen gör att man får en bättre tandvård senare i livet, säger Nooshi Dadgostar. Vänsterpartiet vill också se ett likadant högkostnadsskydd som i sjukvården. Det skulle innebära ett skydd för 100 procent av kostnaden för tandvård över 1450 kronor på tolv månader. Förslagen skulle enligt deras egna beräkningar kosta 4,5 miljarder kronor. Vänsterledaren Nooshi Dadgostar får V-kongressen med sig på att V ovillkorligen ska sitta i regeringen vid en rödgrön valseger. Det innebär att partiets valplattform i sånt fall att innehålla den röda linjen att Vänsterpartiet inte kommer att stödja eller släppa fram en regering som de inte ingår i. Förslaget har orsakat intern debatt, och viss oro, men under kongressdebatten är nästan alla inlägg positiva och bara ett fåtal ombud yrkar avslag. ”Vi ska inte vara en dörrmatta för övriga partier att borsta av sig på innan de kliver in på Rosenbad och driver Sverige till höger”, säger Tobias Smedberg från Uppsala. Även Skånedistriktets ordförande Jesper Sahlén Raquette talar för förslaget: ”Kamrater! Låt oss surra fast Nooshi Dadgostar vid masten så kör vi skeppet i full fart mot valvinst”. Maja Grubelic från Lund är kritisk: ”Jag tror att vi kommer att tvingas att administrera en rätts- och kriminalpolitik som vi faktiskt inte kan stå för på något sätt.” ”Sverige vinner på grön politik” är budskapet från Miljöpartiet när man går in i valrörelsen. – Efter fyra år med Tidö är resultaten förödande. Utsläppen har ökat, elektrifieringen bromsat in och utbyggnaden av förnybar energi har tvärnitat, säger språkröret Amanda Lind på en pressträff.",
+          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e55677b2-9833-4f09-a58d-eff83d37b751",
+          "image_url": "https://static.bonniernews.se/images/72/21/7221cd51a65a41318bea4aa99c677859/16x9/original.jpg",
+          "published_at": "2026-01-09T11:58:16Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e55677b2-9833-4f09-a58d-eff83d37b751",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4434,20 +4434,20 @@
           "sort_order": 7
         },
         {
-          "id": "e5cf54d989b8",
+          "id": "9dda9d758f0a",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen Idag 03.13 Toppolitikern mördade sin fru – och tog livet av sig",
+          "title": "Premium Sverige Idag 05.00 Aminahs pappa mördade hennes mamma",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/toppolitikern-mordade-sin-fru-och-tog-livet-av-sig/",
+          "url": "https://www.expressen.se/nyheter/sverige/aminahs-pappa-mordade-hennes-mamma/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/toppolitikern-mordade-sin-fru-och-tog-livet-av-sig/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/aminahs-pappa-mordade-hennes-mamma/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4458,20 +4458,20 @@
           "sort_order": 8
         },
         {
-          "id": "00404dd423a0",
+          "id": "2a1cbd2c7e65",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen Idag 01.00 Ryssarna överger Putin: ”Människor är rädda”",
+          "title": "Sverige Idag 09.09 Två påkörda – kvinna död",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/ryssarna-overger-putin-manniskor-ar-radda/",
+          "url": "https://www.expressen.se/nyheter/sverige/tva-pakorda-kvinna-dod/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/ryssarna-overger-putin-manniskor-ar-radda/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/tva-pakorda-kvinna-dod/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
