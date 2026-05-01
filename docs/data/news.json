@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T09:59:32Z",
+  "generated_at": "2026-05-01T11:11:16Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Nya bilderna visar • Försökte springa igenom säkerhetskontroll – med hagelgevär Misstänkte skyttens manifest: ”Jag vill kräkas; jag vill gråta” ”Vi låg hopkrupna under borden – otroligt obehagligt” Flera nobbar intervju med DN och Edvin Törnblom • Panelen om heta frågan Flera partiledare nobbar DN:s intervjuserie med Edvin Törnblom Kritiken mot DN:s Törnblom-satsning: ”Fråga om trovärdighet”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Uppåt för Dadgostar – men flest litar på Andersson Nya bilderna visar • Försökte springa igenom säkerhetskontroll – med hagelgevär Misstänkte skyttens manifest: ”Jag vill kräkas; jag vill gråta” ”Vi låg hopkrupna under borden – otroligt obehagligt” Flera nobbar intervju med DN och Edvin Törnblom • Panelen om heta frågan Flera partiledare nobbar DN:s intervjuserie med Edvin Törnblom Kritiken mot DN:s Törnblom-satsning: ”Fråga om trovärdighet”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1750,6 +1750,56 @@
           "sort_order": 0
         },
         {
+          "id": "79a05e100645",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Longest DHS shutdown in history ends | Fox News Video",
+          "summary": "The longest partial government shutdown in U.S. history concludes, with Congress passing a bill to restore federal funding. U.S.",
+          "body_text": "The longest partial government shutdown in U.S. history concludes, with Congress passing a bill to restore federal funding. U.S. The record-setting DHS shutdown concludes as Congress passes a funding bill, excluding ICE and CBP. Sen. John Fetterman criticizes fellow Democrats, stating the shutdown was \"unnecessary and a failure of Congress,\" leading to unpaid employees and TSA agent resignations. Republican strategist Cassie Smedile explains the political maneuvering and the perceived lack of common sense from Democrats.",
+          "url": "https://www.foxnews.com/video/6394326314112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/436ca9c5-9aa6-4742-a6fc-4c7366c5d18b/8eeb8dd2-883c-4a96-919a-8efaa3a19d0b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-01T10:26:11Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394326314112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "38a6feb393ca",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Study reveals two-thirds of babies watch screens, some for 8 hours daily | Fox News Video",
+          "summary": "A new study reveals two-thirds of babies under two years old watch screens daily, with some exposed for up to eight hours.",
+          "body_text": "A new study reveals two-thirds of babies under two years old watch screens daily, with some exposed for up to eight hours. A new study from The Times highlights a concerning trend: two-thirds of babies under two years old watch screens daily, with some exposed for up to eight hours. Child and adolescent family therapist Darby Fox explains this rewires a baby's brain, contributing to poor sleep, delayed communication and problem-solving skills.",
+          "url": "https://www.foxnews.com/video/6394327491112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9501d304-fb86-41f2-8d24-e7e37932dfa5/03e80eaf-895d-46e4-9d31-6e91d0dd666a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-01T10:20:41Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394327491112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "f5806cf0b7cc",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1772,7 +1822,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "bbd0453349fe",
@@ -1797,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "c3499859903e",
@@ -1822,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "69d8cc8af312",
@@ -1847,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "8efadfc4eded",
@@ -1872,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "3e3981e35146",
@@ -1897,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "b869ac6d1cf7",
@@ -1922,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "4ed829bf14ca",
@@ -1939,56 +1989,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3606df86-996f-4b0a-8796-d95b9ced1e17/66b47a84-b7c7-43e6-ad98-525f6d6d611d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-01T02:04:16Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394304238112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "448913d5e96d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Democrats are ‘completely losing’ the working class: Kaylee McGhee White | Fox News Video",
-          "summary": "Podcast host Katie Miller and Fox News contributor Kaylee McGhee White discuss President Donald Trump’s agenda and the Democratic Party’s response on ‘Hannity.’",
-          "body_text": "Podcast host Katie Miller and Fox News contributor Kaylee McGhee White discuss President Donald Trump’s agenda and the Democratic Party’s response on ‘Hannity.’",
-          "url": "https://www.foxnews.com/video/6394304938112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38568c34-a0ce-4e8b-aefa-66571ae14700/74398451-f881-49f5-8758-7bead39330d8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-01T02:03:16Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394304938112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "173abcff38be",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sean Hannity: There are ‘no empty threats’ coming from the US | Fox News Video",
-          "summary": "Fox News host Sean Hannity discusses the U.S. military presence in the Middle East amid reports that President Donald Trump was briefed on new military options in Iran on ‘Hannity.’",
-          "body_text": "Fox News host Sean Hannity discusses the U.S. military presence in the Middle East amid reports that President Donald Trump was briefed on new military options in Iran on ‘Hannity.’",
-          "url": "https://www.foxnews.com/video/6394306673112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0484d402-18a6-4aea-9f14-84b05f2ca2f6/8c1ee2c0-2379-4701-a9ea-68b777bf6c71/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-01T01:51:18Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394306673112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2142,6 +2142,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "d2f2d1a624ce",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+          "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
+          "body_text": "All but two pro-Palestinian activists detained by Israeli forces after their flotilla headed for Gaza was intercepted in international waters have now been released in Greece. On Thursday, around 175 activists aboard 22 boats carrying aid were seized near the island of Crete. The organisers of the Global Sumud Flotilla (GSF) denounced the action as \"piracy\", saying members were seized unlawfully more than 965km (600 miles) from Gaza, which is under an Israeli naval blockade. Israel's foreign ministry called the flotilla a \"PR stunt\". All the detained activists have disembarked in Crete, apart from two men who are being brought to Israel \"for questioning\", according to the Israeli government. Israel's foreign ministry said that one of the men, Saif Abu Keshek, was \"suspected of affiliation with a terrorist organisation\" and the other, Thiago Ávila, was \"suspected of illegal activity\". Both men remain in Israeli custody. The Global Sumud Flotilla (GSF) called for the immediate release of Abu Keshek and Ávila. The group said: \"We demand that all governments do all they can to pressure the Israeli regime to release all the illegal abductees.\" It confirmed that all other members of the captured flotilla boats had been released on the Greek island of Crete. Israel said about 175 people had been detained, while the GSF previously said \"over 180 civilians from around the world have been directly attacked\". Greek authorities had been preparing to receive people from the flotilla since the early hours of Friday morning. The group - men and women of various nationalities, including some Greeks and Australians - is being transported by naval vessel to the southern coast of Crete, where they are expected to arrive at Atherinolakkos. Buses are waiting to take them onward. According to sources who spoke to the BBC, their final destination is Heraklion, where they are expected to be temporarily accommodated before arrangements are made for their return to their home countries. On Thursday, the Greek foreign ministry said it had offered \"diplomatic assistance\" by agreeing to host the passengers and ensure their safe return home.",
+          "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ef63/live/b4c1f7c0-4471-11f1-ac78-2112837ce2aa.jpg",
+          "published_at": "2026-05-01T10:12:57Z",
+          "embed_url": "https://www.bbc.com/news/articles/c0m2z0k1gngo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "d58e64345aa6",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2163,7 +2187,31 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
+        },
+        {
+          "id": "d12f50bb48a4",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Six injured in Washington state school stabbing",
+          "summary": "Five students and one security guard were taken to hospital following the attack at Foss High School.",
+          "body_text": "Six people have been injured in a stabbing at a school in the US state of Washington following an \"altercation\", police said. Five high school students and an adult security guard were taken to hospital on Thursday, Tacoma Fire Department confirmed, adding that all were in stable condition. Police said it detained the suspect, a student at Foss High School, who was also injured in the incident. The suspect was booked on five counts of first-degree assault, Shelbie Boyd, a spokeswoman for the Tacoma Police Department, said. Police responded to reports of an active assault at 13:35 local time (21:35 BST). The fire department said it also attended the scene, where it treated and transported six patients, who were taken to hospital. Four students were initially reported by Tacoma Fire Department to be in critical condition. One adult had minor injuries and the suspect also had minor injuries. The authorities later confirmed that all patients were in stable condition as of 16:00 local time. Boyd told media outlets that the incident arose after \"some type of an altercation\". She added that police arrived promptly and were \"able to locate the individual\" and secure the scene \"pretty quickly\". The investigation would \"carry on into the night\", Boyd said, urging anyone with video of the incident to get in touch with police. Foss High School will remain shut on Friday following the incident, according to an alert on the school's website. It will reopen on Monday 4 May, with counsellors on site to support staff and students. In 2007, 17-year-old Samnang Kok was shot and killed in a hallway at Foss High School. The shooter, 18-year-old Douglas Chanthabouly, was convicted of second-degree murder and sentenced to 23 years in prison.",
+          "url": "https://www.bbc.com/news/articles/cewp2ll1zljo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3d6c/live/7799e9e0-4528-11f1-bd52-e755d604ece4.jpg",
+          "published_at": "2026-05-01T07:12:23Z",
+          "embed_url": "https://www.bbc.com/news/articles/cewp2ll1zljo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 2
         },
         {
           "id": "073ecd134f99",
@@ -2187,31 +2235,31 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
-          "id": "eebc9b0953e0",
+          "id": "545955122c26",
           "source_id": "bbc-video",
           "source_name": "BBC World",
           "provider": "BBC",
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Former Chick-fil-A employee charged in $80,000 mac-and-cheese scheme",
-          "summary": "The Texas man allegedly refunded the orders of hundreds of catering-sized mac-and-cheese trays to his personal credit cards.",
-          "body_text": "Texas police have charged a former Chick-fil-A employee for allegedly defrauding the fast food company of the cost of 800 trays of mac-and-cheese. The Grapevine Police Department alleges that the employee had been fired a month earlier, but returned to a branch of the fast food chain and made his way behind the counter, where he rang up the catering-sized portions of the rich pasta dish. They say he then refunded the cost of the order – $80,000 (£58,800) – to his personal credit cards. Police tried to arrest him multiple times before succeeding on 17 April, the department said in a social media statement. He was charged with property theft, money laundering and evading arrest. US media named the suspect as 23-year-old Keyshun Jones. Records show he is currently in custody at Green Bay prison in Forth Worth, Texas. The New York Times reported that Jones's lawyer declined to comment. The Chick-fil-A catering menu lists the cost of a large tray of its mac-and-cheese at around $100 depending on location. The number of calories in the baked macaroni dish, which features three types of cheese, is almost 10,000 (40,000 kilojoules). The Chick-fil-A store shared surveillance footage appearing to show the sacked worker returning to the store and using a register behind the service counter. CCTV footage shows the man wearing a brown puffer vest, blue jeans and backwards white cap, not the chain's branded red polo uniform. It is alleged he used the restaurant's point-of-sale system to issue unauthorised refunds to his personal accounts. It is unclear why he was fired before the incident. He was eventually found and arrested following a joint operation of the Texas attorney general's Fugitive Task Force and the Fort Worth Police Department. The BBC has contacted Chick-fil-A's media office for comment.",
-          "url": "https://www.bbc.com/news/articles/c87q0vlwvlpo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e3d5/live/54ad7120-4502-11f1-ac78-2112837ce2aa.jpg",
-          "published_at": "2026-05-01T03:13:37Z",
-          "embed_url": "https://www.bbc.com/news/articles/c87q0vlwvlpo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+          "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
+          "body_text": "Lindsay Foreman says she is keeping sane by reading, doing laps of the prison yard and, when she can, practising yoga. Exercise, she says, has always been her \"salvation\". But after 16 months in jail in Iran, Lindsay admits she is struggling. \"I'm dealing with the realisation that we're likely to be here for a long time,\" she tells me over the phone from Iran's notorious Evin jail. Lindsay, a 53-year-old life coach, and her husband Craig, 52, were on a round-the-world motorcycle trip when they were arrested on suspicion of espionage in January 2025 - charges they adamantly deny. After living through the recent war in Iran, the pair, from East Sussex, are now facing the painful reality of a 10-year prison sentence handed down against them in February. \"I just feel that we're wasting our lives in here and rotting away,\" Craig says. \"We are innocent people. We have committed no offence.\" He makes a plea to the government: \"Just take action. Speak out. Get us out. It seems to me we're sitting here like sitting ducks.\" The pair are speaking to the media together, via separate phones, for the first time since their incarceration. They are being kept in different cells within the same prison. After months of being unable to communicate with others, their son, Joe Bennett, now gets regular phone calls from his mother and step-father. They are patched through to them from payphones in Evin prison via the Foreign Office, which has described their incarceration as \"appalling\" and \"unjustifiable\". Conversations are not easy. The lines drop out regularly and calls are monitored. Every couple of minutes a recording in Farsi interrupts, saying: \"This call is from Evin prison and the caller is a prisoner.\" \"It's very frustrating, but these phone calls are a lifeline for them and for us,\" says Joe, who allowed us to speak to his parents when they called in.",
+          "url": "https://www.bbc.com/news/articles/c202pl60kv9o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/68be/live/06449360-4525-11f1-bd52-e755d604ece4.jpg",
+          "published_at": "2026-05-01T05:04:08Z",
+          "embed_url": "https://www.bbc.com/news/articles/c202pl60kv9o",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
           ],
-          "is_live": false,
-          "sort_order": 2
+          "is_live": true,
+          "sort_order": 4
         },
         {
           "id": "e290772c601d",
@@ -2235,7 +2283,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "7de245ad5b2e",
@@ -2259,7 +2307,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "1adc6258ab80",
@@ -2283,31 +2331,31 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
-          "id": "662f92114908",
+          "id": "06b7b2762977",
           "source_id": "bbc-video",
           "source_name": "BBC World",
           "provider": "BBC",
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Venice Biennale jury resigns days before start of top art exhibition",
-          "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
-          "body_text": "The entire jury of the Venice Biennale has resigned just nine days before the inauguration of the prestigious art event, amid growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine. In a brief statement, the jury said it was acting in accordance with its previous decision not to consider countries \"whose leaders are currently charged with crimes against humanity\" for any prizes, meaning Russia and Israel. The exhibition showcases art from around the world in dozens of national pavilions. Italy's Prime Minister, Giorgia Meloni, said allowing Russia to take part \"is a decision not shared by the government\". But she added that the Biennale was autonomous and its president \"very capable\". The Biennale has been at the centre of controversy for weeks. The dramatic announcement came the day after a delegation from Italy's culture ministry visited Venice to gather information about the reopening of the Russian pavilion, which had already led the minister himself to declare a boycott of the Biennale. Earlier in April, the EU announced that it was pulling a two million Euro grant over Russia's return to the Biennale which it deemed \"morally wrong\" as Moscow \"seeks to erase Ukrainian culture\" as part of its invasion. The Biennale has previously stressed that it is open to everyone and \"rejects any form or exclusion or censorship\". It argued that it couldn't bar Russia from taking part in any case, as the country owns its pavilion. In 2022, after Russia went to war against Ukraine, the curator and artists involved in the Russian pavilion withdrew in protest against Vladimir Putin and his invasion, leaving the pavilion empty. In 2024, Russia handed the space over to Bolivia. The International Criminal Court (ICC) has issued an arrest warrant for Putin , alleging he is responsible for war crimes. Moscow has denied the allegations and labelled the warrants as \"outrageous\". For Russia, appearing at the Venice Biennale again would be a huge boost and part of the normalisation it covets even as its invasion of Ukraine continues to claim lives every day. Over the past four years, numerous Ukrainian museums and cultural heritage sites have been destroyed, art looted by invading troops and hundreds of artists killed by the fighting.",
-          "url": "https://www.bbc.com/news/articles/c78qdg4g80eo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bad6/live/0773d1f0-44e0-11f1-bd52-e755d604ece4.jpg",
-          "published_at": "2026-04-30T23:44:00Z",
-          "embed_url": "https://www.bbc.com/news/articles/c78qdg4g80eo",
+          "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+          "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+          "body_text": "The interruption to supplies of fertiliser and its key ingredients due to the war in Iran could cost up to 10 billion meals a week globally and will hit poorest countries hardest, according to the boss of one of the world's biggest fertiliser producers. Svein Tore Holsether, chief executive of Yara, told the BBC that hostilities in the Gulf, which have blocked shipping through the Strait of Hormuz, are jeopardising global food production. Reduced crop yields as a result of lower fertiliser use could lead to a bidding war for food, he warned. He urged European nations to consider carefully the impact of a price war on the \"most vulnerable\" in other countries. Although the UK is very unlikely to face food shortages, the increased costs facing food producers are expected to start showing up on weekly food bills in the next few months. \"We're up to half a million tons of nitrogen fertiliser not being produced in the world right now because of the situation we are in,\" Holsether said. \"What does that mean for food production? I would get to up to 10 billion meals that will not be produced every week as a result of the lack of fertilisers.\" Not applying nitrogen fertiliser would reduce crop yields for some crops by as much as 50% in the first season, Holsether said. \"The fertiliser market is very global so these parts are moving across the planet, but the main destinations would be Asia, South East Asia, Africa, Latin America where you would see the most immediate impact from this.\" Parts of the world where there is already under-fertilisation, such as several countries in sub Saharan Africa, could see an even larger impact on crop yields, he added, saying \"significant drops\" there were possible. Planting seasons vary across the world. In the UK it is peak planting season, while in Asia farmers are getting started. The consequences of fertiliser shortages in Asia will not appear in food prices until the end of the year, when harvests that should have been planted this spring come in smaller than they should, or not at all, according to analysts.",
+          "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/482b/live/452587b0-4525-11f1-bd52-e755d604ece4.jpg",
+          "published_at": "2026-04-30T23:08:09Z",
+          "embed_url": "https://www.bbc.com/news/articles/cpwp50v4ye7o",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "World",
             "BBC"
           ],
-          "is_live": true,
-          "sort_order": 6
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "f9bbb25b5f9e",
@@ -2331,7 +2379,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "eeccc573b4a0",
@@ -2355,31 +2403,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "b0f633eabff7",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
-          "summary": "Seventeen people - including two children - were killed, according to Lebanon's health ministry.",
-          "body_text": "Seventeen people, including two children, were killed in Israeli strikes in southern Lebanon on Thursday, the health ministry said, as violence continues despite a ceasefire now in its second week. The strikes - which Israel said were targeting Hezbollah infrastructure - also wounded 35 people, among them nine children and eight women, the ministry said. Separately, Hezbollah said it had carried out attacks on Israeli forces in the south, including a drone strike targeting soldiers in the Bint Jbeil district. The violence comes as Israel presses ahead with military operations in Lebanon despite the ceasefire announced on 16 April, after direct talks between Lebanese and Israeli ambassadors in Washington. Lebanese President Joseph Aoun criticised what he described as \"continuing Israeli violations\" of the truce, saying strikes and demolitions of homes and places of worship were ongoing \"despite the ceasefire\". \"Pressure must be exerted on Israel to ensure it respects international laws and conventions, and ceases targeting civilians, paramedics, civil defence and humanitarian organisations,\" he said. On Thursday, the Israeli military issued evacuation warnings for 15 villages in southern Lebanon. Many of the villages were outside what Israel has designated as the \"Yellow Line\" - a strip of territory extending roughly 10km (6 miles) from the border where it says it continues to operate against threats. Israel says its actions are in response to what it describes as violations of the deal by Hezbollah, the Iran-backed militia and political party. Hezbollah was not involved in the ceasefire agreement but had indicated it would abide by its terms if it was also respected by Israel. While the truce largely halted strikes on Beirut and its southern suburbs, fighting has persisted elsewhere in the south, with continued air raids and repeated evacuation orders. Lebanese officials say this amounts to a pattern of violations, while Israel maintains it is acting within the terms of the agreement. The US-mediated ceasefire permits Israel to respond to what it describes as \"planned, imminent or ongoing attacks\" - but Hezbollah rejects this part of the agreement. The fragile truce has also exposed political divisions in Beirut over what comes next. President Aoun has backed direct, face-to-face talks and said the ceasefire should evolve into a more \"permanent agreement\". Parliament Speaker Nabih Berri, an ally of Hezbollah, has taken a sharply different stance, opposing direct talks and warning they carry risks.",
-          "url": "https://www.bbc.com/news/articles/cq5pepj21g8o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0dba/live/9d4a5520-44c0-11f1-ac78-2112837ce2aa.jpg",
-          "published_at": "2026-04-30T20:14:48Z",
-          "embed_url": "https://www.bbc.com/news/articles/cq5pepj21g8o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "7b90f45ad8b5",
@@ -2403,30 +2427,6 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 10
-        },
-        {
-          "id": "ac9af6bafed8",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Trainee driver crashes bus into River Seine",
-          "summary": "The driver hit a parked car and veered off the road into the river - about 12 miles south of Paris - early on Thursday.",
-          "body_text": "A trainee drove a bus into the River Seine after hitting a parked car and veering off the road on Thursday morning, officials have said. The local transport authority told the BBC the driver was nearing the end of her \"practical learning\" during the incident in Juvisy-sur-Orge, some 20km (12 miles) south of Paris. Drug and alcohol tests have come back negative, a spokesperson said, and the cause of the incident is currently unknown. Essonne prefecture said all four passengers on board had been rescued from the water, where more than 90 firefighters, divers and police took part in a recovery operation. A spokesperson for Île-de-France Mobilités said the driver was accompanied by a \"lead driver\" and two passengers. Its president has ordered an internal investigation into the incident, it added. Local politician Claire Lejeune wrote on X that the bus fell into the Seine \"with four people on board, including a trainee driver\" and thanked emergency services for their response. Juvisy-sur-Orge Mayor Lamia Bensara Reda said the driver had \"lost control\" of the vehicle near a station close to the riverbank, \"before plunging into the Seine and dragging a parked car\" with it. \"Everyone was quickly rescued and, thankfully, is safe and sound,\" she added in a post on Facebook. Essonne prefecture said the number of casualties was still being finalised. An eyewitness told French news agency AFP the bus missed a right turn near the river and instead \"went straight on and dragged a car down with it\". Bystanders rushed to the scene and life rings were thrown out before emergency services arrived, 55-year-old Elisabeth said.",
-          "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/92f2/live/92b58250-4499-11f1-bd52-e755d604ece4.jpg",
-          "published_at": "2026-04-30T14:54:47Z",
-          "embed_url": "https://www.bbc.com/news/articles/cm2pyxpwmdro",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
           "sort_order": 11
         },
         {
@@ -3774,7 +3774,7 @@
           "source_kind": "story",
           "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks | TechCrunch",
           "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-          "body_text": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter. The round, which TechCrunch reported is expected to be roughly $50 billion, is estimated to close within two weeks, the sources said. As we previously reported, Anthropic is targeting a valuation of about $900 billion . However, given the soaring demand from investors seeking a stake in the company, the final valuation may well exceed that figure, our sources said. Despite the intense demand, some early backers — particularly those who invested in 2024 or earlier — are skipping this round. Instead, these investors are waiting to potentially cash out during Anthropic’s anticipated IPO later this year. The company is raising what is likely to be its last private round before going public to fund its massive computing needs. Anthropic announced this month that its annual revenue run rate has surpassed $30 billion. But as we previously reported, the company’s run rate is currently closer to $40 billion, according to sources with knowledge of the company’s financials. Anthropic raised its last round in February at a $380 billion valuation. At $900 billion, the company would not only more than double its valuation but would also surpass its chief rival, OpenAI, which closed a record-breaking $122 billion round at an $852 billion post-money valuation earlier this year. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Marina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation. You can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal. StrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, Replit, Eclipse, and more. Plus, high-value connections that actually move the needle. Tickets are limited. On the stand, Elon Musk can’t escape his own tweets OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+          "body_text": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter. The round, which TechCrunch reported is expected to be roughly $50 billion, is estimated to close within two weeks, the sources said. As we previously reported, Anthropic is targeting a valuation of about $900 billion . However, given the soaring demand from investors seeking a stake in the company, the final valuation may well exceed that figure, our sources said. Despite the intense demand, some early backers — particularly those who invested in 2024 or earlier — are skipping this round. Instead, these investors are waiting to potentially cash out during Anthropic’s anticipated IPO later this year. The company is raising what is likely to be its last private round before going public to fund its massive computing needs. Anthropic announced this month that its annual revenue run rate has surpassed $30 billion. But as we previously reported, the company’s run rate is currently closer to $40 billion, according to sources with knowledge of the company’s financials. Anthropic raised its last round in February at a $380 billion valuation. At $900 billion, the company would not only more than double its valuation but would also surpass its chief rival, OpenAI, which closed a record-breaking $122 billion round at an $852 billion post-money valuation earlier this year. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Marina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation. You can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal. StrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, Replit, Eclipse, and more. Plus, high-value connections that actually move the needle. Tickets are limited. Elon Musk testifies that xAI trained Grok on OpenAI models On the stand, Elon Musk can’t escape his own tweets",
           "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
           "published_at": "2026-04-30T23:07:56Z",
@@ -3942,7 +3942,7 @@
           "source_kind": "story",
           "title": "Elon Musk testifies that xAI trained Grok on OpenAI models | TechCrunch",
           "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-          "body_text": "OpenAI and Anthropic have been on the warpath lately against third-party efforts to train new AI models by prompting their publicly accessible chatbots and APIs, a process known as “distillation.” That conversation has focused on Chinese firms using distillation to create open-weight models that are nearly as capable as U.S. offerings, but available at a much lower cost. However, tech workers have widely assumed that American labs use these techniques on each other to avoid falling behind competitors. Now we know it’s true in at least one case: On the stand in a California federal court on Thursday, Elon Musk was asked if xAI has used distillation techniques on OpenAI models to train Grok, and he asserted it was a general practice among AI companies. Asked if that meant “yes,” he said, “Partly.” Musk is in the process of suing OpenAI , CEO Sam Altman, and Greg Brockman, alleging they breached the original nonprofit mission for OpenAI by shifting the entity to a for-profit structure. That trial began this week, featuring testimony from the tech leader. Musk’s admission is notable because distillation threatens AI giants by undermining the advantage they’ve built by investing in compute infrastructure. This allows other software makers to create models that are nearly as capable on the cheap. There’s no small amount of irony here, given the bending and alleged breaking of copyright rules by frontier labs in their search for sufficient data to train their models. It’s no surprise that Musk’s xAI, which started in 2023, years after OpenAI, would try to learn from the then-leader in the field. It’s not clear that distillation is explicitly illegal, but rather may violate the terms of service companies set for the user of their products. OpenAI, Anthropic, and Google have reportedly launched an initiative through the Frontier Model Forum to share information about how to combat distillation attempts from China. These typically involve systematic querying of models to understand their inner workings. To stop the efforts, frontier labs are working to prevent users from making suspicious mass queries. OpenAI did not respond to a request for comment on Musk’s admission at press time. Later in his testimony, Musk was asked about a claim he made last summer that xAI would soon be far beyond any company besides Google. In response, he ranked the world’s leading AI providers, saying Anthropic held the top spot, followed by OpenAI, Google, and Chinese open source models. He characterized xAI as a much smaller company with just a few hundred employees. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. StrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, Replit, Eclipse, and more. Plus, high-value connections that actually move the needle. Tickets are limited. On the stand, Elon Musk can’t escape his own tweets",
+          "body_text": "OpenAI and Anthropic have been on the warpath lately against third-party efforts to train new AI models by prompting their publicly accessible chatbots and APIs, a process known as “distillation.” That conversation has focused on Chinese firms using distillation to create open-weight models that are nearly as capable as U.S. offerings, but available at a much lower cost. However, tech workers have widely assumed that American labs use these techniques on each other to avoid falling behind competitors. Now we know it’s true in at least one case: On the stand in a California federal court on Thursday, Elon Musk was asked if xAI has used distillation techniques on OpenAI models to train Grok, and he asserted it was a general practice among AI companies. Asked if that meant “yes,” he said, “Partly.” Musk is in the process of suing OpenAI , CEO Sam Altman, and Greg Brockman, alleging they breached the original nonprofit mission for OpenAI by shifting the entity to a for-profit structure. That trial began this week, featuring testimony from the tech leader. Musk’s admission is notable because distillation threatens AI giants by undermining the advantage they’ve built by investing in compute infrastructure. This allows other software makers to create models that are nearly as capable on the cheap. There’s no small amount of irony here, given the bending and alleged breaking of copyright rules by frontier labs in their search for sufficient data to train their models. It’s no surprise that Musk’s xAI, which started in 2023, years after OpenAI, would try to learn from the then-leader in the field. It’s not clear that distillation is explicitly illegal, but rather may violate the terms of service companies set for the user of their products. OpenAI, Anthropic, and Google have reportedly launched an initiative through the Frontier Model Forum to share information about how to combat distillation attempts from China. These typically involve systematic querying of models to understand their inner workings. To stop the efforts, frontier labs are working to prevent users from making suspicious mass queries. OpenAI did not respond to a request for comment on Musk’s admission at press time. Later in his testimony, Musk was asked about a claim he made last summer that xAI would soon be far beyond any company besides Google. In response, he ranked the world’s leading AI providers, saying Anthropic held the top spot, followed by OpenAI, Google, and Chinese open source models. He characterized xAI as a much smaller company with just a few hundred employees. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. StrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, Replit, Eclipse, and more. Plus, high-value connections that actually move the needle. Tickets are limited. Elon Musk testifies that xAI trained Grok on OpenAI models",
           "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
           "published_at": "2026-04-30T18:03:57Z",
@@ -4240,6 +4240,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "e5af8d46a466",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Victorias trippla klädbyten under kungens 80-årsdag",
+          "summary": "Från uniform, till vit dräkt, till galablåsa. Det blev flera ombyten för kronprinsessan Victoria när hon firade sin pappas födelsedag.",
+          "body_text": "Från uniform, till benvit dräkt, till galablåsa. Det blev flera ombyten för kronprinsessan Victoria när hon firade sin pappas födelsedag. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kung Carl Gustaf firade sin 80-årsdag på torsdagen. Firandet pågick hela dagen, och började med militär uppvaktning utanför Slottet. Därefter väntade en storslagen lunch i Stadshuset, och bara timmar senare en ordentlig galamiddag på Slottet. Äldsta dottern kronprinsessan Victoria var givetvis på plats vid alla tre firanden. Och det blev många klädbyten för tronarvingen. Vid hedersuppvaktningen på Yttre borggården bar Victoria militär uniform, efter att hon förra året blev färdig med sin officersutbildning. Till lunchen hade kronprinsessan svidat om och satt på sig en helvit outfit, i form av en kavaj, klänning och klackar. Och till dagens grand finale, middagen, satte hon på sig en riktig galapärla – en kleinblå klänning designad av Christer Lindarw. Hon matchade klänningen med silverfärgade klackskor, en handväska från LK Bennett, och en tiara prydd med diamanter. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/kungligt/victorias-trippla-kladbyten-under-kungens-80-arsdag-/",
+          "image_url": "https://static.bonniernews.se/images/e9/4b/e94b8ff1d8764590bc892ea47984ca68/16x9/original.png",
+          "published_at": "2026-05-01T10:50:16Z",
+          "embed_url": "https://www.expressen.se/nyheter/kungligt/victorias-trippla-kladbyten-under-kungens-80-arsdag-/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "969d76e2dce8",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4249,9 +4273,9 @@
           "source_kind": "story",
           "title": "S till val med skolsatsning för 3,4 miljarder",
           "summary": "Socialdemokraterna med Magdalena Andersson i spetsen håller presskonferens på första maj.",
-          "body_text": "Socialdemokraterna går till val på en småskolereform med högst 12 elever per lärare. – Små klasser för små barn, säger Magdalena Andersson under en pressträff på första maj. Pengar ska bland annat tas från skolpengen till friskolor. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Socialdemokraterna går till val på en satsning på lågstadiet på 3,4 miljarder. Socialdemokraternas partiledare Magdalena Andersson lägger fram förslagen på en pressträff inför sitt förstamajtal i Stockholm. – Det är uppenbart att krisen i den svenska skolan måste vändas och att barnens skolform måste tas på allvar, säger Andersson. För att löftet ska vara möjligt att genomföra kommer det att behöva anställas minst 3 000 lärare till i lågstadiet, enligt partiets beräkningar. Även i förskoleklasserna ska det bli fler lärare sett till antalet elever. Med fler lärare ska 6–9-åringarna i förskoleklass och lågstadiet kunna få mer hjälp med att, framför allt, lära sig läsa och räkna. Övergången från förskoleklass till lågstadiet ska också bli smidig och trygg. Det är i dag alltför många som i lågstadiet inte klarar kraven i de nationella proven i svenska och matematik, framhåller Socialdemokraterna. Reglerna som anger max antal elever per lärare ska vara bindande för både kommunala skolor och friskolor, föreslår partiet. Tidigare under dagen talade S-ledaren i Tornparken Sundbyberg, där hon krävde att regeringen tar fram en ekonomisk skyddsplan för Sverige när kriget i Mellanöstern hotar ”vanligt folks” plånböcker och jobb. – Men Sverige behöver en ny regering och den vill jag leda.",
+          "body_text": "Socialdemokraterna går till val på en småskolereform med högst 12 elever per lärare. – Små klasser för små barn, säger Magdalena Andersson under en pressträff på första maj. Pengar ska bland annat tas från skolpengen till friskolor. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Socialdemokraterna går till val på en satsning på lågstadiet på 3,4 miljarder. – Det är uppenbart att krisen i den svenska skolan måste vändas och att barnens skolform måste tas på allvar, säger partiledare Magdalena Andersson på en pressträff på första maj. Minst 3 000 lärare kommer behöva anställas till i lågstadiet, enligt partiets beräkningar. Även i förskoleklasserna ska det bli fler lärare sett till antalet elever. Med fler lärare ska 6–9-åringarna i förskoleklass och lågstadiet kunna få mer hjälp med att, framför allt, lära sig läsa och räkna. Övergången från förskoleklass till lågstadiet ska också bli smidig och trygg. Det är i dag alltför många som i lågstadiet inte klarar kraven i de nationella proven i svenska och matematik, framhåller Socialdemokraterna. Reglerna som anger max antal elever per lärare ska vara bindande för både kommunala skolor och friskolor, föreslår partiet. – Vi vill påbörja reformen under den kommande mandatperioden, säger Magdalena Andersson. Någon risk att reglerna ska leda till fler obehöriga lärare ser inte Andersson. – Nej. Många lärare lämnar jobbet för de inte orkar, för det är för stökigt i klassrummen. Med en sån här reform borde man kunna locka tillbaka lärare. Vi får också minskade barnkullar så det kan också handla om att lärare inte ska bli av med jobbet. Därutöver kommer vi behöva utbilda.",
           "url": "https://www.expressen.se/nyheter/politik/s-till-val-med-skolsatsning-for-34-miljarder/",
-          "image_url": "https://static.bonniernews.se/images/01/7a/017a2715ad6247eab1af2ae90eff4e93/16x9/original.jpg",
+          "image_url": "https://static.bonniernews.se/images/6b/be/6bbe60e04e7f43e6abf9d0057e9b067b/16x9/original.jpg",
           "published_at": "2026-05-01T09:43:11Z",
           "embed_url": "https://www.expressen.se/nyheter/politik/s-till-val-med-skolsatsning-for-34-miljarder/",
           "play_mode": "page_iframe",
@@ -4261,7 +4285,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "1982b5aaab16",
@@ -4285,7 +4309,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "821e282d2e19",
@@ -4309,7 +4333,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "45135d7bc05a",
@@ -4333,7 +4357,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "e85478aedafd",
@@ -4357,7 +4381,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "be2719569701",
@@ -4374,30 +4398,6 @@
           "image_url": "https://static.bonniernews.se/images/3d/0a/3d0a4e3cd7724fd7a0d678440b681050/16x9/original.png",
           "published_at": "2026-05-01T08:08:11Z",
           "embed_url": "https://www.expressen.se/nyheter/kungligt/det-bar-prinsessan-estelle-pa-kungens-80-arsfest/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "e81bb015f898",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Därför har S-väljare gått till SD: ”En politisk adel”",
-          "summary": "Sviker arbetarklassen, tystar ned problem med invandringen och bryr sig om makten. Den bilden av S ges i en ny intervjubok om varför väljare lämnat för SD.",
-          "body_text": "Ett parti som sviker arbetarklassen, som tystar ned problem med invandringen och främst bryr sig om makten. Den bilden av Socialdemokraterna ges i en ny intervjubok om varför hundratusentals väljare lämnat partiet för SD. – Den vision man har nu, det är ju att plagiera Sverigedemokraterna, säger intervjuade Ibrahim i boken. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I nya boken ”Det handlade aldrig om invandrarna” djupintervjuas personer som lämnat S för SD. Det framkommer tydlig kritik mot S, bland annat att man vänt sina arbetarväljare ryggen. Sedan Magdalena Andersson tog över som partiledare pågår ett stort förändringsarbete, bland annat med syfte att återfå väljare som lämnat partiet. Lagom till arbetarrörelsens egen dag, första maj, kommer boken ”Det handlade aldrig om invandrarna” ut. Den tar avstamp i varför Socialdemokraterna förlorat hälften av sina medlemmar på 2000-talet – och varför så många av dem gått till Sverigedemokraterna. ” Mellan 2014 och 2018 bytte omkring 11 procent av S-väljarna parti till SD; mellan 2018 och 2022 ytterligare 8 procent. Totalt rör det sig om hundratusentals väljare ”, konstateras i boken. ”Det handlade aldrig om invandrarna” tar sitt avstamp i varför hundratusentals arbetarväljare har lämnat Socialdemokraterna för Sverigedemokraterna. Boken bygger på djupintervjuer med politiska företrädare i SD som tidigare varit socialdemokrater.",
-          "url": "https://www.expressen.se/nyheter/politik/darfor-har-s-valjare-gatt-till-sd-en-politisk-adel/",
-          "image_url": "https://static.bonniernews.se/images/a2/30/a2303c81f4174410b8bd0b68764b649b/16x9/original.png",
-          "published_at": "2026-05-01T07:29:43Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/darfor-har-s-valjare-gatt-till-sd-en-politisk-adel/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4432,6 +4432,30 @@
           "sort_order": 7
         },
         {
+          "id": "e81bb015f898",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Politik Idag 09.29 Därför har S-väljare gått till SD: ”En politisk adel”",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/politik/darfor-har-s-valjare-gatt-till-sd-en-politisk-adel/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/politik/darfor-har-s-valjare-gatt-till-sd-en-politisk-adel/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
           "id": "7ee533812a61",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4446,30 +4470,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/polisens-vadjan-efter-mordet-pa-my-hor-av-er/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "74fe97db69ff",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Politik Idag 08.49 Magdalena Andersson i ”Fördomsshowen” i SVT: ”Vem är Brad Pitt?”",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-i-fordomsshowen-i-svt-vem-ar-brad-pitt/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-i-fordomsshowen-i-svt-vem-ar-brad-pitt/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
