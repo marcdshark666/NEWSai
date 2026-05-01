@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T14:54:09Z",
+  "generated_at": "2026-05-01T15:53:01Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Så kan bråket mellan USA och Tyskland påverka Europa Ordbråket eskalerar – Trump kan dra ner truppstyrkan i Tyskland Döttrarnas sorg • ”Var bättre än någonsin” Eldmoln och rök • ”Där såg vi hur det går till”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Lovar att hedra Wadenius på scen • ”Var allt som en människa bör vara” Så kan bråket mellan USA och Tyskland påverka Europa Ordbråket eskalerar – Trump kan dra ner truppstyrkan i Tyskland Eldmoln och rök • ”Där såg vi hur det går till”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1750,6 +1750,56 @@
           "sort_order": 0
         },
         {
+          "id": "2f397f0669c9",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Country star Jason Aldean shares insights on new album and expanding restaurant empire | Fox News Video",
+          "summary": "Country music star Jason Aldean discusses his new album, 'Songs About Us,' upcoming tour, and his Pittsburgh bar. He shares details on family recipes and his wife Brittany singing on the album for the first time.",
+          "body_text": "Country music star Jason Aldean discusses his new album, 'Songs About Us,' upcoming tour, and his Pittsburgh bar. He shares details on family recipes and his wife Brittany singing on the album for the first time.",
+          "url": "https://www.foxnews.com/video/6394340674112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aaf8c2a-dc5e-4c25-9ae0-2e0079491dd2/bde96b10-7d8b-4c2d-a642-2fe9db97e883/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-01T15:00:45Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394340674112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "a692f2157ba0",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "DHS Sec. Markwayne Mullin details impact of record-long government shutdown | Fox News Video",
+          "summary": "DHS Sec. Markwayne Mullin discusses the long-lasting consequences of the nearly 80-day Homeland Security shutdown and dismisses criticism of the U.S. Secret Service's response to the WHCA Dinner shooting.",
+          "body_text": "DHS Sec. Markwayne Mullin discusses the long-lasting consequences of the nearly 80-day Homeland Security shutdown and dismisses criticism of the U.S. Secret Service's response to the WHCA Dinner shooting. DHS Secretary Markwayne Mullin criticizes the 80-day government shutdown's severe repercussions on homeland security, citing significant TSA agent attrition and operational backlogs. Mullin highlights that the shutdown caused substantial disruptions across various DHS agencies, including the Coast Guard's licensing duties, leading to economic strain. He counters Representative Alexandria Ocasio-Cortez's assertion that the shutdown was justified, emphasizing the critical need for consistent funding for national security.",
+          "url": "https://www.foxnews.com/video/6394340282112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fd43c87-3c97-499d-bf53-3e857d2ce773/53c33ced-e363-43b9-bcc4-a4e2d46e68b6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-01T14:39:32Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394340282112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "8c7a8e31ea47",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1772,7 +1822,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "e30a58829afe",
@@ -1797,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "d78a3bddb4a2",
@@ -1822,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "8c52f38b2a62",
@@ -1847,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "08a5a06796a6",
@@ -1872,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "9a2715aba32e",
@@ -1897,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "c16529ff2d68",
@@ -1922,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "9d6005aa3d8a",
@@ -1939,56 +1989,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/138a2405-62b4-4bde-b8fe-e024d5acc3b4/0c1a9cd6-83df-4020-931c-7457326a3c03/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-01T12:55:50Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394333100112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "c8e91d6e2e93",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Schools close across the country for May Day protests | Fox News Video",
-          "summary": "Scarlett Johnson criticizes Madison, Wisconsin, schools for closing as the local teachers' union reports 70% of members plan to participate in May Day protests, saying students are being used as 'political pawns.'",
-          "body_text": "Scarlett Johnson criticizes Madison, Wisconsin, schools for closing as the local teachers' union reports 70% of members plan to participate in May Day protests, saying students are being used as 'political pawns.' Wisconsin mom Scarlett Johnson speaks out on Madison public schools canceling classes for May Day protests, accusing teachers' unions of exploiting students for political gain. Johnson highlights Wisconsin's poor report card scores in math and reading, questioning the unions' priorities as they reportedly funnel over $1 billion to left-wing organizations and political groups.",
-          "url": "https://www.foxnews.com/video/6394331660112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e579bd3-dad3-4751-9b0f-3937dc262e18/023dadcd-1fa3-4cfa-b73a-aa5bbb150fa8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-01T12:02:38Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394331660112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "19968f0d9199",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Florida officer talks man off bridge in dramatic rescue | Fox News Video",
-          "summary": "Jacksonville Police Officer Antonio Richardson shares the emotional story of how he talked a man off the edge of a bridge in Jacksonville, Florida, on April 12.",
-          "body_text": "Jacksonville Police Officer Antonio Richardson shares the emotional story of how he talked a man off the edge of a bridge in Jacksonville, Florida, on April 12.",
-          "url": "https://www.foxnews.com/video/6394331036112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eab2837-67e8-4316-a048-80a73da173ed/36ee0ac3-c78b-499c-8758-2096eed7779e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-01T12:00:31Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394331036112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2300,8 +2300,8 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9fe5/live/c5211800-44f6-11f1-b31a-1d206af1842d.jpg",
           "published_at": "2026-05-01T00:54:47Z",
           "embed_url": "https://www.bbc.com/news/articles/cz72j59znw3o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -3717,20 +3717,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "ca867521d4c9",
+          "id": "196c646c5665",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "People are finally using Reddit's search | TechCrunch",
-          "summary": "The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.",
-          "body_text": "After being harried by complaints that its search function needed improving, Reddit has in the last few years invested in its search engine, and has even added AI features to help its users find what they’re looking for. It appears that investment is finally paying off: The company has seen a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday. Huffman noted that search has been one of the major drivers of user acquisition and retention for the platform. “On search, we have seen great performance. Search DAUs, WAUs, and queries are up meaningfully year-over-year. It’s a great driver of retention and DAUs. The search team is, quite frankly, I think doing a great job. If you use Reddit Answers, you can see it is better integrated into the product,” he said on the company’s first quarter post-results conference call. Earlier in February, the platform started testing product placement through AI search results in the U.S . Huffman said that around 40% of conversations on Reddit are commercial in nature, and 84% shoppers feel more confident in their buying decisions after researching on Reddit. The social platform ended the quarter with more than 493 million weekly active unique users (WAUq), up 23% from the same period last year, and about 126 million daily active unique users (DAUq), a 17% improvement from a year earlier. Reddit reported a 7% improvement in U.S. visitors, reaching 53.5 million DAUqs, and 73.3 million DAUqs internationally, a 26% increase. The company said it plans to reach a billion daily users worldwide and 100 million daily users in the U.S. Besides search, the company said its machine translation feature , which now supports over 30 languages, has driven significant user growth in the past few quarters. Reddit reported revenue of $663 million in Q1 2026, beating Wall Street’s expectations of $609.8 million. The company also said it only spent $1 million in capital expenditures in the quarter. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web. You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.",
-          "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
-          "published_at": "2026-05-01T12:00:11Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp",
+          "title": "Ubuntu services hit by outages after DDoS attack | TechCrunch",
+          "summary": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.",
+          "body_text": "Hacktivists have claimed responsibility for taking down the public-facing infrastructure of popular Linux operating system distribution Ubuntu, as well as Canonical, the company that develops and maintains the software. The attack began on Thursday, and affected services that Ubuntu users rely on. “Canonical’s web infrastructure is under a sustained, cross-border attack and we are working to address it. We will provide more information in our official channels as soon as we are able to,” the company said on its website. The hacktivists are believed to have launched a distributed denial-of-service, or DDoS , a crude but often effective attack that consists of flooding a target with junk traffic until it overloads or crashes. Ubuntu developers have been discussing the attack on an unofficial Ubuntu community forum, claiming that the attack affects Ubuntu’s security API, and several Ubuntu and Canonical websites. According to a post on a threat intelligence forum, the DDoS attack has also made it impossible for users to update and install Ubuntu. TechCrunch verified that updates failed to install on a test device running Ubuntu. As of this writing, the outage has been ongoing for around 20 hours . Canonical did not respond to a request for comment. Hacktivists calling themselves The Islamic Cyber Resistance in Iraq 313 Team claimed on its Telegram channel that it was to blame for the DDoS attack. The hackers claimed to be using Beamed, a DDoS-for-hire service. These types of services, also called booters or stressers, allow anyone to pay to launch DDoS attacks, even if they have no technical skills nor the necessary infrastructure to flood targets with bogus traffic. The DDoS-for-hire service in this case claims to power attacks in excess of 3.5 Tbps, which is about half of the bandwidth of a cyberattack that Cloudflare last year called the “largest DDoS attack ever recorded.” For years, authorities such as the FBI and Europol have played a game of whack-a-mole against these services, taking down and seizing domains , and sometimes arresting the people behind them. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. You can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com , via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram. StrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, Replit, Eclipse, and more. Plus, high-value connections that actually move the needle. Tickets are limited. Elon Musk testifies that xAI trained Grok on OpenAI models",
+          "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ubuntu-failed-update-ddos-attack.png?resize=1200,751",
+          "published_at": "2026-05-01T15:00:14Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/ubuntu-failed-update-ddos-attack.png",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3741,20 +3741,20 @@
           "sort_order": 0
         },
         {
-          "id": "caf280296532",
+          "id": "ca867521d4c9",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet | TechCrunch",
-          "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-          "body_text": "India has emerged as the largest user base for ChatGPT Images 2.0 since its launch last week , OpenAI said on Thursday. However, third-party data reviewed by TechCrunch points to a more measured global response, with limited overall growth alongside sharp spikes in select emerging markets. ChatGPT Images 2.0, OpenAI’s latest image-generation upgrade, is designed to handle more complex prompts and produce detailed visuals, including accurate text across multiple languages. Early patterns from the company suggest users — especially in India, its largest market — are using it to create personal visuals such as avatars, stylized portraits, and fantasy-themed images. Data shared by Sensor Tower and Similarweb with TechCrunch suggests the rollout has led to a more mixed global response. ChatGPT’s app downloads rose 11% week-over-week following the launch, per Sensor Tower, but overall engagement gains were modest, with daily active users and sessions up only around 1%. Similarweb data also shows a limited increase in ChatGPT’s global web traffic, rising about 1.6% week-over-week during the same period. However, Sensor Tower data indicates some emerging markets — including Pakistan, Vietnam, and Indonesia — saw sharper spikes in ChatGPT’s app downloads, with increases of up to 79% week-over-week during the rollout period. India, meanwhile, remained a major source of activity during the rollout. Sensor Tower estimates show ChatGPT was downloaded about 5 million times in India during the launch week, compared with roughly 2 million in the U.S., though growth remained modest on a week-over-week basis. Similarweb data also points to a limited uptick in engagement, with daily active users in India rising about 3.4% week-over-week during the same period. In India, the early trends suggest ChatGPT Images 2.0 is largely being used as a form of self-expression. Rather than purely functional outputs, users are creating studio-style portraits from everyday photos, social media-ready images, and imaginative visuals that place themselves at the center, OpenAI said. The early patterns also highlight how AI image tools are being adopted differently across markets. While India’s large user base is driving overall scale, sharper spikes in countries like Pakistan and Indonesia point to stronger new-user demand in emerging markets following the launch. OpenAI’s Images 2.0 launch comes amid intensifying competition in AI image generation. Google’s earlier image-focused model, the original Nano Banana , also saw strong early traction in India, indicating how the nation has become an important market for image generation. With the new ChatGPT Images release, OpenAI is pushing further with improvements such as better rendering of non-Latin text, including Hindi and Bengali, and new “thinking” capabilities that allow it to refine outputs and generate multiple variations from a single prompt. Beyond stylized portraits and avatars, OpenAI said early Images 2.0 users in India are experimenting with a wider range of formats — from fantasy newspaper covers to tarot-style visuals and fashion moodboards. Users are also using the AI tool to restore older photos and create cinematic portrait collages, the company said, suggesting early patterns of more personal use. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Jagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV.",
-          "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
-          "published_at": "2026-05-01T02:00:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg",
+          "title": "People are finally using Reddit's search | TechCrunch",
+          "summary": "The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.",
+          "body_text": "After being harried by complaints that its search function needed improving, Reddit has in the last few years invested in its search engine, and has even added AI features to help its users find what they’re looking for. It appears that investment is finally paying off: The company has seen a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday. Huffman noted that search has been one of the major drivers of user acquisition and retention for the platform. “On search, we have seen great performance. Search DAUs, WAUs, and queries are up meaningfully year-over-year. It’s a great driver of retention and DAUs. The search team is, quite frankly, I think doing a great job. If you use Reddit Answers, you can see it is better integrated into the product,” he said on the company’s first-quarter post-results conference call. Earlier in February, the platform started testing product placement through AI search results in the U.S . Huffman said that around 40% of conversations on Reddit are commercial in nature, and 84% shoppers feel more confident in their buying decisions after researching on Reddit. The social platform ended the quarter with more than 493 million weekly active unique users (WAUq), up 23% from the same period last year, and about 126 million daily active unique users (DAUq), a 17% improvement from a year earlier. Reddit reported a 7% improvement in U.S. visitors, reaching 53.5 million DAUqs, and 73.3 million DAUqs internationally, a 26% increase. The company said it plans to reach a billion daily users worldwide and 100 million daily users in the U.S. Besides search, the company said its machine translation feature , which now supports over 30 languages, has driven significant user growth in the past few quarters. Reddit reported revenue of $663 million in Q1 2026, beating Wall Street’s expectations of $609.8 million. The company also said it only spent $1 million in capital expenditures in the quarter. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web. You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.",
+          "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
+          "published_at": "2026-05-01T12:00:11Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3870,7 +3870,7 @@
           "source_kind": "story",
           "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too | TechCrunch",
           "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-          "body_text": "After Sam Altman trash-talked Anthropic for gatekeeping its cybersecurity tool Mythos by only releasing it to select users, he confirmed that OpenAI would be doing the same with its competing tool, Cyber. Altman said in a post on X on Thursday that OpenAI will begin rolling out GPT-5.5 Cyber “to critical cyber defenders” in the next few days. OpenAI has an application on its website where people submit information about their credentials and planned use in order to gain access. This version of Cyber can perform such tasks as penetration testing, vulnerability identification (and exploitation), and malware reverse engineering, the application implies. It’s intended to be a toolkit to help a company find security holes and test defenses. The fear is that the kit could be misused by the bad guys. When Anthropic similarly restricted access to Mythos, Altman called the tactic fear-based marketing . Some critics also thought so, saying Anthropic’s rhetoric was overblown . Ironically, an unauthorized group reportedly managed to gain access to Mythos anyway . OpenAI says it’s working to make Cyber more widely available by consulting with the U.S. government and identifying more users with legit cybersecurity credentials . A spokesperson tells TechCrunch that the company’s system for verifying those with legit cybersecurity credentials, which it calls Trusted Access for Cyber (TAC) has scaled “to thousands of verified defenders and hundreds of teams responsible for protecting critical software.” Those folks can use the latest model, GPT 5.5 for “cybersecurity tasks” with “minimal friction” from safeguards. The TAC permissions program is tiered, the spokesperson said: “Critical defenders with legitimate defensive use cases can apply to access dedicated more cyber-permissive models like GPT 5.4-Cyber, and the forthcoming GPT 5.5-Cyber, through the program.” Note: This story was updated to include a statement from OpenAI. StrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, Replit, Eclipse, and more. Plus, high-value connections that actually move the needle. Tickets are limited. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly.",
+          "body_text": "After Sam Altman trash-talked Anthropic for gatekeeping its cybersecurity tool Mythos by only releasing it to select users, he confirmed that OpenAI would be doing the same with its competing tool, Cyber. Altman said in a post on X on Thursday that OpenAI will begin rolling out GPT-5.5 Cyber “to critical cyber defenders” in the next few days. OpenAI has an application on its website where people submit information about their credentials and planned use in order to gain access. This version of Cyber can perform such tasks as penetration testing, vulnerability identification (and exploitation), and malware reverse engineering, the application implies. It’s intended to be a toolkit to help a company find security holes and test defenses. The fear is that the kit could be misused by the bad guys. When Anthropic similarly restricted access to Mythos, Altman called the tactic fear-based marketing . Some critics also thought so, saying Anthropic’s rhetoric was overblown . Ironically, an unauthorized group reportedly managed to gain access to Mythos anyway . OpenAI says it’s working to make Cyber more widely available by consulting with the U.S. government and identifying more users with legit cybersecurity credentials . A spokesperson tells TechCrunch that the company’s system for verifying those with legit cybersecurity credentials, which it calls Trusted Access for Cyber (TAC) has scaled “to thousands of verified defenders and hundreds of teams responsible for protecting critical software.” Those folks can use the latest model, GPT 5.5 for “cybersecurity tasks” with less “friction” from safeguards. The TAC permissions program is tiered, the spokesperson said: “Critical defenders with legitimate defensive use cases can apply to access dedicated more cyber-permissive models like GPT 5.4-Cyber, and the forthcoming GPT 5.5-Cyber, through the program.” Note: This story was updated to include a statement from OpenAI. StrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, Replit, Eclipse, and more. Plus, high-value connections that actually move the needle. Tickets are limited. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly.",
           "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
           "published_at": "2026-04-30T19:27:41Z",
@@ -4240,6 +4240,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "4534d87624e8",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Oljejättarna går emot Trump – trots kravet",
+          "summary": "Oljepriset rusar. Nu vill Trump att de amerikanska oljejättarna ökar produktionen för att trycka ner priset. Men presidenten får kalla handen, skriver Financial Times.",
+          "body_text": "Nu vill Trump att de amerikanska oljejättarna ökar produktionen för att trycka ner priset. Men presidenten får kalla handen, skriver Financial Times. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På torsdagen steg oljepriset till 126 dollar per fat, det högsta priset sedan kriget mellan Iran och USA startade. Men i stället för att sluta ett fredsavtal med Iran och öppna Hormuzsundet har Trump och hans administration en annan plan. De vill att USA:s två största oljebolag, Exxon Mobil och Chevron, ska öka produktionen. – Vi har haft ständig kontakt med oljebolagen och har övervägt åtgärder som vi skulle kunna vidta här i USA för att öka den amerikanska produktionen inom en snar framtid, säger Trumps ekonomiska rådgivare Kevin Hassett till Reuters . Men Exxon Mobil och Chevron följer inte Trumps råd, skriver Financial Times. – Det finns egentligen inget behov för oss att växla upp eftersom vi redan har växlat upp, vi är redan på högsta växeln. Det betyder inte att vi inte tittar på möjligheten att utöka det, men det finns begränsningar, säger Exxons ekonomichef Neil Hansen till tidningen. – Krisen har inte lett till någon förändring av våra planer, säger företagets vd Eimear Bonner. Både Exxon och Chevron, vars vd:ar var bland en grupp chefer som träffade Trump den här veckan, uppgav att de driver sina raffinaderier på rekordnivåer. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/oljejattarna-gar-emot-trump-trots-kravet/",
+          "image_url": "https://static.bonniernews.se/images/6d/df/6ddf7b0d9b8e4e3c951fa965fb294bdc/16x9/original.png",
+          "published_at": "2026-05-01T15:39:22Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/oljejattarna-gar-emot-trump-trots-kravet/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "558bfa8cba16",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tonårsgäng stenade man till döds på stranden",
+          "summary": "Tre tonåringar lurade ner en man som de trodde var pedofil till stranden. Där slog de ihjäl honom med stenar och en flaska – och la upp en video i sociala medier kort därefter. Nu döms trion för dråp.",
+          "body_text": "Tre tonåringar lurade ner en man som de trodde var pedofil till stranden. Där slog de ihjäl honom med stenar och en flaska – och la upp en video i sociala medier kort därefter. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var i augusti förra året som en 16-årig flicka och två pojkar, 15 och 16 år gamla, dödade en 49-årig man i kuststaden Leydown-on-Sea i brittiska Kent. Tonåringarna friades för mord, men dömdes för dråp på torsdagen, rapporterar brittiska medier. Den 15-årige pojken fick fem år och de andra två sju års fängelse. – Ni planerade alla att lura och skada den här mannen under flera dagar och som grupp. Det var en fruktansvärd händelse och ett liv som gick förlorat på ett meningslöst sätt, sa domaren under rättegången. ■ Tre tonåringar lurade en man till stranden i Kent, Storbritannien. ■ Mannen stenades ihjäl – dådet filmades och lades ut i sociala medier. ■ Tonåringarna döms nu för dråp, men frias från mord. Tonåringarna lurade mannen till stranden där de slog honom med stenar och en flaska. De säger i rätten att de trodde att han var pedofil. Enligt ett vittne kastade den 16-årige pojken en sten ”stor som en fruktskål” mot mannen. ”Jävla pedofil, jag är för fan 16, ta honom”, ska flickan ha skrikit samtidigt som hon filmade när pojkarna jagade mannen. Enligt åklagaren visade hon ”orubblig entusiasm” för attacken.",
+          "url": "https://www.expressen.se/nyheter/varlden/tonaringar-lockade-man-till-stranden-stenades-ihjal/",
+          "image_url": "https://static.bonniernews.se/images/22/9c/229c05af56c74a2ab52770083e41c43a/16x9/original.png",
+          "published_at": "2026-05-01T15:36:46Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/tonaringar-lockade-man-till-stranden-stenades-ihjal/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "81d7bc33edf3",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Andersson om blundern i SVT",
+          "summary": "S-ledaren Magdalena Andersson vet inte riktigt vem Brad Pitt är. – Ingen som känner mig är det minsta förvånad, säger hon om erkännandet i SVT:s ”Fördomsshowen”.",
+          "body_text": "S-ledaren Magdalena Andersson vet inte riktigt vem Brad Pitt är. – Ingen som känner mig är det minsta förvånad, säger hon om erkännandet i SVT:s ”Fördomsshowen”. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På fredagen var det Socialdemokraternas partiledare Magdalena Anderssons tur att gästa SVT:s ”Fördomsshowen”, programmet där journalisten Emil Persson under våren utsätter partiledarna för sina fördomar om dem. I programmet fick Andersson frågor om populärkultur – och gick bet på flera av dem. Bland annat hade hon svårt att placera skådespelaren Brad Pitt. – Alltså, vem är Brad Pitt? Jag vet att det är en skådis, men jag vet inte vem av dem det är, sade hon i programmet. Hon kunde inte heller nämna en film Stellan Skarsgård varit med i och insåg att hon gjorde sin man besviken när hon inte kunde namnet på sångaren i Nirvana. – Nä, men nu kommer min man att bli sur, han tycker att jag borde ha lyssnat bättre. Enligt Andersson själv är hennes begränsade kunskaper om kultur och nöje inget som överraskar hennes omgivning. – Ingen som känner mig är det minsta förvånad. Jag ser inte så mycket på film, säger hon till Expressen. Även om det inte gick helt smärtfritt tyckte hon att det var kul att vara med. – Man får bjuda lite på sig själv, ens luckor uppdagas, säger hon.",
+          "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om--brad-pitt-blundern-i-svt/",
+          "image_url": "https://static.bonniernews.se/images/f7/00/f7003ac18cc44f7a8fe5938366852f26/16x9/original.png",
+          "published_at": "2026-05-01T15:12:35Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om--brad-pitt-blundern-i-svt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "c1e5acccfcf1",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4251,7 +4323,7 @@
           "summary": "S-ledaren Magdalena Andersson första maj-talar i år på Norra Bantorget i Stockholm. Hon pratar bland annat om hur mycket hon älskar Sverige – och hur mycket hon vill byta ut regeringen.",
           "body_text": "S-ledaren Magdalena Andersson första maj-talar i år på Norra Bantorget i Stockholm. Hon pratar bland annat om hur mycket hon älskar Sverige – och hur mycket hon vill byta ut regeringen. – Vårt land behöver en regering som förstår hur vanligt folk med vanliga Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På 1 maj detta valår samlades Socialdemokraterna i Humlegården i Stockholm för att fira arbetarrörelsens högtidsdag. Bland anhängarnas plakat stod att läsa budskap som ”ut med regeringen, inte tonåringarna” och ”ledighet lönar sig, 6 timmars arbetsdag”. Orkestern på plats spelade traditionsenligt ”Internationalen”. Sedan tågade man till Norra Bantorget, där bland annat S partiledare Magdalena Andersson håller sitt första maj-tal. Hon inleder med att säga att hon älskar Sverige, och tackar personalen i äldrevården för att de hjälper till att ta hand om hennes mamma och andra i behov av omsorg. – Tack Ali, tack Julius, tack Hamid, tack Emelie. Och alla ni andra som jobbar varje dag för att våra äldre ska vara trygga, tack för det arbete ni gör för vårt land, säger Andersson. Hon säger att S vill ”bygga vidare på landet vi älskar” och skriva ”nästa kapitel i Sveriges historia”. S-ledaren pratar även om det oroliga omvärldsläget, som bland annat präglas av kriget i Iran. Hon varnar i talet för de ekonomiska konsekvenserna om kriget fortsätter. – Oavsett hur kriget utvecklar sig kommer vi att se direkta effekter för vanligt folk, med vanliga jobb och vanliga löner. Det måste sägas – svenska folket befinner sig i ekonomisk fara, säger Andersson.",
           "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-forsta-maj-talar-i-stockholm/",
-          "image_url": "https://static.bonniernews.se/images/dc/d2/dcd218c26bea4a9e8fc3b87d50bea6cb/16x9/original.png",
+          "image_url": "https://static.bonniernews.se/images/78/e4/78e4d23d8c074f6ba502e459d225a8f7/16x9/original.png",
           "published_at": "2026-05-01T14:12:41Z",
           "embed_url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-forsta-maj-talar-i-stockholm/",
           "play_mode": "page_iframe",
@@ -4261,7 +4333,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "f0981a2d1e19",
@@ -4285,7 +4357,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "85e9b2d29a4f",
@@ -4309,7 +4381,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "d42104069621",
@@ -4321,83 +4393,11 @@
           "source_kind": "story",
           "title": "Eldmolnet – här sprängs föremålet mitt i Malmö",
           "summary": "Ett misstänkt farligt föremål upptäcktes på Amiralsgatan i centrala Malmö på fredagen. Ett VMA är utfärdat och boende i närheten har inrymts. Föremålet har sprängts.",
-          "body_text": "En skarp handgranat upptäcktes på Amiralsgatan i centrala Malmö på fredagen. Ett VMA utfärdades och boende i närheten har inrymdes medan nationella bombskyddet jobbade på platsen – och sprängde handgranaten. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var vid 12.15 som polisen larmades om ett misstänkt farligt föremål på Amiralsgatan i centrala Malmö . – Det är allmänheten som uppmärksammat ett föremål som ligger öppet på Amiralsgatan och larmat, vilket är jättebra, säger Evelina Olsson, presstalesperson vid polisen region Syd. Korsningen Föreningsgatan och Amiralsgatan samt delar av Drottninggatan spärrades av, nationella bombskyddet kallades till platsen och boende i området inrymdes. Även flera bussar som stod inom avspärrningarna fick utrymmas och personer som befann sig inne på restauranger och butiker i området uppmanades att hålla sig inne och borta från fönster och ett VMA, viktigt meddelande till allmänheten utfärdades. Nationella bombskyddet var på plats innan klockan 13 för att undersöka föremålet och vid 14-tiden sprängdes föremålet. – Nationella bombskyddet har under kontrollerade former och enligt de rutiner vi har sprängt föremålet som initialt bedöms vara en skarp handgranat, säger Filip Annans, presstalesperson i polisregion Syd. Avspärrningarna har efter sprängningen börjat släppa delvis, men området närmast platsen där handgranaten låg kommer vara fortsatt avspärrad medan polisen arbetar på platsen. – Vi ska kontrollera övervakningskameror i närområdet för att se om vi kan identifiera gärningsperson, prata med vittnen för att få en bild av händelseförloppet. Och även se om det finns något tilltänkt mål, säger Filip Annans. Den initiala brottsrubriceringen är brott mot lagen om brandfarliga och explosiva varor, men det kan tillkomma fler rubriceringar under utredningens gång. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "En skarp handgranat upptäcktes på Amiralsgatan i centrala Malmö på fredagen. Ett VMA utfärdades och boende i närheten har inrymdes medan nationella bombskyddet jobbade på platsen – och sprängde handgranaten. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var vid 12.15 som polisen larmades om ett misstänkt farligt föremål på Amiralsgatan i centrala Malmö . – Det är allmänheten som uppmärksammat ett föremål som ligger öppet på Amiralsgatan och larmat, vilket är jättebra, säger Evelina Olsson, presstalesperson vid polisen region Syd. Korsningen Föreningsgatan och Amiralsgatan samt delar av Drottninggatan spärrades av, nationella bombskyddet kallades till platsen och boende i området inrymdes. Även flera bussar som stod inom avspärrningarna fick utrymmas och personer som befann sig inne på restauranger och butiker i området uppmanades att hålla sig inne och borta från fönster och ett VMA, viktigt meddelande till allmänheten utfärdades. Nationella bombskyddet var på plats innan klockan 13 för att undersöka föremålet och vid 14-tiden sprängdes föremålet. – Nationella bombskyddet har under kontrollerade former och enligt de rutiner vi har sprängt föremålet som initialt bedöms vara en skarp handgranat, säger Filip Annans, presstalesperson i polisregion Syd. Avspärrningarna har efter sprängningen börjat släppa delvis, men området närmast platsen där handgranaten låg kommer vara fortsatt avspärrad medan polisen arbetar på platsen. – Vi ska kontrollera övervakningskameror i närområdet för att se om vi kan identifiera gärningsperson, prata med vittnen för att få en bild av händelseförloppet. Och även se om det finns något tilltänkt mål, säger Filip Annans. Den initiala brottsrubriceringen är brott mot lagen om brandfarliga och explosiva varor, men det kan tillkomma fler rubriceringar under utredningens gång. Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister.",
           "url": "https://www.expressen.se/nyheter/sverige/handgranat-sprangt-av-polis-i-centrala-malmo/",
           "image_url": "https://static.bonniernews.se/images/72/cc/72ccfc3abdf14f9d9b589fffc5c21030/16x9/original.jpg",
           "published_at": "2026-05-01T11:35:43Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/handgranat-sprangt-av-polis-i-centrala-malmo/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "e5af8d46a466",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Victorias trippla klädbyten under kungens 80-årsdag",
-          "summary": "Från uniform, till vit dräkt, till galablåsa. Det blev flera ombyten för kronprinsessan Victoria när hon firade sin pappas födelsedag.",
-          "body_text": "Från uniform, till benvit dräkt, till galablåsa. Det blev flera ombyten för kronprinsessan Victoria när hon firade sin pappas födelsedag. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kung Carl Gustaf firade sin 80-årsdag på torsdagen. Firandet pågick hela dagen, och började med militär uppvaktning utanför Slottet. Därefter väntade en storslagen lunch i Stadshuset, och bara timmar senare en ordentlig galamiddag på Slottet. Äldsta dottern kronprinsessan Victoria var givetvis på plats vid alla tre firanden. Och det blev många klädbyten för tronarvingen. Vid hedersuppvaktningen på Yttre borggården bar Victoria militär uniform, efter att hon förra året blev färdig med sin officersutbildning. Till lunchen hade kronprinsessan svidat om och satt på sig en helvit outfit, i form av en kavaj, klänning och klackar. Och till dagens grand finale, middagen, satte hon på sig en riktig galapärla – en kleinblå klänning designad av Christer Lindarw. Hon matchade klänningen med silverfärgade klackskor, en handväska från LK Bennett, och en tiara prydd med diamanter. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/kungligt/victorias-trippla-kladbyten-under-kungens-80-arsdag-/",
-          "image_url": "https://static.bonniernews.se/images/e9/4b/e94b8ff1d8764590bc892ea47984ca68/16x9/original.png",
-          "published_at": "2026-05-01T10:50:16Z",
-          "embed_url": "https://www.expressen.se/nyheter/kungligt/victorias-trippla-kladbyten-under-kungens-80-arsdag-/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "969d76e2dce8",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "S till val med skolsatsning för 3,4 miljarder",
-          "summary": "Socialdemokraterna med Magdalena Andersson i spetsen håller presskonferens på första maj.",
-          "body_text": "Socialdemokraterna går till val på en småskolereform med högst 12 elever per lärare. – Små klasser för små barn, säger Magdalena Andersson under en pressträff på första maj. Pengar ska bland annat tas från skolpengen till friskolor. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Socialdemokraternas valsatsning på lågstadiet beräknas gå på 3,4 miljarder. – Det är uppenbart att krisen i den svenska skolan måste vändas och att barnens skolform måste tas på allvar, säger partiledare Magdalena Andersson på en pressträff på första maj. Minst 3 000 lärare kommer behöva anställas till i lågstadiet, enligt partiets beräkningar. Även i förskoleklasserna ska det bli fler lärare sett till antalet elever. Satsningen på fler lärare på färre elever tror S att de mindre skoleleverna kommer få bättre möjligheter att klara nationella proven i svenska och mattematik. – Vi vet att en bra skolstart är viktig för att det ska gå bra för en i skolan och sen vidare ut i livet, så därför vill vi genomföra den här småskolereformen med små klasser, säger Magdalena Andersson. Reglerna som anger max antal elever per lärare ska vara bindande för både kommunala skolor och friskolor, föreslår partiet. På presskonferensen framgår dock att det inte handlar om att en klass endast får bestå av tolv elever, utan att det kan vara en klass med 24 elever – och två lärare. – Vi vill påbörja reformen under den kommande mandatperioden, säger Magdalena Andersson. Någon risk att reglerna ska leda till fler obehöriga lärare ser inte Andersson.",
-          "url": "https://www.expressen.se/nyheter/politik/s-till-val-med-skolsatsning-for-34-miljarder/",
-          "image_url": "https://static.bonniernews.se/images/6b/be/6bbe60e04e7f43e6abf9d0057e9b067b/16x9/original.jpg",
-          "published_at": "2026-05-01T09:43:11Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/s-till-val-med-skolsatsning-for-34-miljarder/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "1982b5aaab16",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Upptäckten när PG gled in i demensen",
-          "summary": "PG Gyllenhammar drabbades av demens sista åren. Familjen märkte långsamt vad som pågick. Även omgivningen såg förändringarna.",
-          "body_text": "PG Gyllenhammar drabbades av demens sista åren. Familjen märkte långsamt vad som pågick. Även journalisten Kristina Hedberg såg förändringar. – I backspegeln, med den kunskapen, har jag tänkt tillbaka på vissa situationer, säger hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. När legendariske Volvochefen Pehr G Gyllenhammars femte barn föddes 2016 var han själv över 80 – och älskade föräldraskapet. – Det är väldigt vitaliserande att få barn. Jag har alltid gillat barn, men haft väldigt lite tid för barn, sa han då till Expressen . Hans fyra äldre barn reagerade olika. Sonen Oscar Gyllenhammar fick en ”chock”, enligt journalisten Kristina Hedberg som nyligen släppte boken ”PG: En saga med extra allt”. Direkt efter barnets födelse fick han ett dna-test av sin pappa som bevisade släktskapet. Under samma period började familjen och omgivningen se förändringar hos PG Gyllenhammar som skulle visa sig bero på demenssjukdom. Journalisten Kristina Hedberg, som under 2016 spelade in en dokumentär om Volvolegendarens liv, märkte under arbetet hur han kunde bli väldigt arg. – Han blev arg på sig själv. För han inte riktigt mindes historien så som den faktiskt var. Då tänkte jag inte nödvändigtvis att det var demens, mer att man gärna vill göra om historien till sin fördel. – Men efteråt har jag också funderat på om det också var att han faktiskt på riktigt inte mindes. – Men jag är absolut ingen medicinare eller expert på minnessjukdomar. Så det är bara en reflektion i efterhand.",
-          "url": "https://www.expressen.se/nyheter/sverige/sa-upptackte-familjen-pg-gyllenhammars-demens/",
-          "image_url": "https://static.bonniernews.se/images/59/72/5972ce3acac549aa96f9d912fc5f6e07/16x9/original.jpg",
-          "published_at": "2026-05-01T08:57:22Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/sa-upptackte-familjen-pg-gyllenhammars-demens/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4432,20 +4432,20 @@
           "sort_order": 7
         },
         {
-          "id": "821e282d2e19",
+          "id": "e5af8d46a466",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen Idag 10.35 Péter Magyar står fast vid Orbáns krav på Zelenskyj",
+          "title": "Kungligt Idag 12.50 Victorias trippla klädbyten under kungens 80-årsdag",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/peter-magyar-star-fast-vid-orbans-krav-pa-zelenskyj/",
+          "url": "https://www.expressen.se/nyheter/kungligt/victorias-trippla-kladbyten-under-kungens-80-arsdag-/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/peter-magyar-star-fast-vid-orbans-krav-pa-zelenskyj/",
+          "embed_url": "https://www.expressen.se/nyheter/kungligt/victorias-trippla-kladbyten-under-kungens-80-arsdag-/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4456,20 +4456,20 @@
           "sort_order": 8
         },
         {
-          "id": "45135d7bc05a",
+          "id": "969d76e2dce8",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige Idag 10.26 Risk för vattenbrist i Skåne: ”På randen till kris”",
+          "title": "Politik Idag 11.43 S till val med skolsatsning för 3,4 miljarder",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/risk-for-vattenbrist-i-skane-pa-randen-till-kris/",
+          "url": "https://www.expressen.se/nyheter/politik/s-till-val-med-skolsatsning-for-34-miljarder/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/risk-for-vattenbrist-i-skane-pa-randen-till-kris/",
+          "embed_url": "https://www.expressen.se/nyheter/politik/s-till-val-med-skolsatsning-for-34-miljarder/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
