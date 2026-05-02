@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T14:43:35Z",
+  "generated_at": "2026-05-02T15:41:38Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Systersonen träffades av metallbit • Två allvarligt skadade under motorträff SD-ledaren vårtalade • Antiköttattacken • Nobbar Magdalena Andersson Putins ”attackhund” i nytt utspel: Europa och EU leds av idioter Sågar en ”poserande” Trump: ”Han lämnar självklart inte” Nobbas av Kristersson och Åkesson – nu svarar han på kritiken",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Jämfördes med vägg • ”Totala misslyckanden och löftessvek” Åkessons krav: Vill se fågel, fisk eller kött – varenda dag Systersonen träffades av metallbit • Två allvarligt skadade under motorträff Putins ”attackhund” i nytt utspel: Europa och EU leds av idioter Sågar en ”poserande” Trump: ”Han lämnar självklart inte” Nobbas av Kristersson och Åkesson – nu svarar han på kritiken",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -340,6 +340,31 @@
           "sort_order": 0
         },
         {
+          "id": "eb5dc0b52d02",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 15:45",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 30 apr 23:00 4 min 48 sek Publicerades: Tor 30 apr 08:30 2 min 59 sek Publicerades: Tor 30 apr 07:30 2 min 59 sek",
+          "url": "https://www.svtplay.se/video/eYqqJ2D/rapport/idag-15-45?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54118213/1777730616?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-02T15:45:00Z",
+          "embed_url": "https://www.svtplay.se/video/eYqqJ2D/rapport/idag-15-45?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "aef69c0f5728",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -362,7 +387,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "158955896f4a",
@@ -379,31 +404,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54116566/1777577696?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-02T15:45:00Z",
           "embed_url": "https://www.svtplay.se/video/jMyyEkz/rapport/tor-30-apr-21-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "eb5dc0b52d02",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 15:45",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 30 apr 23:00 4 min 48 sek Publicerades: Tor 30 apr 08:30 2 min 59 sek Publicerades: Tor 30 apr 07:30 2 min 59 sek",
-          "url": "https://www.svtplay.se/video/eYqqJ2D/rapport/idag-15-45?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54118213/1777730616?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-02T13:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/eYqqJ2D/rapport/idag-15-45?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -3860,6 +3860,30 @@
           "sort_order": 6
         },
         {
+          "id": "196c646c5665",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Ubuntu services hit by outages after DDoS attack | TechCrunch",
+          "summary": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.",
+          "body_text": "Hacktivists have claimed responsibility for taking down the public-facing infrastructure of popular Linux operating system distribution Ubuntu, as well as Canonical, the company that develops and maintains the software. The attack began on Thursday, and affected services that Ubuntu users rely on. “Canonical’s web infrastructure is under a sustained, cross-border attack and we are working to address it. We will provide more information in our official channels as soon as we are able to,” the company said on its website. The hacktivists are believed to have launched a distributed denial-of-service, or DDoS , a crude but often effective attack that consists of flooding a target with junk traffic until it overloads or crashes. Ubuntu developers have been discussing the attack on an unofficial Ubuntu community forum, claiming that the attack affects Ubuntu’s security API, and several Ubuntu and Canonical websites. According to a post on a threat intelligence forum, the DDoS attack has also made it impossible for users to update and install Ubuntu. TechCrunch verified that updates failed to install on a test device running Ubuntu. As of this writing, the outage has been ongoing for around 20 hours . When contacted, Canonical spokesperson Lelanie de Roubaix reiterated what the company said on is website. Hacktivists calling themselves The Islamic Cyber Resistance in Iraq 313 Team claimed on its Telegram channel that it was to blame for the DDoS attack. The hackers claimed to be using Beamed, a DDoS-for-hire service. These types of services, also called booters or stressers, allow anyone to pay to launch DDoS attacks, even if they have no technical skills nor the necessary infrastructure to flood targets with bogus traffic. The DDoS-for-hire service in this case claims to power attacks in excess of 3.5 Tbps, which is about half of the bandwidth of a cyberattack that Cloudflare last year called the “largest DDoS attack ever recorded.” For years, authorities such as the FBI and Europol have played a game of whack-a-mole against these services, taking down and seizing domains , and sometimes arresting the people behind them. This story was updated to include Canonical’s response. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. You can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com , via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.",
+          "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ubuntu-failed-update-ddos-attack.png?resize=1200,751",
+          "published_at": "2026-05-01T15:00:14Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/ubuntu-failed-update-ddos-attack.png",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
           "id": "ca867521d4c9",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3881,7 +3905,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "caf280296532",
@@ -3898,30 +3922,6 @@
           "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
           "published_at": "2026-05-01T02:00:00Z",
           "embed_url": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "693f98f4f422",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms | TechCrunch",
-          "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
-          "body_text": "Apple reported a record quarter on Thursday. Yet outgoing CEO Tim Cook warned of some gathering storm clouds in the form of memory chip supply issues that could impact business in the near future. “Today Apple is proud to report our best March quarter ever, with revenue of $111.2 billion and double-digit growth across every geographic segment,” Cook said during Thursday’s earnings call. “iPhone achieved a March quarter revenue record, fueled by such extraordinary demand for the iPhone 17 lineup.” Less rosily, Cook relayed that Apple spent more on memory chips in March than in previous quarters, though the company’s costs were offset by its ability to sell stockpiled inventory . But, he warned, the expectation is “significantly higher memory costs” in June and beyond — the likes of which may “drive an increasing impact” on the business. Cook was referencing what has commonly been called “ RAMageddon ,” the trend of the AI industry guzzling up memory chips with such astonishing gusto it is spurring shortages. This is driving up the prices of hardware. Apple is primarily a hardware company, so that’s obviously not great news for its core products. Most notably, the chip shortage has impacted the iPhone. Despite the strong sales figures touted by Apple on Thursday, it has previously been reported that RAM costs have quadrupled — impacting phone production costs and putting John Ternus, Apple’s incoming CEO, in a less-than-enviable position. One possible result may be that Apple increases prices for the iPhone. “There’s just a little less flexibility in the supply chain at the moment for getting more parts,” Cook told Reuters on Thursday. Ternus, who has served as Apple’s senior vice president of hardware engineering, was on Thursday’s earnings call and praised Cook. “In my view, Tim is one of the greatest business leaders of all time. Stepping into the role of CEO is an incredible honor, and it means a great deal to me to have Tim’s trust and confidence,” Ternus said. He will obviously have his work cut out for him when he begins the job on September 1. But he will still have Cook’s supply chain experience to lean on for a while. Cook will become executive chairman. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. StrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, Replit, Eclipse, and more. Plus, high-value connections that actually move the needle. Tickets are limited. Elon Musk testifies that xAI trained Grok on OpenAI models Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
-          "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
-          "published_at": "2026-04-30T23:59:15Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -4264,6 +4264,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "dfafd83ca42b",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Pär, 63, såg när motorn exploderade: ”Tur att inte fler skadade sig”",
+          "summary": "En flygplansmotor exploderade under ett motorevent utanför Degerfors. Flera personer träffades av motordelar – två är allvarligt skadade. Pär Svensson, 63, från Gullspång blev vittne till olyckan. – Med tanke på hur mycket folk som stod där var det bara tur att inte fler skadade sig, säger han.",
+          "body_text": "En flygplansmotor exploderade under ett motorevent utanför Degerfors. Flera personer träffades av motordelar – två är allvarligt skadade. Pär Svensson, 63, från Gullspång blev vittne till olyckan. – Med tanke på hur mycket folk som stod där var det bara tur att inte fler skadade sig, säger han. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Pär Svensson från Gullspång brukar besöka motoreventet i Svartå i Degerfors kommun. Han berättar att arrangörerna gör något särskilt varje år och nu skulle de alltså köra en gammal flygplansmotor av tillverkaren Rolls-Royce. Flygplansmotorn var fastbultad i en stålställning på ett lastbilsflak. Pär Svensson, hans barnbarn och systerson stod uppskattningsvis 20-35 meter därifrån. En man startade motorn och varvade upp den. – Han varvade och varvade, och fick väl upp den i toppvarv. Det lät ganska högt. Sedan sa det bara pang, berättar Pär Svensson. Motorn exploderade och det flög motordelar långt bort. Pär Svensson såg fyra personer ligga på marken. Han gick fram till en äldre man som låg närmast honom. – Han hade fått en mindre bit i bröstet. Jag hjälpte honom upp och frågade om han hade ont. Han hade inte ont sa han. – Min systerson fick en metallbit från motorblocket på armen och handen. Han sa: ”Fan, det känns”. Han tog med den hem och vägde den, den vägde sex hekto.",
+          "url": "https://www.expressen.se/nyheter/sverige/par-63-blev-vittne-till-olyckan--tur-att-inte-fler-skadade-sig/",
+          "image_url": "https://static.bonniernews.se/images/d7/65/d765b59ce16e400c9f12de7c025e2774/16x9/original.png",
+          "published_at": "2026-05-02T15:04:51Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/par-63-blev-vittne-till-olyckan--tur-att-inte-fler-skadade-sig/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "b917aa961c97",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4271,7 +4295,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Experten efter Trumps beslut: ”En kris-signal”",
+          "title": "Expert om Trumps beslut: Kris-signal",
           "summary": "Trump drar tillbaka 5 000 soldater från Tyskland efter de tyska orden. – Det är snarare en kris-signal än en dramatisk förändring, säger Katarina Engberg, säkerhetspolitisk analytiker.",
           "body_text": "Trump drar tillbaka 5 000 soldater från Tyskland efter de tyska orden. – Det är snarare en kris-signal än en dramatisk förändring, säger Katarina Engberg, säkerhetspolitisk analytiker. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA minskar truppstyrkan i Tyskland med 5 000 soldater. Beslutet kopplas till konflikt mellan Trump och Tysklands ledare. Flytten ses som en markering mot Europa där det i första hand är symbolvärdet i det hela som är bekymmersamt för européerna, enligt Katarina Engberg säkerhetsexpert och senior rådgivare vid Svenska institutet för europapolitiska studier (SIEPS). USA planerar att dra tillbaka ungefär 5 000 soldater från Tyskland inom sex till tolv månader. Runt 36 000 amerikanska soldater är i dag är stationerade i landet. Beslutet kommer efter en eskalerande konflikt mellan USA:s president Donald Trump och Tysklands förbundskansler Friedrich Merz. Merz har kritiserat USA:s agerande i kriget mot Iran, vilket i Washington uppfattats som illojalt. ”Han vet inte vad han pratar om!” skrev Donald Trump på Truth social om förbundskanslern. Att USA skulle reducera sin militära närvaro i Europa på sikt var väntat. Redan förra mandatperioden sa Trump att minst 20 000 amerikanska soldater skulle föras tillbaka från Europa.",
           "url": "https://www.expressen.se/nyheter/varlden/experten-bekymmersamt-for-europeerna/",
@@ -4285,7 +4309,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "46adda9957dd",
@@ -4309,7 +4333,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "605af1922aee",
@@ -4333,7 +4357,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "e0ea6d84e2f1",
@@ -4357,7 +4381,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "996ec146097e",
@@ -4381,7 +4405,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "77c6a11e723c",
@@ -4391,37 +4415,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Motorexplosion – flera skadade",
+          "title": "Flera skadade när motor exploderade",
           "summary": "Minst tre personer har skadats efter att en motor exploderat på en bilträff i Svartå utanför Degerfors. Enligt arrangören är det en flygplansmotor som har smällt.",
           "body_text": "Minst tre personer har skadats efter att en motor exploderat på en bilträff i Svartå. Enligt arrangören är det en flygplansmotor som har smällt. – Man hann inte uppfatta vad som hände, det flög grejer och sprutade olja åt alla håll. Man är glad att man inte blev träffad, säger ett vittne till SVT Nyheter Värmland. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Larmet kom in vid 11 på lördagen, från veteransfordonsträffen i Svartå utanför Degerfors . Polisen uppskattar att mellan 200 och 300 personer befann sig på evenemanget när det plötsligt exploderade. – Det är en Rolls-Royce-flygplansmotor som exploderat under en demonstrationskörning, uppger en talesperson för evenemangets arrangör till SVT Nyheter Värmland. Tre personer uppges ha skadats, enligt polisen. De har förts till sjukhus, men ska vara vakna och talbara. – Ambulanshelikopter har också varit där men såvitt jag vet tog de inte med sig någon patient, säger SOS Alarm till KT-Kuriren. Polisen spärrade av platsen under tiden man arbetade men vid lunchtid avslutade man insatsen. Man har inlett en förundersökning gällande framkallande av fara för annan och vållande till kroppsskada för att bättre kunna utreda vad som har hänt. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/motor-exploderade-pa-veteranfordonstraff-utanfor-degerfors-flera-skadade/",
           "image_url": "https://static.bonniernews.se/images/88/e6/88e61cf4174c4112a1493a980315f72f/16x9/original.jpg",
           "published_at": "2026-05-02T11:07:25Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/motor-exploderade-pa-veteranfordonstraff-utanfor-degerfors-flera-skadade/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "59a63c2628ca",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Törnblom berättar i TV4: ”Tråkigt”",
-          "summary": "Poddprofilen Edvin Törnblom ska hålla partiledarintervjuer för DN, men flera partiledare har tackat nej efter. Nu svarar Törnblom på partiledarnas bojkott i TV4",
-          "body_text": "Poddprofilen Edvin Törnblom ska hålla partiledarintervjuer för DN, men flera partiledare har tackat nej. Nu svarar Törnblom på partiledarnas bojkott. – Väldigt tråkigt, säger han i TV4:s ”Nyhetsmorgon”. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ebba Busch (KD), Jimmie Åkesson (SD) och Ulf Kristersson (M) har tackat nej till Dagens Nyheters utfrågning med Edvin Törnblom . Busch har tackat nej med hänvisning till att hon prioriterar annat. Kristersson ställer inte upp ”eftersom DN inte avser vara transparenta med Törnbloms politiska ställningstaganden i intervjuerna”. Och Åkesson saknar förtroende för DN:s elller Törnbloms ”förmåga att genomföra en opartisk och rättvis intervju”. Att Edvin Törnblom tillåts intervjua partiledarna för DN har kritiserats efter att poddaren och tv-profilen tidigare sagt att Magdalena Andersson (S) är hans ”favoritstatsminister”. I TV4 Nyhetsmorgon får Törnblom frågan om han tycker att det var rimligt av partiledarna att tacka nej. – Alltså, jag tycker egentligen bara att det är väldigt tråkigt att de har tackat nej. Jag hade sett väldigt mycket fram emot att intervjua alla partiledarna, säger han. På den direkta frågan om han är socialdemokrat svarar Edvin Törnblom att han röstat rött i tidigare val. – Jag har varit öppen med mina åsikter sedan jag blev känd. Så jag får se vad jag röstar på nu i september, men det viktigaste är ju att man går och röstar, säger han i ”Nyhetsmorgon”.",
-          "url": "https://www.expressen.se/nyheter/politik/edvin-tornblom-om-programledarnas-bojkott/",
-          "image_url": "https://static.bonniernews.se/images/28/8d/288db1a6c527474c894acc65c2bc3507/16x9/original.png",
-          "published_at": "2026-05-02T08:53:13Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/edvin-tornblom-om-programledarnas-bojkott/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4456,6 +4456,30 @@
           "sort_order": 7
         },
         {
+          "id": "59a63c2628ca",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Politik Idag 11.27 Edvin Törnblom om bojkotten av DN:s partiledarintervjuer",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/politik/edvin-tornblom-om-programledarnas-bojkott/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/politik/edvin-tornblom-om-programledarnas-bojkott/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
           "id": "bdc6ab10745b",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4470,30 +4494,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/lakaren-har-glommer-de-flesta-att-smorja-in-sig-med-solkram/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "239bfd1bdcd1",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sverige Idag 10.45 Margot Wallströms pik mot Trump: ”Någon måste säga sanningen”",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/margot-wallstroms-pik-mot-trump-nagon-maste-saga-sanningen/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/margot-wallstroms-pik-mot-trump-nagon-maste-saga-sanningen/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
