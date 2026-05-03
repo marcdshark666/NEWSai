@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T07:16:08Z",
+  "generated_at": "2026-05-03T08:59:07Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "1165bb3ed0d2",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Israel köper stridsflyg från USA",
+          "summary": "Nyheter från TV4: Israel köper stridsflyg från USA",
+          "body_text": "Ett F-35-plan visas upp i samband med flygmässan i engelska Farnborough för två år sedan. Israel har beslutat att köpa ytterligare stridsflygplan från USA. Enligt tidningen Times of Israel handlar det om två skvadroner av F-35I- och F-15IA-stridsplan från Lockheed respektive Boeing. I en skvadron ingår vanligtvis mellan 8 och 12 flygplan. Någon exakt ordersumma har inte angivits mer än att det ska handla om flera miljarder shekel, enligt Times of Israel.",
+          "url": "https://www.tv4.se/artikel/tt-260503-israelstridsflyg1-1b877680/israel-koper-stridsflyg-fran-usa",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlBbKcUYgWqws/c9c50d4bad5a046991b88923a08e3f29/Ett_F-35-plan_visas_upp_i_samband_med_flygmassan_i_engelska_Farnborough_for_tva_ar_sedan._",
+          "published_at": "2026-05-03T08:03:41Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260503-israelstridsflyg1-1b877680/israel-koper-stridsflyg-fran-usa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "e6aa7579e92d",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "cc6e01603a0c",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "008bc0bdabf5",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "9f21d652418c",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlLV77746h7EA/e5fdcc7ba802d16fd0a305487c388be1/Enligt_Johannes_Paulson__nationell_samordnare_mot_brott_p__Kronofogden__har_lagf_r_ndringen_fr_n_2022__vertr_ffat_myndighetens_.",
           "published_at": "2026-05-03T01:53:21Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260503-konkurser1-ea885f93/konkurserna-minskar-de-har-drabbats-hardast",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "a776693fc75d",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Saab är hoppfullt efter jättelån till Ukraina",
-          "summary": "Nyheter från TV4: Saab är hoppfullt efter jättelån till Ukraina",
-          "body_text": "Saab är hoppfullt efter jättelån till Ukraina Det här tar ju normalt några månader innan man får ihop. Under det här året hoppas jag naturligtvis att det här ska vara klart, säger Saabs vd Micael Johansson till SVT om affären. Ukraina ingick i oktober i fjol en avsiktsförklaring med Sverige om att köpa 100–150 Gripenplan. I förra månaden, efter Ungerns nedlagda veto, gav EU grönt ljus till ett lån om 90 miljarder euro till landet. Ukrainarna behöver använda de 90 miljarder som EU lånar ut. 60 miljarder av det ska gå till militära upphandlingar och en del av det förutsätts gå till stridsflygplan, säger Micael Johansson.",
-          "url": "https://www.tv4.se/artikel/tt-260502-saabaffar1-86256719/saab-ar-hoppfullt-efter-jattelan-till-ukraina",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlgD_GE6sH29A/91eac70fc7c4a00d9b55e8014147222c/Saabs_vd_Micael_Johansson._Arkivbild._",
-          "published_at": "2026-05-02T18:55:35Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260502-saabaffar1-86256719/saab-ar-hoppfullt-efter-jattelan-till-ukraina",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Länsstyrelsen säger nej • Pågår räddningsinsats Het debatt i landet • Oro för Ryssland och USA Kärnvapenavtal löper ut – varnar: ”Kan öka aptiten hos andra”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Över 300 drönare nedskjutna i Ryssland • ”Flyglarmet går konstant” Tekniskt övertag för Ukraina – slår hårt mot ryska oljan Länsstyrelsen säger nej • Pågår räddningsinsats",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -2050,6 +2050,31 @@
           "sort_order": 13
         },
         {
+          "id": "b25096a5a364",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "The Journal Editorial Report - Saturday, May 2 | Fox News Video",
+          "summary": "FNC, Superme Court Voting Rights, Federal Reserve Interest Rates, Jerome Powell, King Charles visit, James Comey Indictment, Zohran Mamdani",
+          "body_text": "FNC, Superme Court Voting Rights, Federal Reserve Interest Rates, Jerome Powell, King Charles visit, James Comey Indictment, Zohran Mamdani Paul Gigot discusses news, politics, society and finance.",
+          "url": "https://www.foxnews.com/video/6394471709112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/5fef6c99-b56b-499c-9db7-ed1d09856639/a60e438c-2f53-49a1-9158-d2c95493b2a5/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-05-03T06:08:04Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394471709112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "5f51ba237f71",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2064,31 +2089,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/13da0ec9-4dc8-46de-976d-6527dd5eb30d/a375c1b6-9264-4f9d-8f6d-d6de5b8afd3f/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-05-02T11:50:16Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394413505112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "4a2ac87e9a0e",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Hannity - Friday. May 1 | Fox News Video",
-          "summary": "Zohran Mamdani, Stephen Miller, Mayday protests",
-          "body_text": "Zohran Mamdani, Stephen Miller, Mayday protests Sean Hannity interviews political figures and newsmakers and offers his own perspective.",
-          "url": "https://www.foxnews.com/video/6394409102112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/be5219ce-f9ee-4bce-bb91-ecea3bd78d40/f0d5f928-1c5e-48b9-b850-ef184a199951/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-02T09:24:31Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394409102112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2117,6 +2117,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "2ffaa1e92a2a",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Huge crowd attends free Shakira beach concert in Rio de Janeiro, Brazil",
+          "summary": "Shakira's appearance followed shows by Lady Gaga and Madonna, who have also performed on Copacabana beach in previous years.",
+          "body_text": "Shakira performed her greatest hits to a vast crowd at a free concert on Copacabana beach in Rio de Janeiro on Saturday night. About two million people came to watch the Colombian pop-star perform, according to a social media post by Rio de Janeiro Mayor Eduardo Cavaliere. However, BBC Verify analysis of a previous 2025 Lady Gaga concert on Copacabana beach found these crowd numbers are likely inflated . The 'Todo Mundo no Rio' mega-concert was funded by the city in an effort to revitalise the the local economy, with officials estimating the event would generate approximately R$800 million (£118m) for Brazil. Journalists are now able to upload their work to a website so that if anything were to happen to them, their work could still be published. The BBC takes a closer look at major renovations at Benito Juárez International Airport aimed at boosting capacity ahead of the 2026 World Cup. Footage released by the attorney general's office shows large groups of men in prison attending the trial via video link. The BBC's Will Grant spoke to several Cubans as the country grapples with severe electricity shortages, which is attributed in part to US sanctions. BBC international correspondent Quentin Sommerville travelled to Culiacán in northern Sinaloa state following an explosion in violence. BBC's Will Grant visits Puerto Vallarta, a popular coastal resort town, to see the damage. The BBC's Will Grant describes how locals are feeling in Guadalajara, the capital of Jalisco, Mexico, after a wave of violence hit the streets. Nemesio Oseguera Cervantes, known as \"El Mencho\", was killed during a security operation to arrest him, Mexico's defence ministry has said.",
+          "url": "https://www.bbc.com/news/videos/c8r8j50zxnno",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e745/live/d97351a0-46be-11f1-8e27-e5ac1aa07cb6.jpg",
+          "published_at": "2026-05-03T07:56:47Z",
+          "embed_url": "https://www.bbc.com/news/videos/c8r8j50zxnno",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2fd5eb00d145",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2126,7 +2150,7 @@
           "source_kind": "mixed",
           "title": "Kenya violence: As political tension cranks up fears grow of a return to unrest",
           "summary": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
-          "body_text": "On a quiet Wednesday last month, a Kenyan politician stopped for coffee after a haircut in the western city of Kisumu. Moments later, a group of hooded youths set upon Senator Godfrey Osotsi without warning - punching and kicking him, leaving him badly injured, stripping him of his phones and valuables before vanishing into the street. The assault was captured on CCTV. Within hours, the footage was everywhere. The police are still investigating but the senator said this was not a robbery. Rather, he alleged, it was politically motivated as he was asked by the attackers why he was not supporting the president's re-election bid. The nationwide outcry that followed the assault forced Kenya's parliament to summon the country's top security chiefs. For many Kenyans, the attack felt less like a shocking outlier and more like a confirmation of something they had long feared - that the country was sliding, once again, toward an era of deadly political violence. Kenya's history of politically sponsored criminal gangs dates back to the early 1990s and the reintroduction of multiparty democracy. Unemployed youths have been hired by various politicians and turned into tools of electoral intimidation. They were a major driver of the unrest surrounding the violence that followed the 2007 election, which left about 1,500 people dead. And the stage is now being set for a particularly tense electoral cycle even though the next nationwide vote is up to 15 months away. Bearing a huge grudge over his 2024 impeachment and removal from government, former Deputy President Rigathi Gachagua is planning to run for the presidency. In addition, there is an open split within one of the main parties. This is all helping to raise the political temperature with attacks on politicians by hired youths – known locally as goons – becoming more brazen. Interior Minister Kipchumba Murkomen acknowledged to a parliamentary committee that the government was struggling to contain the groups that he said had evolved from street-level outfits into \"sophisticated and decentralised networks\".",
+          "body_text": "On a quiet Wednesday last month, a Kenyan politician stopped for coffee after getting his hair cut in the western city of Kisumu. Moments later, a group of hooded youths set upon Senator Godfrey Osotsi without warning - punching and kicking him, leaving him badly injured, stripping him of his phones and valuables before vanishing into the street. The assault was captured on CCTV. Within hours, the footage was everywhere. The police are still investigating but the senator said this was not a robbery. Rather, he alleged, it was politically motivated as he was asked by the attackers why he was not supporting the president's re-election bid. The nationwide outcry that followed the assault forced Kenya's parliament to summon the country's top security chiefs. For many Kenyans, the attack felt less like a shocking outlier and more like a confirmation of something they had long feared - that the country was sliding, once again, toward an era of deadly political violence. Kenya's history of politically sponsored criminal gangs dates back to the early 1990s and the reintroduction of multiparty democracy. Unemployed youths have been hired by various politicians and turned into tools of electoral intimidation. They were a major driver of the unrest surrounding the shocking nationwide violence that followed the 2007 election, which left about 1,500 people dead. And the stage is now being set for a particularly tense electoral cycle even though the next nationwide vote is up to 15 months away. Bearing a huge grudge over his 2024 impeachment and removal from government, former Deputy President Rigathi Gachagua is planning to run for the presidency. In addition, there is an open split within one of the main parties. This is all helping to raise the political temperature with attacks on politicians by hired youths – known locally as goons – becoming more brazen. Interior Minister Kipchumba Murkomen acknowledged to a parliamentary committee that the government was struggling to contain the groups that he said had evolved from street-level outfits into \"sophisticated and decentralised networks\".",
           "url": "https://www.bbc.com/news/articles/c9qdz0p0x5qo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5b/live/00cc1880-43a0-11f1-a886-afa88c1499c0.jpg",
           "published_at": "2026-05-03T06:57:44Z",
@@ -2138,7 +2162,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "ae625b1057ce",
@@ -2150,7 +2174,7 @@
           "source_kind": "mixed",
           "title": "Man charged over Australian Outback death of 5-year-old girl",
           "summary": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
-          "body_text": "Warning for Aboriginal and Torres Strait Islander readers: This article contains references to someone who has died. A man has been charged with murder and two counts of sexual assault following the death of a five-year-old girl in Australia. The body of the girl, who is identified only as Kumanjayi Little Baby, a pseudonym given to her by her family after her death for cultural reasons, was discovered on Thursday following severals days of a major police search. Jefferson Lewis, 47, was charged with her murder on Saturday night and has been scheduled to appear in a Darwin court on Tuesday. Five people have been arrested over violent riots in Alice Springs sparked by the child's death. Northern Territory Police Commissioner Martin Dole announced the charges against Lewis on Sunday morning. \"This remains a deeply distressing matter and our thoughts are firmly with Kumanjayi's family, loved ones and the wider community that have been deeply impacted by these events,\" he said. Dole asked for the community to respect the judicial process. Lewis was reportedly attacked in the central Australian town before he was arrested on Thursday. In a statement on Thursday, Kumanjayi Little Baby's mother - who was not named - said her daughter was loved and missed. \"It is going to be so hard to live the rest of our lives without you,\" she said. \"We know you are in heaven with the rest of the family and Jesus. Me and your brother will meet you one day.\"",
+          "body_text": "Warning for Aboriginal and Torres Strait Islander readers: This article contains references to someone who has died. A man has been charged with murder and two counts of sexual assault following the death of a five-year-old girl in Australia. The body of the girl, who is identified only as Kumanjayi Little Baby, a pseudonym given to her by her family for cultural reasons after her death, was discovered on Thursday following severals days of a major police search. Jefferson Lewis, 47, was charged with her murder on Saturday night and has been scheduled to appear in a Darwin court on Tuesday. Five people have been arrested over violent riots in Alice Springs sparked by the child's death. Northern Territory Police Commissioner Martin Dole announced the charges against Lewis on Sunday morning. \"This remains a deeply distressing matter and our thoughts are firmly with Kumanjayi's family, loved ones and the wider community that have been deeply impacted by these events,\" he said. Dole asked for the community to respect the judicial process. Lewis was reportedly attacked in the central Australian town before he was arrested on Thursday. In a statement on Thursday, Kumanjayi Little Baby's mother - who was not named - said her daughter was loved and missed. \"It is going to be so hard to live the rest of our lives without you,\" she said. \"We know you are in heaven with the rest of the family and Jesus. Me and your brother will meet you one day.\"",
           "url": "https://www.bbc.com/news/articles/cy92qennznjo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2466/live/843ef730-4690-11f1-b55d-0f258dce1735.jpg",
           "published_at": "2026-05-03T01:48:01Z",
@@ -2162,7 +2186,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "ccc6e2601e29",
@@ -2186,7 +2210,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "8e25b270b3e9",
@@ -2210,7 +2234,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "09543cac2011",
@@ -2234,7 +2258,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "94d983f88869",
@@ -2258,7 +2282,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "20e286a506e6",
@@ -2282,7 +2306,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "7ab62e7703cc",
@@ -2294,37 +2318,13 @@
           "source_kind": "mixed",
           "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
           "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
-          "body_text": "Germany's defence minister has said the US decision to withdraw 5,000 troops from his country was \"foreseeable\", as the Nato military alliance says it is seeking clarification from Washington. Speaking to the DPA news agency, Boris Pistorius also stressed \"the presence of American soldiers in Europe, and particularly in Germany, is in our interest and in the interest of the US\". Meanwhile Nato spokeswoman Allison Hart said the alliance was \"working with the US to understand the details of their decision\". When asked on Saturday night about the withdrawal of troops, Trump said: \"We're going to cut way down, and we're cutting a lot further than 5,000.\" He did not provide more details. Washington's move comes after President Donald Trump criticised German Chancellor Friedrich Merz for saying the US had been \"humiliated\" by Iranian negotiators in the ongoing war. The US military deployment in Germany - currently at more than 36,000 active duty troops - is by far its biggest in Europe, compared with about 12,000 in Italy and 10,000 in the UK. Trump has also suggested pulling US troops from Italy and Spain. Last year, Washington decided to reduce its troop presence in Romania, as part of Trump's plan to shift the focus of US military commitment from Europe to the Indo-Pacific region. There are now growing concerns within the 32-member Nato alliance that the US latest decision could weaken the organisation. \"The greatest threat to the transatlantic community are not its external enemies, but the ongoing disintegration of our alliance,\" Polish Prime Minister Donald Tusk warned on Saturday. \"We must all do what it takes to reverse this disastrous trend,\" he added. And two senior US lawmakers from Trump's Republican party said that they were \"very concerned by the decision to withdraw a US brigade from Germany\".",
+          "body_text": "Germany's defence minister has said the US decision to withdraw 5,000 troops from his country was \"foreseeable\", as the Nato military alliance says it is seeking clarification from Washington. Speaking to the DPA news agency, Boris Pistorius also stressed \"the presence of American soldiers in Europe, and particularly in Germany, is in our interest and in the interest of the US\". Meanwhile Nato spokeswoman Allison Hart said the alliance was \"working with the US to understand the details of their decision\". When asked on Saturday night about the withdrawal of troops, Trump said: \"We're going to cut way down, and we're cutting a lot further than 5,000.\" He did not provide more details. Washington's move comes after President Donald Trump criticised German Chancellor Friedrich Merz for saying the US had been \"humiliated\" by Iranian negotiators in the ongoing war. Pentagon spokesperson Sean Parnell on Friday said the move followed a thorough review and recognised \"theater requirements and conditions on the ground\". The US military deployment in Germany - currently at more than 36,000 active duty troops - is by far its biggest in Europe, compared with about 12,000 in Italy and 10,000 in the UK. Trump has also suggested pulling US troops from Italy and Spain. Last year, Washington decided to reduce its troop presence in Romania, as part of Trump's plan to shift the focus of US military commitment from Europe to the Indo-Pacific region. There are now growing concerns within the 32-member Nato alliance that the US latest decision could weaken the organisation. \"The greatest threat to the transatlantic community are not its external enemies, but the ongoing disintegration of our alliance,\" Polish Prime Minister Donald Tusk warned on Saturday. \"We must all do what it takes to reverse this disastrous trend,\" he added.",
           "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2be1/live/a8b851f0-463c-11f1-aa14-ad910202f501.jpg",
           "published_at": "2026-05-02T16:35:18Z",
           "embed_url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
           "play_mode": "iframe",
           "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "d62874f81531",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Strait of Hormuz: US threatens shipping firms with sanctions if they pay Iran tolls",
-          "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
-          "body_text": "The US has warned shipping companies they could face sanctions if they pay Iran for safe passage through the Strait of Hormuz. An alert on Friday by the US Office of Foreign Assets Control (OFAC) warned US persons and companies were generally banned from paying Iranian government entities, and non-US persons may risk exposure to sanctions if they pay. \"Maritime industry participants involved with vessels calling at Iranian ports face significant sanctions risk under multiple sanctions authorities targeting Iran's shipping sector and ports\", OFAC said. Iran has severely limited traffic through the strait since the war began in February. The US has also enforced a naval blockade on Iranian ports. Iran has called the US interception of ships entering and leaving Iranian ports under the blockade \"piracy\". Tehran says it has collected tolls from ships in order to navigate freely through the strait, with Hamidreza Haji Bababei, deputy speaker of Iran's Parliament, last week claiming the first toll revenue had been deposited with the country's Central Bank. No further detail was provided on the amount of the toll, the method of collection nor who paid it. The BBC could not independently verify this claim. OFAC's alert said payments could involve cash as well as \"digital assets, offsets, informal swaps, or other in-kind payments,\" including charitable donations and payments at Iranian embassies. The agency warned that non-US persons who pay could also face civil and criminal enforcement liability if payments cause US persons, such as insurers and financial institutions, to violate sanctions. OFAC said it \"will continue to aggressively target Iran's main revenue-generating sectors, in particular its petroleum and petrochemical sectors\". The US Treasury also announced sanctions on three Iranian foreign currency exchange houses on Friday, saying they have converted oil revenue into more usable currencies. Treasury Secretary Scott Bessent said his agency would \"relentlessly target the regime's ability to generate, move and repatriate funds, and pursue anyone enabling Tehran's attempts to evade sanctions\".",
-          "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/64ac/live/43592a40-4624-11f1-b55d-0f258dce1735.jpg",
-          "published_at": "2026-05-02T13:59:32Z",
-          "embed_url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
           "tags": [
             "World",
             "BBC"
@@ -4360,6 +4360,102 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "e31956fc8e7a",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Bil kört ner i å i Varberg – man skadad",
+          "summary": "En bil har kört av en väg och hamnat i en intilliggande å. En man är allvarligt skadad.",
+          "body_text": "En bil har kört av en väg och hamnat i en intilliggande å. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Strax efter 09.00 kom larmet om att en bil kört av Riksväg 41 och landat i en intilliggande å utanför Derome i Varberg, skriver polisen på sin hemsida. En kvinna och två hundar lyckades på egen hand ta sig ut ur bilen. En man, som också satt i bilen, togs ut av polisen och räddningstjänst. Han är allvarligt skadad och har förts till sjukhus med ambulans. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/sverige/bil-har-kort-ner-i-a-man-allvarligt-skadad/",
+          "image_url": "https://static.bonniernews.se/images/b3/e6/b3e6a2ad55cd4ec0824af1cc3de20e0b/16x9/original.jpg",
+          "published_at": "2026-05-03T08:51:13Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/bil-har-kort-ner-i-a-man-allvarligt-skadad/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "a09d086bfa26",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Trump sparkade ministern – efter Hegseths ord • Ville stoppa kritik",
+          "summary": "USA:s marinminister John Phelan lämnade plötsligt regeringen. Nu avslöjar Washington Post att han var kritisk mot krigsminister att Pete Hegseth fattat beslut om ubåtar och fartygsbyggen. Enligt tidningen övertalade Hegseth president Trump att att avskeda Phelan.",
+          "body_text": "USA:s marinminister John Phelan lämnade plötsligt regeringen. Nu avslöjar Washington Post att han var kritisk mot krigsminister att Pete Hegseth fattat beslut om ubåtar och fartygsbyggen. Enligt tidningen övertalade Hegseth president Trump att att avskeda Phelan. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA :s marinminister John Phelan lämnade plötsligt sin post den 22 april. Amerikanska medier har rapporterat om en konflikt mellan honom och Pentagons chef, krigsministern Pete Hegseth. Nu avslöjar Washington Post nya detaljer om vad som hände. I mitten av april vände sig John Phelan, en stor kampanjbidragsgivare och vän till Donald Trump, till kongressledamöter med kritik mot Pete Hegseth och hans nära medarbetare Steve Feinberg. Phelan var bekymrad över vad han uppfattade som ett ”maktövertagande”, berättar flera källor med insyn för tidningen. Enligt Phelan hade Hegseth och Feinberg infört en strikt kontroll över beslut om ubåtar och fartygsbyggen – och därmed i praktiken tagit över den amerikanske flottans befogenheter. Hegseth och Feinberg hörde talas om Phelans protest och presenterade flera argument för att avsätta honom för president Trump – som gick med på det. Därmed tvingades, skriver Washington Post, ytterligare en av Pete Hegseths rivaler bort. – Det tog bokstavligen tre minuter innan hans skitsnack nådde ledningen. De tänkte: ”Okej, nu är vi klara med den här killen”, säger en källa till tidningen. Washington Post skriver, efter samtal med 16 olika källor, att Pete Hegseth under våren har stärkt greppet om Pentagon och att han nu är mer självsäker än någonsin. En tjänsteman säger att ”all makt tagits från de uniformerade”, alltså militärerna, och ”till 100 procent flyttats till de politiskt tillsatta”.",
+          "url": "https://www.expressen.se/nyheter/varlden/trump-sparkade-ministern-efter-hegseths-ord/",
+          "image_url": "https://static.bonniernews.se/images/3e/e2/3ee249238be34dab877c6f2c5df71c08/16x9/original.png",
+          "published_at": "2026-05-03T08:45:50Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/trump-sparkade-ministern-efter-hegseths-ord/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "49b0f55b5abd",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Sveriges första militärsatellit uppe",
+          "summary": "Sveriges första egna militära satellit svävar nu i rymden. Det är den första av ett tiotal som bland annat ska kartlägga militära mål i Ryssland.",
+          "body_text": "Sveriges första egna militära satellit svävar nu i rymden. Det är den första av ett tiotal som bland annat ska kartlägga militära mål i Ryssland. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Uppskjutningen skedde under söndagen från flygbasen Vandenberg i Kalifornien och utfördes av rymdbolaget Space X. För Försvarsmaktens rymdchef Anders Sundeman är det en stor dag. – Vi får möjlighet att själva kontrollera och prioritera en underrättelsesensor som alltid är uppe och har förmåga att spana på långa avstånd. Det här är ett stort förmågelyft, säger han. I dag får Försvarsmakten satellitbilder från allierade eller från kommersiella satelliter. Inom två år ska Sverige ha ett tiotal egna militära satelliter i bana runt jorden. – Det är en enormt forcerad tidsplan, drivet av ett allvarligt behov, säger Sundeman. Dels har Sverige blivit medlem i Nato, vilket ökat Försvarsmaktens potentiella operationsområde till Natos yttre gränser. Dels får Sverige nya vapen med allt längre räckvidd. – Då behöver vi också ha målinformation och underrättelseinformation på längre avstånd helt enkelt, säger Sundeman. Det handlar både om att kartlägga potentiella militära mål inne i Ryssland, men också att upptäcka hot tidigt, som till exempel ryska trupprörelser.",
+          "url": "https://www.expressen.se/nyheter/varlden/svensk-satellit-uppskjuten-spanar-pa-ryssland/",
+          "image_url": "https://static.bonniernews.se/images/fe/3d/fe3d44b82b874a25ae791ba382bd5d2c/16x9/original.png",
+          "published_at": "2026-05-03T08:05:46Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/svensk-satellit-uppskjuten-spanar-pa-ryssland/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
+          "id": "1ecf34a019c2",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "SD-toppen kandiderar igen – efter rasistlåten",
+          "summary": "Den förre SD-toppen David Lång – som avgick från riksdagen efter att Expressen avslöjat att han sjöng en rasistisk låt på partiets EU-valvaka – kandiderar i höstens val. Han är inte den ende skandaliserade SD-politikern som ställer upp i valet.",
+          "body_text": "Den förre SD-toppen David Lång – som avgick från riksdagen efter att Expressen avslöjat att han sjöng en rasistisk låt på partiets EU-valvaka – kandiderar i höstens val. Han är inte den ende skandaliserade SD-politikern som ställer upp i valet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var när Expressen intervjuade partitoppen Richard Jomshof på SD:s EU-valvaka förrförra året som eurodiscolåten ”L´Amour toujours” från 1999 spelades. • SD-politikern David Lång avgick från riksdagen efter att han sjungit en rasistlåt på partiets EU-valvaka 2024. Nu kandiderar han på nytt för partiet. • Lång ställer upp i kommunvalet i Vallentuna och i regionvalet i Stockholms län. • Flera andra skandaliserade SD-politiker ställer också upp i höstens val. Låten hade då fått spridning i högerextrema och nazistiska kretsar efter att några av låtens textrader bytts ut mot ”Ausländer raus” och ”Deutschland den Deutschen”, alltså tyska för ”utlänningar ut” och ”Tyskland för tyskarna”. Under intervjun med Jomshof kom SD-riksdagsledamoten David Lång fram och sjöng med i låten : Efter det försökte David Lång handgripligen ta inspelningsutrustningen från Expressens reporter. Kort tid därefter lämnade han valvakan. Dagen efter valvakan meddelade partiets gruppledare Linda Lindberg att Lång, på hennes uppmaning, skulle lämna sin riksdagsplats, som han haft sedan 2010. Lindberg beskrev Långs agerande som ”omdömeslöst”. Men trots sortin från riksdagen så har David Lång fortsatt sin politiska karriär. Förra året ställde han upp i kyrkovalet och Expressen kan nu berätta att han också kandiderar i höstens val.",
+          "url": "https://www.expressen.se/nyheter/sverige/sd-toppen-avgick-efter-rasistlat-kandiderar-nu-i-valet/",
+          "image_url": "https://static.bonniernews.se/images/51/d8/51d84e4f35b441469897d0459fbace5e/16x9/original.jpg",
+          "published_at": "2026-05-03T07:40:04Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/sd-toppen-avgick-efter-rasistlat-kandiderar-nu-i-valet/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 3
+        },
+        {
           "id": "083ddba34fed",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4367,9 +4463,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Man död",
+          "title": "Ung man död efter skjutning på valborg",
           "summary": "På valborgsmässoafton sköts en man i 20-årsåldern i Norrköping. Nu meddelar polisen att mannen dött av sina skador. Två personer sitter anhållna. De är också misstänkta för ett mord i Oslo, enligt norsk polis.",
-          "body_text": "På valborgsmässoafton sköts en man i 20-årsåldern i Norrköping. Nu meddelar polisen att mannen dött av sina skador. Två personer sitter anhållna. De är också misstänkta för ett mord i Oslo, enligt norsk polis. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Skjutningen inträffade på valborgskvällen i området Marielund i Norrköping . Mannen som sköts är i 20-årsåldern och skadades svårt. På söndagen meddelar polisen att mannen avlidit av sina skador på sjukhus. Anhöriga är underrättade. Två personer greps av polisen en kort tid efter skjutningen, och anhölls senare under fredagsmorgonen. De misstänktes då för mordförsök och grovt vapenbrott. Efter att den skjutne mannen avlidit har polisen ändrat rubriceringen till mord. De två misstänkta tros också ligga bakom ett mord i Oslo som inträffade förra söndagen, vilket norsk polis uppgav på en pressträff på lördagen. Det rör sig om två svenska tonåringar mellan 15 och 18 år. I Oslo-fallet är de misstänkta för mord eller medhjälp till mord, och mordet tros ha utförts på beställning. Personerna sitter frihetsberövade i Sverige. Svensk polis eftersöker fortfarande vittnesuppgifter från personer som kan veta något om mordet i Norrköping. ”Det här har utspelat sig mitt i ett bostadsområde där det är troligt att många kan ha vetskap om detaljer som kan hjälpa oss i den här utredningen”, skriver man på sin hemsida. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "På valborgsmässoafton sköts en man i 20-årsåldern i Norrköping. Nu meddelar polisen att mannen dött av sina skador. Två personer sitter anhållna. De är också misstänkta för ett mord i Oslo, enligt norsk polis. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Skjutningen inträffade på valborgskvällen i området Marielund i Norrköping . Mannen som sköts är i 20-årsåldern och skadades svårt. På söndagen meddelar polisen att mannen avlidit av sina skador på sjukhus. Anhöriga är underrättade. Två personer greps av polisen en kort tid efter skjutningen, och anhölls senare under fredagsmorgonen. De misstänktes då för mordförsök och grovt vapenbrott. Efter att den skjutne mannen avlidit har polisen ändrat rubriceringen till mord. De två misstänkta tros också ligga bakom ett mord i Oslo som inträffade förra söndagen, vilket norsk polis uppgav på en pressträff på lördagen. Det rör sig om två svenska tonåringar mellan 15 och 18 år. I Oslo-fallet är de misstänkta för mord eller medhjälp till mord, och mordet tros ha utförts på beställning. Personerna sitter frihetsberövade i Sverige. – Jouråklagare har bekräftat att de här två männen är också misstänkta för ett grovt våldsbrott i Oslo, säger Moa Hörnquist vid Åklagarmyndighetens presstjänst till TT. Svensk polis eftersöker fortfarande vittnesuppgifter från personer som kan veta något om mordet i Norrköping. ”Det här har utspelat sig mitt i ett bostadsområde där det är troligt att många kan ha vetskap om detaljer som kan hjälpa oss i den här utredningen”, skriver man på sin hemsida. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/man-dod-efter-skjutning-pa-valborg-i-norrkoping/",
           "image_url": "https://static.bonniernews.se/images/3c/76/3c7668367f8e4b13b1673723c9cfed19/16x9/original.jpg",
           "published_at": "2026-05-03T07:02:49Z",
@@ -4381,7 +4477,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 4
         },
         {
           "id": "635df3509c7f",
@@ -4405,7 +4501,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 5
         },
         {
           "id": "42b81cb9dd66",
@@ -4422,102 +4518,6 @@
           "image_url": "https://static.bonniernews.se/images/fd/e8/fde858696a9749b3948d5d162db94dff/16x9/original.png",
           "published_at": "2026-05-03T04:29:54Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/putins-bakslag-toppolitiker--har-flytt-till-usa/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 2
-        },
-        {
-          "id": "93b44328c021",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Mobbad som ”ful” – nu är Emily skönhetsdrottning",
-          "summary": "Hon mobbades för sitt utseende i skolan och blev kallad ”ful”. Nu är tonåringen Emily Taylor en skönhetsdrottning som just vann en stor tävling.",
-          "body_text": "Hon mobbades för sitt utseende i skolan och blev kallad ”ful”. Nu är tonåringen Emily Taylor en skönhetsdrottning som just vann en stor tävling, skriver People . – Om jag kunde prata med mitt tolvåriga jag just nu skulle hon skrika, säger Emily. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Rödhåriga brittiskan Emily Taylor mobbades i skolan ”för min hårfärg och bleka hy”, enligt SWNS. – Barnen brukade kalla henne ”ful” och använda öknamn som ”spöket Casper”, och till och med säga att de inte ville leka med henne på grund av hennes hårfärg, säger Emilys mamma Sara. Hon ville hjälpa sin dotter att hantera den pågående mobbningen och försökte intressera henne för skönhetstävlingar. – En vän gav mig idén att ta med henne till tävlingar eftersom hon hade svårt att få vänner i skolan, säger Sara. Förra månaden vann 16-åriga Emily Jr Teen-titeln i skönhetstävlingen International Junior Miss United Kingdom – och kammade hem en kvarts miljon kronor. ”Jag är så överlycklig”, skrev Emily på Instagram efter segern. Emily har sagt att att hon ”fortfarande blir kallad för glåpord”: Dotterns självkänsla är mycket bättre nu, enligt hennes mamma.",
-          "url": "https://www.expressen.se/nyheter/varlden/mobbad-som-ful-nu-ar--emily-skonhetsdrottning/",
-          "image_url": "https://static.bonniernews.se/images/15/d7/15d779aa321b445fb51a80fe59ed87a0/16x9/original.jpg",
-          "published_at": "2026-05-03T01:10:49Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/mobbad-som-ful-nu-ar--emily-skonhetsdrottning/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "0374c85f9bef",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Trumps drag pekas ut – liknar diktatur",
-          "summary": "President Trumps namn och ansikte förekommer alltmer på institutioner och statssymboler, vilket av experter liknas vid hur diktatorer framställt sig själva.",
-          "body_text": "President Trumps namn och ansikte förekommer alltmer på institutioner och statssymboler, något som saknar motstycke i amerikansk historia. Trump ”omskapar Amerika till sin avbild”, enligt Financial Times vilket av experter liknas vid hur diktatorer framställt sig själva. – Amerika har i allt högre grad förvandlats till att ha samma framtoning som en diktatur, säger Curt Mills, chefredaktör för tidskriften The American Conservative, till tidningen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. President Trumps namn och ansikte syns allt oftare på amerikanska institutioner, statssymboler och offentliga byggnader – något som saknar motstycke i USA:s historia. Curt Mills, chefredaktör för The American Conservative, menar att USA alltmer får drag av en diktatur. Historikern Ruth Ben-Ghiat ser paralleller till 1900-talets diktatorer. Professorn Jan-Werner Müller varnar för att Trumps dominans av det offentliga rummet kan slå tillbaka mot honom. När Donald Trump 2019 besökte George Washingtons egendom Mount Vernon uttryckte han sin förvåning över att USA:s förste president inte hade uppkallat huset efter sig själv. – Man måste skriva sitt namn på saker, annars kommer ingen ihåg en, sa Trump. Under veckan meddelade utrikesdepartementet att amerikanerna snart kommer att kunna skaffa pass i begränsad upplaga med Trumps avbild. Det är ”bara det senaste exemplet på Trumps allestädesnärvaro”, enligt Financial Times. Det ”finns ingen motsvarighet i amerikansk historia för hur Trump har klistrat sitt namn och sitt ansikte” över amerikanska institutioner och statens visuella symboler, enligt tidningen. Trump ”framställer sig själv som Amerika personifierat”.",
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-satt-likstalls-med-diktaturer/",
-          "image_url": "https://static.bonniernews.se/images/19/cc/19ccf6692ed64544b7e301ee21175986/16x9/original.png",
-          "published_at": "2026-05-02T21:24:07Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-nya-satt-likstalls-med-diktaturer/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "011452138e55",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Varningen inifrån: ”Är fel signal till Putin”",
-          "summary": "Trump har beslutat att dra tillbaka tusentals soldater från Tyskland. Åtgärden ”skickar fel signal till Vladimir Putin”, enligt högt uppsatta republikaner.",
-          "body_text": "Trump beslutade häromdagen att dra tillbaka tusentals soldater från Tyskland. Det väcker oro inom Trumps egna led, skriver AFP. Åtgärden ”skickar fel signal till Vladimir Putin”, enligt högt uppsatta republikaner. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA har i nuläget en stor militär närvaro i Tyskland – över 36 000 soldater, viktiga baser som Ramstein och högkvarter för både Europa- och Afrikakommandot, enligt CBS News. Men på fredagen meddelade Pentagon att USA drar tillbaka cirka 5 000 soldater från Tyskland. Enligt talespersonen Sean Parnell ska tillbakadragandet genomföras inom sex till tolv månader. Beskedet kom dagen efter att president Donald Trump kritiserat Tysklands förbundskansler Friedrich Merz för att ha antytt att USA hade ”förödmjukats” av iranska förhandlare i samband med fredssamtalen, enligt BBC . Men de republikanska ledarna för kongressens försvarsutskott är oroade över beslutet att dra tillbaka trupper från Tyskland. ”Det skickar fel signal till Vladimir Putin ”, säger senator Roger Wicker och representanthusledamoten Mike Rogers, ordförande för försvarsutskotten i respektive kammare i kongressen, i ett gemensamt uttalande. Trump har flera gånger uttryckt sin önskan att Europa tar större ansvar för sin egen säkerhet snarare än att förlita sig på USA. Men även om europeiska Nato-länder ökar sina försvarsutgifter ”kommer det att ta tid att omsätta dessa investeringar i de militära förmågor som krävs för att vara avskräckande”, enligt Wicker och Rogers. Nato:s taleskvinna Allison Hart uppgav på lördagen att försvarsalliansen ”arbetar med USA för att förstå detaljerna i deras beslut”. ”Detta understryker behovet av att Europa fortsätter att investera mer i försvar och ta en större del av ansvaret för vår gemensamma säkerhet”, skriver Hart på X.",
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-egna-varnar--ar-fel-signal-till-putin/",
-          "image_url": "https://static.bonniernews.se/images/c8/3c/c83c058a1c9445bba753ccc2fdc54fe3/16x9/original.png",
-          "published_at": "2026-05-02T21:17:36Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-egna-varnar--ar-fel-signal-till-putin/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "6c6eea34a049",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Varnar: Svenskfavorit på väg mot ”mardröm”",
-          "summary": "Mallorca är och förblir en favorit för svenskar på semestern. Men ön ”håller på att bli en mardröm” för de boende, enligt norska Dagbladet.",
-          "body_text": "Mallorca är och förblir en favorit för svenskar på semestern. Men ön ”håller på att bli en mardröm” för de boende, enligt norska Dagbladet . – Vi har överskridit gränserna, säger Pere Joan vid en organisation som arbetar mot massturism. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Semesterön Mallorca väntas uppleva ännu en rekordsommar för turism. Prognoser visar att runt 20 miljoner turister kan besöka Mallorca i sommar. Men Plataforma Menys Turisme Més Vida Mallorca, en lokal organisation som arbetar mot massturism, varnar för att ön redan har nått sin bristningsgräns. – Vi är övertygade om att vi har överskridit gränserna för vårt territorium och vår kapacitet att ta emot människor, säger Pere Joan vid organisationen. Enligt honom inkluderar konsekvenserna överbelastad infrastruktur, press på hälso- och sjukvård samt kollektivtrafik, och en lokalbefolkning som känner ökad frustration och stress. – Detta skapar stor oro bland människor och gör det svårt att leva ett normalt liv, säger Joan. Organisationen, som har stått bakom ett antal antiturismdemonstrationer på Mallorca, vill att politikerna inför miljömässiga och sociala gränser för hur många turister ön kan tolerera. Några förslag är att minska antalet flyg och införa ett tak för turistkapaciteten. – Många av oss uppmanar resenärer att inte komma hit. Ön dör av framgången, säger Joan. Enligt organisationen drabbar överturismen både lokalbefolkningen och turisterna själva i och med trängsel, transportkaos, höga priser och sjunkande kvalitet på upplevelserna.",
-          "url": "https://www.expressen.se/nyheter/varlden/varnar-svenskfavorit-pa-vag-mot-mardrom/",
-          "image_url": "https://static.bonniernews.se/images/3d/59/3d59a38b479d4f42a3e2b2878fd1382c/16x9/original.jpg",
-          "published_at": "2026-05-02T20:43:41Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/varnar-svenskfavorit-pa-vag-mot-mardrom/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4552,20 +4552,20 @@
           "sort_order": 7
         },
         {
-          "id": "ced05e0ded23",
+          "id": "93b44328c021",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen I går 21.44 Nato: ”Försöker förstå detaljerna i Trumps besked”",
+          "title": "Världen Idag 03.10 Mobbad som ”ful” – nu är Emily skönhetsdrottning",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/nato-forsoker-forsta--detaljerna-i-trumps-besked/",
+          "url": "https://www.expressen.se/nyheter/varlden/mobbad-som-ful-nu-ar--emily-skonhetsdrottning/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/nato-forsoker-forsta--detaljerna-i-trumps-besked/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/mobbad-som-ful-nu-ar--emily-skonhetsdrottning/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4576,20 +4576,20 @@
           "sort_order": 8
         },
         {
-          "id": "5ea8a33f84cb",
+          "id": "0374c85f9bef",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige I går 19.52 Skogbränder över hela Sverige – SMHI varnar",
+          "title": "Världen I går 23.24 Trumps nya sätt likställs med diktaturer",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/skogbrander-over-hela--sverige-smhi-varnar/",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-satt-likstalls-med-diktaturer/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/skogbrander-over-hela--sverige-smhi-varnar/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-nya-satt-likstalls-med-diktaturer/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
