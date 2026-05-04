@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T19:59:31Z",
+  "generated_at": "2026-05-04T21:09:32Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "6deed7294092",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Wall Street föll – krigsoron tilltar",
+          "summary": "Nyheter från TV4: Wall Street föll – krigsoron tilltar",
+          "body_text": "Wall Street oroas över risken för att kriget mot Iran återupptas i stor skala. Bilden är tagen 1 maj. Vid stängning hade Dow Jones industriindex fallit 1,1 procent medan breda S&P 500-index tappade 0,4 och tekniktunga Nasdaqs kompositindex krympte 0,2 procent. Under eftermiddagen attackerade Iran mål i Förenade arabemiraten. Dessförinnan uppgav man sig ha slagit till mot ett amerikanskt militärfartyg. Händelseutvecklingen har fått oljepriset att stiga kraftigt, vid 22-tiden kostar ett fat Nordsjöolja cirka 114 dollar fatet. Logistikbranschen reagerade med betydande oro på det upptrappade läget. Transportjätten Fedex slutade på minus drygt 9 procent medan fraktbolaget UPS backade över 10 procent.",
+          "url": "https://www.tv4.se/artikel/tt-260504-usabors1-cd744899/wall-street-foll-krigsoron-tilltar",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlwTT5pSdIHeA/492d5a451c6accc35c024a097caa62a8/Wall_Street_oroas_over_risken_for_att_kriget_mot_Iran_aterupptas_i_stor_skala._Bilden_ar_tagen_1_maj.",
+          "published_at": "2026-05-04T20:13:59Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260504-usabors1-cd744899/wall-street-foll-krigsoron-tilltar",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "f105866194ad",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "593129ae8ac9",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "fb9d470ecaa5",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "98677fc84112",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlxesHYGKs31M/2e3af50e720c7f74ccade68017782884/Flygplan_tankas_pa_Sturups_flygplats_i_fjol_somras._Arkivbild.",
           "published_at": "2026-05-04T11:17:21Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260504-euflygbransle1-72b13477/eu-rad-om-flygbransle-i-veckan",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "ecd1da84054c",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Nordea anmält för misstänkt regelbrott",
-          "summary": "Nyheter från TV4: Nordea anmält för misstänkt regelbrott",
-          "body_text": "Enligt ett uttalande från Finanstilsynet har Nordeas dotterbolag Nordea Finans Danmark i utfärdandet av kreditkort inte haft tillräcklig kundkännedom om stora delar av kundbasen. Nordea Finans Danmark beskriver anmälan som orimlig och säger att de haft fullgod kännedom om kunder och risker i verksamheten, vars kunder uppges vara vanliga danskar och väletablerade företag. ”Det är skillnad på att något kunde vara bättre och att något är straffbart. Därför måste vi säga ifrån”, skriver Tore Falkenberg, vd för Nordea Finans Danmark i ett uttalande. Anmälan görs efter ett tillslag för snart tre år sedan.",
-          "url": "https://www.tv4.se/artikel/tt-260504-nordeautredning1-f109c75c/nordea-anmalt-for-misstankt-regelbrott",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlvQl4qpj6p0I/9fc66d7480b4abeb506b5884a1828152/Nordealogga",
-          "published_at": "2026-05-04T10:16:27Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260504-nordeautredning1-f109c75c/nordea-anmalt-for-misstankt-regelbrott",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Ville skiljas – hittades dränkt i Sigtunafjärden • ”Tog separationen hårt” 51-årig man åtalas för elva år gammalt mord – GW: ”Kommer inte bli lätt ” Åklagaren: 51-åring dränkte exfrun i isvak – på grund av pengar De ligger bakom • ”Jobbar främst med informationsstölder” Så ska hackinglandslaget försvara Sverige: ”Massvis av behov” Antalet ransomwareattacker ökar kraftigt: ”Digital utpressning”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Flera nya incidenter i Hormuzområdet • ”Skulle kräva enorma resurser” Wallströms känga mot Trump: ”Någon måste säga sanningen” ”Mer än det tredubbla” • Larm från flera delar av landet Nattvandrarens ilska – efter barnens fylleslag: ”Sorgligt” Fylla och misshandel – flicka fick raket i ögat: ”En hel del stök” Ville skiljas – hittades dränkt i Sigtunafjärden • ”Tog separationen hårt” 51-årig man åtalas för elva år gammalt mord – GW: ”Kommer inte bli lätt ” Åklagaren: 51-åring dränkte exfrun i isvak – på grund av pengar",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -607,31 +607,6 @@
           "sort_order": 0
         },
         {
-          "id": "9d28d9110c05",
-          "source_id": "svt-aktuellt",
-          "source_name": "Aktuellt",
-          "provider": "SVT Play",
-          "category": "Fordjupning",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Aktuellt – Ikväll 21:00",
-          "summary": "SVT:s fördjupande nyhetsprogram.",
-          "body_text": "SVT:s fördjupande nyhetsprogram. Mer om programmet Irankriget: Fossilberoendet i nytt ljus • Valtider: Varför glömmer vi den blå lappen? • USA: Kung Charles fick stående ovationer Mer om programmet Budgettider: Ska bankerna beskattas hårdare? • Kungen 80 år: Debatt om monarkin • Digitalt beroende: Klarar man sig utan amerikansk tech? Mer om programmet Friedrich Merz:: \"USA förnedras av Iran\" • Mohamsson om Liberalernas nya roll: Har ankrat partiet högerut • Elon Musk och Sam Altman: Techgiganterna möts i rätten Mer om programmet Sveriges politiker som du aldrig har sett dem förut Kolla debatten med Messiah och Kristoffer",
-          "url": "https://www.svtplay.se/video/89ddPak/aktuellt/ikvall-21-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54124960/1777924441?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-05T21:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/89ddPak/aktuellt/ikvall-21-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Fordjupning",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
           "id": "f9b9f4979877",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
@@ -654,7 +629,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 1
         },
         {
           "id": "d66c867e35ed",
@@ -679,7 +654,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 2
         },
         {
           "id": "d53218b32209",
@@ -696,6 +671,31 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/35812489/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-05T19:00:00Z",
           "embed_url": "https://www.svtplay.se/video/e4ddW6P/aktuellt/imorgon-21-00",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Fordjupning",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "9d28d9110c05",
+          "source_id": "svt-aktuellt",
+          "source_name": "Aktuellt",
+          "provider": "SVT Play",
+          "category": "Fordjupning",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Aktuellt – Ikväll 21:00",
+          "summary": "SVT:s fördjupande nyhetsprogram.",
+          "body_text": "SVT:s fördjupande nyhetsprogram. Mer om programmet Irankriget: Fossilberoendet i nytt ljus • Valtider: Varför glömmer vi den blå lappen? • USA: Kung Charles fick stående ovationer Mer om programmet Budgettider: Ska bankerna beskattas hårdare? • Kungen 80 år: Debatt om monarkin • Digitalt beroende: Klarar man sig utan amerikansk tech? Mer om programmet Friedrich Merz:: \"USA förnedras av Iran\" • Mohamsson om Liberalernas nya roll: Har ankrat partiet högerut • Elon Musk och Sam Altman: Techgiganterna möts i rätten Mer om programmet Sveriges politiker som du aldrig har sett dem förut Kolla debatten med Messiah och Kristoffer",
+          "url": "https://www.svtplay.se/video/89ddPak/aktuellt/ikvall-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54124960/1777924441?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-04T19:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/89ddPak/aktuellt/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -849,31 +849,6 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "e0e447c5d164",
-          "source_id": "svt-sportnytt",
-          "source_name": "Sportnytt",
-          "provider": "SVT Play",
-          "category": "Sport",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sportnytt – Ikväll 21:46",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Häcken bröt Sirius segersvit – och MFF nollade AIK • Svenska världsettorna avslöjar förändringen bakom succén • Experten positiv till ordförandevalet i tennisförbundet Mer om programmet Innebandygiganterna försvarade sina titlar • Skellefteå vann övertygande igen • Häcken vann första mötet i helsvenska finalen Mer om programmet Eslöv svenska mästare • Hanna Lundberg vann i Schweiz • Luleå slog Södertälje igen. Mer om programmet Skellefteå vann första SM-finalen mot Rögle • Truls Möregårdhs mäktiga svit bruten • Efter dramat i klubblaget – Gottfridsson uttagen till landslaget Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
-          "url": "https://www.svtplay.se/video/8vvvLXD/sportnytt/ikvall-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-05T06:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/8vvvLXD/sportnytt/ikvall-21-46",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Sport",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
           "id": "5044bd1ecba8",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
@@ -888,6 +863,31 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-05T04:45:00Z",
           "embed_url": "https://www.svtplay.se/video/8p55Q6N/sportnytt/imorgon-06-45",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Sport",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "e0e447c5d164",
+          "source_id": "svt-sportnytt",
+          "source_name": "Sportnytt",
+          "provider": "SVT Play",
+          "category": "Sport",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Sportnytt – Ikväll 21:46",
+          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Häcken bröt Sirius segersvit – och MFF nollade AIK • Svenska världsettorna avslöjar förändringen bakom succén • Experten positiv till ordförandevalet i tennisförbundet Mer om programmet Innebandygiganterna försvarade sina titlar • Skellefteå vann övertygande igen • Häcken vann första mötet i helsvenska finalen Mer om programmet Eslöv svenska mästare • Hanna Lundberg vann i Schweiz • Luleå slog Södertälje igen. Mer om programmet Skellefteå vann första SM-finalen mot Rögle • Truls Möregårdhs mäktiga svit bruten • Efter dramat i klubblaget – Gottfridsson uttagen till landslaget Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "url": "https://www.svtplay.se/video/8vvvLXD/sportnytt/ikvall-21-46",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54125263/1777925616?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-04T19:46:00Z",
+          "embed_url": "https://www.svtplay.se/video/8vvvLXD/sportnytt/ikvall-21-46",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1419,7 +1419,7 @@
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "body_text": "Publicerades: Tor 30 apr 08:41 4 min 32 sek Publicerades: Tor 30 apr 07:41 4 min 41 sek Publicerades: Ons 29 apr 09:41 3 min 31 sek",
           "url": "https://www.svtplay.se/video/8p55xmx/kulturnyheterna/ikvall-21-38?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52371355/1737553575?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54124981/1777924946?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-05T06:41:00Z",
           "embed_url": "https://www.svtplay.se/video/8p55xmx/kulturnyheterna/ikvall-21-38?video=visa",
           "play_mode": "page_iframe",
@@ -1725,6 +1725,56 @@
           "sort_order": 0
         },
         {
+          "id": "bfd5716c1328",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Dr. Mehmet Oz: No one was paying attention to this | Fox News Video",
+          "summary": "CMS administrator Dr. Mehmet Oz discusses the Trump administration's Medicaid fraud crackdown on 'America Reports.'",
+          "body_text": "CMS administrator Dr. Mehmet Oz discusses the Trump administration's Medicaid fraud crackdown on 'America Reports.'",
+          "url": "https://www.foxnews.com/video/6394602334112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84d5156d-a956-4802-998c-aacbe462d558/32d57226-1c29-4efe-bc12-e10f3640f66f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-04T20:01:05Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394602334112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "81e7bc665271",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "US military launches ‘Project Freedom’ in Strait of Hormuz, counters Iran’s aggression | Fox News Video",
+          "summary": "Ret. Comm. Kirk Lippold analyzes the U.S.’ ‘Project Freedom’ in the Strait of Hormuz on ‘America Reports.’",
+          "body_text": "Ret. Comm. Kirk Lippold analyzes the U.S.’ ‘Project Freedom’ in the Strait of Hormuz on ‘America Reports.’",
+          "url": "https://www.foxnews.com/video/6394599363112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2724f8cd-70a8-4ed6-ae6e-c709389f7d50/623861f4-f729-442f-8486-b5e4006b4556/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-04T19:57:44Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394599363112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "4cbb1878d9e5",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1747,7 +1797,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "160619956b8f",
@@ -1772,7 +1822,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "29045e35124a",
@@ -1797,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "0d27ee4ccd98",
@@ -1822,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "a27a99ef09c5",
@@ -1847,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "21d43aac69eb",
@@ -1872,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "d44d28bcda97",
@@ -1897,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "4f687340db28",
@@ -1914,56 +1964,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f724918a-f36c-4551-99db-1e6e30746a1b/3f19397d-cad1-4c6f-94e3-73691bf48eed/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-04T16:59:07Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394574340112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "3cf80799e48b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "RZA discusses 'One Spoon of Chocolate' film, Wu-Tang Clan influences with Jimmy Failla | Fox News Video",
-          "summary": "Wu-Tang Clan co-founder RZA joins 'Fox News Saturday Night' to discuss his new film, 'One Spoon of Chocolate.' They chat about the movie's Kung Fu influences, RZA's filmmaking journey and the importance of community in cinema.",
-          "body_text": "Wu-Tang Clan co-founder RZA joins 'Fox News Saturday Night' to discuss his new film, 'One Spoon of Chocolate.' They chat about the movie's Kung Fu influences, RZA's filmmaking journey and the importance of community in cinema. Filmmaker and Wu-Tang Clan co-founder RZA sits down to discuss his latest movie, 'One Spoon of Chocolate.' RZA shares insights into the film's Kung Fu influences, his six years of studying under Quentin Tarantino and how his name, honors JFK and RFK. They emphasize the value of communal movie-watching experiences.",
-          "url": "https://www.foxnews.com/video/6394576686112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d71fefe7-6a9f-4b9f-9a78-83616f58c9c9/2271c0ce-885d-4ca0-b6ce-1ad5b056b1e6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-04T16:49:51Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394576686112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "e19745474363",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "WHCA Dinner suspect Cole Allen in court, judge raises solitary confinement concerns | Fox News Video",
-          "summary": "White House Correspondent's Association Dinner shooting suspect Cole Allen is in court for a motion hearing. A judge voices grave concerns about his solitary confinement treatment. The 'Outnumbered' panel weighs in.",
-          "body_text": "White House Correspondent's Association Dinner shooting suspect Cole Allen is in court for a motion hearing. A judge voices grave concerns about his solitary confinement treatment. The 'Outnumbered' panel weighs in. A judge expresses concerns over the solitary confinement of White House Correspondent's Association Dinner shooting suspect Cole Allen as he appears in U.S. District Court. New DOJ video footage reveals Allen in the Washington Hilton Hotel on April 24, the day before the attack, along with details of his extensive weaponry.",
-          "url": "https://www.foxnews.com/video/6394576350112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab50c362-ba49-4efc-a6fc-e56018bb4450/b51ecc5c-a301-4e98-9fd4-34a9a5aa8154/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-04T16:45:57Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394576350112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2050,31 +2050,6 @@
           "sort_order": 13
         },
         {
-          "id": "f672f00dd59b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "WATCH LIVE: President Trump participates in a small business summit | Fox News Video",
-          "summary": "More than 130 business owners from across the country attend the White House event, where Trump is expected to highlight tax wins from the \"One Big Beautiful Bill.\"",
-          "body_text": "More than 130 business owners from across the country attend the White House event, where Trump is expected to highlight tax wins from the \"One Big Beautiful Bill.\"",
-          "url": "https://www.foxnews.com/video/6394581433112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3c5fc0e-cdc9-42b4-8f81-ab6db2d3e00c/5c90ee34-8d14-408d-8624-74ccd55d6a47/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-04T17:12:50Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394581433112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 14
-        },
-        {
           "id": "f6a3b3028281",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2086,9 +2061,34 @@
           "summary": "Studio Shows Are not even really for Sports fans anymore",
           "body_text": "Studio Shows Are not even really for Sports fans anymore",
           "url": "https://www.foxnews.com/video/6394589352112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7ad0228-0d8b-40bb-a1d9-c8b9f2b2774e/dd5a96b7-5bf0-4b54-a936-594453bab233/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/636c77f1-5c11-4d5a-bc7d-9c33e656f81f/c3ef99c3-d7ab-44fa-a1e6-a315489e54e2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-04T18:02:41Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394589352112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
+          "id": "b79673174017",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "One Nation With Brian Kilmeade - Sunday, May 3 | Fox News Video",
+          "summary": "Midterms, TPUSA, Wolf Blitzer",
+          "body_text": "In-depth analysis of the issues and stories that matter most to Americans.",
+          "url": "https://www.foxnews.com/video/6394549194112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/94a00bbf-d66d-49e5-8546-58f032140526/b9bcb7e8-f957-4412-af8f-47b220ad51f9/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-05-04T11:11:55Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394549194112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2246,7 +2246,7 @@
           "source_kind": "mixed",
           "title": "Leipzig: Two killed and many injured after car driven into crowd",
           "summary": "A 33-year-old German citizen was detained following the incident, the authorities say.",
-          "body_text": "Two people are dead and several others injured after a car drove into a crowd in the eastern German city of Leipzig on Monday afternoon, local authorities said. Leipzig Mayor Burkhard Jung said the suspected perpetrator - who authorities have confirmed is a 33-year-old German citizen - was arrested. Jung added that authorities were not yet clear about a motive. Police confirmed that a car had struck several people in the central Grimmaische Straße area before driving off. Leipzig's fire chief, Axel Shuh, said 22 people were injured, including two seriously. Michael Kretschmer, the head of the state of Saxony, of which Leipzig is a part, said the suspect previously suffered from mental illness. Lepzig police spokesperson, Susanne Luebcke, said that at about 17:35 (15:35 GMT) \"a person drove a vehicle across Augustusplatz into Grimmaische Street, continuing on past the market\". \"Several people were injured in the incident. Unfortunately, we also have to report two fatalities,\" she added. \"We are talking about a case of violent rampage here. We are working on the assumption that this was the act of a lone perpetrator and currently have no indications that there is still a threat to public safety.\" One eyewitness told Radio Leipzig that the car came to a halt at some bollards and a woman fell from the roof of a car. They said passersby went to administer first aid and about 15 people gathered around the car to apprehend the driver and tried to drag him out through an open window. The eyewitness said the driver tried to escape through a passenger window, but police arrived at the scene and secured his hands with cable ties. Germany has seen a series of car ramming attacks in recent years. In December 2024, at least six people were killed and more than 300 were wounded following an attack on a Christmas market in Magdeburg. In February last year, at least 30 people were injured when a car was driven into a crowd in Munich, more than a week before the country's federal elections.",
+          "body_text": "Two people are dead and several others injured after a car drove into a crowd in the eastern German city of Leipzig on Monday afternoon, local authorities said. Leipzig Mayor Burkhard Jung said the suspected perpetrator - who authorities have confirmed is a 33-year-old German citizen - was arrested. Jung added that authorities were not yet clear about a motive. Police confirmed that a car had struck several people in the central Grimmaische Straße area before driving off. Leipzig's fire chief, Axel Shuh, said 22 people were injured, including two seriously. Michael Kretschmer, the head of the state of Saxony, of which Leipzig is a part, said the suspect previously suffered from mental illness. Lepzig police spokesperson, Susanne Luebcke, said that at about 17:35 (15:35 GMT) \"a person drove a vehicle across Augustusplatz into Grimmaische Street, continuing on past the market\". \"Several people were injured in the incident. Unfortunately, we also have to report two fatalities,\" she added. \"We are talking about a case of violent rampage here. We are working on the assumption that this was the act of a lone perpetrator and currently have no indications that there is still a threat to public safety.\" One eyewitness, Susi, told Radio Leipzig that she was with her friend on a bench on Grimmaische Straße at the time of the incident. \"We heard a loud bang,\" she said, adding that the driver was going \"really fast\". Susi and her friend took refuge in a jewellery shop nearby. When they came out of the store, she said she saw injured people lying on the ground. Another eyewitness told the same outlet that the car came to a halt at some bollards and a woman fell from the roof of a car. They said passersby went to administer first aid and about 15 people gathered around the car to apprehend the driver and tried to drag him out through an open window. The eyewitness said the driver tried to escape through a passenger window, but police arrived at the scene and secured his hands with cable ties.",
           "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/395d/live/537900a0-47f3-11f1-a5a5-9ff681d5bd63.jpg",
           "published_at": "2026-05-04T16:13:26Z",
@@ -2414,7 +2414,7 @@
           "source_kind": "mixed",
           "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
           "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
-          "body_text": "Three people have died and a UK national is seriously ill in hospital after a suspected hantavirus outbreak on a small cruise ship in the Atlantic Ocean. The operator of the MV Hondius ship, tour company Oceanwide Expeditions, said a Dutch husband and wife, as well as a German national, had died but the cause has not yet been established. However, the Dutch company said hantavirus has been confirmed in the case of the 69-year-old UK national who is in intensive care in Johannesburg, South Africa. Hantavirus is usually passed to humans from rodents via their faeces, saliva or urine . It can cause severe respiratory illness. Rarely, it can be transmitted between people. The MV Hondius vessel is currently off the coast of Cape Verde and has 149 people onboard. Oceanwide Expeditions said there were also two crew members on board \"with acute respiratory symptoms, one mild and one severe\". They were of British and Dutch nationality and both required urgent medical care, it said. It said it had not been established that hantavirus had been confirmed in the pair. And it added that no other persons with symptoms had been identified. Negotiations are in progress with local authorities following what Oceanwide Expeditions described as \"a serious medical situation\". Dr Aaron Motsoaledi, South Africa's minister of health, said of the British patient that he was critical and had been admitted to a private facililty. \"He's being taken care of. As you know, hantavirus, like all viruses, don't have any specific treatment, so they are giving symptomatic treatment and support as much as they could.\" He said health workers and anyone who had contact with the patient would now be traced and tested. Outlining a timeline, the company said a passenger had become unwell while onboard and died on 11 April.",
+          "body_text": "Three people have died and a UK national is seriously ill in hospital after a suspected hantavirus outbreak on a small cruise ship in the Atlantic Ocean. The operator of the MV Hondius ship, tour company Oceanwide Expeditions, said a Dutch husband and wife, as well as a German national, had died but the cause has not yet been established. However, the Dutch company said hantavirus has been confirmed in the case of the 69-year-old UK national who is in intensive care in Johannesburg, South Africa. Hantavirus is usually passed to humans from rodents via their faeces, saliva or urine . It can cause severe respiratory illness. Rarely, it can be transmitted between people. The MV Hondius vessel is currently off the coast of Cape Verde and has 149 people onboard. Oceanwide Expeditions said there were also two crew members on board \"with acute respiratory symptoms, one mild and one severe\". They were of British and Dutch nationality and both required urgent medical care, it said. It said it had not been established that hantavirus had been confirmed in the pair. And it added that no other persons with symptoms had been identified. Negotiations are in progress with local authorities following what Oceanwide Expeditions described as \"a serious medical situation\". Outlining a timeline, the company said a passenger had become unwell while aboard and died on 11 April. His cause of death could not be determined, and his body was taken off the ship after it docked at St Helena on 24 April. The passenger's wife also disembarked on St Helena and the firm said it was told she had become unwell during the return journey and later died. \"At this time, it has not been confirmed that these two deaths are connected to the current medical situation on board,\" it added.",
           "url": "https://www.bbc.com/news/articles/cy0294829ndo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/537e/live/3549bda0-47d4-11f1-ac78-2112837ce2aa.jpg",
           "published_at": "2026-05-03T18:36:10Z",
@@ -2550,25 +2550,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "0a0a060ba2f4",
+          "id": "474ffa42f8f0",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Al menos 15 peruanos reclutados por Rusia han muerto en guerra con Ucrania, según abogado",
-          "summary": "Familias denuncian que al menos 15 peruanos fallecieron en el conflicto en Ucrania tras ser reclutados por Rusia con engaños laborales. El caso es investigado como presunta trata de personas.",
-          "body_text": "Al menos 15 peruanos han muerto en las últimas semanas en el frente de batalla contra Ucrania, después de ser reclutados por Rusia para supuestamente “asumir otros empleos”, informó este lunes la defensa legal que representa a las familias afectadas, cuya denuncia ha motivado una investigación por un presunto caso de trata de personas. La defensa de las familias asegura que al menos hay 310 peruanos afectados por esta situación, y denuncian que estos ciudadanos, normalmente de bajos recursos, firmaron contratos para asumir empleos de seguridad, transportistas, mineros, entre otros, pero han sido supuestamente engañados y enviados al frente de batalla. El abogado Percy Salinas informó a EFE que hasta la semana pasada tenían la confirmación de ocho peruanos fallecidos, pero en los últimos días han podido constatar con fotografías de las chapas de identificación e incluso de cadáveres que siete nacionales más han muerto en combate. El letrado agregó que él y su equipo trabajan con las familias para confirmar la muerte de otros ocho peruanos, un dato que será revelado en los próximos días. Además, Salinas relató que en las últimas horas han tenido conocimiento sobre un grupo de peruanos, aún sin identificar, que está preso en Ucrania. Desde la semana pasada piden al Ministerio de Relaciones Exteriores que exija a Rusia información sobre el paradero de sus allegados y también facilitar su repatriación, lo que cumplió con cursar el pedido a la embajada rusa con el recordatorio de que todo peruano que se enrole en una fuerza militar extranjera debe contar con el permiso previo de la Cancillería. Este sábado, la Cancillería anunció que 18 peruanos van a regresar a su país en los próximos días después de coordinaciones con la Embajada de Rusia en Perú y también de sus sedes diplomáticas en el país eurasiático. Precisamente este lunes, llegarán a Lima seis peruanos, que serán recibidos por sus familias, después de que, en algunos casos, no tuvieran comunicación con ellos durante semanas. La semana anterior, el Ministerio de Exteriores de Perú facilitó la llegada de otros cuatro peruanos desde Moscú y uno desde Polonia.",
-          "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-al-menos-15-peruanos-reclutados-por-rusia-han-muerto-en-guerra-con-ucrania-segun-abogado-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6KO66ONIJNGHNM7GBK3RVAH6RY.jpg?auth=f3c26e1221453aa3524e920e09f27ad9971be7995381653a62402462db95bfc3&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-04T19:55:01Z",
-          "embed_url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-al-menos-15-peruanos-reclutados-por-rusia-han-muerto-en-guerra-con-ucrania-segun-abogado-ultimas-noticia/",
+          "title": "¿Quiénes cobran la CTS en mayo de 2026? Revisa si te corresponde",
+          "summary": "El depósito de la CTS corresponde a trabajadores formales del régimen privado; revisa quiénes acceden al beneficio en este periodo.",
+          "body_text": "Falta poco para la llegada de mayo y miles de trabajadores del sector privado en el Perú vuelven a poner la mirada en uno de los beneficios laborales más esperados del año: la Compensación por Tiempo de Servicios (CTS). Este ingreso, que funciona como un respaldo económico ante un eventual desempleo, debe ser depositado por los empleadores dentro de un plazo determinado y bajo condiciones específicas. En esta oportunidad, además, se mantiene vigente una disposición extraordinaria que permite a los trabajadores retirar el total de sus fondos, lo que ha incrementado el interés por conocer quiénes califican para recibir este dinero. En medio de este escenario, surgen interrogantes sobre los requisitos, las fechas exactas de pago y la forma en que se calcula este beneficio. Descubre quiénes acceden a este depósito, cuándo se realizará y qué aspectos debes tener en cuenta. El depósito de la CTS está dirigido a trabajadores que forman parte del régimen laboral privado y que cumplen con ciertas condiciones establecidas por la normativa vigente. Para acceder a este beneficio, es necesario: Este grupo constituye la mayoría de empleados formales del sector privado, quienes reciben este ingreso como una forma de protección económica ante la pérdida de empleo. Existen también situaciones en las que no corresponde el pago de este beneficio. Entre los principales casos se encuentran: Sin embargo, aquellos trabajadores que ingresaron a una microempresa antes de su inscripción sí mantienen el derecho. En el caso de pequeñas empresas, el beneficio se entrega, pero solo equivale al 50% del monto habitual. El plazo máximo para que los empleadores realicen el depósito es el 15 de mayo de 2026, correspondiente al periodo de noviembre a abril. No obstante, las empresas tienen la posibilidad de efectuar el pago desde los primeros días hábiles del mes. En ese sentido, el abono puede realizarse entre el 4 y el 15 de mayo, considerando únicamente días laborables. Cumplir con este plazo es obligatorio, ya que su incumplimiento puede generar sanciones para el empleador. Bajo el amparo de la Ley Nº 32322, se ha establecido una medida extraordinaria que otorga flexibilidad total a los trabajadores. Los puntos clave sobre la disponibilidad del dinero son: Calcular la CTS es más sencillo de lo que parece, ya que se basa en dos factores principales: tu remuneración mensual y el tiempo que has laborado en la empresa durante el semestre correspondiente. La fórmula general para determinar este beneficio es multiplicar tu sueldo mensual completo por el número de meses trabajados en el semestre y luego dividir ese resultado entre doce. Para ilustrar este cálculo, consideremos un par de ejemplos prácticos. Si un trabajador, como Juan, percibe un salario mensual de S/2,000 y ha completado seis meses de servicio en el semestre, su CTS ascendería a S/1,000. Por otro lado, si una trabajadora como Carla, con un sueldo mensual de S/1,500, ha laborado solo tres meses en el semestre actual, su CTS se calcularía en S/375. Este monto será depositado en sus respectivas cuentas en los plazos establecidos por ley, según explica la plataforma web de BCP.",
+          "url": "https://elcomercio.pe/respuestas/tramites/estos-son-los-trabajadores-que-recibiran-la-cts-en-mayo-de-2026-en-peru-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/WY4F4HROTNFWXGZHKWIIKUXGR4.jpg?auth=d744d26ca80bcc16d10d66fb14f1bc091ec8219e800d3ecf495260d5dcfa1fc6&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-04T21:03:53Z",
+          "embed_url": "https://elcomercio.pe/respuestas/tramites/estos-son-los-trabajadores-que-recibiran-la-cts-en-mayo-de-2026-en-peru-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "peruanos muertos Ucrania, trata de personas Rusia, reclutamiento engañoso guerra, víctimas peruanas conflicto Ucrania, investigación trata Perú Rusia, peruanos en guerra Ucrania, falsas ofertas laborales extranjero, guerra Rusia Ucrania peruanos, denuncia familias Perú, crimen internacional trata personas",
-            "Europa",
+            "Compensación por Tiempo de Servicios, CTS, beneficiarios del CTS, CTS de mayo de 2026, CTS de mayo, cálculo del CTS",
+            "Tramites",
             "Senaste",
             "El Comercio"
           ],
@@ -3104,25 +3104,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "0a0a060ba2f4",
+          "id": "8d04c28e5fd8",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Al menos 15 peruanos reclutados por Rusia han muerto en guerra con Ucrania, según abogado",
-          "summary": "Familias denuncian que al menos 15 peruanos fallecieron en el conflicto en Ucrania tras ser reclutados por Rusia con engaños laborales. El caso es investigado como presunta trata de personas.",
-          "body_text": "Al menos 15 peruanos han muerto en las últimas semanas en el frente de batalla contra Ucrania, después de ser reclutados por Rusia para supuestamente “asumir otros empleos”, informó este lunes la defensa legal que representa a las familias afectadas, cuya denuncia ha motivado una investigación por un presunto caso de trata de personas. La defensa de las familias asegura que al menos hay 310 peruanos afectados por esta situación, y denuncian que estos ciudadanos, normalmente de bajos recursos, firmaron contratos para asumir empleos de seguridad, transportistas, mineros, entre otros, pero han sido supuestamente engañados y enviados al frente de batalla. El abogado Percy Salinas informó a EFE que hasta la semana pasada tenían la confirmación de ocho peruanos fallecidos, pero en los últimos días han podido constatar con fotografías de las chapas de identificación e incluso de cadáveres que siete nacionales más han muerto en combate. El letrado agregó que él y su equipo trabajan con las familias para confirmar la muerte de otros ocho peruanos, un dato que será revelado en los próximos días. Además, Salinas relató que en las últimas horas han tenido conocimiento sobre un grupo de peruanos, aún sin identificar, que está preso en Ucrania. Desde la semana pasada piden al Ministerio de Relaciones Exteriores que exija a Rusia información sobre el paradero de sus allegados y también facilitar su repatriación, lo que cumplió con cursar el pedido a la embajada rusa con el recordatorio de que todo peruano que se enrole en una fuerza militar extranjera debe contar con el permiso previo de la Cancillería. Este sábado, la Cancillería anunció que 18 peruanos van a regresar a su país en los próximos días después de coordinaciones con la Embajada de Rusia en Perú y también de sus sedes diplomáticas en el país eurasiático. Precisamente este lunes, llegarán a Lima seis peruanos, que serán recibidos por sus familias, después de que, en algunos casos, no tuvieran comunicación con ellos durante semanas. La semana anterior, el Ministerio de Exteriores de Perú facilitó la llegada de otros cuatro peruanos desde Moscú y uno desde Polonia.",
-          "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-al-menos-15-peruanos-reclutados-por-rusia-han-muerto-en-guerra-con-ucrania-segun-abogado-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6KO66ONIJNGHNM7GBK3RVAH6RY.jpg?auth=f3c26e1221453aa3524e920e09f27ad9971be7995381653a62402462db95bfc3&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-04T19:55:01Z",
-          "embed_url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-al-menos-15-peruanos-reclutados-por-rusia-han-muerto-en-guerra-con-ucrania-segun-abogado-ultimas-noticia/",
+          "title": "Emiratos Árabes afirma haber interceptado 15 misiles y 4 drones lanzados desde Irán",
+          "summary": "Emiratos Árabes Unidos informó que interceptó 15 misiles y cuatro drones lanzados desde Irán, en los primeros ataques tras el alto el fuego.",
+          "body_text": "El Ministerio de Defensa de Emiratos Árabes Unidos (EAU) afirmó este lunes haber interceptado un total de 15 misiles y cuatro drones lanzados desde Irán que causaron tres heridos “de gravedad moderada”, en los primeros ataques iraníes contra el país del golfo Pérsico desde la entrada en vigor del alto el fuego. “Los sistemas de defensa aérea de EAU interceptaron 12 misiles balísticos, 3 misiles de crucero y 4 drones lanzados desde Irán, causando 3 heridos de gravedad moderada”, dijo el departamento en un comunicado publicado en su cuenta oficial de X. Los tres heridos, de nacionalidad india, sufrieron lesiones después de que un dron iraní atacara una instalación petrolera en la localidad oriental emiratí de Fuyaira, donde se desató un “gran incendio”, de acuerdo con las autoridades. Defensa indicó que desde el inicio de la guerra lanzada por Estados Unidos e Israel contra Irán el pasado 28 de febrero, Emiratos ha interceptado un total de 549 misiles balísticos, 29 misiles de crucero y 2.260 drones lanzados por la República Islámica en represalia por las agresiones contra su territorio. Asimismo, 227 personas de una treintena de nacionalidades han resultado heridas, mientras que otras 13 han muerto como consecuencia de estos ataques. Estos son los primeros ataques contra territorio emiratí desde la entrada en vigor del alto el fuego entre Estados Unidos e Irán el pasado 8 de abril. “El Ministerio de Defensa afirmó que se mantiene plenamente preparado para hacer frente a cualquier amenaza y que combatirá con firmeza todo aquello que pretenda socavar la seguridad del país, garantizando así la protección de su soberanía, seguridad y estabilidad”, añadió en el comunicado. El Ministerio de Exteriores emiratí afirmó este lunes que se reserva el “pleno y legítimo derecho a responder” a los nuevos ataques con drones y misiles de Irán contra su territorio, mientras que los países árabes y del golfo Pérsico han cerrado filas con Emiratos y han indicado que apoyarán cualquier medida que decida tomar.",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/emiratos-arabes-unidos-afirma-haber-interceptado-15-misiles-y-4-drones-lanzados-desde-iran-estados-unidos-israel-donald-trump-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/A5INQHKWY5B2BKPCQZQQ7T3J3E.jpg?auth=95e0ff0c379f9edb14fb8112b7dbc205fa605efeeff2f2ae3f0282ba6e8b8ef0&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-04T20:27:49Z",
+          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/emiratos-arabes-unidos-afirma-haber-interceptado-15-misiles-y-4-drones-lanzados-desde-iran-estados-unidos-israel-donald-trump-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "peruanos muertos Ucrania, trata de personas Rusia, reclutamiento engañoso guerra, víctimas peruanas conflicto Ucrania, investigación trata Perú Rusia, peruanos en guerra Ucrania, falsas ofertas laborales extranjero, guerra Rusia Ucrania peruanos, denuncia familias Perú, crimen internacional trata personas",
-            "Europa",
+            "EAU intercepta misiles, drones Irán Emiratos, ataque Irán Golfo Pérsico, alto el fuego violado, defensa antiaérea EAU, conflicto Irán Emiratos, misiles interceptados Golfo, tensión Medio Oriente, seguridad regional Golfo, heridos ataque Emiratos",
+            "Oriente Medio",
             "Mundo",
             "El Comercio"
           ],
@@ -4216,6 +4216,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "1abf2527aa97",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tårarna – inifrån virusdrabbade kryssningsfartyget: ”Vill komma hem” • Tre döda",
+          "summary": "Tre personer har dött ombord på kryssningsfartyget Hondius, efter ett hantavirusutbrott. Fartyget väntar på att få gå i hamn i Kap Verde och passagerarna hålls isolerade i sina hytter. – Allt vi vill nu är att känna oss trygga, få klarhet och att få komma hem, säger resebloggaren Jake Rosmarin med gråten i halsen.",
+          "body_text": "Tre personer har dött ombord på kryssningsfartyget Hondius, efter ett hantavirusutbrott. Fartyget väntar på att få gå i hamn i Kap Verde och passagerarna hålls isolerade i sina hytter. – Allt vi vill nu är att känna oss trygga, få klarhet och att få komma hem, säger resebloggaren Jake Rosmarin med gråten i halsen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. 150 personer, de flesta turister, befinner sig ombord på kryssningsfartyget M/V Hondius som just nu ligger utanför Kap Verde och väntar på att få gå i hamn. Det avgick från Ushuaia i Argentina den 20 mars. Tre personer, en tysk medborgare och två nederländska, har dött, skriver Bild. De misstänks ha smittats av hantavirus, men än så länge har bara ett fall bekräftats. En brittisk man får intensivvård på ett sjukhus i Johannesburg. Hantaviruset sprids via gnagare och deras avföring, saliv eller urin. I sällsynta fall kan det spridas från människa till människa och det är därför fartyget ännu inte har fått lägga till vid hamnen i Kap Verde. Varierar från inga alls, till svår blödarfeber eller akut lungsyndrom. Några dagar till två månader (vanligen 2–4 veckor). Det finns inget vaccin mot hantaviruset. Specifik behandling saknas, vården inriktas på att behandla patientens symtom. Omkring 150 000 till 200 000 personer i världen smittas varje år, och det är mycket ovanligt att viruset sprids från människa till människa. Passagerarna hålls isolerade i sina hytter. Den amerikanske resebloggaren Jake Rosmarin som är ombord har delat en video i sina sociala kanaler där han, med glansiga ögon och gråten i halsen, berättar om sina känslor.",
+          "url": "https://www.expressen.se/nyheter/varlden/tararna-pa-kryssningsfartyget--efter-virusutbrottet-vill-hem/",
+          "image_url": "https://static.bonniernews.se/images/00/a4/00a44fa32792403e92d4abf9214d8ade/16x9/original.png",
+          "published_at": "2026-05-04T20:21:53Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/tararna-pa-kryssningsfartyget--efter-virusutbrottet-vill-hem/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "4042bb52871c",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4237,7 +4261,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "248281e53f7d",
@@ -4247,7 +4271,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Expert: De ser planen som en krigsförklaring",
+          "title": "Experten: Ses som en krigsförklaring",
           "summary": "USA:s militär hjälpte fartyg ur Hormuzsundet och Iran svarade med robotattacker mot Förenade arabemiraten. Läget vid Persiska viken är väldigt spänt just nu. – Iran visar att man inte har för avsikt att backa eller tillåta att USA eskorterar fartyg genom sundet, säger Iranexperten Alexander Atarodi. Han menar att vapenvilan gäller – än så länge.",
           "body_text": "USA:s militär hjälpte fartyg ur Hormuzsundet och Iran svarade med robotattacker mot Förenade arabemiraten. Läget vid Persiska viken är väldigt spänt just nu. – Iran visar att man inte har för avsikt att backa eller tillåta att USA eskorterar fartyg genom sundet, säger Iranexperten Alexander Atarodi. Han menar att vapenvilan gäller – än så länge. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På söndagen skrev USA:s president Donald Trump att landets militär ska eskortera fartyg genom Hormuzsundet. Han kallar insatsen för ”Project freedom”. Hittills har två fartyg kunnat passera, enligt USA:s centralkommando. – Det är en varning till Iran om att USA har intentionen att bryta Irans kontroll över Hormuzsundet, vilket Iran uppfattar som en krigsförklaring. I dag fick vi se resultatet av det, säger Iranexperten Alexander Atarodi. Iran har på måndagen varnat utländska styrkor, i synnerhet ”USA:s aggressiva militär”, att alla fartyg som närmar sig sundet kommer att attackeras. Under måndagseftermiddagen har den iranska militären avfyrat robotar mot mål i Förenade arabemiraten, inklusive ett oljefartyg. – Iran visar att man inte har för avsikt att backa eller tillåta att USA eskorterar fartyg genom sundet. Alla som passerar kommer att attackeras, säger Alexander Atarodi och fortsätter: – Vi har fortfarande en vapenvila. Det är en haltande vapenvila, men den gäller tills USA eller Iran går i direkt konfrontation mot varandra. Det har vi inte sett ännu. Det som händer nu kan betyda att kriget kommer tillbaka, men det kan också betyda att vi ser en dragkamp, ett maktspel, där man testar varandra. Alexander Atarodi säger att Iran, genom kriget, har fått flera strategiska fördelar. Den viktigaste är kontrollen över Hormuzsundet. – Iran har insett hur viktigt Hormuzsundet är för den globala ekonomin och världshandeln, säger han och fortsätter:",
           "url": "https://www.expressen.se/nyheter/varlden/experten-iran-ser-trumps--plan-som-en-krigsforklaring/",
@@ -4261,7 +4285,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "383c873effd0",
@@ -4285,7 +4309,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "5a3c3d21d39d",
@@ -4309,7 +4333,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "25674c92f05b",
@@ -4333,7 +4357,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "0cef3bdcd010",
@@ -4350,30 +4374,6 @@
           "image_url": "https://static.bonniernews.se/images/1f/a8/1fa825f5c4664a4cb06c64051d10832e/16x9/original.png",
           "published_at": "2026-05-04T15:44:57Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-leipzig/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "2cde1872f838",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Skärpt säkerhet runt Putin – oro för kupp",
-          "summary": "Kreml stramar åt säkerheten kring president Putin. Det som en följd av lönnmord på ryska toppmilitärer och en rädsla för att Putin ska avsättas i ett kuppförsök, skriver CNN.",
-          "body_text": "Kreml stramar åt säkerheten kring president Putin. Det som en följd av lönnmord på ryska toppmilitärer och en rädsla för att Putin ska avsättas i ett kuppförsök, skriver CNN. Bland annat tillbringar Putin en stor del av sin tid i hemliga bunkrar. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. CNN har tagit del av en europeisk underrättelserapport som visar att den ryska regimen kraftigt stramat åt säkerheten kring Vladimir Putin . Bland annat installerar man övervakningskameror hemma hos Putins personal, och de som jobbar nära presidenten får bara använda mobiltelefoner utan tillgång till internet. Kockar, livvakter och fotografer som arbetar med Putin får inte åka kollektivt. Besökare till den ryska ledaren får genomgå rigorösa kroppskontroller. Alla dessa åtgärder uppges ha gjorts av oro för att Putin ska avsättas genom ett kuppförsök, och som en följd av en rad lönnmord på högt uppsatta ryska militärer. Säkerheten har skärpts ytterligare efter att general Fanil Sarvarov dödades i en bilexplosion i Moskva strax före jul, skriver CNN. Putin har, enligt rapporten, dessutom slutat åka till sitt semesterhus i Valdai och han begränsar rejält antalet platser han besöker. I stället kan han tillbringa flera veckor i rad i olika exklusiva bunkrar i Krasnodar-regionen, i närheten av Svarta havet. Klipp och bilder på Putin som Kreml publicerar är ofta förinspelade, enligt uppgifterna. Ett tydligt exempel på Kremls rädsla för att något ska hända presidenten är faktumet att Putin inte besökt en enda militäranläggning i år, något han annars har gjort med jämna mellanrum. Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/skarper-sakerheten-kring-putin-radsla-for-lonnmord-och-kupp/",
-          "image_url": "https://static.bonniernews.se/images/fb/83/fb832419548d4a9aa2e8f3ebe3c7f9f0/16x9/original.jpg",
-          "published_at": "2026-05-04T15:00:35Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/skarper-sakerheten-kring-putin-radsla-for-lonnmord-och-kupp/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4408,6 +4408,30 @@
           "sort_order": 7
         },
         {
+          "id": "2cde1872f838",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Världen Idag 17.00 Skärper säkerheten kring Putin – rädsla för lönnmord och kupp",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/varlden/skarper-sakerheten-kring-putin-radsla-for-lonnmord-och-kupp/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/varlden/skarper-sakerheten-kring-putin-radsla-for-lonnmord-och-kupp/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
           "id": "00c86516091e",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4422,30 +4446,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/atalet-flicka-valdtogs-pa--fyra-offentliga-toaletter/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "593bbafdea24",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Politik Idag 15.31 Kristerssons glassbluff – postade gammal bild",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/kristerssons-glassbluff-postade-gammal-bild/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/kristerssons-glassbluff-postade-gammal-bild/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
