@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T19:47:15Z",
+  "generated_at": "2026-05-08T20:54:11Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "8f1f57d4a5f1",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Wall Street avslutade veckan med fredagsmys",
+          "summary": "Nyheter från TV4: Wall Street avslutade veckan med fredagsmys",
+          "body_text": "Wall Street avslutade veckan med fredagsmys Dow Jones industriindex stängde oförändrat medan breda S&P 500-index steg 0,8 och tekniktunga Nasdaqs kompositindex 1,7 procent. Under fredagen visade statistik att det skapades oväntat många nya jobb utanför jordbrukssektorn i USA i april. Intel rusade 13,9 procent efter uppgifter om ett avtal där teknikjätten Apple ska köpa chip av halvledarbolaget. Även Intels branschkollega Micron drog iväg rejält, 15,5 procent. AMD och Broadcom steg 11,4 respektive 4,2 procent – pådrivna av AI-kopplade nyheter. Under veckan i stort steg Dow 0,2 procent, S&P 500 2,3 och Nasdaq 4,5 procent. Därmed har S&P 500 stigit sex veckor i rad.",
+          "url": "https://www.tv4.se/artikel/tt-260508-usabors1-357ba968/wall-street-avslutade-veckan-med-fredagsmys",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdl4VHghXKgq0k/c1fdee92007f6cf23a42375135a5fe79/Dystra_miner_pa_Wall_Street._Arkivbild.",
+          "published_at": "2026-05-08T20:09:40Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260508-usabors1-357ba968/wall-street-avslutade-veckan-med-fredagsmys",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "afc210fdee45",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "b8f866638663",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "dfd823f56aee",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "a65b5be8476a",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlN6iHxuam7to/225bd636579d72bee82bd796afdb08d3/Kinesiska_Alibaba_och_thailandska_Obon_pekas_ut_som_misstankta_i_smugglingsharva_dar_AI-servrar_med_Nvidia-chip_skepp._Arkivbild",
           "published_at": "2026-05-08T11:53:20Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260508-thailandaiutredning1-7228877c/misstankt-tekniksmuggling-via-thailand-utreds",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "48af088b2f97",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Ytterligare prisras på diesel",
-          "summary": "Nyheter från TV4: Ytterligare prisras på diesel",
-          "body_text": "Efter att reduktionsplikten sänktes vid årsskiftet har utsläppen från bensin och diesel ökat dramatiskt enligt branschorganisationen Drivkraft Sverige. Arkivbild Fallande oljepriser i hopp om någon slags fredsuppgörelse mellan Iran och USA ger effekt även vid macken. Drivmedelskedjorna sänker nu dieselpriset med ytterligare 50 öre litern, enligt bolagens prisuppgifter för företagskunderna, något som indikerar förändringen även för privatbilister. Prissänkningen följer på torsdagens kapning med drygt en krona. Dieseln kostar därmed runt 20,50 kronor vid pump. Bensinpriset sänks mindre, ner 10 öre på fredagen efter 50-öringen i torsdags. Det nya priset för privattankande bilister blir cirka 18 kronor. Före krigets inledning 28 februari kostade bensinen och dieseln 15 respektive 17 kronor litern.",
-          "url": "https://www.tv4.se/artikel/tt-260508-dieselpris1-0bb016b3/ytterligare-prisras-pa-diesel",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlILCA6CpXM-0/5d740e84625ae2f96e47d3f0edb8bc7e/Efter_att_reduktionsplikten_s_nktes_vid__rsskiftet_har_utsl_ppen_fr_n_bensin_och_diesel__kat_dramatiskt_enligt_bransc._Arkivbild",
-          "published_at": "2026-05-08T11:35:04Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260508-dieselpris1-0bb016b3/ytterligare-prisras-pa-diesel",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Zelenskyj bekräftar: Jag tackar USA:s president Experten om ukrainska framgången – lyckas slå allt djupare i Ryssland Ryska segerparaden ställs in i 15 regioner: ”Svaghetstecken” Konsumentverket: ”Risken finns och är verklig” • Förlorade tolv centimeter tarm – på grund av ståltråden Blev mystiskt sjuk – nu varnar Harriet för vanliga grillverktyget",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Teneriffa förbereder sig på att ta emot passagerare – ”operation utan motstycke” Virusexperten sågar soptippsteorin: ”Det är orimligt” Åklagaren: ”Utgör grovt brott mot tystnadsplikten”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -882,10 +882,10 @@
           "surface": "video",
           "source_kind": "video",
           "title": "Sportnytt – Ikväll 21:30",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "summary": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jp55Q5A/sportnytt/ikvall-21-30",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54147487/1778270140?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-08T19:30:00Z",
           "embed_url": "https://www.svtplay.se/video/jp55Q5A/sportnytt/ikvall-21-30",
           "play_mode": "page_iframe",
@@ -907,10 +907,10 @@
           "surface": "video",
           "source_kind": "video",
           "title": "Sportnytt – Igår 21:46",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "summary": "Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/ey22Z23/sportnytt/igar-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54141952/1778184911?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54147478/1778270004?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-07T19:46:00Z",
           "embed_url": "https://www.svtplay.se/video/ey22Z23/sportnytt/igar-21-46",
           "play_mode": "page_iframe",
@@ -933,7 +933,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 6 maj 21:46",
           "summary": "Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8z77y7g/sportnytt/ons-6-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54137017/1778103730?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-06T19:46:00Z",
@@ -957,10 +957,10 @@
           "surface": "video",
           "source_kind": "video",
           "title": "Sportnytt – Tis 5 maj 21:46",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "summary": "Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8LJJyaV/sportnytt/tis-5-maj-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54130681/1778012162?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54147496/1778270433?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-05T19:46:00Z",
           "embed_url": "https://www.svtplay.se/video/8LJJyaV/sportnytt/tis-5-maj-21-46",
           "play_mode": "page_iframe",
@@ -982,10 +982,10 @@
           "surface": "video",
           "source_kind": "video",
           "title": "Sportnytt – Mån 4 maj 21:46",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "summary": "IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8vvvLXD/sportnytt/man-4-maj-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54125263/1777925616?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54147490/1778270247?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-04T19:46:00Z",
           "embed_url": "https://www.svtplay.se/video/8vvvLXD/sportnytt/man-4-maj-21-46",
           "play_mode": "page_iframe",
@@ -1008,7 +1008,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 2 maj 19:45",
           "summary": "Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jkAAYab/sportnytt/lor-2-maj-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54118369/1777744428?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-02T17:45:00Z",
@@ -1033,7 +1033,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 1 maj 21:15",
           "summary": "Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KwqqE2x/sportnytt/fre-1-maj-21-15",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54117868/1777663871?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-01T19:15:00Z",
@@ -1058,7 +1058,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 30 apr 21:15",
           "summary": "Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KQrrbnX/sportnytt/tor-30-apr-21-15",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54116548/1777577147?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-04-30T19:15:00Z",
@@ -1083,7 +1083,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 29 apr 21:46",
           "summary": "Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/e5ddyoa/sportnytt/ons-29-apr-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54114004/1777532412?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-04-29T19:46:00Z",
@@ -1108,7 +1108,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 28 apr 21:46",
           "summary": "Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Lag Eriksson satsar vidare mot OS 2030 – utan Niklas Edin • Finalklart på damsidan i SM-slutspelet i handboll • Sveriges herrar vidare i lag-VM i bordtennis – men damerna utslagna Mer om programmet Viktor Gyökeres kan bli första svenska herrspelare i CL-final på 20 år • Svenska pingisherrarna till VM-åttondel • Premiäromgång i speedwayligan Mer om programmet IFK Göteborg krossat i Stockholm • Sveriges pingisdamer klara för VM-kvartsfinal • Niklas Edin avslutar karriären Mer om programmet Skellefteå vann femte SM-guldet • En titt i arkivet på Skellefteås tidigare guld • Inhopparen frälste serieledande Sirius i 91:a minuten Mer om programmet Felicia Schröder gjorde hattrick i Europacupfinalen • Kanonstart för svenska världsettorna i Brasilien • Carlssons Anaheim skickade ut fjolårsfinalisten ur Stanley Cup-slutspelet Mer om programmet Skellefteå skaffade matchboll i SM-finalen • Hemmaplan var medicinen för Borås Basket • Ellen Wangerheim om petningen i landslaget Mer om programmet Truls och landslaget redo för lag-VM • Hellvig och Åhman dominerade i Brasilia • Svenskduo bakom Arsenalkross. Mer om programmet Rögle blåste liv i finalserien – lagkaptenen avgjorde i sudden • Supertalangen med i skidskyttelandslaget • SOK behåller makten över OS-uttagningar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/j4ddZop/sportnytt/tis-28-apr-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54105265/1777407086?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-04-28T19:46:00Z",
@@ -1725,6 +1725,131 @@
           "sort_order": 0
         },
         {
+          "id": "8cbb03e1e025",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "This was ‘not peaceful and orderly’: Paul Mauro | Fox News Video",
+          "summary": "Fox News contributor Paul Mauro and former Miami Mayor Francis Suarez criticize NYC Mayor Zohran Mamdani's handling of anti-Israel protests and tax plans on ‘America Reports.’",
+          "body_text": "Fox News contributor Paul Mauro and former Miami Mayor Francis Suarez criticize NYC Mayor Zohran Mamdani's handling of anti-Israel protests and tax plans on ‘America Reports.’",
+          "url": "https://www.foxnews.com/video/6394999185112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93efd0d4-4261-4b95-9e77-ac6fc0d8294a/3cb6f43c-88d1-4712-8ab6-2592f936388b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-08T20:37:14Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394999185112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "8f61b3b410df",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "3 US war ships targeted by Iran face nonstop incoming fire | Fox News Video",
+          "summary": "Fox News chief national security correspondent Jennifer Griffin has the latest on the Middle East conflict amid peace talks on 'America Reports.'",
+          "body_text": "Fox News chief national security correspondent Jennifer Griffin has the latest on the Middle East conflict amid peace talks on 'America Reports.'",
+          "url": "https://www.foxnews.com/video/6394997105112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24d39452-77d7-48e1-9c4f-d5734e92c877/87ddac66-1d71-43b5-914c-815741a92e54/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-08T20:33:55Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394997105112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "54e81ace7676",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Iran is famous for violating agreements, former State Department official says | Fox News Video",
+          "summary": "Former State Department official Christian Whiton explains why the mantra for negotiations with Iran should be ‘mistrust and verify’ on ‘The Story.’",
+          "body_text": "Former State Department official Christian Whiton explains why the mantra for negotiations with Iran should be ‘mistrust and verify’ on ‘The Story.’",
+          "url": "https://www.foxnews.com/video/6394997385112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6720afbc-1f66-4ace-a5eb-8421ebe136d2/f7983843-e0fe-4932-baf7-dbb1104cde0b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-08T20:30:47Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394997385112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "86315b3a3eb2",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Bret Baier makes 'The Case for America' | Fox News Video",
+          "summary": "Fox News chief political anchor Bret Baier joins 'The Five' to discuss his new book.",
+          "body_text": "Fox News chief political anchor Bret Baier joins 'The Five' to discuss his new book.",
+          "url": "https://www.foxnews.com/video/6394997751112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a573b7b1-2d75-49c9-9035-8ad7dfe7cd11/cb24e9f5-44fe-4b4f-b090-0ea7ec0af7bf/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-08T20:21:37Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394997751112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "b31fc855f40d",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Wisconsin charity brings empowering impact to people with disabilities | Fox News Video",
+          "summary": "Mel’s Charities executive director Tom ‘Mel’ Stanton recalls the organization’s humble beginnings in a bowling alley on ‘Fox @ Friends First.’",
+          "body_text": "Mel’s Charities executive director Tom ‘Mel’ Stanton recalls the organization’s humble beginnings in a bowling alley on ‘Fox @ Friends First.’",
+          "url": "https://www.foxnews.com/video/6394998744112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3a68472-a393-45d8-b172-463284fa3ea4/0a65914c-ead3-47bd-ab0c-1668c871a27c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-08T20:10:34Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394998744112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
           "id": "e61faa2e8faa",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1747,32 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "5bb3549be2d8",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Iran is testing the limits of this ceasefire, former US special rep for Iran warns | Fox News Video",
-          "summary": "Former Iran special representative Brian Hook discusses potential next steps in the Middle East conflict as Trump seeks deal on 'America Reports.'",
-          "body_text": "Former Iran special representative Brian Hook discusses potential next steps in the Middle East conflict as Trump seeks deal on 'America Reports.'",
-          "url": "https://www.foxnews.com/video/6394994303112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6adfe477-05a3-42a3-aae4-c2e724768127/aab3ca30-83c3-4f24-b8d9-e4c5124d4b29/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-08T19:20:14Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394994303112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "7d1cad401f22",
@@ -1797,7 +1897,32 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 7
+        },
+        {
+          "id": "5bb3549be2d8",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Iran is testing the limits of this ceasefire, former US special rep for Iran warns | Fox News Video",
+          "summary": "Former Iran special representative Brian Hook discusses potential next steps in the Middle East conflict as Trump seeks deal on 'America Reports.'",
+          "body_text": "Former Iran special representative Brian Hook discusses potential next steps in the Middle East conflict as Trump seeks deal on 'America Reports.'",
+          "url": "https://www.foxnews.com/video/6394994303112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6adfe477-05a3-42a3-aae4-c2e724768127/aab3ca30-83c3-4f24-b8d9-e4c5124d4b29/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-08T19:20:14Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394994303112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "588e1d5935df",
@@ -1822,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 9
         },
         {
           "id": "c43e8a76a207",
@@ -1839,131 +1964,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/187a447f-bebc-4f2e-82ed-a8a2016fccec/f1972ec3-01c1-4a53-b95d-dafbab0ea44f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-08T19:10:53Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394990120112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "66e74c1d5cea",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "New York leaders try to stop wealth exodus as Dems push tax hikes | Fox News Video",
-          "summary": "New York leaders, including Mayor Zoran Mamdani and Governor Kathy Hochul, are concerned about billionaires and high-income earners leaving the state due to rising taxes.",
-          "body_text": "New York leaders, including Mayor Zoran Mamdani and Governor Kathy Hochul, are concerned about billionaires and high-income earners leaving the state due to rising taxes. New York leaders, including Mayor Zoran Mamdani and Governor Kathy Hochul, are facing a significant wealth exodus as Democratic tax policies escalate. Scott Singer, former Mayor of Boca Raton, Florida, highlights that high taxes in New York are causing job creators and capital to flee to states like Florida, where economic growth is valued over punitive taxation.",
-          "url": "https://www.foxnews.com/video/6394990259112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b893277-c98f-45ca-8959-97f0508306ec/72aee5dd-87cf-4f9c-941a-8b22c80de8cc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-08T18:29:53Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394990259112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "4c08a9a5738b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Russia reportedly planned to aid Iran with fiber-optic drones and training | Fox News Video",
-          "summary": "Former CIA Station Chief Dan Hoffman discusses a newly report exposing Russia's plan to supply Iran with 5,000 advanced fiber-optic drones and specialized training.",
-          "body_text": "Former CIA Station Chief Dan Hoffman discusses a newly report exposing Russia's plan to supply Iran with 5,000 advanced fiber-optic drones and specialized training.",
-          "url": "https://www.foxnews.com/video/6394988253112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/96d24395-725a-4ec8-83b8-417293f39890/adb87002-3354-4561-9d1c-73d0dbe242d5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-08T18:10:31Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394988253112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "3be3aaefaa96",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Virginia Supreme Court strikes down Democrats' redistricting plan | Fox News Video",
-          "summary": "Fox News' Mark Meredith provides details on the reaction to the Virginia Supreme Court's move to strike down Democrats' redistricting plan. 'Fox News Sunday' anchor Shannon Bream weighs in.",
-          "body_text": "Fox News' Mark Meredith provides details on the reaction to the Virginia Supreme Court's move to strike down Democrats' redistricting plan. 'Fox News Sunday' anchor Shannon Bream weighs in. The Virginia Supreme Court strikes down the Democrats' redistricting plan, overturning new congressional maps and dealing a blow to their midterm election hopes. Former President Donald Trump and former Governor Glenn Youngkin laud the ruling as a major victory. Virginia Governor Abigail Spanberger and House Minority Leader Hakeem Jeffries voice strong disappointment, vowing to explore options to challenge the court's decision.",
-          "url": "https://www.foxnews.com/video/6394987447112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d8e2bc6-fade-40c5-9a09-d39db18c703f/68d4c329-84fd-4c1c-991c-d50238d3524f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-08T18:01:02Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394987447112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "b78e072a666b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Obama slammed for claims on DOJ politicization | Fox News Video",
-          "summary": "Former Homeland Security spokeswoman Katie Zacharia examines former President Barack Obama's criticism of Justice Department politicization and President Donald Trump's influence in recent primary elections.",
-          "body_text": "Former Homeland Security spokeswoman Katie Zacharia examines former President Barack Obama's criticism of Justice Department politicization and President Donald Trump's influence in recent primary elections.",
-          "url": "https://www.foxnews.com/video/6394986630112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a49c88f-b173-481c-b5dc-04e3fac483e5/62d5234f-62ae-49c9-87ea-4bcf535280f5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-08T17:51:26Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394986630112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "fed097a0d2fe",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "CENTCOM releases video of US forces striking Iran-flagged tankers | Fox News Video",
-          "summary": "Chief national security correspondent Jennifer Griffin provides details on U.S. strikes on Iran-flagged tankers trying to evade the Strait of Hormuz blockade. Lt. Gen. Keith Kellogg (Ret.) joins 'The Faulkner Focus' to weigh in.",
-          "body_text": "Chief national security correspondent Jennifer Griffin provides details on U.S. strikes on Iran-flagged tankers trying to evade the Strait of Hormuz blockade. Lt. Gen. Keith Kellogg (Ret.) joins 'The Faulkner Focus' to weigh in. The US military launched strikes against Iranian military sites in the Strait of Hormuz after Iranian forces attacked US warships. President Donald Trump described these defensive actions as a 'love tap,' affirming the ceasefire and ongoing negotiations while CENTCOM released video of US forces disabling Iran-flagged tankers. General Jack Keane advocates for 'Operation Freedom' to secure the strategic strait.",
-          "url": "https://www.foxnews.com/video/6394984615112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2cfd294-e276-412d-9d6c-70743c52b6cb/bd7ea098-20a6-4b77-b596-418e3a026812/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-08T17:13:26Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6394984615112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2270,7 +2270,7 @@
           "source_kind": "mixed",
           "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
           "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
-          "body_text": "Donald Trump has announced a three day ceasefire between Russia and Ukraine, after both countries accused each other of violating separate ceasefires declared by each side to cover the celebrations of the Soviet Union's victory over Nazi Germany. \"This ceasefire will include a suspension of all kinetic activity, and also a prison swap of 1,000 prisoners from each country,\" the US president said. Shortly afterwards Ukraine's President Volodymyr Zelensky confirmed Ukraine's participation, while Russian state media also said Russia had agreed to the proposal. Earlier both sides said the other had continued to attack their positions and Moscow's mayor said the city had been targeted by drones overnight. In his post Trump said he had personally requested the three-day truce and \"I very much appreciate its agreement by President Vladimir Putin and President Volodymyr Zelenskyy\". Earlier, Putin had announced a ceasefire for 8-9 May ahead of Victory Day celebrations on Saturday. Kyiv had earlier called for an indefinite truce, starting 6 May. Russia has warned Ukraine not to try to attack the Victory Day parade in Red Square. Its defence ministry has threatened to launch a \"retaliatory, massive missile strike\" on the centre of Kyiv if Moscow is attacked. It has warned foreign diplomats to leave the Ukrainian capital ahead of 9 May. For the first time in nearly two decades there will be no military hardware at the parade, while the Russian capital is on high alert over the fears that Ukraine could try to disrupt the events. Residents of Moscow and St Petersburg have also been warned their mobile internet access will be limited for security reasons. The celebrations used to bring large numbers of foreign guests to Moscow, but this time only the leaders of Belarus, Malaysia and Laos, and a few other dignitaries, will attend. On Friday both sides accused the other of battlefield ceasefire violations. The Russian defence ministry said Ukraine was also striking civilian targets in border areas of the Kursk and Belgorod regions, close to the conflict zone. Russian armed forces provided a \"mirror response\" to the violations, the ministry added.",
+          "body_text": "Donald Trump has announced a three-day ceasefire between Russia and Ukraine, after both countries accused each other of violating separate ceasefires declared by each side to cover the celebrations of the Soviet Union's victory over Nazi Germany. \"This ceasefire will include a suspension of all kinetic activity, and also a prison swap of 1,000 prisoners from each country,\" the US president said. Shortly afterwards Ukraine's President Volodymyr Zelensky confirmed Ukraine's participation, while Russian state media also said Russia had agreed to the proposal. Earlier both sides said the other had continued to attack their positions and Moscow's mayor said the city had been targeted by drones overnight. In his post Trump said he had personally requested the three-day truce and \"I very much appreciate its agreement by President Vladimir Putin and President Volodymyr Zelenskyy\". Putin had announced a ceasefire for 8-9 May ahead of Victory Day celebrations on Saturday. Kyiv had earlier called for an indefinite truce, starting 6 May. Russia has warned Ukraine not to try to attack the Victory Day parade in Red Square. Its defence ministry has threatened to launch a \"retaliatory, massive missile strike\" on the centre of Kyiv if Moscow is attacked. It has warned foreign diplomats to leave the Ukrainian capital ahead of 9 May. For the first time in nearly two decades there will be no military hardware at the parade, while the Russian capital is on high alert over the fears that Ukraine could try to disrupt the events. Residents of Moscow and St Petersburg have also been warned their mobile internet access will be limited for security reasons. The celebrations used to bring large numbers of foreign guests to Moscow, but this time only the leaders of Belarus, Malaysia and Laos, and a few other dignitaries, will attend. On Friday both sides accused the other of battlefield ceasefire violations. The Russian defence ministry said Ukraine was also striking civilian targets in border areas of the Kursk and Belgorod regions, close to the conflict zone. Russian armed forces provided a \"mirror response\" to the violations, the ministry added.",
           "url": "https://www.bbc.com/news/articles/c202zn5gg0lo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2140/live/997dd690-4ad0-11f1-ac78-2112837ce2aa.jpg",
           "published_at": "2026-05-08T10:23:39Z",
@@ -3692,44 +3692,44 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "430d9b1e9426",
+          "id": "ed9e119c034d",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high | TechCrunch",
-          "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-          "body_text": "Cloudflare on Thursday joined a growing list of tech companies — including Meta, Microsoft, and Amazon — that have reported increased revenue alongside massive layoffs, attributing both trends to their use of AI. Cloudflare, which provides internet security and performance services to millions of websites worldwide, announced it was cutting its workforce by approximately 20%, which equates to 1,100 people, it said as part of its first quarter 2026 earnings report on Thursday. “We’ve never done something like this in Cloudflare’s history,” co-founder and CEO Matthew Prince said Thursday on the quarterly conference call, marking the first mass layoff in the company’s 16-year history. The company is cutting people from all teams and geographies except for salespeople who carry revenue quotas, CFO Thomas Seifert detailed on the call. The news of the workforce cuts came as the company reported quarterly revenues of $639.8 million, a 34% year-over-year increase and the highest single quarter in the company’s history. However, this was coupled with a loss of $62.0 million compared with losing $53.2 million in the year-ago quarter. That widening loss, even as revenue surged, highlights a familiar paradox in Cloudflare’s story: the company is growing fast but has yet to turn a consistent profit. But the loss was a smaller percentage of revenue, and the quarter was coupled with a lot of other positive indicators. For instance, Cloudflare reported that it had over $2.5 billion in “remaining performance obligations,” a year-over-year growth of 34%. RPO is the favorite metric these days to indicate revenue under contract but not yet delivered. Hence, Prince insisted, the 20% cuts were not to reduce expenses but were strictly because of its use of AI. “Today’s actions are not a cost-cutting exercise or an assessment of individuals’ performance; they are about Cloudflare defining how a world-class, high-growth company operates and creates value in the agentic AI era,” Prince and Cloudflare co-founder and president, Michelle Zatlyn, wrote in a related blog post about the layoffs. Prince acknowledged on the call that even though Cloudflare has been selling AI-powered products, it was at first cautious about adopting AI itself. “Internally, the tipping point was last November. At that point, across our teams, we began to see massive productivity gains, team members that were two, 10, even 100 times more productive than they had been before. It was like going from a manual to an electric screwdriver,” he described. “Cloudflare’s usage of AI has increased by more than 600% in the last three months alone,” he added. Prince highlighted the internal use of AI coding, saying that virtually the entire R&D team is now using the company’s own Workers platform — a tool that lets developers build and run software directly on Cloudflare’s global network — including its vibe coding feature. He also noted that 100% of the code produced this way and deployed for use in Cloudflare’s products is “now reviewed by autonomous AI agents.” But it’s not just developers who are using AI internally, he said. “Employees across the company from engineering to HR to finance to marketing run thousands of AI agent sessions each day to get their work done.”",
-          "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg?resize=1200,800",
-          "published_at": "2026-05-08T18:33:21Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg",
+          "title": "Prime Video follows Netflix and Disney by adding a TikTok-like 'Clips' feed in its app | TechCrunch",
+          "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
+          "body_text": "Amazon is adding a short-form video feed to the Prime Video app called “Clips,” the company announced on Friday. Rolling out first in the U.S., Clips will include…well, clips of shows on Prime Video that are designed to hook a viewer and get them to give the full show a try. From that clip, users can add a title to their watchlist, share it with a friend, or navigate to rent, buy, or access the title through their subscription. “Clips gives customers a whole new way to browse with short, personalized snippets tailored to their interests,” said Prime Video’s director of global application experiences, Brian Griffin, in a press release. “Whether they have a few minutes to scroll or are looking for something to watch when they have more time, entertainment is just a tap away.” Amazon first tested this short-form feed during the NBA season, showing highlights that users can scroll through as though they’re watching TikToks. It’s not a surprise to see Prime Video make this change — Netflix , Peacock , Tubi , Disney, and others have recently rolled out similar experiences, which are designed to promote discovery. Netflix’s short-form feed even shares the Clips name. Clips is first rolling out to select U.S. customers on iOS, Android, and Fire tablets, but it will be available more broadly this summer. Users can navigate to Clips by scrolling down on the Clips carousel on the Prime Video mobile home page, which will surface a full-screen vertical feed. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos. You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone. Hackers deface school login pages after claiming another Instructure hack Hackers steal students’ data during breach at education tech giant Instructure",
+          "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/prime-video.webp?resize=1200,675",
+          "published_at": "2026-05-08T20:50:03Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/prime-video.webp",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
             "Tech",
             "TechCrunch"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 0
         },
         {
-          "id": "d03b34039277",
+          "id": "be27dd67aaed",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul | TechCrunch",
-          "summary": "More than 500 people will be affected by the closures.",
-          "body_text": "Porsche is closing three of its subsidiaries as it copes with falling sales and declining profits, the German automaker announced Friday. The automaker’s battery subsidiary, Cellforce Group , is perhaps the highest-profile casualty. The division had already been through a “realignment” in August after Porsche dropped plans to make its own batteries, turning Cellforce into a research and development arm. Now, Porsche says it’s pursuing a “technology-open powertrain strategy” — corporate-speak that indicates the automaker will rely more heavily on other companies for its batteries. Porsche eBike Performance, which made e-bike drive systems , and Cetitec, a networking software subsidiary that served both Porsche and the wider Volkswagen Group, will also be shut down. More than 500 people, who are employed at the three subsidiaries, will lose their jobs. “We must refocus on our core business,” Porsche CEO and Executive Chair Michael Leiters said in a statement . “This is the indispensable foundation for a successful strategic realignment. This forces us to make painful cuts — including our subsidiaries.” It’s a message that Leiters, who became CEO early this year, first delivered in March when the company announced plans to realign its business. “We will comprehensively reposition Porsche, make the company leaner, faster and the products even more desirable,” he said at the time. Since then, Porsche has extracted itself from several endeavors, including an agreement reached in April to sell its equity stakes in Bugatti Rimac and Rimac Group to a consortium led by New York-based investment firm HOF Capital. Porsche’s electrification efforts got off to a strong start with the Taycan in 2019, but the company soon ran into trouble developing follow-on EVs. The Macan Electric was delayed by nearly two years as software development within Volkswagen’s Cariad division lagged behind expectations. The entire company has suffered declining sales in key markets, including North America, where sales fell 11%, and China, where deliveries were off 21% in the first quarter of this year. European sales were also down 18%, though they rose slightly in Germany. Porsche has blamed EV adoption for its woes, though the company’s continued poor performance in China, where electric vehicles have claimed more than half the market , suggests that consumer acceptance of EVs may not be the root cause. The closure of Cellforce captures the change of fortunes for Porsche’s EV program. The German automaker had originally started the subsidiary to develop and manufacture batteries that would distinguish its EVs from other companies. “The battery cell is the combustion chamber of the future,” Oliver Blume said in 2022 when he chaired Porsche’s executive board.",
-          "url": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/Porsche-electric-macan-Getty.jpg?resize=1200,801",
-          "published_at": "2026-05-08T18:25:29Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/08/Porsche-electric-macan-Getty.jpg",
+          "title": "Intel's comeback story is even wilder than it seems | TechCrunch",
+          "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+          "body_text": "Bloomberg has a deep dive this week into how Intel CEO Lip-Bu Tan is trying to rescue one of Silicon Valley’s most storied, and stumbling, chipmakers. It’s worth a read, but it actually undersells the most jaw-dropping part of the story: Intel’s stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company’s actual turnaround. Tan, who took over in March of last year , has spent much of his first year schmoozing rather than restructuring — locking in a sweetheart deal with the U.S. government (now Intel’s third-largest shareholder), cozying up to Elon Musk on a factory partnership , and reportedly landing preliminary manufacturing agreements with both Apple and Tesla. The fundamentals are still messy. Intel’s chip yields lag well behind industry leader TSMC, and employees tell Bloomberg that Tan has been light on specifics internally, with some teams adjusting missed deadlines rather than recovering from them. But investors are betting big on the bigger picture. Whether the execution follows is the multi-billion-dollar question. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/HFTb6BbbcAANe5y-e1775584097859.jpeg?w=597",
+          "published_at": "2026-05-08T20:02:52Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/04/HFTb6BbbcAANe5y-e1775584097859.jpeg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3740,20 +3740,20 @@
           "sort_order": 1
         },
         {
-          "id": "5b737a374c9f",
+          "id": "430d9b1e9426",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Mother Ventures is looking at moms as the 'economic engine' | TechCrunch",
-          "summary": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
-          "body_text": "As families across the U.S. prepare to celebrate Mother’s Day this Sunday, Allison Stern is looking beyond the single day of appreciation. Stern just closed $10 million in commitments for her debut early-stage fund, Mother Ventures , which focuses exclusively on the mother as a consumer. “In the U.S., moms are responsible for 85% of household purchases and have $2.4 trillion in spending power,” Stern (pictured below) told TechCrunch. “The numbers say that moms are the buyers, and they really are a very unique economic engine.” Stern, a mother of two, is tapping into that spending clout by backing startups that reflect the needs of modern mothers. Since launching Mother Ventures two years ago, she has already deployed $4 million into 13 startups. Her portfolio includes Coral Care, which allows instant booking of pediatric specialists for children with developmental delays, and Tin Can, a popular Wi-Fi-enabled “landline” designed as a retro-style phone for kids. Before launching her own fund, she co-founded Tubular Labs, a social video analytics startup she helped grow to $25 million in annual recurring revenue prior to its 2023 acquisition by private equity, and served as an operating partner at The Chernin Group (TCG), a consumer-focused growth equity firm. Part of TCG’s investment thesis included backing companies serving “overlooked unique audiences with spending power,” such as Barstool Sports, which originally targeted Boston sports fans, she said. When Stern set out to launch her own fund, she identified mothers as a similarly underserved market with the potential to deliver superior returns. “I felt like motherhood is the ultimate niche that’s not really a niche,” she said, Stern convinced Tony James, the former president and COO of Blackstone and current board chair of Costco, to back Mother Ventures as an anchor LP. Other backers of the fund include Jessica Rolph, founder of the child development startup Lovevery, as well as female executives from Netflix, Rent the Runway, and Sesame Street, she said. She argues that millennial and Gen Z mothers expect a different set of products, from on-demand transportation services such as Zum, to ready-meal delivery from DoorDash, and fintech tools like Greenlight that allow parents to instantly fund a child’s debit card. “We want healthy things. We want subscription things. We want digital communities,” she said. However, Stern doesn’t want her fund to be perceived as one that invests only in parenting tech. “It’s a consumer fund, and focus on the mom as the consumer allows us to be wider in our bets,” she said. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.",
-          "url": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1041147560.jpg?resize=1200,800",
-          "published_at": "2026-05-08T17:46:08Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1041147560.jpg",
+          "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high | TechCrunch",
+          "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+          "body_text": "Cloudflare on Thursday joined a growing list of tech companies — including Meta, Microsoft, and Amazon — that have reported increased revenue alongside massive layoffs, attributing both trends to their use of AI. Cloudflare, which provides internet security and performance services to millions of websites worldwide, announced it was cutting its workforce by approximately 20%, which equates to 1,100 people, it said as part of its first quarter 2026 earnings report on Thursday. “We’ve never done something like this in Cloudflare’s history,” co-founder and CEO Matthew Prince said Thursday on the quarterly conference call, marking the first mass layoff in the company’s 16-year history. The company is cutting people from all teams and geographies except for salespeople who carry revenue quotas, CFO Thomas Seifert detailed on the call. The news of the workforce cuts came as the company reported quarterly revenues of $639.8 million, a 34% year-over-year increase and the highest single quarter in the company’s history. However, this was coupled with a loss of $62.0 million compared with losing $53.2 million in the year-ago quarter. That widening loss, even as revenue surged, highlights a familiar paradox in Cloudflare’s story: the company is growing fast but has yet to turn a consistent profit. But the loss was a smaller percentage of revenue, and the quarter was coupled with a lot of other positive indicators. For instance, Cloudflare reported that it had over $2.5 billion in “remaining performance obligations,” a year-over-year growth of 34%. RPO is the favorite metric these days to indicate revenue under contract but not yet delivered. Hence, Prince insisted, the 20% cuts were not to reduce expenses but were strictly because of its use of AI. “Today’s actions are not a cost-cutting exercise or an assessment of individuals’ performance; they are about Cloudflare defining how a world-class, high-growth company operates and creates value in the agentic AI era,” Prince and Cloudflare co-founder and president, Michelle Zatlyn, wrote in a related blog post about the layoffs. Prince acknowledged on the call that even though Cloudflare has been selling AI-powered products, it was at first cautious about adopting AI itself. “Internally, the tipping point was last November. At that point, across our teams, we began to see massive productivity gains, team members that were two, 10, even 100 times more productive than they had been before. It was like going from a manual to an electric screwdriver,” he described. “Cloudflare’s usage of AI has increased by more than 600% in the last three months alone,” he added. Prince highlighted the internal use of AI coding, saying that virtually the entire R&D team is now using the company’s own Workers platform — a tool that lets developers build and run software directly on Cloudflare’s global network — including its vibe coding feature. He also noted that 100% of the code produced this way and deployed for use in Cloudflare’s products is “now reviewed by autonomous AI agents.” But it’s not just developers who are using AI internally, he said. “Employees across the company from engineering to HR to finance to marketing run thousands of AI agent sessions each day to get their work done.”",
+          "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg?resize=1200,800",
+          "published_at": "2026-05-08T18:33:21Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3820,7 +3820,7 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Lime, the Uber-backed micromobility company, files for IPO | TechCrunch",
-          "summary": "After years of hints and preparation, Lime plans to enter the public markets.",
+          "summary": "After years of hints and preparation, Lime plans to enter the public markets. The company intends to list on ​Nasdaq under the ticker symbol \"LIME.\" Lime did not share terms of the offering.",
           "body_text": "After years of hints and preparation, the Uber-backed electric bike and scooter rental startup Lime has filed for an initial public offering. The company, which is incorporated as Neutron Holdings, Inc., has eyed the public markets for at least five years. CEO Wayne Ting last spoke to TechCrunch in 2023 about the prospect of an IPO, noting at the time that Lime had the economics, the growth, and the profitability to take the startup public. All that was required was proper market conditions. The company intends to list on ​Nasdaq under the ticker symbol “LIME.” Lime did not share terms of the offering, which was filed Friday with the U.S. Securities and Exchange Commission. Lime’s IPO filing shows a company with growing revenue, but not yet profitability. The company generated $521 million in revenue in 2023, $686.6 million in 2024, and $886.7 million last year. Its net losses were $122.3 million in 2023, but that line item has narrowed the past two years. Lime reported net losses of $33.9 million in 2024 and $59.3 million in 2025. Lime also reported it had free cash flow the past three years; its free cash flow was $104 million in 2025, nearly double from the previous year due to an increase in cash provided by operating activities. And yet, the company has a significant amount of debt. Lime reported around $1 billion in current liabilities in the filing. Roughly $846 million of that is due 12 months from now. About $675.8 million is due by the end of 2026. The company wrote that it does not have “sufficient liquidity” to pay that. (Lime reported having $261 million in cash on March 31, 2026.) As a result, the company warned investors that it has “substantial doubt” that it can continue as a going concern, and that it needs to go public to raise funds to pay that debt — or find other sources of financing. Lime, which was founded in 2017, has deep ties to Uber. The ride-hailing and delivery giant led Lime’s $170 million funding round in 2020. As part of that deal, Lime acquired Jump , the electric bike and scooter division that Uber bought back in 2018 for around $200 million. After the acquisition Jump’s name disappeared and its assets were absorbed by Lime. In the years since, Lime has integrated more closely with Uber. The acquisition also propelled Lime’s expansion. The company, which lets users rent scooters and e-bikes through its app, is now in 230 cities and 29 countries. Lime’s relationship with Uber has also been a steady tailwind for the business. Under its exclusive relationship, Lime vehicles are featured as a ride option within the Uber app in nearly all of its shared markets. A chunk of Lime’s revenue — about 14.3% last year — came through its partnership with Uber, the SEC document shows. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone. Hackers deface school login pages after claiming another Instructure hack",
           "url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1233317109.jpg?resize=1200,800",
@@ -3945,7 +3945,7 @@
       "source_kind": "story",
       "live_section": false,
       "status": "ok",
-      "article_count": 10,
+      "article_count": 9,
       "priority_split": 0,
       "articles": [
         {
@@ -4045,30 +4045,6 @@
           "sort_order": 3
         },
         {
-          "id": "2f24f379b594",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "One of Nintendo’s top designers says he always wanted a tool like Super Mario Maker",
-          "summary": "Takashi Tezuka has worked on nearly every Mario game, from Super Mario Bros. on the NES to Super Mario Run on the iPhone, and he says he always wished he had a creation tool like Super Mario Maker 2 for the Nintendo Switch.",
-          "body_text": "When Takashi Tezuka served as assistant director on the very first Super Mario Bros. for the NES, creating levels was a laborious, time-consuming process. First, a designer would sketch out their vision for a level on graph paper. Then they would bring the drawing to a programmer, who would try to translate it into the actual game. This process would happen multiple times, as the team adjusted each stage to get them just right. “That cycle really took a long time,” Tezuka explains. It’s a far cry from his most recent project where Tezuka served as producer on Super Mario Maker 2 for the Nintendo Switch, which launches today. Like its predecessor, it’s more of a tool than a game, an intuitive and playful way for players to craft their own 2D Super Mario levels and share them with others online. Players can create obstacles and then test them out in seconds, and it’s all done via the Switch’s touchscreen. It’s the kind of tool that Tezuka would’ve killed for when he was designing games in the early 1980s. “I’m always thinking about that,” he says with a laugh. [Image: Takashi Tezuka (in red, to the left of Mario) at E3 in 2014. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16352305/450474374.jpg.jpg?quality=90&strip=all] Despite its current status as the Switch’s big summer release, Super Mario Maker didn’t actually start life as a commercial product. Instead, it began as an experimental prototype within Nintendo’s tools team, who were trying to make it easier and faster for designers to put together 2D Mario levels. As soon as he saw the prototype, Tezuka — who started at Nintendo in 1984, and has worked on nearly every Super Mario game, serving as director on everything from Super Mario World on the SNES to the mobile Super Mario Run — realized that it could be something much bigger. Not only was the tool intuitive, it was also a blast to play. (When asked if that internal tool still exists for making Nintendo games, Tezuka says “it’s actually a secret.”) --- [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16677343/Switch_SMM2_E3_screen_05.jpg?quality=90&strip=all] Read next: Super Mario Maker 2 review --- The first Super Mario Maker launched on the Wii U in 2015, and it almost immediately spawned a dedicated audience of would-be level designers. Users created everything from punishing death traps to inventive levels that used goombas and piranha plants to tell a story. Tezuka distinctly remembers seeing someone make a working calculator in the game, and he was always impressed by the automated levels, Rube Goldberg-style contraptions that pushed players along without any input. “We knew that those types of courses were possible,” he says, “but seeing the specific shapes they took, and the lengths that people went to to make them, it really took us by surprise.” For the sequel, there were a number of elements that didn’t make it into the first game that the team wanted to revisit on the Switch. One was online multiplayer play, and another was a more robust story mode that offers more than 100 pre-built levels to play from. There are, of course, new building blocks for budding designers, and Nintendo also added a very detailed series of lessons on game design, covering everything from specific mechanics to philosophies on game difficulty. It’s so in-depth, in fact, that Tezuka occasionally wondered if it was okay to give away so much of the company’s “course-making secret recipe.” [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16681103/Switch_SuperMarioMaker2_ND0213_SCRN09.jpg?quality=90&strip=all] For the sequel, the team also had the advantage of being able to observe the community from the original game, and use that data to shape the changes for Super Mario Maker 2. “As developers, we are always keeping an eye on what people are doing and the courses they’re making,” Tezuka says. “We take that in and it inevitably becomes a part of what goes into the game’s development. I think it’s probably safe to say that the biggest way it influences us is just being reminded of the fun of creation.” Without getting into specifics, Tezuka says that many of the changes for the sequel involve quality-of-life updates, in particular ensuring “that the environment we’ve created for people to create courses and play courses in is one they feel comfortable in, one they feel safe in.” --- [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7606125/akrales_161207_1310_A_0200.0.jpeg?quality=90&strip=all] “Super Mario Run is going to introduce millions of more people to the fun of Mario.” - Mario creator Shigeru Miyamoto on bringing the series to iPhone --- There have been more than 20 mainline Super Mario titles released over the years, and Tezuka believes that the enduring appeal of 2D Mario games comes down to their accessibility. “They’re immediately easy to understand,” he explains. “They’re simple: you see it and you know what you need to do, you know where you need to go. And so many, many people are able to understand and play those games right away.” Meanwhile, for Tezuka himself, who has spent decades with Nintendo’s block-hopping plumber, you might think he would get bored working on the same series for long. But he says that he’s constantly inspired by advances in hardware: whenever he learns about the next Nintendo platform in development, it always gives him new game ideas. That could be anything from the advent of 3D graphics that led to Super Mario 64, or the touchscreen-centric controls that shaped Super Mario Run. “I really enjoy that kind of challenge each time,” he says.",
-          "url": "https://www.theverge.com/2019/6/28/18759918/super-mario-maker-2-nintendo-switch-takashi-tezuka-interview",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16681099/Switch_SuperMarioMaker2_char_artwork_copy.jpg?quality=90&strip=all&crop=0,1.7003914909674,100,96.599217018065",
-          "published_at": "2019-06-28T12:30:00Z",
-          "embed_url": "https://www.theverge.com/2019/6/28/18759918/super-mario-maker-2-nintendo-switch-takashi-tezuka-interview",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
           "id": "0eea0ea357a9",
           "source_id": "theverge-latest",
           "source_name": "The Verge",
@@ -4090,7 +4066,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 4
         },
         {
           "id": "0a139fb92cab",
@@ -4114,7 +4090,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 5
         },
         {
           "id": "adc2623c5597",
@@ -4138,7 +4114,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 6
         },
         {
           "id": "d684d4cf3615",
@@ -4162,7 +4138,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 7
         },
         {
           "id": "129b1b123c63",
@@ -4186,7 +4162,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 8
         }
       ]
     },
@@ -4311,6 +4287,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "3e5f7d45d49e",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Kusliga tricket vid Trumps bord innan skotten",
+          "summary": "Sekunderna innan skotten ljöd och panik utbröt i salen syntes mentalisten Oz Pearlman visa en lapp som gav Melania Trump en chockartad min.",
+          "body_text": "Sekunderna innan skotten ljöd och panik utbröt i salen syntes mentalisten Oz Pearlman visa en lapp som gav Melania Trump en chockartad min. Nu visar det sig att han spått vilket namn som pressekreteraren Karoline Leavitts ofödda bebis skulle få – och prickat rätt så när som på någon bokstav. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den årliga middagen för Vita husets korrespondenter i Washington DC den 25 april slutade i kaos. Den beväpnade läraren Cole Allen, 31, gjorde en tjurrusning förbi metallbågen på hotellet The Washington Hilton innan han kunde avväpnas och brottas ner av överrumplade Secret Service-agenter. Nu misstänks han för mordförsök på president Donald Trump. Men ett videoklipp som visar sekunderna innan paniken utbröt bland deltagarna har väckt stor uppmärksamhet. I det syns mentalisten Oz Pearlman, en tidigare börsmäklare på Wall Street, röra sig vid presidentparets bord uppe på scenen. Han visar sedan upp en lapp för Vita husets pressekreterare Karoline Leavitt som tycks ge Melania Trump en chock. Weijia Jiang, korrespondent för CBC News, reagerar med vidöppen mun. Sedan utbröt tumult när agenter från Secret Service stormade scenen. – Jag åkte ner väldigt snabbt. Och sedan förde Secret Service ner president Trump: Jag skulle säga väldigt effektivt – men ganska våldsamt, berättade Oz Pearlman för BBC efteråt.",
+          "url": "https://www.expressen.se/nyheter/varlden/kusliga-tricket-vid-trumps--bord-innan-skotten/",
+          "image_url": "https://static.bonniernews.se/images/57/ac/57ac9950344f427f8b2894631db0c097/16x9/original.png",
+          "published_at": "2026-05-08T20:38:30Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/kusliga-tricket-vid-trumps--bord-innan-skotten/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "5ef23dc455ae",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4332,7 +4332,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "dfb3d1bff00b",
@@ -4356,7 +4356,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "b632297aa16e",
@@ -4380,7 +4380,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "dadd9a931535",
@@ -4404,7 +4404,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "6aa559d0252f",
@@ -4428,7 +4428,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "e76f433aa078",
@@ -4452,7 +4452,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "2dfc0655cdac",
@@ -4476,7 +4476,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "176ace431ca8",
@@ -4486,12 +4486,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Orden som förbjuds inom Moderaterna: ”Säg inte”",
-          "summary": "På Sverigemötet lär Moderaterna ut vilka ord förtroendevalda ska säga och inte säga. Moderater ska bland annat undvika orden ”Tidö”, ”pensionärer”, och ”buset”, enligt en intern lista som Expressen tagit del av.",
-          "body_text": "På Sverigemötet lär Moderaterna ut vilka ord förtroendevalda ska säga och inte säga. Moderater ska bland annat undvika orden ”Tidö”, ”pensionärer”, och ”buset”, enligt en intern lista som Expressen tagit del av. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Just nu samlas över 2 000 moderater i Stockholm för att traggla strategier och budskap som ska leda till valvinst i höst. Man lägger ett stort fokus på budskapsdisciplin och att använda korrekta termer. På en intern bingobricka står det ”budskapsdisciplin = valseger” tillsammans med budskap som ”ansträngning ska löna sig” och ”vi har börjat få ordning på Sverige”. Och enligt en ordlista ska moderater helt undvika flera känsliga begrepp och ord. Moderater som vill följa partiets instruktioner ska undvika ord som ”rödgrön röra” för att beskriva oppositionen och i stället säga ”vänsterpartierna” eller ”vänstersidan”. Kriminella och brottslingar får inte kallas ”buset” och seniorer får inte kallas ”pensionärer”. Och kollegerna i de andra partierna ska inte benämnas som ”Tidö” eller ”Tidöregeringen” utan ”samarbetspartierna”. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "title": "Politik Idag 17.42 Orden som förbjuds inom M: ”Säg inte”",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/politik/orden-som-forbjuds-inom-m-sag-inte/",
-          "image_url": "https://static.bonniernews.se/images/18/a1/18a1bb68c1ca4c4192c81da5b7b79fe4/16x9/original.jpg",
-          "published_at": "2026-05-08T15:42:22Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/politik/orden-som-forbjuds-inom-m-sag-inte/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4499,8 +4499,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "ffa5d77eecdf",
@@ -4517,30 +4517,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/skot-sig-sjalv-i--vapenbunkern/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "62ece64c1242",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Krim Idag 16.23 Mohammad Heidarzadeh, 38, döms till livstids fängelse för mord i hovrätten",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/krim/mohammad-heidarzadeh-38-doms-till-livstids-fangelse-for-mord/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/krim/mohammad-heidarzadeh-38-doms-till-livstids-fangelse-for-mord/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
