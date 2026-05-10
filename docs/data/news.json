@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T19:36:24Z",
+  "generated_at": "2026-05-10T20:26:01Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -259,7 +259,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 ”Gör mig mer orolig” • Små möjligheter till kompromiss Putins dolda väg gynnar Iran – ”geopolitiskt svart hål” Iran hotar brittiska och franska militärfartyg USA:s hälsominister i front • Barn upp till tio år som löper den största risken Därför skapar rosa mjölk hysteri runt om i landet Många passagerare har flugits hem från Teneriffa under söndagen Virusexperten sågar soptippsteorin: ”Det är orimligt”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 ”Gör mig mer orolig” • Små möjligheter till kompromiss Trumps om Irans svar på fredsförslag: ”Totalt oacceptabelt” Putins dolda väg gynnar Iran – ”geopolitiskt svart hål” Iran hotar brittiska och franska militärfartyg Bolaget Anthropic skriver avtal i USA – men lämnar EU utanför USA:s hälsominister i front • Barn upp till tio år som löper den största risken Därför skapar rosa mjölk hysteri runt om i landet",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -376,7 +376,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 8 maj 23:10 4 min 44 sek Publicerades: Fre 8 maj 09:30 2 min 56 sek Publicerades: Fre 8 maj 08:30 2 min 59 sek Publicerades: Fre 8 maj 07:30 3 min 2 sek",
           "url": "https://www.svtplay.se/video/8EqqPQ2/rapport/ikvall-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54149281/1778440946?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-10T16:00:00Z",
+          "published_at": "2026-05-10T19:00:00Z",
           "embed_url": "https://www.svtplay.se/video/8EqqPQ2/rapport/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -1799,6 +1799,56 @@
           "sort_order": 0
         },
         {
+          "id": "44f1ef4990c1",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Vanderbilt University chancellor warns schools are too political | Fox News Video",
+          "summary": "Vanderbilt University chancellor Daniel Diermeier criticizes schools for prioritizing political activism over education on 'Fox News Live.'",
+          "body_text": "Vanderbilt University chancellor Daniel Diermeier criticizes schools for prioritizing political activism over education on 'Fox News Live.'",
+          "url": "https://www.foxnews.com/video/6395159893112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fca60cf-3f2c-4e1c-a127-cd621552bd95/1b2ef515-4d07-4fbd-922a-9d508362091d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T19:58:59Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395159893112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "24dd5140c602",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Candace Cameron Bure discusses faith, Hollywood, and America Reads the Bible | Fox News Video",
+          "summary": "Actress Candace Cameron Bure opens up about her deep faith journey and the impact of the Bible on her life on 'Fox News Sunday.'",
+          "body_text": "Actress Candace Cameron Bure opens up about her deep faith journey and the impact of the Bible on her life on 'Fox News Sunday.'",
+          "url": "https://www.foxnews.com/video/6395159845112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbf7264e-d12a-43ae-b8da-59c67f23f88e/c6f18687-7135-4a1d-b606-d9a4262f1ca2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T19:36:24Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395159845112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "6ed7706645ef",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1821,7 +1871,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "1c5d2a999b25",
@@ -1846,7 +1896,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "7a5144c075cd",
@@ -1871,7 +1921,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "79eefac9d211",
@@ -1896,7 +1946,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "a82f7247755a",
@@ -1921,7 +1971,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "e2adbc98a86d",
@@ -1946,7 +1996,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "cb18712396d3",
@@ -1971,7 +2021,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "c0d7858e3926",
@@ -1988,56 +2038,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ae76ff0-e4ac-437c-9306-7d731bab163e/823519ff-81ad-445f-b8f1-b82f2d268cbb/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-10T17:24:47Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395152854112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "e247264909bc",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Iran reportedly responds to latest US peace proposal | Fox News Video",
-          "summary": "Editor-in-chief of 'The Foreign Desk' Lisa Daftari provides her analysis of an Iranian response to the latest U.S. peace proposal on 'Fox News Live'",
-          "body_text": "Editor-in-chief of 'The Foreign Desk' Lisa Daftari provides her analysis of an Iranian response to the latest U.S. peace proposal on 'Fox News Live'",
-          "url": "https://www.foxnews.com/video/6395150787112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a8cc706-aeb0-40f5-a259-9dde63e99ffd/8cec472e-da6a-481e-a769-b8e986b112df/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T17:20:23Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395150787112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 9
-        },
-        {
-          "id": "da99c54b73c4",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "California’s alleged billion-dollar migrant healthcare spending under scrutiny | Fox News Video",
-          "summary": "California Republican gubernatorial candidate Steve Hilton discusses the state’s spending on healthcare for migrants and his plans to improve affordability on ‘Sunday Morning Futures.’",
-          "body_text": "California Republican gubernatorial candidate Steve Hilton discusses the state’s spending on healthcare for migrants and his plans to improve affordability on ‘Sunday Morning Futures.’",
-          "url": "https://www.foxnews.com/video/6395152751112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ede65f8c-94f9-46e0-a05f-980fca156daa/58504d5b-8fb3-4d7a-9521-9afa08ceb18f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T17:18:00Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395152751112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2124,6 +2124,31 @@
           "sort_order": 13
         },
         {
+          "id": "24c62338299f",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "The Sunday Briefing - Sunday, May 10 | Fox News Video",
+          "summary": "china, iran ceasefire, motherhood",
+          "body_text": "china, iran ceasefire, motherhood",
+          "url": "https://www.foxnews.com/video/6395160782112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/657b102f-ef69-428d-854f-05ebc6ac2cda/18c115da-b279-42eb-9bcc-6e22dae1f038/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-05-10T19:43:10Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395160782112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "f6c5e371322e",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2138,31 +2163,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/ac711147-4c65-4872-99ad-aa9e2b85190a/9de68cae-fa77-43d0-b81f-78adfd3e4eb2/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-05-10T07:53:45Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395126298112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "612749f31e74",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "My View With Lara Trump - Saturday, May 9 | Fox News Video",
-          "summary": "Freedom Train, Markwayne Mullin, Hantavirus",
-          "body_text": "Freedom Train, Markwayne Mullin, Hantavirus in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
-          "url": "https://www.foxnews.com/video/6395124987112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/3283d245-95fc-4564-be44-13d59955ce78/3bff3804-23a6-49d2-8be3-3f11b79cf4f8/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-10T06:59:37Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395124987112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2191,6 +2191,78 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "66efa9c04a7f",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Argentinian tourism hotspot denies causing hantavirus outbreak",
+          "summary": "The BBC visits the city of Ushuaia, where heath officials have been sent to investigate the origins of the outbreak.",
+          "body_text": "As Argentina's southernmost city, Ushuaia has long enjoyed its reputation as 'The End of the World' and as a gateway for trips both to Antarctica and for tourists to explore the dramatic, natural beauty of Patagonia. But in recent days it has been grappling with a different kind of fame, one that has cast a shadow over local businesses and officials: the suggestion it could be 'ground zero' for the hantavirus outbreak on the Dutch vessel MV Hondius. The cruise ship, which is anchored in Tenerife in Spain's Canary Islands where passengers are being evacuated and flown home, began its journey on 1 April more than 6,000 miles away in Ushuaia, in the province of Tierra del Fuego. On board were 114 passengers and 61 crew members from 22 countries. While the virus is believed to have come aboard there, its precise origin - and the identity of those carrying it - remains unclear. That uncertainty has fuelled intense speculation in parts of the media. One theory suggests a passenger may have been infected at a landfill site on the outskirts of Ushuaia, where tourists often visit to watch birds and where waste attracts rats and mice. Argentinian officials who spoke anonymously to some news outlets have said that is their leading hypothesis. That suggestion, however, has not been well received locally. \"In Tierra del Fuego we have no record of hantavirus cases in our history,\" Juan Facundo Petrina, the province's Director General of Epidemiology and Environmental Health, said. \"And specifically, since 1996 - when the National Surveillance System included it among mandatory reporting diseases - we haven't had a single case in Tierra del Fuego.\" Petrina, who took on his position in 2021 during the coronavirus pandemic, has repeated this point in every press conference and interview he has given in recent days. He has stressed that his province is an unlikely source of the infection and that the endemic zone for hantavirus lies more than 1,500km (930 miles) to the north. \"To begin with, we do not have the subspecies of the long-tailed mouse [which transmits the disease], nor do we share the same climatic conditions as northern Patagonia - neither in humidity nor temperature - for its development,\" he said. \"And if rodents were to start moving, since they don't respect geographical boundaries, it's important to remember that we are an island.",
+          "url": "https://www.bbc.com/news/articles/cx21ej471g2o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d0a1/live/6c6df4a0-4cab-11f1-9636-e7c2e7de8f87.jpg",
+          "published_at": "2026-05-10T20:05:53Z",
+          "embed_url": "https://www.bbc.com/news/articles/cx21ej471g2o",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "f2e1fd17ba3d",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+          "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+          "body_text": "Mohammed Asasa had only just returned home after burying his 80-year-old father Hussein when several children ran into the house shouting, \"the settlers are digging up the grave!\" In the small village of Asasa, near Jenin in the West Bank, from which the family patriarch took his name, Hussein had been a highly regarded figure before his death last Friday from natural causes. In keeping with Islamic custom, the old man – a former livestock trader and father of 10 children – was laid to rest in a simple plot in the graveyard, on a small hill on the other side of the village from the family home. Anxious to make sure there would be no problems, Mohammed said he'd even sought the permission of a nearby Israeli military base to allow his father's funeral to proceed. Less than half an hour later, Mohammed and his brothers were back at the entrance to the site, aghast as a group of Jewish settlers - some of them armed - were hacking away at the newly laid grave with heavy hand tools. After initially trying to negotiate with the settlers, Mohammed rushed up to the grave just as they were about to break through a slab which was all that remained between them and his father's remains. \"They were on the point of reaching the body,\" said Mohammed. \"I'm sure they were about to remove it, so we had to make a decision there and then.\" The settlers were from a recently reestablished settlement called Sa-Nur, situated on top of the hill above the cemetery. Although all settlements on Palestinian land are illegal under international law, the government of Benjamin Netanyahu recently allowed Sa-Nur to be re-occupied, as part of its highly controversial decision to expand and create new settlements in the occupied Palestinian West Bank. Mobile phone footage shows family members having to then dig up the grave themselves after settlers - armed with automatic rifles - warned them: \"Either you exhume the body or we'll do it.\" They claimed the burial site was too close to their settlement. More images showed how Mohammed and his brothers then carried the shrouded body of their late father away from the cemetery and down the hill to relative safety under the watchful gaze of the settlers. The Israeli army later said it had intervened to confiscate digging tools from the settlers and to avoid further tension.",
+          "url": "https://www.bbc.com/news/articles/cjrpnjpl39po",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/94a2/live/3d1d1dc0-4ca1-11f1-a52e-37ef6facf99b.jpg",
+          "published_at": "2026-05-10T19:56:45Z",
+          "embed_url": "https://www.bbc.com/news/articles/cjrpnjpl39po",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "421d433301d1",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "French national from hantavirus cruise ship shows symptoms during airlift",
+          "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+          "body_text": "A passenger of a cruise ship that was struck by an outbreak of hantavirus has shown symptoms of the disease while being repatriated to France, the country's prime minister has said. Sebastian Lecornu said the French national developed symptoms while on a chartered flight from Tenerife to Paris, and so all five evacuated from the MV Hondius had been \"immediately placed in strict isolation until further notice\". The French citizens are among more than 90 tourists to be ferried home from the Dutch vessel on Sunday , which anchored off the Canary Islands before dawn. Three passengers have died after travelling on the ship, two of whom were confirmed to have had the virus. After the French flight touched down at Le Bourget Airport, officials wearing personal protective equipment (PPE) could be seen meeting them on the tarmac. Ambulances then took them to the Bichat hospital in the French capital. There, they will be quarantined for 72 hours and given a full assessment, before being sent home to self-isolate for 45 days, France's Ministry for Europe and Foreign Affairs said in a statement. Fourteen Spanish nationals flown from Tenerife to Madrid now face mandatory quarantine at a military hospital in the Spanish capital. British nationals have been flown back to Manchester . None of Britons have reported symptoms but are being monitored, the UK Health Security Agency (UKHSA) said. A plane carrying 26 passengers and crew - including eight Dutch nationals - has arrived in the Netherlands Flights for Turkish, Irish and US citizens are also scheduled on Sunday. Spain's Health Secretary Javier Padilla said more than 90 of the 150 passengers and crew of the Hondius will have been sent home by the end of Sunday. A flight to Australia is expected on Monday. The cruise ship dropped anchor in the port of Granadilla earlier on Sunday, and medical teams went aboard at around 07:00 local time (06:00 GMT).",
+          "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a28c/live/532e8af0-4ca5-11f1-a52e-37ef6facf99b.jpg",
+          "published_at": "2026-05-10T19:43:57Z",
+          "embed_url": "https://www.bbc.com/news/articles/c3r2p70jdy7o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "e3c7e0822003",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2212,7 +2284,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "80df4f7b53c0",
@@ -2236,7 +2308,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "86b598f53138",
@@ -2260,7 +2332,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "0586046631dc",
@@ -2284,7 +2356,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "1262d93b157f",
@@ -2308,7 +2380,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "c23b4467c106",
@@ -2332,31 +2404,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "b43a3a3be85d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
-          "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
-          "body_text": "More than 90 of the passengers of a hantavirus-stricken cruise ship will have been evacuated and flown home from the Canary Islands by the end of Sunday, Spain has said. Fourteen Spanish nationals flown from Tenerife to Madrid face mandatory quarantine at a military hospital in the capital. They were followed by French and British nationals, who were taken to Paris and Manchester, respectively. Staff involved in the operation in Tenerife pulled white hazmat suits over the evacuees' clothes and hosed them down on the airport tarmac. Three people have died in the outbreak on the Dutch vessel MV Hondius, including two who were confirmed to have had hantavirus. Flights for Turkish, Irish and US citizens are also scheduled on Sunday - leaving fewer than 60 passengers still aboard, according to Spain's health secretary Javier Padilla. The MV Hondius pulled into the port of Granadilla before dawn on Sunday, a month after the first of its passenger died. The sun rose to reveal it had anchored offshore, with military police boats on patrol and a major operation unfolding on land to help more than 100 passengers and crew disembark. At about 07:00 local time (06:00 GMT), medical teams went aboard to check everyone for signs of the virus. Passengers could be seen from afar wandering around on the deck of the ship, or at the windows, all in white medical face masks, as the first evacuations took place on Sunday morning. Several sat socially distanced on the first evacuation boat, filming and taking photos as they approached land, where they were met by officials in white protective suits. While being couriered to the airport, some British passengers - clad in blue PPE - waved and gave thumbs up as they drove past the assembled media. They were followed by 27 people - including Belgian, Greek, German and Argentine citizens - being taken to the Netherlands, and then the ship's Irish and Turkish passengers.",
-          "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/de71/live/72122540-4c81-11f1-bd52-e755d604ece4.jpg",
-          "published_at": "2026-05-10T01:08:51Z",
-          "embed_url": "https://www.bbc.com/news/articles/cn7pzmg8zeno",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "734234686247",
@@ -2380,7 +2428,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "2c67d7f98477",
@@ -2399,54 +2447,6 @@
           "embed_url": "https://www.bbc.com/news/articles/cqxp4959nwro",
           "play_mode": "page_iframe",
           "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "8952028ba855",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Iran demands guarantees for World Cup participation",
-          "summary": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
-          "body_text": "Iran has indicated it will take part in this summer's football World Cup, but has demanded a series of guarantees from Fifa and the tournament's hosts amid growing tensions surrounding the team's participation. The Iranian Football Federation (FFIRI) said Iran would compete at the tournament \"without any retreat from our beliefs, culture and convictions\", while insisting the hosts \"must take our concerns into account\". The demands come after FFIRI president Mehdi Taj was denied entry to Canada before last month's Fifa Congress. Taj later revealed Iran had presented Fifa with 10 conditions for participation at the World Cup, which begins on 11 June in the United States, Mexico and Canada. Among the demands published in a statement on Saturday are guarantees that all players, coaches and officials travelling with the team will receive visas, including those who completed military service with Iran's Islamic Revolutionary Guard Corps (IRGC). The group is listed as a terrorist organisation in Canada and the US, and Mehdi Taj's links to it were cited as a reason he was denied entry into Canada. Iran is also seeking assurances over the treatment of the national team, including respect for the Iranian flag and national anthem, as well as enhanced security at airports, hotels and stadiums during the tournament. Some of the requests are likely to prove easier for Fifa to influence than others. Fifa can help oversee tournament logistics, official protocols and the treatment of participating delegations during the competition itself. But questions involving visas, border controls and security vetting ultimately remain under US jurisdiction rather than Fifa regulations. US Secretary of State Marco Rubio has already stated that Iranian footballers would be welcome at the tournament, while warning that individuals with links to the IRGC could still face restrictions on entering the United States. That leaves Fifa facing a delicate balancing act between ensuring the participation of all qualified teams and navigating the political realities surrounding relations between Tehran and Washington.",
-          "url": "https://www.bbc.com/news/articles/ckgpxg03v57o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e585/live/5868f720-4bd4-11f1-8b92-b11ec3175073.jpg",
-          "published_at": "2026-05-09T18:44:01Z",
-          "embed_url": "https://www.bbc.com/news/articles/ckgpxg03v57o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "61cbd70f6ee7",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Vladimir Putin's pared-back Victory Day parade felt very different this year",
-          "summary": "The BBC's Russia editor reports from a Red Square with none of the military hardware which the Kremlin normally showcases to project power internationally.",
-          "body_text": "I've attended many Victory Day parades on Red Square. This year's version felt very different. In previous years I've had to sprint from the media bus that normally parks up by St Basil's Cathedral, in order to nab a decent spot in the press area at the side of the square. No running was required this year. There were far fewer journalists at the event. Many international media organisations had not been granted access. Once I was in position on Red Square, a Russian TV crew came up to me and started filming. \"Steve, you're proof that foreign media have been allowed in,\" beamed the reporter. \"Not really,\" I replied. \"I can't see any others.\" I was glad to be there, though. To see for myself what Victory Parade 2026 would look like. As well as fewer journalists, there were fewer guests in the stands, and fewer world leaders had flown in for the spectacle. But the biggest difference became evident once the parade got under way. There were no tanks, no rocket launchers, no intercontinental ballistic missiles on display - none of the military hardware which the Kremlin normally showcases on Victory Day to project Russian military power on the international stage. That's because this year's parade had been scaled back (hence fewer guests and fewer journalists). The authorities had cited security concerns, fearing Ukraine might target Red Square with drones.",
-          "url": "https://www.bbc.com/news/articles/cj9pem481rwo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e423/live/00160610-4c3f-11f1-b55d-0f258dce1735.png",
-          "published_at": "2026-05-09T17:25:53Z",
-          "embed_url": "https://www.bbc.com/news/articles/cj9pem481rwo",
-          "play_mode": "iframe",
-          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -2636,7 +2636,7 @@
           "body_text": "Barcelona recibe a Real Madrid por la jornada 35 de LaLiga en el estadio Camp Nou, este domingo 10 de mayo del 2026. En una nueva edición de El Clásico, ‘Blaugranas’ y Madridistas pasan por diferentes momentos, el equipo de Hansi Flick se encuentra a una victoria de gritar campeón, mientras que los comandado por Álvaro Arbeloa, en una crisis debido a la pelea que hubo en la semana entre Aurélien Tchouaméni y Federico Valverde. Con todos estos condimentos se disputará un nuevo clásico español. Aquí te mostramos dónde ver el partido ONLINE y qué canal transmite El Clásico EN DIRECTO. El partido de Barcelona vs Real Madrid se transmitirá a través de DirecTV Sports y DGO para todo el Perú y Sudamérica por la fecha 35 de LaLiga EA Sports. Por otro lado, en España, será televisado a través de Movistar LaLiga y Movistar+. Luego, en México, la transmisión del partido va a través de Sky Sports. Y en Estados Unidos, los canales que pasan el partido son: ESPN Deportes, ESPN Select, fuboTV y ESPN App. El Clásico, Barcelona vs Real Madrid por la jornada 35 de LaLiga empieza a las 2:00 PM de Perú y 9:00 PM de España este domingo 10 de mayo del 2026 en el estadio Camp Nou. El clásico, Barcelona vs Real Madrid en Perú será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en España será transmitido por Movistar LaLiga en televisión por cable y a través de la plataforma de streaming Movistar+ y LaLiga TV Bar por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en México será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming izzi por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Colombia será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Argentina será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Chile será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Ecuador será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Venezuela será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Bolivia será transmitido por Tigo Sports en televisión por cable y a través de la plataforma de streaming TiGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Uruguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Paraguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Costa Rica será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Honduras será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Guatemala será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Puerto Rico será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en El Salvador será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Panamá será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Nicaragua será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Estados Unidos será transmitido por ESPN, ESPN Select y ESPN Deportes en televisión por cable y a través de la plataforma de streaming fuboTV por la jornada 35 de LaLiga.",
           "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-real-madrid-hoy-en-vivo-horarios-y-que-canal-tv-transmite-el-clascio-online-por-laliga-noticia/",
           "image_url": "https://i.ytimg.com/vi/YHdr6fgUtEA/hqdefault.jpg",
-          "published_at": "2026-05-10T19:20:20Z",
+          "published_at": "2026-05-10T20:03:37Z",
           "embed_url": "https://cdn.jwplayer.com/videos/RtP64WHS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -2913,7 +2913,7 @@
           "body_text": "Barcelona recibe a Real Madrid por la jornada 35 de LaLiga en el estadio Camp Nou, este domingo 10 de mayo del 2026. En una nueva edición de El Clásico, ‘Blaugranas’ y Madridistas pasan por diferentes momentos, el equipo de Hansi Flick se encuentra a una victoria de gritar campeón, mientras que los comandado por Álvaro Arbeloa, en una crisis debido a la pelea que hubo en la semana entre Aurélien Tchouaméni y Federico Valverde. Con todos estos condimentos se disputará un nuevo clásico español. Aquí te mostramos dónde ver el partido ONLINE y qué canal transmite El Clásico EN DIRECTO. El partido de Barcelona vs Real Madrid se transmitirá a través de DirecTV Sports y DGO para todo el Perú y Sudamérica por la fecha 35 de LaLiga EA Sports. Por otro lado, en España, será televisado a través de Movistar LaLiga y Movistar+. Luego, en México, la transmisión del partido va a través de Sky Sports. Y en Estados Unidos, los canales que pasan el partido son: ESPN Deportes, ESPN Select, fuboTV y ESPN App. El Clásico, Barcelona vs Real Madrid por la jornada 35 de LaLiga empieza a las 2:00 PM de Perú y 9:00 PM de España este domingo 10 de mayo del 2026 en el estadio Camp Nou. El clásico, Barcelona vs Real Madrid en Perú será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en España será transmitido por Movistar LaLiga en televisión por cable y a través de la plataforma de streaming Movistar+ y LaLiga TV Bar por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en México será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming izzi por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Colombia será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Argentina será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Chile será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Ecuador será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Venezuela será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Bolivia será transmitido por Tigo Sports en televisión por cable y a través de la plataforma de streaming TiGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Uruguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Paraguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Costa Rica será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Honduras será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Guatemala será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Puerto Rico será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en El Salvador será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Panamá será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Nicaragua será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Estados Unidos será transmitido por ESPN, ESPN Select y ESPN Deportes en televisión por cable y a través de la plataforma de streaming fuboTV por la jornada 35 de LaLiga.",
           "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-real-madrid-hoy-en-vivo-horarios-y-que-canal-tv-transmite-el-clascio-online-por-laliga-noticia/",
           "image_url": "https://i.ytimg.com/vi/YHdr6fgUtEA/hqdefault.jpg",
-          "published_at": "2026-05-10T19:20:20Z",
+          "published_at": "2026-05-10T20:03:37Z",
           "embed_url": "https://cdn.jwplayer.com/videos/RtP64WHS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3190,7 +3190,7 @@
           "body_text": "Barcelona recibe a Real Madrid por la jornada 35 de LaLiga en el estadio Camp Nou, este domingo 10 de mayo del 2026. En una nueva edición de El Clásico, ‘Blaugranas’ y Madridistas pasan por diferentes momentos, el equipo de Hansi Flick se encuentra a una victoria de gritar campeón, mientras que los comandado por Álvaro Arbeloa, en una crisis debido a la pelea que hubo en la semana entre Aurélien Tchouaméni y Federico Valverde. Con todos estos condimentos se disputará un nuevo clásico español. Aquí te mostramos dónde ver el partido ONLINE y qué canal transmite El Clásico EN DIRECTO. El partido de Barcelona vs Real Madrid se transmitirá a través de DirecTV Sports y DGO para todo el Perú y Sudamérica por la fecha 35 de LaLiga EA Sports. Por otro lado, en España, será televisado a través de Movistar LaLiga y Movistar+. Luego, en México, la transmisión del partido va a través de Sky Sports. Y en Estados Unidos, los canales que pasan el partido son: ESPN Deportes, ESPN Select, fuboTV y ESPN App. El Clásico, Barcelona vs Real Madrid por la jornada 35 de LaLiga empieza a las 2:00 PM de Perú y 9:00 PM de España este domingo 10 de mayo del 2026 en el estadio Camp Nou. El clásico, Barcelona vs Real Madrid en Perú será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en España será transmitido por Movistar LaLiga en televisión por cable y a través de la plataforma de streaming Movistar+ y LaLiga TV Bar por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en México será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming izzi por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Colombia será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Argentina será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Chile será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Ecuador será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Venezuela será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Bolivia será transmitido por Tigo Sports en televisión por cable y a través de la plataforma de streaming TiGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Uruguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Paraguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Costa Rica será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Honduras será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Guatemala será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Puerto Rico será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en El Salvador será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Panamá será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Nicaragua será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Estados Unidos será transmitido por ESPN, ESPN Select y ESPN Deportes en televisión por cable y a través de la plataforma de streaming fuboTV por la jornada 35 de LaLiga.",
           "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-real-madrid-hoy-en-vivo-horarios-y-que-canal-tv-transmite-el-clascio-online-por-laliga-noticia/",
           "image_url": "https://i.ytimg.com/vi/YHdr6fgUtEA/hqdefault.jpg",
-          "published_at": "2026-05-10T19:20:20Z",
+          "published_at": "2026-05-10T20:03:37Z",
           "embed_url": "https://cdn.jwplayer.com/videos/RtP64WHS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3467,7 +3467,7 @@
           "body_text": "Barcelona recibe a Real Madrid por la jornada 35 de LaLiga en el estadio Camp Nou, este domingo 10 de mayo del 2026. En una nueva edición de El Clásico, ‘Blaugranas’ y Madridistas pasan por diferentes momentos, el equipo de Hansi Flick se encuentra a una victoria de gritar campeón, mientras que los comandado por Álvaro Arbeloa, en una crisis debido a la pelea que hubo en la semana entre Aurélien Tchouaméni y Federico Valverde. Con todos estos condimentos se disputará un nuevo clásico español. Aquí te mostramos dónde ver el partido ONLINE y qué canal transmite El Clásico EN DIRECTO. El partido de Barcelona vs Real Madrid se transmitirá a través de DirecTV Sports y DGO para todo el Perú y Sudamérica por la fecha 35 de LaLiga EA Sports. Por otro lado, en España, será televisado a través de Movistar LaLiga y Movistar+. Luego, en México, la transmisión del partido va a través de Sky Sports. Y en Estados Unidos, los canales que pasan el partido son: ESPN Deportes, ESPN Select, fuboTV y ESPN App. El Clásico, Barcelona vs Real Madrid por la jornada 35 de LaLiga empieza a las 2:00 PM de Perú y 9:00 PM de España este domingo 10 de mayo del 2026 en el estadio Camp Nou. El clásico, Barcelona vs Real Madrid en Perú será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en España será transmitido por Movistar LaLiga en televisión por cable y a través de la plataforma de streaming Movistar+ y LaLiga TV Bar por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en México será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming izzi por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Colombia será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Argentina será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Chile será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Ecuador será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Venezuela será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Bolivia será transmitido por Tigo Sports en televisión por cable y a través de la plataforma de streaming TiGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Uruguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Paraguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Costa Rica será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Honduras será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Guatemala será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Puerto Rico será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en El Salvador será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Panamá será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Nicaragua será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Estados Unidos será transmitido por ESPN, ESPN Select y ESPN Deportes en televisión por cable y a través de la plataforma de streaming fuboTV por la jornada 35 de LaLiga.",
           "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-real-madrid-hoy-en-vivo-horarios-y-que-canal-tv-transmite-el-clascio-online-por-laliga-noticia/",
           "image_url": "https://i.ytimg.com/vi/YHdr6fgUtEA/hqdefault.jpg",
-          "published_at": "2026-05-10T19:20:20Z",
+          "published_at": "2026-05-10T20:03:37Z",
           "embed_url": "https://cdn.jwplayer.com/videos/RtP64WHS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -4385,6 +4385,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "2082c0d701d2",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Därför gjorde Iran mordfilm om Palme",
+          "summary": "Efter Expressens uppmärksammande av Irans legovideor med Palmemordet och Folke Bernadotte svarar nu ambassaden.",
+          "body_text": "Efter Expressens uppmärksammande av Irans legovideor med Palmemordet och Folke Bernadotte svarar nu ambassaden. ”De är djupt ärade av oss eftersom de som ägnar sitt liv åt sina principer förtjänar att kommas ihåg och respekteras”, skriver de i ett mejlsvar. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Sedan USA och Israel gick till krig mot Iran den 28 februari har iranska ambassader över hela världen postat AI-videor. Videorna med legoliknande figurer är ofta hånfullt humoristiska, våldsamma och har udden riktad mot Donald Trump och hans administration. I flera av dem förekommer den avlidne pedofilmiljardären Jeffrey Epstein och Israels premiärminister Benjamin Netanyahu som skildras som de riktiga makthavarna bakom Trump. Under maj har dock Irans ambassad i Sverige, belägen på Lidingö norr om Stockholm, publicerat videoklipp som skildrar morden på statsminister Olof Palme och diplomaten Folke Bernadotte. ”För det första, figurer som Folke Bernadotte, Olof Palme, och andra respekterade svenska statsmän är djupt ärade av oss eftersom de som ägnar sitt liv åt sina principer förtjänar att kommas ihåg och respekteras”, skriver ambassaden och fortsätter: ”För det andra, utöver deras namn är det deras ideal som betyder mest. Genom att ladda upp dem (videoklippen) försökte vi klargöra att vi är emot apartheid, kärnvapen, nazibrott mot mänskligheten, inklusive brott mot judar och krigsbrott i alla former”. Ambassaden uppger även att syftet var att ”återuppliva värderingar som vi tror fortsätter vara väldigt relevanta i dag, bland dem finns: Att bygga fred, mänsklig värdighet och Sveriges historiska åtagande till mänskliga rättigheter och så vidare. Relationen mellan Sverige och regimen i Teheran har under de senaste åren nått en historisk bottennivå. Uppgifter från israeliska säkerhetstjänsten Mossad och svenska Säpo gör gällande att gängledaren Rawa Majid skyddas i Iran. Och därifrån kan fortsätta beordra mord och smuggla narkotika i utbyte mot att han beställer attentat mot israeliska intressen i Sverige och andra länder. Under fångväxlingen 2024 släppte Sverige Hamid Noury, som i svensk domstol dömts till livstid för grovt folkrättsbrott och mord i Iran 1988. I utbyte släppte Iran den svenska EU-tjänstemannen Johan Floderus och svensk-iraniern Saeed Azizi från iranskt fängelse. Den svensk-iranske KI-forskaren Ahmadreza Djalali, 54, är dock fortsatt fängslad i iranska Evinfängelset där han drabbats av hjärtinfarkt och är svårt sjuk.",
+          "url": "https://www.expressen.se/nyheter/sverige/irans-svar-om--legofilmen-pa--palmemordet/",
+          "image_url": "https://static.bonniernews.se/images/9a/25/9a25aabc1c464bb5b5f18b2dd8f43f98/16x9/original.png",
+          "published_at": "2026-05-10T19:49:44Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/irans-svar-om--legofilmen-pa--palmemordet/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "d6af99a43e62",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4406,7 +4430,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "3ebb7639c0de",
@@ -4430,7 +4454,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "f9ed4efc4355",
@@ -4454,7 +4478,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "d70de64b0c89",
@@ -4478,7 +4502,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "a27a94404e26",
@@ -4502,7 +4526,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "eeece6dd7c5f",
@@ -4526,7 +4550,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "82a8610e260b",
@@ -4550,7 +4574,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "6a593c606761",
@@ -4560,12 +4584,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Skogsbrand – SMHI varnar",
-          "summary": "Det brinner på flera platser runtom i Sverige. Utanför Gävle brinner det i ett större område. Räddningstjänsten har inte branden under kontroll, enligt Gefle Dagblad.",
-          "body_text": "Det brinner på flera platser runtom i Sverige. Utanför Gävle brinner det i ett större område. Räddningstjänsten har inte branden under kontroll, enligt Gefle Dagblad . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Utanför Gävle har det sedan morgonen varit en större skogsbrand, enligt Gefle Dagblad. Räddningstjänsten säger till tidningen att den är 25 hektar stor och att de bland annat jobbar med en helikopter på platsen. – Det är absolut inte under kontroll, men det går framåt, säger Jonas Eriksson, larm- och ledningsbefäl till tidningen. I Fårhult utanför Västervik rasar just nu en skogsbrand. Larmet kom in runt 12.45 och upptäcktes av ett brandflyg som patrullerade i närområdet. – De såg den på långt avstånd. Vi är framme på plats och försöker bilda oss en uppfattning. Initiala uppgifter är att det en är minst 100 gånger 100 meter stort, säger en ledningsoperatör på räddningstjänsten. Räddningstjänsten håller i nuläget på att bilda sig en uppfattning om branden och flera resurser är på väg till platsen. SMHI har utfärdat varningar för gräsbränder i östra Götaland och östra Svealand och även Gävleborgs län. På grund av det rådande läget har man ett brandflyg som är ute och patrullerar för att upptäcka bränder. Strax efter klockan 14 har räddningstjänsten i Västervik lyckats omringa branden men det finns fortsatt risk för spridning. – Vi har påbörjat släckningsarbetet. Väldigt jobbig terräng att jobba i och kraftig vind, säger en ledningsoperatör på räddningstjänsten.",
+          "title": "Sverige Idag 14.30 Terrängbrand utanför Västervik",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/terrangbrand-utanfor-vastervik/",
-          "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
-          "published_at": "2026-05-10T11:34:48Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/terrangbrand-utanfor-vastervik/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4573,8 +4597,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "c4b59c8b035b",
@@ -4591,30 +4615,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/forsta-gas-tankern-genom-hormuz-experten-viktigt-signalvarde/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "dea1be3f073f",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen Idag 13.52 Diktatorns nya hot efter Irankriget: Atombomber",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/diktatorns-nya-hot-efter-irankriget-atombomber/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/diktatorns-nya-hot-efter-irankriget-atombomber/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
