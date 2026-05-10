@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T14:04:54Z",
+  "generated_at": "2026-05-10T15:16:40Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -259,7 +259,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Rutten i skuggan av kriget • Utmanar USA:s blockad Efter virusutbrottet på kryssningsfartyget – fler kan vara på väg Virusfartyget evakueras – första passagerarna har gått i land Virusexperten sågar soptippsteorin: ”Det är orimligt” Kriminologen om sanningshalten • Varnar: Kan hända igen Gripen efter selfie – så lever männen bakom Trustorhärvan i dag",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Rutten i skuggan av kriget • Utmanar USA:s blockad Tips för ett långt och lyckat äktenskap • ”Hon frågar alltid hur jag mår” Kriminologen om sanningshalten • Varnar: Kan hända igen Gripen efter selfie – så lever männen bakom Trustorhärvan i dag",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -364,6 +364,31 @@
           "sort_order": 0
         },
         {
+          "id": "d7e416730ff3",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 8 maj 23:10 4 min 44 sek Publicerades: Fre 8 maj 09:30 2 min 56 sek Publicerades: Fre 8 maj 08:30 2 min 59 sek Publicerades: Fre 8 maj 07:30 3 min 2 sek",
+          "url": "https://www.svtplay.se/video/8LJJLqB/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54148072/1778422442?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-10T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8LJJLqB/rapport/idag-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "17f36bf1f5e2",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -386,7 +411,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "9b5a0b4e6a73",
@@ -403,31 +428,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54145531/1778226306?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-10T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/84dm7gW/rapport/fre-8-maj-09-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "d7e416730ff3",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 16:00",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 8 maj 23:10 4 min 44 sek Publicerades: Fre 8 maj 09:30 2 min 56 sek Publicerades: Fre 8 maj 08:30 2 min 59 sek Publicerades: Fre 8 maj 07:30 3 min 2 sek",
-          "url": "https://www.svtplay.se/video/8LJJLqB/rapport/idag-16-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-10T14:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8LJJLqB/rapport/idag-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1799,6 +1799,106 @@
           "sort_order": 0
         },
         {
+          "id": "625b15c5b027",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Mexican Senator Tellez slams government's alleged cartel ties, refusal to extradite officials | Fox News Video",
+          "summary": "Mexican Senator Lilly Tellez discusses U.S. charges against Mexican officials tied to the Sinaloa cartel for fentanyl trafficking.",
+          "body_text": "Mexican Senator Lilly Tellez discusses U.S. charges against Mexican officials tied to the Sinaloa cartel for fentanyl trafficking. Mexican Senator Lilly Tellez discusses the indictment of a Sinaloa governor and nine officials for alleged fentanyl trafficking. She blasts President Claudia Sheinbaum's refusal to extradite, asserting Mexico operates as a 'narco-state.' Tellez warns of deep corruption and the dire implications for bilateral relations and border security.",
+          "url": "https://www.foxnews.com/video/6395143036112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61e413a3-7eb8-4316-b7ca-1783a337da48/de49b7c8-4d4a-45f5-b8f0-a0dc85ddad89/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T14:57:25Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395143036112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "025418c4f70a",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Expert examines top health trends for Wellness Week | Fox News Video",
+          "summary": "Fox News senior medical analyst Dr. Marc Siegel discusses health trends like walking and supplements on ‘Fox & Friends Weekend.’",
+          "body_text": "Fox News senior medical analyst Dr. Marc Siegel discusses health trends like walking and supplements on ‘Fox & Friends Weekend.’",
+          "url": "https://www.foxnews.com/video/6395143868112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79861f1e-706d-4bdd-859e-e8c9e07878d6/f7de5c72-f156-4637-84b5-5f8f424728b3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T14:47:24Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395143868112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "939644f1d748",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Democrat rep says Trump is ‘terribly weakened’ ahead of Xi meeting | Fox News Video",
+          "summary": "Sen. Jack Reed, D-R.I., discusses the impact of the Iran conflict on U.S. global standing and President Donald Trump’s upcoming meeting with Chinese President Xi Jinping on ‘Fox News Sunday.’",
+          "body_text": "Sen. Jack Reed, D-R.I., discusses the impact of the Iran conflict on U.S. global standing and President Donald Trump’s upcoming meeting with Chinese President Xi Jinping on ‘Fox News Sunday.’",
+          "url": "https://www.foxnews.com/video/6395141769112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c55f6a3-3a95-4152-b4e2-6c0dabd0c5aa/d883aaa3-11ec-4893-94eb-c050dd6fa782/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T14:39:36Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395141769112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "7248f64efdb7",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Mike Waltz: Iran has showed its 'true colors' amid conflict with US | Fox News Video",
+          "summary": "Ambassador Mike Waltz joins 'Fox News Sunday' to discuss the ongoing conflict between the U.S. and Iran. He also comments on President Donald Trump's upcoming trip to China and the potential economic impact of the visit.",
+          "body_text": "Ambassador Mike Waltz joins 'Fox News Sunday' to discuss the ongoing conflict between the U.S. and Iran. He also comments on President Donald Trump's upcoming trip to China and the potential economic impact of the visit.",
+          "url": "https://www.foxnews.com/video/6395142469112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0dc802f-c8a4-4357-a0f2-a1d88a6e49d3/acb00818-020f-47e7-ac98-0a5ff53950c4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T14:15:47Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395142469112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
           "id": "8c2d059a1983",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1821,7 +1921,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 5
         },
         {
           "id": "d72231ccb7eb",
@@ -1846,7 +1946,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "98b3711121f7",
@@ -1871,7 +1971,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 7
         },
         {
           "id": "3a9cfa0e4dc3",
@@ -1896,7 +1996,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 8
         },
         {
           "id": "c1983a1bd44f",
@@ -1921,7 +2021,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 9
         },
         {
           "id": "80ba418b5730",
@@ -1946,106 +2046,6 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "440fc5ba045f",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Jimmy Failla: If you don't have a good mom, you grow up to do a lot of weird stuff | Fox News Video",
-          "summary": "Fox News host Jimmy Failla digs into Mother's Day in the Big Apple, activism that literally rings a bell and more on 'Fox News Saturday Night.'",
-          "body_text": "Fox News host Jimmy Failla digs into Mother's Day in the Big Apple, activism that literally rings a bell and more on 'Fox News Saturday Night.'",
-          "url": "https://www.foxnews.com/video/6395111047112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1e4b0b-3df6-41c2-b900-b65e3bc65dec/9842665c-2b85-4072-8182-1c930ca31e05/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T02:59:43Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395111047112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "ec554864b7f1",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "MMA fighters prep for UFC Freedom 250 | Fox News Video",
-          "summary": "Mixed martial artists Michael Chandler and Bo Nickal preview the UFC Freedom 250 fight set to take place in front of the White House on 'My View with Lara Trump.'",
-          "body_text": "Mixed martial artists Michael Chandler and Bo Nickal preview the UFC Freedom 250 fight set to take place in front of the White House on 'My View with Lara Trump.'",
-          "url": "https://www.foxnews.com/video/6395107122112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3721072-a258-4109-b9de-c5db54f7959a/3eafb40f-53b2-4172-beea-0fb9d5f3788e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T02:16:17Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395107122112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "350cd9926de1",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Lara Trump rides the Freedom 250 train with Transportation Secretary Sean Duffy | Fox News Video",
-          "summary": "Transportation Secretary Sean Duffy rides the Freedom 250 Acela train and discusses reinvigorating the country's transportation system on 'My View with Lara Trump.'",
-          "body_text": "Transportation Secretary Sean Duffy rides the Freedom 250 Acela train and discusses reinvigorating the country's transportation system on 'My View with Lara Trump.'",
-          "url": "https://www.foxnews.com/video/6395103552112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08307864-0c7f-4976-a568-c4c0e083c407/5deeae64-e15c-402d-8a53-535c07c866c1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T01:44:54Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395103552112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "cbbfb418c0c0",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Lara Trump: The passion to protect and serve runs deep in our country | Fox News Video",
-          "summary": "Fox News host Lara Trump praises law enforcement and decries leftists who demonize those who live to protect on 'My View.'",
-          "body_text": "Fox News host Lara Trump praises law enforcement and decries leftists who demonize those who live to protect on 'My View.'",
-          "url": "https://www.foxnews.com/video/6395104095112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fb4f2e0-28ec-4d3f-8672-60a46bfbe554/20bde012-440b-4652-bd8b-6c958e52fa4d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T01:31:51Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395104095112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
           "sort_order": 10
         },
         {
@@ -2191,6 +2191,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "e3c7e0822003",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "AMVCA 2026: All the film stars and fashionistas who stole the show at Africa Magic Viewers' Choice Awards",
+          "summary": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
+          "body_text": "It is often described as Africa's biggest night in film and fashion. Celebrities, filmmakers and creators arrived at the 12th edition of the Africa Magic Viewers' Choice Awards (AMVCA) in Nigeria with dramatic trains, sculptural gowns, shimmering fabrics and heavily theatrical designs that once again transformed the event from an awards show into a spectacle of style. Held at the Eko Hotel and Suites in Lagos, the annual ceremony celebrates achievements in African film, television and digital storytelling, while also serving as one of the continent's biggest cultural showcases where celebrities compete for being best-dressed, as much as they do for awards. This year's carpet leaned fully into an excessive display of fashion. Several celebrities walked in with entourages helping carry over-sized outfits through crowds of photographers and screaming fans. Here's a look at some of the most talked-about appearances and moments from the night. Reality TV star Queen Mercy Atang arrived in one of the evening's most attention-grabbing looks, a dress, she said, was made from more than 500 loaves of bread. Surrounded by two maidens carrying trays of bread, several assistants helping carry the outfit across the carpet, Atang struggled to move freely. Speaking to the BBC, she said the outfit was designed to promote her bread-baking business and insisted the appearance was intentional marketing rather than shock value. \"What other place is better to advertise my business than the AMVCA?\" she said. The dress was designed by the iconic Toyin Lawan of Tiannah's Empire, who commented on Instagram that she's beginning a trend of \"everyone wear your business\". The look immediately became one of the night's biggest social media talking points.",
+          "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7630/live/58f310a0-4c82-11f1-b55d-0f258dce1735.jpg",
+          "published_at": "2026-05-10T14:29:45Z",
+          "embed_url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "80df4f7b53c0",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2199,10 +2223,10 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "Iran warns against complying with US blockade as Gulf attacks reported",
-          "summary": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks.",
-          "body_text": "Iran has warned its Gulf neighbours that complying with US sanctions would lead to their ships face difficulties crossing the Strait of Hormuz. Military spokesman Mohammad Akraminia said vessels passing through the vital trade route would face \"severe consequences\" if they did not co-operate with Tehran first, Iran's state-run news agency IRNA reported. Meanwhile, a commercial vessel has been hit by an unknown projectile off the coast of Qatar, and both the United Arab Emirates and Kuwait have reported foiled drone attacks. The incidents come two days after a clash between Iran and US naval destroyers trying to enforce a blockade of Iranian ports. US President Donald Trump has insisted a ceasefire reached last month remained in place , while Iran says is considering a White House proposal to end the war. Akraminia said in his warning to regional states on Sunday: \"The Americans will never be able to turn this vast expanse in the northern Indian Ocean into a real blockade by covering it with their fleet.\" He added: \"Our maritime trade continues to flow smoothly.\" Earlier, the UK's Maritime Trade Operations Centre (UKMTO) - which monitors international shipping routes - said a bulk carrier had been \"hit by an unknown projectile\" about 23 nautical miles (43km) north-east of Doha in Qatar, causing a small fire but no casualties. Iran's Fars news agency later cited an unidentified source as saying that vessel had been \"sailing under the US flag and belonged to the United States\". Also on Sunday, Kuwait said drones had entered its airspace and that the military had \"dealt with them\". Hours later, the UAE said its air defences had intercepted two drones coming from Iran. The US has a significant military presence across the Gulf, with bases in Qatar, Bahrain, Kuwait, the UAE, Saudi Arabia and Oman.",
+          "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+          "body_text": "Iran has sent its response to US proposals to end the war via mediators in Pakistan, Iranian state media report. No details have been released. The US has not made details of its proposals public, either, but reports suggest they centre on a 14-point memorandum of understanding, which could lead to negotiations on Iran's nuclear ambitions. A ceasefire meant to facilitate talks to end the war launched by the US and Israel in February has been largely observed, despite occasional exchanges of fire. However, Iran has continued to block the Strait of Hormuz - leading to a rise in world oil prices - and the US has been enforcing a blockade of Iranian ports to exert pressure on Tehran to agree to its terms. The US naval blockade has infuriated Iran. On Sunday, President Masoud Pezeshkian: \"We will never bow our heads before the enemy.\" In a post on X soon after, Pezeshkian did not directly reference the proposal but said: \"We will never bow our heads before the enemy, and if talk of dialogue or negotiation arises, it does not mean surrender or retreat. \"Rather, the goal is to uphold the rights of the Iranian nation and to defend national interests with resolute strength.\" US President Donald Trump this week predicted that the war in Iran will be \"over quickly\" and said that most people \"understand\" his goal of ending Tehran's nuclear ambitions. US news outlet Axios reported that the one-page, 14-point memo, includes provisions such as a suspension on Iranian nuclear enrichment, the lifting of sanctions, and restoring free transit through the Strait of Hormuz. It cited two US officials and two other sources - all unnamed - whom it described as briefed on the issues. These sources were reported as saying that many of the terms laid out in the memo would be contingent on a final agreement being reached. A senior member of Iran's parliament previously dismissed it as a \"wish list\".",
           "url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6618/live/ae2197f0-4c5e-11f1-8823-efe9fd112af6.png",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ec21/live/646bd870-4c75-11f1-8898-83029ebf7f92.jpg",
           "published_at": "2026-05-10T12:22:06Z",
           "embed_url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
           "play_mode": "page_iframe",
@@ -2212,7 +2236,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "86b598f53138",
@@ -2236,7 +2260,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "0586046631dc",
@@ -2248,7 +2272,7 @@
           "source_kind": "mixed",
           "title": "Army parachutes onto Tristan da Cunha to help Briton with suspected hantavirus",
           "summary": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
-          "body_text": "British Army medics have parachuted onto the remote Atlantic island of Tristan da Cunha to help a British national with suspected hantavirus. The man left MV Hondius, the cruise ship hit by a deadly outbreak of the virus, in mid-April at Britain's most remote inhabited overseas territory, where he lives. He first reported symptoms two weeks after leaving the vessel and is said be in a stable condition while isolating. Six cases of the virus have now been confirmed, including of two other Britons currently being treated off the ship. Oxygen was also dropped from an RAF A400M on Saturday, with supplies at a \"critical level\" on the island, the Ministry of Defence (MoD) said. Almost a month after the first death onboard the MV Hondius, the vessel has now arrived in Tenerife , where authorities are helping more than 100 people disembark to be repatriated. Three people have died in the outbreak, including two who were confirmed to have had hantavirus. Hantavirus is a group of viruses carried by rodents. Most hantaviruses do not pass from person to person, but the Andes strain, identified in a number of people who had been on the Dutch cruise ship, does. The British man who lives on Tristan da Cunha disembarked on 14 April, the World Health Organization (WHO) said . He reported having diarrhoea on 28 April and fever two days later. He is currently in a stable condition and is in isolation. A team of six paratroopers and two medical clinicians from 16 Air Assault Brigade parachuted on to Tristan da Cunha - an archipelago in the South Atlantic Ocean considered to be among the world's most remote islands - having flown from RAF Brize Norton. Two of the paratroopers jumped in tandem with an intensive care nurse and intensive care doctor, who will provide help to the island, which usually has a two-person medical team. This is the first time the UK military has parachuted in medical personnel to provide humanitarian support, according to the MoD.",
+          "body_text": "British Army medics have parachuted onto the remote Atlantic island of Tristan da Cunha to help a British national with suspected hantavirus. The man left MV Hondius, the cruise ship hit by a deadly outbreak of the virus, in mid-April at Britain's most remote inhabited overseas territory, where he lives. He first reported symptoms two weeks after leaving the vessel and is said be in a stable condition while isolating. Six cases of the virus have now been confirmed, including of two other Britons currently being treated off the ship. Oxygen was also dropped from an RAF A400M on Saturday, with supplies at a \"critical level\" on the island, the Ministry of Defence (MoD) said. Almost a month after the first death onboard the MV Hondius, the vessel has now arrived in Tenerife , where authorities are helping more than 100 people disembark to be repatriated. Three people have died in the outbreak, including two who were confirmed to have had hantavirus. Hantavirus is a group of viruses carried by rodents. Most hantaviruses do not pass from person to person, but the Andes strain, identified in a number of people who had been on the Dutch cruise ship, does. The British man who lives on Tristan da Cunha disembarked on 14 April, the World Health Organization (WHO) said . He reported having diarrhoea on 28 April and fever two days later. He is currently in a stable condition and in isolation. A team of six paratroopers and two medical clinicians from 16 Air Assault Brigade parachuted on to Tristan da Cunha - an archipelago in the South Atlantic Ocean considered to be among the world's most remote islands. An RAF A400M transport aircraft, supported by an RAF Voyager, flew from RAF Brize Norton in Oxfordshire to Ascension Island, in the South Atlantic Ocean, before heading to Tristan da Cunha. Two of the paratroopers jumped in tandem with an intensive care nurse and intensive care doctor, who will provide help to the island, which usually has a two-person medical team.",
           "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8209/live/8752f770-4c42-11f1-b55d-0f258dce1735.jpg",
           "published_at": "2026-05-10T08:49:02Z",
@@ -2260,7 +2284,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "1262d93b157f",
@@ -2284,7 +2308,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "c23b4467c106",
@@ -2308,7 +2332,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "b43a3a3be85d",
@@ -2320,19 +2344,19 @@
           "source_kind": "mixed",
           "title": "First passengers fly home from hantavirus-hit cruise ship",
           "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
-          "body_text": "The first passengers evacuated from a hantavirus-stricken cruise ship docked near Spain's Canary Islands have arrived in Madrid. Fourteen Spanish nationals were on the chartered flight from Tenerife. They now face mandatory quarantine at a military hospital in the capital. Before boarding the plane in Tenerife, staff involved in the operation pulled white hazmat suits over the evacuees' clothes and hosed them down on the airport tarmac. Passengers are being evacuated by nationality, with French nationals reportedly the second group to leave the island. Health Minister Mónica García said the operation was \"proceeding normally\" and that all passengers on board the MS Hondius were asymptomatic. The MV Hondius pulled into the port of Granadilla before dawn on Sunday, a month after the first passenger died on board. The sun rose to reveal it anchored offshore, with military police boats on patrol and a major operation unfolding on land to help more than 100 passengers and crew disembark. At about 07:00 (06:00 GMT), medical teams went on board to check everyone for signs of the virus. With a long camera lens, passengers could be seen on Sunday morning wandering around on the deck of the ship, or at the windows, all in white medical face masks, as the first evacuations took place. Several sat socially distanced on the first evacuation boat, filming and taking photos as they approached land, where they were met by officials in white protective suits. They were then taken by bus to the local airport. Passengers flown out by the Netherlands, including Dutch, Greek and German passengers, and part of the crew, were expected to follow.",
+          "body_text": "The first passengers evacuated from a hantavirus-stricken cruise ship docked near Spain's Canary Islands have arrived in Madrid. Fourteen Spanish nationals were on the chartered flight from Tenerife. They now face mandatory quarantine at a military hospital in the capital. Before boarding the plane in Tenerife, staff involved in the operation pulled white hazmat suits over the evacuees' clothes and hosed them down on the airport tarmac. A plane bringing back five French citizens landed at an airport north of Paris on Sunday afternoon, the AFP news agency reported. Another bound for the Netherlands is expected to take 27 people, including Belgian, Greek, German and Argentine citizens. Flights for Turkish, British, Irish and US citizens are also planned for Sunday. Health Minister Mónica García said the operation was \"proceeding normally\" and that all passengers on board the MS Hondius were asymptomatic. The MV Hondius pulled into the port of Granadilla before dawn on Sunday, a month after the first passenger died on board. The sun rose to reveal it anchored offshore, with military police boats on patrol and a major operation unfolding on land to help more than 100 passengers and crew disembark. At about 07:00 (06:00 GMT), medical teams went on board to check everyone for signs of the virus. With a long camera lens, passengers could be seen on Sunday morning wandering around on the deck of the ship, or at the windows, all in white medical face masks, as the first evacuations took place. Several sat socially distanced on the first evacuation boat, filming and taking photos as they approached land, where they were met by officials in white protective suits.",
           "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cb2b/live/e1bcfcb0-4c5b-11f1-a41c-91073f0dac7c.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/de71/live/72122540-4c81-11f1-bd52-e755d604ece4.jpg",
           "published_at": "2026-05-10T01:08:51Z",
           "embed_url": "https://www.bbc.com/news/articles/cn7pzmg8zeno",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "734234686247",
@@ -2356,7 +2380,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "2c67d7f98477",
@@ -2380,7 +2404,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "8952028ba855",
@@ -2399,30 +2423,6 @@
           "embed_url": "https://www.bbc.com/news/articles/ckgpxg03v57o",
           "play_mode": "page_iframe",
           "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "3bbec2a7bc6d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Greek authorities conduct controlled blast of mystery naval drone explosives",
-          "summary": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
-          "body_text": "Greek authorities have rendered safe a naval drone carrying explosives after it was discovered in the Ionian Sea by fishermen. The unmanned vessel, suspected to be of Ukrainian origin, was found in a cave near Lefkada on Greece's western coast on Thursday with its engine still running. Greek bomb disposal experts removed its detonators and battery. The incident has raised questions about Greece's maritime security and its vulnerability to emerging military technology. Authorities are now investigating how the drone ended up in Greece's territorial waters and why it may have been in the Mediterranean. Ukraine has used naval drones to target Russian warships, tankers and naval bases since Moscow's full-scale invasion began in 2022, but much of this activity has been constrained to the Black Sea, which the two nations border. Ukraine's military has so far not commented. Both Greek and Ukrainian media have identified it as likely a Ukrainian-made Magura drone. Two reputable Greek news outlets are reporting that notes handwritten in Ukrainian were found aboard the vessel. It was estimated to be carrying around 100kg (220lb) of explosives, prompting Greek authorities to conduct a controlled explosion in the sea near Astakos. Specialist teams in the Greek armed forces are now inspecting the drone for clues as to its origin and purpose. Greek newspaper Ta Nea reports that theories being considered are that the drone - with an estimated range of 432 miles (700km) - fell into the sea while being transported or was intended to target Russian shipping in the Mediterranean but lost contact with its operator. The vessel had a built-in GPS that could have been affected by bad weather and sensors that were broken when it was discovered, according to public broadcaster ERT. But the drone's presence has prompted criticism that Greece's Navy was ill-prepared for a new era of warfare.",
-          "url": "https://www.bbc.com/news/articles/c9364r4r902o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0d93/live/ce4b17d0-4bce-11f1-bd52-e755d604ece4.jpg",
-          "published_at": "2026-05-09T18:00:46Z",
-          "embed_url": "https://www.bbc.com/news/articles/c9364r4r902o",
-          "play_mode": "iframe",
-          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -2512,7 +2512,7 @@
           "source_kind": "mixed",
           "title": "Australia's right-wing One Nation party scores historic parliamentary win",
           "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-          "body_text": "Australia's One Nation party has won its first-ever lower-house seat in what is being seen as an important test for the right-wing populist party. With most ballots counted, One Nation candidate David Farley has won a two-candidate preferred vote share of 57% in Farrer, a vast regional constituency in New South Wales. Independent candidate Michelle Milthorpe is far behind. The contest was triggered by the resignation of Sussan Ley, who quit when she was ousted as leader of the opposition conservative Liberal Party. While the result will not affect the Labor government's large majority, it is a clear sign that voters are moving away from traditional political parties in Australia. Saturday's poll was the first federal test of One Nation's support after the party recorded the second-highest number of votes out of any political party in the South Australian state election in March. As news of the party's victory emerged, One Nation leader Pauline Hanson told supporters this was not just a win for Farrer, but a win for Australia, and said the party was \"coming after those other seats\". Farley - whose background is in agribusiness - told supporters One Nation had \"reached the end of its beginning, we're going through the ceiling\". \"What are we doing tonight? We're like a mason, with a chisel, and a hammer and we're re-carving the letters into the Australian democracy.\" Australia has a preferential voting system where voters rank candidates from their most to least preferred. The final tally is calculated as a challenge between two candidates after preferences are distributed to ensure that the winner is supported by a majority. One Nation had never won a federal lower house contest before Saturday's poll. In the late 1990s Hanson initially held her seat as an independent before losing her re-election bid. She has since returned to the parliament as a senator. During the campaign, Farley said he had \"lost a bit of faith\" in the major parties. \"They say one thing to your face and then go and do something else in parliament,\" he said. Farrer spans 127,000 sq km (49,000 sq miles), an area larger than South Korea, and takes in the regional centres of Albury, Griffith and Deniliquin. The seat has always been held by either the Liberal or National parties.",
+          "body_text": "Australia's One Nation party has won its first-ever lower-house seat in what is being seen as an important test for the right-wing populist party. With almost all the votes counted, One Nation candidate David Farley won over 57% of the tally in Farrer, a vast regional constituency in New South Wales, with independent candidate Michelle Milthorpe on almost 43%. The contest was triggered by the resignation of Sussan Ley, who quit when she was ousted as leader of the opposition conservative Liberal Party. While the result will not affect the Labor government's large majority, it is a clear sign that voters are moving away from traditional political parties in Australia. Saturday's poll was the first federal test of One Nation's support after the party recorded the second-highest number of votes out of any political party in the South Australian state election in March. As news of the party's victory emerged, One Nation leader Pauline Hanson told supporters this was not just a win for Farrer, but a win for Australia, and said the party was \"coming after those other seats\". Farley - whose background is in agribusiness - told supporters One Nation had \"reached the end of its beginning, we're going through the ceiling\". \"What are we doing tonight? We're like a mason, with a chisel, and a hammer and we're re-carving the letters into the Australian democracy.\" Australia has a preferential voting system where voters rank candidates from their most to least preferred. The final tally is calculated as a challenge between two candidates after preferences are distributed to ensure that the winner is supported by a majority. One Nation had never won a federal lower house contest before Saturday's poll. In the late 1990s Hanson initially held her seat as an independent before losing her re-election bid. She has since returned to the parliament as a senator. During the campaign, Farley said he had \"lost a bit of faith\" in the major parties. \"They say one thing to your face and then go and do something else in parliament,\" he said. Farrer spans 127,000 sq km (49,000 sq miles), an area larger than South Korea, and takes in the regional centres of Albury, Griffith and Deniliquin. The seat has always been held by either the Liberal or National parties.",
           "url": "https://www.bbc.com/news/articles/cwy2e4z4npro",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cd0f/live/da918db0-4bb2-11f1-a339-0992e1239801.jpg",
           "published_at": "2026-05-08T22:39:56Z",
@@ -3766,6 +3766,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "a58ea9cf3d94",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "The hottest place for startups to strike a deal? The F1 paddock | TechCrunch",
+          "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
+          "body_text": "Over cold drinks in the Florida heat, this TechCrunch reporter watched from the paddock as founders and investors — the rich and the richer — mingled in search of deals. Conversations barely paused, except for the occasional glance at the track where drivers, sealed inside multi-million-dollar machines, chased the chequered flag. F1 weekend is a three-day affair, with the race as the finale. In between are kickoffs, soirées, cocktail parties, dinners, and nightclub takeovers — spaces where business and pleasure blur. Events like this, where wealth concentrates, have historically been places where business deals are struck. But the popularity of the F1 paddock has grown in recent years, especially among the startup and venture crowd. “It’s a hot place for everyone with access trying to strike a deal,” one founder said, recalling being brought to the paddock by a venture firm two years ago. This year, Chandler Malone, a founder, said he didn’t even attend the race; he only went to some of the side events. So many venture firms were hosting them and much more than usual, he said. “You name the fund, it was someone there hosting clients,” Marell Evans, an investor, also told TechCrunch. “Lots of folks missed Milken for F1 Miami.” F1 teams, once sponsored by major oil, tobacco, banks, and alcohol companies, have embraced the new railroad giants. The F1 team liveries this season — plastered with AI, cloud computing, and enterprise company logos — is a literal sign pointing to where the money is. The past five years reflects the shift. In that time, Oracle became the title sponsor of Red Bull Racing team, the Mercedes-AMG PETRONAS F1 team struck a multi-year partnership with Microsoft, CoreWeave became Aston Martin Aramco’s official AI cloud partner, Anthropic began working with Williams Racing, Palantir and IBM partnered with Ferrari, AWS began providing data analytics to F1, and the audio app ElevenLabs and fintech Revolut have teamed up with Audi. Some VC and PE firms also own stakes in F1 teams, including Dorilton Capital’s 2020 acquisition of Williams Racing and the 200 million euro investment into Alpine by backers Otro Capital, RedBird Capital Partners, and Maximum Effort Investments. Hannan Happi, founder of the climate startup Exowatt, credits the 2020 Netflix F1 show “Drive to Survive” as a catalyst for increasing audience interest. But the tech industry showing up in force is more recent, Happi said, “really the last three or four years.” He cited all the big tech companies that have moved into the sport, including crypto and AI brands. “Where the sponsors go, the executives will follow,” he said. It’s no wonder, then, that TechCrunch ran into Lightspeed Ventures CMO Josh Machiz, who explained that founders and execs from many startups in its portfolio were also roaming the paddock. The goal for them, he said, was to strike some enterprise deals with other startups and tech giants. Though TechCrunch ran into Machiz in the IBM Paddock, he said the firm actually has a structured program in place with Aston Martin to help introduce Lightspeed founders to Aston Martin and its enterprise clients. In the paddock, CIOs and CISOs stand next to CEOs, and rooms are small enough for people to actually chat with each other, Machiz said. Aston Martin, like all the F1 teams, is actively looking for ways to leverage the latest tech, as well as meet the founders behind it. Technology has always been central to F1, helping drive advancements in consumer tech and car safety. Looking ahead is how teams stay ahead and these days, if a startup like Anthropic gets big enough, the team can nab a future sponsor, too.",
+          "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/F1-miami-paddock-Getty.jpg?resize=1200,801",
+          "published_at": "2026-05-10T15:13:07Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/F1-miami-paddock-Getty.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "9226d8bc5499",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3787,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "c7c11ee24f54",
@@ -3811,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "46149f36c5ef",
@@ -3835,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "baa7a2edbfbb",
@@ -3859,7 +3883,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "905e4c9982de",
@@ -3883,7 +3907,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "d1860b86b113",
@@ -3907,7 +3931,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "18e393ee2491",
@@ -3931,7 +3955,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "8e9303ccef24",
@@ -3955,7 +3979,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "ed9e119c034d",
@@ -3979,30 +4003,6 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "430d9b1e9426",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high | TechCrunch",
-          "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-          "body_text": "Cloudflare on Thursday joined a growing list of tech companies — including Meta, Microsoft, and Amazon — that have reported increased revenue alongside massive layoffs, attributing both trends to their use of AI. Cloudflare, which provides internet security and performance services to millions of websites worldwide, announced it was cutting its workforce by approximately 20%, which equates to 1,100 people, it said as part of its first quarter 2026 earnings report on Thursday. “We’ve never done something like this in Cloudflare’s history,” co-founder and CEO Matthew Prince said Thursday on the quarterly conference call, marking the first mass layoff in the company’s 16-year history. The company is cutting people from all teams and geographies except for salespeople who carry revenue quotas, CFO Thomas Seifert detailed on the call. The news of the workforce cuts came as the company reported quarterly revenues of $639.8 million, a 34% year-over-year increase and the highest single quarter in the company’s history. However, this was coupled with a loss of $62.0 million compared with losing $53.2 million in the year-ago quarter. That widening loss, even as revenue surged, highlights a familiar paradox in Cloudflare’s story: The company is growing fast but has yet to turn a consistent profit. But the loss was a smaller percentage of revenue, and the quarter was coupled with a lot of other positive indicators. For instance, Cloudflare reported that it had over $2.5 billion in “remaining performance obligations,” a year-over-year growth of 34%. RPO is the favorite metric these days to indicate revenue under contract but not yet delivered. Hence, Prince insisted, the 20% cuts were not to reduce expenses but were strictly because of its use of AI. “Today’s actions are not a cost-cutting exercise or an assessment of individuals’ performance; they are about Cloudflare defining how a world-class, high-growth company operates and creates value in the agentic AI era,” Prince and Cloudflare co-founder and president, Michelle Zatlyn, wrote in a related blog post about the layoffs. Prince acknowledged on the call that even though Cloudflare has been selling AI-powered products, it was at first cautious about adopting AI itself. “Internally, the tipping point was last November. At that point, across our teams, we began to see massive productivity gains, team members that were two, 10, even 100 times more productive than they had been before. It was like going from a manual to an electric screwdriver,” he described. “Cloudflare’s usage of AI has increased by more than 600% in the last three months alone,” he added. Prince highlighted the internal use of AI coding, saying that virtually the entire R&D team is now using the company’s own Workers platform — a tool that lets developers build and run software directly on Cloudflare’s global network — including its vibe coding feature. He also noted that 100% of the code produced this way and deployed for use in Cloudflare’s products is “now reviewed by autonomous AI agents.” But it’s not just developers who are using AI internally, he said. “Employees across the company from engineering to HR to finance to marketing run thousands of AI agent sessions each day to get their work done.”",
-          "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg?resize=1200,800",
-          "published_at": "2026-05-08T18:33:21Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4392,9 +4392,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Iran har svarat USA",
-          "summary": "Iran har lämnat ett svar på det amerikanska fredsförslaget, uppger statskontrollerade medier. Exakt vad svaret innebär är oklart – men huvudfokus är på ”att avsluta kriget och maritim säkerhet”, enligt den regimtrogna nyhetsbyrån Isna.",
-          "body_text": "Iran har lämnat ett svar på det amerikanska fredsförslaget, uppger statskontrollerade medier. Exakt vad svaret innebär är oklart – men huvudfokus är på ”att avsluta kriget och maritim säkerhet”, enligt den regimtrogna nyhetsbyrån Isna. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det iranska svaret har framförts till medlarlandet Pakistan som tar det vidare till USA. Enligt den iranska regimkontrollerade nyhetsbyrån Irna handlar det aktuella förslaget främst om att få ett slut på kriget. Huvudfokus i Irans svar är att nå ett slut på kriget och att säkerställa den maritima säkerheten i Persiska viken och Hormuzsundet, rapporterar i sin tur Isna. Det exakta innehållet i USA:s förhandlingsförslag, eller snarare avsiktsförklaring, är inte känt, men det sägs bestå av 14 punkter. Enligt källor som bland annat det amerikanska mediebolaget Axios hänvisar till, är en viktig punkt Irans fortsatta kärnenergiprogram – och ett moratorium på anrikning av uran. Både Iran och USA ska häva de sanktioner och insatser som blockerar Hormuzsundet, enligt det amerikanska förslaget. USA ska enligt förslaget samtidigt lyfta de sanktioner som landet riktar mot Iran, samt frigöra iranska tillgångar som frusits. Omfattningen på dessa två punkter är inte känt – om det till exempel ska gälla samtliga amerikanska sanktioner mot Iran. Tanken är att USA:s förslag ska ligga till grund för fortsatta förhandlingar, för att nå ett slutgiltigt fredsavtal mellan USA och Iran – med en tidsplan på 30 dagar av förhandlingar medan vapenvila råder. Iran har i sin tur tidigare överlämnat ett antal punkter som landets ledning ser som avgörande i en förhandling. Där har Iran bland annat krävt att USA lovar att inte attackera Iran igen – samt drar tillbaka sin militär från regionen. Dessutom har Iran krävt att samtliga stridigheter i regionen upphör, vilket skulle inbegripa Libanon och Gaza. Teheran vill också få ekonomisk ersättning från USA för förstörelse som kriget åsamkat landet.",
+          "title": "Öppnar för ny attackvåg",
+          "summary": "Iran har lämnat ett svar på det amerikanska fredsförslaget, uppger statskontrollerade medier. Exakt vad svaret innebär är oklart – men huvudfokus är på ”att avsluta kriget och maritim säkerhet”, enligt den regimtrogna nyhetsbyrån Isna. Samtidigt säger Donald Trump att attackerna kan fortsätta.",
+          "body_text": "Iran har lämnat ett svar på det amerikanska fredsförslaget, uppger statskontrollerade medier. Exakt vad svaret innebär är oklart – men huvudfokus är på ”att avsluta kriget och maritim säkerhet”, enligt den regimtrogna nyhetsbyrån Isna. Samtidigt säger Donald Trump att attackerna kan fortsätta. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det iranska svaret har framförts till medlarlandet Pakistan som tar det vidare till USA. Enligt den iranska regimkontrollerade nyhetsbyrån Irna handlar det aktuella förslaget främst om att få ett slut på kriget. Huvudfokus i Irans svar är att nå ett slut på kriget och att säkerställa den maritima säkerheten i Persiska viken och Hormuzsundet, rapporterar i sin tur Isna. Det exakta innehållet i USA:s förhandlingsförslag, eller snarare avsiktsförklaring, är inte känt, men det sägs bestå av 14 punkter. Enligt källor som bland annat det amerikanska mediebolaget Axios hänvisar till, är en viktig punkt Irans fortsatta kärnenergiprogram – och ett moratorium på anrikning av uran. Både Iran och USA ska häva de sanktioner och insatser som blockerar Hormuzsundet, enligt det amerikanska förslaget. USA ska enligt förslaget samtidigt lyfta de sanktioner som landet riktar mot Iran, samt frigöra iranska tillgångar som frusits. Omfattningen på dessa två punkter är inte känt – om det till exempel ska gälla samtliga amerikanska sanktioner mot Iran. Tanken är att USA:s förslag ska ligga till grund för fortsatta förhandlingar, för att nå ett slutgiltigt fredsavtal mellan USA och Iran – med en tidsplan på 30 dagar av förhandlingar medan vapenvila råder. Iran har i sin tur tidigare överlämnat ett antal punkter som landets ledning ser som avgörande i en förhandling. Där har Iran bland annat krävt att USA lovar att inte attackera Iran igen – samt drar tillbaka sin militär från regionen. Dessutom har Iran krävt att samtliga stridigheter i regionen upphör, vilket skulle inbegripa Libanon och Gaza.",
           "url": "https://www.expressen.se/nyheter/varlden/iran-har-lamnat-svar-pa-usas-forslag-/",
           "image_url": "https://static.bonniernews.se/images/f2/61/f26162df2ddf4114a88116618a33822b/16x9/original.png",
           "published_at": "2026-05-10T13:50:18Z",
