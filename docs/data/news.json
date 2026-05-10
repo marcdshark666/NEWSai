@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T18:08:34Z",
+  "generated_at": "2026-05-10T19:36:24Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -335,7 +335,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 10,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -364,7 +364,7 @@
           "sort_order": 0
         },
         {
-          "id": "888c0206f221",
+          "id": "7c653524645a",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
@@ -373,11 +373,11 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 21:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
-          "url": "https://www.svtplay.se/video/8EqqPQ2/rapport/ikvall-21-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-10T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8EqqPQ2/rapport/ikvall-21-00",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 8 maj 23:10 4 min 44 sek Publicerades: Fre 8 maj 09:30 2 min 56 sek Publicerades: Fre 8 maj 08:30 2 min 59 sek Publicerades: Fre 8 maj 07:30 3 min 2 sek",
+          "url": "https://www.svtplay.se/video/8EqqPQ2/rapport/ikvall-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54149281/1778440946?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-10T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8EqqPQ2/rapport/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -387,6 +387,56 @@
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "d7e416730ff3",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 8 maj 23:10 4 min 44 sek Publicerades: Fre 8 maj 09:30 2 min 56 sek Publicerades: Fre 8 maj 08:30 2 min 59 sek Publicerades: Fre 8 maj 07:30 3 min 2 sek",
+          "url": "https://www.svtplay.se/video/8LJJLqB/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54148072/1778422442?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-10T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8LJJLqB/rapport/idag-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "ce492fde96d6",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 21:45",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 8 maj 23:10 4 min 44 sek Publicerades: Fre 8 maj 09:30 2 min 56 sek Publicerades: Fre 8 maj 08:30 2 min 59 sek Publicerades: Fre 8 maj 07:30 3 min 2 sek",
+          "url": "https://www.svtplay.se/video/KxggZrp/rapport/igar-21-45?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54147988/1778356916?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-09T21:45:00Z",
+          "embed_url": "https://www.svtplay.se/video/KxggZrp/rapport/igar-21-45?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "d06c5d987d3b",
@@ -411,7 +461,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "e203eb6ffee2",
@@ -436,7 +486,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "a04cba2720ed",
@@ -461,7 +511,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "ce48401787d9",
@@ -486,7 +536,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "6de865c1ba09",
@@ -511,7 +561,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "9d0bb1648d17",
@@ -536,7 +586,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "e0efc0927fc0",
@@ -561,23 +611,23 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 10
         },
         {
-          "id": "cc6ecc806c17",
+          "id": "b1d547c0679b",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Radiokören i Reaktorhallen",
-          "summary": "Sveriges första kärnreaktor blev placerad 25 meter under jorden år 1954 på Kungliga tekniska högskolan i Stockholm. Den enda radioaktivitet som pågår i hallen i dag är när Radiokören och dirigent Peter Dijkstra kommer ner och spelar in en konsert. Musik av bland annat Schnittke, Poulenc och Lidholm. Och så lite svensk körlyrik förstås.",
-          "body_text": "Konsert med den klassiska musikens mest kända verk Sveriges första kärnreaktor blev placerad 25 meter under jorden år 1954 på Kungliga tekniska högskolan i Stockholm. Den enda radioaktivitet som pågår i hallen i dag är när Radiokören och dirigent Peter Dijkstra kommer ner och spelar in en konsert. Musik av bland annat Schnittke, Poulenc och Lidholm. Och så lite svensk körlyrik förstås.",
-          "url": "https://www.svtplay.se/video/e56v35j/radiokoren-i-reaktorhallen",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53346622/1762180311?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-11-21T01:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/e56v35j/radiokoren-i-reaktorhallen",
+          "title": "Rapport – Igår 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 8 maj 23:10 4 min 44 sek Publicerades: Fre 8 maj 09:30 2 min 56 sek Publicerades: Fre 8 maj 08:30 2 min 59 sek Publicerades: Fre 8 maj 07:30 3 min 2 sek",
+          "url": "https://www.svtplay.se/video/8vvv2rY/rapport/igar-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54147679/1778335906?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-09T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8vvv2rY/rapport/igar-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -586,7 +636,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 11
         }
       ]
     },
@@ -1749,6 +1799,131 @@
           "sort_order": 0
         },
         {
+          "id": "6ed7706645ef",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Marc Theissen warns Democrats embracing ‘politics of envy’ amid AOC’s criticism of billionaires | Fox News Video",
+          "summary": "The ‘Fox News Sunday’ panel debates Democratic messaging on billionaires and the party’s shift toward socialism.",
+          "body_text": "The ‘Fox News Sunday’ panel debates Democratic messaging on billionaires and the party’s shift toward socialism. A political panel debates Rep. Alexandria Ocasio-Cortez's, D-N.Y., controversial remarks on how billionaires acquire wealth, sparking a wider discussion about capitalism and the Democratic Party's economic messaging. The segment highlights Washington Post criticism, how the wealthy often fund Democratic campaigns, and whether an \"envy\"-based approach resonates with voters. Panelists also preview upcoming political stories for the week.",
+          "url": "https://www.foxnews.com/video/6395159025112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b40c7ca-d035-4abd-bb29-9412ec89a698/cc311c8f-04d8-4444-b744-da5f085590ec/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T19:17:58Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395159025112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "1c5d2a999b25",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump says he’ll discuss detained pastor with Xi during high-stakes meeting | Fox News Video",
+          "summary": "Grace Jin Drexel and her husband, Bill, discuss the detention of her father, Zion Church founder Ezra Jin, in China and President Donald Trump’s pledge to raise the issue with President Xi Jinping on ‘Fox News Sunday.’",
+          "body_text": "Grace Jin Drexel and her husband, Bill, discuss the detention of her father, Zion Church founder Ezra Jin, in China and President Donald Trump’s pledge to raise the issue with President Xi Jinping on ‘Fox News Sunday.’",
+          "url": "https://www.foxnews.com/video/6395158813112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd31acfc-ec0d-4f04-9758-2c00a184e1f6/c49507ff-673e-406c-885e-94504d0ea777/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T19:14:01Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395158813112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "7a5144c075cd",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Strait of Hormuz blockade is US’s ‘biggest bargaining chip,’ former naval aviator says | Fox News Video",
+          "summary": "Former Ambassador-at-Large Nathan Sales and former naval aviator Gregory Glaros discuss CENTCOM’s announcement that the U.S. blockade in the Strait of Hormuz is being ‘fully enforced’ on ‘The Sunday Briefing.’",
+          "body_text": "Former Ambassador-at-Large Nathan Sales and former naval aviator Gregory Glaros discuss CENTCOM’s announcement that the U.S. blockade in the Strait of Hormuz is being ‘fully enforced’ on ‘The Sunday Briefing.’",
+          "url": "https://www.foxnews.com/video/6395157008112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b18c1864-2a03-42cf-b1a2-8ace17d80778/61f19ea5-ef89-4c0f-8164-d8bf62a15189/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T19:07:30Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395157008112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "79eefac9d211",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Small business expert discusses impact of AI on new grad hiring | Fox News Video",
+          "summary": "Small business expert Gene Marks discusses President Donald Trump's celebration of small businesses and the April 2026 jobs report. He highlights AI-proof jobs like field managers and service technicians.",
+          "body_text": "Small business expert Gene Marks discusses President Donald Trump's celebration of small businesses and the April 2026 jobs report. He highlights AI-proof jobs like field managers and service technicians. Small business expert Gene Marks discusses President Donald Trump's celebration of small businesses and the April 2026 jobs report. He highlights AI-proof jobs like field managers and service technicians, noting AI's significant influence on hiring plans and the manufacturing sector's revival.",
+          "url": "https://www.foxnews.com/video/6395156430112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf05da3d-d691-48c8-b317-2c5724b2bd10/1d82b715-f074-41ed-8cd5-928b9c27b2fc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T18:44:29Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395156430112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "a82f7247755a",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Experts discuss US-Iran conflict, Strait of Hormuz control and nuclear program | Fox News Video",
+          "summary": "Jake Sotiriadis, former Air Force intelligence officer, and Tom Sauer, former U.S. Navy lieutenant commander, discuss the U.S.-Iran conflict, control of the Strait of Hormuz and Iran's nuclear ambitions on 'Fox News Live.'",
+          "body_text": "Jake Sotiriadis, former Air Force intelligence officer, and Tom Sauer, former U.S. Navy lieutenant commander, discuss the U.S.-Iran conflict, control of the Strait of Hormuz and Iran's nuclear ambitions on 'Fox News Live.' Jake Sotiriadis, former Air Force intelligence officer, and Tom Sauer, former U.S. Navy lieutenant commander discuss the escalating U.S.-Iran conflict. They analyze Iran's response to a peace proposal, the critical importance of the Strait of Hormuz for global supply and the U.S. strategy to counter Iran's nuclear program. The discussion covers potential military options and diplomatic efforts to de-escalate tensions.",
+          "url": "https://www.foxnews.com/video/6395154018112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7efccd95-28e6-4112-bcf3-c91340b3c40f/ab184193-7e52-46ba-b3e1-501d6b9a2f1d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-10T18:07:28Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395154018112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 5
+        },
+        {
           "id": "e2adbc98a86d",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1771,7 +1946,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 6
         },
         {
           "id": "cb18712396d3",
@@ -1796,7 +1971,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 7
         },
         {
           "id": "c0d7858e3926",
@@ -1821,7 +1996,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 8
         },
         {
           "id": "e247264909bc",
@@ -1846,7 +2021,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 9
         },
         {
           "id": "da99c54b73c4",
@@ -1863,131 +2038,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ede65f8c-94f9-46e0-a05f-980fca156daa/58504d5b-8fb3-4d7a-9521-9afa08ceb18f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-10T17:18:00Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395152751112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "02cc102a5d09",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Top WHO official discusses hantavirus outbreak, recommendations for cruise ship passengers | Fox News Video",
-          "summary": "Maria Van Kerkhove, who leads the WHO's epidemic & pandemic management, details repatriation flights for passengers disembarking from a hantavirus-hit cruise ship docked in Tenerife, Spain.",
-          "body_text": "Maria Van Kerkhove, who leads the WHO's epidemic & pandemic management, details repatriation flights for passengers disembarking from a hantavirus-hit cruise ship docked in Tenerife, Spain. Maria Van Kerkhove, a WHO official, clarifies plans for passengers disembarking from a hantavirus-hit cruise ship in Tenerife, Spain. She explains the careful, step-by-step repatriation process, including medical assessments, dedicated flights and a mandatory 42-day active follow-up period in their home countries. Kerkhove emphasizes this is not COVID-19 and the risk to the general public is low, while expressing hope for continued U.S. participation in WHO's global health efforts.",
-          "url": "https://www.foxnews.com/video/6395149720112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/684ed4dd-5797-4d69-9502-092ace1a8b36/1c6a9eb9-9e9b-4598-b620-6cac3cfed09e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T16:18:36Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395149720112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "4569b2f94a6a",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rep Ro Khanna discusses redistricting fight, US-China trade imbalance | Fox News Video",
-          "summary": "Rep. Ro Khanna, D-Calif., discusses the redistricting fight, criticizing Supreme Court rulings affecting district maps and civil rights. He also addresses U.S.-China trade imbalances that will be discussed when President Donald Trump visits China.",
-          "body_text": "Rep. Ro Khanna, D-Calif., discusses the redistricting fight, criticizing Supreme Court rulings affecting district maps and civil rights. He also addresses U.S.-China trade imbalances that will be discussed when President Donald Trump visits China.",
-          "url": "https://www.foxnews.com/video/6395148177112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c290c97-693d-41bd-94bc-2b6a36e9d7e4/e145015a-c736-4a86-9f07-4f0f9133d139/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T16:16:05Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395148177112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "684462babc4b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Nebraska senator reassures public on hantavirus readiness | Fox News Video",
-          "summary": "Sen. Pete Ricketts, R-Neb., discusses the state's role in containing the hantavirus and President Donald Trump's upcoming summit with Xi Jinping.",
-          "body_text": "Sen. Pete Ricketts, R-Neb., discusses the state's role in containing the hantavirus and President Donald Trump's upcoming summit with Xi Jinping.",
-          "url": "https://www.foxnews.com/video/6395149324112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba17c725-e32c-4ba4-acfd-66c02a43e961/cc011a89-214b-48db-b79e-c01f38c00cda/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T16:13:57Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395149324112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "dff07609bc97",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Spencer Pratt praised as ‘authentic’ as LA mayoral race heats up | Fox News Video",
-          "summary": "‘Ruthless Podcast’ co-hosts Josh Holmes, Michael Duncan, and John Ashbrook discuss the Virginia Supreme Court’s redistricting ruling, the Texas Senate runoff election and Spencer Pratt’s Los Angeles mayoral campaign on ‘Fox News Sunday.’",
-          "body_text": "‘Ruthless Podcast’ co-hosts Josh Holmes, Michael Duncan, and John Ashbrook discuss the Virginia Supreme Court’s redistricting ruling, the Texas Senate runoff election and Spencer Pratt’s Los Angeles mayoral campaign on ‘Fox News Sunday.’",
-          "url": "https://www.foxnews.com/video/6395147634112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4697eb3-5743-4fb2-9898-8ae0a859d7b1/17f6c4c6-e734-41de-8046-defaed4bd76d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T16:06:15Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395147634112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "76f2abb9a346",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sen Bernie Moreno proposes ban on Chinese EVs amid surveillance threat | Fox News Video",
-          "summary": "Sen. Bernie Moreno, R-Ohio, discusses his bill to ban Chinese-made electric vehicles from the U.S. market. He explains the economic and national security risks, citing surveillance capabilities and potential remote control by the CCP.",
-          "body_text": "Sen. Bernie Moreno, R-Ohio, discusses his bill to ban Chinese-made electric vehicles from the U.S. market. He explains the economic and national security risks, citing surveillance capabilities and potential remote control by the CCP. Sen. Bernie Moreno, R-Ohio, introduces the bipartisan Connected Vehicle Security Act of 2026, aiming to effectively block Chinese-made electric vehicles from the U.S. market. Moreno warns against these vehicles, saying they could potentially allow remote control and pose significant national security threats. He emphasizes protecting the American auto industry and workers from subsidized Chinese exports.",
-          "url": "https://www.foxnews.com/video/6395146298112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3e48b2-7e58-4c0d-b5dd-f29b75b4925a/29f75910-bb86-4021-8517-29cb779362bc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-10T15:31:07Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395146298112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2174,7 +2224,7 @@
           "source_kind": "mixed",
           "title": "Iran sends response to US proposals to end war",
           "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
-          "body_text": "Iran says it has sent its response to US proposals to end the war. Pakistan's Prime Minister Shehbaz Sharif said his country - which has served as mediator - had received the Iranian response but could not share any details. He did not say if the proposal has already been passed on to the US. The US has not made details of its proposals public, either, but reports suggest they centre on a 14-point memorandum of understanding, which could lead to negotiations on Iran's nuclear ambitions. A ceasefire meant to facilitate talks to end the war launched by the US and Israel in February has been largely observed, despite occasional exchanges of fire. US news outlet Axios reported that the one-page, 14-point US memo, includes provisions such as a suspension on Iranian nuclear enrichment, the lifting of sanctions, and restoring free transit through the Strait of Hormuz. It cited two US officials and two other sources - all unnamed - whom it described as briefed on the issues. These sources were reported as saying that many of the terms laid out in the memo would be contingent on a final agreement being reached. The Iranian Isna news agency said Iran's response focuses on \"ending the war and maritime security\" in the Gulf and the Strait of Hormuz. Iran has continued to block the waterway - leading to a rise in world oil prices. The US, for its part, has been enforcing a blockade of Iranian ports to exert pressure on Tehran to agree to its terms - a move that has infuriated Iran. On Sunday, Iranian President Masoud Pezeshkian did not directly reference the proposal but said: \"We will never bow our heads before the enemy, and if talk of dialogue or negotiation arises, it does not mean surrender or retreat. US President Donald Trump this week predicted again that the war in Iran will be \"over quickly\" and said that most people \"understand\" his goal of ending Tehran's nuclear ambitions. But Israeli Prime Minister Benjamin Netanyahu said that Iran's stockpile of enriched uranium must be \"taken out\" before the war against Iran can be considered over.",
+          "body_text": "Iran says it has sent its response to US proposals to end the war. Pakistan's Prime Minister Shehbaz Sharif said his country - which has served as mediator - had received the Iranian response but could not share any details. He did not say if the proposal has already been passed on to the US. President Donald Trump did not mention the response in a post on his Truth Social platform in which he said Iran would no longer be allowed to \"play games\". A ceasefire meant to facilitate talks to end the war launched by the US and Israel in February has been largely observed, despite occasional exchanges of fire. US news outlet Axios reported that the one-page, 14-point US memo, includes provisions such as a suspension on Iranian nuclear enrichment, the lifting of sanctions, and restoring free transit through the Strait of Hormuz. It cited two US officials and two other sources - all unnamed - whom it described as briefed on the issues. These sources were reported as saying that many of the terms laid out in the memo would be contingent on a final agreement being reached. The Iranian Isna news agency said Iran's response focuses on \"ending the war and maritime security\" in the Gulf and the Strait of Hormuz. Iran has continued to block the waterway - leading to a rise in world oil prices. The US, for its part, has been enforcing a blockade of Iranian ports to exert pressure on Tehran to agree to its terms - a move that has infuriated Iran. On Sunday, Iranian President Masoud Pezeshkian did not directly reference the proposal but said: \"We will never bow our heads before the enemy, and if talk of dialogue or negotiation arises, it does not mean surrender or retreat. Trump has repeated that the war in Iran will be \"over quickly\" . But Israeli Prime Minister Benjamin Netanyahu said that Iran's stockpile of enriched uranium must be \"taken out\" before the war against Iran can be considered over.",
           "url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ec21/live/646bd870-4c75-11f1-8898-83029ebf7f92.jpg",
           "published_at": "2026-05-10T12:22:06Z",
@@ -2294,7 +2344,7 @@
           "source_kind": "mixed",
           "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
           "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
-          "body_text": "The first passengers evacuated from a hantavirus-stricken cruise ship docked near Spain's Canary Islands have been flown home. Fourteen Spanish nationals on the chartered flight from Tenerife face mandatory quarantine at a military hospital in the capital, Madrid. They were followed by French nationals taken to Paris and Britons taken to Manchester. Staff involved in the operation in Tenerife pulled white hazmat suits over the evacuees' clothes and hosed them down on the airport tarmac. Three people have died in the outbreak on the Dutch vessel MV Hondius, including two who were confirmed to have had hantavirus. Flights for Turkish, Irish and US citizens are also planned for Sunday, with other countries also preparing repatriation flights. Spain's Health Minister Mónica García said the operation was \"proceeding normally\" and that all passengers aboard the MV Hondius were asymptomatic. The MV Hondius pulled into the port of Granadilla before dawn on Sunday, a month after the first of its passenger died. The sun rose to reveal it had anchored offshore, with military police boats on patrol and a major operation unfolding on land to help more than 100 passengers and crew disembark. At about 07:00 local time (06:00 GMT), medical teams went aboard to check everyone for signs of the virus. Passengers could be seen from afar wandering around on the deck of the ship, or at the windows, all in white medical face masks, as the first evacuations took place on Sunday morning. Several sat socially distanced on the first evacuation boat, filming and taking photos as they approached land, where they were met by officials in white protective suits. While being couriered to the airport, some British passengers - clad in blue PPE - waved and gave thumbs up as they drove past the assembled media.",
+          "body_text": "More than 90 of the passengers of a hantavirus-stricken cruise ship will have been evacuated and flown home from the Canary Islands by the end of Sunday, Spain has said. Fourteen Spanish nationals flown from Tenerife to Madrid face mandatory quarantine at a military hospital in the capital. They were followed by French and British nationals, who were taken to Paris and Manchester, respectively. Staff involved in the operation in Tenerife pulled white hazmat suits over the evacuees' clothes and hosed them down on the airport tarmac. Three people have died in the outbreak on the Dutch vessel MV Hondius, including two who were confirmed to have had hantavirus. Flights for Turkish, Irish and US citizens are also scheduled on Sunday - leaving fewer than 60 passengers still aboard, according to Spain's health secretary Javier Padilla. The MV Hondius pulled into the port of Granadilla before dawn on Sunday, a month after the first of its passenger died. The sun rose to reveal it had anchored offshore, with military police boats on patrol and a major operation unfolding on land to help more than 100 passengers and crew disembark. At about 07:00 local time (06:00 GMT), medical teams went aboard to check everyone for signs of the virus. Passengers could be seen from afar wandering around on the deck of the ship, or at the windows, all in white medical face masks, as the first evacuations took place on Sunday morning. Several sat socially distanced on the first evacuation boat, filming and taking photos as they approached land, where they were met by officials in white protective suits. While being couriered to the airport, some British passengers - clad in blue PPE - waved and gave thumbs up as they drove past the assembled media. They were followed by 27 people - including Belgian, Greek, German and Argentine citizens - being taken to the Netherlands, and then the ship's Irish and Turkish passengers.",
           "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/de71/live/72122540-4c81-11f1-bd52-e755d604ece4.jpg",
           "published_at": "2026-05-10T01:08:51Z",
@@ -2581,12 +2631,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Dónde ver TV EN DIRECTO, Barcelona-Real Madrid ONLINE y qué canales transmiten El Clásico por LaLiga?",
+          "title": "¿Dónde ver El Clásico, Barcelona-Real Madrid y cuánto va el partido por LaLiga?",
           "summary": "Revisa dónde puedes ver El Clásico, Barcelona vs Real Madrid EN VIVO y qué canales transmiten el partido por la fecha 35 de LaLiga desde el estadio Camp Nou.",
           "body_text": "Barcelona recibe a Real Madrid por la jornada 35 de LaLiga en el estadio Camp Nou, este domingo 10 de mayo del 2026. En una nueva edición de El Clásico, ‘Blaugranas’ y Madridistas pasan por diferentes momentos, el equipo de Hansi Flick se encuentra a una victoria de gritar campeón, mientras que los comandado por Álvaro Arbeloa, en una crisis debido a la pelea que hubo en la semana entre Aurélien Tchouaméni y Federico Valverde. Con todos estos condimentos se disputará un nuevo clásico español. Aquí te mostramos dónde ver el partido ONLINE y qué canal transmite El Clásico EN DIRECTO. El partido de Barcelona vs Real Madrid se transmitirá a través de DirecTV Sports y DGO para todo el Perú y Sudamérica por la fecha 35 de LaLiga EA Sports. Por otro lado, en España, será televisado a través de Movistar LaLiga y Movistar+. Luego, en México, la transmisión del partido va a través de Sky Sports. Y en Estados Unidos, los canales que pasan el partido son: ESPN Deportes, ESPN Select, fuboTV y ESPN App. El Clásico, Barcelona vs Real Madrid por la jornada 35 de LaLiga empieza a las 2:00 PM de Perú y 9:00 PM de España este domingo 10 de mayo del 2026 en el estadio Camp Nou. El clásico, Barcelona vs Real Madrid en Perú será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en España será transmitido por Movistar LaLiga en televisión por cable y a través de la plataforma de streaming Movistar+ y LaLiga TV Bar por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en México será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming izzi por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Colombia será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Argentina será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Chile será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Ecuador será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Venezuela será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Bolivia será transmitido por Tigo Sports en televisión por cable y a través de la plataforma de streaming TiGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Uruguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Paraguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Costa Rica será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Honduras será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Guatemala será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Puerto Rico será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en El Salvador será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Panamá será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Nicaragua será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Estados Unidos será transmitido por ESPN, ESPN Select y ESPN Deportes en televisión por cable y a través de la plataforma de streaming fuboTV por la jornada 35 de LaLiga.",
           "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-real-madrid-hoy-en-vivo-horarios-y-que-canal-tv-transmite-el-clascio-online-por-laliga-noticia/",
           "image_url": "https://i.ytimg.com/vi/YHdr6fgUtEA/hqdefault.jpg",
-          "published_at": "2026-05-10T17:55:49Z",
+          "published_at": "2026-05-10T19:20:20Z",
           "embed_url": "https://cdn.jwplayer.com/videos/RtP64WHS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -2858,12 +2908,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Dónde ver TV EN DIRECTO, Barcelona-Real Madrid ONLINE y qué canales transmiten El Clásico por LaLiga?",
+          "title": "¿Dónde ver El Clásico, Barcelona-Real Madrid y cuánto va el partido por LaLiga?",
           "summary": "Revisa dónde puedes ver El Clásico, Barcelona vs Real Madrid EN VIVO y qué canales transmiten el partido por la fecha 35 de LaLiga desde el estadio Camp Nou.",
           "body_text": "Barcelona recibe a Real Madrid por la jornada 35 de LaLiga en el estadio Camp Nou, este domingo 10 de mayo del 2026. En una nueva edición de El Clásico, ‘Blaugranas’ y Madridistas pasan por diferentes momentos, el equipo de Hansi Flick se encuentra a una victoria de gritar campeón, mientras que los comandado por Álvaro Arbeloa, en una crisis debido a la pelea que hubo en la semana entre Aurélien Tchouaméni y Federico Valverde. Con todos estos condimentos se disputará un nuevo clásico español. Aquí te mostramos dónde ver el partido ONLINE y qué canal transmite El Clásico EN DIRECTO. El partido de Barcelona vs Real Madrid se transmitirá a través de DirecTV Sports y DGO para todo el Perú y Sudamérica por la fecha 35 de LaLiga EA Sports. Por otro lado, en España, será televisado a través de Movistar LaLiga y Movistar+. Luego, en México, la transmisión del partido va a través de Sky Sports. Y en Estados Unidos, los canales que pasan el partido son: ESPN Deportes, ESPN Select, fuboTV y ESPN App. El Clásico, Barcelona vs Real Madrid por la jornada 35 de LaLiga empieza a las 2:00 PM de Perú y 9:00 PM de España este domingo 10 de mayo del 2026 en el estadio Camp Nou. El clásico, Barcelona vs Real Madrid en Perú será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en España será transmitido por Movistar LaLiga en televisión por cable y a través de la plataforma de streaming Movistar+ y LaLiga TV Bar por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en México será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming izzi por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Colombia será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Argentina será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Chile será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Ecuador será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Venezuela será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Bolivia será transmitido por Tigo Sports en televisión por cable y a través de la plataforma de streaming TiGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Uruguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Paraguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Costa Rica será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Honduras será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Guatemala será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Puerto Rico será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en El Salvador será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Panamá será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Nicaragua será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Estados Unidos será transmitido por ESPN, ESPN Select y ESPN Deportes en televisión por cable y a través de la plataforma de streaming fuboTV por la jornada 35 de LaLiga.",
           "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-real-madrid-hoy-en-vivo-horarios-y-que-canal-tv-transmite-el-clascio-online-por-laliga-noticia/",
           "image_url": "https://i.ytimg.com/vi/YHdr6fgUtEA/hqdefault.jpg",
-          "published_at": "2026-05-10T17:55:49Z",
+          "published_at": "2026-05-10T19:20:20Z",
           "embed_url": "https://cdn.jwplayer.com/videos/RtP64WHS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3135,12 +3185,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Dónde ver TV EN DIRECTO, Barcelona-Real Madrid ONLINE y qué canales transmiten El Clásico por LaLiga?",
+          "title": "¿Dónde ver El Clásico, Barcelona-Real Madrid y cuánto va el partido por LaLiga?",
           "summary": "Revisa dónde puedes ver El Clásico, Barcelona vs Real Madrid EN VIVO y qué canales transmiten el partido por la fecha 35 de LaLiga desde el estadio Camp Nou.",
           "body_text": "Barcelona recibe a Real Madrid por la jornada 35 de LaLiga en el estadio Camp Nou, este domingo 10 de mayo del 2026. En una nueva edición de El Clásico, ‘Blaugranas’ y Madridistas pasan por diferentes momentos, el equipo de Hansi Flick se encuentra a una victoria de gritar campeón, mientras que los comandado por Álvaro Arbeloa, en una crisis debido a la pelea que hubo en la semana entre Aurélien Tchouaméni y Federico Valverde. Con todos estos condimentos se disputará un nuevo clásico español. Aquí te mostramos dónde ver el partido ONLINE y qué canal transmite El Clásico EN DIRECTO. El partido de Barcelona vs Real Madrid se transmitirá a través de DirecTV Sports y DGO para todo el Perú y Sudamérica por la fecha 35 de LaLiga EA Sports. Por otro lado, en España, será televisado a través de Movistar LaLiga y Movistar+. Luego, en México, la transmisión del partido va a través de Sky Sports. Y en Estados Unidos, los canales que pasan el partido son: ESPN Deportes, ESPN Select, fuboTV y ESPN App. El Clásico, Barcelona vs Real Madrid por la jornada 35 de LaLiga empieza a las 2:00 PM de Perú y 9:00 PM de España este domingo 10 de mayo del 2026 en el estadio Camp Nou. El clásico, Barcelona vs Real Madrid en Perú será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en España será transmitido por Movistar LaLiga en televisión por cable y a través de la plataforma de streaming Movistar+ y LaLiga TV Bar por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en México será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming izzi por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Colombia será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Argentina será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Chile será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Ecuador será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Venezuela será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Bolivia será transmitido por Tigo Sports en televisión por cable y a través de la plataforma de streaming TiGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Uruguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Paraguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Costa Rica será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Honduras será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Guatemala será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Puerto Rico será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en El Salvador será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Panamá será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Nicaragua será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Estados Unidos será transmitido por ESPN, ESPN Select y ESPN Deportes en televisión por cable y a través de la plataforma de streaming fuboTV por la jornada 35 de LaLiga.",
           "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-real-madrid-hoy-en-vivo-horarios-y-que-canal-tv-transmite-el-clascio-online-por-laliga-noticia/",
           "image_url": "https://i.ytimg.com/vi/YHdr6fgUtEA/hqdefault.jpg",
-          "published_at": "2026-05-10T17:55:49Z",
+          "published_at": "2026-05-10T19:20:20Z",
           "embed_url": "https://cdn.jwplayer.com/videos/RtP64WHS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3412,12 +3462,12 @@
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Dónde ver TV EN DIRECTO, Barcelona-Real Madrid ONLINE y qué canales transmiten El Clásico por LaLiga?",
+          "title": "¿Dónde ver El Clásico, Barcelona-Real Madrid y cuánto va el partido por LaLiga?",
           "summary": "Revisa dónde puedes ver El Clásico, Barcelona vs Real Madrid EN VIVO y qué canales transmiten el partido por la fecha 35 de LaLiga desde el estadio Camp Nou.",
           "body_text": "Barcelona recibe a Real Madrid por la jornada 35 de LaLiga en el estadio Camp Nou, este domingo 10 de mayo del 2026. En una nueva edición de El Clásico, ‘Blaugranas’ y Madridistas pasan por diferentes momentos, el equipo de Hansi Flick se encuentra a una victoria de gritar campeón, mientras que los comandado por Álvaro Arbeloa, en una crisis debido a la pelea que hubo en la semana entre Aurélien Tchouaméni y Federico Valverde. Con todos estos condimentos se disputará un nuevo clásico español. Aquí te mostramos dónde ver el partido ONLINE y qué canal transmite El Clásico EN DIRECTO. El partido de Barcelona vs Real Madrid se transmitirá a través de DirecTV Sports y DGO para todo el Perú y Sudamérica por la fecha 35 de LaLiga EA Sports. Por otro lado, en España, será televisado a través de Movistar LaLiga y Movistar+. Luego, en México, la transmisión del partido va a través de Sky Sports. Y en Estados Unidos, los canales que pasan el partido son: ESPN Deportes, ESPN Select, fuboTV y ESPN App. El Clásico, Barcelona vs Real Madrid por la jornada 35 de LaLiga empieza a las 2:00 PM de Perú y 9:00 PM de España este domingo 10 de mayo del 2026 en el estadio Camp Nou. El clásico, Barcelona vs Real Madrid en Perú será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en España será transmitido por Movistar LaLiga en televisión por cable y a través de la plataforma de streaming Movistar+ y LaLiga TV Bar por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en México será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming izzi por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Colombia será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Argentina será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Chile será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Ecuador será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Venezuela será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Bolivia será transmitido por Tigo Sports en televisión por cable y a través de la plataforma de streaming TiGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Uruguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Paraguay será transmitido por DirecTV en televisión por cable y a través de la plataforma de streaming DGO por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Costa Rica será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Honduras será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Guatemala será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Puerto Rico será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en El Salvador será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Panamá será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Nicaragua será transmitido por Sky Sports en televisión por cable y a través de la plataforma de streaming Sky+ por la jornada 35 de LaLiga. El clásico, Barcelona vs Real Madrid en Estados Unidos será transmitido por ESPN, ESPN Select y ESPN Deportes en televisión por cable y a través de la plataforma de streaming fuboTV por la jornada 35 de LaLiga.",
           "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-real-madrid-hoy-en-vivo-horarios-y-que-canal-tv-transmite-el-clascio-online-por-laliga-noticia/",
           "image_url": "https://i.ytimg.com/vi/YHdr6fgUtEA/hqdefault.jpg",
-          "published_at": "2026-05-10T17:55:49Z",
+          "published_at": "2026-05-10T19:20:20Z",
           "embed_url": "https://cdn.jwplayer.com/videos/RtP64WHS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3716,6 +3766,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "83f6c181a78e",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Uber has always wanted to be more than a ride; now it has reason to hurry | TechCrunch",
+          "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
+          "body_text": "For years, Uber talked about becoming a super app. Then Waymo started picking up passengers in San Francisco, and the conversation grew more urgent. The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important. Two weeks ago, Uber held its annual GO-GET product event in New York and announced something its executives had been circling for a long time: users in the U.S. can now book hotels inside the Uber app, through a partnership with Expedia Group, with access to more than 700,000 properties worldwide. Uber One members — the company’s subscription tier at $9.99 a month — get 20% off a rotating list of 10,000 hotels and 10% back in credits. Vacation rentals through Vrbo will follow later this year, along with restaurant reservations via OpenTable. In the meantime, a “Shop for Me” feature lets users order from stores that aren’t even on the platform. The announcements, taken together, were the most concrete picture yet of something Uber has been trying to conjure since at least 2019: that an app with 199 million monthly active users could become the app they use for nearly everything. Praveen Neppalli Naga, Uber’s CTO, offered the clearest explanation of the company’s thinking at TechCrunch’s StrictlyVC event late last month in San Francisco. The super app concept has existed for years in India and Southeast Asia, he noted, but U.S. versions have mostly flopped by bolting services onto traffic rather than building toward a reason to stay. His answer to what fits? Membership. Every new category — food, groceries, now hotels — gives someone another reason to pay for Uber One. “I take Uber, go to the airport, take a flight, take another Uber, go to a hotel, go to a restaurant,” he said. “There is a flow you can actually build into it.” Flights are not available yet, though Naga didn’t rule them out. Uber tried flight booking in Europe years ago without success. “First let’s get the hotel things done,” he said. Financial services sound like a possibility too — Uber already offers a debit card to drivers in Mexico — though how far that goes, or when, remains unclear. Said Naga: “Never say never.” Uber isn’t alone in this race. Airbnb, arguably the company most directly threatened by Uber’s hotel push, announced its own transportation ambitions in late March — a partnership with Welcome Pickups to offer airport transfers in 125 cities across Asia, Europe, and Latin America, structured to keep users inside the Airbnb app rather than sending them to Uber. Meanwhile, Elon Musk has spent three years promising to turn X into an “everything app” in the WeChat mold, and is now nearing what he describes as a long-stated goal: X Money, a banking and payments platform built inside the social network, is expected to launch publicly soon. X claims 500 million monthly active users. The big question is how many super apps the American market will actually support. WeChat works in China partly because the alternative was a patchwork of inferior options. In the U.S., people already have apps they like for most of what Uber wants to do. Getting them to consolidate inside a single platform requires either a compelling reason — Uber One’s discounts, say — or a seamless enough experience that switching feels worth it. Uber’s bet is that its installed base is the moat. Its users have already handed over a credit card. Convincing them to book a hotel, or order from a store they’d never find on Uber Eats, is an easy lift compared with convincing them to download something new. Its most recent earnings, reported a few days ago, suggest Uber Eats may be the strongest argument for that thesis: delivery revenue grew 34% year over year in the first quarter, to $5.07 billion, making it easily the fastest-growing part of the business and pulling almost even with mobility in gross bookings. Uber’s stock is still down about 8% from a year ago — suggesting that Wall Street isn’t fully convinced. But the company says that 50 million people are now paying for Uber One, and together they account for roughly half the company’s total bookings. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone.",
+          "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/uber-concurrent-rides-india.jpg?w=1200",
+          "published_at": "2026-05-10T18:08:54Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/07/uber-concurrent-rides-india.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "7a611acb98bd",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3737,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "8b2b7d8ed6f9",
@@ -3761,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "a58ea9cf3d94",
@@ -3785,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "9226d8bc5499",
@@ -3809,7 +3883,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "c7c11ee24f54",
@@ -3833,7 +3907,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "46149f36c5ef",
@@ -3857,7 +3931,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "baa7a2edbfbb",
@@ -3881,7 +3955,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "905e4c9982de",
@@ -3898,30 +3972,6 @@
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/instax-wide-400.jpg?resize=1200,900",
           "published_at": "2026-05-09T15:45:00Z",
           "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/instax-wide-400.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "18e393ee2491",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. | TechCrunch",
-          "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-          "body_text": "As was widely reported, Oracle axed an estimated 20,000 to 30,000 people via email on March 31. One of the employees cut that day told TechCrunch about the experience: “I had, like, this weird feeling in my stomach. I went to go sign into the VPN, and the VPN was like, ‘this user doesn’t exist anymore.’ Then I called my friend, and I was like, ‘Hey, can you see me in Slack?’ And she said, ‘No, your account’s been deactivated.’” The person soon received an email stating their role was terminated immediately. The severance offer arrived a few days later. But Oracle’s terms would quickly become a point of contention — and some laid-off employees would push back. Oracle offered fairly standard Corporate America terms to laid off employees. In exchange for signing a release waiving their right to sue, employees received four weeks of pay for the first year, plus one additional week per year of service, capped at 26 weeks. The company was also paying for one month of COBRA insurance. The catch: Although stock compensation often makes up a good chunk of a tech worker’s pay, particularly at Oracle, the company did not accelerate soon-to-vest RSUs. Any shares that hadn’t vested by the termination date were forfeited. That held true even for stock granted as retention incentives or in place of salary increases tied to promotions. One long-tenured employee lost $1 million in stock that was just four months from vesting; RSUs made up about 70% of his compensation, Time reported . Some employees also discovered that if they were classified as remote workers by the company, and didn’t work in a state with stronger worker provisions like California or New York, the company said they didn’t qualify for WARN Act protections. The WARN Act is a law that requires companies conducting mass layoffs to give employees two months notice prior to letting them go. It’s triggered when 50 or more people are impacted at one location. By classifying employees as remote workers, the minimum location requirements can be sidestepped. Some people were unaware they were classified as remote workers, because they were near an office and worked on a hybrid schedule. Even if they were covered by the WARN Act, this did not necessarily extend severance, the former Oracle employee said. That’s because Oracle included the two-months’ WARN notice pay in its existing calculation of four-weeks, plus one week per year. For a short time, a group of employees tried to negotiate en masse with Oracle, according to a letter seen by TechCrunch. At least 90 people signed a public petition urging the database and cloud computing giant to match the terms of other big tech companies conducting mass layoffs in the name of AI. For instance, Meta’s severance package, according to an email published by Business Insider, started at 16 weeks of base pay, plus two weeks for every year of employment and covered COBRA for 18 months.",
-          "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-          "published_at": "2026-05-08T22:59:05Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -4335,6 +4385,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d6af99a43e62",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Putin varnar landet – kan bli som Ukraina",
+          "summary": "Putin försöker inte dölja sitt missnöje med att partnerlandet Armenien nu vänder blicken västerut mot EU.",
+          "body_text": "Putin försöker inte dölja sitt missnöje med att partnerlandet Armenien nu vänder blicken västerut mot EU. Dessutom bjöd landet in Zelenskyj som hånade Moskvas nedbantade segerparad. Kreml kräver nu att Armenien tar avstånd – och Putin varnar för att landet kan gå samma öde till mötes som Ukraina. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Putin varnar Armenien för närmande till EU. Armenien bjöd in Zelenskyj, som hånade Moskva. Kreml kräver att Armenien tar avstånd – annars hot om ”ukrainskt öde”. Sprickan fördjupas efter Armeniens avstånd från ryska allianser. Relationen mellan Ryssland och Armenien har länge varit ansträngd. Men under den här veckan blev den bottenfryst. Förutom att Armenien antagit lagar som ska kratta manegen för ett framtida EU-medlemskap så var landet under måndagen och tisdagen värd för ett bilateralt toppmöte för Europeiska politiska gemenskapen (EPC) i huvudstaden Jerevan. Under en presskonferens efter lördagens segerparad krävde president Vladimir Putin att Armenien fattar ett val: EU eller Ryssland.",
+          "url": "https://www.expressen.se/nyheter/varlden/putin-varnar--armenien-for-eu-narmande/",
+          "image_url": "https://static.bonniernews.se/images/b6/a8/b6a89d67d490484da4df6c6bec1f4c97/16x9/original.png",
+          "published_at": "2026-05-10T18:43:45Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/putin-varnar--armenien-for-eu-narmande/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "3ebb7639c0de",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Ligor stjäl kor – slår till på natten",
+          "summary": "Hundratals kor har försvunnit från bönder i Tyskland. Polisen tror att organiserade ligor ligger bakom.",
+          "body_text": "Tyska ligor tros ha hittat ett nytt sätt att tjäna kosing. Efter nattliga räder vaknar allt fler bönder till tomma hagar. Nu jagar polisen de misstänkta boskapstjuvarna. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En flock på 48 nötkreatur försvann från en bonde i den tyska byn Raddusch under natten mot fredagen, rapporterar Euronews . Bara två veckor tidigare stals 74 nötkreatur i Brandenburg. Lastbilsspår hittades på platsen. Tidigare i april drabbades en gård i Falkenberg av en stöld av 69 kalvar. Även då hittades spår efter en lastbil på platsen. Utredarna tror att de okända gärningspersonerna kört en 40 ton tung långtradare direkt fram till ladugårdsporten. Boskapsstölder har blivit ett allt vanligare problem i Tyskland , rapporterar Euronews med hänvisning till nuvarande uppgifter. Det handlar om allt från får och nötkreatur till gäss och bisamhällen. Den tyska polisens teori är att organiserade gäng ligger bakom stölderna, som främst äger rum i östra Tyskland. Tjuvarna slår oftast till på natten och tar bort djurens öronmärken för att dölja deras ursprung. I vissa fall finns det tecken på att lugnande medel ska ha använts för att hålla djuren stilla, enligt utredarna. Misstanken är att boskapen förs till östeuropeiska länder eller länder utanför EU för försäljning. Eftersom djurtransporter kontrolleras vid gränserna tros djuren smugglas i stulna lastbilar som inte har tillstånd för djurtransporter. Enligt utredarna riktar de kriminella gängen även in sig på dyr jordbruksutrustning och GPS-system från traktorer.",
+          "url": "https://www.expressen.se/nyheter/varlden/tyska-kor-forsvinner-ligor-slar-till-mot-gardar/",
+          "image_url": "https://static.bonniernews.se/images/69/a2/69a29f8bca084ea1a876b22e17c6328f/16x9/original.jpg",
+          "published_at": "2026-05-10T18:31:04Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/tyska-kor-forsvinner-ligor-slar-till-mot-gardar/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "f9ed4efc4355",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4356,7 +4454,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "d70de64b0c89",
@@ -4366,7 +4464,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Gängmännen tog sig in via stege – våldtog flickor",
+          "title": "Gängmän tog sig in via stege – våldtog flickor",
           "summary": "Via en brandstege klättrade männen in på ett HVB-hem, där de misstänks ha våldtagit – och filmat – en 16-årig flicka. I utbyte ska de ha gett henne knark. Nu står fyra män, minst två med gängkopplingar, inför rätta för flera våldtäkter på utsatta flickor.",
           "body_text": "Via en brandstege klättrade männen in på ett HVB-hem, där de misstänks ha våldtagit – och filmat – en 16-årig flicka. Nu står fyra män, minst två med gängkopplingar, inför rätta för flera våldtäkter på utsatta flickor. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. ■ Flera flickor, intagna på HVB-hem, ska ha blivit utsatta för våldtäkter. ■ En av dem ska ha filmats, och fått droger i utbyte mot sex. ■ Fallet prövar en ny lag om barnvåldtäkt. Tidigt på morgonen, klockan 04.25, den 17 september 2025 stoppar en polispatrull en bil på en enslig väg i Skåne. Poliserna är på väg till ett HVB-hem, efter att personal har slagit larm om obehöriga. Personal har en dryg vecka tidigare sett två unga män klättra ner för fasaden via en brandstege, och de tror att en 16-årig flicka på boendet nu blir utsatt igen. – Bara ett par hundra meter ifrån adressen så möter vi en bil som vi stannar, och då är det två stycken kända individer som tillhör Challannätverket. Challan är ett kriminellt nätverk, som enligt polisen ägnar sig åt narkotikahandel, från området Charlottesborg i Kristianstad . Efter att männen har visiterats får de köra vidare, men bara några veckor senare grips de med tre av sina vänner. Nu pågår en rättegång mot männen, som är misstänkta för att, i olika konstellationer, ha gjort sig skyldiga till bland annat våldtäkt mot barn, kränkande fotografering och barnpornografibrott.",
           "url": "https://www.expressen.se/nyheter/sverige/gangman-misstanks-ha-valdtagit-barn-pa-hvb-hem/",
@@ -4380,7 +4478,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "a27a94404e26",
@@ -4404,7 +4502,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "eeece6dd7c5f",
@@ -4428,7 +4526,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "82a8610e260b",
@@ -4445,54 +4543,6 @@
           "image_url": "https://static.bonniernews.se/images/f8/36/f836fa064a2d48aaab0c71b31d153ed0/16x9/original.jpg",
           "published_at": "2026-05-10T12:47:53Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/avgangskrav-efter-storforlust-keir-starmer-tanker-sitta-kvar/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "c4b59c8b035b",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tuffa beskedet för oljepriserna",
-          "summary": "Den första LNG-tankern har passerat Hormuzsundet sedan Irankrigets början i slutet på februari. Det är ett viktigt signalvärde, enligt expert.",
-          "body_text": "Den första LNG-tankern har passerat Hormuzsundet sedan Irankrigets början i slutet på februari. Det är ett viktigt signalvärde, enligt expert, som ändå varnar för att oljepriserna kommer ligga på höga nivåer året ut. – Det kommer ta ett tag innan vi når priser på förkrigsnivåer, säger Christian Kopfer, råvaruanalytiker vid Arctic. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Att ett fartyg med råvara som last har fått gå genom Hormuzsundet är ett positivt besked, enligt Christian Kopfer. – Signalvärdet säger att det i alla fall är ett steg i rätt riktning, säger han. Även om just den här tankern transporterar flytande naturgas, och därmed inte direkt påverkar oljemarknaden, menar han att den stora betydelsen är symbolisk. – Det är ett signalvärde att någonting är på väg att hända i positiv mening. Det är det man ska ta fasta på. Det är brist både på olja och naturgas i världen och just nu tar länderna från sina respektive lager men de börjar sina. Det skulle ha stor betydelse om fler fartyg med råvaror kunde passera sundet. – Förhoppningsvis når man en överenskommelse här. Då kommer det innebära att priserna går ner och vi undviker en energikris, framför allt in i hösten och vintern, säger Christian Kopfer och fortsätter: – Men det kommer ta ett tag innan vi når priser på förkrigsnivåer, eftersom det ska byggas upp lager igen och det har varit skador på viss infrastruktur. Förmodligen inte förrän 2027. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/forsta-gas-tankern-genom-hormuz-experten-viktigt-signalvarde/",
-          "image_url": "https://static.bonniernews.se/images/cf/2f/cf2fa8fac8c94c7eaadacf1fe85fbd22/16x9/original.png",
-          "published_at": "2026-05-10T12:08:41Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/forsta-gas-tankern-genom-hormuz-experten-viktigt-signalvarde/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "dea1be3f073f",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Diktatorns nya hot efter Irankriget: Atombomber",
-          "summary": "Nordkorea ändrar grundlagen: atombomb används om Kim Jong-Un mördas. Beslutet kommer efter attacken mot Irans ledare.",
-          "body_text": "Nordkorea ändrar sin grundlag efter attacken mot Ayatolla Ali Khamenei. Om någon skulle försöka döda Kim Jong-Un på ett liknande sätt har landet nu klara rutiner för hur det ska hanteras. Hämnden ska ske med en atombomb, skriver The Telegraph . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Nordkorea ändrar grundlagen och kommer att använda kärnvapen vid ett eventuellt attentat mot Kim Jong-Un. Beslutet kommer efter USA:s attack mot Irans förre ledare Ayatolla Ali Khamenei. Experter menar att hotet om hämnd är tydligare än tidigare. Nordkorea har ändrat sin konstitution så att militären tvingas avfyra landets atombomber om diktatorn Kim Jong-Un mördas av utländskt makt, rapporterar The Telegraph. Förändringen sker efter att Irans förre ledare Ayatolla Ali Khamenei och hans närmsta allierade i iranska regimen dödades i en amerikansk attack i början av USA:s krig mot Iran. Detta offentliggjordes under en genomgång för höga medlemmar i Sydkoreas regering, som hölls av deras underrättelsetjänst. Enligt Sydkoreas underrättelsetjänst har Kim Jong-Un befälet över Nordkoreas kärnvapenstyrkor – men ändringen gör att det finns klara rutiner för vedergällning om han skulle mördas. – Detta kan ha varit policy tidigare, men det har fått ökad betydelse nu när det har skrivits in i grundlagen, säger Andrei Lankov, professor i historia och internationella relationer vid Kookminuniversitet i Seoul till The Telegraph. Han menar att attacken mot Ali Khamenei var en väckarklocka för Nordkorea och att diktaturen ”nu måste vara livrädda”.",
-          "url": "https://www.expressen.se/nyheter/varlden/diktatorns-nya-hot-efter-irankriget-atombomber/",
-          "image_url": "https://static.bonniernews.se/images/3b/8e/3b8ea1e4bc8c48309f8d9002b26f703a/16x9/original.png",
-          "published_at": "2026-05-10T11:52:12Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/diktatorns-nya-hot-efter-irankriget-atombomber/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4527,20 +4577,20 @@
           "sort_order": 7
         },
         {
-          "id": "ca0b172f116c",
+          "id": "c4b59c8b035b",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Väder Idag 13.51 Nu vänder det – temperaturer under det normala väntas",
+          "title": "Världen Idag 14.08 Första gas-tankern genom Hormuz – experten: ”Viktigt signalvärde”",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/vader/nu-vander-det-temperaturer-under-det-normala-vantas/",
+          "url": "https://www.expressen.se/nyheter/varlden/forsta-gas-tankern-genom-hormuz-experten-viktigt-signalvarde/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/vader/nu-vander-det-temperaturer-under-det-normala-vantas/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/forsta-gas-tankern-genom-hormuz-experten-viktigt-signalvarde/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4551,20 +4601,20 @@
           "sort_order": 8
         },
         {
-          "id": "67a45fc7aa15",
+          "id": "dea1be3f073f",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen Idag 11.58 Experten avfärdar ledande teorin: ”Inte the smoking gun”",
+          "title": "Världen Idag 13.52 Diktatorns nya hot efter Irankriget: Atombomber",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/experten-avfardar-ledande-teorin-inte-the-smoking-gun-/",
+          "url": "https://www.expressen.se/nyheter/varlden/diktatorns-nya-hot-efter-irankriget-atombomber/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/experten-avfardar-ledande-teorin-inte-the-smoking-gun-/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/diktatorns-nya-hot-efter-irankriget-atombomber/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
