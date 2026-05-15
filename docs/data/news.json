@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T11:03:37Z",
+  "generated_at": "2026-05-15T13:06:52Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d6f1e3900707",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Argentinas inflation sjunker",
+          "summary": "Nyheter från TV4: Argentinas inflation sjunker",
+          "body_text": "Argentinas inflation backar nu. Arkivbild. Efter att bland annat devalverat landets valuta, peson, med mer än 50 procent och frusit landets statsbudget, lyckades visserligen Milei få ned inflationen från 211,4 procent i december 2023 till 117,8 procent året därpå. Det senaste året har dock inflationen skjutit fart igen och uppgick till 3,4 procent föregående månad. ”En återgång till det normala\", skriver Milei på X.",
+          "url": "https://www.tv4.se/artikel/tt-260515-argentinainflation1-b40f546f/argentinas-inflation-sjunker",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlfj20lBv1FUg/17df5e92b7dea2b7a208d7ce0493e21b/Argentinas_inflation_backar_nu._Arkivbild._",
+          "published_at": "2026-05-15T11:39:27Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260515-argentinainflation1-b40f546f/argentinas-inflation-sjunker",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "076e48fb39b4",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "a68c044333a4",
@@ -79,31 +103,31 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
-          "id": "d271cf329e99",
+          "id": "90d1ccbcca21",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
           "provider": "TV4",
           "category": "Ekonomi",
           "surface": "video",
           "source_kind": "video",
-          "title": "Lyft på Stockholmsbörsen",
-          "summary": "Nyheter från TV4: Lyft på Stockholmsbörsen",
-          "body_text": "Ringer in med fallande index. Arkivbild. Uppgången leds av Ericsson som stiger 2,3 procent följt av Tele2 som i sin tur lyfter 1,4 procent. Mot strömmen går framförallt gruvjätten Boliden, aktien faller 2,6 procent. Uppgången sker samtidigt som oljepriset nu lyft med nästan 2 procent och ett fat Brent-olja kostar 107 dollar.",
-          "url": "https://www.tv4.se/artikel/tt-260515-marknaden1-795ee0be/lyft-pa-stockholmsborsen",
+          "title": "Stockholmsbörsen vänder ned",
+          "summary": "Nyheter från TV4: Stockholmsbörsen vänder ned",
+          "body_text": "Ringer in med fallande index. Arkivbild. Efter att varit stängd i samband med Kristi himmelsfärdsdag så steg Stockholmsbörsen tydligt vid öppning. Under förmiddagen har det dock blivit alltmera negativt klimat samtidigt som ledande marknader runtom i Europa backar. Dessutom indikerar förhandeln på Wall Street en negativ start när New York-börserna öppnar klockan 15.30 På OMXS30-listan tar livekasinooperatören Evolution täten efter att franska banken BNP Paribas tagit upp bevakningen av aktien som i sin tur stiger 1,7 procent. Klädjätten H&M som gått svagt en längre tid stiger nu 1,5 procent. I motsatt riktning går framförallt Boliden som faller 4,4 procent. Detta samtidigt som oljepriset nu lyfter med drygt 2 procent och ett fat Brent-olja kostar nästan 108 dollar.",
+          "url": "https://www.tv4.se/artikel/tt-260515-marknaden1-795ee0be/stockholmsborsen-vander-ned",
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdluBerYqSqn30/a2175ca48f61c5caba4dae860ae658f2/Ringer_in_med_fallande_index._Arkivbild.",
           "published_at": "2026-05-15T07:13:02Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260515-marknaden1-795ee0be/lyft-pa-stockholmsborsen",
+          "embed_url": "https://www.tv4.se/artikel/tt-260515-marknaden1-795ee0be/stockholmsborsen-vander-ned",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
             "Ekonomi",
             "TV4"
           ],
-          "is_live": false,
-          "sort_order": 2
+          "is_live": true,
+          "sort_order": 3
         },
         {
           "id": "573f5315d470",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlSh_iBdxnBRs/f7ccc6ef0912bc5734ecdc77a9c8cf6a/President_Donald_Trump_tillsammans_med_sin_kinesiske_motsvarighet_Xi_Jinping.",
           "published_at": "2026-05-15T04:05:03Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260515-oljepris1-5f7a5831/oljepris-stiger-efter-trump-utspel",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "479e3167b024",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Ombytliga börser i Asien – ned i Seoul",
-          "summary": "Nyheter från TV4: Ombytliga börser i Asien – ned i Seoul",
-          "body_text": "Handelsdagen i Seoul har skiftat. Arkivbild. Börssvängningarna kommer i samband med den amerikanske presidenten Donald Trumps besök i Kina. Kospi i Sydkorea steg med cirka 1,4 procent strax efter öppning och slog nytt rekord. Några timmar senare hade indexet i stället backat till minus 3,0 procent, vilket sammanföll med ett nytt ryck för oljepriset. Handeln på Tokyobörsen ser likartad ut under dagen. Nikkei 225 öppnade uppåt men hade kring lunch backat till minus 1,3 procent. Bredare Topix är ned 0,4 procent. I Kina var börserna i stället tydligt ned vid öppning och stigande vid lunch. Shanghai ökar 0,2 procent, Shenzhen 0,4 procent. Hongkongbaserade Hang Seng backar 0,9 procent.",
-          "url": "https://www.tv4.se/artikel/tt-260515-asienbors1-f97ccefc/ombytliga-borser-i-asien-ned-i-seoul",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlAqX405agP7A/86476026300c85430b5cb8c71176dc64/Handelsdagen_i_Seoul_har_skiftat._Arkivbild.",
-          "published_at": "2026-05-15T03:29:54Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260515-asienbors1-f97ccefc/ombytliga-borser-i-asien-ned-i-seoul",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Ses som föregångsland i Europa • Totalsågar Storbritannien: ”Som Palme utan hjärna” Besättningen flögs ut ur Sverige – snart kan Ukraina få fartyget Skuggflottefartyget får inte segla vidare: ”Flaggbytet är falskt”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Forskarnas mål: Stoppa övergrepp – innan de sker Spårar IP-adresser – i jakt på hotfulla pedofilutpressare Sexbrottsdömde sonen hängdes ut: ”Påverkar familjen” Ses som föregångsland i Europa • Totalsågar Storbritannien: ”Som Palme utan hjärna” Besättningen flögs ut ur Sverige – snart kan Ukraina få fartyget Skuggflottefartyget får inte segla vidare: ”Flaggbytet är falskt”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1775,6 +1775,106 @@
           "sort_order": 0
         },
         {
+          "id": "427f2476aa1d",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Steve Doocy rolls into Destin with pirate escort | Fox News Video",
+          "summary": "'Fox & Friends' co-host Steve Doocy reports live from Destin, Florida, during the 70th Billy Bowlegs Pirate Festival as part of the 'For All America' road trip on 'Fox & Friends.'",
+          "body_text": "'Fox & Friends' co-host Steve Doocy reports live from Destin, Florida, during the 70th Billy Bowlegs Pirate Festival as part of the 'For All America' road trip on 'Fox & Friends.'",
+          "url": "https://www.foxnews.com/video/6395674744112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/377f3c37-d0b3-4d6e-a834-9e0a2768fa65/5a78e382-9c95-4e8a-a5e7-29c33a8b5ed0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-15T12:43:49Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395674744112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "8f918dbf879f",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Gad Saad discusses 'Suicidal Empathy' amid dangerous sanctuary policies | Fox News Video",
+          "summary": "Author Gad Saad discusses his book \"Suicidal Empathy: Dying to Be Kind\" and its insights into progressive ideology regarding sanctuary policies. This comes as Fairfax County, VA, faces criticism over a prosecutor's handling of illegal migrant crimes.",
+          "body_text": "Author Gad Saad discusses his book \"Suicidal Empathy: Dying to Be Kind\" and its insights into progressive ideology regarding sanctuary policies. This comes as Fairfax County, VA, faces criticism over a prosecutor's handling of illegal migrant crimes. Author Gad Saad presents his new book, \"Suicidal Empathy: Dying to Be Kind,\" arguing that misguided kindness leads to catastrophic policy decisions. Saad connects this to the controversy surrounding Fairfax County, Virginia's sanctuary policies, where dangerous illegal migrants were released despite prior offenses.",
+          "url": "https://www.foxnews.com/video/6395664468112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79d7df6d-d3c0-4e65-b0bf-f9319a9c891f/b4312272-dbe1-46ed-be85-e8362b44575f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-15T11:28:55Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395664468112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "967f3f0013fa",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump reaffirms US policy on Taiwan after Xi's warning | Fox News Video",
+          "summary": "Heritage Foundation senior fellow Steve Yates joins 'Fox & Friends' to discuss Taiwan's geopolitical and economic role after President Donald Trump said U.S. policy on the country remains unchanged after his trip to China.",
+          "body_text": "Heritage Foundation senior fellow Steve Yates joins 'Fox & Friends' to discuss Taiwan's geopolitical and economic role after President Donald Trump said U.S. policy on the country remains unchanged after his trip to China. Donald Trump discusses US policy on Taiwan, stating it remains unchanged. Chinese President Xi Jinping warns that the Taiwan question is the most important issue, risking clashes and conflicts if mishandled. Experts Steve Yates and Marco Rubio emphasize Taiwan's vital geopolitical and economic role, especially for global container shipping, urging careful diplomacy for stability in the region.",
+          "url": "https://www.foxnews.com/video/6395662156112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/177073ac-6848-495e-a6ce-aae0be795e58/f4ade33c-6fbd-4a0f-a04d-b07cb2b17f55/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-15T11:14:27Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395662156112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "2e3c181633ee",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Alex Murdaugh retrial faces obstacles to find impartial jury | Fox News Video",
+          "summary": "Alex Murdaugh's retrial faces significant obstacles in finding an impartial jury due to the case's massive publicity and prior conviction being overturned.",
+          "body_text": "Alex Murdaugh's retrial faces significant obstacles in finding an impartial jury due to the case's massive publicity and prior conviction being overturned. Alex Murdaugh's upcoming retrial faces significant challenges in finding an impartial jury, as discussed by criminal defense attorney Josh Ritter. Prosecutors warn that the case's extensive public attention will complicate jury selection, potentially requiring a change of venue. Murdaugh's original conviction was overturned due to jury interference, adding to the complexities of securing a fair trial.",
+          "url": "https://www.foxnews.com/video/6395660314112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65abc277-e43d-4c55-802c-7e7b73b084ad/0e07dee7-0391-44e3-8daf-4fa3ad49e194/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-15T10:52:38Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395660314112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
           "id": "608fefe4538a",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1797,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 5
         },
         {
           "id": "0c7610399893",
@@ -1822,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "9852d1401873",
@@ -1847,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 7
         },
         {
           "id": "8811c84a5c12",
@@ -1872,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 8
         },
         {
           "id": "94b737c4175a",
@@ -1897,7 +1997,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 9
         },
         {
           "id": "7fcb9984f368",
@@ -1922,106 +2022,6 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "a1745b985130",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "China has an interest in preserving Iranian regime, expert says | Fox News Video",
-          "summary": "Middle East and intelligence expert Danny Citrinowicz discusses what is next following the Trump-Xi summit on 'Fox News Live.'",
-          "body_text": "Middle East and intelligence expert Danny Citrinowicz discusses what is next following the Trump-Xi summit on 'Fox News Live.'",
-          "url": "https://www.foxnews.com/video/6395640815112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c712a20f-8de5-40c9-8d26-76e58de15d86/77c45ba5-124d-4a17-af5b-57a3cea7a102/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-15T06:22:09Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395640815112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "050e7701ee3f",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "President Trump was well-prepared to stand firm on Taiwan, Rebecca Grant says | Fox News Video",
-          "summary": "National security analyst Rebecca Grant discusses the Trump-Xi summit on 'Fox News Live.'",
-          "body_text": "National security analyst Rebecca Grant discusses the Trump-Xi summit on 'Fox News Live.'",
-          "url": "https://www.foxnews.com/video/6395638653112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2ff7594-f3c7-4f15-ab36-1b927d399f03/6621bce3-dd28-4ca4-b947-1b07af24c874/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-15T06:19:01Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395638653112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "ba62ac8504b1",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "This is the 'challenge' in Trump-Xi talks, national security expert observes | Fox News Video",
-          "summary": "National Security Institute's Jamil Jaffer discusses the Trump-Xi summit on 'Fox News Live.'",
-          "body_text": "National Security Institute's Jamil Jaffer discusses the Trump-Xi summit on 'Fox News Live.'",
-          "url": "https://www.foxnews.com/video/6395638420112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3dec7cd-95cf-42ac-b417-9581ba7f5a72/74d35587-aecf-437f-83c0-6348f34836ed/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-15T06:03:39Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395638420112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 9
-        },
-        {
-          "id": "aa53b745b688",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "The leverage on the Strait of Hormuz is with the US, expert says | Fox News Video",
-          "summary": "Pepperdine University Dean Pete Peterson discusses talks between China and the U.S. on 'Fox News Live.'",
-          "body_text": "Pepperdine University Dean Pete Peterson discusses talks between China and the U.S. on 'Fox News Live.'",
-          "url": "https://www.foxnews.com/video/6395637634112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c7ecaed-3b06-46af-9922-080c47a250fe/33af010e-5323-4d7f-aff9-30c176da9384/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-15T05:57:16Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395637634112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
           "sort_order": 10
         },
         {
@@ -2167,6 +2167,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "fb6556765553",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
+          "summary": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved.",
+          "body_text": "French prosecutors say a 15-year-old boy has been killed and a boy of 13 seriously injured in a suspected drugs-related shooting in the western city of Nantes. The attackers were wearing balaclavas and used automatic weapons, according to the country's Interior Minister Laurent Nuñez. The 13-year-old and a third boy who was also wounded are now out of danger, Nuñez added. \"The shots were fired at three young men,\" said Nantes prosecutor Antoine Leroy, who believed the attack was a settling of scores in relation to drug offences. But Nuñez suggested that the victims could have been innocent bystanders caught in the crossfire. \"The motives behind this shooting, as the public prosecutor has stated, are very likely linked to drug trafficking,\" he said. \"That said... that does not mean that the individuals who were targeted, and a fortiori the person who died, were themselves involved in trafficking. I want to be absolutely clear on that\". The 15-year-old boy's aunt, named as Paola, from Nantes' working-class neighbourhood of Port-Boyer, strongly rejected the possibility that he was involved with drugs. She told reporters her nephew \"was not a criminal\". \"You shouldn't mix everything up,\" said Paola. \"He was just in the wrong place at the wrong time. He wasn't involved in any of that; he had simply come to visit a friend.\" As people gathered around the police cordon, the mother of one of the victims could be heard crying in despair from her car. It's an area where high-rise apartment blocks sit along the banks of the Erdre river. \"The boys were on their way to their grandmother's house,\" explains Stella, 35. \"I was home when it happened. A police officer called me to bring my son back and tell me my nephew was injured\".",
+          "url": "https://www.bbc.com/news/articles/cj9pze942j8o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f776/live/20ae1a50-5051-11f1-a5f3-5f5ecc46603b.jpg",
+          "published_at": "2026-05-15T11:49:18Z",
+          "embed_url": "https://www.bbc.com/news/articles/cj9pze942j8o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "d4c1d604b8a2",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2188,30 +2212,6 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "7f626df2e8ec",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Trump-Xi meeting: Beijing trip ends with Zhongnanhai tour",
-          "summary": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
-          "body_text": "US President Donald Trump's visit to Beijing ended with a tour of Zhongnanhai, the exclusive, heavily guarded 14th Century compound where top Chinese leaders live and work. Xi leading him on the tour was yet another moment for the cameras in a two-day trip heavy on pageantry but scant on details about policy agreed by both sides. The much-anticipated summit between the superpowers follows tensions over trade and the Iran war, but both leaders seemed conciliatory, with Trump calling his visit \"incredible\". Xi described it as a \"new bilateral relationship\" and promised to send Trump seeds of the Chinese roses they admired during their stroll, to which Trump replied: \"I love that, it's great.\" Zhongnanhai, located about 20km east of Tiananmen Square, is widely regarded as China's White House. Once used as a secondary residence for Chinese emperors, the compound is prized for its lakes and manicured gardens. It became the seat of power for China's Communist government in 1949. Today it is one of the most politically significant landmarks in Beijing, and an invitation to it for foreign dignitaries is often seen as an honor and a sign of closeness. When Trump asked about other foreign leaders who had been inside the compound, Xi said it's \"extremely rare\", before adding that Russian leader Vladimir Putin had been there. Belarus's president Alexander Lukashenko also visited Zhongnanhai last year. US presidents have previously visited the compound too, including Barack Obama, George W Bush and Richard Nixon during his historic 1972 trip. During Trump's tour on Friday, he paused to admire \"the most beautiful roses anyone has ever seen\" and trees, which Xi said were 200 to 400 years old. \"They live that long?\" Trump asked. \"Yes, there are also 1,000-year-old trees in other places,\" Xi replied. Hours before their walk in Zhongnanhai, Fox News aired a pre-recorded interview with Trump, in which he praised Xi as \"warm\" and \"very smart\".",
-          "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9975/live/7807af40-503e-11f1-b682-cf91850925ea.jpg",
-          "published_at": "2026-05-15T09:17:59Z",
-          "embed_url": "https://www.bbc.com/news/articles/crrpj0ejxp8o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
           "sort_order": 1
         },
         {
@@ -2263,6 +2263,30 @@
           "sort_order": 3
         },
         {
+          "id": "3e65c64d4090",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+          "summary": "\"Patriotic\" UK anti-immigration social media accounts have been traced to Sri Lanka and Vietnam.",
+          "body_text": "The \"Great British People\" Facebook page, which purports to be from Yorkshire, has had 1.3 million views for its latest video of an elderly white British man crying about his pension. Other videos show reporters discussing \"the overwhelming scale of mass immigration\" and asking viewers if they miss \"the Britain we used to know\". But it is not clear whether the creator of the videos knows the UK at all: the account is really run by someone based in Sri Lanka. It is one of dozens of interconnected Facebook and Instagram accounts identified by BBC Panorama and the Top Comment podcast , which create and share anti-immigration AI-generated posts about the UK to large audiences - but the creators are often located hundreds or thousands of miles away. Several are from Sri Lanka, the US and elsewhere in Europe, while others are in Vietnam and the Maldives, or linked to Iran and the UAE, according to information from Facebook's transparency tools, interviews with the content creators and other tell-tale signs on social media such as spelling and accounts they follow. One expert told the BBC that research shows people are worse at detecting AI fakes than they think, and the more AI content they see, the more likely they are to distrust authentic material. London Mayor Sir Sadiq Khan - who has commissioned research into AI-generated images showing the capital in decline, which he says harm the city's reputation abroad - said while some of the people behind the accounts are motivated merely by money, others are backed by hostile states such as Russia and Iran. It is difficult to verify claims of direct state involvement, but a handful of the accounts do share posts sympathetic towards the Russian and Iranian governments. The owners of the accounts did not respond to the BBC's attempts to contact them. Several accounts have repurposed their pages, seemingly to increase engagement, switching from topics such as \"Make America Great Again\" and \"Life in the USA\" to using AI to push anti-immigration narratives. Some of them have also occasionally experimented with content more sympathetic to migrants. States and other groups are attempting to manipulate public opinion with Fake AI accounts such as these, according to Prof Sander van der Linden, a social psychologist at the University of Cambridge, who described them as \"new evolution of influence operations\". It is easy for AI fakers living overseas to pose as British nationals online, he said, because it is relatively cheap to buy social media accounts originally set up in the UK. The accounts have been racking up hundreds of thousands of views with AI-generated videos of fake scenes - such as the House of Commons filled with men in traditional Arab clothing imposing Sharia law. Others feature fake interviews with women in hijabs discussing how the UK needs to be more Islamic. The image of the UK these videos create can be contradictory. In some widely shared content, this decline is associated with Muslim immigration, but at the same time several videos from the same creators present Islamic countries as being idyllic in comparison.",
+          "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c664/live/adc17350-4f8f-11f1-9ab5-d7f2c647b333.png",
+          "published_at": "2026-05-15T05:01:37Z",
+          "embed_url": "https://www.bbc.com/news/articles/ckgpyn30dp3o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
           "id": "9078f711f1fb",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2272,7 +2296,7 @@
           "source_kind": "mixed",
           "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
           "summary": "The Russkaya Obshina group stages raids to look for activities contravening \"traditional Russian values\".",
-          "body_text": "Warning: This article contains discriminatory language Katya was about to blow out the candles on her 30th birthday cake when masked men burst into the nightclub hired for her party, and began physically and verbally attacking her friends. \"They called us faggots and lesbians. I could hear violence from every corner,\" she told a BBC World Service investigation. Her mother was told to get down on all fours, she says. The swoop was instigated by a vigilante group, called Russkaya Obshina, that wants to accelerate President Vladimir Putin's agenda to stamp out what he describes as Western liberalism, and promote traditional family-oriented values. As is sometimes the case in these raids, members of the police joined them. Russkaya Obshina stated in a subsequent video it shared on social media that it was looking for evidence of LGBT \"propaganda\", which is illegal in Russia. Nothing of this nature was found, but Katya was nevertheless interrogated by law enforcement. Nine months later she was convicted for blasphemy because there had been a red neon crucifix-shaped light hanging on the wall of the nightclub. Russkaya Obshina is the biggest of a network of nationalist groups in Russia, and the number of raids it has carried out has rapidly increased in the past two years, our investigation found. We have also found evidence suggesting it has received funding from charities run by figures close to the Kremlin. Katya, well-known in her home city of Arkhangelsk for hosting parties for an alternative crowd, says during her interrogation a law enforcement officer told her she did not conform with traditional values and there was \"something wrong with her\". She was sentenced to 200 hours of community service. One witness, a member of Russkaya Obshina, told the court \"the sight of the cross being displayed at the party caused him emotional shock and deep confusion\". Katya says she now lives in fear because coverage of her case in the local media, and on Russkaya Obshina's social channels, has led to widespread online harassment. Nevertheless, she felt it important to share her story with the BBC. Over the past year, the BBC World Service has spoken to half a dozen current and former members of Russkaya Obshina, as well as those, like Katya, who have been impacted by its actions. The picture that has emerged is of a movement of highly motivated nationalist and religious Russians dedicated to patrolling towns and cities, and raiding shops, warehouses, hostels, nightclubs and abortion clinics, looking for any activity they feel violates their traditional values and potentially breaks the law. They then lobby for the prosecution of their targets.",
+          "body_text": "Warning: This article contains discriminatory language Katya was about to blow out the candles on her 30th birthday cake when masked men burst into the nightclub hired for her party, and began physically and verbally attacking her friends. \"They called us faggots and lesbians. I could hear violence from every corner,\" she told a BBC World Service investigation. Her mother was told to get down on all fours, she says. The swoop was instigated by a vigilante group, called Russkaya Obshina, that wants to accelerate President Vladimir Putin's agenda to stamp out what he describes as Western liberalism, and promote traditional family-orientated values. As is sometimes the case in these raids, members of the police joined them. Russkaya Obshina stated in a subsequent video it shared on social media that it was looking for evidence of LGBT \"propaganda\", which is illegal in Russia. Nothing of this nature was found, but Katya was nevertheless interrogated by law enforcement. Nine months later she was convicted for blasphemy because there had been a red neon crucifix-shaped light hanging on the wall of the nightclub. Russkaya Obshina is the biggest of a network of nationalist groups in Russia, and the number of raids it has carried out has rapidly increased in the past two years, our investigation found. We have also found evidence suggesting it has received funding from charities run by figures close to the Kremlin. Katya, well-known in her home city of Arkhangelsk for hosting parties for an alternative crowd, says during her interrogation a law enforcement officer told her she did not conform with traditional values and there was \"something wrong with her\". She was sentenced to 200 hours of community service. One witness, a member of Russkaya Obshina, told the court \"the sight of the cross being displayed at the party caused him emotional shock and deep confusion\". Katya says she now lives in fear because coverage of her case in the local media, and on Russkaya Obshina's social channels, has led to widespread online harassment. Nevertheless, she felt it important to share her story with the BBC. Over the past year, the BBC World Service has spoken to half a dozen current and former members of Russkaya Obshina, as well as those, like Katya, who have been impacted by its actions. The picture that has emerged is of a movement of highly motivated nationalist and religious Russians dedicated to patrolling towns and cities, and raiding shops, warehouses, hostels, nightclubs and abortion clinics, looking for any activity they feel violates their traditional values and potentially breaks the law. They then lobby for the prosecution of their targets.",
           "url": "https://www.bbc.com/news/articles/cq5p306l7weo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8cc7/live/e25b3560-4e04-11f1-ac78-2112837ce2aa.jpg",
           "published_at": "2026-05-15T00:04:45Z",
@@ -2284,7 +2308,31 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
+        },
+        {
+          "id": "b60a62b40761",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Indian economy: Why Modi wants Indians to buy less gold and travel less",
+          "summary": "Modi has urged Indians to save dollars as war and oil shocks strain the rupee and economy further this year.",
+          "body_text": "As the war in Iran drags into its third month with no clear end in sight, Prime Minister Narendra Modi is asking Indians to tighten their belts in ways not seen since the pandemic. Work from home if possible, he urged . Avoid unnecessary foreign travel. Buy less gold. Consume less fuel. The appeal, delivered at a public event in Hyderabad on Sunday, carried echoes of the Covid years, when the prime minister relied on symbolic mass participation to rally the country around a national cause. This time, the collective mission is economic survival: save dollars. Unsurprisingly, the message sent a wave of panic across India's financial markets. \"My view is we should prepare for paranoia before the event,\" Uday Kotak, a veteran Indian banker, told a gathering of industry leaders this week, adding, \"We must prepare for the worst.\" \"We have not seen the impact in the last two months of the Middle East war in terms of energy price transmission… It's coming and its coming big and consumers have not felt the pressure at all,\" Kotak said. India's vulnerability is straightforward. The country imports roughly 90% of its crude oil and half its gas needs. With the Strait of Hormuz - the narrow Gulf chokepoint through which much of the world's oil flows - shut for more than two months amid the war, India's import bill has ballooned by billions of dollars. Air fares have surged as airlines pass on fuel costs. Overseas holidays are becoming more expensive. Gold imports, a chronic drain on foreign exchange, have become a fresh target, with the government sharply raising import duties on gold and silver to 15%. \"What was initially seen as a temporary shock could now turn into a prolonged crisis. If that happens, India could be among the worst-affected economies,\" says Rajeswari Sengupta, an associate professor of economics at Mumbai-based Indira Gandhi Institute of Development Research. Behind Modi's unusually direct appeal lies a deeper anxiety in Delhi: not that India is running out of dollars, as it did during the balance-of-payments crisis of 1991, but that demand for dollars is beginning to outstrip supply at an uncomfortable pace. Back then, India had barely enough reserves to cover three weeks of imports.",
+          "url": "https://www.bbc.com/news/articles/c775v7dlndyo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e713/live/fe15e590-4e89-11f1-94b7-2b18c5340a3f.jpg",
+          "published_at": "2026-05-14T23:49:30Z",
+          "embed_url": "https://www.bbc.com/news/articles/c775v7dlndyo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 6
         },
         {
           "id": "14829722f970",
@@ -2308,7 +2356,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "9f9afa0c5248",
@@ -2318,11 +2366,11 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Trump-Xi summit: The US president brought top CEOs to Beijing but few big deals emerge",
-          "summary": "There were plenty of choreographed ceremonies but no sweeping trade breakthroughs.",
-          "body_text": "US President Donald Trump has now left Beijing saying he has struck \"fantastic trade deals, great for both countries\" after meeting his Chinese counterpart Xi Jinping. Trump, who was accompanied to China by a high-profile business delegation spanning agriculture, aviation, electric vehicles and artificial intelligence (AI) chips, described ties between the two countries as \"the world's most consequential economic relationship\". The two-day summit was defined more by warm rhetoric and symbolism than concrete economic outcomes, with day one featuring elaborate ceremonies and upbeat language but no sweeping trade breakthrough or significant business agreements. After concluding talks on Friday, Trump said the meeting had been \"very successful\", while Xi called it a \"historic and landmark\" visit. But despite the choreography, there was no major trade deal or structural agreement. In an interview with Fox News, Trump said China had agreed to order 200 Boeing planes, its first purchase of US-made commercial jets in nearly a decade, though a smaller number than analysts had expected. But Beijing stopped short of confirming any major purchases. Asked about Trump's comments, foreign ministry spokesperson Guo Jiakun did not directly address the figure, saying instead that the \"essence of China-US economic and trade relations is mutual benefit and win-win co-operation\". He added that both sides should work to implement the \"important consensus\" reached by the two leaders and bring greater stability to bilateral trade ties and the global economy. The BBC has contacted Boeing for comment. There are still questions over the trade truce agreed in October, which saw Washington suspend steep tariff increases on Chinese goods while Beijing eased back from restricting rare earth exports. US Trade Representative Jamieson Greer, who was with Trump in China, told Bloomberg TV on Friday that it had not yet been decided whether to extend the truce beyond November.",
+          "title": "Trump-Xi summit: US and China conclude 'very successful' talks but no deals confirmed",
+          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+          "body_text": "US President Donald Trump left Beijing after a two-day summit saying he had struck \"fantastic trade deals, great for both countries\", but few details have emerged on what the two superpowers agreed. Trump arrived for a high-stakes summit with Chinese leader Xi Jinping on Wednesday, accompanied by several CEOs: a high-profile business delegation spanning agriculture, aviation, electric vehicles and artificial intelligence (AI) chips. Trade was near the top of the agenda despite recent tensions over the Iran war, and businesses hoped for key deals as well as an extension of the tariff truce that is due to expire in November. The visit was defined by warm rhetoric and symbolism. Trump was wooed with a packed itinerary that included an honour guard, a state banquet, and an invitation to the exclusive compound where China's Communist Party leaders live and work. The US president seemed impressed and invited Xi to the White House in September. He said talks had been \"very successful\", while Xi called it a \"historic and landmark\" visit. But neither side has announced trade breakthroughs or significant business deals. President Trump, however, spoke to reporters aboard Air Force One and said China has agreed to buy 200 Boeing jets, with a potential commitment to buy an additional 750 planes. The BBC has contacted Boeing for comment. Trump also said American farmers will be happy with his trade deals because China would be buying \"billions of dollars\" of soybeans. There has been no confirmation of any deals or purchases from the Chinese. If the Boeing orders are finalised, this would be the plane-maker's first major Chinese deal in nearly a decade. It was largely shut out of the world's second-largest aviation market because of trade tensions between Beijing and Washington. Asked about Trump's earlier comments to Fox News in which he said deals had been made, Chinese foreign ministry spokesperson Guo Jiakun only said that the \"essence of China-US economic and trade relations is mutual benefit and win-win co-operation\". He added that both sides should work to implement the \"important consensus\" reached by the two leaders and bring greater stability to bilateral trade ties and the global economy.",
           "url": "https://www.bbc.com/news/articles/clypj01189lo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0dc8/live/3e019230-5042-11f1-acce-79302838e29f.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/85aa/live/3c9e1750-5052-11f1-89a3-d1f559421220.jpg",
           "published_at": "2026-05-14T21:06:44Z",
           "embed_url": "https://www.bbc.com/news/articles/clypj01189lo",
           "play_mode": "iframe",
@@ -2331,32 +2379,8 @@
             "World",
             "BBC"
           ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "4f32511d4475",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "BBC on the ground during march through Jerusalem's Old City",
-          "summary": "Tens of thousands of Israeli celebrants have marched through the area captured by Israel in the 1967 Arab-Israeli war.",
-          "body_text": "Tens of thousands of Israeli celebrants have marched through Jerusalem's Old City, captured by Israel in the 1967 Arab-Israeli war. Israeli annexation of East Jerusalem is not recognised by many of its allies, including the UK. The annual march is frequently accompanied by racist chants and violence towards Palestinian residents and businesses. The BBC's Middle east correspondent Lucy Williamson spent the day on the ground observing the commemorations. Iranian authorities have imposed an internet ban but using trusted sources, special correspondent Fergal Keane hears from those traumatised by conflict and government repression. Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War. President Trump has suspended anoperation to guide ships through the Strait of Hormuz - BBC Verify explains the timeline. The United Arab Emirates (UAE) is quitting oil cartel Opec after nearly 60 years of membership. Eyewitnesses captured the moment a burning fuel tanker drove through the centre of Hasakah, Syria, leaving a trail of fire behind it. BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks. Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire between the US and Iran. The BBC's Nick Marsh takes a look at whether fuel costs will get cheaper now the US and Iran have agreed a ceasefire.",
-          "url": "https://www.bbc.com/news/videos/cdxp0143q0po",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8a4e/live/d8b8c430-4fd2-11f1-8b8c-6d33e1d5abb6.jpg",
-          "published_at": "2026-05-14T20:51:47Z",
-          "embed_url": "https://www.bbc.com/news/videos/cdxp0143q0po",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 7
+          "is_live": true,
+          "sort_order": 8
         },
         {
           "id": "510f7dcc1c49",
@@ -2380,7 +2404,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "c9943f1117c0",
@@ -2404,7 +2428,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "6009364837f1",
@@ -2428,7 +2452,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 10
+          "sort_order": 11
         },
         {
           "id": "4a0b2bd6c156",
@@ -2447,30 +2471,6 @@
           "embed_url": "https://www.bbc.com/news/articles/cx219xwxg9no",
           "play_mode": "page_iframe",
           "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
-          "sort_order": 11
-        },
-        {
-          "id": "cf943dead07e",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-          "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
-          "body_text": "At least 16 people have been killed, including two children, in Kyiv after Russia launched a massive overnight drone and missile strikes on the Ukrainian capital and other regions, officials have said. The victims' bodies were pulled from the rubble of a partially destroyed apartment building in Kyiv, where rescuers are still searching for at least 20 people feared missing, Ukraine's emergencies service DSNS said. It said 47 people, including two children, were injured. Friday has been declared a day of mourning in the city. It is the third day in a row Ukraine has reported deaths, as Moscow ramps up its assault after a three-day ceasefire expired on Monday. The overnight barrage saw more than 670 drones and 56 missiles targeting the country, President Volodomyr Zelensky said. This is among the largest attacks Russia has mounted since the start of its full-scale invasion of Ukraine in 2022. The strikes hit more than 180 sites across Ukraine, including more than 50 residential buildings, Zelensky added. He said a total of more than 1,560 Russian drones had targeted Ukrainian cities since Tuesday night, describing Moscow's assault as \"definitely not the actions of those who believe the war is coming to an end\" and urging allies to hold Moscow accountable. After an urgent meeting with Ukraine's top military and security officials, Zelensky said a \"significant number\" of drones were shot down, with an \"overall interception rate\" of 93%. But the same figures for missiles stood at 73%, the Ukrainian leader said, admitting that the \"key challenge\" remained in how to defend against Russian ballistic missiles. He said the \"priority number one\" was to secure more deliveries of \"anti-ballistic systems and missiles for them\". Ukraine has repeatedly said it has a massive shortage of US-made Patriot missile systems which can effectively intercept Russian ballistics. Reacting to the latest Russian attacks, EU Commission President Ursula von der Leyen accused Moscow of indiscriminately targeting civilians.",
-          "url": "https://www.bbc.com/news/articles/cq5p8yygq94o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d41b/live/7ad75e60-4fac-11f1-b682-cf91850925ea.jpg",
-          "published_at": "2026-05-14T07:13:26Z",
-          "embed_url": "https://www.bbc.com/news/articles/cq5p8yygq94o",
-          "play_mode": "iframe",
-          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -2600,6 +2600,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "cf599f6c59e6",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Trump dice que trató liberación de Jimmy Lai con Xi pero es un tema “difícil” para Beijing",
+          "summary": "Donald Trump aseguró que trató con Xi Jinping el caso de Jimmy Lai, magnate hongkonés encarcelado, y calificó el tema como “difíil” para China.",
+          "body_text": "El presidente estadounidense, Donald Trump, afirmó este viernes que planteó a su homólogo chino, Xi Jinping, el caso del magnate hongkonés de los medios Jimmy Lai, aunque admitió que se trata de un asunto “difícil” para Beijing. “Es un asunto difícil. Lo planteé. Es difícil para él”, declaró Trump a los periodistas bordo del Air Force One tras abandonar China, al ser preguntado por el editor hongkonés, condenado a 20 años de prisión bajo la polémica Ley de Seguridad Nacional por su papel en las multitudinarias protestas antigubernamentales en la excolonia británica en 2019. Según Trump, el mandatario chino le aseguró que “va a considerar lo mejor” respecto a este caso, sin más detalles. Antes de viajar a China, el presidente estadounidense había avanzado que trataría durante la visita la posible liberación de Lai, que tiene 78 años y cuya salud se ha agravado desde que fue encerrado en un centro de máxima seguridad en agosto de 2020. El de Lai, crítico con el Gobierno chino y fundador de Apple Daily, es el caso más emblemático que ha llegado a los tribunales de la excolonia desde que está vigente la Ley de Seguridad Nacional. El Tribunal Superior de Hong Kong le condenó en febrero a 20 años de prisión -aunque enfrentaba una pena máxima de cadena perpetua- por los delitos de conspiración para coludir con potencias foráneas y conspiración para difundir publicaciones sediciosas. Los fiscales sostuvieron que Lai articuló desde la redacción y la estructura corporativa de Apple Daily una campaña sostenida para promover sanciones internacionales contra Hong Kong y el Gobierno central chino, cargos que el acusado y su equipo legal siempre rechazaron. El abogado de Lai, Robert Pang declaró en enero pasado que el magnate sufre hipertensión, diabetes, cataratas, problemas de visión por oclusión venosa y otras dolencias, en tanto la Fiscalía hongkonesa ha defendido la calidad de la atención sanitaria en prisión. La causa de Jimmy Lai ha suscitado críticas de organizaciones de prensa y derechos humanos y ha provocado la reacción de varios líderes internacionales, entre ellos Trump, quien expresó su “tristeza” cuando se conoció el veredicto de culpabilidad del editor. Amnistía Internacional (AI) y otras entidades han denunciado que, desde que Beijing impuso su Ley de Seguridad Nacional, la libertad de prensa ha colapsado en Hong Kong, amenazando con socavar el sistema de libertades del que goza la excolonia británica bajo el principio ‘Un país, dos sistemas’ acordado tras su devolución a China en 1997 y que debía garantizar que la isla pudiera mantener un alto grado de autonomía durante al menos 50 años.",
+          "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-dice-que-trato-liberacion-de-jimmy-lai-con-xi-jinping-pero-es-un-tema-dificil-para-beijing-estados-unidos-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/N53OD2XRKRDYRLJ5PYLIXZSY2Y.jpg?auth=6ee55b6d00c986e483c542dd79b590452586c9e763359154f3b769e108cdbb6e&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-15T12:58:59Z",
+          "embed_url": "https://elcomercio.pe/mundo/eeuu/donald-trump-dice-que-trato-liberacion-de-jimmy-lai-con-xi-jinping-pero-es-un-tema-dificil-para-beijing-estados-unidos-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Donald Trump, Xi Jinping, Jimmy Lai, Hong Kong, China, Estados Unidos, relaciones China EE.UU., magnate hongkonés, libertad de prensa, tensión diplomática",
+            "EEUU",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "3ca1e109f371",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2612,7 +2638,7 @@
           "body_text": "Juan Alfonso Baptista no empezó su carrera entrando a caballo ni inspirando frases memorables de telenovela. Empezó bailando y cantando “Sube a mi nube”. Antes de que “Pasión de gavilanes” lo convirtiera en uno de los rostros más populares de la televisión latinoamericana y de que varias generaciones lo identificaran con el nombre de Óscar Reyes, fue un gólmodi de “Nubeluz”, aquella fiesta infantil interminable, con dalinas, nubelinas y nubetores. “Fue un programa peruano que después se produjo en Venezuela con Gaby Espino y Scarlet Ortiz. Yo era uno de los gólmodis que bailaba y cantaba: ‘¡eoe, eoa!’ Y esa fue mi primera oportunidad real de hacer televisión diaria en RCTV”, recuerda. Previo a ese salto a la televisión infantil, Baptista alternaba las campañas publicitarias con el deporte de alta competencia. Desde los 13 años fue arquero en la liga de menores de la Selección Nacional de Fútbol de Venezuela. En paralelo, estudió ontología durante dos años y medio gracias a una beca deportiva. “Era futbolero, era buen futbolista”, dice con una mezcla de orgullo y nostalgia. Ese tránsito entre el deporte, la publicidad, los estudios y “Nubeluz”; terminó llevándolo al escenario actoral. Debutó en teatro en 1995 y luego empezó a abrirse camino en la televisión venezolana con “A todo corazón”. Sin embargo, su carrera atravesó una pausa obligada por una parálisis facial que lo mantuvo alejado de las cámaras durante casi dos años. Regresó en 1999 con “Enamorada” y, desde entonces, encadenó proyectos en Venezuela, México y Estados Unidos. Fue un recorrido de 26 años marcado por la constancia, los tropiezos y también los “regalos”. Uno de los más grandes, admite, fue “Pasión de gavilanes”. “Ha sido un regalo de la vida para todos los que participamos en ello. Uno hace las cosas con el corazón y con amor, pero no sabe lo que se viene. Porque realmente no hay una fórmula escrita que te diga qué tanto éxito puede tener un proyecto. La novela fue un fenómeno, nadie esperaba esa dimensión”. Volver a interpretar a Óscar Reyes dieciocho años después fue, admite, una experiencia distinta, casi una conversación entre el actor que fue y el hombre que es ahora. “Obviamente ya tenemos un poco más de madurez. Los años van pasando, piensas distinto, piensas diferente a como pensabas hace 20 años atrás. Fue un reencuentro muy chévere, muy bonito, y la verdad muy contento de poder darle seguimiento ya desde otra perspectiva”, dice. La vigencia del personaje todavía lo sorprende. “Me dicen ‘Óscar, Óscar’ y uno se queda como sorprendido”, cuenta, como si el reconocimiento aún le pareciera algo prestado. Quizás por eso nunca termina de acomodarse en el rótulo de “galán”. “Ese término a mí me ha costado mucho entenderlo. El renglón como galán como tal nunca lo he sido ni ha sido mi intención serlo. Pero sí es bonito que haya un reconocimiento por tu manera de trabajar o por ciertas picardías. Eso me parece más atractivo”, aclara. Cuando se le pregunta por el Perú, el tono se vuelve especialmente cálido. Lo recuerda como un lugar que lo recibió con cariño. “Me quedo con su gente tan linda, tan educada, buena onda, organizada”, destaca. Menciona Lima, el Cusco, Machu Picchu. Y aunque reconoce el prestigio mundial de la gastronomía peruana, insiste en que lo más valioso fue la gente. También nombra a sus afectos peruanos. “Mi queridísima amiga Stephanie Cayo que ahora está de corazón partío”, dice primero, sonriendo, y luego suma a Christian Meier y Gian Marco, por quien expresa una gran admiración: “Qué gran artista, lo respeto muchísimo”. A sus 26 años de trayectoria, Juan Alfonso Baptista no habla de la carrera como una línea ascendente ni como una colección de triunfos. Prefiere verla como una sucesión de aprendizajes, pausas, tropiezos y reencuentros. Por eso, cuando se le pregunta por el punto de quiebre de su recorrido, no menciona un papel, un premio o una oportunidad que marcara un antes y un después en su carrera. “El punto de quiebre de cualquier artista es que se quiebre uno emocionalmente, que le gane más la injusticia, el desamor y que se vea afectada esa condición de hipersensibilidad, porque trabajamos con emociones constantemente”, dice. Luego hace una pausa y agrega: “El artista, a final de cuentas, trabaja con el incentivo. Y el incentivo es lo que nos mueve a la humanidad. Y eso se llama amor”. De ahí que mire con recelo tanto el éxito como el fracaso. Los dos, dice, engañan si uno les cree demasiado. “Son dos primos hermanos muy cercanos y son los mayores estafadores que pueden existir. Lo que queda, al final, no es la gloria ni la caída, sino la manera en que uno aprende a pararse frente a ambas. Todo es relativo. Es paz, es armonía, es empatía con unos y con otros... ahí está, creo, el verdadero éxito”, refiere. Hoy, Juan Alfonso Baptista no parece hablar desde la necesidad del reconocimiento, sino desde un lugar más sereno. “Yo creo que esta es una etapa de despertar mucho más amable, muy consciente, con Dios mucho más presente, porque eso es realmente paz. Tengo muchas ganas de dar lo mejor de mí, con una fuerza muy grande, y espero poder transmitirla para impulsar a otros desde las buenas acciones”, subraya.",
           "url": "https://elcomercio.pe/luces/musica/fui-golmodi-en-nubeluz-bailaba-y-cantaba-eoe-eoa-juan-alfonso-baptista-de-pasion-de-gavilanes-recuerda-su-paso-por-el-peru-y-sus-inicios-en-tv-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NGTFBUJLKZEF5N64HDHS5TICQA.jpg?auth=d27df7670553349363187ee216e9ca89ee4102bcbd14d2b8750d2031abce3bf1&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-15T11:27:00Z",
+          "published_at": "2026-05-15T12:40:00Z",
           "embed_url": "https://elcomercio.pe/luces/musica/fui-golmodi-en-nubeluz-bailaba-y-cantaba-eoe-eoa-juan-alfonso-baptista-de-pasion-de-gavilanes-recuerda-su-paso-por-el-peru-y-sus-inicios-en-tv-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2623,54 +2649,28 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "ce4bd3becf02",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "La guerra secreta salió a la luz: qué implica el bombardeo encubierto de Arabia Saudita contra Irán",
-          "summary": "Un informe reveló que Arabia Saudita lanzó ataques encubiertos contra Irán en medio de la guerra, un hecho que podría marcar un giro histórico en la rivalidad entre ambas potencias del Medio Oriente. El analista internacional Carlos Novoa advirtió que el episodio refleja un cambio preocupante en la estrategia saudí de no confrontación directa con Teherán",
-          "body_text": "La guerra en el Medio Oriente sumó un nuevo capítulo tras una revelación que apunta a que Arabia Saudita ejecutó numerosos ataques secretos dentro de Irán en medio del conflicto entre Teherán, Estados Unidos e Israel. Las operaciones se realizaron como represalia por ofensivas iraníes contra territorio saudí y exponen el creciente nivel de tensión entre dos potencias regionales del Medio Oriente que históricamente habían librado su disputa a través de aliados, o proxys, y conflictos indirectos. Según el informe exclusivo de Reuters, los ataques saudíes ocurrieron a finales de marzo y fueron descritos por funcionarios occidentales e iraníes como operaciones de represalia “ojo por ojo” después de que Irán lanzara drones y misiles contra el reino saudí. La agencia remarcó que es la primera vez que se tiene constancia de que Arabia Saudita ejecutó acciones militares directas dentro de Irán. Las operaciones fueron llevadas a cabo por la Fuerza Aérea saudí. Reuters no pudo confirmar cuáles fueron exactamente los objetivos atacados en Irán. Estados Unidos e Israel bombardearon Irán el pasado 28 de febrero, lo que dio inicio a la actual guerra. A manera de represalia, Teherán atacó con misiles y drones a países aliados de Washington en el Medio Oriente, como Arabia Saudita, Emiratos Árabes Unidos, Kuwait, Bahréin, Qatar, entre otros. Además de bases militares de Estados Unidos, Irán también golpeó en esos países sitios civiles, aeropuertos e infraestructura petrolera y gasística. Desde el 7 de abril está vigente un alto el fuego ordenado por el presidente de Estados Unidos Donald Trump, mientras negocia con Irán el fin de la guerra. De acuerdo con Reuters, tras las represalias de Arabia Saudita contra Irán, hubo contactos diplomáticos intensos que derivaron en que el número de ataques iraníes contra suelo saudí disminuyera drásticamente entre finales de marzo e inicios de abril. Según fuentes occidentales de Reuters, los proyectiles disparados contra Arabia Saudita en los días previos al alto el fuego procedían de Irak y no del propio Irán, lo que indica que Teherán había reducido los ataques directos mientras que sus grupos aliados seguían operando. Uno de los funcionarios iraníes confirmó a Reuters que Teherán y Riad habían acordado reducir la tensión, y afirmó que la medida tenía como objetivo “cesar las hostilidades, salvaguardar los intereses mutuos y evitar la escalada de tensiones”. El informe también señala que la guerra dejó expuesta la vulnerabilidad de Arabia Saudita pese a su alianza militar con Washington, lo que habría empujado al reino a adoptar una postura más agresiva frente a Teherán. Irán y Arabia Saudita mantienen desde hace décadas una intensa rivalidad política, religiosa y estratégica por el liderazgo del Medio Oriente. Irán es la principal potencia del islam chiita desde la revolución islámica de 1979, mientras que Arabia Saudita ejerce influencia como principal referente del islam sunita y custodio de los lugares más sagrados del islam. Esa competencia se ha reflejado en conflictos regionales como las guerras en Yemen, Siria, Irak y Líbano, donde ambos países han respaldado a bandos opuestos mediante milicias aliadas y grupos armados, evitando hasta ahora una confrontación militar directa entre sus fuerzas. La rivalidad también está marcada por el peso militar de ambas potencias. Irán posee una de las mayores capacidades militares de la región, con un amplio programa de misiles balísticos, drones de largo alcance y una extensa red de grupos aliados en Medio Oriente, como Hezbolá en el Líbano y milicias en Irak y Yemen. Arabia Saudita, por su parte, cuenta con uno de los ejércitos mejor financiados del mundo gracias a sus ingresos petroleros y dispone de moderno armamento adquirido principalmente a Estados Unidos y países europeos, incluyendo aviones de combate avanzados, sistemas antimisiles y una poderosa fuerza aérea. Mientras Teherán ha apostado por una estrategia de guerra asimétrica y redes regionales, Riad ha dependido históricamente de su alianza militar con Washington para contener la influencia iraní. El periodista y analista internacional Carlos Novoa, especializado en temas del Medio Oriente, advirtió que los ataques encubiertos de Arabia Saudita contra Irán representan un hecho “preocupante” y potencialmente histórico en la disputa por el liderazgo regional en Medio Oriente, debido a que ambos países habían evitado durante décadas una confrontación militar directa. Novoa, quien investigó la rivalidad entre ambos Estados en su tesis de maestría en la Pontificia Universidad Católica del Perú (PUCP), explicó a El Comercio que la tensión entre Riad y Teherán se profundizó tras la revolución islámica de 1979 encabezada por el ayatolá Ruhollah Jomeini. “Siempre han estado en una disputa por el liderazgo en la región. Arabia Saudita representa el liderazgo sunita e Irán el liderazgo chiita”, sostuvo. Novoa recordó que, históricamente, ambos países actuaron mediante guerras indirectas y grupos aliados en distintos escenarios regionales, evitando enfrentamientos abiertos entre sus fuerzas armadas. “Siempre han actuado a través de sus proxys o de sus ejes. Esta es la primera vez que va de manera directa”, afirmó. Aunque Novoa evitó afirmar que el episodio constituye una crisis irreversible, sí alertó sobre el riesgo de una escalada mayor dependiendo de la reacción iraní. “No sé si es grave, eso dependerá de cómo responda Irán, pero preocupante al menos sí es”, señaló. El analista explicó que la rivalidad entre ambos países no solo responde a intereses geopolíticos, sino también a la pugna religiosa y política entre el liderazgo sunita saudí y el liderazgo chiita iraní, que durante décadas ha marcado el equilibrio de poder en Medio Oriente. Para Novoa, los ataques revelados por Reuters sí podrían representar un cambio histórico en la postura de Arabia Saudita frente a Irán. “Arabia Saudita siempre ha tratado de cuidarse, de no entrar directamente”, explicó. En ese sentido, consideró posible que haya existido presión de Estados Unidos para que Riad asuma un rol más activo en la confrontación regional. “Me atrevería a especular que aquí hay una presión de Estados Unidos y del gobierno de Trump para que Arabia Saudita, siendo un aliado estratégico, pueda intervenir de manera más directa”, indicó. Según el especialista, el reino saudí tradicionalmente ha preferido mantener una estrategia de contención antes que involucrarse abiertamente en operaciones militares contra territorio iraní. Novoa sostuvo que el carácter secreto de las operaciones tendría relación con el temor saudí a provocar una respuesta militar directa de Irán. “Arabia Saudita sabe que cualquier acción que tome va a tener una reacción”, afirmó. A su juicio, Riad intentaría evitar una dinámica de represalias permanentes que pueda derivar en un conflicto regional fuera de control. “Quieren evitar una respuesta directa de la República Islámica de Irán porque eso se convertiría en un ir y venir permanente”, alertó. El analista advirtió además que el mayor peligro es que Irán responda utilizando grupos aliados o milicias vinculadas a Teherán en distintos países de Medio Oriente. “El riesgo siempre está latente, sobre todo si Irán responde de una manera organizada y con proxys. Ahí la situación podría empeorar muchísimo”, sostuvo. Sin embargo, Novoa consideró que Washington buscará evitar una escalada regional abierta que termine involucrando directamente a Estados Unidos, Israel y las monarquías del Golfo. “Estados Unidos va a tratar de evitarlo porque si este conflicto escala e involucra directamente a Washington e Israel, Trump podría pagar un costo político enorme de cara a las elecciones de noviembre”, concluyó.",
-          "url": "https://elcomercio.pe/mundo/oriente-medio/arabia-saudita-bombardeo-iran-en-secreto-claves-de-la-escalada-en-medio-oriente-estados-unidos-israel-donald-trump-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/EDG2D5GLRRAKPLGJRDQ3A6AN2A.jpg?auth=a8903aeaa16ab86db92ae4acbb5747fb1285e4c925021dd94b27da402d5602a1&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-15T11:22:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/arabia-saudita-bombardeo-iran-en-secreto-claves-de-la-escalada-en-medio-oriente-estados-unidos-israel-donald-trump-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Arabia Saudita bombardeó Irán en secreto, qué implica el bombardeo encubierto de Arabia Saudita contra Irán, irán, arabia saudita, guerra, bombardeos, ataques, proxys, donald trump, mohammed bin salman, alto el fuego, represalias, Arabia Saudita Irán, Arabia Saudita atacó Irán, ataques encubiertos Arabia Saudita, bombardeos secretos contra Irán, guerra Irán Arabia Saudita, conflicto Medio Oriente 2026, escalada en Medio Oriente, tensión entre Irán y Arabia Saudita, guerra regional Medio Oriente, Arabia Saudita guerra Irán, Irán y Arabia Saudita conflicto, ataques saudíes contra Irán, Estados Unidos Israel Irán, Trump Irán Arabia Saudita",
-            "Oriente Medio",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
           "sort_order": 1
         },
         {
-          "id": "b3531062a1f6",
+          "id": "07cda2f349a2",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Rusia prueba el Satán II: “el misil más potente del mundo que puede superar cualquier escudo antimisiles”",
-          "summary": "La exitosa prueba del misil intercontinental Sarmat, conocido como “Satán II”, busca reforzar la estrategia de disuasión del Kremlin frente a Occidente. Para el analista Andrés Gómez de la Torre, Rusia quiere demostrar que sigue siendo una potencia capaz de “superar cualquier defensa antimisiles” y mantener vigente la lógica nuclear de la Guerra Fría",
-          "body_text": "La reciente prueba exitosa del misil balístico intercontinental ruso RS-28 Sarmat, conocido como “Satán II”, volvió a colocar el riesgo nuclear en el centro de la atención geopolítica global. En medio de la guerra en Ucrania y del creciente enfrentamiento entre Rusia y Occidente, el presidente Vladimir Putin presentó el ensayo como una demostración de fuerza estratégica y aseguró que el arma entrará en servicio antes de finalizar el año. Analistas advierten que el mensaje va más allá del plano militar: Moscú busca reforzar su capacidad de disuasión, presionar a Estados Unidos y la OTAN, y recordar que sigue siendo una potencia nuclear capaz de desafiar cualquier escudo antimisiles occidental. El martes, Putin destacó las capacidades del Sarmat al afirmar que se trata del sistema de misiles “más potente del mundo”, con una capacidad cuatro veces superior a la de sistemas occidentales comparables. Según el Kremlin, el Sarmat puede superar cualquier escudo antimisiles enemigo y reemplazará al antiguo sistema soviético Voevoda. Putin también señaló que otros proyectos estratégicos rusos, como los misiles Poseidón y Burevestnik, están en su fase final de desarrollo. La prueba se produce en medio de cuestionamientos al programa Sarmat, que sufrió retrasos por pruebas fallidas. Además, recientemente fue detenido por presunto soborno el director de Krasmash, empresa encargada de fabricar estos misiles. Al día siguiente, Putin insistió en que Rusia continuará modernizando su arsenal nuclear estratégico para desarrollar misiles capaces de superar los actuales y futuros sistemas antimisiles occidentales. Durante una visita al Instituto de Tecnología Térmica de Moscú, responsable del diseño de misiles como Tópol, Bulavá y Yars, el presidente destacó que estos sistemas fortalecen la seguridad nacional y que también son utilizados en la guerra en Ucrania. El Sarmat, o “Satán II”, es un misil balístico intercontinental pesado (ICBM) desarrollado por Rusia como parte de la modernización de sus fuerzas nucleares estratégicas. Moscú sostiene que es capaz de superar cualquier sistema de defensa antimisiles occidental y de alcanzar objetivos prácticamente en cualquier parte del planeta. El desarrollo del Sarmat comenzó a inicios de la década de 2010, en medio de los planes del Kremlin para renovar su arsenal nuclear tras el deterioro de las relaciones con Estados Unidos y la OTAN. El proyecto fue encargado al Centro Estatal de Cohetes Makéyev y fabricado por la empresa Krasmash. La primera prueba de lanzamiento reconocida oficialmente por Rusia ocurrió en abril de 2022. En ese momento, Putin afirmó que el misil obligaría a “pensar dos veces” a los enemigos de Moscú. Sin embargo, el programa enfrentó retrasos y reportes de pruebas fallidas antes del nuevo ensayo de mayo del 2026. Según datos difundidos por Rusia, el Sarmat tendría un alcance estimado de hasta 18.000 kilómetros, lo que le permitiría atacar objetivos en América del Norte, Europa o Asia desde territorio ruso. El Kremlin asegura además que puede seguir rutas no tradicionales —incluyendo trayectorias sobre el Polo Sur— para evitar radares y sistemas de defensa. El Sarmat puede llevar múltiples ojivas nucleares independientes (MIRV). Distintas estimaciones indican que podría transportar entre 10 y 15 cabezas nucleares, aunque la configuración exacta es secreta. También tendría capacidad para portar vehículos hipersónicos Avangard, capaces de maniobrar a velocidades extremas para dificultar su interceptación. El misil está diseñado para lanzarse desde silos subterráneos fortificados ubicados en territorio ruso. Estas instalaciones buscan garantizar la capacidad de respuesta nuclear incluso en caso de un ataque enemigo. ¿Qué lo hace diferente de otros misiles similares? Entre las características que Rusia destaca del Sarmat están: su enorme carga útil, el alcance intercontinental extremo, la capacidad para evadir escudos antimisiles, la posibilidad de transportar armas hipersónicas, sus trayectorias impredecibles y el alto poder destructivo. Moscú sostiene que el misil es cuatro veces más potente que sistemas occidentales equivalentes, aunque expertos internacionales consideran que esta y otras afirmaciones podrían tener un componente propagandístico. Para el analista Andrés Gómez de la Torre, especialista en temas de defensa e inteligencia, la prueba exitosa del “Satán II” tiene un claro trasfondo geopolítico y busca demostrar que Rusia mantiene intacta su capacidad militar estratégica pese al desgaste de la guerra en Ucrania. “El contexto del anuncio de este sistema de armas misilístico estratégico es la intención rusa de demostrar que, pese al estancamiento militar y diplomático en el tema ruso-ucraniano, la industria militar rusa sigue teniendo capacidades y no ha sido mermada en lo que es su complejo militar industrial”, explicó a El Comercio. El especialista recordó que el Sarmat es un misil balístico intercontinental de quinta generación que aún no ha entrado formalmente en servicio, aunque Rusia prevé incorporarlo a su arsenal hacia finales de 2026. Además, señaló que el sistema reemplazará a los antiguos misiles soviéticos SS-18 “Satán”. Gómez de la Torre destacó que el Sarmat posee un alcance estimado de 18 mil kilómetros y capacidad para transportar múltiples ojivas nucleares, características que lo convierten en una de las armas estratégicas más importantes del arsenal ruso. “Podría estar en capacidad de superar cualquier defensa antimisil”, afirmó. Según Gómez de la Torre, la prueba del Sarmat también responde a una doctrina histórica de Moscú basada en la disuasión nuclear, la propaganda y la guerra psicológica, una estrategia que —afirma— se mantiene desde la Guerra Fría. “La Federación Rusa sigue teniendo en mente generar una percepción de amenaza con el arma nuclear”, sostuvo. A su juicio, el Kremlin busca reforzar la idea de que posee capacidad de “segundo golpe”, es decir, la posibilidad de responder con armamento nuclear incluso después de sufrir un ataque enemigo. Explicó que el mensaje está dirigido especialmente a Estados Unidos y la OTAN, en momentos de alta tensión internacional. Gómez de la Torre advirtió además que la reaparición del discurso nuclear podría impulsar una nueva etapa de competencia militar entre las grandes potencias. “Hoy sigue vigente el arma nuclear como instrumento de política exterior, particularmente las armas estratégicas de largo alcance”, indicó. El especialista añadió que, aunque en los últimos años la atención militar parecía concentrarse en tecnologías como los drones, la prueba del Sarmat demuestra que los misiles nucleares intercontinentales continúan siendo piezas centrales en el equilibrio geopolítico global.",
-          "url": "https://elcomercio.pe/mundo/europa/sarmat-el-satan-ii-rusia-que-busca-vladimir-putin-con-la-prueba-del-misil-mas-potente-del-mundo-icbm-armas-nucleares-estados-unidos-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/LXQNMMEC6BHE7K536GCUO7ROIM.jpg?auth=99baf41b550e7fc697263477ee5d77fc672faca86763d1339906724acf7ea5c3&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-15T11:15:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/europa/sarmat-el-satan-ii-rusia-que-busca-vladimir-putin-con-la-prueba-del-misil-mas-potente-del-mundo-icbm-armas-nucleares-estados-unidos-noticia/",
+          "title": "Nuevo sistema de pensiones en la PUCP: ¿qué cambia realmente y por qué estudiantes protestan contra la reforma?",
+          "summary": "Cambio en escala de pagos | La reforma del sistema de pensiones de la Pontificia Universidad Católica del Perú ha generado protestas estudiantiles y cuestionamientos sobre el acceso a la educación superior. Mientras la universidad sostiene que el nuevo modelo no elimina subsidios y busca transparentar las ayudas económicas, alumnos y especialistas advierten preocupación por el incremento de los pagos regulares y la incertidumbre sobre las nuevas becas socioeconómicas.",
+          "body_text": "La reforma del sistema de pensiones anunciada por la Pontificia Universidad Católica del Perú ha puesto en discusión dentro de la comunidad universitaria los cambios que traerá el nuevo esquema de pagos. El modelo, que entrará en vigencia para los ingresantes desde el ciclo 2027-1, reorganizará las actuales nueve escalas en un sistema compuesto por cuatro escalas regulares y cuatro modalidades de becas. Mientras la universidad sostiene que la medida no representa un incremento de pensiones y que busca transparentar los mecanismos de subvención económica, estudiantes y dirigentes de la Federación de Estudiantes cuestionan que la eliminación de las escalas más bajas encarecerá el ingreso a la universidad para futuros postulantes de menores recursos. La principal preocupación gira en torno al aumento del pago mínimo regular, que superará los S/2.600 mensuales para una carga de 20 créditos. La controversia escaló esta semana con protestas dentro y fuera del campus universitario, incluyendo el ingreso forzado de un grupo de alumnos al edificio Dintilhac, sede del rectorado. La universidad condenó los actos de violencia y aseguró que continuará impulsando espacios de diálogo para explicar el funcionamiento del nuevo sistema de pensiones y becas. Hasta el ciclo 2026, la PUCP mantiene un esquema de nueve escalas de pago, identificadas de G1 a G9. Las escalas más bajas —G1, G2 y G3— corresponden a categorías excepcionales dirigidas a estudiantes con mayor vulnerabilidad económica y son asignadas tras una evaluación socioeconómica. En este sistema vigente, las pensiones pueden ir desde aproximadamente S/1.218 hasta más de S/4.600 mensuales, dependiendo de la escala y la cantidad de créditos matriculados. Sin embargo, la universidad sostiene que las escalas G1, G2 y G3 ya funcionaban, en la práctica, como mecanismos de subvención institucional. Es decir, parte importante del costo real de los estudios era asumida directamente por la casa de estudios. La reforma aprobada por la universidad reorganiza el sistema en ocho niveles: cuatro escalas regulares de pago y cuatro modalidades de becas. Las nuevas escalas serán E1, E2, E3 y E4. La más baja, E1, tendrá una mensualidad estimada de S/2.692 para una carga de 20 créditos. La más alta, E4, bordeará los S/4.388. Los montos anunciados por la PUCP son los siguientes: Paralelamente, las antiguas escalas excepcionales G1, G2 y G3 desaparecerán y serán reemplazadas por las denominadas Becas Mac Gregor, dirigidas a estudiantes con necesidades económicas. Según la universidad, el objetivo es separar claramente qué corresponde a una escala regular y qué corresponde a una beca socioeconómica. La PUCP asegura que esto permitirá cumplir de manera más precisa con las exigencias de la Ley Universitaria y otorgar mayor transparencia al sistema. La institución también afirma que los estudiantes actuales no serán afectados y conservarán las condiciones económicas con las que ingresaron. La principal preocupación estudiantil radica en que la escala regular más baja pasará de montos cercanos a S/1.200 en el esquema actual a una mensualidad base superior a S/2.600. Aunque la universidad insiste en que la comparación correcta no debe hacerse entre la nueva escala E1 y la antigua G1, sino entre E1 y G4 —porque G1, G2 y G3 eran categorías excepcionales—, la Federación de Estudiantes sostiene que el nuevo modelo vuelve más rígido el acceso a subsidios. La Federación de Estudiantes de la Pontificia Universidad Católica del Perú (FEPUC) argumenta que las nuevas becas parciales podrían no cubrir completamente las necesidades económicas de los estudiantes y cuestiona la falta de claridad sobre los criterios de permanencia y renovación de estos apoyos. El presidente de la federación estudiantil, Rafael Polar, calificó la reforma como “excluyente”, y sostuvo que el incremento en el valor de los créditos hará más difícil sostener económicamente una carrera universitaria. La PUCP rechaza que exista una eliminación del apoyo económico. La universidad señala que las antiguas escalas subsidiadas simplemente pasarán a otra categoría administrativa, las becas socioeconómicas. De acuerdo con la institución, un estudiante que antes hubiera accedido a una escala G1, G2 o G3 ahora podrá recibir una Beca Mac Gregor desde el inicio de su carrera, sin necesidad de esperar un semestre para postular a un apoyo económico. La universidad también asegura que el número de estudiantes beneficiados se mantendrá en niveles similares a los actuales y que el nuevo sistema permitirá una evaluación socioeconómica “más clara y predecible”. Además, remarca que las Becas Mac Gregor no dependerán del rendimiento académico para su asignación inicial, sino únicamente de la situación económica familiar. Como parte de la reforma del sistema de pensiones, la Pontificia Universidad Católica del Perú implementará desde el ciclo 2027-1 dos programas de apoyo económico dirigidos a estudiantes con distintos perfiles: las Becas Lucet y las Becas Mac Gregor. Según la universidad, estas modalidades reemplazarán parte de las subvenciones que antes estaban integradas dentro de las escalas más bajas de pensiones. Las Becas Lucet estarán orientadas a escolares con alto rendimiento académico que culminen quinto de secundaria en 2026 e ingresen a la universidad en 2027. El proceso incluirá una inscripción previa, evaluación académica y entrevistas personales. La PUCP ha establecido dos modalidades: la beca BL1 cubrirá aproximadamente el 80% del costo real de los estudios, mientras que la BL2 subvencionará cerca del 50%. De acuerdo con las estimaciones difundidas por la universidad, los beneficiarios de la BL1 pagarían alrededor de S/800 mensuales por una carga de 20 créditos, mientras que en la BL2 el monto sería cercano a S/2.080. Por otro lado, las Becas Mac Gregor estarán dirigidas a estudiantes provenientes de familias de menores ingresos económicos y serán asignadas tras una evaluación socioeconómica realizada luego de la admisión universitaria. Estas becas tendrán dos niveles: B1, que cubrirá aproximadamente el 60% del costo de los estudios, y B2, con una subvención cercana al 50%. Según la PUCP, un alumno beneficiado con la modalidad B1 pagaría cerca de S/1.600 mensuales por 20 créditos, mientras que en la modalidad B2 el pago estimado sería de S/2.000. La universidad también precisó que estas becas podrán mantenerse hasta dos semestres adicionales al tiempo regular de la carrera y contarán con programas de acompañamiento académico y psicoeducativo. Para Marcia Rivas, ex Directora de Educación Especial en el Ministerio de Educación, uno de los principales problemas del nuevo esquema es la falta de claridad sobre el impacto real que tendrá en los estudiantes de menores recursos. Si bien la universidad sostiene que las nuevas becas mantendrán el mismo nivel de apoyo económico que antes brindaban las escalas G1, G2 y G3, la especialista considera que no se han presentado cifras ni mecanismos suficientemente transparentes que permitan comprobarlo. “Si se habla de transparentar el sistema, entonces también debería transparentarse cuántos estudiantes serán beneficiados, cuál será el alcance real de las becas y si efectivamente se mantendrá el mismo nivel de apoyo”, señaló durante una entrevista con El Comercio. En su opinión, el cambio genera preocupación en un contexto donde el país enfrenta un incremento de la pobreza monetaria y mayores dificultades de acceso a la educación superior. Rivas también advirtió que transformar escalas subsidiadas en becas puede modificar la percepción de seguridad económica de los postulantes más vulnerables. “Así el apoyo económico fuera equivalente, no es lo mismo ingresar a una escala previamente establecida que tener que postular a una beca y depender de requisitos o evaluaciones cuya continuidad no está completamente clara”, explicó. Por otra parte, el especialista en educación, León Trahtemberg, sostuvo que el conflicto evidencia un debate de fondo sobre el tipo de universidad que el Perú necesita construir. En su opinión, las universidades ya no pueden limitarse únicamente a ofrecer formación académica, sino que deben fortalecer la transparencia institucional, la escucha activa y la experiencia integral del estudiante. “Lo que está en juego es si queremos universidades cada vez más selectivas y distantes o instituciones capaces de combinar excelencia académica con sensibilidad social”, señaló Trahtemberg. A su vez, Rafael Polar, presidente de la Federación de Estudiantes de la Pontificia Universidad Católica del Perú (FEPUC), sostuvo en una entrevista para El Comercio que la principal preocupación estudiantil no es únicamente la reforma en sí misma, sino la falta de transparencia y participación durante su elaboración. Según indicó, los estudiantes fueron informados sobre la medida apenas un día antes de su aprobación y no tuvieron tiempo suficiente para presentar contrapropuestas o debatir técnicamente el nuevo esquema. Polar también cuestionó que todavía no exista un “verdadero esclarecimiento” sobre cómo funcionarán las nuevas becas socioeconómicas y si los estudiantes podrán acceder a otros apoyos complementarios. “No hay claridad sobre cuántas becas habrá, cómo se asignarán o si quienes tengan una beca parcial podrán postular luego a una beca completa”, señaló. Además, consideró que la comisión asesora anunciada por la universidad debe garantizar una participación estudiantil real y no únicamente consultiva. Las manifestaciones contra el nuevo sistema de pensiones escalaron esta semana cuando un grupo de estudiantes ingresó por la fuerza al Centro Dintilhac, sede del rectorado de la Pontificia Universidad Católica del Perú, mientras se desarrollaba una sesión del Consejo Universitario. Además, durante la jornada de protesta también se registró el bloqueo parcial de la avenida Universitaria. A través de un comunicado oficial, la universidad señaló que, mientras el Consejo Universitario debatía la conformación de una Comisión Asesora sobre el nuevo sistema de pensiones -propuesta que recogía planteamientos de los propios representantes estudiantiles-, un grupo de alumnos “irrumpió por la fuerza” en el edificio Dintilhac, rompiendo la puerta de ingreso e instalándose en el primer piso del recinto. La PUCP afirmó que estos hechos ocasionaron lesiones físicas al personal de seguridad y daños a la infraestructura universitaria. “La Universidad no tolera estas acciones violentas que no reflejan el sentir de nuestra comunidad”, indicó el rectorado, que además rechazó “el uso de la violencia y del chantaje como formas de accionar político”. La casa de estudios sostuvo que continuará impulsando espacios de diálogo con la comunidad universitaria para explicar el nuevo modelo de pensiones y reiteró que aplicará las medidas correspondientes según su normativa interna. Por su parte, la Federación de Estudiantes de la Pontificia Universidad Católica del Perú (FEPUC) mantiene las jornadas de protesta y los plantones en rechazo a la reforma. El gremio estudiantil insiste en que el nuevo esquema podría elevar las barreras económicas de acceso para futuros postulantes y exige que no existan sanciones contra los alumnos involucrados en la toma del rectorado.",
+          "url": "https://elcomercio.pe/lima/sucesos/nuevo-sistema-de-pensiones-en-la-pucp-que-cambia-realmente-y-por-que-estudiantes-protestan-contra-la-reforma-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/XSTECCL2BZB6DALGI5643V7HR4.png?auth=f815f9e74df9ae683ffce6c01de63e0b67a5750e172d0482a0a33f1069cfb8e1&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-15T12:36:47Z",
+          "embed_url": "https://elcomercio.pe/lima/sucesos/nuevo-sistema-de-pensiones-en-la-pucp-que-cambia-realmente-y-por-que-estudiantes-protestan-contra-la-reforma-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "rusia, estados unidos, vladimir putin, sarmat, satán II, icbm, misil balístico intercontinental, ucrania, armas nucleares, ojivas nucleares, otan, misil Sarmat, RS-28 Sarmat, misil nuclear ruso, misil intercontinental ruso, prueba del Sarmat, prueba misil Rusia 2026, Putin misil nuclear, misil más potente del mundo, arsenal nuclear ruso, escalada nuclear, tensión nuclear global, riesgo nuclear, guerra Rusia Ucrania, Rusia y OTAN, ICBM ruso, cómo es satán II, qué es satán II, cuál es el poder de satán II, cómo es el misil sarmat, cuál es el poder del misil sarmat, qué se sabe del misil sarmat",
-            "Europa",
+            "PUCP, Pontificia Universidad Católica del Perú, protestas estudiantiles, incremento de los pagos regulares, becas socioeconómicas, Nuevo sistema de pensiones, Escalas de pago, Federación de Estudiantes, Becas Mac Gregor, Becas Lucet",
+            "Sucesos",
             "Senaste",
             "El Comercio"
           ],
@@ -3154,6 +3154,58 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "cf599f6c59e6",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Trump dice que trató liberación de Jimmy Lai con Xi pero es un tema “difícil” para Beijing",
+          "summary": "Donald Trump aseguró que trató con Xi Jinping el caso de Jimmy Lai, magnate hongkonés encarcelado, y calificó el tema como “difíil” para China.",
+          "body_text": "El presidente estadounidense, Donald Trump, afirmó este viernes que planteó a su homólogo chino, Xi Jinping, el caso del magnate hongkonés de los medios Jimmy Lai, aunque admitió que se trata de un asunto “difícil” para Beijing. “Es un asunto difícil. Lo planteé. Es difícil para él”, declaró Trump a los periodistas bordo del Air Force One tras abandonar China, al ser preguntado por el editor hongkonés, condenado a 20 años de prisión bajo la polémica Ley de Seguridad Nacional por su papel en las multitudinarias protestas antigubernamentales en la excolonia británica en 2019. Según Trump, el mandatario chino le aseguró que “va a considerar lo mejor” respecto a este caso, sin más detalles. Antes de viajar a China, el presidente estadounidense había avanzado que trataría durante la visita la posible liberación de Lai, que tiene 78 años y cuya salud se ha agravado desde que fue encerrado en un centro de máxima seguridad en agosto de 2020. El de Lai, crítico con el Gobierno chino y fundador de Apple Daily, es el caso más emblemático que ha llegado a los tribunales de la excolonia desde que está vigente la Ley de Seguridad Nacional. El Tribunal Superior de Hong Kong le condenó en febrero a 20 años de prisión -aunque enfrentaba una pena máxima de cadena perpetua- por los delitos de conspiración para coludir con potencias foráneas y conspiración para difundir publicaciones sediciosas. Los fiscales sostuvieron que Lai articuló desde la redacción y la estructura corporativa de Apple Daily una campaña sostenida para promover sanciones internacionales contra Hong Kong y el Gobierno central chino, cargos que el acusado y su equipo legal siempre rechazaron. El abogado de Lai, Robert Pang declaró en enero pasado que el magnate sufre hipertensión, diabetes, cataratas, problemas de visión por oclusión venosa y otras dolencias, en tanto la Fiscalía hongkonesa ha defendido la calidad de la atención sanitaria en prisión. La causa de Jimmy Lai ha suscitado críticas de organizaciones de prensa y derechos humanos y ha provocado la reacción de varios líderes internacionales, entre ellos Trump, quien expresó su “tristeza” cuando se conoció el veredicto de culpabilidad del editor. Amnistía Internacional (AI) y otras entidades han denunciado que, desde que Beijing impuso su Ley de Seguridad Nacional, la libertad de prensa ha colapsado en Hong Kong, amenazando con socavar el sistema de libertades del que goza la excolonia británica bajo el principio ‘Un país, dos sistemas’ acordado tras su devolución a China en 1997 y que debía garantizar que la isla pudiera mantener un alto grado de autonomía durante al menos 50 años.",
+          "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-dice-que-trato-liberacion-de-jimmy-lai-con-xi-jinping-pero-es-un-tema-dificil-para-beijing-estados-unidos-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/N53OD2XRKRDYRLJ5PYLIXZSY2Y.jpg?auth=6ee55b6d00c986e483c542dd79b590452586c9e763359154f3b769e108cdbb6e&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-15T12:58:59Z",
+          "embed_url": "https://elcomercio.pe/mundo/eeuu/donald-trump-dice-que-trato-liberacion-de-jimmy-lai-con-xi-jinping-pero-es-un-tema-dificil-para-beijing-estados-unidos-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Donald Trump, Xi Jinping, Jimmy Lai, Hong Kong, China, Estados Unidos, relaciones China EE.UU., magnate hongkonés, libertad de prensa, tensión diplomática",
+            "EEUU",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "1c19c7cbe6bc",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "“La visita de Trump a China es una suerte de mecanismo de contención”: ¿qué está en juego en la histórica cita en Beijing?",
+          "summary": "En diálogo con El Comercio, Marco Carrasco, profesor de Desarrollo y Estudios de Asia de la Universidad San Marcos, destaca que el gigante asiático dejó claro ante el presidente de EE.UU. que considera el tema de Taiwán como una línea roja absoluta y condiciona toda cooperación futura al respeto de ese principio.",
+          "body_text": "Pese a la guerra comercial y a las discrepancias en varios frentes, el presidente de EE.UU., Donald Trump, y su par chino, Xi Jinping, exhibieron sus mejores sonrisas e intercambiaron muestras de cortesía en la jornada central de la visita del republicano a Beijing. Pero no fue todo pompa y gentileza. Al final del día fue claro que las diferencias están lejos de cerrarse, especialmente las que se centran en Taiwán. El segundo día de la visita transcurrió sin anuncios importantes. La atención se la llevó la advertencia que Xi lanzó a Trump, al afirmar que los dos países podrían chocar por Taiwán si el tema no se maneja adecuadamente. Fue el pronunciamiento más duro de lo que va de la visita y contrastó con los elogios del líder estadounidense hacia su homólogo chino. En diálogo con El Comercio, Marco Carrasco, profesor de Desarrollo y Estudios de Asia de la Universidad San Marcos, considera que la visita de Trump a Beijing no buscaba lograr grandes acuerdos inmediatos, sino funcionar como un mecanismo para reducir tensiones entre dos potencias que están condenadas a coexistir y competir durante las próximas décadas. -Más allá de la pompa y la buena sintonía entre ambos mandatarios no hubo anuncios importantes o señales de entendimiento sobre la guerra comercial. ¿Para qué sirvió esta cita? No es que de antemano uno vaya a esperar que ese tipo de reuniones tenga grandes resultados, sobre todo dado el contexto y la innegable rivalidad y competencia que hay actualmente entre China y Estados Unidos. Más bien, es una suerte de mecanismo de contención de una circunstancia en la cual ambas superpotencias están destinadas a coexistir en las próximas décadas. Más allá de los distintos niveles de entredichos que puedan haber habido previamente y del tema de los aranceles, yo creo que en general se puede mantener una suerte de control estable ante ciertos asuntos que han sido complicados. Para China, claramente se trata del caso de Taiwán, mientras que para Estados Unidos está el tema también de los aranceles, el tema de Irán. Pero no es que se esperaran grandes anuncios, sino que estas reuniones sirven para bajar la tensión, pero finalmente el desenlace o la dinámica entre ambas naciones es inexorable y es independiente a la reunión de Trump y Xi Jinping. La rivalidad continúa, el peso económico y geopolítico continúa, los presidentes, sobre todo en el lado de Estados Unidos, van a tener un sucesor eventualmente. -El tema más espinoso fue Taiwán. Xi advirtió a Trump que si el tema no se gestiona adecuadamente, las discrepancias podrían derivar en un conflicto y en “una situación extremadamente peligrosa”, mientras que el secretario de Estado, Marco Rubio, afirmó que la política de EE.UU. sobre ese territorio no ha cambiado en el viaje a China. ¿Qué papel ocupará Taiwán en las relaciones entre ambos países en adelante? Del lado chino, Xi ha centrado el tema de forma muy interesante. Básicamente, ha condicionado todo tipo de relación posterior entre China y Estados Unidos, que bien puede ser de competencia o de cooperación, a tener el asunto de Taiwán como la piedra angular. La postura china se centra en que, en la medida que en Estados Unidos y en general en el mundo, se respete la cuestión de Taiwán y de la defensa de una única China, las cosas pueden avanzar de una manera relativamente constructiva y estable, pero si es que se maneja de forma distinta las relaciones entre ambas naciones pueden colisionar. Algo interesante también es que Xi conectó este tema con la trampa de Tucídides, un concepto geopolítico de Graham Allison que habla de los conflictos entre una superpotencia establecida y una superpotencia emergente. Según este politólogo, en la gran mayoría de casos a lo largo de la historia, ello suele terminar en un conflicto no pacífico. Es interesante la mención que hace Xi del caso, un poco como para condicionar el escenario y poner la relevancia de Taiwán como una cuestión central. -¿Es Taiwán la gran línea roja? ¿Cuál será la estrategia de Trump para lidiar con las presiones sobre ese territorio? De todas maneras es la gran línea roja, eso Xi Jinping lo ha dejado bastante claro en su discurso. Ha habido bastante cortesía. Más allá del tema diplomático, los chinos son muy buenos para mostrar una suerte de empatía o cercanía con el visitante. Pero al mismo tiempo han puesto el tema de Taiwán en relevancia y han usado otros temas, como el estrecho de Ormuz, para tratar de condicionar un poco el hecho de la necesidad de que el status quo respecto a Taiwán se mantenga. El tema de la no injerencia también. Incluso fueron un pasito más allá al decir básicamente que el concepto de la paz en el estrecho de Taiwán era algo irreconciliable con la idea de la independencia de la isla de Taiwán. -Trump afirmó que Xi le ofreció su ayuda para desbloquear el estrecho de Ormuz y ya en días previos Washington le había pedido a Beijing un papel más activo ante Teherán. ¿Cuánto podría involucrarse China en el conflicto en Medio Oriente? China tiene una visión geopolítica de tener la menor injerencia posible. Quizás esa es una diferencia bastante notable respecto a lo que ha sido normalmente la política de Estados Unidos, sobre todo en los últimos años. Sin embargo, todo este tema de Irán, en cuanto a lo que viene a ser una negociación, a China le sirve como una suerte de palanca para poder ejercer cierto nivel de respeto para lo que ellos consideran es el tema central: Taiwán. Entonces es posible que China use algunos canales “diplomáticos” para tratar de abogar por ello. No necesariamente creo que vaya a surtir algún efecto claro en el corto plazo, pero puede haber una línea de coincidencia. China declaró estar de acuerdo, por ejemplo, en que Irán no tenga armamento nuclear. Y también está el hecho de que a la economía china le conviene que el estrecho de Ormuz se mantenga abierto. -La visita a Beijing se dio sin contratiempos y ahora se espera que Xi Jinping llegue a la Casa Blanca en los próximos meses. ¿Cuál será la estrategia del mandatario estadounidense frente a China para lo que resta de su gobierno? Algo que me llama la atención es que se nota un cambio, no comparándolo con las reuniones previas entre Xi Jinping y Trump, o con las comunicaciones que tienen cada cierto tiempo, sino respecto a la última visita de nivel similar. La última reunión que se da entre un presidente de Estados Unidos y uno chino en China justamente es de la administración Trump, porque durante la era Biden no se dio una visita en el territorio chino. La última reunión fue en el 2017, estamos hablando de hace casi diez años. En aquel momento, básicamente, la visión de China era la de una superpotencia emergente, con un Estados Unidos que tenía una mayor capacidad de negociación. En esta ocasión, por un lado por la circunstancia propia de las decisiones geopolíticas de Estados Unidos en Irán, pero también porque China ha venido creciendo en varios otros ámbitos, la situación está casi equiparada. Ahora es innegable el hecho de que hoy en día existen dos superpotencias establecidas en el mundo, siendo una de ellas Estados Unidos y la otra China. Ese nivel de dinámica en el que prácticamente se miden de igual a igual es algo que Estados Unidos tiene que saber reconocer. Entonces, la invitación a la Casa Blanca que hasta ahora se plantea para setiembre puede servir como un mecanismo de Estados Unidos para buscar transmitir una imagen de cierto tipo de dominio, algún tipo también de condicionamiento, más allá, obviamente, de las frases cooperativas que uno pueda dar. -¿Washington intentó mostrar ese dominio en Beijing? Si bien los estadounidenses han llevado a varios de sus líderes empresariales, no diría que todo el poderío tecnológico de Estados Unidos se siente expresado en la mesa. Es relevante, por ejemplo, el nivel del vínculo tecnológico que tienen y las inversiones que China ha dejado que tenga Estados Unidos en su territorio, pero yo creo que hay muchos puntos que Estados Unidos puede intentar tratar de condicionar o de usar como una palanca de ventaja. En esa línea yo lo vería como una oportunidad. Siempre se habla del tema de la cooperación, la diplomacia, pero lo que busca transmitir una nación en cuanto a ello es importante. Dado que ahora ya es innegable el estatus de China como superpotencia establecida, ese tipo de detalles -como llevar a sus empresarios más importantes- sirven para que Estados Unidos trate de mostrar que aún tiene el liderazgo, aunque en la práctica es casi innegable que estamos hablando ya de representantes de dos naciones en igualdad de condiciones.",
+          "url": "https://elcomercio.pe/mundo/actualidad/la-visita-de-trump-a-china-es-una-suerte-de-mecanismo-de-contencion-que-esta-en-juego-en-la-historica-cita-en-beijing-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/RJRYOL6TSZF6XFX3BJXM5ZJM6I.jpg?auth=0db885b202101e589d32de6db82a6a315370a50fddc8133b78b7a399c84c4f5c&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-15T11:38:13Z",
+          "embed_url": "https://elcomercio.pe/mundo/actualidad/la-visita-de-trump-a-china-es-una-suerte-de-mecanismo-de-contencion-que-esta-en-juego-en-la-historica-cita-en-beijing-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "China, Xi Jinping, Estados Unidos, Donald Trump, visita de Trump China, Trump China",
+            "Actualidad",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "ce4bd3becf02",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3177,58 +3229,6 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "b3531062a1f6",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Rusia prueba el Satán II: “el misil más potente del mundo que puede superar cualquier escudo antimisiles”",
-          "summary": "La exitosa prueba del misil intercontinental Sarmat, conocido como “Satán II”, busca reforzar la estrategia de disuasión del Kremlin frente a Occidente. Para el analista Andrés Gómez de la Torre, Rusia quiere demostrar que sigue siendo una potencia capaz de “superar cualquier defensa antimisiles” y mantener vigente la lógica nuclear de la Guerra Fría",
-          "body_text": "La reciente prueba exitosa del misil balístico intercontinental ruso RS-28 Sarmat, conocido como “Satán II”, volvió a colocar el riesgo nuclear en el centro de la atención geopolítica global. En medio de la guerra en Ucrania y del creciente enfrentamiento entre Rusia y Occidente, el presidente Vladimir Putin presentó el ensayo como una demostración de fuerza estratégica y aseguró que el arma entrará en servicio antes de finalizar el año. Analistas advierten que el mensaje va más allá del plano militar: Moscú busca reforzar su capacidad de disuasión, presionar a Estados Unidos y la OTAN, y recordar que sigue siendo una potencia nuclear capaz de desafiar cualquier escudo antimisiles occidental. El martes, Putin destacó las capacidades del Sarmat al afirmar que se trata del sistema de misiles “más potente del mundo”, con una capacidad cuatro veces superior a la de sistemas occidentales comparables. Según el Kremlin, el Sarmat puede superar cualquier escudo antimisiles enemigo y reemplazará al antiguo sistema soviético Voevoda. Putin también señaló que otros proyectos estratégicos rusos, como los misiles Poseidón y Burevestnik, están en su fase final de desarrollo. La prueba se produce en medio de cuestionamientos al programa Sarmat, que sufrió retrasos por pruebas fallidas. Además, recientemente fue detenido por presunto soborno el director de Krasmash, empresa encargada de fabricar estos misiles. Al día siguiente, Putin insistió en que Rusia continuará modernizando su arsenal nuclear estratégico para desarrollar misiles capaces de superar los actuales y futuros sistemas antimisiles occidentales. Durante una visita al Instituto de Tecnología Térmica de Moscú, responsable del diseño de misiles como Tópol, Bulavá y Yars, el presidente destacó que estos sistemas fortalecen la seguridad nacional y que también son utilizados en la guerra en Ucrania. El Sarmat, o “Satán II”, es un misil balístico intercontinental pesado (ICBM) desarrollado por Rusia como parte de la modernización de sus fuerzas nucleares estratégicas. Moscú sostiene que es capaz de superar cualquier sistema de defensa antimisiles occidental y de alcanzar objetivos prácticamente en cualquier parte del planeta. El desarrollo del Sarmat comenzó a inicios de la década de 2010, en medio de los planes del Kremlin para renovar su arsenal nuclear tras el deterioro de las relaciones con Estados Unidos y la OTAN. El proyecto fue encargado al Centro Estatal de Cohetes Makéyev y fabricado por la empresa Krasmash. La primera prueba de lanzamiento reconocida oficialmente por Rusia ocurrió en abril de 2022. En ese momento, Putin afirmó que el misil obligaría a “pensar dos veces” a los enemigos de Moscú. Sin embargo, el programa enfrentó retrasos y reportes de pruebas fallidas antes del nuevo ensayo de mayo del 2026. Según datos difundidos por Rusia, el Sarmat tendría un alcance estimado de hasta 18.000 kilómetros, lo que le permitiría atacar objetivos en América del Norte, Europa o Asia desde territorio ruso. El Kremlin asegura además que puede seguir rutas no tradicionales —incluyendo trayectorias sobre el Polo Sur— para evitar radares y sistemas de defensa. El Sarmat puede llevar múltiples ojivas nucleares independientes (MIRV). Distintas estimaciones indican que podría transportar entre 10 y 15 cabezas nucleares, aunque la configuración exacta es secreta. También tendría capacidad para portar vehículos hipersónicos Avangard, capaces de maniobrar a velocidades extremas para dificultar su interceptación. El misil está diseñado para lanzarse desde silos subterráneos fortificados ubicados en territorio ruso. Estas instalaciones buscan garantizar la capacidad de respuesta nuclear incluso en caso de un ataque enemigo. ¿Qué lo hace diferente de otros misiles similares? Entre las características que Rusia destaca del Sarmat están: su enorme carga útil, el alcance intercontinental extremo, la capacidad para evadir escudos antimisiles, la posibilidad de transportar armas hipersónicas, sus trayectorias impredecibles y el alto poder destructivo. Moscú sostiene que el misil es cuatro veces más potente que sistemas occidentales equivalentes, aunque expertos internacionales consideran que esta y otras afirmaciones podrían tener un componente propagandístico. Para el analista Andrés Gómez de la Torre, especialista en temas de defensa e inteligencia, la prueba exitosa del “Satán II” tiene un claro trasfondo geopolítico y busca demostrar que Rusia mantiene intacta su capacidad militar estratégica pese al desgaste de la guerra en Ucrania. “El contexto del anuncio de este sistema de armas misilístico estratégico es la intención rusa de demostrar que, pese al estancamiento militar y diplomático en el tema ruso-ucraniano, la industria militar rusa sigue teniendo capacidades y no ha sido mermada en lo que es su complejo militar industrial”, explicó a El Comercio. El especialista recordó que el Sarmat es un misil balístico intercontinental de quinta generación que aún no ha entrado formalmente en servicio, aunque Rusia prevé incorporarlo a su arsenal hacia finales de 2026. Además, señaló que el sistema reemplazará a los antiguos misiles soviéticos SS-18 “Satán”. Gómez de la Torre destacó que el Sarmat posee un alcance estimado de 18 mil kilómetros y capacidad para transportar múltiples ojivas nucleares, características que lo convierten en una de las armas estratégicas más importantes del arsenal ruso. “Podría estar en capacidad de superar cualquier defensa antimisil”, afirmó. Según Gómez de la Torre, la prueba del Sarmat también responde a una doctrina histórica de Moscú basada en la disuasión nuclear, la propaganda y la guerra psicológica, una estrategia que —afirma— se mantiene desde la Guerra Fría. “La Federación Rusa sigue teniendo en mente generar una percepción de amenaza con el arma nuclear”, sostuvo. A su juicio, el Kremlin busca reforzar la idea de que posee capacidad de “segundo golpe”, es decir, la posibilidad de responder con armamento nuclear incluso después de sufrir un ataque enemigo. Explicó que el mensaje está dirigido especialmente a Estados Unidos y la OTAN, en momentos de alta tensión internacional. Gómez de la Torre advirtió además que la reaparición del discurso nuclear podría impulsar una nueva etapa de competencia militar entre las grandes potencias. “Hoy sigue vigente el arma nuclear como instrumento de política exterior, particularmente las armas estratégicas de largo alcance”, indicó. El especialista añadió que, aunque en los últimos años la atención militar parecía concentrarse en tecnologías como los drones, la prueba del Sarmat demuestra que los misiles nucleares intercontinentales continúan siendo piezas centrales en el equilibrio geopolítico global.",
-          "url": "https://elcomercio.pe/mundo/europa/sarmat-el-satan-ii-rusia-que-busca-vladimir-putin-con-la-prueba-del-misil-mas-potente-del-mundo-icbm-armas-nucleares-estados-unidos-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/LXQNMMEC6BHE7K536GCUO7ROIM.jpg?auth=99baf41b550e7fc697263477ee5d77fc672faca86763d1339906724acf7ea5c3&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-15T11:15:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/europa/sarmat-el-satan-ii-rusia-que-busca-vladimir-putin-con-la-prueba-del-misil-mas-potente-del-mundo-icbm-armas-nucleares-estados-unidos-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "rusia, estados unidos, vladimir putin, sarmat, satán II, icbm, misil balístico intercontinental, ucrania, armas nucleares, ojivas nucleares, otan, misil Sarmat, RS-28 Sarmat, misil nuclear ruso, misil intercontinental ruso, prueba del Sarmat, prueba misil Rusia 2026, Putin misil nuclear, misil más potente del mundo, arsenal nuclear ruso, escalada nuclear, tensión nuclear global, riesgo nuclear, guerra Rusia Ucrania, Rusia y OTAN, ICBM ruso, cómo es satán II, qué es satán II, cuál es el poder de satán II, cómo es el misil sarmat, cuál es el poder del misil sarmat, qué se sabe del misil sarmat",
-            "Europa",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "b19b1e2d15bb",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Trump afirma haber cerrado “acuerdos comerciales fantásticos” con Xi",
-          "summary": "Donald Trump afirmó este viernes haber cerrado “acuerdos comerciales fantásticos” con su par chino, Xi Jinping, en la sesión final de una cumbre en Pekín en la que, según el presidente estadounidense, también recibió un ofrecimiento de ayuda para reabrir el estrecho de Ormuz.",
-          "body_text": "Donald Trump afirmó este viernes haber cerrado “acuerdos comerciales fantásticos” con su par chino, Xi Jinping, en la sesión final de una cumbre en Pekín en la que, según el presidente estadounidense, también recibió un ofrecimiento de ayuda para reabrir el estrecho de Ormuz. El magnate republicano llegó a Pekín con el objetivo de alcanzar pactos económicos en sectores como agricultura, aviación e inteligencia artificial (IA), además de avanzar en cuestiones geopolíticas espinosas, como la guerra en Oriente Medio contra Irán. Las propuestas de Trump a Xi, a quien describió como un “gran líder” y “amigo”, habían sido recibidas hasta ahora con un tono más moderado por parte del líder chino. Pero Trump aseguró que de esta visita a Pekín, la primera de un mandatario estadounidense en casi una década, han salido “muy buenos resultados”. “Cerramos unos acuerdos comerciales fantásticos, excelentes para ambos países”, dijo, mientras Xi lo acompañaba por los jardines de Zhongnanhai, el complejo central del gobierno chino junto a la Ciudad Prohibida en Pekín. En una entrevista con Fox News tras concluir el primer día de la cumbre, Trump dijo que las conversaciones habían ido bien y que Xi aceptó varios puntos de la lista de pretensiones de Estados Unidos. Sobre la guerra en Irán, el presidente norteamericano dijo que Xi le había asegurado que China no se estaba preparando para ayudar militarmente a Teherán, que mantiene prácticamente bloqueado el estrecho de Ormuz, vía clave para el tránsito mundial de hidrocarburos. “Dijo que no suministraría material militar (...). Lo afirmó con rotundidad”, le dijo Trump a Fox. “Le gustaría que se abriera el estrecho de Ormuz, y dijo: ‘Si puedo ser de alguna ayuda, estaré encantado de ayudar’”, añadió el magnate. Sobre ese mismo tema y luego de consultas sobre si los dos líderes habían discutido el conflicto con Irán, el Ministerio de Relaciones Exteriores chino publicó este viernes un comunicado en el que pide “un alto el fuego integral y duradero” en Oriente Medio. “Las rutas marítimas deben reabrirse lo antes posible en respuesta a los llamamientos de la comunidad internacional”, añadió. Los cordiales apretones de manos y la pompa del jueves se vieron eclipsados por una contundente advertencia de Xi sobre un punto de tensión geopolítica mucho más antiguo: Taiwán, una isla de régimen democrático que Pekín reclama como parte de su territorio. Poco después de que comenzaran las conversaciones, los medios estatales chinos informaron de que el dirigente asiático le dijo a Trump que un mal manejo de ese asunto podría empujar a sus dos países a un “conflicto”. La entrevista con Fox News no abordó el tema de Taiwán, y Trump no hizo comentarios a los periodistas cuando se le preguntó al respecto el jueves. Sin embargo, el secretario del Tesoro, Scott Bessent, dijo a la cadena CNBC que el presidente daría más detalles “en los próximos días”. En el ámbito comercial, Trump adelantó a Fox que ya se había cerrado un importante acuerdo comercial, al señalar que Xi se comprometió a comprar aviones Boeing, “200 de los grandes”. Las acciones del gigante aeronáutico estadounidense cayeron, sin embargo, tras los comentarios del mandatario, en una señal de que el mercado esperaba una compra más sólida por parte de China. El presidente dijo que Pekín también había expresado interés en adquirir petróleo y soja estadounidenses. China, que es el principal cliente extranjero del petróleo iraní, compró pequeñas cantidades de crudo a Estados Unidos antes de que Trump le impusiera altos aranceles el año pasado. Desde entonces, ha reducido drásticamente las compras de soja estadounidense, recurriendo en su lugar a Brasil. Bessent también reveló a la CNBC que Trump y Xi discutieron el establecimiento de “barreras de seguridad” para el uso de la inteligencia artificial. El jueves, Xi hizo referencia a la “trampa de Tucídides”, una teoría política que se refiere a una mayor probabilidad de guerra cuando una nueva potencia en ascenso compite con una ya establecida. Sin embargo, el líder chino dijo que pensaba que Estados Unidos y China podían “superar” este peligro. En respuesta a esos comentarios, Trump dijo en redes sociales la madrugada de este viernes que Xi “se refirió muy elegantemente a Estados Unidos como una nación quizás en declive”. Precisó en que Xi no se refería a Estados Unidos bajo su mandato, que según él estaba experimentando un “ascenso increíble”, sino más bien al país bajo la administración de su predecesor, Joe Biden. “Hace dos años, de hecho, éramos una nación en declive”, publicó Trump en su red Truth Social. “Ahora, Estados Unidos es la nación más en boga del mundo, ¡y esperemos que nuestra relación con China sea más fuerte y mejor que nunca!”. Dijo que Xi lo “felicitó por tantos éxitos tremendos”.",
-          "url": "https://elcomercio.pe/mundo/diplomacia/trump-afirma-haber-cerrado-acuerdos-comerciales-fantasticos-con-xi-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/ZYP6OPQQKRF3RAYCCUQ2DRQCKA.jpg?auth=2eab4fd7ce9ad066d5907f0f3d33727f3092f7be0373b3a1f1526754ce32af02&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-15T05:33:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/diplomacia/trump-afirma-haber-cerrado-acuerdos-comerciales-fantasticos-con-xi-ultimas-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Trump, Donald Trump en China, Xi Jinping, Xi Jinping y Trump",
-            "Diplomacia",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": true,
           "sort_order": 2
         },
         {
@@ -3742,20 +3742,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "480547a4ce8c",
+          "id": "e8080b9f7f09",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman | TechCrunch",
-          "summary": "Here's what the biggest tech court case of the year is all about.",
-          "body_text": "Nine California jurors are now deliberating over the future of OpenAI, the world-leading artificial intelligence lab. While the trial exploring Elon Musk’s case against OpenAI’s other co-founders and Microsoft has covered territory ranging from the breakup of the founders in 2018 to Altman’s firing and rehiring in 2023, the jurors will be considering a set of fairly narrow questions: OpenAI has also made three arguments in its defense that the jury will weigh: If Musk wins out, it could mean the end of OpenAI as a for-profit company, but it’s not entirely clear what will result. Next week, the judge will begin a set of new hearings where lawyers from both sides will debate what the consequences of a verdict in favor of the plaintiffs might be. That process could be rendered moot by a negative verdict, however. Musk’s attorneys say the defendants clearly understood that Musk wanted to support a non-profit that would ensure the benefits of AI to the world and prevent it from being controlled by any one organization. In particular, they say a $10 billion investment from Microsoft in 2023 into OpenAI’s for-profit affiliate — the first to happen after the statute of limitations — was the event that turned Musk’s concern into conviction. That deal, Musk’s lawyers say, was different from previous investments and led to OpenAI’s investors being enriched by the company’s commercial products, at the expense of the charitable mission of AI safety that Musk promoted. OpenAI’s attorneys have asked every witness to describe specific restrictions put on Musk’s donations, and none have, including his financial adviser Jared Birchall, his chief of staff Sam Teller, or his special adviser Shivon Zilis. They say everyone involved agreed that private fundraising would be required to achieve its goals, and note that Musk himself attempted to launch an OpenAI-affiliated for-profit he would personally control and later tried to merge OpenAI into his company Tesla. They also note the organization’s other donors haven’t said their charitable trust was violated. Importantly, a forensic accountant hired by OpenAI testified that all of Musk's donations had been used by OpenAI well before the key date of August 5, 2021. That is evidence that Musk's donations were already used for their purpose well before he brought his lawsuit, invalidating any charitable trust that may have existed. Mainly, they insist that the for-profit affiliate that conducts most of OpenAI's actual activity continues to fulfill the organization's mission and has generated nearly $200 billion in equity value to support the non-profit foundation. Notably, Sam Altman argued that providing ChatGPT for free helps fulfill the mission of sharing the benefits of AI with the world. The plaintiffs point to the multibillion-dollar valuations of stakes held by OpenAI founders like Brockman and Ilya Sutskever, as well as Microsoft, as a sign that Musk's donations were ultimately used for personal benefit, as opposed to supporting the mission of the charity. They argue that the work at OpenAI's for-profit was commercially focused, while the foundation was left essentially dormant, without full-time employees, and, ultimately, not even in control of the for-profit. OpenAI says all of Musk's contributions were used by the foundation by 2020 and that equity distributions came well after he left the organization in 2018. Even beforehand, evidence shows the key players agreed that being able to compensate researchers with stock was key to developing artificial general intelligence (AGI), the hypothetical form of AI capable of performing any intellectual task a human can. OpenAI executives maintain that the for-profit's work meaningfully advanced the foundation's mission, including safety activities. They say the non-profit board continues to control the for-profit, and instituted new governance controls following \"the blip,\" when Altman was fired by OpenAI's non-profit board in 2023 for lack of candor and then rehired just days later.",
-          "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_4131-rotated.jpg?resize=900,1200",
-          "published_at": "2026-05-14T22:47:51Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_4131-rotated-e1778782502209.jpg",
+          "title": "Meridian Ventures launched $35M fund to back MBA-deferred founders | TechCrunch",
+          "summary": "Meridian Ventures, the venture firm founded by Devon Gethers and Karlton Haney, announced on Friday the raise of a $35 million second fund to back pre-seed and seed-stage companies founded by those who have deferred MBAs.",
+          "body_text": "Meridian Ventures was born out of a shared experience: deferred MBAs. Now, founders Devon Gethers and Karlton Haney have raised a $35 million fund to back pre-seed and seed-stage companies started by people like them. Gethers, 29, told TechCrunch the idea for a firm arose after he met Haney in Harvard’s MBA deferred admission program in 2020. Gethers grew up in poverty in Washington State, studied behavioral science and finance at the University of Utah, then moved into private equity before launching a company of his own (which he later exited). Haney, meanwhile, grew up on a farm in Arkansas, raising chickens, birds, and “anything that flew,” Gethers said about his business partner. Haney, 28, went on to study industrial engineering at the University of Arkansas and worked as an investor at the family office, The Stephens Group. The two came together in 2023 with the idea of launching a firm that backed people who had also deferred MBAs. “Our thesis is going against a bit of the grain, the rhetoric you hear in Silicon Valley that MBAs don’t make good founders,” Gethers said, referring to the belief that an MBA prepares students for corporate culture, not the flexible, free-wheeling world of Silicon Valley. To prove their thesis, Gethers and Haney went out and cold-called prospective limited partners and knocked on doors until they raised $2.5 million as a proof-of-concept fund to back 45 companies. This new fund will back founders building enterprise technology in the United States. Meridian is agnostic, Gethers said, noting that the firm has already invested in companies in fintech, logistics, healthcare, and of course, AI. The average check size will be $500,000 for pre-seed and $750,000 for seed, and the capital hopes to be deployed over the next three years. “We saw an expanding gap between ambitious founders building frontier technologies and the capital required to help carry those ambitions forward,” Gethers said. With this $35 million fund, our goal is to seal that gap.” When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City. You can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone.",
+          "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Devon-Gethers-and-Karlton-Haney-.jpeg?resize=1200,900",
+          "published_at": "2026-05-15T13:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/Devon-Gethers-and-Karlton-Haney-.jpeg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3766,20 +3766,20 @@
           "sort_order": 0
         },
         {
-          "id": "2f6cebd063e6",
+          "id": "d9c742e591ee",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Elon Musk's SpaceXAI has been bleeding staff since its merger | TechCrunch",
-          "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-          "body_text": "Elon Musk’s newly rebranded SpaceXAI is reportedly losing top talent, with more than 50 researchers and engineers departing since February, according to The Information . The exits include key leaders across coding, world models, and Grok voice. Rivals like Meta and Thinking Machines Lab are reportedly scooping up former staff, with the company’s core pre-training team dwindling to just a handful of people. Since February, at least 11 xAI employees have defected to Meta, according to The Information’s report. At least seven have left to join Mira Murati’s Thinking Machines Lab. TechCrunch has previously reported on 11 of the xAI departures announced directly after the merger, including two co-founders . SpaceX acquired xAI — two companies owned by Musk — in February and has since installed new leadership at the company. Musk renamed the combined company SpaceXAI earlier this month. The pre-training departures, which followed the exit of team lead Juntang Zhuang, have particularly concerned employees and people close to SpaceXAI, per The Information. Pre-training is the first step to building new AI models, and many have questioned whether the company is still committed to developing leading models. The report also found that Musk’s culture of extreme work led some staff to leave — something Musk employees across his companies, including Tesla, have complained about. A source who spoke to The Information said Musk set unrealistic deadlines for training models, which led to cutting corners on Grok. Of course, several of the exits could have been driven by a desire to cash out. SpaceX regularly offers tenders so employees can sell vested shares privately. Others might simply feel confident that their equity is close to liquidity given the company’s blockbuster IPO expectations. Once employees see the financial light at the end of the tunnel, they’re less likely to work at a company that puts undue pressure on them and may not be building the leading models they want to work on. TechCrunch has reached out to SpaceX for comment. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. You can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone.",
-          "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
-          "published_at": "2026-05-14T21:30:44Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg",
+          "title": "Osaurus brings both local and cloud AI models to your Mac | TechCrunch",
+          "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+          "body_text": "As AI models increasingly become commoditized, startups are racing to build the software layer that sits on top of them. One interesting entrant into this space is Osaurus , an open source, Apple-only LLM server that lets users move between different local AI models, either locally or in the cloud, while keeping their files and tools all on their own hardware. Osaurus evolved out of the idea for a desktop AI companion , Dinoki, which Osaurus co-founder Terence Pae described as a sort of “AI-powered Clippy.” Dinoki’s customers had asked him why they should buy the app if they still had to pay for tokens — the usage units AI companies charge for processing prompts and generating responses. That got Pae thinking more deeply about running AI locally. “That’s how Osaurus started,” Pae, previously a software engineer at Tesla and Netflix, told TechCrunch over a call. The idea, he explained, was to try to run an AI assistant locally. “You can do pretty much everything on your Mac locally, like browsing your files, accessing your browser, accessing your system configurations. I figured this would be a great way to position Osaurus as a personal AI for individuals.” Pae began building the tool in public as an open-source project , adding features and fixing bugs along the way. Today, Osaurus can flexibly connect with locally hosted AI models or cloud providers like OpenAI and Anthropic. Users can freely choose which AI models they’re using, and keep other aspects of the AI experience on their own hardware, like the models’ own memory, or their files and tools. Given that different AI models have different strengths, the advantage of this system is that users can switch to the AI model that best fits their needs. Such a structure makes Osaurus what’s called a “harness” — a control layer that connects different AI models, tools, and workflows through a single interface, similar to tools like OpenClaw or Hermes . However, the difference is that such tools are often aimed at developers who know their way around a terminal. And sometimes, like in the case of OpenClaw, they may pose security issues and holes to worry about. Osaurus, meanwhile, presents an easy-to-use interface that consumers can use, and addresses security concerns by running things in a hardware-isolated, virtual sandbox. This limits the AI to a certain scope, keeping your computer and data safe. Of course, the practice of running AI models on your machine is still in its early days, given that it’s heavily resource-intensive and hardware-dependent. To run local models, your system will need at least 64 GB of RAM. For running larger models, like DeepSeek v4, Pae recommends systems with about 128 GB of RAM. But Pae believes local AI’s needs will come down in time. “I can see the potential of it, because the intelligence per wattage — which is like the metric for local AI — has been going up significantly. It’s on its own curve of innovation. Last year, local AI could barely finish sentences, but today it can actually run tools, write code, access your browser, and order stuff from Amazon […] it’s just getting better and better,” he said.",
+          "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/osaurus-techcrunch-2-1.png?resize=1200,675",
+          "published_at": "2026-05-15T12:19:48Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/osaurus-techcrunch-2-1.png",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3995,9 +3995,33 @@
       "source_kind": "story",
       "live_section": false,
       "status": "ok",
-      "article_count": 2,
+      "article_count": 4,
       "priority_split": 0,
       "articles": [
+        {
+          "id": "68d8e95be73a",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Getty Images and Shutterstock are merging into one stock photo powerhouse",
+          "summary": "Getty Images and Shutterstock are merging in a deal valued at $3.7 billion, allowing the companies to expand their stock image libraries.",
+          "body_text": "Getty Images and Shutterstock are joining forces in a merger valued at around $3.7 billion, the companies announced on Tuesday. The merger will allow the companies to expand their stock photo libraries as they face increasing competition from AI-powered image creation tools. Getty Images CEO Craig Peters will remain the head of the combined companies when the merger closes, while a reworked board of directors will consist of members from both Getty Images and Shutterstock, including Shutterstock CEO Paul Hennessy. In the press release, Peters said the merger will bolster the companies by “enhancing our content offerings, expanding event coverage, and delivering new technologies to better serve our customers.” Shutterstock will remain a separate website following the merger, Getty Images spokesperson Anne Flanagan confirmed to The Verge. The merger comes amid the rise of text-to-image AI tools from companies like OpenAI, Google, Microsoft, and Adobe. In 2023, Getty Images responded to the trend by launching an image generator trained on its vast library of licensed photos. It rolled out a similar tool on iStock, which Getty also owns, and partnered with online image editor Picsart to create a “responsible, commercially-safe” AI image generator. Meanwhile, Shutterstock struck an AI training deal with OpenAI, and has agreements with Meta, Google, and Amazon, according to Reuters. The decision to combine two stock photo powerhouses may also spur antitrust scrutiny, but it’s unclear how a more merger-friendly Trump administration will respond.",
+          "url": "https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951226/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2025-01-07T15:12:35Z",
+          "embed_url": "https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
         {
           "id": "83f9b080438b",
           "source_id": "theverge-latest",
@@ -4020,7 +4044,31 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
+        },
+        {
+          "id": "39082c6dca92",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse\\\"\\u003efinalize",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse\\\"\\u003efinalize",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse\\\"\\u003efinalize",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 2
         },
         {
           "id": "c8daab39cf95",
@@ -4044,7 +4092,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         }
       ]
     },
@@ -4218,6 +4266,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "6e54eb213ea3",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Fartyg i ryska skuggflottan stoppat – misstänks för falska papper",
+          "summary": "Nya misstankar riktas mot oljetankern Sea Owl 1, som tros ingå i den ryska skuggflottan. – Jag har inlett en förundersökning om brukande av falsk urkund, grovt brott, säger senior åklagare Adrien Combier-Hogg till Expressen.",
+          "body_text": "Nya misstankar riktas mot oljetankern Sea Owl 1, som tros ingå i den ryska skuggflottan. – Jag har inlett en förundersökning om brukande av falsk urkund, grovt brott, säger senior åklagare Adrien Combier-Hogg till Expressen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Oljetankern Sea Owl 1 misstänks på nytt ha försökt lura svenska myndigheter med falska dokument. Fartyget kopplas till ryska skuggflottan och sanktioner. Bordades utanför Trelleborg – hålls kvar i Sverige. Myndigheterna i den tidigare påstådda flaggstaten slog larm om att fartyget inte alls fanns i deras register. Nu har en ny nationalitet för fartyget presenterats: Kamerun. Fartyget skulle släppas i väg. Men även den misstänks vara falsk, vilket har fått Sverige att agera på nytt. Den fartygsansvarige har överlämnat dokument om den nya påstådda flaggstaten Kamerum. Larmet om den misstänkta bluffen har landat på åklagarmyndighetens bord. – Jag har inlett en förundersökning om brukande av falsk urkund, grovt brott, säger senior åklagare Adrien Combier-Hogg och uppger att en rad utredningsåtgärder nu ska vidtas. Fartyget har nu tvingats stanna på svenskt vatten i drygt två månader. Strax efter klockan 20:30 torsdagen den 12 mars 2026 bordade Kustbevakningen tankfartyget Sea Owl 1 på svenskt territorialvatten utanför Trelleborg. Insatsen var planerad och genomfördes av Nationella insatsstyrkan tillsammans med Kustbevakningens bordningsgrupp och polisflyget. Bakgrunden till ingripandet var misstankar om att fartyget förde falsk flagg och uppvisade allvarliga brister i sjövärdigheten.",
+          "url": "https://www.expressen.se/nyheter/sverige/sea-owl-1-misstanks-ha-forsokt-lura-svenska-myndigheter-falska-dokument/",
+          "image_url": "https://static.bonniernews.se/images/57/fe/57fe64538bbe40269f82995fb4907252/16x9/original.png",
+          "published_at": "2026-05-15T11:49:15Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/sea-owl-1-misstanks-ha-forsokt-lura-svenska-myndigheter-falska-dokument/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "77baae44e99f",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4239,7 +4311,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "973cfa2d0ed9",
@@ -4263,7 +4335,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "93344f9d7ab8",
@@ -4287,7 +4359,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "87e0c8234a47",
@@ -4311,7 +4383,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "759fae5bd65f",
@@ -4335,7 +4407,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "087baad754f7",
@@ -4359,7 +4431,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "0b8db43a0afb",
@@ -4383,7 +4455,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "1034342c382c",
@@ -4393,12 +4465,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "L: Vill ha fler miljardärer | Expressen",
-          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
-          "body_text": "Liberalerna vill att Sverige ska få fler miljardärer och siktar på att fördubbla antalet till år 2036. Partiet föreslår bland annat sänkta skatter på inkomster, investeringssparkonton och företag för att stimulera tillväxt. – Jag tycker inte vi ska bekämpa rikedom utan vi ska bekämpa fattigdom, säger partiledaren Simona Mohamsson till TV4 . Enligt partiet riskerar Sverige annars att tappa entreprenörer till länder med lägre skatter. – Det är ju hinder som gör det svårare och som gör att man i stället rör sig till Irland eller Schweiz. Jag tycker att vi i stället ska bli det där skatteparadiset som man väljer att stanna i och bygga sitt företag, säger Mohamsson till TV4. Hon avfärdar samtidigt kritik mot att fokus läggs på de rikaste i ett läge där många har det ekonomiskt svårt. Kristdemokraternas Ebba Busch ger ett \"exklusivt vallöfte\" till deltagarna på en Epa-träff i Karlstad på torsdagskvällen. – Om vi får chansen efter nästa val kommer vi se till att hastighetsgränsen för epa-traktorn går upp. Och vi kan väl åtminstone se till att den hamnar på 45 kilometer i timmen, säger hon i en video på Instagram . Ebba Busch (KD) presenterar en ny handlingsplan för att stoppa islamismen i Sverige. Den upprepar partiets krav på ett starkt förbud mot burka och niqab i offentliga miljöer – men innehåller även ett förbud mot slöja i förskolan och lågstadiet. – Man kan diskutera åldersgränsen, men grundprincipen är att barn inte ska tvingas bära slöja, säger hon på en pressträff. KD vill även kriminalisera shariadomstolar. SVT/Verian har mätt hur väljarstödet för de olika partierna ser ut i maj. Där noteras en 10,7-procentig skillnad mellan blocken, till fördel för oppositionen. Enligt SVT är det det största gapet mellan blocken sedan augusti 2023. Nedgången för Tidö är statistiskt signifikant.",
+          "title": "Sverige Idag 07.08 ”Ska bli skatteparadis”",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d926ce19-cb82-4279-ab1b-145208281ca5",
-          "image_url": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
-          "published_at": "2026-01-09T11:58:16Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d926ce19-cb82-4279-ab1b-145208281ca5",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4406,8 +4478,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "affb55a0d8f8",
@@ -4424,30 +4496,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/lavrovs-sura-pik-mot-trump-som-president-biden/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "bb551902787b",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sverige Idag 05.49 USA pressar Kina om Iran",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/kina-manar-till-hormuzoppning/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/kina-manar-till-hormuzoppning/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
