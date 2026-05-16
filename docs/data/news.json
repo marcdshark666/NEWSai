@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T19:44:33Z",
+  "generated_at": "2026-05-16T20:41:25Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Knivman gripen • Vittnet: ”Vi såg människor flyga” Svenska krisdraget: ”Ska förhindra att det upprepas” Så räknar du ut vinnaren av Eurovision – före alla andra Får mothugg: ”Finns ganska lite utrymme för att öka” Flygbränslet kan ta slut – risk för inställda flyg i sommar Dyrare flygbiljetter när bränslepriset rusar",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Moldaviens president varnar – efter Putins drag Rustar vid kritiska korridoren – där tredje världskriget kan starta Svenska krisdraget: ”Ska förhindra att det upprepas” Så räknar du ut vinnaren av Eurovision – före alla andra Knivman gripen • Vittnet: ”Vi såg människor flyga”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -311,7 +311,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 10,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -340,6 +340,31 @@
           "sort_order": 0
         },
         {
+          "id": "797b19cf9ee1",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 21:45",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 14 maj 23:20 4 min 32 sek",
+          "url": "https://www.svtplay.se/video/jmyy5Br/rapport/ikvall-21-45?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54172726/1778961896?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-17T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jmyy5Br/rapport/ikvall-21-45?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "72a102909d32",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -352,33 +377,8 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet Hantavirus: Kryssningsfartyget evakueras • Medicin: Så hackas vagusnerven • Eurovision song contest: Dags igen Mer om programmet",
           "url": "https://www.svtplay.se/video/KBww4oB/rapport/ikvall-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54172567/1778954106?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T19:30:00Z",
+          "published_at": "2026-05-17T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KBww4oB/rapport/ikvall-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 1
-        },
-        {
-          "id": "2f75dd62e6af",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Igår 19:30",
-          "summary": "Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet Hantavirus: Kryssningsfartyget evakueras • Medicin: Så hackas vagusnerven • Eurovision song contest: Dags igen Mer om programmet",
-          "url": "https://www.svtplay.se/video/KZxxzZB/rapport/igar-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54171457/1778865836?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/KZxxzZB/rapport/igar-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -402,7 +402,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet Hantavirus: Kryssningsfartyget evakueras • Medicin: Så hackas vagusnerven • Eurovision song contest: Dags igen Mer om programmet",
           "url": "https://www.svtplay.se/video/8EqqAvv/rapport/tor-14-maj-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54166804/1778779446?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T19:30:00Z",
+          "published_at": "2026-05-17T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/8EqqAvv/rapport/tor-14-maj-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -427,7 +427,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet Hantavirus: Kryssningsfartyget evakueras • Medicin: Så hackas vagusnerven • Eurovision song contest: Dags igen Mer om programmet",
           "url": "https://www.svtplay.se/video/jqPPwd3/rapport/ons-13-maj-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54165499/1778693044?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T19:30:00Z",
+          "published_at": "2026-05-17T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jqPPwd3/rapport/ons-13-maj-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -452,7 +452,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet Hantavirus: Kryssningsfartyget evakueras • Medicin: Så hackas vagusnerven • Eurovision song contest: Dags igen Mer om programmet",
           "url": "https://www.svtplay.se/video/8myy5dw/rapport/tis-12-maj-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54159892/1778606633?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T19:30:00Z",
+          "published_at": "2026-05-17T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/8myy5dw/rapport/tis-12-maj-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -477,7 +477,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet Hantavirus: Kryssningsfartyget evakueras • Medicin: Så hackas vagusnerven • Eurovision song contest: Dags igen Mer om programmet",
           "url": "https://www.svtplay.se/video/jMyyAva/rapport/man-11-maj-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54154345/1778520230?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T19:30:00Z",
+          "published_at": "2026-05-17T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jMyyAva/rapport/man-11-maj-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -502,7 +502,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet Hantavirus: Kryssningsfartyget evakueras • Medicin: Så hackas vagusnerven • Eurovision song contest: Dags igen Mer om programmet",
           "url": "https://www.svtplay.se/video/e6dd7mA/rapport/lor-9-maj-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54147796/1778347436?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T19:30:00Z",
+          "published_at": "2026-05-17T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/e6dd7mA/rapport/lor-9-maj-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -515,20 +515,20 @@
           "sort_order": 7
         },
         {
-          "id": "cc6ecc806c17",
+          "id": "fcf9055ffb28",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Radiokören i Reaktorhallen",
-          "summary": "Sveriges första kärnreaktor blev placerad 25 meter under jorden år 1954 på Kungliga tekniska högskolan i Stockholm. Den enda radioaktivitet som pågår i hallen i dag är när Radiokören och dirigent Peter Dijkstra kommer ner och spelar in en konsert. Musik av bland annat Schnittke, Poulenc och Lidholm. Och så lite svensk körlyrik förstås.",
-          "body_text": "Konsert med den klassiska musikens mest kända verk Sveriges första kärnreaktor blev placerad 25 meter under jorden år 1954 på Kungliga tekniska högskolan i Stockholm. Den enda radioaktivitet som pågår i hallen i dag är när Radiokören och dirigent Peter Dijkstra kommer ner och spelar in en konsert. Musik av bland annat Schnittke, Poulenc och Lidholm. Och så lite svensk körlyrik förstås.",
-          "url": "https://www.svtplay.se/video/e56v35j/radiokoren-i-reaktorhallen",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53346622/1762180311?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-11-21T01:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/e56v35j/radiokoren-i-reaktorhallen",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 14 maj 23:20 4 min 32 sek",
+          "url": "https://www.svtplay.se/video/eQrrDyP/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54172450/1778940916?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-16T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/eQrrDyP/rapport/idag-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -540,20 +540,20 @@
           "sort_order": 8
         },
         {
-          "id": "797b19cf9ee1",
+          "id": "c49bf415dddf",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Ikväll 21:45",
+          "title": "Rapport – Igår 22:30",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
-          "url": "https://www.svtplay.se/video/jmyy5Br/rapport/ikvall-21-45?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": null,
-          "embed_url": "https://www.svtplay.se/video/jmyy5Br/rapport/ikvall-21-45?video=visa",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 14 maj 23:20 4 min 32 sek",
+          "url": "https://www.svtplay.se/video/8MyyAb1/rapport/igar-22-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54172033/1778878516?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-15T22:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/8MyyAb1/rapport/igar-22-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -563,6 +563,56 @@
           ],
           "is_live": false,
           "sort_order": 9
+        },
+        {
+          "id": "2f75dd62e6af",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 19:30",
+          "summary": "Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet Hantavirus: Kryssningsfartyget evakueras • Medicin: Så hackas vagusnerven • Eurovision song contest: Dags igen Mer om programmet",
+          "url": "https://www.svtplay.se/video/KZxxzZB/rapport/igar-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54171457/1778865836?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-15T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/KZxxzZB/rapport/igar-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 10
+        },
+        {
+          "id": "cf47aa1e534f",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 14 maj 23:20 4 min 32 sek",
+          "url": "https://www.svtplay.se/video/jLJoQaQ/rapport/igar-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54170080/1778831001?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-15T09:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jLJoQaQ/rapport/igar-09-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 11
         }
       ]
     },
@@ -1725,6 +1775,81 @@
           "sort_order": 0
         },
         {
+          "id": "8bc01e94e6cf",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "The U.S. Postal Service is Going Bust | Fox News Video",
+          "summary": "Is another bailout the answer?",
+          "body_text": "Is another bailout the answer?",
+          "url": "https://www.foxnews.com/video/6395814973112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23c28f4e-5122-4425-8eb6-d44c60a33d38/96640aab-b23b-4e5c-8401-47739b2d57c8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-16T19:35:59Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395814973112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "dbab6b3a2c03",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Hits and Misses | Fox News Video",
+          "summary": "The week’s best and worst from Matt Continetti, Allysia Finley and Kyle Peterson",
+          "body_text": "The week’s best and worst from Matt Continetti, Allysia Finley and Kyle Peterson",
+          "url": "https://www.foxnews.com/video/6395814394112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d572682-2ecb-429f-92c9-693bfa5fefd5/b1be22ae-d920-458a-87c1-4e7aa65fcc63/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-16T19:34:55Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395814394112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "57053aaa7f1a",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "No known cases of hantavirus in US as officials continue to monitor potential exposure | Fox News Video",
+          "summary": "Fox News senior medical analyst Dr. Marc Siegel explains bio-containment efforts for hantavirus and praises Dr. David Brett-Major, an infectious diseases physician, for his work on 'Fox & Friends Weekend.'",
+          "body_text": "Fox News senior medical analyst Dr. Marc Siegel explains bio-containment efforts for hantavirus and praises Dr. David Brett-Major, an infectious diseases physician, for his work on 'Fox & Friends Weekend.'",
+          "url": "https://www.foxnews.com/video/6395815375112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/67709c92-34e2-433d-8840-eb13cb8ffa63/4fd9af60-db7d-4dcd-a40c-469dd70f3a40/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-16T19:33:30Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395815375112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
           "id": "e0338f57a800",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1747,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "8f4bf0f0889b",
@@ -1772,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "9318ba037cae",
@@ -1797,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "2125012fde74",
@@ -1822,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "fd65bf4825f5",
@@ -1847,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "c655e93f2fde",
@@ -1872,7 +1997,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "2cc577a7dea6",
@@ -1889,81 +2014,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c77cbe-9742-4e2f-9ed3-707995d29632/a59154db-c8a9-4ff3-bc26-ce1eb0798d77/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-16T18:02:59Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395809004112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "bdf97eb2113f",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Farmers voice concern over farmland purchases after Trump-China summit | Fox News Video",
-          "summary": "Fourth-generation California farmer Andrew Leimgruber and Oregon rancher Skye Krebs discuss the impact of President Donald Trump's trade deals with China on agriculture, especially commitments for soybeans.",
-          "body_text": "Fourth-generation California farmer Andrew Leimgruber and Oregon rancher Skye Krebs discuss the impact of President Donald Trump's trade deals with China on agriculture, especially commitments for soybeans.",
-          "url": "https://www.foxnews.com/video/6395809506112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e602a0dd-c70c-49e1-97a4-98e4ae4a7d4b/02e8d72f-3d8a-47a2-880c-0b0fecef161f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-16T17:32:34Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395809506112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "214cc52eb959",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "'Pawn Stars' icon Rick Harrison praises Trump's policies for boosting small businesses | Fox News Video",
-          "summary": "Rick Harrison discusses how President Donald Trump's 'big beautiful bill' and deregulation efforts have benefited small businesses.",
-          "body_text": "Rick Harrison discusses how President Donald Trump's 'big beautiful bill' and deregulation efforts have benefited small businesses.",
-          "url": "https://www.foxnews.com/video/6395807561112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cc99cc2-71e9-4fa6-a1dd-fc9b82d4db21/51031cb4-93fc-4818-a79c-ea3256164e24/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-16T17:06:30Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395807561112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "3fbfd0698cbe",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Republicans see MASSIVE cash lead over Democrats | Fox News Video",
-          "summary": "White House Deputy Chief of Staff James Blair discusses Republican redistricting wins and the party’s midterm election strategy on ‘Saturday in America’.",
-          "body_text": "White House Deputy Chief of Staff James Blair discusses Republican redistricting wins and the party’s midterm election strategy on ‘Saturday in America’. White House Deputy Chief of Staff James Blair analyzes how Republican redistricting wins are boosting GOP's chances in the upcoming midterms. Blair asserts Republicans are \"much closer to retaining the House\" due to these shifts. He also criticizes Democrats' 'woke' candidates and their 'hypocrisy' on gerrymandering. Republicans hold an $850 million cash advantage, positioning them for a strong election.",
-          "url": "https://www.foxnews.com/video/6395807554112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c36caab5-7d0b-49e1-a84d-99c8adb3d654/bd92d014-9f5d-47bb-95b1-42c5c696a4cc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-16T17:03:59Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395807554112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2125,10 +2175,10 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "Man ploughs car into crowd in Italy before trying to stab them",
-          "summary": "Seven people were injured, two seriously, before passers-by gave chase and stopped the man.",
-          "body_text": "A man has driven his car into pedestrians in the northern Italian city of Modena, injuring eight people, four seriously, officials say. They include a woman who reportedly had both her legs crushed. Passers-by gave chase and managed to detain the man, in his 30s, and hand him over to police. Prime Minister Giorgia Meloni described the incident as \"extremely serious\". City Mayor Massimo Mezzeti added that it would be \"even more serious\" if it turned out to be a premeditated attack. The incident occurred around 16:30 (14:30 GMT), when the speeding car hit the pedestrians in the centre of Modena, south-east of Milan. \"We saw the car approaching, it was heading for the curb,\" an eyewitness said. \"It suddenly accelerated - it was going at least 100km/h (62mph).\" \"We saw people flying,\" the witness told Italian media. Modena's mayor said it appeared the driver \"deliberately drove on to the pavement, hitting several people and crashing into a shop window\". \"He then got out of his car and brandished a knife,\" Mezzetti said. One man who tried to stop him was lightly injured before others joined him to overpower the attacker. The mayor said the suspect was an Italian national born in Bergamo, \"but of Maghreb origins\". He lives in the province of Modena.",
+          "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+          "body_text": "A man has driven his car into pedestrians in the northern Italian city of Modena, injuring eight people, four seriously, officials say. They include a woman who reportedly had both her legs crushed. After the car came to a halt against a shop window, the driver emerged holding a knife and injured a passer-by who gave chase, before the suspect was overpowered. The suspect, 31, has been identified by officials as an Italian national of Moroccan origin. Italy's Prime Minister Giorgia Meloni described the incident as \"extremely serious\". The incident occurred around 16:30 (14:30 GMT), when the speeding car hit the pedestrians in Via Emilia next to the iconic cathedral of Modena, south-east of Milan. The vehicle then veered left before coming to a halt against a shop window. \"We saw the car approaching, it was heading for the curb,\" an eyewitness said. \"It suddenly accelerated - it was going at least 100km/h (62mph).\" \"We saw people flying,\" the witness told Italian media. Modena's Mayor Massimo Mezzetti said it appeared the driver \"deliberately drove on to the pavement, hitting several people and crashing into a shop window\". \"He then got out of his car and brandished a knife,\" Mezzetti said. Five women and three men have been injured. One of the women is reported to have lost both of her legs. Luca Signorelli told Italian media he was trying to help the woman when he noticed the driver trying to run away. Signorelli said he gave chase and the attacker turned on him with a knife in hand. He received a blow to the head and one on his chest before being able to restrain the suspect, with the help of other passers-by.",
           "url": "https://www.bbc.com/news/articles/cyv28pd4n22o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1ba6/live/8d2b7de0-514f-11f1-89a3-d1f559421220.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/be55/live/7d9e5030-5165-11f1-b682-cf91850925ea.jpg",
           "published_at": "2026-05-16T17:47:36Z",
           "embed_url": "https://www.bbc.com/news/articles/cyv28pd4n22o",
           "play_mode": "page_iframe",
@@ -2137,7 +2187,7 @@
             "World",
             "BBC"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 0
         },
         {
@@ -2550,25 +2600,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "78df256e1d52",
+          "id": "a7339636e9dd",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Feminicidio en Surquillo: Capturan en Argentina a sujeto que apuñaló y quemó a su expareja",
-          "summary": "El principal sospechoso del asesinato de una cosmiatra en Surquillo, Yajaira Sigueñas, quien falleció el pasado 4 de mayo luego de ser apuñalada y quemada dentro de su vivienda, fue detenido por la policía de Argentina para proceder con su extradición.",
-          "body_text": "El principal sospechoso del asesinato de una cosmiatra en Surquillo, Yajaira Sigueñas, quien falleció el pasado 4 de mayo luego de ser apuñalada y quemada dentro de su vivienda, fue detenido por la policía de Argentina para proceder con su extradición. Se trata de Luis André Flores Julca (33) quien fue capturado en la provincia de Santa Fe, Argentina. Fuentes de El Comercio detallaron que los agentes de la Interpol localizaron al sospechoso en la ciudad de Corona mientras circulaba en una bicicleta. El sujeto integraba la lista de los más buscados del Programa de Recompensas del Ministerio del Interior (Mininter) con una oferta de beneficio económico de 50 mil soles por datos que permitieran su captura. Flores Julca es el principal imputado por el feminicidio de su expareja Yajaira Yanet Sigueñas Urbano (32). El crimen ocurrió el 11 de abril dentro de un inmueble en Surquillo. Según las investigaciones fiscales, el agresor apuñaló a la joven cosmiatra y posteriormente incendió la vivienda, e la cual el presunto homicida fue grabado ingresando por las cámaras de seguridad. La víctima sufrió quemaduras graves en el 70% de su cuerpo y lesiones punzocortantes en diversas zonas. La agraviada luchó por su vida durante 23 días en el Hospital Arzobispo Loayza. Sin embargo, Sigueñas Urbano falleció el 4 de mayo a causa de la severidad de sus heridas. Tras esto, la Cuarta Fiscalía Provincial Especializada en Violencia contra las Mujeres recalificó el proceso y cambió de tentativa a feminicidio consumado con circunstancias agravantes. Un ciudadano brindó información relevante que permitió ubicar al prófugo hace una semana. La operación conjunta reunió a la División de Búsqueda y Captura Interpol Lima con sus pares en Buenos Aires. El investigado se trasladaba como “mochilero” y, al notar la presencia policial, aceleró su marcha para tratar de eludir el control preventivo. El Décimo Primer Juzgado de Investigación Preparatoria de Lima solicitó la detención preliminar judicial del implicado. El Poder Judicial dictó además un impedimento de salida del país contra el sospechoso. Con su captura, el Ministerio Público gestiona las comunicaciones internacionales para activar el protocolo de extradición. El detenido permanece bajo custodia de la justicia argentina hasta su traslado a territorio peruano.",
-          "url": "https://elcomercio.pe/lima/policiales/feminicidio-en-surquillo-capturan-en-argentina-a-sujeto-que-apunalo-y-quemo-a-su-expareja-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/FHYTUH4FQVBHHNFPUXZRFTRBNA.jpg?auth=657cfe69a664134a5a6ede7ecc9fa3dac25f122f53056f3dfa1229e4ad145f76&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T19:39:12Z",
-          "embed_url": "https://elcomercio.pe/lima/policiales/feminicidio-en-surquillo-capturan-en-argentina-a-sujeto-que-apunalo-y-quemo-a-su-expareja-ultimas-noticia/",
+          "title": "Buenazo 2026: los restaurantes que participarán de la segunda edición del festival de Rodrigo Fernandini",
+          "summary": "El 23 de mayo iniciará la segunda edición del evento gastronómico organizado por el chef Rodrigo Fernandini, que esta vez contará con más de 40 propuestas gastronómicas.",
+          "body_text": "El Parque de Exposiciones Costa Verde será el escenario de la segunda edición del Buenazo Fest, el festival gastronómico organizado por el chef e influencer Rodrigo Fernandini. Tras una primera edición realizada en octubre del 2025, el evento vuelve al distrito de Magdalena del Mar con un programa que contempla más de 46 restaurantes y propuestas culinarias. “Rodrigo Fernandini ha estado a cargo de la curaduría de Buenazo Fest 2, seleccionando cuidadosamente cada una de las propuestas y restaurantes que formarán parte del festiva”, se anuncia en la nota de prensa del evento. Estos son algunos de los restaurantes confirmados para este volumen 2: Cabe destacar, que el festival estará dividido en estas zonas gastronómicas: El Buenazo Fest 2 recibirá al público los días 23 y 24 de mayo en el Parque de Exposiciones Costa Verde. Las entradas están disponibles en Joinnus a 35 soles. Como parte de los beneficios exclusivos, los suscriptores de El Comercio con acceso al Club El Comercio podrán acceder a un 15% de descuento en entradas. Conoce más aquí.",
+          "url": "https://elcomercio.pe/somos/gastronomia/festival-buenazo-2026-restaurantes-fechas-y-precio-de-entradas-del-evento-rodrigo-fernandini-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/OAR3Y2ZQTJAXFFSUZDA6UDZ7M4.jpg?auth=32062bad500257136a812d3da903b1160cdeac1161e4e17039d1227974a769ee&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T20:36:21Z",
+          "embed_url": "https://elcomercio.pe/somos/gastronomia/festival-buenazo-2026-restaurantes-fechas-y-precio-de-entradas-del-evento-rodrigo-fernandini-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Argentina, Surquillo, Feminicidios, Asesinatos",
-            "Policiales",
+            "Diario El Comercio, Revista Somos, Noticias, Noticias Perú, Perú al día, Actualidad, Buenazo Fest, Festivales gastronómicos, Comida, Ferias, Rodrigo Fernandini, Chef que dice Buenazo",
+            "Gastronomía",
             "Senaste",
             "El Comercio"
           ],
@@ -2576,30 +2626,56 @@
           "sort_order": 0
         },
         {
-          "id": "63bb50e629d7",
+          "id": "03427d61ae71",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Gobierno de Rodrigo Paz dice que evitará “derramamiento de sangre” en desbloqueo de vías en Bolivia",
-          "summary": "El Gobierno de Bolivia aseguró que hará todo “esfuerzo” para evitar un “derramamiento de sangre”, en medio de la operación policial y militar que se realiza este sábado para desbloquear las carreteras cerradas desde hace 11 días en La Paz y que derivó en enfrentamientos en algunos sitios de ese departamento.",
-          "body_text": "El Gobierno de Bolivia aseguró que hará todo “esfuerzo” para evitar un “derramamiento de sangre”, en medio de la operación policial y militar que se realiza este sábado para desbloquear las carreteras cerradas desde hace 11 días en La Paz y que derivó en enfrentamientos en algunos sitios de ese departamento. “Vamos a hacer hasta el último esfuerzo para evitar que haya derramamiento de sangre por el uso de la violencia de cualquiera de las partes”, declaró el vocero presidencial, José Luis Gálvez, en una rueda de prensa en el Ministerio de Gobierno (Interior), en La Paz. La Policía y las Fuerzas Armadas de Bolivia iniciaron esta madrugada una operación conjunta para despejar las principales carreteras que conectan a La Paz y su vecina El Alto con el resto del país. La operación, llamada ‘Corredor humanitario’, movilizó a 2.500 agentes policiales y 1.000 militares, según informaron por separado ambas instituciones. La acción se concentró en una de las carreteras que une a El Alto con Perú, en la vía hacia la región andina de Oruro que también conecta con el centro y oriente del país y en una ruta en el sur de la ciudad de La Paz, aunque en este último lugar, el avance fue frenado por manifestantes que utilizaron explosivos, piedras y armaron barricadas. Los agentes intentaron avanzar lanzando gases lacrimógenos, pero finalmente se les instruyó replegarse para evitar que se desborde la violencia en el lugar. Mientras policías y militares avanzaban en el desbloqueo en las carreteras del altiplano, centenares de personas retomaron los cortes de rutas en las salidas hacia esas vías desde las zonas de Senkata y Río Seco en El Alto. En Río Seco, los manifestantes atacaron a pedradas una estación del teleférico, lo que obligó a suspender el servicio en uno de sus tramos, mientras que kilómetros más allá, chocaron con agentes de la Policía y la Policía Militar que intentaron dispersarlos con gases lacrimógenos. Gálvez remarcó que la acción buscó habilitar un “corredor humanitario” para permitir el tránsito de oxígeno medicinal, alimentos, medicamentos y combustibles hasta La Paz, aunque también admitió que tras la operación, los sectores movilizados “radicalizaron” sus protestas. El portavoz presidencial recalcó que la operación de desbloqueo se enmarcó en las leyes, que en ningún momento se utilizaron “armas letales” y que la intervención de las fuerzas militares y policiales fue solamente “disuasiva”. “Se les ha instruido bajar la tensión, tratar de que se calmen las aguas porque lo que menos queremos es la pérdida de vidas, no es el propósito usar la fuerza de manera indiscriminada”, apuntó Gálvez. La Central Obrera Boliviana (COB) y la Federación de Campesinos de La Paz ‘Tupac Katari’ piden, con protestas callejeras y bloqueos de carreteras, la renuncia de Paz, al considerar que no puede solucionar los conflictos del país. Además, una marcha de centenares de seguidores del expresidente Evo Morales (2006-2019) se acerca por el altiplano a la sede de Gobierno, adonde prevé llegar el lunes para demandar la renuncia del mandatario. El Gobierno ha denunciado un “plan macabro” supuestamente diseñado por Morales para “romper el orden constitucional” y que presuntamente está “financiado” por el narcotráfico, lo que el exmandatario rechazó.",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/protestas-en-bolivia-gobierno-de-rodrigo-paz-dice-que-evitara-derramamiento-de-sangre-en-desbloqueo-de-vias-la-paz-el-alto-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/IITLEZHO6RAWVNHVHM5RXPLIUU.jpg?auth=2d9c01a9082f74c635abe32bdef9628b157ad2668b65442a27403809a03b6975&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T19:38:26Z",
-          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/protestas-en-bolivia-gobierno-de-rodrigo-paz-dice-que-evitara-derramamiento-de-sangre-en-desbloqueo-de-vias-la-paz-el-alto-ultimas-noticia/",
+          "title": "Más de 200 stands, cientos de sabores y los mejores quesos del Perú en el IV Salón del Queso Peruano 2026",
+          "summary": "La gran fiesta de los lácteos peruanos inicia una nueva edición este 21 de mayo con una enorme variedad de quesos de todo el Perú, así como yogures, mantequillas y otros derivados lácteos.",
+          "body_text": "La gran fiesta del queso está por abrir sus puertas. Desde el jueves 21 hasta el domingo 24 de mayo, se llevará a cabo el IV Salón del Queso Peruano, un evento que reunirá a cientos de productores, emprendedores, especialistas y amantes del queso en un solo lugar. La edición 2026 de la feria contará con 200 stands de exhibición y venta, cifra que supera ampliamente la del año pasado, que contó con 135 stands, una demostración de la creciente demanda de los derivados lácteos de alta calidad. Además de la venta de una enorme variedad de quesos frescos, maduros y especiales, además de yogures, mantequilla, manjar blanco, natillas y otros derivados lácteos, la programación incluirá rueda de negocios, talleres especializados, demostraciones gastronómicas en vivo, charlas técnicas y experiencias de cata y maridaje que permitirán al público conocer la diversidad y calidad de los quesos peruanos. Uno de los momentos más esperados será el Concurso Nacional del Queso, programado para el viernes 22 de mayo, donde competirán 90 productores ganadores de certámenes macrorregionales en busca del reconocimiento a los mejores quesos del país. Además, dentro de las novedades de esta edición, se destaca el espacio interactivo “QuesoKids”, orientado a niños y familias, con actividades educativas y recreativas destinadas a promover el conocimiento sobre la elaboración, valor nutricional y consumo de productos lácteos. El Salón del Queso Peruano 2026 es impulsado por el Ministerio de Desarrollo Agrario y Riego (MIDAGRI). Los gobiernos regionales de Arequipa y Cajamarca apoyan este evento en calidad de coorganizadores.",
+          "url": "https://elcomercio.pe/somos/gastronomia/iv-salon-del-queso-peruano-2026-fechas-precios-y-todo-lo-que-debes-saber-del-evento-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/C4LNHALG75A3DMGSOFCHY66XC4.jpeg?auth=d7daa03fe5c90cd008a2c5174b229fe89d773a2d2ea35958de1fab22d83e2ef6&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T20:36:17Z",
+          "embed_url": "https://elcomercio.pe/somos/gastronomia/iv-salon-del-queso-peruano-2026-fechas-precios-y-todo-lo-que-debes-saber-del-evento-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Protestas en Bolivia, Bolivia, Rodrigo Paz, La Paz, El Alto, José Luis Gálvez",
-            "Latinoamérica",
+            "Diario El Comercio, Revista Somos, Noticias, Noticias Perú, Perú al día, Actualidad",
+            "Gastronomía",
             "Senaste",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "17f3bfce2993",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Alianza Lima vs Cienciano en vivo: previa y últimas noticias del partido por la Liga 1",
+          "summary": "Alianza Lima vs Cienciano en vivo por Torneo Apertura, Liga 1 2026 | LBPosting",
+          "body_text": "Alianza Lima vs Cienciano en vivo por Torneo Apertura, Liga 1 2026 | LBPosting",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-cienciano-en-vivo-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/DJILNXDYCRFPTMFI3E4XGQG6PQ.jpg?auth=6d4f63981ef60f009f0b0a6c7637d9f7724ad1b043625b937ae8ce54e93ef94e&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T20:25:39Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-cienciano-en-vivo-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Alianza Lima vs Cienciano, Alianza vs Cienciano en vivo, alianza lima, cienciano",
+            "Fútbol peruano",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 2
         },
         {
           "id": "b976ad2fc108",
@@ -2625,7 +2701,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "5d436aa392ea",
@@ -2647,32 +2723,6 @@
           "tags": [
             "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
             "Cómo",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "4f9613f9a1cc",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Universitario cayó 1-0 ante Atlético Grau por Liga 1 en el Estadio Monumental | RESUMEN Y GOLES",
-          "summary": "Universitario no pudo de local ante Atlético Grau por la fecha 15 del Torneo Apertura de la Liga 1 2026.",
-          "body_text": "Universitario no pudo de local ante Atlético Grau por la fecha 15 del Torneo Apertura de la Liga 1 2026.",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-atletico-grau-en-vivo-online-gratis-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/QSKVTBXW6BD77KRM36NTF55UEU.jpg?auth=1623ffbe646fbbbb55c7b42834187df66c61e19af31307baad44d5f9cc073bec&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T03:32:08Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-atletico-grau-en-vivo-online-gratis-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Universitario vs. Atlético Grau, Universitario, Atlético Grau, Partidos de hoy, Fútbol en vivo, Liga 1 MAX, Liga 1 Play, DIRECTV, Liga 1, horario Universitario vs. Atlético Grau, hora Universitario vs. Atlético Grau, a qué hora juega Universitario vs. Atlético Grau, cuándo juega Universitario vs. Atlético Grau, canal Universitario vs. Atlético Grau, canal tv Universitario vs. Atlético Grau, canal que transmite Universitario vs. Atlético Grau, canal que pasa Universitario vs. Atlético Grau, canal que televisa Universitario vs. Atlético Grau, qué canal transmite Universitario vs. Atlético Grau, qué canal pasa Universitario vs. Atlético Grau, qué canal televisa Universitario vs. Atlético Grau, en qué canal ver Universitario vs. Atlético Grau, en qué canal transmiten Universitario vs. Atlético Grau, en qué canal televisan Universitario vs. Atlético Grau, en qué canal pasan Universitario vs. Atlético Grau, dónde ver Universitario vs. Atlético Grau, cómo ver Universitario vs. Atlético Grau, ver Universitario vs. Atlético Grau, mirar Universitario vs. Atlético Grau",
-            "Fútbol peruano",
             "Senaste",
             "El Comercio"
           ],
@@ -2827,6 +2877,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "17f3bfce2993",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Alianza Lima vs Cienciano en vivo: previa y últimas noticias del partido por la Liga 1",
+          "summary": "Alianza Lima vs Cienciano en vivo por Torneo Apertura, Liga 1 2026 | LBPosting",
+          "body_text": "Alianza Lima vs Cienciano en vivo por Torneo Apertura, Liga 1 2026 | LBPosting",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-cienciano-en-vivo-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/DJILNXDYCRFPTMFI3E4XGQG6PQ.jpg?auth=6d4f63981ef60f009f0b0a6c7637d9f7724ad1b043625b937ae8ce54e93ef94e&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T20:25:39Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-cienciano-en-vivo-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Alianza Lima vs Cienciano, Alianza vs Cienciano en vivo, alianza lima, cienciano",
+            "Fútbol peruano",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "b976ad2fc108",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2850,7 +2926,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "5d436aa392ea",
@@ -2872,32 +2948,6 @@
           "tags": [
             "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
             "Cómo",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "4f9613f9a1cc",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Universitario cayó 1-0 ante Atlético Grau por Liga 1 en el Estadio Monumental | RESUMEN Y GOLES",
-          "summary": "Universitario no pudo de local ante Atlético Grau por la fecha 15 del Torneo Apertura de la Liga 1 2026.",
-          "body_text": "Universitario no pudo de local ante Atlético Grau por la fecha 15 del Torneo Apertura de la Liga 1 2026.",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-atletico-grau-en-vivo-online-gratis-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/QSKVTBXW6BD77KRM36NTF55UEU.jpg?auth=1623ffbe646fbbbb55c7b42834187df66c61e19af31307baad44d5f9cc073bec&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T03:32:08Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-atletico-grau-en-vivo-online-gratis-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Universitario vs. Atlético Grau, Universitario, Atlético Grau, Partidos de hoy, Fútbol en vivo, Liga 1 MAX, Liga 1 Play, DIRECTV, Liga 1, horario Universitario vs. Atlético Grau, hora Universitario vs. Atlético Grau, a qué hora juega Universitario vs. Atlético Grau, cuándo juega Universitario vs. Atlético Grau, canal Universitario vs. Atlético Grau, canal tv Universitario vs. Atlético Grau, canal que transmite Universitario vs. Atlético Grau, canal que pasa Universitario vs. Atlético Grau, canal que televisa Universitario vs. Atlético Grau, qué canal transmite Universitario vs. Atlético Grau, qué canal pasa Universitario vs. Atlético Grau, qué canal televisa Universitario vs. Atlético Grau, en qué canal ver Universitario vs. Atlético Grau, en qué canal transmiten Universitario vs. Atlético Grau, en qué canal televisan Universitario vs. Atlético Grau, en qué canal pasan Universitario vs. Atlético Grau, dónde ver Universitario vs. Atlético Grau, cómo ver Universitario vs. Atlético Grau, ver Universitario vs. Atlético Grau, mirar Universitario vs. Atlético Grau",
-            "Fútbol peruano",
             "Economia",
             "El Comercio"
           ],
@@ -3104,6 +3154,58 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "17f3bfce2993",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Alianza Lima vs Cienciano en vivo: previa y últimas noticias del partido por la Liga 1",
+          "summary": "Alianza Lima vs Cienciano en vivo por Torneo Apertura, Liga 1 2026 | LBPosting",
+          "body_text": "Alianza Lima vs Cienciano en vivo por Torneo Apertura, Liga 1 2026 | LBPosting",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-cienciano-en-vivo-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/DJILNXDYCRFPTMFI3E4XGQG6PQ.jpg?auth=6d4f63981ef60f009f0b0a6c7637d9f7724ad1b043625b937ae8ce54e93ef94e&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T20:25:39Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-cienciano-en-vivo-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Alianza Lima vs Cienciano, Alianza vs Cienciano en vivo, alianza lima, cienciano",
+            "Fútbol peruano",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "3a184e7da67a",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Sheinbaum rechaza presión extranjera tras entrega de exfuncionarios en Estados Unidos",
+          "summary": "La presidenta de México, Claudia Sheinbaum, afirmó este sábado que “ningún gobierno extranjero” definirá el rumbo del país, en medio de un nuevo foco de tensión con Estados Unidos tras la entrega de dos exfuncionarios mexicanos acusados de proteger al Cártel de Sinaloa.",
+          "body_text": "La presidenta de México, Claudia Sheinbaum, afirmó este sábado que “ningún gobierno extranjero” definirá el rumbo del país, en medio de un nuevo foco de tensión con Estados Unidos tras la entrega de dos exfuncionarios mexicanos acusados de proteger al Cártel de Sinaloa. En un evento público en el estado de Yucatán, sur del país, Sheinbaum defendió el proyecto político de su movimiento, conocido como la “cuarta transformación”, impulsado por su antecesor Andrés Manuel López Obrador (2018-2024). En ese sentido, sin mencionar directamente a Estados Unidos, Sheinbaum aseguró que “ningún gobierno extranjero le va a arrebatar la transformación al pueblo de México”. La mandataria mexicana también lanzó un mensaje contra la corrupción y afirmó que ninguna persona deshonesta puede ampararse en el movimiento oficialista. “Nadie, ninguna persona que no sea honesta, que no sea honrada, puede esconderse bajo el halo de la transformación del pueblo de México”, sostuvo. Las declaraciones de Sheinbaum ocurren luego de que los exsecretarios de Seguridad y de Administración y Finanzas de Sinaloa, Gerardo Mérida y Enrique Díaz, se entregaran voluntariamente a autoridades de EE.UU., en medio de acusaciones de proteger operaciones de la facción de Los Chapitos del Cártel de Sinaloa. Ambos forman parte de un grupo de 10 funcionarios, incluido el gobernador oficialista con licencia Rubén Rocha Moya, señalados por Estados Unidos como responsables de presuntos delitos de narcotráfico y posesión de armas a cambio de supuestos sobornos millonarios. Según reportes difundidos el viernes, Mérida y Díaz estarían en conversaciones con fiscales estadounidenses como posibles testigos cooperantes, en un caso que amenaza con convertirse en un nuevo foco de presión de Washington sobre México. Las entregas ocurrieron horas después de una llamada entre Sheinbaum y el presidente estadounidense, Donald Trump, centrada en seguridad y narcotráfico, en un contexto de crecientes presiones dese Washington contra el crimen organizado. El Gobierno mexicano no ha emitido hasta ahora una postura oficial sobre la entrega de los dos exfuncionarios a EE.UU. Desde que se conocieron las acusaciones a finales de abril, Sheinbaum ha insistido en que no existen pruebas públicas contra los funcionarios acusados de conspirar con el Cártel de Sinaloa, al que Estados Unidos designó como organización terrorista extranjera el pasado año.",
+          "url": "https://elcomercio.pe/mundo/mexico/mexico-claudia-sheinbaum-rechaza-presion-extranjera-tras-entrega-de-exfuncionarios-en-estados-unidos-cartel-de-sinaloa-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/UEPDOQKS55B77ANLB7CZ7SNIX4.jpg?auth=d82322a8576c1387e2f12d3a315275de9214831cb5bb2429b7453aa1ac9dc6ab&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T20:08:27Z",
+          "embed_url": "https://elcomercio.pe/mundo/mexico/mexico-claudia-sheinbaum-rechaza-presion-extranjera-tras-entrega-de-exfuncionarios-en-estados-unidos-cartel-de-sinaloa-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "México, Claudia Sheinbaum, Estados Unidos, Cártel de Sinaloa, Donald Trump",
+            "México",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "63bb50e629d7",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3127,33 +3229,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "e79a3103ffb4",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Cuba difunde “guía” para proteger a la población ante una agresión militar en medio de tensiones con EE.UU.",
-          "summary": "El organismo de defensa civil de Cuba difundió en los últimos días una “guía” para “proteger a la población ante una agresión militar”, según varios sitios oficiales provinciales, en un contexto de crisis cada vez más profunda con Estados Unidos.",
-          "body_text": "El organismo de defensa civil de Cuba difundió en los últimos días una “guía” para “proteger a la población ante una agresión militar”, según varios sitios oficiales provinciales, en un contexto de crisis cada vez más profunda con Estados Unidos. La difusión de este documento, no replicado a nivel nacional por los medios estatales, se produce en un momento especialmente tenso de la relación entre Washington y La Habana, enemigos ideológicos desde hace más de seis décadas. El gobierno estadounidense, encabezado por Donald Trump, impone desde finales de enero un bloqueo energético a la isla de control comunista, situada a 150 kilómetros de la costa estadounidense, por considerar que representa una “amenaza excepcional” para la seguridad por sus estrechas relaciones con Rusia, China e Irán. John Ratcliffe, director de la principal agencia de inteligencia de Estados Unidos, viajó a La Habana para mantener una reunión con altos cargos cubanos para abordar la profunda crisis que sufre la isla. El documento del Estado Mayor Nacional de la Defensa Civil, dirigido “a todas las familias cubanas”, proporciona información “práctica” con el fin de “proteger la vida ante posibles ataques del enemigo”, según un comunicado divulgado el viernes en el Portal del ciudadano de la provincia de La Habana. La radio provincial de Sancti Spíritus, una provincia del centro del país, publicó la información en su sitio de internet el sábado, con la posibilidad de descargar el documento. Titulado “Proteger, resistir, sobrevivir y vencer”, el instructivo recoge una serie de recomendaciones que van desde la preparación de “una mochila familiar con agua potable, alimentos listos para consumir, radio con energía alternativa, linterna, medicamentos (...) y artículos de higiene”, hasta la atención que se debe prestar “a las señales de alarma aérea”. Insta también a conocer los “primero auxilios” y recuerda la importancia de informarse “a través de los consejos de defensa” locales. La difusión, más bien discreta, del documento se produce cuando Cuba, de 9,6 millones de habitantes, atraviesa una crisis socioeconómica sin precedentes. La situación de la red eléctrica también es crítica, ya que el país se ha quedado sin reservas de diésel ni de fueloil. Los interminables y repetidos apagones han provocado en los últimos días manifestaciones en varios barrios de La Habana.",
-          "url": "https://elcomercio.pe/mundo/centroamerica/cuba-difunde-guia-para-proteger-a-la-poblacion-ante-una-agresion-militar-en-medio-de-tensiones-con-estados-unidos-miguel-diaz-canel-donald-trump-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/BVGL7NRMKZG6VPEMYLDOVW2M3Q.jpg?auth=d2eace9c4c6cf928d4153c6b4bd6676ab4c9ab75d3bb84b87ea895c04418a593&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T19:07:55Z",
-          "embed_url": "https://elcomercio.pe/mundo/centroamerica/cuba-difunde-guia-para-proteger-a-la-poblacion-ante-una-agresion-militar-en-medio-de-tensiones-con-estados-unidos-miguel-diaz-canel-donald-trump-ultimas-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Cuba, Estados Unidos, Miguel Díaz-Canel, Donald Trump, John Ratcliffe, Sancti Spíritus",
-            "Centroamérica",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "b976ad2fc108",
@@ -3179,7 +3255,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "5d436aa392ea",
@@ -3201,32 +3277,6 @@
           "tags": [
             "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
             "Cómo",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "4f9613f9a1cc",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Universitario cayó 1-0 ante Atlético Grau por Liga 1 en el Estadio Monumental | RESUMEN Y GOLES",
-          "summary": "Universitario no pudo de local ante Atlético Grau por la fecha 15 del Torneo Apertura de la Liga 1 2026.",
-          "body_text": "Universitario no pudo de local ante Atlético Grau por la fecha 15 del Torneo Apertura de la Liga 1 2026.",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-atletico-grau-en-vivo-online-gratis-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/QSKVTBXW6BD77KRM36NTF55UEU.jpg?auth=1623ffbe646fbbbb55c7b42834187df66c61e19af31307baad44d5f9cc073bec&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T03:32:08Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-atletico-grau-en-vivo-online-gratis-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Universitario vs. Atlético Grau, Universitario, Atlético Grau, Partidos de hoy, Fútbol en vivo, Liga 1 MAX, Liga 1 Play, DIRECTV, Liga 1, horario Universitario vs. Atlético Grau, hora Universitario vs. Atlético Grau, a qué hora juega Universitario vs. Atlético Grau, cuándo juega Universitario vs. Atlético Grau, canal Universitario vs. Atlético Grau, canal tv Universitario vs. Atlético Grau, canal que transmite Universitario vs. Atlético Grau, canal que pasa Universitario vs. Atlético Grau, canal que televisa Universitario vs. Atlético Grau, qué canal transmite Universitario vs. Atlético Grau, qué canal pasa Universitario vs. Atlético Grau, qué canal televisa Universitario vs. Atlético Grau, en qué canal ver Universitario vs. Atlético Grau, en qué canal transmiten Universitario vs. Atlético Grau, en qué canal televisan Universitario vs. Atlético Grau, en qué canal pasan Universitario vs. Atlético Grau, dónde ver Universitario vs. Atlético Grau, cómo ver Universitario vs. Atlético Grau, ver Universitario vs. Atlético Grau, mirar Universitario vs. Atlético Grau",
-            "Fútbol peruano",
             "Mundo",
             "El Comercio"
           ],
@@ -3381,6 +3431,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "17f3bfce2993",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Alianza Lima vs Cienciano en vivo: previa y últimas noticias del partido por la Liga 1",
+          "summary": "Alianza Lima vs Cienciano en vivo por Torneo Apertura, Liga 1 2026 | LBPosting",
+          "body_text": "Alianza Lima vs Cienciano en vivo por Torneo Apertura, Liga 1 2026 | LBPosting",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-cienciano-en-vivo-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/DJILNXDYCRFPTMFI3E4XGQG6PQ.jpg?auth=6d4f63981ef60f009f0b0a6c7637d9f7724ad1b043625b937ae8ce54e93ef94e&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T20:25:39Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-cienciano-en-vivo-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Alianza Lima vs Cienciano, Alianza vs Cienciano en vivo, alianza lima, cienciano",
+            "Fútbol peruano",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "fc80a52bb8be",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3404,7 +3480,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "b976ad2fc108",
@@ -3430,7 +3506,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "5d436aa392ea",
@@ -3456,7 +3532,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "8be44969b7a4",
@@ -3478,32 +3554,6 @@
           "tags": [
             "Diario El Comercio, Actualidad, Noticias, Noticias Perú, Revista Somos, Somos, Actualidad en Perú, chambira, arte textil, latam airlains, unesco peru, iquitos, nauta, comunidades amazónicas, tejidos de comunidades amazónicas, artesanía peruana, artesanía amazónica, arte amazónico, material reciclado, textiles reciclado, aviones, artesanías de chambira, rio marañon, Artesanas",
             "Historias",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "4f9613f9a1cc",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Universitario cayó 1-0 ante Atlético Grau por Liga 1 en el Estadio Monumental | RESUMEN Y GOLES",
-          "summary": "Universitario no pudo de local ante Atlético Grau por la fecha 15 del Torneo Apertura de la Liga 1 2026.",
-          "body_text": "Universitario no pudo de local ante Atlético Grau por la fecha 15 del Torneo Apertura de la Liga 1 2026.",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-atletico-grau-en-vivo-online-gratis-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/QSKVTBXW6BD77KRM36NTF55UEU.jpg?auth=1623ffbe646fbbbb55c7b42834187df66c61e19af31307baad44d5f9cc073bec&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T03:32:08Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-atletico-grau-en-vivo-online-gratis-por-torneo-apertura-liga-1-2026-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Universitario vs. Atlético Grau, Universitario, Atlético Grau, Partidos de hoy, Fútbol en vivo, Liga 1 MAX, Liga 1 Play, DIRECTV, Liga 1, horario Universitario vs. Atlético Grau, hora Universitario vs. Atlético Grau, a qué hora juega Universitario vs. Atlético Grau, cuándo juega Universitario vs. Atlético Grau, canal Universitario vs. Atlético Grau, canal tv Universitario vs. Atlético Grau, canal que transmite Universitario vs. Atlético Grau, canal que pasa Universitario vs. Atlético Grau, canal que televisa Universitario vs. Atlético Grau, qué canal transmite Universitario vs. Atlético Grau, qué canal pasa Universitario vs. Atlético Grau, qué canal televisa Universitario vs. Atlético Grau, en qué canal ver Universitario vs. Atlético Grau, en qué canal transmiten Universitario vs. Atlético Grau, en qué canal televisan Universitario vs. Atlético Grau, en qué canal pasan Universitario vs. Atlético Grau, dónde ver Universitario vs. Atlético Grau, cómo ver Universitario vs. Atlético Grau, ver Universitario vs. Atlético Grau, mirar Universitario vs. Atlético Grau",
-            "Fútbol peruano",
             "Peru",
             "El Comercio"
           ],
@@ -3692,6 +3742,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "2f69e57baf7b",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "The haves and have nots of the AI gold rush | TechCrunch",
+          "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+          "body_text": "The vibes around the current AI boom aren’t great, even in the tech industry, according to a lengthy social media post from Menlo Ventures partner Deedy Das. Das described San Francisco as “pretty frenetic right now,” as “the divide in outcomes is the worst I’ve ever seen.” Using a “back of the envelope AI calculation,” he projected that there are around 10,000 people — founders and employees at companies like OpenAI, Anthropic, and Nvidia — that have “hit retirement wealth of well above $20M,” while everyone else worries “they can work their well-paying (but <$500k) job for their whole life and never get there.” Plus, “layoffs are in full swing,” and “many software engineers feel that their life’s skill is no longer useful,” leading to confusion about the best career paths and “a deep malaise about work (and its future),” Das said. This prompted some eye-rolling on X, with entrepreneur Deva Hazarika arguing that “most of the people in this post” are “incredibly fortunate and can simply make a choice to be happy.” Another user suggested it’s “pretty damn novel & also kinda nasty” that in the current cycle, “the same technology is both the lottery ticket & the thing eating your fallback.” The vibes in SF feel pretty frenetic right now. The divide in outcomes is the worst I've ever seen. Over the last 5yrs, a group of ~10k people – employees at Anthropic, OpenAI, xAI, Nvidia, Meta TBD, founders – have hit retirement wealth of well above $20M (back of the envelope… StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
+          "published_at": "2026-05-16T20:17:16Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "b391aa045b24",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3706,30 +3780,6 @@
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Nectar-Social.jpg?resize=1200,801",
           "published_at": "2026-05-16T19:26:14Z",
           "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/Nectar-Social.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        },
-        {
-          "id": "f921088cb834",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work | TechCrunch",
-          "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-          "body_text": "ArXiv , a widely used open repository for preprint research, is doing more to crack down on the careless use of large language models in scientific papers. Although papers are posted to the site before they are peer-reviewed, arXiv (pronounced “archive”) has become one of the main ways that research circulates in fields like computer science and math, and the site itself has become a source of data on trends in scientific research . ArXiv has already taken steps to combat a growing number of low-quality, AI-generated papers, for example by requiring first-time posters to get an endorsement from an established author . And after being hosted by Cornell for more than 20 years, the organization is becoming an independent nonprofit, which should allow it to raise more money to address issues like AI slop . In its latest move, Thomas Dietterich — the chair of arXiv’s computer science section — posted Thursday that “if a submission contains incontrovertible evidence that the authors did not check the results of LLM generation, this means we can’t trust anything in the paper.” That incontrovertible evidence could include things like “hallucinated references” and comments to or from the LLM, Dietterich said. If such evidence is found, a paper’s authors will face “a 1-year ban from arXiv followed by the requirement that subsequent arXiv submissions must first be accepted by a reputable peer-reviewed venue.” Note that this isn’t an outright prohibition on using LLMs, but rather an insistence that, as Dietterich put it, authors take “full responsibility” for the content, “irrespective of how the contents are generated.” So if researchers copy-paste “inappropriate language, plagiarized content, biased content, errors, mistakes, incorrect references, or misleading content” directly from an LLM, then they’re still responsible for it. Dietterich told 404 Media that this will be a “one-strike” rule, but moderators must flag the issue and section chairs must confirm the evidence before imposing the penalty. Authors will also be able to appeal the decision. Recent peer-reviewed research has found that fabricated citations are on the rise in biomedical research, likely due to LLMs — though to be fair, scientists aren’t the only ones getting caught using citations that were made up by AI . When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Anthony Ha is TechCrunch's weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com . StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone.",
-          "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800",
-          "published_at": "2026-05-16T18:54:28Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -4248,8 +4298,8 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Trump: ”De vill gå i krig”",
-          "summary": "Efter mötet med Kinas president Xi Jinping hävdar Trump att ”Taiwan vill gå i krig”. Och utlovade vapenleveranser till den självstyrande demokratiska ön tänker han använda för politiskt spel. – Det är en väldigt bra förhandlingsbricka, faktiskt. Det är mycket vapen, säger USA:s president till Fox News.",
-          "body_text": "Efter mötet med Kinas president Xi Jinping hävdar Trump att ”Taiwan vill gå i krig”. Och utlovade vapenleveranser till den självstyrande demokratiska ön tänker han använda för politiskt spel. – Det är en väldigt bra förhandlingsbricka, faktiskt. Det är mycket vapen, säger USA:s president till Fox News . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Trump hävdar att Taiwan vill gå i krig med Kina. Vapenleveranser till Taiwan används som förhandlingsbricka mot Kina. Taiwan slår fast att de är ett självständigt land. Kinas regim varnar för konflikt om Taiwanfrågan inte hanteras. I en intervju med Fox News påstår Donald Trump att Taiwan, med knappt 25 miljoner invånare, faktiskt vill ha en väpnad konflikt med den militära supermakten Kina. – De blir självständiga eftersom de vill gå i krig och de räknar med att ha USA bakom sig, säger Trump i en intervju med Fox News under fredagen efter att han återvänt från statsbesöket i Kina. Under lördagen har Taiwans utrikesdepartement publicerat ett uttalande om Trumps kommentarer där de skriver att de är ”ett suveränt och oberoende land”. ”Detta är ett obestridligt faktum, och Peking har ingen rätt att göra några anspråk på Taiwan”, skriver departementet.",
+          "summary": "Efter mötet med Kinas president Xi Jinping hävdar Trump att ”Taiwan vill gå i krig”. Och utlovade vapenleveranser till den självstyrande demokratiska ön tänker han använda för politiskt spel. – Det är en väldigt bra förhandlingsbricka, faktiskt. Det är mycket vapen, säger USA:s president till Fox News. Missa inget om Trumps USA – ladda ner Expressens app här",
+          "body_text": "Efter mötet med Kinas president Xi Jinping hävdar Trump att ”Taiwan vill gå i krig”. Och utlovade vapenleveranser till den självstyrande demokratiska ön tänker han använda för politiskt spel. – Det är en väldigt bra förhandlingsbricka, faktiskt. Det är mycket vapen, säger USA:s president till Fox News . Missa inget om Trumps USA – ladda ner Expressens app här Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Trump hävdar att Taiwan vill gå i krig med Kina. Vapenleveranser till Taiwan används som förhandlingsbricka mot Kina. Taiwan slår fast att de är ett självständigt land. Kinas regim varnar för konflikt om Taiwanfrågan inte hanteras. I en intervju med Fox News påstår Donald Trump att Taiwan, med knappt 25 miljoner invånare, faktiskt vill ha en väpnad konflikt med den militära supermakten Kina. – De blir självständiga eftersom de vill gå i krig och de räknar med att ha USA bakom sig, säger Trump i en intervju med Fox News under fredagen efter att han återvänt från statsbesöket i Kina. Under lördagen har Taiwans utrikesdepartement publicerat ett uttalande om Trumps kommentarer där de skriver att de är ”ett suveränt och oberoende land”.",
           "url": "https://www.expressen.se/nyheter/varlden/trump-om-taiwan-de-vill-ga-i-krig/",
           "image_url": "https://static.bonniernews.se/images/5f/4a/5f4a2998d4dc44b1867950c773379527/16x9/original.png",
           "published_at": "2026-05-16T18:26:18Z",
