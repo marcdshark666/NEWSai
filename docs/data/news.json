@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T14:20:50Z",
+  "generated_at": "2026-05-16T15:32:10Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -259,7 +259,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Fick två alvedon och en spruta • Charlotte, 72: ”Kände mig diskriminerad” Man med rullator satt fast i kylan – hela natten: ”Skakig och iskall” Petra, 50, låg och skrek i timmar – innan ambulansen till slut dök upp Reagerar på barnrekryteringarna: ”Inte det Sverige jag växte upp i” Två jättedemonstrationer – och FA-cupfinal • ”Kamp om nationens själ”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Kritiken: Lönerna för låga – svårt att locka folk Adelina bröt svanskotan – tvingades vänta 4 timmar på ambulans Fick två alvedon och en spruta • Charlotte, 72: ”Kände mig diskriminerad” Man med rullator satt fast i kylan – hela natten: ”Skakig och iskall” Petra, 50, låg och skrek i timmar – innan ambulansen till slut dök upp Två jättedemonstrationer – och FA-cupfinal • ”Kamp om nationens själ”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -564,31 +564,6 @@
           "sort_order": 8
         },
         {
-          "id": "c6122fc8dc77",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Igår 08:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 14 maj 23:20 4 min 32 sek",
-          "url": "https://www.svtplay.se/video/eorr2qd/rapport/igar-08-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54169012/1778827396?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T08:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/eorr2qd/rapport/igar-08-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
           "id": "cf47aa1e534f",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -601,7 +576,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 14 maj 23:20 4 min 32 sek",
           "url": "https://www.svtplay.se/video/jLJoQaQ/rapport/igar-09-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54170080/1778831001?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T07:30:00Z",
+          "published_at": "2026-05-15T09:30:00Z",
           "embed_url": "https://www.svtplay.se/video/jLJoQaQ/rapport/igar-09-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -611,7 +586,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 9
         },
         {
           "id": "2d9f55314de3",
@@ -626,8 +601,33 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 14 maj 23:20 4 min 32 sek",
           "url": "https://www.svtplay.se/video/Kwqq6VD/rapport/igar-09-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54169537/1778829191?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T07:00:00Z",
+          "published_at": "2026-05-15T09:00:00Z",
           "embed_url": "https://www.svtplay.se/video/Kwqq6VD/rapport/igar-09-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        },
+        {
+          "id": "c6122fc8dc77",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 08:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 14 maj 23:20 4 min 32 sek",
+          "url": "https://www.svtplay.se/video/eorr2qd/rapport/igar-08-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54169012/1778827396?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-15T08:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/eorr2qd/rapport/igar-08-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -681,6 +681,31 @@
           "sort_order": 0
         },
         {
+          "id": "3a47766e17c2",
+          "source_id": "svt-aktuellt",
+          "source_name": "Aktuellt",
+          "provider": "SVT Play",
+          "category": "Fordjupning",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Aktuellt – Igår 21:00",
+          "summary": "Trump och Xi: Vem gick vinnande från mötet? • Liberalerna: Vill fördubbla antalet miljardärer • VM-låten: Kritik mot gammal refräng",
+          "body_text": "Trump och Xi: Vem gick vinnande från mötet? • Liberalerna: Vill fördubbla antalet miljardärer • VM-låten: Kritik mot gammal refräng Mer om programmet Fem års vinstförbud: Debatt om friskolor • Trump i Kina: Vad händer i natt? • Internatskolan Lundsberg: Rasism, antisemitism och våld Mer om programmet Keir Starmer: Kämpar för sin politiska överlevnad • Keir Starmer: Kämpar för sin politiska överlevnad • Misstankarna mot Katja Nyberg: Så lagras drogrester i håret • Framtidens jobb: AI-nervositet hos studenter Mer om programmet Hantaviruset: Passagerare isoleras runt om i världen • Valtider: Sveriges lägsta valdeltagande • Putins utspel om ett krigsslut: Stor skepsis i Bryssel Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Sveriges politiker som du aldrig har sett dem förut",
+          "url": "https://www.svtplay.se/video/jb33B9x/aktuellt/igar-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54171979/1778871247?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-15T21:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jb33B9x/aktuellt/igar-21-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Fordjupning",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "f2d6a48b42bd",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
@@ -703,7 +728,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "53da202bfe8c",
@@ -728,7 +753,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "8e65806efcaf",
@@ -745,31 +770,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54154912/1778525641?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-15T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jwqqPYW/aktuellt/man-11-maj-21-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Fordjupning",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "3a47766e17c2",
-          "source_id": "svt-aktuellt",
-          "source_name": "Aktuellt",
-          "provider": "SVT Play",
-          "category": "Fordjupning",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Aktuellt – Igår 21:00",
-          "summary": "Trump och Xi: Vem gick vinnande från mötet? • Liberalerna: Vill fördubbla antalet miljardärer • VM-låten: Kritik mot gammal refräng",
-          "body_text": "Trump och Xi: Vem gick vinnande från mötet? • Liberalerna: Vill fördubbla antalet miljardärer • VM-låten: Kritik mot gammal refräng Mer om programmet Fem års vinstförbud: Debatt om friskolor • Trump i Kina: Vad händer i natt? • Internatskolan Lundsberg: Rasism, antisemitism och våld Mer om programmet Keir Starmer: Kämpar för sin politiska överlevnad • Keir Starmer: Kämpar för sin politiska överlevnad • Misstankarna mot Katja Nyberg: Så lagras drogrester i håret • Framtidens jobb: AI-nervositet hos studenter Mer om programmet Hantaviruset: Passagerare isoleras runt om i världen • Valtider: Sveriges lägsta valdeltagande • Putins utspel om ett krigsslut: Stor skepsis i Bryssel Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Sveriges politiker som du aldrig har sett dem förut",
-          "url": "https://www.svtplay.se/video/jb33B9x/aktuellt/igar-21-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54171979/1778871247?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-15T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jb33B9x/aktuellt/igar-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1860,7 +1860,7 @@
           "summary": "Fox News legal analyst Gregg Jarrett criticizes Virginia Attorney General Jay Jones's failed attempt to restore a congressional map favoring Democrats, with the Supreme Court rejecting the bid.",
           "body_text": "Fox News legal analyst Gregg Jarrett criticizes Virginia Attorney General Jay Jones's failed attempt to restore a congressional map favoring Democrats, with the Supreme Court rejecting the bid.",
           "url": "https://www.foxnews.com/video/6395796623112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4884d353-f6b6-4f43-8b19-65166d80981c/2d6a2fa1-4c96-48e9-b562-95790f446f70/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "image_url": "https://a57.foxnews.com/vod.foxnews.com/image/v1/static/694940094001/4884d353-f6b6-4f43-8b19-65166d80981c/2d6a2fa1-4c96-48e9-b562-95790f446f70/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-16T13:19:01Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395796623112",
           "play_mode": "iframe",
@@ -2224,7 +2224,7 @@
           "source_kind": "mixed",
           "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
           "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
-          "body_text": "A rescue diver has died while searching for the bodies of four Italians who died in a scuba-diving accident in the Maldives. Staff Sgt Mohamed Mahdhee was taken to hospital in critical condition and later succumbed to his injuries, a government spokesman told the BBC on Saturday. The five Italians died while attempting to explore caves at a depth of around 50m (164ft). So far, just one of their bodies is thought to have been recovered, in a cave at a depth of around 60m (197ft). The incident is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands. Maldivian President Mohamed Muizzu travelled to Vaavu Atoll on Saturday to observe the search operations. \"Eight rescue divers went into the water today. When they surfaced, they realised Mr Mahdhee didn't come up,\" Mohamed Hossain Shareef, a Maldivian government spokesman told the BBC. The other divers immediately went into the water again and they found Mahdhee had blacked out. The Maldives military has described the operation as very high risk, with unfavourable weather conditions. Four of the Italian divers were part of a University of Genoa team, including professor of ecology Monica Montefalcone, her daughter and two researchers. The fifth was a boat operations manager and diving instructor. The five entered the water at Vaavu Atoll on Thursday morning, local media said, and were reported missing when they failed to resurface later on. Police said the weather was rough in the area, about 100km (62 miles) south of the capital, Male. A yellow warning was issued for passenger boats and fishermen. Shareef said recreational scuba divers were only allowed to dive up to a depth of 30m and it was not clear why the Italians went into a cave that's 60m under water.",
+          "body_text": "A rescue diver has died while searching for the bodies of four Italians who died in a scuba-diving accident in the Maldives. Staff Sgt Mohamed Mahdhee was taken to hospital in critical condition and later succumbed to his injuries, a government spokesman told the BBC on Saturday. The five Italians died while attempting to explore caves at a depth of around 50m (164ft). So far, just one of their bodies is thought to have been recovered, in a cave at a depth of around 60m (197ft). The incident is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands. Maldivian President Mohamed Muizzu travelled to Vaavu Atoll on Saturday to observe the search operations. \"Eight rescue divers went into the water today. When they surfaced, they realised Mr Mahdhee didn't come up,\" Mohamed Hossain Shareef, a Maldivian government spokesman told the BBC. The other divers immediately went into the water again and they found Mahdhee had blacked out. The Maldives military has described the operation as very high risk, with unfavourable weather conditions. Italian Foreign Minister Antonio Tajani sent condolences: \"These days of grief for Italy are compounded by the news that one of your brave soldiers... died while attempting to dive to reach the bodies of our fellow Italians.\" \"This tragedy unites Italy and the Maldives in grief and respect for the victims,\" he added. Four of the Italian divers were part of a University of Genoa team, including professor of ecology Monica Montefalcone, her daughter and two researchers. The fifth was a boat operations manager and diving instructor. The five entered the water at Vaavu Atoll on Thursday morning, local media said, and were reported missing when they failed to resurface later on.",
           "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6c7d/live/b63ca910-5123-11f1-a5d4-1388da3b9f7b.jpg",
           "published_at": "2026-05-16T12:41:01Z",
@@ -2248,7 +2248,7 @@
           "source_kind": "mixed",
           "title": "Freight train and bus crash kills at least eight in Bangkok",
           "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
-          "body_text": "A collision between a freight train and a public bus has killed at least eight people and injured dozens of others in Bangkok. Police and rescue officials said the collision triggered a fire that engulfed the public bus on Saturday. Several nearby vehicles were also hit during the incident, prompting firefighters and rescue crews to be dispatched. Teams worked to pull injured victims from the wreckage as fire crews contained the blaze. The fire has been brought under control, with crews now working to cool the area, vent gas and continue to search for victims. The incident took place near Makkasan train station in the city centre on Saturday afternoon. Deputy Transport Minister Siripong Angkasakulkiat said initial reports suggested the bus had stopped on the tracks amid heavy traffic, preventing crossing barriers from closing. The train carrying containers was not able to stop in time, he added. The full cause of the crash is still under investigation, authorities say.",
+          "body_text": "A crash between a freight train and a public bus has killed at least eight people and injured dozens of others in Bangkok. Police and rescue officials said the collision triggered a fire that engulfed the public bus on Saturday. Several nearby vehicles were also hit during the incident, prompting firefighters and rescue crews to be dispatched. Teams worked to pull injured victims from the wreckage as fire crews contained the blaze. The fire has been brought under control, with crews now working to cool the area, vent gas and continue to search for victims. The incident took place near Makkasan train station in the city centre on Saturday afternoon. Deputy Transport Minister Siripong Angkasakulkiat said initial reports suggested the bus had stopped on the tracks amid heavy traffic, preventing crossing barriers from closing. The train carrying containers was not able to stop in time, he added. The full cause of the crash is still under investigation, authorities say.",
           "url": "https://www.bbc.com/news/articles/c98rez3x0nwo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a4b3/live/3d19e7e0-511f-11f1-8b8c-6d33e1d5abb6.jpg",
           "published_at": "2026-05-16T11:21:21Z",
@@ -2624,25 +2624,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "5232c143d83d",
+          "id": "1103954a605a",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Precio del dólar en Perú del sábado 16 de mayo: cuál es el tipo de cambio del día",
-          "summary": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 16 de mayo. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-          "body_text": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 16 de mayo. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-          "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-del-sabado-16-de-mayo-en-vivo-cual-es-el-tipo-de-cambio-del-dia-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/VFEKBOUEHFERJK3UQEDPFRJVIQ.jpg?auth=a81d5aa2ba14d824c15410f265550f66ed9f50d31cf17cd987495969581d95a4&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T14:19:56Z",
-          "embed_url": "https://cdn.jwplayer.com/videos/vkTNsRH4-AoJUfW3e.mp4",
-          "play_mode": "media",
-          "article_type": "video",
+          "title": "¿A qué hora pelean y por qué canal TV transmiten Nate Díaz vs. Mike Perry EN VIVO hoy por MMA en EE.UU y México?",
+          "summary": "Consulta a qué hora inicia y por qué canal ver Nate Díaz vs. Mike Perry EN VIVO, este sábado 16 de mayo de 2026, desde el Intuit Dome de Inglewood en Los Angeles, California.",
+          "body_text": "Este sábado 16 de mayo, el Intuit Dome de Inglewood en Los Angeles, California, será el escenario de un evento de artes marciales mixtas totalmente imperdible. Sigue el combate de Nate Díaz vs. Mike Perry, por el peso wélter, en lo que será la coestelar de una cartelera que es protagonizada por Ronda Rousey y Gina Carano. Aquí te dejaré con todos los horarios y canales de transmisión para que puedas seguir todas las incidencias del combate. La transmisión del evento de Nate Díaz vs. Mike Perry iniciará a partir de las 9:00 p.m. ET / 6:00 p.m. PT o 7:00 p.m. Centro de México, en lo que será el arranque de la cartelera estelar de esta jornada de MMA en Los Angeles. No te pierdas la transmisión del evento de MMA donde Nate Díaz vs. Mike Perry protagonizarán el combate coestelar de la noche a través de la plataforma de Netflix, única opción desde México y Estados Unidos o cualquier parte del mundo. A continuación, te dejo con la cartelera completa de lo que será este evento de MMA con Nate Díaz vs. Mike Perry como combate coestelar. Cartelera estelar Cartelera preliminar",
+          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/a-que-hora-empieza-y-en-que-canal-transmite-pelea-de-nate-diaz-vs-mike-perry-en-vivo-hoy-por-mma-en-eeuu-y-mexico-canales-tv-online-nnda-nnrt-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/Z6D4JNJ6IJEKHGA5PCOIANDVZU.jpg?auth=ead5db47725ca844aa582eb5a6b614adb9ad1b20b6de9fff12c4cc646ac690c2&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T15:30:00Z",
+          "embed_url": "https://elcomercio.pe/mag/usa/en-vivo-us/a-que-hora-empieza-y-en-que-canal-transmite-pelea-de-nate-diaz-vs-mike-perry-en-vivo-hoy-por-mma-en-eeuu-y-mexico-canales-tv-online-nnda-nnrt-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
           "tags": [
-            "precio del dolar, Precio del dólar hoy 2026, dólar Perú, Venezuela, dolar today, Dólar, Tipo de Cambio, Nuevos soles, BCR, dólar hoy, Banco Central de Reserva del Perú, BCRP, compra y venta, precio del dólar hoy en Perú, Perú, Precio del dólar hoy, compra y venta del sábado 16 de mayo, precio del dólar hoy sábado 16 de mayo, cotización del dólar hoy sábado 16 de mayo, a cuánto está el dólar hoy sábado 16 de mayo, apertura del dólar hoy sábado 16 de mayo, cierra del dólar hoy sábado 16 de mayo, tipo de cambio sábado 16 de mayo",
-            "Mercados",
+            "a que hora empieza nate diaz vs mike perry, a que hora ver nate diaz vs mike perry, nate diaz vs mike perry horario, nate diaz vs mike perry a que hora es, donde ver nate diaz vs mike perry en vivo, donde ver nate diaz vs mike perry, nate diaz vs mike perry canales tv, canal nate diaz vs mike perry en vivo, que canal transmite pelea nate diaz vs mike perry en vivo",
+            "En Vivo US",
             "Senaste",
             "El Comercio"
           ],
@@ -2650,25 +2650,25 @@
           "sort_order": 0
         },
         {
-          "id": "d0b6b4d1665c",
+          "id": "c7cdc5a6cae5",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Robert Lewandowski anunció que dejará el FC Barcelona tras cuatro temporadas: “La misión está cumplida”",
-          "summary": "Lewandowski jugará por última vez en el estadio Camp Nou del Barcelona este domingo contra el Real Betis.",
-          "body_text": "El delantero polaco del Barcelona, Robert Lewandowski, anunció este sábado que deja el club este verano al final de su contrato “con la sensación de que la misión está cumplida”, según un mensaje en su cuenta Instagram. Desde que llegó procedente del Bayern de Múnich en 2022, el veterano goleador de 37 años ha disputado 191 partidos, en los que marcó 119 goles con el Barcelona en todas las competiciones. Con el club catalán conquistó tres ligas, incluyendo esta última, y una Copa del Rey (2025). “Después de cuatro años llenos de desafíos y de mucho trabajo, es hora de seguir adelante”, escribió el futbolista en Instagram. “Me voy con la sensación de que la misión está cumplida. Cuatro temporadas, tres campeonatos”, añadió. El delantero se unió al Barça en un momento bajo en lo deportivo y con problemas financieros, ayudando a devolverlo a la cima del fútbol español y a competir también por la Liga de Campeones. “El Barça ha vuelto al lugar que le corresponde. Nunca olvidaré el cariño que recibí de la afición desde mis primeros días. Cataluña es mi lugar en el mundo”, escribió el delantero polaco en su publicación. Lewandowski jugará por última vez en el estadio Camp Nou del Barcelona este domingo contra el Real Betis, en la 37ª y penúltima jornada de LaLiga.",
-          "url": "https://elcomercio.pe/deporte-total/espana/robert-lewandowski-anuncio-que-dejara-el-fc-barcelona-tras-cuatro-temporadas-la-mision-esta-cumplida-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/AGEEKGSIV5HBFMCHSUTHXLYN6I.jpg?auth=303f38eb416523288f3b1692675a70c4d10998c5568cd7a93a3465d6f93db68b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T14:15:46Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/espana/robert-lewandowski-anuncio-que-dejara-el-fc-barcelona-tras-cuatro-temporadas-la-mision-esta-cumplida-noticia/",
+          "title": "¡Indignación mundial! El costo de las entradas del Mundial 2026 y las razones detrás",
+          "summary": "¡Indignación mundial! El costo de las entradas del Mundial 2026 y las razones detrás",
+          "body_text": "A menos de un mes para el inicio del Mundial 2026, miles de aficionados alrededor del planeta han expresado su molestia por la enorme brecha que hay entre los precios oficiales de las entradas y las desorbitadas cifras de la reventa. Aunque la FIFA anunció boletos accesibles para algunos partidos, en plataformas digitales ya circulan reventas con montos extremadamente altos que han generado polémica y debate en redes sociales. Mientras algunos consideran que el evento se ha convertido en un espectáculo inaccesible para gran parte del público, otros sostienen que se trata de una consecuencia del sistema de mercado que domina los grandes eventos deportivos en territorio estadounidense. Conoce qué explica la FIFA sobre esta situación y por qué los precios continúan causando controversia entre los fanáticos. El malestar entre los seguidores del fútbol surge por la coexistencia de dos escenarios completamente opuestos dentro del negocio del entretenimiento deportivo. Por un lado, la FIFA argumenta que su plan tarifario contempla opciones muy accesibles, pero la realidad del espectador común es muy distinta al toparse con costes inflados exponencialmente en el mercado secundario. Aunque la institución organizadora recalca que su objetivo es “garantizar acceso justo a nuestro juego tanto para los aficionados ya existentes como para los potenciales”, la aplicación del modelo comercial dinámico en el país norteamericano permite que los boletos alcancen cotizaciones desmesuradas en la web, diluyendo la promesa de un evento inclusivo. El ente rector del balompié argumenta que diseñó una escala de precios muy diversa que se amolda a lo que el público exige en cada compromiso. Para demostrarlo, aseguran haber lanzado más de 100.000 pases económicos dentro de la denominada ‘categoría 4’ con un valor de 60 dólares, reservando incluso un millar de estos para el encuentro definitivo. Adicionalmente, justifican las fluctuaciones explicando que su metodología “está en línea con las tendencias de la industria en distintos deportes y espectáculos, donde se ajustan los precios para optimizar las ventas y la asistencia”. En esta línea, la FIFA remarcó que los ingresos generados por la Copa del Mundo no tienen fines privados. De acuerdo con la organización, el dinero obtenido será destinado al desarrollo del fútbol masculino, femenino y juvenil en sus 211 asociaciones miembro alrededor del mundo. En el territorio estadounidense, la legislación ampara por completo la reventa de entradas por internet, otorgando total libertad a los intermediarios para fijar las sumas que consideren convenientes. Este esquema de libre mercado, habitual en citas como el Super Bowl o las finales del baloncesto norteamericano, ha provocado que para la Copa del Mundo se listen pases por montos delirantes que llegan a superar el millón de dólares. No obstante, los expertos aclaran que estos números actúan muchas veces como anzuelos comerciales que se van modificando según las ofertas reales de los interesados. El panorama ha generado comentarios irónicos incluso en las altas esferas del fútbol; de hecho, el propio mandamás de la organización, Gianni Infantino, bromeó señalando que si un comprador decide desembolsar dos millones de dólares por un asiento, él mismo le entregará ‘perrito y bebida’ para que disfrute del mejor espectáculo. Para contrarrestar el fraude y la especulación desmedida de terceras partes, la organización del torneo ha implementado su propia herramienta de intercambio. Se trata del FIFA’s Resale Marketplace, un espacio virtual creado con la intención de proporcionar un entorno confiable para los usuarios que requieran transferir o comercializar sus localidades. Según el organismo deportivo, los cargos que se cobran por transaccionar en este sitio oficial no son arbitrarios, sino que “están alineadas con los estándares del sector en las industrias del deporte y el entretenimiento de Norteamérica”, buscando así legitimar el proceso bajo las normativas del mercado anfitrión, según recoge Andina.",
+          "url": "https://elcomercio.pe/respuestas/por-que/indignacion-mundial-el-costo-de-las-entradas-del-mundial-2026-y-las-razones-detras-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/MCT3NJFJYVGEPFI4W3D3SI4PFM.png?auth=72c750e762efc52ae669eae70794e650638d19b656372ab47e47feb945870fb5&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T15:30:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/por-que/indignacion-mundial-el-costo-de-las-entradas-del-mundial-2026-y-las-razones-detras-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Robert Lewandowski, FC Barcelona",
-            "España",
+            "entradas del Mundial 2026, boletos del Mundial 2026, Mundial 2026, Mundial, Copa del Mundo 2026, Copa del Mundo, FIFA",
+            "Por qué",
             "Senaste",
             "El Comercio"
           ],
@@ -3178,25 +3178,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "a2d4f98e97ad",
+          "id": "6cca17bd8316",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "“Trump y Xi en Beijing: el libreto detrás de la sonrisa”, por Irma Montes Patiño",
-          "summary": "Los presidentes de Estados Unidos y China evidenciaron en su reciente encuentro que la confrontación y la cooperación no son contradictorias en la lógica de las grandes potencias sino que son las dos caras de la misma rivalidad administrada y que, más allá de acuerdos diseñados para extender la tregua, el petróleo sigue siendo la más importante moneda de cambio",
-          "body_text": "Donald Trump fue recibido en Beijing con la más elaborada ceremonia protocolar que China reserva para sus visitas más importantes, caminó junto a Xi Jinping por los jardines de Zhongnanhai y salió dos días después declarando acuerdos comerciales estupendos. Xi, más contenido y estratégico como siempre, llamó a la visita histórica y propuso una nueva relación de estabilidad estratégica constructiva. Ambos sonrieron. Ambos estrecharon manos. Y detrás de esa escena cuidadosamente coreografiada, el mundo que conocemos siguió siendo rediseñado, esta vez en privado, con petróleo como moneda de cambio. Los acuerdos declarados son reales pero deliberadamente limitados: 200 aviones Boeing con potencial de ampliarse a 750, exportaciones agrícolas por más de 10.000 millones de dólares, apertura del mercado cárnico chino y la creación de un Consejo de Comercio bilateral. Suficiente para que ambos líderes vendan un éxito doméstico. Insuficiente para resolver ninguno de los problemas estructurales que generan la tensión real. El Council on Foreign Relations lo describió con precisión: acuerdos cuidadosamente orquestados pero limitados, diseñados para extender la tregua, no para resolver la guerra. Esa es la función exacta de este encuentro: comprar tiempo para ambas partes mientras cada una se fortalece para el siguiente round. Pero el verdadero libreto de Beijing está escrito en barriles de petróleo, y muy pocos titulares lo están contando con claridad. Irán exportaba en el 2025 aproximadamente 1,69 millones de barriles diarios, y el 90% iba a China. Con el bloqueo del estrecho de Ormuz y las sanciones reforzadas ese flujo se ha interrumpido parcialmente. La compensación que Xi ofreció a Trump es concreta: Beijing elevará sus importaciones de petróleo estadounidense en al menos 400.000 barriles diarios durante los próximos dos años, enviando barcos chinos a Texas, Luisiana y Alaska. Los mercados lo entendieron inmediatamente: el Brent superó los $107 y el WTI llegó a $104 en pocas horas. El intercambio real de la cumbre fue este: China deja de comprarle petróleo a Irán y se lo compra a EE.UU. A cambio, Washington no escala en Taiwán y administra con moderación la presión sobre los intereses chinos en Latinoamérica. Es geopolítica en su forma más pura: sin discursos, sin ideología, con barriles. Las consecuencias para América Latina son directas e inminentes. Irán financiaba con ingresos petroleros a Hezbolá y a una red de ‘proxys’ regionales que incluía apoyo político y financiero al eje bolivariano. Si Irán pierde ingresos por China comprarle crudo a EE.UU, ese estrangulamiento financiero llega en cadena hasta Venezuela, Cuba y Nicaragua. Washington ya había cortado el petróleo venezolano a Cuba. Ahora cierra también el flujo iraní hacia China. Es un doble estrangulamiento simultáneo del ecosistema financiero que sostuvo al Cartel de Puebla durante dos décadas. El proyecto de izquierda radical latinoamericana sería derrotado no solamente en las urnas: estaría siendo asfixiado por un acuerdo petrolero firmado en Beijing esta semana, usando a China como instrumento involuntario de ese desmantelamiento. Hay un libreto, y ninguna de las dos potencias lo oculta para quien sabe leerlo. Trump construye el Escudo de las Américas para contener a China en el hemisferio y simultáneamente vuela a Beijing a pedirle a Xi que abra su mercado para las empresas de Elon Musk, Tim Cook y Jensen Huang. China mantiene Chancay, avanza en sus proyectos latinoamericanos y simultáneamente acepta comprarle petróleo a Texas. La confrontación y la cooperación no son contradictorias en la lógica de las grandes potencias: son las dos caras de la misma rivalidad administrada. Lo que tiene cada uno bajo la manga es exactamente eso: Trump sabe que puede seguir presionando a China en Latinoamérica mientras le vende crudo. Xi sabe que puede seguir expandiéndose en la región mientras compra aviones Boeing. La tregua es real. La competencia también. Y aquí está el corolario que atañe directamente al Perú de la segunda vuelta. En el mundo que la cumbre de Beijing acaba de confirmar, Chancay no desaparece del tablero, pero su peso geopolítico cambia de naturaleza: pasa de ser una amenaza urgente para Washington a una ficha de negociación en una relación bilateral que ambas potencias quieren estabilizar. Eso significa que el próximo gobierno no heredará solo un puerto chino y unos F-16 estadounidenses: heredará la responsabilidad de navegar entre dos gigantes que se confrontan y cooperan simultáneamente. Un gobierno con posición definida, legitimidad internacional y claridad estratégica puede usar esa tensión a favor del Perú. Un gobierno que llega al poder prometiendo indultar a Pedro Castillo, respaldado por el entorno del proyecto bolivariano que esta semana acaba de perder su financiamiento petrolero en Beijing, no tiene posición negociadora. Tiene un vacío que las dos potencias llenarán según sus propios intereses. En el tablero que Trump y Xi dibujaron esta semana, esa diferencia no es menor. Es la presidencia. (*) Irma Montes Patiño es licenciada en Relaciones Internacionales de la George Washington University.",
-          "url": "https://elcomercio.pe/mundo/actualidad/trump-y-xi-en-beijing-el-libreto-detras-de-la-sonrisa-por-irma-montes-patino-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/GM4TCMRNGAYS2MJUKQ2DAORTHE.jpg?auth=7e18326ae7ba7a6c20b49b3671f0aec513ea554d071caa219b1833a116236da2&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T14:13:53Z",
-          "embed_url": "https://elcomercio.pe/mundo/actualidad/trump-y-xi-en-beijing-el-libreto-detras-de-la-sonrisa-por-irma-montes-patino-noticia/",
+          "title": "Israel ataca el sur del Líbano un día después de anunciar la extensión del alto el fuego",
+          "summary": "Israel atacó este sábado el sur del Líbano, un día después de que ambos acordaran extender su alto el fuego 45 días más tras una nueva ronda de diálogo en Washington, informaron fuentes oficiales.",
+          "body_text": "Israel atacó este sábado el sur del Líbano, un día después de que ambos acordaran extender su alto el fuego 45 días más tras una nueva ronda de diálogo en Washington, informaron fuentes oficiales. “La zona que rodea el cruce de Srobbin (sur del Líbano) fue objeto de bombardeos de artillería hostiles, que dejaron un mártir (muerto) y un herido”, indicó la Agencia Nacional de Noticias libanesa (ANN), que agregó que hubo más ataques israelíes contra la región de Bint Jbeil y de Tiro, ambas también en el sur. Precisamente en la ciudad de Tiro una acción israelí tuvo como objetivo una vivienda, lo que provocó un número indeterminado de heridos, según la ANN, que no ofreció más detalles. A lo largo de esta jornada, el grupo chií libanés Hezbolá reivindicó un ataque con drones contra las tropas israelíes en la ciudad libanesa de Khiam, ocupada actualmente por Israel en el marco de su invasión en el sur del país mediterráneo. Según los últimos datos difundidos por el Centro de Operaciones de Emergencia del Líbano, parte del Ministerio de Salud Pública, desde el inicio de las hostilidades el pasado 2 de marzo han muerto en el Líbano 2.951 personas y otras 8.988 han resultado heridas. Ayer, representantes de Israel y del Líbano -sin presencia de Hezbolá- acordaron en Washington extender por 45 días el alto el fuego declarado el pasado 16 de abril, anunció el Departamento de Estado de Estados Unidos, que ejerce de mediador. Además, las delegaciones de ambos países acordaron celebrar una nueva ronda de negociaciones de paz los próximos 2 y 3 de junio, así como una reunión a nivel militar en el Pentágono el 29 de mayo.",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/libano-israel-ataca-el-sur-del-territorio-libanes-un-dia-despues-de-anunciar-la-extension-del-alto-el-fuego-srobbin-hezbola-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/SGMHD3LSZNHXPPUDUXMR4EA2BM.jpg?auth=875b119b154c332cd21fd5677da4676c6e221d9323c44891b06c111902c2f988&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T15:06:06Z",
+          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/libano-israel-ataca-el-sur-del-territorio-libanes-un-dia-despues-de-anunciar-la-extension-del-alto-el-fuego-srobbin-hezbola-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Donald Trump, Xi Jinping, China, Estados Unidos, Beijing, Washington",
-            "Actualidad",
+            "Líbano, Israel, Srobbin, Bint Jbeil, Tiro, Hezbolá",
+            "Oriente Medio",
             "Mundo",
             "El Comercio"
           ],
@@ -3204,25 +3204,25 @@
           "sort_order": 0
         },
         {
-          "id": "9122ef93a9c4",
+          "id": "2ed98c271a15",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Tailandia: Al menos 8 muertos y 25 heridos tras choque de tren y autobús que se incendió en Bangkok | VIDEO",
-          "summary": "Al menos ocho personas murieron y otras 25 resultaron heridas este sábado después de que un tren de carga colisionara con un autobús de transporte público, que posteriormente se incendió, en un accidente múltiple ocurrido en un céntrico distrito de Bangkok, informaron las autoridades.",
-          "body_text": "Al menos ocho personas murieron y otras 25 resultaron heridas este sábado después de que un tren de carga colisionara con un autobús de transporte público, que posteriormente se incendió, en un accidente múltiple ocurrido en un céntrico distrito de Bangkok, informaron las autoridades. El centro de mando de emergencias y bomberos de Bangkok, conocido como The Phraram Command, indicó en un primer reporte que el siniestro ocurrió hacia las 15.51 hora local (08.51 GMT) en la carretera Asoke-Dindang, en el distrito capitalino de Ratchathewi. Según las autoridades, en el accidente se vieron involucrados “un tren, un autobús público, automóviles y motocicletas”, mientras equipos de bomberos y rescate acudieron al lugar para sofocar las llamas y asistir a las víctimas. El centro de mando de emergencias y bomberos señaló inicialmente que el fuego seguía propagándose y que se escuchaban explosiones intermitentes en la zona, presuntamente causadas por el impacto y el incendio de varios vehículos. En una actualización posterior, el organismo confirmó el hallazgo de dos cuerpos adicionales dentro del autobús calcinado, lo que elevó el balance preliminar de víctimas, que posteriormente fue actualizado a ocho fallecidos y 25 heridos, según las autoridades y medios locales. El diario tailandés The Nation informó de que el tren de carga impactó contra el autobús cerca de la estación Makkasan de la línea ferroviaria que va al aeropuerto, provocando que el vehículo quedara envuelto en llamas y que otros automóviles y motocicletas resultaran dañados. Equipos de rescate trabajaron durante varias horas para evacuar a los heridos y recuperar cuerpos atrapados entre los restos del autobús, mientras los bomberos lograron controlar el incendio. Las autoridades mantienen acordonada la zona y continúan investigando las causas del accidente.",
-          "url": "https://elcomercio.pe/mundo/asia/tailandia-al-menos-8-muertos-y-25-heridos-tras-choque-de-tren-y-autobus-que-se-incendio-en-bangkok-ratchathewi-estacionn-makkasan-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/SOOHJMQM5RD6NHYAHP6NAC3LKY.jpg?auth=74d44beb1ffe0233c1f19a95059cd92faae8f828947c4e917c43932efdf3b501&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-16T13:49:31Z",
-          "embed_url": "https://elcomercio.pe/mundo/asia/tailandia-al-menos-8-muertos-y-25-heridos-tras-choque-de-tren-y-autobus-que-se-incendio-en-bangkok-ratchathewi-estacionn-makkasan-ultimas-noticia/",
+          "title": "“La urgencia de la transición civil en Sudán”, por Julieta Espín",
+          "summary": "La única vía para revertir el colapso de este país africano es una transición democrática encabezada exclusivamente por civiles; si persiste el actual modelo de injerencia externa y lucha por el poder entre generales, la partición de facto de la nación será un hecho",
+          "body_text": "La guerra en Sudán, desatada en abril del 2023 entre las Fuerzas Armadas Sudanesas (SAF) y las Fuerzas de Apoyo Rápido (RSF), no es únicamente un conflicto por el poder militar, sino el síntoma más visible del fracaso del modelo de transición tutelada por actores armados. La injerencia externa, especialmente la de Egipto, Turquía y Arabia Saudita, ha profundizado la fragmentación geopolítica del Cuerno de África y el valle del Nilo, convirtiendo a Sudán en un tablero de guerra por delegación. En este contexto, la única vía para revertir el colapso multidimensional y evitar la partición de facto del país es una transición democrática encabezada exclusivamente por civiles, como ha reiterado la coalición civil sudanesa Sumud. El apoyo de Egipto al general Burhan, bajo una retórica de no injerencia y estabilidad, ilustra una paradoja central: las potencias regionales que afirman defender la integridad territorial sudanesa son las mismas que alimentan la lógica de externalización del conflicto. La experiencia histórica demuestra que los acuerdos de poder compartido entre militares y civiles, como el fallido del 2019, han sido sistemáticamente quebrantados por los actores castrenses. Por ello, una transición democrática auténtica exige la disolución de las estructuras de poder paralelas y su subordinación a una autoridad civil con control efectivo sobre las fuerzas de seguridad. El imperativo humanitario La catástrofe humanitaria no es un efecto colateral, sino una consecuencia directa de la ausencia de gobernanza civil. La politización de la ayuda, denunciada en el análisis previo, donde Egipto y otros actores condicionan la asistencia a lealtades militares, agrava el sufrimiento y alimenta economías de guerra. Desde la doctrina R2P (responsabilidad de proteger), la comunidad internacional tiene la obligación de proteger a los civiles sudaneses, pero ninguna protección será sostenible sin un gobierno civil legítimo que coordine la ayuda, negocie corredores humanitarios y garantice justicia transicional. El plan del Grupo Cuatripartito, que Sumud considera la mejor oportunidad para el cese al fuego, solo podrá implementarse plenamente si se excluye a los actores militares de la toma de decisiones estratégicas. El vacío de poder La contradicción entre el discurso egipcio de respeto a la soberanía y su apoyo armado a un bando en la guerra civil deslegitima a El Cairo como mediador. Este vacío de liderazgo regional refuerza la tesis de Sumud: solo una transición civil endógena, con participación amplia de la sociedad civil, los comités de resistencia y las fuerzas políticas democráticas, puede recuperar la soberanía efectiva. Los civiles no son una facción más; son el único actor con interés real en la desmilitarización del Estado, la rendición de cuentas por crímenes de guerra y la reconstrucción del tejido social. La fragmentación de Sudán no es inevitable, pero lo será si persiste el actual modelo de injerencia externa y lucha por el poder entre generales. Una transición democrática encabezada por civiles, con un alto el fuego humanitario verificable, la integración de las fuerzas armadas bajo control civil y una misión internacional de protección, constituye la única opción geoestratégica sostenible para la región. De lo contrario, las paradojas de la injerencia externa seguirán profundizando un caos que ya amenaza con desbordar el Sahel y el Cuerno de África. Como advierte Sumud: Sudán está al borde del colapso irreversible; la respuesta no puede venir de quienes alimentan la guerra, sino de quienes han sufrido sus consecuencias. (*) Julieta Espín es profesora de Relaciones Internacionales e investigadora del Instituto Complutense de Estudios Internacionales (ICEI, España)",
+          "url": "https://elcomercio.pe/mundo/actualidad/la-urgencia-de-la-transicion-civil-en-sudan-por-julieta-espin-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/GQYTANBNGEYS2MJRKQ2DAORUGE.jpg?auth=2fe5dc9d8871985a040d24bca8f475134303061138031a69a252f6e973f68986&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T14:39:47Z",
+          "embed_url": "https://elcomercio.pe/mundo/actualidad/la-urgencia-de-la-transicion-civil-en-sudan-por-julieta-espin-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Bangkok, Tailandia, Accidente en Bangkok, Accidente en Tailandia, Ratchathewi, Estación Makkasan",
-            "Asia",
+            "Sudán, África, Cuerno de África",
+            "Actualidad",
             "Mundo",
             "El Comercio"
           ],
@@ -3455,6 +3455,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "8be44969b7a4",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Las mujeres de la chambira: la historia de la comunidad kukama-kukamiria que transforma residuos de aviones en bellas artesanías",
+          "summary": "En la Comunidad Nativa Río Marañón, en Loreto, las artesanas que trabajan la fibra de chambira con saberes tradicionales están innovando sus productos con material textil de segundo uso de aviones como cortinas, mantas y asientos. ¿En qué consiste este proyecto que fortalece la economía de las mujeres kukama-kukamiria?",
+          "body_text": "Tras navegar media hora por el caudaloso Marañón, saliendo del puerto de Nauta, llegamos a la comunidad. Nos esperan mujeres artesanas kukama-kukamiria conocidas por dominar con sus manos el arte de la fibra vegetal de la chambira, una palmera amazónica con la que continúan tejiendo una tradición que alcanza a sus madres, abuelas y generaciones más antiguas. Actualmente, reciben a turistas y visitantes de los cruceros amazónicos que se detienen por unas horas en esta tierra alejada de todo ruido. Aquí pueden convivir con ellas, conocer su visión del mundo y de su gastronomía. Compran sus artesanías como canastas, paneras y los hermosos pajaritos inspirados en las especies originales que le rinden homenaje a la naturaleza que las rodea. Con este trabajo generan ganancias para sostenerse, así como a sus hijos. Pero los turistas no llegan todos los días a la Comunidad Nativa Río Marañón. Con el proyecto “Saberes que crean futuro” implementado por Unesco Perú como parte del Programa de Sostenibilidad Segundo Vuelo de Latam Airlines Perú, las 13 mujeres de la Asociación Fibra y Arte del Marañón están recibiendo el impulso necesario que potenciará su arte bajo un enfoque sostenible e incorporando sus saberes a nuevos productos con materiales reciclados. La aerolínea dona uniformes, telas de asientos y plásticos utilizados a bordo que, en lugar de ser desechados, tendrán una nueva vida en los artículos elaborados con las técnicas ancestrales. La diseñadora textil Laura Sacchi es parte del proyecto. Ella siempre ha trabajado con comunidades, es una mediadora, alguien que traduce las técnicas indígenas y las traslada al mercado actual en conjunto. Poner a conversar los materiales de asientos, mantas, cortinas (pensados en su resistencia y durabilidad), con una materia prima sostenible como la chambira, ha significado un reto absoluto para ella con resultados emocionantes y nos explica por qué. Al ser el cosido artesanal de fibra la técnica usada en esta comunidad, a Sacchi se le ocurrió cortar el material reciclado en tiras y hacer que reemplacen o se mezclen con la fibra, de tal manera que se pueda coser. El proceso es difícil. Conseguir la chambira puede ser hasta peligroso; ir al bosque, cortarla, desfibrarla, secarla y teñirla implica tiempo; pero estas mujeres han demostrado tenacidad y talento. Con su creatividad, la asesoría y el diseño de Sacchi han elaborado accesorios únicos como la cartera arcoíris, la juane (por su forma similar a un juane), la ‘pishpira’ que quiere decir ‘mujer coqueta’ porque es un accesorio decorativo que les recuerda a una mujer; monederos con forma de caracolitos, posavasos de sandías. Son productos auténticos que solo nacen de sus manos. “Lo importante es que todas puedan hacer la producción y trabajen juntas. Es un compromiso total por parte de todas para lograr la colección. Les he dado ideas, pero es un trabajo colectivo”, comenta la diseñadora. A veces, solo hace falta un poco de apoyo y hacer que crean en su propio talento. Como parte de la tradición de bienvenida a la comunidad, las mujeres nos muestran el recorrido que hace la chambira hasta llegar a convertirse en una pieza artesanal. La señora Francisca Orozco nos cuenta sobre este trabajo de sostenibilidad: “Nosotras reforestamos la palmera para poder tener siempre nuestra materia prima. Solo se cosecha una vez al año. Es importante ser resiliente con el cambio climático y con nuestra selva. En la comunidad tenemos sembradas 2.985 palmeras reforestadas”, enfatiza. La meta es llegar al año 2030 con 10.000 palmeras. Francisca también nos explica cómo tiñen las fibras con frutos y vegetales: los aplastan, los hierven y, dependiendo del color que estén buscando, usan cúrcuma para el amarillo, achiote para el naranja, henna para el negro, retama para el marrón. Así se ha hecho siempre. Juana Amias Mozambite, miembro de la asociación, veía de pequeña a su abuela elaborando ‘shicras’ (bolsos), abanicos y sombreros de chambira. Nunca le dio importancia, pero de grande aprendió su valor. Está bastante entusiasmada con el proyecto: “Estoy muy contenta con este trabajo. Nunca imaginé tener un ingreso mayor y hacer cosas novedosas. Yo solamente hacía chambira, ahora estoy cosiendo tela fusionada con chambira. Es una oportunidad de que conozcan nuestro trabajo”, resalta Juana. Con cinco hijos aún a su cargo, vender sus productos más allá de su comunidad al precio justo es una ilusión que les permitirá sostener la educación y la salud de sus pequeños. Precisamente, este proyecto busca apoyar a mujeres con menos acceso a los mercados “sea por aspectos culturales, por salir menos de la comunidad, por tener una carga familiar y del hogar no remunerada mucho mayor a la del hombre. Entonces, las ayudamos a empujar la articulación comercial”, nos explica Ximena Querol, directora ejecutiva de Sector3 y encargada de la articulación comercial y diseño del Programa de Sostenibilidad Segundo Vuelo de Latam. Con la asociación de la Comunidad Nativa Río Marañón están desarrollando los productos desde cero, pero, como parte del proyecto, han asesorado a tres asociaciones más de Lima, Ayacucho y Cajamarca. Además, trabajan con diseñadores, con ‘retailers’ y con tiendas de Lima, por ahora. Para la especialista de comunicación y cultura en el sector Cultura de Unesco Perú, Gabriela Altuna, con este proyecto se busca generar reconocimiento a las mujeres de las comunidades, valorar el tiempo dedicado a este trabajo artesanal y lograr un impacto profundo en su economía. Por ello, refiere que se busca un mercado donde puedan vender los diseños y se pague el precio que merece este conocimiento. “La idea es desarrollar capacidades, brindar herramientas y abrir espacios para que luego ellas solas puedan gestionarse en ellos”, comenta Altuna. Hay que prestar atención: estamos hablando de productos de hoy elaborados con técnicas ancestrales sin que esto sea una contradicción. Estas mujeres reutilizan materiales y les dan una nueva vida mientras se sirven de la naturaleza con respeto, reforestando sus bosques y cuidándolos para las próximas generaciones. Tendremos la oportunidad de comprar los artículos innovadores, los más tradicionales y conocer a profundidad sus procesos en el lanzamiento de la colección con las mujeres kukama-kukamiria el 20 de mayo en la tienda Qaytu de Barranco. //",
+          "url": "https://elcomercio.pe/somos/historias/la-comunidad-kukama-kukamiria-que-transforma-residuos-de-aviones-en-bellas-artesanias-loreto-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/3P5BAA2HCJDIJKOKDCJDTPY4LU.jpg?auth=784d86dc9bbd751aa086f579091f7f7f55ad86b0321bb0299893e406158ff811&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-16T14:20:00Z",
+          "embed_url": "https://elcomercio.pe/somos/historias/la-comunidad-kukama-kukamiria-que-transforma-residuos-de-aviones-en-bellas-artesanias-loreto-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Diario El Comercio, Actualidad, Noticias, Noticias Perú, Revista Somos, Somos, Actualidad en Perú, chambira, arte textil, latam airlains, unesco peru, iquitos, nauta, comunidades amazónicas, tejidos de comunidades amazónicas, artesanía peruana, artesanía amazónica, arte amazónico, material reciclado, textiles reciclado, aviones, artesanías de chambira, rio marañon, Artesanas",
+            "Historias",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "4f9613f9a1cc",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3478,7 +3504,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "5d436aa392ea",
@@ -3504,7 +3530,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "eba25ab1a07d",
@@ -3530,7 +3556,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "4af920027434",
@@ -3556,7 +3582,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "5106d9fd8b69",
@@ -3578,32 +3604,6 @@
           "tags": [
             "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
             "Vida social",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "765a8100f4ac",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Migrantes venezolanos abandonan frontera entre Perú y Bolivia tras días varados en Tacna",
-          "summary": "El alcalde de Alto Perú indicó que los ciudadanos venezolanos retornaron a Bolivia por sus propios medios.",
-          "body_text": "Los ciudadanos venezolanos que permanecían varados en el sector del anexo Tripartito, en el distrito de Palca, provincia de Tacna, abandonaron este jueves la zona fronteriza entre Perú y Bolivia y emprendieron el retorno a pie hacia territorio boliviano, según confirmaron autoridades locales tras una inspección ocular realizada en el lugar. De acuerdo con el reporte, el límite internacional quedó completamente despejado luego de que los migrantes decidieran retirarse por sus propios medios tras permanecer expuestos a condiciones climáticas extremas y a la falta de recursos básicos en la región altoandina. La inspección permitió corroborar que ya no existen personas varadas en el sector fronterizo y que el flujo migratorio se revirtió hacia Bolivia. “Nos damos cuenta de que los migrantes venezolanos ya han enrumbado al país de Bolivia. Ya no se encuentran en el límite fronterizo”, informó Javier Yufra en diálogo RPP. La salida de los ciudadanos extranjeros se produjo luego de que se emitieran alertas sobre las precarias condiciones en las que pernoctaban en la frontera, donde enfrentaban fuertes vientos, temperaturas bajo cero y ausencia de asistencia especializada inmediata. El anexo Tripartito, ubicado en la región Tacna, es una zona de alta altitud caracterizada por condiciones climáticas severas, situación que incrementó la preocupación de las autoridades locales y pobladores ante una eventual crisis humanitaria. Aunque actualmente la zona permanece libre de presencia migrante, la municipalidad del centro poblado Alto Perú anunció que mantendrá vigilancia constante ante posibles nuevos incidentes relacionados con el flujo de extranjeros en la frontera. Asimismo, el burgomaestre reiteró la necesidad de que el Gobierno central incremente su presencia en la región para atender adecuadamente futuras emergencias migratorias y humanitarias en la zona limítrofe.",
-          "url": "https://elcomercio.pe/peru/tacna/migrantes-venezolanos-abandonan-frontera-entre-peru-y-bolivia-tras-dias-varados-en-tacna-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/IAIKTSSP25HSDKTUABPV3GRFF4.jpg?auth=9cb10af62a1e640b985736912403aa5a9dfa174a4709e9752f570a9fc358d7c1&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-15T19:07:56Z",
-          "embed_url": "https://elcomercio.pe/peru/tacna/migrantes-venezolanos-abandonan-frontera-entre-peru-y-bolivia-tras-dias-varados-en-tacna-ultimas-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Migrantes, Bolivia, Venezolanos, Tacna",
-            "Tacna",
             "Peru",
             "El Comercio"
           ],
@@ -3766,6 +3766,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "0115a986173b",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month | TechCrunch",
+          "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
+          "body_text": "Today, Cerebras Systems is a public company that sells AI chips for inference to giants like OpenAI and AWS. It held a blockbuster IPO on Thursday , with both of its co-founders billionaires, and ended the week worth about $60 billion. But in 2019, when it was three years old, it came dangerously close to failure – incinerating a shocking amount of money. It was trying to solve a technical problem no one in the semiconductor industry thought could be done. “We were spending about $8 million a month,” founder CEO Andrew Feldman told TechCrunch of that period. “At this point, we had incinerated nearly $200 million trying to solve one technical problem.” Every few weeks, Feldman was forced to make the painful walk of shame to the board meeting to report another failure and more money burned. But he had no choice. Without a solution, Cerebras was dead anyway. It was founded with an idea that was simple on paper. The microprocessor industry had spent its entire 50+ years making CPUs faster and cheaper by cramming more transistors onto a silicon wafer and dicing wafers into ever tinier pieces. But AI required so much compute power, many chips had to be strung together and then forced to communicate with each other. Cerebras’ founders believed turning a whole, even bigger wafer into one giant, powerful chip, would work faster. The problem was, no one had ever successfully done this before, for any reason, AI or not. Orchestrating that many microscopic electronic components onto a larger, but still thin, surface introduced compounding engineering problems. Once Cerebras crossed the first threshold of designing the mega chip and then manufacturing it with TSMC, the team hit the real roadblock. They couldn’t solve “packaging.” This involves everything after manufacturing the silicon itself: adhering it to a motherboard, getting power to it, dealing with heating and cooling as well as the pipes that would deliver and return data, Feldman said. Cerebras’ chips “were 58 times larger. We were using 40 times as much power as anybody had ever used,” he said. There were no premade heat sinks. No vendors. No manufacturing partners. The brightest minds in microprocessor engineering had tried for decades to build such big, yet more dense chips, and failed. The Cerebras team was left with trial and error in which “we destroyed an enormous number of chips” and an enormous amount of cash. But without functional packaging, the chip was useless. After exhaustive analysis of each failure, the team finally solved enough problems: how to cool it and move data around. In one instance, they had to invent their own machine that could bolt-in 40 screws simultaneously to secure the wafer to a board without cracking it.",
+          "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+          "published_at": "2026-05-16T15:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/Cerebras-Systems-Andrew-Feldman.avif",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "beb03c73a199",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3787,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "27441a39b46e",
@@ -3811,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "1c44755b4350",
@@ -3835,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "f76c4073f9cd",
@@ -3859,7 +3883,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "b632b77e441f",
@@ -3883,7 +3907,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "072ee4544f74",
@@ -3900,30 +3924,6 @@
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
           "published_at": "2026-05-15T17:13:26Z",
           "embed_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "7c1aec8136cd",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts | TechCrunch",
-          "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-          "body_text": "OpenAI has partnered with the financial connection service Plaid to manage the account connections. Users can connect to over 12,000 financial institutions, including Schwab, Fidelity, Chase, Robinhood, American Express, and Capital One. Once users connect these accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments. The new product comes just one month after OpenAI acquired the team behind personal finance startup Hiro , which was backed by firms like Ribbit, General Catalyst, and Restive, in April. OpenAI said that the Hiro team’s expertise in finance was useful in launching this product but didn’t specify if the entire feature was built by them. OpenAI users can access the tool by selecting “Get started” in the “Finances” option in the sidebar, or typing “@Finances, connect my accounts” in a ChatGPT conversation. Once users do that, the chatbot will guide them about linking accounts through Plaid. The company said it plans to support Intuit soon, which would enable analysis such as the impact of a stock sale on taxes or the odds of a credit card approval. According to OpenAI, more than 200 million users already ask financial questions to ChatGPT every month. The company also noted that the new GPT-5.5 model is stronger at reasoning with context, which is crucial for answering finance-related questions. The company said it worked with finance experts to create a benchmark for the model to improve on personal finance questions. With the new financial tool integration, users can get detailed answers to questions such as “I feel like I’ve been spending more recently. Has anything changed?” or “Help me build a plan to be ready to buy a house in my area in the next 5 years.” Users can go to Settings > Apps > Finances to remove connections to certain accounts if they want. Once they disconnect a service, the synced data will be removed from ChatGPT in 30 days. What’s more, users can also view and delete financial memories from the Finances page. Generalized chatbots are designed to answer anything, leading people to ask questions about data-sensitive topics such as health, finance, and personal life. AI companies are realizing this and making specialized products for these sectors. Both OpenAI and Anthropic have launched health-related tools. Earlier this month, Perplexity launched its own financial research product based on its Computer agent . OpenAI said its personal finance tools will be available on ChatGPT on the web and on iOS for Pro users. It noted that, based on the feedback from these users, it wants to improve the product before making it available to Plus users. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web. You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone.",
-          "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-          "published_at": "2026-05-15T16:00:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
