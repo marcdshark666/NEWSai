@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T12:07:40Z",
+  "generated_at": "2026-05-17T14:00:08Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Trumps nya varning: ”Lugnet före stormen” Källor: Överväger nya strider i Iran allt mer Experten: USA och Iran längre från fred efter dagens svar Utpekade läkarna kräver ersättning • ”Tror inte Strömmer skyndar på det” Läkarna i da Costa-fallet begär ersättning Pekades ut – fick livet förstört: ”Grannen kallar mig mördare” ”Stolpskott” • Lundh och Strokirk: De här låtarna spelas i sommar istället",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Trumps nya varning: ”Lugnet före stormen” Källor: Överväger nya strider i Iran allt mer Experten: USA och Iran längre från fred efter dagens svar Utpekade läkarna kräver ersättning • ”Tror inte Strömmer skyndar på det” Läkarna i da Costa-fallet begär ersättning Pekades ut – fick livet förstört: ”Grannen kallar mig mördare”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -311,7 +311,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 12,
+      "article_count": 9,
       "priority_split": 0,
       "articles": [
         {
@@ -340,6 +340,31 @@
           "sort_order": 0
         },
         {
+          "id": "a5c73d920ca1",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/ewqqJ5P/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-17T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/ewqqJ5P/rapport/idag-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "1c85fc5c6c81",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -362,7 +387,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e75cbc6b3c5f",
@@ -387,7 +412,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "97ec9d05c67e",
@@ -412,7 +437,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "31a87be473e0",
@@ -437,7 +462,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "8a9714ca8ae9",
@@ -462,107 +487,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "a9037d26e1ca",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Fre 15 maj 22:30",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 15 maj 22:30 4 min 48 sek Publicerades: Fre 15 maj 09:00 4 min 51 sek Publicerades: Fre 15 maj 07:30 4 min 51 sek Publicerades: Fre 15 maj 07:02 2 min 49 sek Publicerades: Tor 14 maj 23:20 4 min 32 sek",
-          "url": "https://www.svtplay.se/video/8MyyAb1/rapport/fre-15-maj-22-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54172033/1778878516?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T16:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8MyyAb1/rapport/fre-15-maj-22-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
           "sort_order": 6
-        },
-        {
-          "id": "627fb26b9f32",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Fre 15 maj 09:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 15 maj 22:30 4 min 48 sek Publicerades: Fre 15 maj 09:00 4 min 51 sek Publicerades: Fre 15 maj 07:30 4 min 51 sek Publicerades: Fre 15 maj 07:02 2 min 49 sek Publicerades: Tor 14 maj 23:20 4 min 32 sek",
-          "url": "https://www.svtplay.se/video/jLJoQaQ/rapport/fre-15-maj-09-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54170080/1778831001?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T16:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jLJoQaQ/rapport/fre-15-maj-09-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "0056fe629f5d",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Fre 15 maj 09:00",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 15 maj 22:30 4 min 48 sek Publicerades: Fre 15 maj 09:00 4 min 51 sek Publicerades: Fre 15 maj 07:30 4 min 51 sek Publicerades: Fre 15 maj 07:02 2 min 49 sek Publicerades: Tor 14 maj 23:20 4 min 32 sek",
-          "url": "https://www.svtplay.se/video/Kwqq6VD/rapport/fre-15-maj-09-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54169537/1778829191?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T16:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/Kwqq6VD/rapport/fre-15-maj-09-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "901650a700ad",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Igår 21:45",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 15 maj 22:30 4 min 48 sek Publicerades: Fre 15 maj 09:00 4 min 51 sek Publicerades: Fre 15 maj 07:30 4 min 51 sek Publicerades: Fre 15 maj 07:02 2 min 49 sek Publicerades: Tor 14 maj 23:20 4 min 32 sek",
-          "url": "https://www.svtplay.se/video/jmyy5Br/rapport/igar-21-45?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54172726/1778961896?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-16T21:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/jmyy5Br/rapport/igar-21-45?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 9
         },
         {
           "id": "a278460d73b5",
@@ -587,23 +512,23 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 10
+          "sort_order": 7
         },
         {
-          "id": "36fca58d3e0d",
+          "id": "cc6ecc806c17",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Igår 16:00",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 15 maj 22:30 4 min 48 sek Publicerades: Fre 15 maj 09:00 4 min 51 sek Publicerades: Fre 15 maj 07:30 4 min 51 sek Publicerades: Fre 15 maj 07:02 2 min 49 sek Publicerades: Tor 14 maj 23:20 4 min 32 sek",
-          "url": "https://www.svtplay.se/video/eQrrDyP/rapport/igar-16-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54172450/1778940916?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-16T16:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/eQrrDyP/rapport/igar-16-00?video=visa",
+          "title": "Radiokören i Reaktorhallen",
+          "summary": "Sveriges första kärnreaktor blev placerad 25 meter under jorden år 1954 på Kungliga tekniska högskolan i Stockholm. Den enda radioaktivitet som pågår i hallen i dag är när Radiokören och dirigent Peter Dijkstra kommer ner och spelar in en konsert. Musik av bland annat Schnittke, Poulenc och Lidholm. Och så lite svensk körlyrik förstås.",
+          "body_text": "Konsert med den klassiska musikens mest kända verk Sveriges första kärnreaktor blev placerad 25 meter under jorden år 1954 på Kungliga tekniska högskolan i Stockholm. Den enda radioaktivitet som pågår i hallen i dag är när Radiokören och dirigent Peter Dijkstra kommer ner och spelar in en konsert. Musik av bland annat Schnittke, Poulenc och Lidholm. Och så lite svensk körlyrik förstås.",
+          "url": "https://www.svtplay.se/video/e56v35j/radiokoren-i-reaktorhallen",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/53346622/1762180311?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2025-11-21T01:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/e56v35j/radiokoren-i-reaktorhallen",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -612,7 +537,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 11
+          "sort_order": 8
         }
       ]
     },
@@ -1775,6 +1700,31 @@
           "sort_order": 0
         },
         {
+          "id": "250fc6aadce3",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Jason Chaffetz accuses Democrats of making redistricting issue about race | Fox News Video",
+          "summary": "Fox News contributor Jason Chaffetz reacts to thousands of Democrats marching in Alabama against a redistricting ruling, arguing the party makes the issue about race.",
+          "body_text": "Fox News contributor Jason Chaffetz reacts to thousands of Democrats marching in Alabama against a redistricting ruling, arguing the party makes the issue about race. Fox News contributor Jason Chaffetz discusses Democrats' protests against Supreme Court redistricting rulings, asserting they wrongly center the issue on race. Chaffetz criticizes the Democratic strategy in Alabama and Virginia, where they've faced setbacks, despite attempts to draw maps based on demographics. He highlights the disconnect between voter registration and representation.",
+          "url": "https://www.foxnews.com/video/6395867013112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/96bd5183-e318-4a24-95ee-12fc9028591c/a451f565-93dd-4331-8516-64a23020a4a3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-17T12:40:55Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395867013112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "ddbb2d6ee272",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1797,7 +1747,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "79fcd3aa7b17",
@@ -1822,7 +1772,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "2c68f87ad507",
@@ -1847,7 +1797,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "300f32329509",
@@ -1872,7 +1822,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "6eadbf3b71ae",
@@ -1897,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "3c9467f85c24",
@@ -1922,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "ad11306c0dd4",
@@ -1947,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "0aac3a848ba2",
@@ -1972,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "48540386602d",
@@ -1989,31 +1939,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a56f28fd-8b2d-4936-9454-1c47d3757ecf/01d63f42-2cbf-46bf-8a93-c710ad4f35a8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-17T01:30:03Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395837039112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "ef55f3b4de1d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Lt Gen Keith Kellogg: We need to replenish the arsenal we have | Fox News Video",
-          "summary": "Ret. Lt. Gen. Keith Kellogg analyzes the dynamic of the U.S.-China summit, the defense budget and more on 'Life, Liberty & Levin.'",
-          "body_text": "Ret. Lt. Gen. Keith Kellogg analyzes the dynamic of the U.S.-China summit, the defense budget and more on 'Life, Liberty & Levin.'",
-          "url": "https://www.foxnews.com/video/6395834517112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7de96f0-6acf-4849-aa6f-d1ecef34fd6d/bd908789-96bf-4f0d-9b6b-4a945aedeec7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-17T01:13:05Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395834517112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2100,6 +2025,31 @@
           "sort_order": 13
         },
         {
+          "id": "6a74ceb4ca14",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "WATCH LIVE: Thousands gather on National Mall for 'Rededicate 250' | Fox News Video",
+          "summary": "Trump admin holds a daylong prayer celebration on the National Mall ahead of America's 250th anniversary.",
+          "body_text": "Trump admin holds a daylong prayer celebration on the National Mall ahead of America's 250th anniversary.",
+          "url": "https://www.foxnews.com/video/6395870491112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1f52e26-525d-4115-85a7-e6764d44055e/c1799153-ef8c-495e-823d-2c11acb53623/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-17T13:19:10Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395870491112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 14
+        },
+        {
           "id": "ef5b658375a4",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2114,31 +2064,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/286cb3f4-9d07-484a-87b9-910d377939ee/b3756437-5c00-452e-b3b1-afa61ad1bbf2/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-05-17T08:37:52Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395860471112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "ce20f70d6f6d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Life, Liberty, and Levin - Saturday, May 16 | Fox News Video",
-          "summary": "President Trump, Constitution, Christian Beliefs, Hamas Attacks, Gaza, Israel, Palestine,",
-          "body_text": "President Trump, Constitution, Christian Beliefs, Hamas Attacks, Gaza, Israel, Palestine, Life, Liberty & Levin explores the fundamental values and principles undergirding America.",
-          "url": "https://www.foxnews.com/video/6395855513112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/490ec51b-ef34-4244-8cd9-644873e65114/f76f1acd-d141-4c52-855c-4ad5fd5fac29/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-17T06:08:38Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395855513112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2296,7 +2221,7 @@
           "source_kind": "mixed",
           "title": "Canadian from cruise ship tests positive for hantavirus",
           "summary": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
-          "body_text": "A Canadian who sailed on the cruise ship MV Hondius which was hit by a hantavirus outbreak in April has tested positive for the disease, officials in the province of British Columbia say. The individual, one of four people isolating on Vancouver Island after leaving the ship, had developed mild symptoms. The province's senior health officer said the four had not had any contact with the public since arriving in Canada. The case brings the total number of infections to 11, all among cruise passengers. Three people who travelled on the ship have died, with two confirmed to have had the virus. British Columbia health officer Bonnie Henry said the person's test came back as a presumptive positive on Friday, meaning that it still remains to be confirmed by a national microbiology lab. \"Clearly, this is not what we hoped for, but it is what we planned for,\" she said, quoted by national broadcaster CBC. \"I want to emphasise that hantavirus is a very different virus than the other respiratory viruses that we've been dealing with - like Covid, like influenza, like measles - and it remains one that we do not consider to have pandemic potential,\" Dr Henry added. Of the six Canadians who were on the Dutch ship, two are self-isolating at their home in Ontario. Two more couples are isolating on Vancouver Island, one from British Columbia and the other from Yukon. The person who tested positive is from Yukon. None of the other five have tested positive so far. The cruise ship, which set sail from Argentina on 1 April, finally docked in Tenerife, in Spain's Canary Islands, less than a week ago, allowing its 147 passengers and crew from 23 countries to leave and go into isolation. The WHO has recommended 42 days of isolation for each person. The Canadians were initially required to isolate for 21 days but Dr Henry said that timeline could now be adjusted.",
+          "body_text": "A Canadian who sailed on the cruise ship MV Hondius which was hit by a hantavirus outbreak in April has tested positive for the disease, officials in the province of British Columbia say. The individual, one of four people isolating on Vancouver Island after leaving the ship, had developed mild symptoms. The province's senior health officer said the four had not had any contact with the public since arriving in Canada. The case brings the total number of infections to 11, all among cruise passengers. Three people who travelled on the ship have died, with two confirmed to have had the virus. British Columbia health officer Bonnie Henry said the person's test came back as a presumptive positive on Friday, meaning that it still remains to be confirmed by a national microbiology lab. \"Clearly, this is not what we hoped for, but it is what we planned for,\" she said, quoted by national broadcaster CBC. \"I want to emphasise that hantavirus is a very different virus than the other respiratory viruses that we've been dealing with - like Covid, like influenza, like measles - and it remains one that we do not consider to have pandemic potential,\" Dr Henry added. Of the six Canadians who were on the Dutch ship, two are self-isolating at their home in Ontario. Two more couples are isolating on Vancouver Island, one from British Columbia and the other from Yukon. The person who tested positive is from Yukon. None of the other five have tested positive so far. The cruise ship, which set sail from Argentina on 1 April, docked in Tenerife, in Spain's Canary Islands, less than a week ago, allowing its passengers to leave and go into isolation. The ship is due to arrive in Rotterdam in the Netherlands on Monday, and remaining staff on board will disembark, its owner Oceanwide Expeditions said, adding that there were currently no symptomatic individuals on board.",
           "url": "https://www.bbc.com/news/articles/c2k2p057ezno",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/21ec/live/35918490-5162-11f1-89a3-d1f559421220.jpg",
           "published_at": "2026-05-16T20:36:53Z",
@@ -2600,25 +2525,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "489376d70e37",
+          "id": "467e1d0e2436",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Resultados de La Kábala: números ganadores del sorteo del sábado 16 de mayo",
-          "summary": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 16 de mayo, que tiene un pozo acumulado de S/2'183,666. Además, puedes seguir el sorteo de Chau Chamba.",
-          "body_text": "Mira a continuación los resultados del sorteo de Kábala del sábado 16 de mayo de 2026. También consulta la combinación de Chau Chamba.",
-          "url": "https://elcomercio.pe/respuestas/loterias/kabala-en-vivo-resultados-hoy-sabado-16-de-mayo-de-2026-cotejar-numeros-ganadores-y-premios-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/2WSZK3YPDBAYRLDO6W5D3R4PLA.jpeg?auth=531d8e3345b7cccbf626320d2c3ff04bf9561bf73ba16783326530c221d03c03&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-17T12:00:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/kabala-en-vivo-resultados-hoy-sabado-16-de-mayo-de-2026-cotejar-numeros-ganadores-y-premios-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
+          "title": "“Yo soy”: Imitadora de Mon Laferte se mantiene en competencia tras vencer a Billie Eilish",
+          "summary": "La joven imitadora de Billie Eilish llegó a la competencia y retó a su madrina musical; sin embargo, no pudo vencerla.",
+          "body_text": "“Yo soy” continúa en etapa de grandes batallas, donde los imitadores más recordados de todas las galas llegan para retar a los consagrados en sus sillas. Esta vez, uno de los duelos más llamativos fue entre las imitadoras de Mon Laferte y Billie Eilish. La joven imitadora de Billie Eilish apareció en competencia y dijo que llegaba para quedarse con una silla de consagrada; sin embargo, solo quedaban como opciones para retar a los imitadores de José Feliciano y Mon Laferte, así que optó por la segunda. “Volví porque tengo una cuenta pendiente. Una revancha con este escenario... Soy la voz de una generación diferente. Una que quiere ser escuchada y que no le tiene miedo a nada”, dijo Majo, imitadora de Billie Eilish. Eso sí, la cantante admitió que elegir a la imitadora de Mon Laferte fue algo duro, ya que tiene mucha confianza con ella. “Con todo el dolor de mi corazón, porque es mi madrina”, dijo antes de iniciar la batalla musical. Para este reto, Billie Eilish optó por conmover al jurado con “What Was I Made For?”, emotivo tema de la artista estadounidense. Por su parte, la imitadora de Mon Laferte sacó a relucir su talento con “Antes de ti”. Ambas presentaciones estuvieron marcadas por emoción y técnica; no obstante, el jurado destacó la experiencia de Oriana Montero. “Todo lo que haces en el escenario es el resultado de mucha práctica, mucho ensayo y mucho profesionalismo”, explicó la jurado Jely Reátegui. Finalmente, el jurado elogió a ambas participantes, pero declaró como ganadora unánime a la imitadora de Mon Laferte, quien mantuvo su lugar en las sillas de los consagrados. Ahora esperará a nuevos retadores que lleguen a intentar quitarle su lugar.",
+          "url": "https://elcomercio.pe/tvmas/farandula/yo-soy-imitadora-de-mon-laferte-se-mantiene-en-competencia-tras-vencer-a-billie-eilish-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ILXWDH5KNFH7ZNZRON45CNXYYI.jpg?auth=91f06b0c31de39bed37b69a29cdc24587b1360189dd2840a8a8044d378ae6b1d&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-17T13:47:06Z",
+          "embed_url": "https://elcomercio.pe/tvmas/farandula/yo-soy-imitadora-de-mon-laferte-se-mantiene-en-competencia-tras-vencer-a-billie-eilish-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "resultados de la kábala, kabala, Cabala, kabala resultados, resultados de la kabala, tinka resultados, resultado de la kabala, resultados de la tinka, resultado de la kábala, premios de la kabala, tinka, sorteo de la kábala de hoy en vivo, kábala premios, la kabala resultados hoy, resultado de la kábala ayer perú, Intralot, la kabala hoy, kabala en vivo, kabala hoy, la kabala resultados, kábala sorteo, kábala horario, kábala, Kábala resultados, Kábala sorteo hoy, kábala sí o sí, kábala pozo hoy, kábala resultados hoy, la kábala ayer, kábala hoy, La kábala ganador, La Kábala último sorteo, Kábala del sábado 16 de mayo, Kábala del sábado 16 de mayo de 2026, Resultados de Kábala del sábado 16 de mayo, Kábala resultados del sábado 16 de mayo, Kábala resultados del sábado 16 de mayo de 2026",
-            "Loterias",
+            "“Yo soy”, Yo soy grandes batallas, Imitadora de Mon Laferte, Imitadora de Billie Eilish, Yo soy Mon Laferte",
+            "Farándula",
             "Senaste",
             "El Comercio"
           ],
@@ -2626,25 +2551,25 @@
           "sort_order": 0
         },
         {
-          "id": "a385fcf756e2",
+          "id": "5e956142e691",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "“Witch Hat Atelier” Capítulo 8: hora de estreno confirmado",
-          "summary": "Crunchyroll estrena en exclusiva el capítulo 8 de “Witch Hat Atelier” este lunes 18 de mayo. ¿A qué hora estará disponible el nuevo episodio? Aquí te contamos todo lo que tienes que saber.",
-          "body_text": "Crunchyroll ha confirmado el estreno del capítulo 8 de “Witch Hat Atelier” (“Tongari Boushi no Atelier”) este lunes 18 de mayo de 2026. ¿A qué hora estará disponible el nuevo episodio? Aquí te lo contamos. El capítulo 8 de “Witch Hat Atelier” se estrena este el lunes 18 de mayo a estas horas en Latinoamérica y España: La plataforma encargada de distribuir esta joya visual fuera de Japón es Crunchyroll. Gracias a su simulcast global, los usuarios de Latinoamérica y España podrán acceder a los episodios casi en simultáneo con su emisión en la televisión japonesa, contando con subtítulos en múltiples idiomas y, próximamente, doblajes confirmados. Para no perderte ni un segundo del viaje de Coco, sigue estos pasos: En un mundo donde la magia se considera un don de nacimiento, Coco es una niña de una aldea sencilla que sueña con ser maga, a pesar de que se le ha dicho que es imposible para quienes no nacieron con ese talento. Sin embargo, tras observar a escondidas al mago Qifrey realizar un hechizo, Coco descubre la verdadera naturaleza de la magia: no se nace con ella, se dibuja. Tras un accidente que cambia su vida, Qifrey decide tomarla como aprendiz, abriendo las puertas de un taller lleno de maravillas y peligros. A diferencia de otros animes de fantasía, Witch Hat Atelier destaca por su sistema de magia lógico y artístico. Aquí, los hechizos se ejecutan mediante intrincados dibujos con tinta mágica. La historia explora temas profundos como la ética en el uso del conocimiento, la perseverancia ante la falta de talento innato y el asombro por el descubrimiento. Es una obra que combina una estética “art nouveau” con una narrativa que puede pasar de lo tierno a lo oscuro en un instante.",
-          "url": "https://elcomercio.pe/respuestas/que/witch-hat-atelier-capitulo-8-hora-de-estreno-confirmado-anime-crunchyroll-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/DQ5QOGRJAJFL3AUAXXKDZKZPKU.png?auth=1c209d1d1244658049a0a980c51fb3638d2f067f85aa2a662ed9c092e1c6601e&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-17T12:00:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/que/witch-hat-atelier-capitulo-8-hora-de-estreno-confirmado-anime-crunchyroll-tdpe-noticia/",
+          "title": "Precio del Dólar en México hoy, domingo 17 de mayo 2026: a cuánto abrió el USD a MXN",
+          "summary": "Mira este fin de semana cuál es el precio del dólar en México. Revisa el valor del dólar a peso mexicano hoy domingo 17 de mayo de 2026 y averigüa el tipo de cambio FIX en el país.",
+          "body_text": "Hemos llegado al fin de semana y el tipo de cambio en México sigue variando. Para este domingo 16 de mayo de 2026, el precio del dólar en México es de 17.3477 pesos mexicanos por cada dólar que vayas a cambiar en el país, una cifra que aún se mantiene dentro de la media de los últimos días. Aquí te brindo más detalles. En la práctica, esto significa que, si vas a cambiar dólares en ventanilla bancaria o en una casa de cambio, verás precios de compra y venta ligeramente por encima o por debajo de ese nivel, dependiendo de la institución. El mercado se ha mantenido relativamente estable en las últimas semanas, moviéndose en un rango alrededor de 17.10 y 17.30 pesos por dólar, con variaciones diarias pequeñas. El tipo de cambio FIX de Banxico de este viernes 15 de mayo se estableció en 17.3477 pesos por dólar. Un dato a tener en cuenta es que el tipo de cambio FIX es una herramienta crucial para el mercado financiero en México, ya que determina el valor oficial del peso frente al dólar estadounidense. Este valor es calculado por el Banco de México (Banxico), basándose en un promedio ponderado de las cotizaciones de las operaciones al mayoreo. Dicho proceso asegura que el tipo de cambio sea representativo de las transacciones reales del mercado, garantizando transparencia y estabilidad para las empresas y particulares que operan con divisas. La determinación del FIX se realiza cada día hábil bancario a partir de las 12:00 horas, y se publica oficialmente en el Diario Oficial de la Federación (DOF) al día siguiente. Este dato es vital, ya que es el que se utiliza para saldar obligaciones y contratos denominados en dólares que se liquidarán en México. Gracias a este mecanismo, tanto empresas como individuos pueden planificar y ejecutar transacciones internacionales con una referencia clara y regulada. El tipo de cambio FIX es la referencia oficial que Banxico calcula todos los días hábiles con base en un promedio ponderado de operaciones al mayoreo en el mercado cambiario. Este valor se publica posteriormente en el Diario Oficial de la Federación (DOF) y se usa para contratos, pagos internacionales, facturación y otras operaciones formales, por lo que es el punto de partida más confiable para medir la fuerza del peso frente al dólar. Sin embargo, el precio que tú ves al acudir al banco no es exactamente el FIX, sino el precio de mercado (spot o de ventanilla), que incorpora comisiones, costos operativos y el margen de ganancia de cada institución. Por eso, es normal encontrar diferencias de algunos centavos entre bancos y casas de cambio, incluso a la misma hora del día. Una forma práctica de usar el FIX es tomarlo como “línea base”: si la venta al público se encuentra muy por encima de ese valor, conviene comparar con otras opciones antes de completar tu cambio. Para tomar mejores decisiones, es clave entender la diferencia entre el tipo de cambio oficial (FIX) y el precio que se aplica al público: En ventanilla siempre verás dos precios: compra (lo que el banco te paga por tus dólares) y venta (lo que el banco te cobra si quieres comprar dólares). La diferencia entre ambos se conoce como “spread” y es parte de la ganancia de la institución.",
+          "url": "https://elcomercio.pe/mag/respuestas/mx/precio-del-dolar-en-mexico-hoy-viernes-15-de-mayo-2026-cuanto-esta-el-usd-en-mxn-nnda-nnrt-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/QEEPFHRNL5CTFJDVKI5326W37U.jpg?auth=5cef4126e824ad77c8b3d1547465a3c5e459fc21dab64d3ba121ff50d1390207&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-17T13:43:06Z",
+          "embed_url": "https://elcomercio.pe/mag/respuestas/mx/precio-del-dolar-en-mexico-hoy-viernes-15-de-mayo-2026-cuanto-esta-el-usd-en-mxn-nnda-nnrt-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Witch Hat Atelier, Witch Hat Atelier anime, “Witch Hat Atelier” Capítulo 8",
-            "Qué",
+            "precio del dolar en mexico, precio del dolar en mexico hoy, precio del dolar en mexico hoy viernes 15 de mayo 2026, dolar hoy en mexico, dolar en mexico hoy viernes 15 de mayo 2026, dolar en mexico hoy sábado 16 de mayo 2026, dolar en mexico hoy domingo 17 de mayo 2026, precio del dolar en mexico hoy sábado 16 de mayo 2026, precio del dólar en méxico hoy domingo 17 de mayo 2026, usd a mxn, dolar a peso mexicano",
+            "mx",
             "Senaste",
             "El Comercio"
           ],
@@ -3154,25 +3079,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "40c822c4ea41",
+          "id": "864be4b90462",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Alex Saab aterriza en Miami tras ser deportado por el Gobierno de Venezuela a Estados Unidos",
-          "summary": "Alex, amigo personal de Nicolás Maduro, lleva años acusado en Estados Unidos de haberse enriquecido de forma ilícita mediante contratos gubernamentales y de haber actuado como testaferro del líder chavista",
-          "body_text": "El empresario colombiano Alex Saab aterrizó este sábado en un aeropuerto de Miami tras haber sido deportado por el Gobierno de Venezuela a Estados Unidos por la presunta comisión de delitos en el país norteamericano, según informó el venezolano Servicio Administrativo de Identificación, Migración y Extranjería (SAIME). EFE constató la llegada del también exministro venezolano al aeropuerto de Opa-locka, en el condado de Miami-Dade, escoltado por agentes federales, entre ellos de la DEA. “La medida de deportación fue adoptada tomando en consideración que el referido ciudadano colombiano se encuentra incurso en la comisión de diversos delitos en los Estados Unidos de América, tal como es público, notorio y comunicacional”, señaló el SAIME en un comunicado publicado en Instagram. Asimismo, indicó que el proceso de deportación se llevó a cabo este sábado “en cumplimiento de las disposiciones normativas de la legislación migratoria venezolana”. El empresario, que ya estuvo preso en Estados Unidos entre octubre de 2021 y diciembre de 2023, regresó a Venezuela tras recibir un indulto del Gobierno del entonces presidente Joe Biden. En octubre de 2024, Saab fue designado ministro de Industria y Producción Nacional, cargo del que fue destituido por la presidenta encargada Delcy Rodríguez, dos semanas después del ataque estadounidense a Caracas, que terminó con la captura del hasta ese momento mandatario venezolano Nicolás Maduro. Saab, de 54 años y amigo personal de Maduro, lleva años acusado en Estados Unidos de haberse enriquecido de forma ilícita mediante contratos gubernamentales y de haber actuado como testaferro del líder chavista. Según The New York Times, el nuevo Gobierno venezolano, encabezado por Rodríguez, detuvo a Saab a principios de febrero a petición de Washington. Antes, fiscales estadounidenses presentaron en enero pasado una acusación por corrupción contra Saab en Miami (Florida). Ahora Saab se enfrenta a la justicia de Estados Unidos como también hace Maduro y su esposa, Cilia Flores, que afrontan en Nueva York un juicio por cargos de narcotráfico.",
-          "url": "https://elcomercio.pe/mundo/eeuu/alex-saab-aterriza-en-miami-tras-ser-deportado-por-el-gobierno-de-venezuela-a-estados-unidos-testaferro-de-nicolas-maduro-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/N3TG2N4PH5A2JPXE4VRAS2WOO4.jpg?auth=6872e0d308764535c29b9a0dd3d673840b6846ed85045ede1125c027bb9d98e0&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-17T11:53:21Z",
-          "embed_url": "https://elcomercio.pe/mundo/eeuu/alex-saab-aterriza-en-miami-tras-ser-deportado-por-el-gobierno-de-venezuela-a-estados-unidos-testaferro-de-nicolas-maduro-noticia/",
+          "title": "Irán acusa a EE.UU. e Israel de usar la inseguridad en el estrecho de Ormuz para una nueva escalada",
+          "summary": "Irán acusó a Estados Unidos e Israel de generar inestabilidad en las rutas energéticas y de intentar justificar una ofensiva contra Teherán.",
+          "body_text": "Irán acusó este domingo a Estados Unidos e Israel de haber provocado la actual inseguridad en las rutas energéticas internacionales y denunció que ahora buscan justificar una nueva ofensiva contra Teherán bajo el argumento de proteger la paz y la estabilidad de los mercados globales. “Este es su conocido y cínico manual de actuación: fabricar crisis y guerra, y luego escalar aún más bajo la noble bandera de restaurar la estabilidad y defender la paz”, denunció en X el portavoz del Ministerio iraní de Exteriores, Ismail Bagaei. Bagaei afirmó que fueron EE.UU. e Israel quienes inyectaron “deliberadamente” inseguridad en el estrecho de Ormuz y citó por ello una frase atribuida al ministro de Propaganda de la Alemania nazi, Joseph Goebbels: “acusa a otros de lo que tú mismo estás haciendo”. El portavoz de la diplomacia iraní sostuvo que Tel Aviv y Washington están difundiendo “la próxima gran mentira para justificar su guerra ilegal”. “Crean desolación y lo llaman paz”, denunció Bagaei, utilizando también una frase del historiador romano Publio Cornelio Tácito en su obra Agrícola. Las Fuerzas Armadas de Irán también advirtieron este domingo a Estados Unidos de que cualquier nueva agresión militar en su contra provocará una respuesta “más contundente y severa”, incluidos escenarios “sorpresivos y devastadores”, tras nuevas amenazas del presidente estadounidense, Donald Trump, y en medio del estancamiento de las negociaciones de paz. Trump dijo ayer que Irán “la va a pasar muy mal” si no alcanza un acuerdo con Washington y, horas después, difundió en su cuenta de Truth Social un video en el que simuló el derribo de un misil iraní por parte de un buque estadounidense y comentó: “Ok, lo tenemos en la mira. Fuego. Boom”. Las negociaciones entre Teherán y Washington, mediadas por Pakistán, permanecen bloqueadas tras el rechazo estadounidense a la última propuesta iraní, calificada por Trump como un “pedazo de basura”. Por ahora sigue vigente el alto el fuego acordado entre las partes el 8 de abril, aunque Trump dijo hace una semana que la tregua era “increíblemente frágil”, mientras ambas partes mantienen su bloqueo en el estrecho de Ormuz.",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/iran-acusa-a-estados-unidos-e-israel-de-usar-la-inseguridad-en-el-estrecho-de-ormuz-para-una-nueva-escalada-donald-trump-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/IRSQRO6YQZBQ3IIJFJ7QIHT6XA.jpg?auth=f66d666e6da8c4af5b84c0d03e3313fba36e1882ca0845fb43e137c8f2b07f15&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-17T13:35:38Z",
+          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/iran-acusa-a-estados-unidos-e-israel-de-usar-la-inseguridad-en-el-estrecho-de-ormuz-para-una-nueva-escalada-donald-trump-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Alex Saab aterriza en Miami tras ser deportado por el Gobierno de Venezuela a Estados Unidos, Alex Saab, Venezuela, estados unidos, nicolás maduro, delcy rodríguez, testaferro de maduro, quién es alex saab",
-            "EEUU",
+            "Irán, Estados Unidos, Israel, rutas energéticas, tensión en Oriente Medio, Teherán, mercados globales, conflicto Irán Israel, crisis energética, seguridad internacional",
+            "Oriente Medio",
             "Mundo",
             "El Comercio"
           ],
@@ -3180,29 +3105,29 @@
           "sort_order": 0
         },
         {
-          "id": "9daadcb4d388",
+          "id": "26457582fd23",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Las horas bajas de Starmer: el Reino Unido se acerca a otro cambio de primer ministro",
-          "summary": "Las horas bajas de Starmer: el Reino Unido se acerca a otro cambio de primer ministro | Los británicos están siendo testigos de otro terremoto político a diez años de la salida del Brexit. El primer ministro británico, Keir Starmer, del ala moderada del izquierdista Partido Laborista, está en la cuerda floja tras los malos resultados de las recientes elecciones locales, que ha permitido el empoderamiento de la extrema derecha. Sería el séptimo gobernante en una década",
-          "body_text": "No tiene el lamentable récord peruano de presidentes efímeros, pero el Reino Unido ha visto pasar con demasiada frecuencia a diferentes inquilinos por el número 10 de Downing Street. Ocho primeros ministros en los últimos 20 años y seis desde hace una década, cuando el país apostó por el Brexit y decidió salir de la Unión Europea. Y la historia puede repetirse muy pronto. El actual primer ministro, Keir Starmer, está en la cuerda floja y más pronto de lo esperado podría ser reemplazado. En el 2024 llevó al Partido Laborista a ganar las elecciones, terminando con 14 años de gobiernos conservadores, pero su baja popularidad, una coyuntura internacional poco favorable y promesas sin cumplir lo están conduciendo muy rápido a la puerta de salida. Los problemas para Starmer se multiplicaron tras los malos resultados que consiguieron los laboristas en las elecciones locales y regionales del pasado 7 de mayo, cuando perdieron cerca de 1.500 concejales. Los resultados beneficiaron al partido de extrema derecha, Reform UK, liderado por Nigel Farage, el principal abanderado del Brexit hace una década. Pero el voto también se polarizó hacia las agrupaciones nacionalistas y la extrema izquierda, con un avance importante para Los Verdes. “A Starmer se le juntaron una serie de problemas enormes. Trump, la guerra en Ucrania, la guerra en Irán, el bajo crecimiento económico, los efectos del Brexit. A esto se suma un personaje sin carisma y extremadamente moderado que no ha tenido las agallas para implementar casi ninguna reforma”, explica a El Comercio Javier Carbonell, director del think tank Future Policy Lab, en España. “Había una necesidad de resultados rápidos y promesas que se hicieron, y este gobierno ha ido más lento de lo que había prometido con respecto a temas económicos”, señala también Javier Sajuria, profesor de Política Comparada y decano de Educación en la Universidad Queen Mary de Londres. Un tema que pegó mucho a Starmer fue el escándalo por el nombramiento, y posterior destitución, de Peter Mandelson como embajador británico en Washington, luego que se revelaran sus vínculos con el depredador sexual Jeffrey Epstein. “Starmer fue el director de la Fiscalía Pública, una especie de fiscal nacional, y ante el escándalo de Mandelson apareció como alguien que no tenía criterio. En el tema de Gaza, al inicio fue muy proisraelí y eso afectó a los votantes de izquierda, y en las elecciones locales a los laboristas les fue peor en las circunscripciones con mayor población musulmana”, expresa Sajuria. Dentro del Partido Laborista ya empezó la guerra civil entre quienes buscan ocupar el asiento de Starmer, quien esta semana no ha dado señales de querer dimitir. Pero ya varios de los mecanismos se han activado para que se empiece a delinear su reemplazo. Por lo pronto, 86 diputados laboristas han pedido la renuncia del primer ministro, y de acuerdo con la ley se requieren 81 firmas. Aún ningún candidato ha declarado formalmente su intención de postular en unas primarias, que podrían darse en setiembre, pero ya hay varios nombres que están alistándose para la batalla de sucesión. Según las encuestas, el laborista con mayores opciones es el alcalde de Manchester, Andy Burnham, del sector progresista del partido, quien empezó a mover sus fichas. Al no ser legislador, no puede convertirse en primer ministro, pero ya anunció su intención de postularse a unas elecciones parciales para una circunscripción en Makerfield, lo que le allanaría el camino. Otros rivales de peso son el exministro de Salud, Wes Greeting, quien justamente presentó su renuncia al cargo esta semana para poder acelerar el cambio; y Angela Rayner, antigua mano derecha de Starmer y muy popular entre los sindicatos. Esta nueva crisis política se da cerca del décimo aniversario del referéndum del Brexit, que sacó al Reino Unido del paraguas de la Unión Europea, una decisión que no trajo al país los beneficios proclamados por los políticos euroescépticos, entre ellos Farage. “Necesito recordarles de nuevo lo que Farage decía sobre el Brexit”, expresó Starmer esta semana tras el batacazo de las elecciones. “Aseguró que nos haría más ricos. Falso. Nos hizo más pobres. Dijo que reduciría la inmigración. Falso. Las cifras se han disparado. Dijo que nuestro país sería más seguro. Falso. Es más débil”. Una declaración que más parece un disparo a los pies que una crítica a su rival político. Desde que Starmer llegó al poder, hace casi dos años, prometió que trabajaría por reconstruir la relación entre Londres y Bruselas, pero los avances han sido lentos y tardíos, sobre todo luego que el primer ministro se diera cuenta que Estados Unidos ya no era el aliado confiable y que debía mirar nuevamente hacia Europa. Aunque el gobierno no ha hablado de reingresar al espacio aduanero común, sí ha señalado el interés de un mayor alineamiento normativo que permita abaratar los costos para las empresas importadoras y exportadoras. “El Brexit y la inestabilidad política en el Reino Unido son productos de cambios sociales que se están dando: desconfianza en el sistema político, la fragmentación de los partidos, polarización, bajo crecimiento económico y, por tanto, el declive de las expectativas de la gente que han permitido el auge de la extrema derecha. Estas tendencias, que son comunes al resto de Europa y en el mundo, se expresaron con el Brexit y con las tensiones políticas que estamos viendo actualmente”, señala Carbonell. Por ejemplo, el tema migratorio, que fue uno de los factores que impulsaron la salida de la UE, ha tenido consecuencias opuestas. “Una de las promesas del Brexit fue la reducción de la inmigración. Efectivamente, ha disminuido el porcentaje de personas que llegan de otros países de la Unión Europea, pero sí ha explotado la inmigración desde Asia y África. Y si eso lo mezclamos con un componente racista, particularmente desde Farage y sus aliados, el tema de la inmigración es lo que más molesta y ellos lo han explotado en términos políticos”, dice Sajuria. Diez años después, un 56% de los británicos considera que fue un error votar por la salida de la UE, según una encuesta reciente de YouGov, mientras que un 61% piensa que el Brexit ha sido un fracaso. Según datos de la Oficina Nacional de Investigación Económica (NBER), la inversión empresarial ha descendido un 15%, mientras que las exportaciones del Reino Unido han ido a un ritmo más lento que las de otros países del G7, como Japón o Alemania. “El Brexit no provocó el estancamiento del crecimiento en Gran Bretaña, pero sin duda lo agravó», escribió Ryan Bourne, miembro del grupo Economistas por el Brexit, en un artículo de “The Times”. La eventual salida de Starmer no va a revertir las consecuencias del Brexit ni tampoco solucionará a corto plazo las principales preocupaciones de los británicos, pero el cambio de timón quizá ayude a dar más oxígeno al laborismo, que ya sabe que el extremismo de derecha e izquierda le respiran en la nuca.",
-          "url": "https://elcomercio.pe/mundo/europa/las-horas-bajas-de-starmer-el-reino-unido-se-acerca-a-otro-cambio-de-primer-ministro-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/CIKC4HA7ERBOXN3222P42V3I4M.jpg?auth=56abc44a4d2217778a0a00fd13e5807b59996b0a447e7f349aac04b95257faa4&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-17T11:27:38Z",
-          "embed_url": "https://elcomercio.pe/mundo/europa/las-horas-bajas-de-starmer-el-reino-unido-se-acerca-a-otro-cambio-de-primer-ministro-noticia/",
+          "title": "Un ataque con dron cerca de central nuclear de Emiratos Árabes Unidos desata un incendio",
+          "summary": "Emiratos Árabes Unidos informó de un incendio cerca de la central nuclear de Barakah tras un ataque con dron. No hubo heridos ni aumento de radiactividad.",
+          "body_text": "Un incendio se declaró tras un ataque con dron cerca de la central nuclear de Barakah en Emiratos Árabes Unidos sin causar heridos ni provocar un aumento de la radiactividad, anunciaron las autoridades de Abu Dabi este domingo. Las autoridades “intervinieron después de un incendio ocurrido en un generador eléctrico situado fuera del perímetro interior de la planta nuclear de Barakah (...) como resultado de un ataque con dron”, precisó la oficina de medios de Abu Dabi en las redes sociales. “No se reportaron heridos y no se observó ningún impacto en los niveles de seguridad radiológica”, añadió. La central entró en servicio en 2020 y se encuentra a 200 kilómetros al oeste de Abu Dabi, la capital de Emiratos Árabes Unidos, cerca de la frontera con Arabia Saudita y Catar. Suministra hasta una cuarta parte de las necesidades eléctricas de este país rico en petróleo, informó en 2024 la empresa estatal Emirates Nuclear Energy Company. “La Autoridad Federal de Regulación Nuclear (FANR) confirmó que el incendio no afectó a la seguridad de la central ni a la disponibilidad de sus sistemas esenciales, y que todas las unidades funcionan con normalidad”, añadió la oficina de prensa. Rafael Grossi, director general del Organismo Internacional de Energía Atómica (OIEA), condenó el ataque y expresó “su profunda preocupación”. “Cualquier actividad militar que amenace la seguridad nuclear es inaceptable”, afirmó en un mensaje en X. Emiratos Árabes Unidos fue el segundo país de la región en construir una central nuclear, después de Irán, y el primero del mundo árabe. El comunicado no precisa desde dónde se lanzó el dron, pero Emiratos Árabes Unidos ha acusado recientemente a Irán de estar detrás de los ataques contra su infraestructura energética y económica. Teherán lanzó ataques de represalia en toda la región después de que Estados Unidos e Israel bombardearan su territorio el 28 de febrero.",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/iran-un-ataque-con-dron-cerca-de-central-nuclear-de-emiratos-arabes-unidos-desata-un-incendio-israel-estados-unidos-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/XQQGCT2VHZGGNPKWQWBWITIZUU.jpg?auth=d8b35a5827c2e6adb04b2516619205e3e3b7ec69aee82605a9e7723ab50c3048&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-17T13:26:53Z",
+          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/iran-un-ataque-con-dron-cerca-de-central-nuclear-de-emiratos-arabes-unidos-desata-un-incendio-israel-estados-unidos-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Keir Starmer, Reino Unido, Brexit, Europa, Elecciones, Elecciones Locales, Política, Partido Laborista, Unión Europea, Downing Street, Reform UK, Nigel Farage",
-            "Europa",
+            "Emiratos Árabes Unidos, central nuclear Barakah, ataque con dron, incendio en Barakah, Abu Dabi, planta nuclear Emiratos, seguridad nuclear, radiactividad, drones en Emiratos, noticias Emiratos Árabes Unidos",
+            "Oriente Medio",
             "Mundo",
             "El Comercio"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 1
         },
         {
@@ -3995,9 +3920,57 @@
       "source_kind": "story",
       "live_section": false,
       "status": "ok",
-      "article_count": 4,
+      "article_count": 8,
       "priority_split": 0,
       "articles": [
+        {
+          "id": "cc2ac76ad8a4",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Sonic 4 comes to theaters in March 2027",
+          "summary": "Paramount’s Sonic the Hedgehog 4 movie is coming to theaters on March 19th, 2027, following the success of the third Sonic film.",
+          "body_text": "The fourth Sonic movie now has an official release date: March 19th, 2027, according to Variety. Right around the release of the very successful Sonic the Hedgehog 3 last December, news hit that Sonic the Hedgehog 4 was in the works, but at the time, the movie only had a spring 2027 release window. Sonic films have drawn all-star cast members over the years, such as Jim Carrey as Dr. Robotnik, who has played the role in all three of the movies, Idris Elba as Knuckles, and Keanu Reeves as Shadow. And a post-credits scene for the third movie hints that other fan favorites could join the series (spoilers in that link!), so there might be big casting announcements ahead for the fourth Sonic film. The March 2027 date for Sonic The Hedgehog 4 means it will launch well after The Super Mario Bros. Movie sequel, which is set to debut on April 3rd, 2026.",
+          "url": "https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25590829/Screenshot_2024_08_27_at_9.05.57_AM.png?quality=90&strip=all&crop=9.9660421545667%2C0%2C80.067915690867%2C100&w=1200",
+          "published_at": "2025-01-21T22:16:02Z",
+          "embed_url": "https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "7eb053aae7e1",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Sonic 4 is speeding into theaters in 2027",
+          "summary": "Variety reports that Sonic the Hedgehog 4 has been greenlith, with Paramount Pictures aiming for a release in spring 2027.",
+          "body_text": "Variety is reporting that Paramount Pictures is planning to extend the Sonic The Hedgehog trilogy by yet another movie. Sonic The Hedgehog 4 has been greenlit with a target release window of spring 2027. The news comes mere hours before Sonic The Hedgehog 3 releases in theaters on Friday December 19th. The movie once again stars Ben Schwartz as Sonic, Colleen O’Shaughnessey and Idris Elba as his friends Tails and Knuckles, with Jim Carey returning as their nemesis Dr. Ivo Robotnik. Sonic 3 will also feature the arrival of Keanu Reeves playing Sonic’s on-again off-again enemy-turned-friend Shadow The Hedgehog. With Sonic 3 anticipating tidy profits as North America prepares for the Christmas / New Year’s moviegoing season, developing a fourth movie makes sense. There are several rogue characters from the Sonic universe aiming for their silver screen debut. (See what I did there?) Neither Variety nor Paramount Pictures have confirmed any plot details or who might get their Sonic movie debut. We’ll probably get a hint though, in the post-credits for Sonic 3.",
+          "url": "https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25590829/Screenshot_2024_08_27_at_9.05.57_AM.png?quality=90&strip=all&crop=9.9660421545667%2C0%2C80.067915690867%2C100&w=1200",
+          "published_at": "2024-12-19T17:59:05Z",
+          "embed_url": "https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
         {
           "id": "192f1015bd94",
           "source_id": "theverge-latest",
@@ -4020,7 +3993,7 @@
             "The Verge"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "66bffd035455",
@@ -4044,7 +4017,55 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
+        },
+        {
+          "id": "b3523f59ce9f",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog\\\"\\u003enext",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog\\\"\\u003enext",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog\\\"\\u003enext",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "d6489959c497",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date\\\"\\u003eMarch",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date\\\"\\u003eMarch",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date\\\"\\u003eMarch",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 5
         },
         {
           "id": "ebf384fb352a",
@@ -4068,7 +4089,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "b3460a4a967e",
@@ -4092,7 +4113,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 7
         }
       ]
     },
@@ -4136,8 +4157,8 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Om Aftonbladet – kontakt och redaktionell policy",
-          "summary": "Tjänstgörande redaktörer: Ellinor Brenning, Niklas Ornerud, Rebecka Rakell Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin S",
-          "body_text": "Uppdaterad 05.38 | Publicerad 2016-10-19 Tjänstgörande redaktörer: Ellinor Brenning , Niklas Ornerud , Rebecka Rakell Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius, och till 9 procent av Landsorganisationen i Sverige, LO.",
+          "summary": "Tjänstgörande redaktörer: Sebastian Laneby, Louise Nylander, Elvira Barsotti Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin",
+          "body_text": "Uppdaterad 15.12 | Publicerad 2016-10-19 Tjänstgörande redaktörer: Sebastian Laneby, Louise Nylander, Elvira Barsotti Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius, och till 9 procent av Landsorganisationen i Sverige, LO.",
           "url": "https://www.aftonbladet.se/a/LOlQ4/om-aftonbladet",
           "image_url": "https://images.aftonbladet-cdn.se/v2/images/11bc7a56-7cf1-4ae6-9bd3-f357872611de?fit=crop&format=auto&h=1267&q=50&w=1900&s=099f3f072dd17d1fe790dd9e1ec65cff7a6620d3",
           "published_at": "2020-09-02T08:55:45Z",
@@ -4217,6 +4238,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "b9024db563d5",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Trump säljer ut Taiwan – efter mötet med Xi Jinping",
+          "summary": "Donald Trump gav efter för Kinas önskemål om Taiwan. Som första amerikanska president pratar han nu om vapenaffärer med Taiwan som ett förhandlingskort – och motsätter sig öppet taiwanesisk självständighet.",
+          "body_text": "Donald Trump gav efter för Kinas önskemål om Taiwan. Som första amerikanska president pratar han nu om vapenaffärer med Taiwan som ett förhandlingskort – och motsätter sig öppet taiwanesisk självständighet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En stark oro märktes i Taiwan inför Donald Trumps möte med Xi Jinping. Landets vice utrikesminister varnade öppet för att Taiwan ”stod på menyn”. Att Taiwan inte skulle nämnas alls var enligt många här på ön den bästa möjliga utgången. Men redan efter det första, korta mötet under torsdagen så dundrade Xi att Taiwanfrågan riskerar få hela relationen med USA kan röra sig i en farlig riktning av sammandrabbning och konflikt. Kina såg tydliga möjligheter att framtvinga eftergifter av en försvagad Trump, som jagade kortsiktiga ekonomiska vinster och hjälp med att öppna Hormuz-sundet innan mellanårsvalet. Därför drog många taiwaneser en lättnadens suck när Trump på fredagen lämnade Kina utan att ha nämnt Taiwan. Men sucken fastnade snart i halsen. Redan på Airforce One sade han sig ha pratat om försäljningen av vapen till Taiwan med Xi. I en intervju med Fox News beskrev han vidare denna vapenförsäljning som ett ”starkt förhandlingskort”, och uttryckte motstånd mot taiwanesisk självständighet. Donald Trump blev därmed första president att bryta löftet som Ronald Reagan gav till Taiwan 1982; att USA aldrig ska diskutera vapenförsäljningen till Taiwan med Kina. Att öppet motsätta sig taiwanesisk självständighet är också en förändring från USA:s officiella position om att ”inte stödja” sådan självständighet. Detta kan verka som en obskyr, obetydligt detalj. Men i Taiwan upplevs det som en mycket brant och farlig nedförsbacke. Kina kan nu använda Trumps uttalande för att pressa andra länder att minska samarbetet med Taiwan. Dessutom har vi mellanårsval även här i Taiwan senare i år. Trumps retorik gör ofattbar skada för USA:s pålitlighet som säkerhetsgarant, och gynnar därmed den pro-kinesiska oppositionen. Särskilt som han åter tjatade om att Taiwan har ”stulit” chipindustrin från USA, och uppmanade alla kinesiska tillverkare av mikrochip att flytta till Arizona.",
+          "url": "https://www.expressen.se/nyheter/varlden/trump-saljer-ut-taiwan/",
+          "image_url": "https://static.bonniernews.se/images/ab/f2/abf2a82fd7e24e00bb0e9085423a54f1/16x9/original.png",
+          "published_at": "2026-05-17T13:18:11Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/trump-saljer-ut-taiwan/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "0e6145654124",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4238,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "dd4aa5594799",
@@ -4248,7 +4293,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Kaoset bland bilvraken: ”Ser att det brinner”",
+          "title": "Kaos bland bilvraken: ”Ser att det brinner”",
           "summary": "Den 21-åriga kvinnan hade haft körkort i en månad och skulle åka och hämta några kompisar. Men det var tät dimma – och plötsligt small det till. Nu har 21-åringen åtalats för att ha vållat två unga kvinnors död.",
           "body_text": "Den 21-åriga kvinnan hade haft körkort i en månad och skulle åka och hämta några kompisar. Men det var tät dimma – och plötsligt small det till. Nu har 21-åringen åtalats för att ha vållat två unga kvinnors död. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. ■ Två unga kvinnor omkom i en dubbelkrock i tät dimma utanför Bollnäs. ■ Två personer, en 21-årig kvinna och en 29-årig man, har åtalats för vållande till annans död efter olyckan. ■ Båda förnekar brott och säger i förhör att bilen de krockade med dök upp som från ingenstans. Kvällen den 27 september 2025 larmades polis, räddningstjänst och ambulans till en trafikolycka på riksväg 83 strax norr om Bollnäs . När den första polispatrullen anlände var situationen ”kaosartad”. På vägbanan stod en brinnande bil och en bil med intryckt front, och i diket låg en pickup på sidan. Det hade samlats mycket folk på platsen och var ”svårt att få överblick” – men flera personer var skadade. Senare visade det sig att två av dem dött: Emilia Hansson, 19, från Ljusdal och Lina Jonhansas, 24, från Järvsö .",
           "url": "https://www.expressen.se/nyheter/sverige/kaoset-bland-bilvraken--ser-att-det-brinner/",
@@ -4262,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "7617cffceafe",
@@ -4286,7 +4331,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "3c1ab2693336",
@@ -4310,7 +4355,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "dc3fbe5def1b",
@@ -4334,7 +4379,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "cffc4b8b1314",
@@ -4358,7 +4403,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "a80c6d767d6b",
@@ -4382,7 +4427,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "5a4aea0139ec",
@@ -4392,12 +4437,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Varnar för spridning – nödläge har utlysts",
-          "summary": "Bundibugyoviruset sprids i Kongo-Kinshasa och Uganda. Hög dödlighet och oro för mutationer enligt experter",
-          "body_text": "Ett drygt 80-tal personer har dött i en ny ovanlig variant av ebolaviruset i Kongo-Kinshasa. Smittskyddsmyndigheter varnar för en ”aktiv och samhällsspridning” och det finns även en oro för att viruset ska mutera. – Denna variant har en mycket hög dödlighet, uppemot 50 procent, säger hälsoministern Samuel-Roger Kamba, enligt France 24 . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Minst 87 personer har dött och över 300 personer misstänks ha smittats i ett ebolautbrott i Kongo-Kinshasa, rapporterar AP . Även en kongolesisk person har dött i Uganda där det har bekräftats att personen smittades i Kongo-Kinshasa. Afrikanska smittskyddsmyndigheten varnar nu för en ”aktiv samhällsspridning” i den östra delen av landet och har även uttryckt oro över risken för ytterligare spridning på grund av de drabbades områdens närhet till Uganda och Sydsudan, enligt AP. Utvecklingen har fått Världshälsoorganisationen WHO att utlysa ett nödläge. Ebola är en av de dödligaste virussjukdomarna och vissa varianter har upp till 90 procents dödlighet, enligt Läkare utan gränser . Ebolavirus är en sällsynt men ofta dödlig blödarfeber som sprids via kroppsvätskor. Viruset finns naturligt i länder i centrala och västra Afrika – där det troligen är fladdermöss som bär på det. Omkring hälften av de som smittas blir mycket svårt sjuka. Blodkärlens väggar skadas och det börjar blöda i inre organ, till exempel genom näsan, öronen, i tandköttet och ögonen. Mellan 2014 och 2016 dog mer än 11 000 människor i det största utbrottet hittills i västra Afrika.",
+          "title": "Världen Idag 07.12 87 personer döda – i ovanlig variant av ebola",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/varlden/87-personer-doda-i-ovanlig-variant-av-ebola/",
-          "image_url": "https://static.bonniernews.se/images/2a/e5/2ae5483ccce9490ba715fafab2a5a9d9/16x9/original.jpg",
-          "published_at": "2026-05-17T05:12:25Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/87-personer-doda-i-ovanlig-variant-av-ebola/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4405,8 +4450,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "0f2399a2c3da",
@@ -4423,30 +4468,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/uppgifter-keir-starmer-planerar-att-avga/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "b3e5b86767b0",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen Idag 02.44 Smugglade hotade apor i underkläderna",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/smugglade-hotade-apor-i-underkladerna/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/smugglade-hotade-apor-i-underkladerna/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
