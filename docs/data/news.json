@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T20:18:27Z",
+  "generated_at": "2026-05-18T21:41:44Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "8a66d8da11c4",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Evolution köper egna aktier för miljarder",
+          "summary": "Nyheter från TV4: Evolution köper egna aktier för miljarder",
+          "body_text": "Den brittiska spelmyndigheten granskar livekasinooperatören Evolution. Arkivbild. Evolution köper egna aktier för miljarder Syftet är att ”optimera bolagets kapitalstruktur genom att minska aktiekapitalet och därigenom skapa ytterligare aktieägarvärde”, skriver Evolution i ett pressmeddelande. Evolution, vars aktie är en av Stockholmsbörsens 30 mest omsatta, har också ingått avtal om en kreditfacilitet om 300 miljoner euro för att ha fortsatt finansiell flexibilitet. Faciliteten tillhandahålls av storbankerna J.P. Morgan och Citibank och är strukturerad med återbetalning av hela lånebeloppet efter tre år, med möjlighet till två ettåriga förlängningar.",
+          "url": "https://www.tv4.se/artikel/tt-260518-evolution1-19676b4c/evolution-koper-egna-aktier-for-miljarder",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlR5hhK1S6GUs/2e0b908615467c44ed9d1099431b6dcf/Den_brittiska_spelmyndigheten_granskar_livekasinooperat_ren_Evolution._Arkivbild.",
+          "published_at": "2026-05-18T21:00:57Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260518-evolution1-19676b4c/evolution-koper-egna-aktier-for-miljarder",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "42cf198e5bb5",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "aa328bd2108b",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "a188af5450b6",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "ed0add950f5f",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlMpbaNpjNx2Y/eb058266cd8af8a9c3dad144813c4e21/Elon_Musk._Arkivbild.",
           "published_at": "2026-05-18T18:02:42Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260518-usamuskopenai1-ee0bda01/musk-forlorar-stamningen-av-open-ai-s-grundare",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "ce60bae61930",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "USA förlänger undantag för rysk olja",
-          "summary": "Nyheter från TV4: USA förlänger undantag för rysk olja",
-          "body_text": "En ryskflaggad oljetanker nära hamnen i kubanska Matanzas i slutet av mars. Arkivbild. Finansminister Scott Bessent meddelar på X att åtgärden kommer att ”ge de mest utsatta nationerna möjligheten att tillfälligt få tillgång till rysk olja som för närvarande är fast till sjöss”. Det första undantaget kom sedan USA och Israel inledde kriget mot Iran den 28 februari. Syftet då var enligt Bessent att stabilisera den globala energimarknaden. Det nya förlängda undantaget är det andra i ordningen och det gäller i 30 dagar. De globala oljepriserna har stigit kraftigt sedan krigets början, och även amerikanska konsumenter känner av de kraftigt höjda bränslekostnaderna.",
-          "url": "https://www.tv4.se/artikel/tt-260518-ryssusasankrioner1-fdd114fc/usa-forlanger-undantag-for-rysk-olja",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlfQev-QQ7GlU/a1306d652091d2bda463c9e705e7e987/En_ryskflaggad_oljetanker_nara_hamnen_i_kubanska_Matanzas_i_slutet_av_mars._Arkivbild._",
-          "published_at": "2026-05-18T17:46:17Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260518-ryssusasankrioner1-fdd114fc/usa-forlanger-undantag-for-rysk-olja",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -259,7 +259,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 6 av 10 anser att de personligen fått det sämre Nya bottensiffror för Trump – visar största missnöjet hittills Derbyt avbröts • Kommer inte spelas klart i kväll",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 6 av 10 anser att de personligen fått det sämre Nya bottensiffror för Trump – visar största missnöjet hittills Så används AI i krigsföringen • TV4 besöker hemligt förband Så har Ukraina gått från ”tiggare” – till experter Hemliga fabriker bakom Ukrainas drönarsatsning: ”Sätt att vinna” Massiv polisinsats • Gärningsmän ”neutraliserade”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -335,7 +335,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 10,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -364,31 +364,6 @@
           "sort_order": 0
         },
         {
-          "id": "800a9982940f",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ikväll 23:15",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
-          "url": "https://www.svtplay.se/video/jEqqAd1/rapport/ikvall-23-15",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-18T21:15:00Z",
-          "embed_url": "https://www.svtplay.se/video/jEqqAd1/rapport/ikvall-23-15",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
           "id": "b2ecd888a535",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -401,7 +376,7 @@
           "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
           "url": "https://www.svtplay.se/video/eXvvLBy/rapport/ikvall-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54179407/1779125035?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T19:30:00Z",
+          "published_at": "2026-05-19T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/eXvvLBy/rapport/ikvall-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -411,7 +386,232 @@
             "SVT Play"
           ],
           "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "3e8ab149ba89",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Lör 16 maj 19:30",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
+          "url": "https://www.svtplay.se/video/KBww4oB/rapport/lor-16-maj-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54172567/1778954106?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-19T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/KBww4oB/rapport/lor-16-maj-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": true,
           "sort_order": 2
+        },
+        {
+          "id": "1c85fc5c6c81",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Fre 15 maj 19:30",
+          "summary": "Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet",
+          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
+          "url": "https://www.svtplay.se/video/KZxxzZB/rapport/fre-15-maj-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54171457/1778865836?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-19T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/KZxxzZB/rapport/fre-15-maj-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 3
+        },
+        {
+          "id": "e75cbc6b3c5f",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Tor 14 maj 19:30",
+          "summary": "Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa",
+          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
+          "url": "https://www.svtplay.se/video/8EqqAvv/rapport/tor-14-maj-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54166804/1778779446?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-19T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/8EqqAvv/rapport/tor-14-maj-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 4
+        },
+        {
+          "id": "97ec9d05c67e",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ons 13 maj 19:30",
+          "summary": "Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet",
+          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
+          "url": "https://www.svtplay.se/video/jqPPwd3/rapport/ons-13-maj-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54165499/1778693044?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-19T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jqPPwd3/rapport/ons-13-maj-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 5
+        },
+        {
+          "id": "537ef86edbbd",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Mån 11 maj 19:30",
+          "summary": "Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro",
+          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
+          "url": "https://www.svtplay.se/video/jMyyAva/rapport/man-11-maj-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54154345/1778520230?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-19T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jMyyAva/rapport/man-11-maj-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 6
+        },
+        {
+          "id": "defc3ef33303",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 23:15",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/jEqqAd1/rapport/ikvall-23-15?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54180523/1779139921?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-18T21:15:00Z",
+          "embed_url": "https://www.svtplay.se/video/jEqqAd1/rapport/ikvall-23-15?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "ef1e7ef4a167",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/jz74z2o/rapport/idag-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54177415/1779090316?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-18T09:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jz74z2o/rapport/idag-09-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "0029e143a109",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 09:00",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/8vvvNGQ/rapport/idag-09-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54176923/1779088976?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-18T09:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8vvvNGQ/rapport/idag-09-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 9
+        },
+        {
+          "id": "0c2b2d5fd9a1",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 08:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/jJyyaGr/rapport/idag-08-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54176251/1779086696?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-18T08:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jJyyaGr/rapport/idag-08-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 10
         },
         {
           "id": "ecd928ff557c",
@@ -436,157 +636,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "3e8ab149ba89",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Lör 16 maj 19:30",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
-          "url": "https://www.svtplay.se/video/KBww4oB/rapport/lor-16-maj-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54172567/1778954106?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/KBww4oB/rapport/lor-16-maj-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "1c85fc5c6c81",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Fre 15 maj 19:30",
-          "summary": "Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet",
-          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
-          "url": "https://www.svtplay.se/video/KZxxzZB/rapport/fre-15-maj-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54171457/1778865836?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/KZxxzZB/rapport/fre-15-maj-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "e75cbc6b3c5f",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Tor 14 maj 19:30",
-          "summary": "Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa",
-          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
-          "url": "https://www.svtplay.se/video/8EqqAvv/rapport/tor-14-maj-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54166804/1778779446?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/8EqqAvv/rapport/tor-14-maj-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "97ec9d05c67e",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ons 13 maj 19:30",
-          "summary": "Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet",
-          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
-          "url": "https://www.svtplay.se/video/jqPPwd3/rapport/ons-13-maj-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54165499/1778693044?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/jqPPwd3/rapport/ons-13-maj-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "537ef86edbbd",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Mån 11 maj 19:30",
-          "summary": "Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro",
-          "body_text": "Nato: Sverige värd för ministermöte • Avrättningar: Högst antal på 44 år • Falskt eller äkta: DNA ska lösa konstgåtor Mer om programmet Ebolautbrottet: WHO utlyser nödläge • Indiens premiärminister: Besöker Göteborg • Supermikroskopet i Lund: Ska stå klart inom 2 år Mer om programmet Nyheter från Sverige och världen. Mer om programmet Kina-USA: Vänligt möte utan stora framsteg • Sveriges fregattaffär: Kritik från näringslivet • Sveriges VM-låt: Sågas på nätet Mer om programmet Trump möter Xi: Handel och Taiwan i fokus • Fåravel: Drömjobbet för Lisa Mer om programmet Regeringens krispaket: Drivmedelsskatten sänks • Peking: Världen följer toppmötet Mer om programmet Östrogen: Fortsatt brist på läkemedel • Ukrainakriget: Ryska soldater byter sida • Skåne: Torkan hotar årets rapsskörd Mer om programmet Sanktionsbrott: Svenska företagare gripna • Da Costa-fallet: Läkarna begär ersättning • Ekonomi: Uppåt på börsen trots oro Mer om programmet",
-          "url": "https://www.svtplay.se/video/jMyyAva/rapport/man-11-maj-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54154345/1778520230?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-17T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/jMyyAva/rapport/man-11-maj-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "cc6ecc806c17",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Radiokören i Reaktorhallen",
-          "summary": "Sveriges första kärnreaktor blev placerad 25 meter under jorden år 1954 på Kungliga tekniska högskolan i Stockholm. Den enda radioaktivitet som pågår i hallen i dag är när Radiokören och dirigent Peter Dijkstra kommer ner och spelar in en konsert. Musik av bland annat Schnittke, Poulenc och Lidholm. Och så lite svensk körlyrik förstås.",
-          "body_text": "Konsert med den klassiska musikens mest kända verk Sveriges första kärnreaktor blev placerad 25 meter under jorden år 1954 på Kungliga tekniska högskolan i Stockholm. Den enda radioaktivitet som pågår i hallen i dag är när Radiokören och dirigent Peter Dijkstra kommer ner och spelar in en konsert. Musik av bland annat Schnittke, Poulenc och Lidholm. Och så lite svensk körlyrik förstås.",
-          "url": "https://www.svtplay.se/video/e56v35j/radiokoren-i-reaktorhallen",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53346622/1762180311?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-11-21T01:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/e56v35j/radiokoren-i-reaktorhallen",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 9
+          "sort_order": 11
         }
       ]
     },
@@ -631,31 +681,6 @@
           "sort_order": 0
         },
         {
-          "id": "40b4bd563563",
-          "source_id": "svt-aktuellt",
-          "source_name": "Aktuellt",
-          "provider": "SVT Play",
-          "category": "Fordjupning",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Aktuellt – Ikväll 21:00",
-          "summary": "Ny ansökan: Vill bygga sex reaktorer i Gävle: Håller regeringens kärnkraftsplan? • Natos framtid: USA kan ta hem soldater • Elsparkcyklar: Ökning av allvarliga olyckor",
-          "body_text": "Ny ansökan: Vill bygga sex reaktorer i Gävle: Håller regeringens kärnkraftsplan? • Natos framtid: USA kan ta hem soldater • Elsparkcyklar: Ökning av allvarliga olyckor Mer om programmet Trump och Xi: Vem gick vinnande från mötet? • Liberalerna: Vill fördubbla antalet miljardärer • VM-låten: Kritik mot gammal refräng Mer om programmet Fem års vinstförbud: Debatt om friskolor • Trump i Kina: Vad händer i natt? • Internatskolan Lundsberg: Rasism, antisemitism och våld Mer om programmet Keir Starmer: Kämpar för sin politiska överlevnad • Keir Starmer: Kämpar för sin politiska överlevnad • Misstankarna mot Katja Nyberg: Så lagras drogrester i håret • Framtidens jobb: AI-nervositet hos studenter Mer om programmet Hantaviruset: Passagerare isoleras runt om i världen • Valtider: Sveriges lägsta valdeltagande • Putins utspel om ett krigsslut: Stor skepsis i Bryssel Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Sveriges politiker som du aldrig har sett dem förut",
-          "url": "https://www.svtplay.se/video/8y22MYp/aktuellt/ikvall-21-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54179926/1779130432?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-19T21:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8y22MYp/aktuellt/ikvall-21-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Fordjupning",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
           "id": "10e4ddae9745",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
@@ -678,7 +703,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 1
         },
         {
           "id": "f2d6a48b42bd",
@@ -703,7 +728,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 2
         },
         {
           "id": "8e65806efcaf",
@@ -728,7 +753,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 3
         },
         {
           "id": "bd76c1b45b1e",
@@ -745,6 +770,31 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/35812489/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-19T19:00:00Z",
           "embed_url": "https://www.svtplay.se/video/ep55NYD/aktuellt/imorgon-21-00",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Fordjupning",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "40b4bd563563",
+          "source_id": "svt-aktuellt",
+          "source_name": "Aktuellt",
+          "provider": "SVT Play",
+          "category": "Fordjupning",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Aktuellt – Ikväll 21:00",
+          "summary": "Ny ansökan: Vill bygga sex reaktorer i Gävle: Håller regeringens kärnkraftsplan? • Natos framtid: USA kan ta hem soldater • Elsparkcyklar: Ökning av allvarliga olyckor",
+          "body_text": "Ny ansökan: Vill bygga sex reaktorer i Gävle: Håller regeringens kärnkraftsplan? • Natos framtid: USA kan ta hem soldater • Elsparkcyklar: Ökning av allvarliga olyckor Mer om programmet Trump och Xi: Vem gick vinnande från mötet? • Liberalerna: Vill fördubbla antalet miljardärer • VM-låten: Kritik mot gammal refräng Mer om programmet Fem års vinstförbud: Debatt om friskolor • Trump i Kina: Vad händer i natt? • Internatskolan Lundsberg: Rasism, antisemitism och våld Mer om programmet Keir Starmer: Kämpar för sin politiska överlevnad • Keir Starmer: Kämpar för sin politiska överlevnad • Misstankarna mot Katja Nyberg: Så lagras drogrester i håret • Framtidens jobb: AI-nervositet hos studenter Mer om programmet Hantaviruset: Passagerare isoleras runt om i världen • Valtider: Sveriges lägsta valdeltagande • Putins utspel om ett krigsslut: Stor skepsis i Bryssel Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Sveriges politiker som du aldrig har sett dem förut",
+          "url": "https://www.svtplay.se/video/8y22MYp/aktuellt/ikvall-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54179926/1779130432?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-18T19:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8y22MYp/aktuellt/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -873,31 +923,6 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "c394749f82ee",
-          "source_id": "svt-sportnytt",
-          "source_name": "Sportnytt",
-          "provider": "SVT Play",
-          "category": "Sport",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sportnytt – Ikväll 21:46",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Graham Potters VM-trupp presenterad • Hammarby vann derbyt • Jim Gottfridsson bryter tystnaden Mer om programmet Isak Bjerkebos nya show – sänkte Örgryte • Talangerna med i Tre Kronors VM-trupp • Häcken vann damallsvenska toppmötet Mer om programmet Hammarby vann efter stopptidsmål • Ny masskrasch i Giro d'Italia • Albert Johansson var Tre Kronors gigant mot Schweiz Mer om programmet Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
-          "url": "https://www.svtplay.se/video/jLJJyJB/sportnytt/ikvall-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54180226/1779135146?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-19T06:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/jLJJyJB/sportnytt/ikvall-21-46",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Sport",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
           "id": "0655f3df4323",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
@@ -912,6 +937,31 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-19T04:45:00Z",
           "embed_url": "https://www.svtplay.se/video/jN33pp3/sportnytt/imorgon-06-45",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Sport",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "c394749f82ee",
+          "source_id": "svt-sportnytt",
+          "source_name": "Sportnytt",
+          "provider": "SVT Play",
+          "category": "Sport",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Sportnytt – Ikväll 21:46",
+          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Graham Potters VM-trupp presenterad • Hammarby vann derbyt • Jim Gottfridsson bryter tystnaden Mer om programmet Isak Bjerkebos nya show – sänkte Örgryte • Talangerna med i Tre Kronors VM-trupp • Häcken vann damallsvenska toppmötet Mer om programmet Hammarby vann efter stopptidsmål • Ny masskrasch i Giro d'Italia • Albert Johansson var Tre Kronors gigant mot Schweiz Mer om programmet Kristianstad löste Skånederby i SM-finalen i handboll • Inhoppande talangen frälste Elfsborg • Smygpremiär för Shakiras VM-låt Mer om programmet Borås säkrade historiskt SM-guld • Norrman ny längdtränare för herrarna • Jonna Sundling hoppar av landslaget Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/jLJJyJB/sportnytt/ikvall-21-46",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54180226/1779135146?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-18T19:46:00Z",
+          "embed_url": "https://www.svtplay.se/video/jLJJyJB/sportnytt/ikvall-21-46",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1749,20 +1799,20 @@
           "sort_order": 0
         },
         {
-          "id": "28014f0ba305",
+          "id": "c8ad7ce72b98",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Trump considering renewed military strikes on Iran | Fox News Video",
-          "summary": "Retired Marine Corps Gen. Arnold Punaro joins 'America Reports' to discuss President Donald Trump's contemplation of resumption of military strikes on Iran as tensions rise over demands.",
-          "body_text": "Retired Marine Corps Gen. Arnold Punaro joins 'America Reports' to discuss President Donald Trump's contemplation of resumption of military strikes on Iran as tensions rise over demands. Retired Marine Corps Gen. Arnold Punaro joins 'America Reports' to discuss President Donald Trump's potential renewed military actions against Iran and emphasizes the appropriate timing of operations.",
-          "url": "https://www.foxnews.com/video/6395955592112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05033e7d-9ec5-4b1a-b332-3a0bc903041b/cb0b3695-856b-4b77-8d2f-58e3c8286ce0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T18:29:59Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395955592112",
+          "title": "Will Cain: Mangione ‘fangirls’ granted press passes for hearing ‘glorify’ murder | Fox News Video",
+          "summary": "Fox News host Will Cain discusses the case against Luigi Mangione and a group of ‘fangirls’ being granted press passes for a hearing on ‘The Will Cain Show.’",
+          "body_text": "Fox News host Will Cain discusses the case against Luigi Mangione and a group of ‘fangirls’ being granted press passes for a hearing on ‘The Will Cain Show.’",
+          "url": "https://www.foxnews.com/video/6395971391112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3a68fa0-95c3-4f94-a4db-b80c4aa03779/ee397314-2de9-4ae4-b651-2ec62467b542/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T21:07:42Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395971391112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1774,20 +1824,20 @@
           "sort_order": 1
         },
         {
-          "id": "7063e78a493e",
+          "id": "39aa19c1338f",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Verdict reached in Elon Musk-Open AI trial | Fox News Video",
-          "summary": "Fox News co-anchor John Roberts has the latest on the decision following the intense three-week trial on 'America Reports.'",
-          "body_text": "Fox News co-anchor John Roberts has the latest on the decision following the intense three-week trial on 'America Reports.'",
-          "url": "https://www.foxnews.com/video/6395957539112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec1b7335-afd9-47d5-b6f4-86298236f176/73bb9c5d-24a2-4ac0-93f7-d0d8f8644e5b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T18:15:47Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395957539112",
+          "title": "Trump halts planned military attack against Iran | Fox News Video",
+          "summary": "White House principal deputy press secretary Anna Kelly discusses President Donald Trump's decision to put off a planned military attack on Iran on 'The Story.'",
+          "body_text": "White House principal deputy press secretary Anna Kelly discusses President Donald Trump's decision to put off a planned military attack on Iran on 'The Story.'",
+          "url": "https://www.foxnews.com/video/6395969822112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05a1a054-def3-4625-9890-77a5c9a5b3be/ceb94ea9-34a7-4d68-ac26-dfd2f3fc8961/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T21:06:39Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395969822112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1799,20 +1849,20 @@
           "sort_order": 2
         },
         {
-          "id": "02f8a3ea7534",
+          "id": "b473c7cf33de",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Trump-backed Gallrein blasts Massie as 'misrepresentative,' defends record ahead of Kentucky primary | Fox News Video",
-          "summary": "Kentucky congressional candidate Ed Gallrein discusses his heated primary race against incumbent Thomas Massie. Gallrein accuses Massie of betraying President Trump and the district, while Massie labels Gallrein a 'never Trumper.'",
-          "body_text": "Kentucky congressional candidate Ed Gallrein discusses his heated primary race against incumbent Thomas Massie. Gallrein accuses Massie of betraying President Trump and the district, while Massie labels Gallrein a 'never Trumper.' Kentucky congressional candidate Ed Gallrein explains why he is challenging incumbent Thomas Massie in what is now the most expensive primary race in history. Gallrein asserts Massie 'betrayed' President Trump by blocking his economic, tax and border security agendas. The Trump-backed candidate highlights conservative support against Massie's perceived alliances with radical Democrats.",
-          "url": "https://www.foxnews.com/video/6395954953112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91766376-8d05-417f-a323-8e79fa09d17e/11784734-9fd8-46bd-bf27-4451a0b1b0bf/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T17:32:10Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395954953112",
+          "title": "Firefighters have ‘all the resources’ needed to combat Simi Valley fire, PIO says | Fox News Video",
+          "summary": "Ventura County Fire Department PIO Andrew Dowd discusses a brush fire burning in Simi Valley, California, and the response from firefighters on ‘The Will Cain Show.’",
+          "body_text": "Ventura County Fire Department PIO Andrew Dowd discusses a brush fire burning in Simi Valley, California, and the response from firefighters on ‘The Will Cain Show.’",
+          "url": "https://www.foxnews.com/video/6395971160112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b9f5f26-0fc8-49ac-a070-e7fe9abd0e7d/98763410-3403-42d2-a2bf-0373c3a9f5c4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T20:56:11Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395971160112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1824,20 +1874,20 @@
           "sort_order": 3
         },
         {
-          "id": "4bcd3f3e1e5f",
+          "id": "6dbf5d753257",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Cuba acquires 300+ attack drones as tensions with US rise: report | Fox News Video",
-          "summary": "Alpha Wave Global President Francis Suarez discusses concerns over a potential Cuban drone threat and the country’s worsening economic crisis on ‘The Faulkner Focus.’",
-          "body_text": "Alpha Wave Global President Francis Suarez discusses concerns over a potential Cuban drone threat and the country’s worsening economic crisis on ‘The Faulkner Focus.’ Francis Suarez, President of Alpha Wave Global, emphasizes the serious nature of Cuba acquiring 300+ attack drones from Russia and Iran, despite its internal energy crisis. He highlights Cuba's long history of collaborating with US enemies like China and Russia, using Cuba as a spy base just 90 miles from US soil. Suarez advocates for continued pressure on the Cuban regime.",
-          "url": "https://www.foxnews.com/video/6395951720112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af66a531-1a7c-4183-bb06-547eed1d99bb/09114d25-b404-4e5d-abc9-ae74bef185e8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T17:14:37Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395951720112",
+          "title": "Trump says he's not open to concessions to Iran | Fox News Video",
+          "summary": "Fox News chief foreign correspondent Trey Yingst reports on President Donald Trump's unwavering stance on Iran, emphasizing that he is not open to concessions, on 'The Story.'",
+          "body_text": "Fox News chief foreign correspondent Trey Yingst reports on President Donald Trump's unwavering stance on Iran, emphasizing that he is not open to concessions, on 'The Story.'",
+          "url": "https://www.foxnews.com/video/6395964971112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7dbda85e-be80-4ba3-bc56-abf69272f29e/41b97824-afa9-418a-9ba7-640be72e46f5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T20:44:53Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395964971112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1849,20 +1899,20 @@
           "sort_order": 4
         },
         {
-          "id": "def82a51f51c",
+          "id": "d9657f49108f",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "NY judge blocks some Luigi Mangione backpack evidence | Fox News Video",
-          "summary": "A New York State Supreme Court Justice has tossed out some evidence against Luigi Mangione, accused of United Healthcare CEO Brian Thompson's murder. The judge ruled Mangione's backpack was not in his immediate control during a police search.",
-          "body_text": "A New York State Supreme Court Justice has tossed out some evidence against Luigi Mangione, accused of United Healthcare CEO Brian Thompson's murder. The judge ruled Mangione's backpack was not in his immediate control during a police search. The ongoing murder case against Luigi Mangione sees a New York State Supreme Court Justice suppress certain evidence from his backpack, including a magazine and computer chip. The judge ruled the backpack was not in Mangione's \"immediate grabable area\" during the Altoona Police search. Notably, the gun, silencer, and notebook manifesto remain admissible evidence in the trial for United Healthcare CEO Brian Thompson's killing.",
-          "url": "https://www.foxnews.com/video/6395952134112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77ffa8a0-0c51-4b15-9084-1483afc2f393/1baf1ea9-4152-47c4-8050-d20417e1b12b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T17:02:19Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395952134112",
+          "title": "Law enforcement responds to active shooter situation at Calif Islamic center, investigation begins | Fox News Video",
+          "summary": "Fox News chief correspondent Jonathan Hunt has the latest on the situation on 'The Will Cain Show.'",
+          "body_text": "Fox News chief correspondent Jonathan Hunt has the latest on the situation on 'The Will Cain Show.'",
+          "url": "https://www.foxnews.com/video/6395964067112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6520461-07ec-4c30-8802-e78a6c4103ef/3d848516-81bc-48b9-b596-e1bb23e68802/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T20:42:10Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395964067112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1874,20 +1924,20 @@
           "sort_order": 5
         },
         {
-          "id": "36c0bb388fa4",
+          "id": "c9a5f19ccdea",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Lt. Col. Darin Gaub on military options, Russia, China and Iran's blockade bypass | Fox News Video",
-          "summary": "Lt. Col. Darin Gaub discusses potential U.S. military action against Iran, emphasizing airpower over ground troops. He analyzes Russia's threats to NATO and Ukraine from Belarus and Iran's new rail link with China to bypass U.S.",
-          "body_text": "Lt. Col. Darin Gaub discusses potential U.S. military action against Iran, emphasizing airpower over ground troops. He analyzes Russia's threats to NATO and Ukraine from Belarus and Iran's new rail link with China to bypass U.S. Retired U.S. Army Lt. Col. Darin Gaub offers strategic insights on potential U.S. military options against Iran, advocating for limited air strikes without \"boots on the ground.\" Gaub also details the broader geopolitical landscape, including Russia's increasing military presence in Belarus threatening NATO, and Iran's new cargo rail link with China, intended to circumvent the U.S. naval blockade in the Persian Gulf.",
-          "url": "https://www.foxnews.com/video/6395950067112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd1c1b42-ddb3-46ce-8851-0afb3bd6065b/e41125dc-4683-4f17-8f41-d04454931903/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T17:01:31Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395950067112",
+          "title": "Trump says Iran knows what's going to happen soon as military options weighed | Fox News Video",
+          "summary": "Rep. Brian Mast, R-Fla., analyzes President Donald Trump’s Iran ultimatum, saying the ‘clock is ticking’ for a deal as economic pressure mounts on ‘America Reports.’",
+          "body_text": "Rep. Brian Mast, R-Fla., analyzes President Donald Trump’s Iran ultimatum, saying the ‘clock is ticking’ for a deal as economic pressure mounts on ‘America Reports.’",
+          "url": "https://www.foxnews.com/video/6395963816112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1552324d-890c-4ba4-8595-eb09ab06b2da/d499ba59-6982-41a9-90c2-51bdfaf63753/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T20:16:34Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395963816112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1899,20 +1949,20 @@
           "sort_order": 6
         },
         {
-          "id": "6f9d46033fd5",
+          "id": "144b9027e33f",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Expert criticizes Iran’s ‘illusion of diplomacy,’ efforts to prolong conflict with US | Fox News Video",
-          "summary": "Former Special Representative for Iran Brian Hook discusses Iran’s deepening economic crisis amid the U.S. blockade of the Strait of Hormuz on ‘America’s Newsroom.’",
-          "body_text": "Former Special Representative for Iran Brian Hook discusses Iran’s deepening economic crisis amid the U.S. blockade of the Strait of Hormuz on ‘America’s Newsroom.’ Former Special Representative for Iran Brian Hook details Iran's severe economic crisis, including reports from an Iranian mechanic about disrupted business and migration due to war and sanctions. Hook outlines the US strategy to counter Iran's 'deception and delay,' aiming to pressure the regime to negotiate before it restarts military action.",
-          "url": "https://www.foxnews.com/video/6395948994112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea13e65f-cfd2-4670-b19a-1802c6c2e398/a4e4447e-3dc4-4da0-b1b4-010667fc8c40/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T16:40:47Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395948994112",
+          "title": "Trump says he was asked to hold off on military operations against Iran scheduled for Tuesday | Fox News Video",
+          "summary": "Panelists Brent Sadler and Mark Watherington discuss Iran’s activated air defenses and President Donald Trump being instructed to hold off on a planned attack on ‘The Story.’",
+          "body_text": "Panelists Brent Sadler and Mark Watherington discuss Iran’s activated air defenses and President Donald Trump being instructed to hold off on a planned attack on ‘The Story.’",
+          "url": "https://www.foxnews.com/video/6395961622112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6599a383-228a-49a6-8331-ec26be8ed8b1/a0d2481c-51f4-455a-b172-5d484e32a07a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T20:10:58Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395961622112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1924,20 +1974,20 @@
           "sort_order": 7
         },
         {
-          "id": "f8364ea69d07",
+          "id": "15ea5adba58f",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Kat Cammack reacts to feds thwarting global antisemitic terror plot | Fox News Video",
-          "summary": "Rep. Kat Cammack, R-Fla., discusses the global antisemitic terror plot linked to Iran, emphasizing Iran's role in exporting terror through proxy networks. Cammack highlights concerns about terror cells operating in the U.S.",
-          "body_text": "Rep. Kat Cammack, R-Fla., discusses the global antisemitic terror plot linked to Iran, emphasizing Iran's role in exporting terror through proxy networks. Cammack highlights concerns about terror cells operating in the U.S. Rep. Kat Cammack, R-Fla., discusses the global antisemitic terror plot, stating Iran exports terror via proxy networks, driving 'deliberate chaos' globally. Cammack highlights Iran's alleged use of Venezuela to smuggle terror cells into the U.S. through an open border, posing a significant threat to Jewish communities. She stresses the need for international cooperation to dismantle Iran's regime and combat antisemitism.",
-          "url": "https://www.foxnews.com/video/6395950568112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/610531e5-0a00-428b-a1e9-0bc53db2515d/cb3484ff-b92e-408f-a76b-0008aa904fbd/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T16:33:27Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395950568112",
+          "title": "American Petroleum Institute CEO: We have to get the Strait open as quickly as possible | Fox News Video",
+          "summary": "American Petroleum Institute CEO Mike Sommers discusses oil supply amid the Iranian conflict on 'America Reports.'",
+          "body_text": "American Petroleum Institute CEO Mike Sommers discusses oil supply amid the Iranian conflict on 'America Reports.'",
+          "url": "https://www.foxnews.com/video/6395962022112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5b0f3a4-713d-422d-a1d2-ed9c9b66417f/1c7629aa-f212-45b2-9916-184f5113db85/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T20:08:39Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395962022112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1949,20 +1999,20 @@
           "sort_order": 8
         },
         {
-          "id": "228c1185f305",
+          "id": "bd65e066ef40",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "California trans athlete podium controversy sparks backlash | Fox News Video",
-          "summary": "OutKick contributor Riley Gaines discusses female high school athletes speaking out after a transgender participant won multiple events at a California track meet on ‘Fox & Friends.’",
-          "body_text": "OutKick contributor Riley Gaines discusses female high school athletes speaking out after a transgender participant won multiple events at a California track meet on ‘Fox & Friends.’",
-          "url": "https://www.foxnews.com/video/6395940428112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e6fe6b0-a158-4b12-a93a-07a9a0de1560/46199df3-587e-4aa1-afea-55fa93e31999/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T16:06:43Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395940428112",
+          "title": "Shooting at Islamic center of San Diego 'active but contained,' police say | Fox News Video",
+          "summary": "Fox News’ Jonathan Hunt and Paul Mauro discuss the shooting at the Islamic Center of San Diego that police describe as active but contained on ‘The Story.’",
+          "body_text": "Fox News’ Jonathan Hunt and Paul Mauro discuss the shooting at the Islamic Center of San Diego that police describe as active but contained on ‘The Story.’",
+          "url": "https://www.foxnews.com/video/6395963607112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/318811bc-0395-4b8e-b90a-55ff658d02f3/dfdbd62e-cebc-4654-88cb-9c7cb8bfa8c2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T20:04:51Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395963607112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1974,20 +2024,20 @@
           "sort_order": 9
         },
         {
-          "id": "f10bd828591a",
+          "id": "9657587092a5",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Mangione trial judge allows gun, notebook as evidence | Fox News Video",
-          "summary": "Eric Shawn reports after a New York City judge allowed a gun and a red notebook as evidence in the trial of Luigi Mangione, while suppressing other evidence from a warrantless search in the accused of killing United Healthcare CEO Brian Thompson.",
-          "body_text": "Eric Shawn reports after a New York City judge allowed a gun and a red notebook as evidence in the trial of Luigi Mangione, while suppressing other evidence from a warrantless search in the accused of killing United Healthcare CEO Brian Thompson. A New York State judge ruled on key evidence for the trial of Luigi Mangione, accused of killing United Healthcare CEO Brian Thompson. The judge allowed the alleged murder weapon and Mangione's red notebook, found at the police station, to be admitted. However, evidence from an improper, warrantless search of Mangione's backpack at McDonald's, including a gun magazine, cellphone and passport was suppressed.",
-          "url": "https://www.foxnews.com/video/6395947173112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05ed4940-ef61-4d87-b94e-45bfc860fba3/81c7c4d7-5cf0-4cdc-b63f-b6369febd861/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-18T16:00:18Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395947173112",
+          "title": "Iran-linked proxy commander arrested for allegedly targeting Jewish institutions | Fox News Video",
+          "summary": "Former FBI special agent Nicole Parker discusses the arrest of an Iraqi national for allegedly plotting attacks on Jewish institutions in the U.S. on ‘America Reports.’",
+          "body_text": "Former FBI special agent Nicole Parker discusses the arrest of an Iraqi national for allegedly plotting attacks on Jewish institutions in the U.S. on ‘America Reports.’",
+          "url": "https://www.foxnews.com/video/6395964790112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44406ecd-c8d5-47fb-9ed9-9a38ffa31365/ba416cff-4bd6-412f-8c32-4738ba338965/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-18T19:59:42Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395964790112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2099,20 +2149,20 @@
           "sort_order": 14
         },
         {
-          "id": "2ac72c33df56",
+          "id": "c730e5e966f1",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "The Faulkner Focus - Monday, May 18 | Fox News Video",
-          "summary": "Faulkner Focus, Harris Faulkner, Iran, Mangione, Navy, Midair tragedy",
-          "body_text": "Faulkner Focus, Harris Faulkner, Iran, Mangione, Navy, Midair tragedy Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis.",
-          "url": "https://www.foxnews.com/video/6395956145112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/82eb7724-ac17-4e4d-a069-ec2d8c00129a/6bb40318-3045-449d-8aa0-8e01181ab913/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-18T18:02:23Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395956145112",
+          "title": "Outnumbered - Monday, May 18 | Fox News Video",
+          "summary": "luigi mangione, alex murdaugh, teen brawls",
+          "body_text": "luigi mangione, alex murdaugh, teen brawls",
+          "url": "https://www.foxnews.com/video/6395970332112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/cfebc643-aeb4-4227-bebe-7a60dfc0d42a/3ca50a0e-ddd2-4c8f-b964-e09fac089d49/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-05-18T21:16:43Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6395970332112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2141,6 +2191,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "140a9f2c79b9",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Afghanistan humanitarian crisis: Ghor's starving families",
+          "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+          "body_text": "As dawn breaks, hundreds of men gather at a dusty square in Chaghcharan, the capital of Ghor province in Afghanistan. They line the roadside hoping someone will come along offering any work. It will determine whether their families eat that day. The likelihood of success, however, is low. Juma Khan, 45, has found just three days of work in the past six weeks that paid between 150 to 200 Afghani ($2.35-$3.13; £1.76-£2.34) per day. \"My children went to bed hungry three nights in a row. My wife was crying, so were my children. So I begged a neighbour for some money to buy flour,\" he says. \"I live in fear that my children will die of hunger.\" Warning: This article contains distressing details In Afghanistan today, a staggering three in four people cannot meet their basic needs, according to the UN. Unemployment is rife, healthcare struggling and the aid that once provided the basics for millions has dwindled to a fraction of what it once was. The country is now facing record levels of hunger, with 4.7 million - more than a tenth of Afghanistan's population - estimated to be one step away from famine. Ghor is one of the worst-affected provinces. \"I got a call saying my children hadn't eaten for two days,\" says Rabani, his voice choking up. \"I felt like I should kill myself. But then I thought how will that help my family? So here I am looking for work.\"",
+          "url": "https://www.bbc.com/news/articles/c0q25dwj807o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/76e2/live/d082b8f0-52cc-11f1-b4b8-8bc40cabb834.jpg",
+          "published_at": "2026-05-18T21:09:07Z",
+          "embed_url": "https://www.bbc.com/news/articles/c0q25dwj807o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "a32c9a76fdde",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2150,7 +2224,7 @@
           "source_kind": "mixed",
           "title": "Trump says he called off new Iran attack at request of Gulf states",
           "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
-          "body_text": "US President Donald Trump has said he is holding off a military attack on Iran planned for Tuesday at the request of Gulf states as \"serious negotiations are now taking place\". In a post on Truth Social, he said he had been asked to do so by the leaders of Qatar, Saudi Arabia and the United Arab Emirates. Trump said he had been informed that a deal would be made that is \"very acceptable\" to the US, adding that there would be \"NO NUCLEAR WEAPONS FOR IRAN!\" But he warned that the US military would be prepared to \"go forward with a full, large scale assault of Iran, on a moment's notice\" if there was no acceptable deal reached. Iran has not publicly commented on Trump's latest statement. Over the weekend, Trump had warned Tehran that the \"clock is ticking\" as talks to bring the war to an end stalled. Israeli and US forces began massive air strikes on Iran on 28 February, while Tehran retaliated by firing drones and missiles at Israel and US targets in countries across the Gulf. A ceasefire agreed in April meant to facilitate talks has largely been observed despite occasional exchanges of fire. Iran has also continued to control the Strait of Hormuz, effectively closing the vital waterway through which around 20% of the world's oil and liquefied natural gas travels. The move, which Iran has said is in retaliation for US and Israeli attacks, has sent oil prices soaring globally. The US, for its part, has been enforcing a blockade of Iranian ports to exert pressure on Tehran to agree to its terms.",
+          "body_text": "US President Donald Trump has said he is holding off a military attack on Iran planned for Tuesday at the request of Gulf states as \"serious negotiations are now taking place\". In a post on Truth Social, he said he had been asked to do so by the leaders of Qatar, Saudi Arabia and the United Arab Emirates. Trump said he had been informed that a deal would be made that is \"very acceptable\" to the US, adding that there would be \"NO NUCLEAR WEAPONS FOR IRAN!\" But he warned that the US military would be prepared to \"go forward with a full, large scale assault of Iran, on a moment's notice\" if there was no acceptable deal reached. Iran has not publicly commented on Trump's latest statement. Israeli and US forces began massive air strikes on Iran on 28 February, while Tehran retaliated by firing drones and missiles at Israel and US targets in countries across the Gulf. A ceasefire agreed in April meant to facilitate talks has largely been observed despite occasional exchanges of fire. Iran has also continued to control the Strait of Hormuz, effectively closing the vital waterway through which around 20% of the world's oil and liquefied natural gas travels. The move, which Iran has said is in retaliation for US and Israeli attacks, has sent oil prices soaring globally. The US, for its part, has been enforcing a blockade of Iranian ports to exert pressure on Tehran to agree to its terms. Trump's latest announcement on Iran comes amid a drop in his approval rating and as polls show the war is increasingly unpopular at home. Some 64 percent of voters believe it was the wrong decision to go to war with Iran, according to a New York Times/Siena poll published on Monday.",
           "url": "https://www.bbc.com/news/articles/c7079e55zjro",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e7f0/live/35981a80-52f2-11f1-93ce-6b7334a653b8.jpg",
           "published_at": "2026-05-18T19:24:34Z",
@@ -2162,7 +2236,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "e3190fcfd9eb",
@@ -2174,7 +2248,7 @@
           "source_kind": "mixed",
           "title": "Musk loses OpenAI court battle as he waited too long to sue",
           "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
-          "body_text": "A California jury has tossed out Elon Musk's high-profile lawsuit against OpenAI and its boss Sam Altman. In a unanimous verdict, the jury agreed that Musk had waited too long to file his lawsuit, leaving all of his claims essentially expired. Musk had accused Altman of breaching a non-profit contract by shifting the ChatGPT-maker to a for-profit company after Musk donated $38m (£28.5m) early in OpenAI's history. Musk claimed Altman had deceived him by accepting his money and then reneging on OpenAI's original non-profit mission to develop artificial intelligence (AI) technology for the benefit of humanity. Jurors spent just about two hours on Monday deliberating on the case, but they had spent three weeks viewing internal correspondence and hearing testimony from Musk, Altman, and other tech industry executives like Microsoft's chief executive Satya Nadella. Musk had accused Microsoft of aiding and abetting OpenAI in its allegedly improper transition to a more for-profit company. Musk's other claims against Microsoft were dismissed as a matter of law given the jury's findings on the two claims against OpenAI. The jury's decision adds to a string of recent losses and settlements for Musk in court. Carl Tobias, a law professor and chair at the University of Richmond School of Law, said that the jurors made a \"very fact-based decision\" about the case. \"This case seemed kind of weird and crazy, but this is why we trust juries, because they bring the common sense of the community to resolve factual disputes,\" Tobias said. On the trial's first day, Musk took the stand wearing a dark suit and tie and was asked by one of his lawyers what the legal action was about. \"It's actually very simple,\" he said. \"It's not OK to steal a charity... If it's okay to loot a charity, the entire foundation of charitable giving will be destroyed.\"",
+          "body_text": "A California jury has tossed out Elon Musk's high-profile lawsuit against OpenAI and its boss Sam Altman. In a unanimous verdict, the jury agreed that Musk had waited too long to file his lawsuit, leaving all of his claims essentially expired. Musk had accused Altman of breaching a non-profit contract by shifting the ChatGPT-maker to a for-profit company after Musk donated $38m (£28.5m) early in OpenAI's history. Musk claimed Altman had deceived him by accepting his money and then reneging on OpenAI's original non-profit mission to develop artificial intelligence (AI) technology for the benefit of humanity. Jurors spent just about two hours on Monday deliberating on the case, but they had spent three weeks viewing internal correspondence and hearing testimony from Musk, Altman, and other tech industry executives like Microsoft's chief executive Satya Nadella. Musk had accused Microsoft of aiding and abetting OpenAI in its allegedly improper transition to a more for-profit company. Musk's other claims against Microsoft were dismissed as a matter of law given the jury's findings on the two claims against OpenAI. A spokesperson for Microsoft said of the verdict that: \"The facts and the timeline in this case have long been clear.\" The company added that it remains committed to its work with OpenAI. The jury's decision adds to a string of recent losses and settlements for Musk in court. Within a few hours of the jury verdict, Musk criticised the decision against him in the OpenAI case, writing on X that it created \"a free license to loot charities if you can keep the looting quiet for a few years!\" He also accused the judge overseeing the case of being a \"terrible activist\" who used the jury \"as a fig leaf.\"",
           "url": "https://www.bbc.com/news/articles/cewpyv79pw1o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg",
           "published_at": "2026-05-18T17:40:12Z",
@@ -2186,7 +2260,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "007c16a00cd1",
@@ -2210,7 +2284,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "ee76e6c15067",
@@ -2234,7 +2308,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "5c2b982ca700",
@@ -2251,30 +2325,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a55c/live/2dd10fb0-52b5-11f1-8340-4151f348d713.jpg",
           "published_at": "2026-05-18T14:51:53Z",
           "embed_url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "32418b9ab34f",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
-          "summary": "The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers.",
-          "body_text": "Former Google CEO Eric Schmidt was booed by students as he spoke about the rise of artificial intelligence during his speech at University of Arizona's graduation ceremony, underscoring growing anxiety over AI's impact on jobs. \"I know what many of you are feeling about that. I can hear you,\" Schmidt told graduates as jeers rang out at the venue during remarks comparing today's AI boom to the rise of computers four decades ago. The reaction reflects a broader unease on campuses, where speakers who mention AI are increasingly being met with hostility from students. A recent poll suggests many students view AI as both a threat to their future and an obstacle to their intellectual development. Speaking to graduates about to enter the workforce, Schmidt conceded that their fears about AI were \"rational\" but urged the crowd to adapt to the sprawling technology as \"AI will shape the world\". He urged the graduates to think about how they will shape AI. \"The future is not yet finished. It is now your turn to shape it,\" he said. Schmidt is not alone in drawing backlash over the issue. Gloria Caulfield, a real estate executive, saw a similar reception earlier this month at the University of Central Florida. \"The rise of artificial intelligence is the next industrial revolution,\" she said as the crowd booed. At the mention of AI at Middle Tennessee State University commencement, Scott Borchetta, CEO of Big Machine Records, was also met with jeers. His response to graduates: \"Deal with it, like I said, it's a tool.\"",
-          "url": "https://www.bbc.com/news/articles/ce8pqd54qneo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5450/live/4a05dbe0-52cc-11f1-89a3-d1f559421220.jpg",
-          "published_at": "2026-05-18T14:22:22Z",
-          "embed_url": "https://www.bbc.com/news/articles/ce8pqd54qneo",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2318,7 +2368,7 @@
           "source_kind": "mixed",
           "title": "Shakira hits out after winning £50m Spanish tax refund",
           "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
-          "body_text": "A Spanish court has ordered the country's tax authority to refund €55m (£48m, $64m) to singer Shakira after ruling that the money was improperly collected in a dispute over her taxes. The national high court has acquitted the Colombian singer of tax fraud and ordered the Treasury to repay the money plus interest to her. It said tax authorities had failed to prove she spent 183 days in Spain in 2011 - the minimum required for residents to pay personal income tax there. Shakira said the court had \"finally set the record straight\" after she had spent eight years \"enduring brutal public targeting, orchestrated campaigns to destroy my reputation, and sleepless nights that ultimately impacted my health and my family's well-being\". The 49-year-old star, who is known for hits like Hips Don't Lie and Wherever, Whenever, added: \"There was never any fraud, and the Administration itself could never prove otherwise, simply because it wasn't true. \"Yet, for nearly a decade, I was treated as guilty. Every step of the process was leaked, distorted, and amplified, using my name and public image to send a threatening message to the rest of the taxpayers. \"Today, that narrative crumbles, and it does so with the full force of a court ruling.\" The repayment includes about €24m (£21m) in income tax and almost €25m (£22m) in fines for what authorities had described as a \"very serious\" infringement. The tax agency said it would appeal to the Supreme Court and that no payment would be made until the final ruling. Shakira lived with former Barcelona and Spain footballer Gerard Pique for more than a decade after reportedly meeting in 2010 while filming the music video for Waka Waka, the official song of the World Cup in South Africa. The High Court said the fines were unlawful because they relied on the assumption that Spain was her tax residence for the 2011 fiscal year, \"a fact which has not been proven\". The court said the singer spent 163 days in Spain in that financial year - 20 days short of the threshold for her to be classed as a resident for tax purposes.",
+          "body_text": "A Spanish court has ordered the country's tax authority to refund €55m (£48m, $64m) to singer Shakira after ruling that the money was improperly collected in a dispute over her taxes. The national high court has acquitted the Colombian singer of tax fraud and ordered the Treasury to repay the money plus interest to her. It said tax authorities had failed to prove she spent 183 days in Spain in 2011 - the minimum required for residents to pay personal income tax there. Shakira said the court had \"finally set the record straight\" after she had spent eight years \"enduring brutal public targeting, orchestrated campaigns to destroy my reputation, and sleepless nights that ultimately impacted my health and my family's well-being\". The repayment includes about €24m (£21m) in income tax and almost €25m (£22m) in fines for what authorities had described as a \"very serious\" infringement. The tax agency said it would appeal to the Supreme Court and that no payment would be made until the final ruling. The 49-year-old star lived with former Barcelona and Spain footballer Gerard Pique for more than a decade after reportedly meeting in 2010 while filming the music video for Waka Waka (This Time for Africa), the official song of the World Cup in South Africa. The High Court said the fines were unlawful because they relied on the assumption that Spain was her tax residence for the 2011 fiscal year, \"a fact which has not been proven\". The court said the singer spent 163 days in Spain in that financial year - 20 days short of the threshold for her to be classed as a resident for tax purposes. The case does not involve the tax years after 2011. It was one of several cases involving Shakira - who is known for hits like Hips Don't Lie and Wherever, Whenever - to have been brought by Spain's tax agency. In 2023, she reached a deal with Spanish prosecutors to settle a separate tax fraud case covering the years 2012-2014, just as she was set to go on trial.",
           "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0ba5/live/0a252770-52a3-11f1-9ab8-af14435162fc.jpg",
           "published_at": "2026-05-18T11:58:54Z",
@@ -2381,30 +2431,6 @@
           "sort_order": 9
         },
         {
-          "id": "95898c3f76d6",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
-          "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
-          "body_text": "Pro-Palestinian activists say Israeli forces have intercepted a flotilla of more than 50 boats carrying aid for Gaza in international waters west of Cyprus. The Global Sumud Flotilla (GSF) said its fleet was boarded in what it called \"another illegal, high-seas aggression\" about 250 nautical miles (460km) from Gaza, which is under an Israeli maritime blockade. Its video stream showed commandos climbing onto several boats. Israel's Prime Minister Benjamin Netanyahu said the raid was \"effectively neutralizing a malicious plan designed to break the isolation we have imposed on Hamas terrorists in Gaza\". Last month, Israeli forces intercepted 22 boats from the same flotilla near Crete. In that incident, 181 activists on board were detained, all but two of whom were released on the Greek island the next day following widespread international condemnation. Spanish national Saif Abu Keshek and Brazilian national Thiago Ávila were taken back to Israel for questioning and deported after spending 10 days in custody. The flotilla's remaining boats then sailed to the Turkish port of Marmaris, where 54 boats departed last Thursday and headed south-east towards Gaza. More than 460 activists from 45 countries were said to be taking part. Just after 10:30 in Cyprus (07:30 GMT) on Monday, live video broadcast on the GSF's website showed commandos on a raiding craft approaching a sailboat, then boarding it as the passengers raised their hands. \"Military vessels are currently intercepting our fleet and [Israeli] forces are boarding the first of our boats in broad daylight,\" the GSF's organisers said in a statement. \"We demand safe passage for our legal, non-violent humanitarian mission,\" it added. \"Governments must act now to stop these illegal acts or piracy meant to maintain Israel's genocidal siege on Gaza.\" On Monday afternoon, the organisers announced that Israeli forces had so far intercepted 16 vessels in the flotilla. Some two dozen Turkish nationals were on board the intercepted vessels, they said.",
-          "url": "https://www.bbc.com/news/articles/c142vz80553o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/80c5/live/7f0ac710-529a-11f1-b14c-031b0f963228.jpg",
-          "published_at": "2026-05-18T10:00:47Z",
-          "embed_url": "https://www.bbc.com/news/articles/c142vz80553o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
-          "sort_order": 10
-        },
-        {
           "id": "81b67385cf88",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2426,7 +2452,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 11
+          "sort_order": 10
         },
         {
           "id": "8a2bc3735a65",
@@ -2450,7 +2476,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 12
+          "sort_order": 11
         },
         {
           "id": "5374f75213d9",
@@ -2474,6 +2500,30 @@
             "BBC"
           ],
           "is_live": true,
+          "sort_order": 12
+        },
+        {
+          "id": "3036479c8cb4",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Goa: Why foreign tourists are turning away from India's party capital",
+          "summary": "Foreign visitors to Goa have nearly halved from their pre-Covid peak even as domestic tourism is booming.",
+          "body_text": "It is just past noon at the crescent-shaped Palolem beach on the southern tip of Goa's long, sandy coastline. The sun is blinding hot, but that has not deterred the tourist hordes from splashing about in the ocean. The beachside shacks and cheap backpacker hotels hugging the bay in the state often dubbed India's party capital are full with tourists. What's different here from some years ago, though, is that the Europeans and Russians who once thronged Palolem and other beach villages of Goa are missing. The crowd is almost all local, a reflection of the diminishing appeal of this tiny coastal state among foreign tourists. The abundance of domestic visitors, on the other hand, shows that its lure has grown among people from far-flung corners of the country. Numbers released by Goa's tourism department underscore these trends. Nearly 900,000 foreigners visited the state in 2017. By 2025, the number had fallen to around half a million. The number of domestic tourists, on the other hand, grew from 6.8 million in 2016 to more than 10 million last year. The state's tourism department recently said that the global geopolitical situation has been affecting overseas flows. \"We have to remain both pessimistic and optimistic while planning ahead,\" Rohan Khaunte, Goa's tourism minister told a local outlet. But the decline in numbers predates the recent conflict, which begs the question: why are foreign visitors, who've patronised the relaxed budget getaway since the hippie heyday of the 1960s and 1970s, now turning away? \"People are just hard up. There was Covid and then the war [with Ukraine] and now flights are so expensive because of what's happening in the Middle East - so money is definitely a factor,\" says Sophie, a ballet dancer from Russia who is on her fifth trip here. \"Some of my friends are choosing Turkey or Egypt over Goa this year because its closer to home and cheaper.\" Rico, who's been visiting for the last 20 years from Newcastle, feels the same way about European visitors.",
+          "url": "https://www.bbc.com/news/articles/cy827p9lg03o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ec91/live/2dc4eaa0-5058-11f1-82d0-dba52fc3f32a.jpg",
+          "published_at": "2026-05-16T23:08:06Z",
+          "embed_url": "https://www.bbc.com/news/articles/cy827p9lg03o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
           "sort_order": 13
         }
       ]
@@ -2574,6 +2624,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "5d436aa392ea",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-18T20:30:08Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2acc76532618",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2597,7 +2673,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "4205044fb519",
@@ -2623,7 +2699,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "8894b6902108",
@@ -2649,7 +2725,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "6bdc88e5fe2a",
@@ -2675,7 +2751,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "a6da42fbb99a",
@@ -2697,32 +2773,6 @@
           "tags": [
             "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
             "Vida social",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "5d436aa392ea",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Paso a paso para hacer que El Comercio aparezca primero en tus búsquedas de Google",
-          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
-          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
-          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-18T16:18:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
-            "Cómo",
             "Senaste",
             "El Comercio"
           ],
@@ -2851,6 +2901,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "5d436aa392ea",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-18T20:30:08Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2acc76532618",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2874,7 +2950,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "4205044fb519",
@@ -2900,7 +2976,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "8894b6902108",
@@ -2926,7 +3002,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "6bdc88e5fe2a",
@@ -2952,7 +3028,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "a6da42fbb99a",
@@ -2974,32 +3050,6 @@
           "tags": [
             "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
             "Vida social",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "5d436aa392ea",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Paso a paso para hacer que El Comercio aparezca primero en tus búsquedas de Google",
-          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
-          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
-          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-18T16:18:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
-            "Cómo",
             "Economia",
             "El Comercio"
           ],
@@ -3128,6 +3178,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "5d436aa392ea",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-18T20:30:08Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2acc76532618",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3151,7 +3227,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "4205044fb519",
@@ -3177,7 +3253,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "8894b6902108",
@@ -3203,7 +3279,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "6bdc88e5fe2a",
@@ -3229,7 +3305,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "a6da42fbb99a",
@@ -3251,32 +3327,6 @@
           "tags": [
             "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
             "Vida social",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "5d436aa392ea",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Paso a paso para hacer que El Comercio aparezca primero en tus búsquedas de Google",
-          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
-          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
-          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-18T16:18:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
-            "Cómo",
             "Mundo",
             "El Comercio"
           ],
@@ -3405,6 +3455,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "5d436aa392ea",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-18T20:30:08Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2acc76532618",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3428,7 +3504,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "4205044fb519",
@@ -3454,7 +3530,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "8894b6902108",
@@ -3480,7 +3556,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "6bdc88e5fe2a",
@@ -3506,7 +3582,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "a6da42fbb99a",
@@ -3528,32 +3604,6 @@
           "tags": [
             "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
             "Vida social",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "5d436aa392ea",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Paso a paso para hacer que El Comercio aparezca primero en tus búsquedas de Google",
-          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
-          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
-          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-18T16:18:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
-            "Cómo",
             "Peru",
             "El Comercio"
           ],
@@ -3716,6 +3766,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "260dc319da35",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required | TechCrunch",
+          "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that the bigger obstacle is access, and that Claude solves it.",
+          "body_text": "Drug discovery is one of the most expensive failures in modern industry. Finding a single viable molecule can take a decade and cost billions, and most candidates still don’t make it. A generation of AI startups has promised to fix that — most have made the problem less painful for researchers who are already technically sophisticated enough to use the tools. But SandboxAQ thinks the bottleneck isn’t the models. It’s the interface. The company has teamed up with Anthropic to integrate its scientific AI models directly into Claude — putting powerful drug discovery and materials science tools behind a conversational interface that requires no specialized computing infrastructure to use. Founded roughly five years ago as an Alphabet spinout, SandboxAQ counts Eric Schmidt, Google’s former CEO, as its chairman. The company, which has raised more than $950 million from investors , has built out a number of different business lines, including a cybersecurity business , for instance. One of the more unique things SandboxAQ does, however, is produce large quantitative models, or LQMs. These proprietary models are “physics-grounded,” meaning they’re built on the rules of the physical world rather than patterns in text. They can run quantum chemistry calculations and simulate both molecular dynamics and microkinetics, the study of how chemical reactions unfold at the molecular level. That matters because it tells researchers how candidate molecules are likely to behave before anyone sets foot in a lab. “Trained on real-world lab data and scientific equations, LQMs are AI models engineered for the quantitative economy, a $50+ trillion sector spanning biopharma, financial services, energy, and advanced materials,” the company said in a new release that strongly suggests Sandbox AQ isn’t building another chatbot or code assistant — it’s chasing the economy that AI is supposed to transform. Chai Discovery and Isomorphic Labs — both well-funded bets on better models — have focused on the science. SandboxAQ is focused on who can actually use it. “For the first time, we have a frontier [quantitative] model on a frontier LLM that someone can access in natural language,” Nadia Harhen, SandboxAQ’s general manager of AI simulation, told TechCrunch. Previously, users of SandboxAQ’s LQMs would have had to provide their own digital infrastructure to run the models. SandboxAQ’s customers tend to be computational scientists, research scientists, or experimentalists. Generally, these people work at large pharmaceutical or industrial companies and are searching for new materials that can become marketable products. “Our customers come to us because they’ve tried all the other software out there, and the complexity of their problem is such that it didn’t work or didn’t yield positive results for them when that translation went to take place in the real world,” said Harhen. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone.",
+          "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-5339511481.jpg?w=640",
+          "published_at": "2026-05-18T21:29:31Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-5339511481.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "b17834a9b8db",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3737,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "580c751f5a18",
@@ -3749,7 +3823,7 @@
           "source_kind": "story",
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI | TechCrunch",
           "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-          "body_text": "Elon Musk’s claim that he was mistreated by his OpenAI co-founders failed after nine California jurors returned a unanimous verdict that his lawsuits had been filed too late. Musk accused Sam Altman, Greg Brockman, OpenAI, and Microsoft of “stealing a charity” by creating a for-profit affiliate of the frontier AI lab. Jurors, however, found that any harms that Musk may have suffered came before the deadline for filing his claims under the law. While the trial delved deeply into the melodramatic history of OpenAI and featured testimony from leading figures in Silicon Valley, it ultimately turned on fairly narrow questions of the law. The trial focused on whether and when Altman and the other defendants had made and broken promises to Musk, but his case failed to convince jurors that he had a valid claim. In particular, OpenAI had advanced a statute of limitations defense , which sought to prove that any harms Musk sought to litigate had taken place before 2021. (The specific date varied by the charge: before August 5, 2021, for the first count; August 5, 2022, for the second count; and November 14, 2021, for the third count.) Ultimately, the jury found that argument persuasive, which made for a short deliberation period. “There was a substantial amount of evidence to support the jury’s finding, which is why I was prepared to dismiss on the spot,” Judge Yvonne Gonzalez Rogers said after the verdict was delivered. The end of the case means that one major threat to OpenAI — a possible restructuring — is now off the table ahead of its reported IPO. “It did not take [the jury] two hours to conclude … that Mr. Musk’s lawsuit is nothing more than an after-the-fact contrivance that bears no relationship to reality,” OpenAI’s lead attorney, Bill Savitt, said after the verdict. “They kicked it exactly where it belongs — just to the side. This lawsuit is a hypocritical attempt to sabotage a competitor.” Microsoft, which Musk sued for aiding and abetting OpenAI’s alleged breach of charitable trust, welcomed the verdict. A spokesperson for the company said it “remained committed to our work with OpenAI to advance and scale AI for people and organizations around the world.” The verdict came in the middle of a hearing to determine the potential damages to Musk if the verdict had gone the other way. While that discussion is moot for now, the judge appeared unconvinced by the analogy Musk’s lawyers drew between his charitable contributions and investments in a for-profit startup. “Your analysis seems to be devoid of connection to the underlying facts,” she told Dr. C. Paul Wazzan, the expert who came up with Musk’s estimate of OpenAI and Microsoft’s wrongful gains at his expense — some $78.8 billion to $135 billion. Reached for comment by TechCrunch, Musk’s lead counsel, Marc Toberoff, said, “One word: Appeal.” When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.",
+          "body_text": "Elon Musk’s claim that he was mistreated by his OpenAI co-founders failed after nine California jurors returned a unanimous verdict that his lawsuits had been filed too late. Musk accused Sam Altman, Greg Brockman, OpenAI, and Microsoft of “stealing a charity” by creating a for-profit affiliate of the frontier AI lab. Jurors, however, found that any harms that Musk may have suffered came before the deadline for filing his claims under the law. While the trial delved deeply into the melodramatic history of OpenAI and featured testimony from leading figures in Silicon Valley, it ultimately turned on fairly narrow questions of the law. The trial focused on whether and when Altman and the other defendants had made and broken promises to Musk, but his case failed to convince jurors that he had a valid claim. In particular, OpenAI had advanced a statute of limitations defense , which sought to prove that any harms Musk sought to litigate had taken place before 2021. (The specific date varied by the charge: before August 5, 2021, for the first count; August 5, 2022, for the second count; and November 14, 2021, for the third count.) Ultimately, the jury found that argument persuasive, which made for a short deliberation period. “There was a substantial amount of evidence to support the jury’s finding, which is why I was prepared to dismiss on the spot,” Judge Yvonne Gonzalez Rogers said after the verdict was delivered. The end of the case means that one major threat to OpenAI — a possible restructuring — is now off the table ahead of its reported IPO. “It did not take [the jury] two hours to conclude … that Mr. Musk’s lawsuit is nothing more than an after-the-fact contrivance that bears no relationship to reality,” OpenAI’s lead attorney, Bill Savitt, said after the verdict. “They kicked it exactly where it belongs — just to the side. This lawsuit is a hypocritical attempt to sabotage a competitor.” Microsoft, which Musk sued for aiding and abetting OpenAI’s alleged breach of charitable trust, welcomed the verdict. A spokesperson for the company said it “remained committed to our work with OpenAI to advance and scale AI for people and organizations around the world.” The verdict came in the middle of a hearing to determine the potential damages to Musk if the verdict had gone the other way. While that discussion is moot for now, the judge appeared unconvinced by the analogy Musk’s lawyers drew between his charitable contributions and investments in a for-profit startup. “Your analysis seems to be devoid of connection to the underlying facts,” she told Dr. C. Paul Wazzan, the expert who came up with Musk’s estimate of OpenAI and Microsoft’s wrongful gains at his expense — some $78.8 billion to $135 billion. In a tweet after the ruling, Musk appeared to take the procedural grounds of the dismissal as a moral victory. “There is no question to anyone following the case in detail that Altman & Brockman did in fact enrich themselves by stealing a charity. The only question is WHEN they did it!” Musk wrote. “I will be filing an appeal with the Ninth Circuit, because creating a precedent to loot charities is incredibly destructive to charitable giving in America.” Reached for comment by TechCrunch, Musk’s lead counsel, Marc Toberoff, said, “One word: Appeal.”",
           "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
           "published_at": "2026-05-18T17:34:43Z",
@@ -3761,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e736e7589167",
@@ -3785,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "7a62937c08d3",
@@ -3809,30 +3883,6 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "8675f80bea08",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Amazon's new Alexa+ powered feature can generate podcast episodes | TechCrunch",
-          "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-          "body_text": "Amazon announced the latest update to Alexa+ on Monday: the ability to generate podcast episodes on demand. The new feature, called “Alexa Podcasts,” is rolling out to customers in the U.S. today. Amazon describes the capability as a way to “turn any topic you’re curious about into a podcast episode, ready in minutes.” To use the feature, all users have to do is ask Alexa+ to create a podcast about a topic they’re interested in. Users don’t need to upload documents, write scripts, or plan anything ahead of time. Instead, Alexa+ researches the request, gathers information, and generates a quick overview of what the episode will cover. From there, users can tweak things like the length, tone, and focus of the episode. Once finalized, Alexa+ uses AI-generated host voices to narrate the podcast. When the episode is ready, users get a notification through their Echo Show device and inside the Alexa app. Episodes are also saved in the app’s “Music” and “More” sections so they can be replayed later. The feature is another example of how Amazon is trying to turn Alexa+ into more than just a voice assistant. Instead of only answering questions or controlling smart home devices, Alexa+ is starting to act more like a personalized AI content creator. At the same time, the launch is likely to spark some debate. AI-generated voices and automated content continue to raise questions around ethics, accuracy, and the future of traditional creators. There are also concerns about how reliable AI-generated podcasts will be, especially when covering news or complex topics. Amazon emphasized its partnerships with major news organizations to improve content accuracy and reliability. The company says Alexa+ can access real-time information through agreements with outlets, including the Associated Press, Reuters, The Washington Post, Time, Forbes, Business Insider, Politico, USA Today, Condé Nast, Hearst, and Vox Media, alongside more than 200 local newspapers across the U.S. Beyond podcasts, Amazon says it is exploring additional forms of personalized AI audio, including custom news briefings and content generated from users’ own documents and shared information. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Lauren covers media, streaming, apps and platforms at TechCrunch. You can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone.",
-          "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/alexa-podcasts-hero.png?w=1200",
-          "published_at": "2026-05-18T14:56:47Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/alexa-podcasts-hero.png",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
           "sort_order": 4
         },
         {
@@ -4239,6 +4289,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "f5f184a35411",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Kina svarar på Trumps nya ord om Taiwan",
+          "summary": "Sedan Donald Trump kom hem från Xi-mötet han sagt att ”Taiwan vill ha krig” och att han tänker använda de utlovade vapenleveranserna till ön som ”väldigt bra förhandlingskort”. Uttalandena har inte gått Peking förbi. – Taiwan är en oskiljaktig del av Kinas territorium, säger en talesperson för Kina utrikesministerium till Folkets Dagblad.",
+          "body_text": "Sedan Donald Trump kom hem från Xi-mötet han sagt att ”Taiwan vill ha krig” och att han tänker använda de utlovade vapenleveranserna till ön som ”väldigt bra förhandlingskort”. – Taiwan är en oskiljaktig del av Kinas territorium, säger en talesperson för Kina utrikesministerium till Folkets Dagblad . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Donald Trump har berättat att Xi Jinping ägnade många timmar av deras gemensamma tid åt att prata om den självstyrande ön Taiwan – som Kina ser som sitt territorium. Sedan Trump återvände från statsbesöket har han sagt att den demokratiska ön ”vill ha krig” och att de utlovade vapenpaketen till Taiwan är ”väldigt bra förhandlingskort” mot Kina. – De blir självständiga eftersom de vill gå i krig och de räknar med att ha USA bakom sig, sa Trump i en intervju med Fox News under fredagen efter att han återvänt från statsbesöket i Kina. Trumps retorik har uppmärksammats av Peking och under måndagen kommenterade Guo Jiakun, talesperson för kinesiska utrikesministeriet, den amerikanske presidentens uttalanden på ett väldigt definitivt sätt. – Taiwan är en oskiljaktig del av Kinas territorium; det har aldrig varit ett land och kommer aldrig att bli det i framtiden, sa Guo Jiakun, enligt regimkontrollerade Folkets Dagblad, Renmin Ribao. Trumps uttalanden har orsakat oro i Taiwan som redan under lördagen publicerade ett uttalande på regeringens hemsida. I uttalandet skrev utrikesdepartementet att de ”är ett suveränt och oberoende land”. ”Detta är ett obestridligt faktum, och Peking har ingen rätt att göra några anspråk på Taiwan”, skrev departementet. Två amerikanska vapenleveranser till Taiwan, värda sammanlagt cirka 230 miljarder kronor, svävar nu i limbo i väntan på beslut från USA:s president.",
+          "url": "https://www.expressen.se/nyheter/varlden/kina-starks-efter-trumps-taiwan-utspel/",
+          "image_url": "https://static.bonniernews.se/images/87/c6/87c655b52a72418a9f34a1ad18d6a92d/16x9/original.png",
+          "published_at": "2026-05-18T21:36:35Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/kina-starks-efter-trumps-taiwan-utspel/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "0e54b17a9938",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Fem döda i skjutning i San Diego",
+          "summary": "Fem personer har dött i samband med en skottlossning vid en moské i amerikanska San Diego.",
+          "body_text": "Tre personer har dödats i en skottlossning vid en moské i San Diego. – Vi har aldrig upplevt en sådan tragedi, säger imamen Taha Hassane. Även de misstänkta skyttarna – två tonåringar – har hittats döda. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var vid 11.40, lokal tid, som polisen i San Diego i Kalifornien, USA, larmades om en aktiv skytt vid stadens största moské: Islamic Center. På X skrev polisen att man ryckte ut med ”betydande resurser”, och bilder från platsen visar ett enormt polisuppbåd. Polisen uppmanade också allmänhet att hålla sig borta från området där moskén ligger. En dryg timme senare uppgav polisen på X att situationen var under kontroll, och kort därefter att hotet mot moskén var avvärjt. Totalt dödades tre vuxna män i attacken. De hittade av polis utomhus. En av de dödade jobbade som säkerhetsvakt, och uppges ha konfronterat de två skyttarna vid moskén. – Jag tror att han spelade en avgörande roll i att hjälpa till så att det här inte blev värre, säger polischefen Scott Wahl på en presskonferens. Även de två gärningspersonerna, som enligt amerikanska medier var en 17-årig pojke och en 19-årig man, har dött. De hittades döda i ett fordon i närheten av brottsplatsen, och enligt polisens teori dog de av skottskador de själva orsakat. Polisen utreder nu skjutningen som ett hatbrott.",
+          "url": "https://www.expressen.se/nyheter/varlden/fem-doda-i-skjutning-i-san-diego/",
+          "image_url": "https://static.bonniernews.se/images/39/72/39729649083044548338cc575f28295f/16x9/original.jpg",
+          "published_at": "2026-05-18T21:13:53Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/fem-doda-i-skjutning-i-san-diego/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "8bad464f562c",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Papegojan på rymmen – i snart ett dygn",
+          "summary": "Den gråa papegojan Coco har varit på rymmen sedan midnatt natten till måndag.",
+          "body_text": "Den gråa papegojan Coco har varit på rymmen i Vårgårda sedan midnatt natten till måndag. Nu utlyser ägaren en hittelön om han hittas vid liv. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Coco är fyra år gammal och är inte van vid att flyga långa sträckor. Han blir snabbt trött. Det här är första gången han är på rymmen. – Han är som en del av familjen, liksom en av oss. Han sitter aldrig själv. Om vi sitter i köket och äter, då vill han vara med och sitta med oss. Han vill alltid varia med oss, säger hans ägare Lina Mohamed till Expressen. Det är jobbigt att han är borta, berättar hon. – Det är jättejobbigt. Vi har varit och letat sen i natt. Vi har knappt sovit något. Det är väldigt sorgligt för vi tänker på honom hela tiden för han har aldrig varit själv ute. Vi vet inte hur han ska klara sig liksom. Han är grå med röda stjärtfjädrar och har en silvrig ring om foten. – Han brukar ropa, skrika efter mig, ”Lina” brukar han säga när han är rädd. – Ja, han brukar säga ”urid an akul” som betyder ”jag vill äta”. Så vi har tagit med oss typ chips och nötter och har försökt säga det till honom ifall han hör oss. Lina Mohamed har lagt upp inlägg om hennes försvunna Coco i den lokala Facebookgruppen och i en annan grupp med fokus på försvunna fåglar . Han har även utlyst en hittelön om 3000 kronor om Coco återfinns vid liv. Inläggen har fått många reaktioner. – Det är många som kommenterat och skickat till oss att de har hittat sina fåglar efter typ några dagar och att de var okej. Det kändes lite bättre när folk sa det.",
+          "url": "https://www.expressen.se/nyheter/sverige/papegojan-coco-pa-rymmen-i-snart-ett-dygn/",
+          "image_url": "https://static.bonniernews.se/images/44/f3/44f328c8ee924f12b0f13495f841d927/16x9/original.jpg",
+          "published_at": "2026-05-18T20:39:06Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/papegojan-coco-pa-rymmen-i-snart-ett-dygn/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "922e74bbb6f3",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4246,9 +4368,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "JUST NU: Trump stoppar Iranattack",
+          "title": "Trump stoppar nytt Irananfall",
           "summary": "Donald Trump blåser av en attack mot Iran, uppger han själv. ”Jag har blivit ombedd av Qatars emir, Saudiarabiens kronprins och Förenade arabemiratens president”, skriver han på sitt eget sociala medie Truth Social.",
-          "body_text": "Donald Trump blåser av en attack mot Iran, uppger han själv. ”Jag har blivit ombedd av Qatars emir, Saudiarabiens kronprins och Förenade arabemiratens president”, skriver han på sitt eget sociala medie Truth Social . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Attacken var planerad till tisdag, men skjuts nu upp eftersom seriösa förhandlingar pågår. Qatars emir, Saudiarabiens kronprins och Förenade arabemiratens president menar att en överenskommelse ligger nära, och att den kommer vara positiv för alla parter. ”Denna överenskommelse kommer, viktigast av allt, att inkludera INGA KÄRNVAPEN FÖR IRAN!” skriver Trump i sociala medier. Trump skriver vidare att han har stor respekt för de tre ledarna och att han mot bakgrund av den instruerat, bland annat, krigsminister Pete Hegseth att avstyra tisdagens planerade attack mot Iran. Däremot stänger han inte dörren för framtida attacker. Om en överenskommelse inte går i lås med Iran så är USA berett att gå vidare med en fullskalig attack – med ”omedelbar verkan”. Det var igår som Donald Trump skrev i sociala medier att Tidigare under måndagen meddelade det iranska utrikesdepartementet att landet svarat på USA:s senaste förslag i fredsförhandlingarna. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "Donald Trump blåser av en attack mot Iran, uppger han själv. ”Jag har blivit ombedd av Qatars emir, Saudiarabiens kronprins och Förenade arabemiratens president”, skriver han på sitt eget sociala medie Truth Social . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Attacken var planerad till tisdag, men skjuts nu upp eftersom seriösa förhandlingar pågår. Qatars emir, Saudiarabiens kronprins och Förenade arabemiratens president menar att en överenskommelse ligger nära, och att den kommer vara positiv för alla parter. ”Denna överenskommelse kommer, viktigast av allt, att inkludera INGA KÄRNVAPEN FÖR IRAN!” skriver Trump i sociala medier. Trump skriver vidare att han har stor respekt för de tre ledarna och att han mot bakgrund av den instruerat, bland annat, krigsminister Pete Hegseth att avstyra tisdagens planerade attack mot Iran. Däremot stänger han inte dörren för framtida attacker. Om en överenskommelse inte går i lås med Iran så är USA berett att gå vidare med en fullskalig attack – med ”omedelbar verkan”. Det var i går som Donald Trump, i ett annat inlägg på Truth Social, riktade sig direkt mot Iran och dess ledare: ”Klockan tickar, ni borde sätta fart. Snabbt. Annars kommer det inte att finnas något kvar av dem. TIDEN ÄR AVGÖRANDE!” På måndagsförmiddagen meddelade det iranska utrikesdepartementet att landet svarat på USA:s senaste förslag i fredsförhandlingarna. Där ska talespersonen ha uppgett att landets krav, bland annat, omfattar frigivning av frysta iranska tillgångar och att sanktionerna mot Iran hävs. På det svarade Donald Trump att Iran är ”desperat” att skriva på ett avtal med USA, men att det som landet skickar inte har något med överenskommet avtal att göra. – Jag säger: ”Är ni inte kloka?”, säger han enligt tidningen Fortune. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/varlden/trump-vi-har-avstatt-fran-att-attackera-iran/",
           "image_url": "https://static.bonniernews.se/images/3b/fc/3bfc358770e34cfb9b27a3b51947b8b0/16x9/original.jpg",
           "published_at": "2026-05-18T19:14:39Z",
@@ -4260,7 +4382,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "a9e54b26eeb4",
@@ -4284,7 +4406,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "53e552db1722",
@@ -4308,7 +4430,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "b1277820f277",
@@ -4332,7 +4454,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "2c67daf11a3e",
@@ -4356,7 +4478,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "6486d0fbbc70",
@@ -4366,85 +4488,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "13 personer: De har dött i olyckor på jobbet 2026",
-          "summary": "En 53-årig kvinna på väg hem från jobbet. Yrkesofficeren Edvin, 31, som var i Österrike och övade klättring. Och trafikinspektören Ihab, 43, som fick hålla i en uppkörning – trots snövarning. Här är alla 13 personer som har dött i arbetsolyckor 2026.",
-          "body_text": "En 53-årig kvinna på väg hem från jobbet. Yrkesofficeren Edvin, 31, som var i Österrike och övade klättring. Och trafikinspektören Ihab, 43, som fick hålla i en uppkörning – trots snövarning. Här är alla 13 personer som har dött i arbetsolyckor 2026. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. De senaste tio åren har i snitt 49 personer – från 29 personer år 2020 till 63 personer år 2023 – årligen dött i arbetsplatsolyckor. Hittills i år är siffran 13 stycken, enligt Arbetsmiljöverket . I en kartläggning går Expressen igenom vilka det är. Fyrbarnspappan och trafikinspektören Ihab Janan Kawaja, 43, brukade ringa sina föräldrar varje dag klockan 15.45. Han hade då omkommit i en frontalkrock med en lastbil under en uppkörning i Södertälje. En polisutredning inleddes och lastbilschauffören anhölls misstänkt för grov vårdslöshet i trafik och grovt vållande till annans död. I februari kunde Arbetet rapportera att även Trafikverket misstänktes för brott, och att en förundersökning om arbetsmiljöbrott genom vållande till annans död hade inletts. Den 14 januari hade nämligen SMHI utfärdat en gul varning för kraftigt snöfall i Stockholms län, och Trafikverket hade uppmanat folk att låta bilen stå. – Vi ska titta närmare på omständigheterna. Det känns lite märkligt att Trafikverket genomför uppkörning trots att man uppmanar folk att inte köra bil, sa åklagaren Katarina Folestad till Arbetet i februari.",
-          "url": "https://www.expressen.se/nyheter/sverige/13-personer-de-har-dott-i-olyckor-pa-jobbet-2026/",
-          "image_url": "https://static.bonniernews.se/images/68/07/680718f93b0c40938166f04247b15f4b/16x9/original.jpg",
-          "published_at": "2026-05-18T17:28:42Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/13-personer-de-har-dott-i-olyckor-pa-jobbet-2026/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "0ee17b91ae03",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Kristersson skadad | Expressen",
-          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
-          "body_text": "Löpning är en stor del av Ulf Kristerssons liv. Inför varje partiledardebatt är det en given del i förberedelserna. Inför måndagens debatt blev det bara tre kilometer. \"Mer av en uppvärmningsrunda i vanliga fall\", säger han till Aftonbladet . – Jag har dragit ”hamstring” (baksida lår, reds. amn), säger han till tidningen. Regeringen och SD har städat upp efter de rödgrönas ”vansinniga” bränslepolitik, menar landsbygdsminister Peter Kullgren som ersätter KD-ledaren Ebba Busch i debatten. – Inblandningen av biobränsle i vanliga drivmedel höll på att slå sönder stora delar av Sverige. Det var så extremt dyrt, säger han. I själva verket är Sverige i dag ett föredöme när det gäller klimatpolitiken, enligt honom. – Vi har redan gjort allt som skulle behöva göras, säger Kullgren. Det får MP-språkröret Amanda Lind att reagera. – Hörde jag rätt? Har vi gjort det vi skulle behöva göra? Enligt henne har regeringen ”raserat” klimatpolitiken. – Vi går till val på att få klimatomställningen tillbaka på banan igen. Det kommer gynna Sverige och Europa, säger Lind. I Kulturhusets debatt är det nu MP, KD, C och L som möts. På integrationsområdet rök C-ledaren Elisabeth Thand Ringqvist ihop rejält med Simona Mohamsson (L). Thand Ringqvist siktade in sig på det partiet kallar för kompetensutvisningar, personer med jobb i Sverige som utvisas för att de inte når upp till de högre lönekraven.",
-          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=79c810e2-1568-4dbf-b89c-fb4c628e7614",
-          "image_url": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
-          "published_at": "2026-01-09T11:58:16Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=79c810e2-1568-4dbf-b89c-fb4c628e7614",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "f67b5e5c1bbc",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Kristerssons S-känga | Expressen",
-          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
-          "body_text": "Statsminister Ulf Kristersson (M) ser fram emot att debattera med S-ledaren Magdalena Andersson. De leder båda varsitt regeringsalternativ, slår han fast. – Då måste också den andra sidan presentera gemensam politik. alla vet att så som Socialdemokraterna säger, så. kommer det inte bli om de skulle få majoritet. Utan Vänsterpartiet och Miljöpartiet måste komma ut ur garderoben. Regeringen och SD har städat upp efter de rödgrönas ”vansinniga” bränslepolitik, menar landsbygdsminister Peter Kullgren som ersätter KD-ledaren Ebba Busch i debatten. – Inblandningen av biobränsle i vanliga drivmedel höll på att slå sönder stora delar av Sverige. Det var så extremt dyrt, säger han. I själva verket är Sverige i dag ett föredöme när det gäller klimatpolitiken, enligt honom. – Vi har redan gjort allt som skulle behöva göras, säger Kullgren. Det får MP-språkröret Amanda Lind att reagera. – Hörde jag rätt? Har vi gjort det vi skulle behöva göra? Enligt henne har regeringen ”raserat” klimatpolitiken. – Vi går till val på att få klimatomställningen tillbaka på banan igen. Det kommer gynna Sverige och Europa, säger Lind. I Kulturhusets debatt är det nu MP, KD, C och L som möts. På integrationsområdet rök C-ledaren Elisabeth Thand Ringqvist ihop rejält med Simona Mohamsson (L). Thand Ringqvist siktade in sig på det partiet kallar för kompetensutvisningar, personer med jobb i Sverige som utvisas för att de inte når upp till de högre lönekraven.",
-          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5643e6df-eaed-43b6-8b8e-6a84f5cbe3f8",
-          "image_url": "https://verifiedupload.ifragasatt.se/47afcf2a-ff6e-4985-a243-d31618d4f416.jpeg",
-          "published_at": "2026-01-09T11:58:16Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5643e6df-eaed-43b6-8b8e-6a84f5cbe3f8",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "ab9f05913919",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen Idag 18.45 Putin övar kärnvapen i Belarus",
+          "title": "Sverige Idag 19.28 13 personer: De har dött i olyckor på jobbet 2026",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/putin-ovar-karnvapen-i-belarus/",
+          "url": "https://www.expressen.se/nyheter/sverige/13-personer-de-har-dott-i-olyckor-pa-jobbet-2026/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/putin-ovar-karnvapen-i-belarus/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/13-personer-de-har-dott-i-olyckor-pa-jobbet-2026/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4455,20 +4505,20 @@
           "sort_order": 8
         },
         {
-          "id": "85b05166a471",
+          "id": "0ee17b91ae03",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen Idag 17.17 Uppgifter: Taiwan kan invaderas inom fem år",
+          "title": "Politik Idag 19.56 Kristersson skadad",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/uppgifter-taiwan-kan-invaderas-inom-fem-ar/",
+          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=79c810e2-1568-4dbf-b89c-fb4c628e7614",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/uppgifter-taiwan-kan-invaderas-inom-fem-ar/",
+          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=79c810e2-1568-4dbf-b89c-fb4c628e7614",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
