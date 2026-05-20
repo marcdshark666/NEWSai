@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T11:51:01Z",
+  "generated_at": "2026-05-20T14:48:53Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 35-årig man åtalas för dubbelmordet i Göteborg • Flydde till Norge En gripen efter dubbelmordet – hotade polis med pistol i garage Så påverkade oväntade resultatet relationen • ”Tycker om dig mer” Vittnar om sexuella övergrepp • Programchefen om svenska versionen: ”Vår topprioritet” GVFÖ tas bort från TV4 efter våldtäktsanklagelser",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Dixelius om mötet mellan världsledarna: ”Kineserna kan pruta” Putins oväntade utspel – under besöket: ”Känns som tre höstar” Xi till Trump: Putin kanske får ångra invasionen Barnfamilj satt i båten bakom • Filmades av övervakningskameror",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1775,6 +1775,56 @@
           "sort_order": 0
         },
         {
+          "id": "e588713e905e",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Steve Doocy explores life-size Noah's Ark in Kentucky | Fox News Video",
+          "summary": "Fox News' Steve Doocy tours the Ark Encounter in Williamstown, Kentucky, a life-size replica of Noah's Ark celebrating its 10th anniversary.",
+          "body_text": "Fox News' Steve Doocy tours the Ark Encounter in Williamstown, Kentucky, a life-size replica of Noah's Ark celebrating its 10th anniversary. Fox News' Steve Doocy tours the impressive Ark Encounter in Williamstown, Kentucky, a life-size replica of Noah's Ark celebrating its 10th anniversary. Accompanied by tour guide Avery Foley, Doocy explores new attractions including an Answers Center, a large zoo with kangaroos, a massive playground and a VR experience. They discuss the Ark's precise biblical dimensions and its historical context.",
+          "url": "https://www.foxnews.com/video/6396141435112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0917558-7a13-44a4-93ae-6f1a5f50ff96/275c61b1-df94-4f92-b692-96f4318e4b9f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-20T13:01:13Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396141435112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "6fab2395a2a6",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Former Google CEO booed for AI commencement speech | Fox News Video",
+          "summary": "Kurt Knutsson discusses growing public backlash against AI, including former Google CEO Eric Schmidt being booed at a University of Arizona commencement. He further discusses the development of artificial eggs that could revive dead species.",
+          "body_text": "Kurt Knutsson discusses growing public backlash against AI, including former Google CEO Eric Schmidt being booed at a University of Arizona commencement. He further discusses the development of artificial eggs that could revive dead species.",
+          "url": "https://www.foxnews.com/video/6396136918112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6a5c792-7fc5-4cbd-a17f-5c17b855647d/d5bbc9d6-134a-4eb2-a923-931842d1e2dd/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-20T12:15:09Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396136918112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "18568ec57d26",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1797,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "81c7b8de8f7c",
@@ -1822,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "bb0c0fa5f5ec",
@@ -1833,8 +1883,8 @@
           "surface": "video",
           "source_kind": "video",
           "title": "Scott Presler discusses Trump's election influence and endorsement power | Fox News Video",
-          "summary": "Voter registration activist Scott Presler highlights former President Donald Trump's significant influence in primary elections.",
-          "body_text": "Voter registration activist Scott Presler highlights former President Donald Trump's significant influence in primary elections. Scott Presler, a voter registration activist and founder of Early Vote Action, details President Donald Trump's enduring influence in Republican primary elections. Presler highlights Trump-endorsed candidates' recent victories in Kentucky, emphasizing the decisive power of his support. He also predicts the outcome of the Texas attorney general runoff, asserting Trump's chosen candidate will win.",
+          "summary": "Voter registration activist Scott Presler highlights President Donald Trump's significant influence in primary elections.",
+          "body_text": "Voter registration activist Scott Presler highlights President Donald Trump's significant influence in primary elections. Scott Presler, a voter registration activist and founder of Early Vote Action, details President Donald Trump's enduring influence in Republican primary elections. Presler highlights Trump-endorsed candidates' recent victories in Kentucky, emphasizing the decisive power of his support. He also predicts the outcome of the Texas attorney general runoff, asserting Trump's chosen candidate will win.",
           "url": "https://www.foxnews.com/video/6396131664112",
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/913db97c-ba20-4836-bca4-5f0433576067/6acd564d-989f-4e29-9709-d35e839a6f28/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-20T10:11:09Z",
@@ -1847,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "c2a9823eb1aa",
@@ -1872,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "d9f36831a678",
@@ -1897,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "df1e2500ef2f",
@@ -1922,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "49135874175a",
@@ -1947,7 +1997,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "a5ff9c47fab4",
@@ -1964,56 +2014,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/259ae502-27f5-42b5-acca-d544973d8aef/e4508798-023a-4978-b5bf-15d7b2ac04c4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-20T02:53:30Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396105384112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "0cb1d11096ca",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Greg Gutfeld: Colbert did nothing but 'safe comedy' | Fox News Video",
-          "summary": "Fox News host Greg Gutfeld and the 'Gutfeld!' panel discuss Stephen Colbert's politically charged comedy.",
-          "body_text": "Fox News host Greg Gutfeld and the 'Gutfeld!' panel discuss Stephen Colbert's politically charged comedy.",
-          "url": "https://www.foxnews.com/video/6396104854112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c09ab1-27f3-4817-bd5e-45fbb155d7cd/773b35e8-f7cf-463a-9761-be56322e6867/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-20T02:45:02Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396104854112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "9d5e6016b3a2",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Fast-moving California brush fire scorches hundreds of acres | Fox News Video",
-          "summary": "Fox News correspondent Christina Coleman provides updates on the massive blaze in Simi Valley, California, and a Coast Guard rescue on Santa Rosa Island on ‘Jesse Watters Primetime.’",
-          "body_text": "Fox News correspondent Christina Coleman provides updates on the massive blaze in Simi Valley, California, and a Coast Guard rescue on Santa Rosa Island on ‘Jesse Watters Primetime.’",
-          "url": "https://www.foxnews.com/video/6396105279112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1d8f341-43f7-4cac-9d8d-f113a7873009/413bdef9-9f3d-40a9-844c-e78ebd7f7ad6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-20T02:39:07Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396105279112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2100,6 +2100,31 @@
           "sort_order": 13
         },
         {
+          "id": "a035c173f337",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "WATCH LIVE: House Judiciary hearing on the Southern Poverty Law Center | Fox News Video",
+          "summary": "Lawmakers explore new information concerning the SPLC allegedly funneling funds to extremist groups.",
+          "body_text": "Lawmakers explore new information concerning the SPLC allegedly funneling funds to extremist groups.",
+          "url": "https://www.foxnews.com/video/6396142192112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110f57e8-7fa1-426f-9ef2-3efdc6092042/8b73263c-5273-4c40-b01b-f74e33f086b1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-20T13:29:08Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396142192112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 14
+        },
+        {
           "id": "832337e7e745",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2114,31 +2139,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/f8de2dac-f8fa-401a-a645-427274d32ae7/15db1699-d160-4ac3-8d0b-b46fb2e75ea3/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-05-20T10:14:17Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396132254112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "3dd5c404ddbb",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Special Report With Bret Baier - Tuesday, May 19 | Fox News Video",
-          "summary": "Hate Crime, Ilhan Omar, Iran",
-          "body_text": "Bret Baier takes a closer look at political stories from Washington, DC.",
-          "url": "https://www.foxnews.com/video/6396128986112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/eaa59985-c7d9-4b87-9f0f-5194df4bd0d8/6cce6cc6-5515-4512-a863-a74fedb6a311/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-20T10:00:39Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396128986112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2167,6 +2167,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "83d8d6403249",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Barney Frank: one of the first openly gay US congressmen dies",
+          "summary": "After a decades-long career in Congress, he spent his final weeks at his home in Maine living in hospice.",
+          "body_text": "Former US congressman Barney Frank who famously took on Wall Street and made himself one of the first known openly gay representatives died on Tuesday night, US media reports. He was 86. Frank, who represented southern Massachusetts in the House of Representatives for over three decades, had been living in hospice care at his home in Maine since April. He will be remembered as a trailblaser for LGBT rights, as the first member of Congress to enter into a same-sex marriage, and for helping to overhaul financial regulations after the 2008 financial crisis. \"He was, above all else, a wonderful brother. I was lucky to be his sister,\" Frank's sister Doris Breay told NBC Boston. \"He notified everybody that he was in hospice, so it was just a matter of time. He was certainly at peace with himself,\" Jim Segel, Frank's former campaign manager, told Axios. \"He certainly left a mark, and he was a leader on on civil rights, on gay rights, on leading other marginalized communities, and then he helped the country get through the 2008 financial crisis, which was the most significant recession, depression, almost since 1930,\" Segel said. He was a major architect of the Dodd-Frank Act, named partly after him, which created new regulatory bodies and tightened restrictions on banks in the wake of the 2008 Great Recession. The Dodd-Frank Act, named for Frank and Sen. Chris Dodd (D-Conn.), was a historic overhaul of banking regulations in response to the subprime mortgage crisis that helped trigger the 2008 Great Recession. On Capitol Hill, he was a vocal supporter of ending the \"don't ask, don't tell policy\" that kept gay and lesbian US military servicemembers from serving openly. He also fought for legislation which ultimately failed that would have banned workplace discrimination against LGBT workers. This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version. You can receive Breaking News on a smartphone or tablet via the BBC News App . You can also follow @BBCBreaking on X to get the latest alerts.",
+          "url": "https://www.bbc.com/news/articles/ckgpy2ze3q1o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+          "published_at": "2026-05-20T14:07:48Z",
+          "embed_url": "https://www.bbc.com/news/articles/ckgpy2ze3q1o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "8f3776fcc56e",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2178,17 +2202,17 @@
           "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
           "body_text": "Cheering children - check. Military honour guard – check. Cannon fire and marching band - check. Vladimir Putin's welcome outside the Great Hall of the People was a near mirror image of the reception for Donald Trump last week. Two high-stakes presidential visits, just days apart, is exactly the image Xi Jinping wants to project to the world: talking to everyone, tied to no-one. For China, these visits are proof that because of its massive economy and new-found diplomatic clout all roads now lead to Beijing. \"The new era of world affairs is less centered around the West,\" says Samir Puri from Kings College London. \"There is a lot of latent power that China has on the world stage, it's not necessarily using it in its most direct form to settle conflicts, instead China's style is to try to utilise its stature in a more gradual sense.\" The optics were strikingly similar - Xi confident in the spotlight as he played host. But the politics driving the two visits were very different. Putin, who has been to China more than 20 times, appears to have a close personal relationship with Xi. But the war in Ukraine and Western sanctions have left him leaning heavily on Beijing, which is now Russia's top trading partner and its biggest customer for oil and gas. It has been an unequal partnership for some time now, and that was reinforced today. Talks ended with 20-plus agreements on trade and tech, but no approval yet for the stalled Russian gas pipeline that Putin has been pushing for years. A lengthy joint statement also yielded no major breakthroughs. \"Both China and Russia need each other, but Russia clearly needs China more than before at the global stage,\" says Dr Zheng Runyu, from the Centre for Russian Studies at the East China Normal University in Shanghai. \"Given today's international environment, deep co-operation with China is extremely important for Russia in dealing with many of its current challenges.\" The Chinese leader seemed to have a strong hand as he negotiated with the US president too. Stronger trade relationships with the rest of the world and China's dominance in rare earth minerals and advanced manufacturing have given him leverage. Beijing has found itself on an equal footing with Washington in the wake of Trump's unpredictability.",
           "url": "https://www.bbc.com/news/articles/cjep12qx3xjo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/721d/live/80717220-543e-11f1-be9a-315565996c62.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d09d/live/432fc630-544f-11f1-b682-cf91850925ea.jpg",
           "published_at": "2026-05-20T11:42:44Z",
           "embed_url": "https://www.bbc.com/news/articles/cjep12qx3xjo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "3852fc802bf3",
@@ -2212,7 +2236,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "16d196dd5fd1",
@@ -2224,7 +2248,7 @@
           "source_kind": "mixed",
           "title": "Ebola outbreak in DR Congo: More die as WHO warns that numbers will rise further",
           "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
-          "body_text": "The World Health Organization (WHO) says there have now been 600 suspected cases of Ebola and 139 suspected deaths, with numbers expected to rise further given the time taken to detect the virus. Fifty-one cases have now been confirmed in the Democratic Republic of Congo - where the first case was reported - and two in neighbouring Uganda, WHO chief Dr Tedros Adhanom Ghebreyesus said on Wednesday. Speaking to journalists in Geneva, he said the outbreak of the Bundibugyo species of Ebola was likely to have started \"a couple of months ago\". On Sunday, the WHO declared a public health emergency of international concern, but said it was not at pandemic level. Ghebreyesus said that after meeting on Tuesday, the health organisation's emergency committee agreed the situation was \"not a pandemic emergency\". \"WHO assesses the risk of the epidemic as high at the national and regional levels and low at the global level,\" he explained. The 51 cases confirmed in DR Congo are in its eastern Ituri province - the epicentre of the outbreak - and the North Kivu province. Of the two confirmed in Uganda's capital, Kampala, both had travelled from DR Congo, one of whom has died. \"We know the scale of the epidemic in DRC is much larger,\" the WHO chief said, adding that healthcare workers were among those who had died, which was a particular concern. A WHO official said investigations were under way to find out how long the virus had been spreading for, but that their priority was to curb transmission. The first known case was a nurse who developed symptoms and died on 24 April, in Ituri's provincial capital Bunia. The body was repatriated to Mongwalu, one of two gold-mining towns where the majority of cases have been reported. Four areas in Ituri have been affected by the outbreak: Mongwalu, Bunia, Rwampara and Nyakunde.",
+          "body_text": "The World Health Organization (WHO) says there have now been 600 suspected cases of Ebola and 139 suspected deaths, with numbers expected to rise further given the time taken to detect the virus. Fifty-one cases have now been confirmed in the Democratic Republic of Congo - where the first case was reported - and two in neighbouring Uganda, WHO chief Dr Tedros Adhanom Ghebreyesus said on Wednesday. Speaking to journalists in Geneva, he said the outbreak of the Bundibugyo species of Ebola was likely to have started \"a couple of months ago\". On Sunday, the WHO declared a public health emergency of international concern, but said it was not at pandemic level. Ghebreyesus said that after meeting on Tuesday, the health organisation's emergency committee agreed the situation was \"not a pandemic emergency\". \"WHO assesses the risk of the epidemic as high at the national and regional levels and low at the global level,\" he explained. The 51 cases confirmed in DR Congo are in its eastern Ituri province - the epicentre of the outbreak - and the North Kivu province. Of the two confirmed in Uganda's capital, Kampala, both had travelled from DR Congo, one of whom has died. \"We know the scale of the epidemic in DRC is much larger,\" the WHO chief said, adding that healthcare workers were among those who had died, which was a particular concern. Local health workers say some facilities are being overwhelmed. Although personal protective equipment has started to arrive, they say they are still working without adequate protection. A WHO official said investigations were under way to find out how long the virus had been spreading for, but that their priority was to curb transmission. The first known case was a nurse who developed symptoms and died on 24 April, in Ituri's provincial capital Bunia. The body was repatriated to Mongwalu, one of two gold-mining towns where the majority of cases have been reported.",
           "url": "https://www.bbc.com/news/articles/cwy2g197dp8o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/959a/live/e216d3b0-5436-11f1-97ae-1b4b9bb4c9eb.jpg",
           "published_at": "2026-05-20T10:52:44Z",
@@ -2236,7 +2260,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "e323216b38b7",
@@ -2260,7 +2284,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "f2f32b0b993e",
@@ -2284,7 +2308,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "9c9694615946",
@@ -2308,7 +2332,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "3bf4aec7f1e3",
@@ -2332,7 +2356,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "40c05cfbc7b6",
@@ -2356,7 +2380,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "b9ba5148263e",
@@ -2380,7 +2404,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "1e0219070c30",
@@ -2404,7 +2428,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "f45b4b0056b2",
@@ -2423,30 +2447,6 @@
           "embed_url": "https://www.bbc.com/news/articles/cg4pnp0gdlko",
           "play_mode": "iframe",
           "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "90c25e09808d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
-          "summary": "Many visitors who have been exempt for 60 days will soon have to apply for a visa after 30 days.",
-          "body_text": "UK citizens are among dozens of nationalities who will soon have to apply for a visa if they wish to stay in Thailand for more than 30 days. Tourists from 93 countries have been able to visit without needing a visa for 60 days since July 2024, as part of a government effort to boost the economy following the Covid pandemic. But it approved plans on Tuesday to revoke this exemption, with how long travellers can stay to now be decided on a country-by-country basis. It cited security and a confusing visa scheme among reasons for the change. There have been a series of high-profile arrests of foreigners in the south-east Asian nation, including cases linked to drugs and sex trafficking. Prime Minister Anutin Charnvirakul said the government found the policy needed revising \"to be more suitable for the current situation, both in terms of the economy and national security\". Nationals who have enjoyed the 60-day exemption include those from Australia, China, France, Germany, India, Italy, Spain and the US. Many of those countries' citizens will have to apply for a visa for stays longer than 30 days, the Thai foreign ministry said, though some will have exemption periods shorter or longer than this based on reciprocal agreements with individual countries. The new visa system will come into effect 15 days after it appears in the Royal Gazette, where legal and regulatory notifications are published. The foreign ministry said it aimed to reduce instances of multiple visa exemptions applying to the same country \"that confuse foreigners\". Thailand is one of Asia's top holiday destinations, with tourism a key component of the nation's economy. It had nearly 40 million visitors in 2019, but this number fell dramatically during the pandemic and has only recovered in the past two years. Nearly 12 million people have already visited so far this year, official figures show. But a number of foreign nationals have been arrested for a range of crimes in recent months, including UK citizens accused of drug smuggling .",
-          "url": "https://www.bbc.com/news/articles/c78q3qjqnn5o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/adea/live/07070ef0-539d-11f1-960b-071e01d068d2.jpg",
-          "published_at": "2026-05-19T16:34:21Z",
-          "embed_url": "https://www.bbc.com/news/articles/c78q3qjqnn5o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
           "tags": [
             "World",
             "BBC"
@@ -2600,30 +2600,56 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "4205044fb519",
+          "id": "5d436aa392ea",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Cuál es el precio del DÓLAR BCV hoy, martes 19 de mayo en Venezuela?",
-          "summary": "¿A cómo está el dólar hoy? Revisa el tipo de cambio y tasa oficial del dólar BCV en Venezuela según la cotización del Banco Central.",
-          "body_text": "Consulta Dólar BCV en Venezuela hoy, martes 19 de mayo de 2026. ¿A cómo se cotiza el dólar según el Banco Central de Venezuela (BCV)? Conoce el tipo de cambio del dólar estadounidense en Venezuela. ¿Por qué es relevante esta cotización? Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 517,96 Bs según la tasa del Banco Central de Venezuela.",
-          "url": "https://elcomercio.pe/respuestas/venezuela/precio-del-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-bitcoin-dolartoday-banco-central-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/GRNITBAT3ZBPRKJTSCAV6CVX2U.png?auth=7b38aece4bd019ea93578a8da1c2c06f55c8cc41e080ded01659f0bfca6cbb74&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-20T01:52:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/venezuela/precio-del-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-bitcoin-dolartoday-banco-central-tdpe-noticia/",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T13:42:14Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
-            "Venezuela",
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
             "Senaste",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "af6dc64c0adf",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Primer simulacro nacional multipeligro del año será el 29 de mayo, informa Indeci",
+          "summary": "El Instituto Nacional de Defensa Civil (Indeci) anunció que el primer Simulacro Nacional Multipeligro de 2026 se realizará el viernes 29 de mayo a las 10:00 a. m. para fortalecer las capacidades de respuesta de la población y las autoridades ante peligros como sismos, tsunamis e inundaciones.",
+          "body_text": "El Instituto Nacional de Defensa Civil (Indeci) anunció que el Primer Simulacro Nacional Multipeligro del 2026 se realizará el viernes 29 de mayo a las 10:00 a. m. para fortalecer las capacidades de respuesta de la población y las autoridades ante peligros como sismos, tsunamis e inundaciones. El simulacro se realizará tras el sismo de magnitud 6.1 registrado el pasado 19 de mayo con epicentro en el departamento de Ica, el cual se sintió también en la ciudad de Lima. La subdirectora de preparación del Indeci, Catherine Palacios, informó a Canal N que la naturaleza del ejercicio responde a las realidades geográficas de cada región. Un total de 21 departamentos y la provincia del Callao ensayarán la evacuación por terremoto, mientras que regiones amazónicas y andinas se enfocarán en inundaciones y deslizamientos. Palacios aclaró que el sistema Sismate no se activó durante el temblor real del 19 de mayo porque está configurado para peligros de impacto progresivo, como tsunamis o aluviones. No obstante, confirmó que el 29 de mayo se enviarán mensajes masivos de prueba a los teléfonos celulares con fines pedagógicos tras iniciarse el simulacro nacional. La funcionaria exhortó a las familias a diseñar su plan de emergencia interno y practicar el uso del servicio gratuito de mensajería de voz 119. Esta herramienta estatal permite dejar grabaciones de audio cortas a parientes directos, garantizando la comunicación fluida incluso ante un eventual colapso de las líneas telefónicas comerciales. El ejercicio iniciará con el sonido de bocinas, sirenas o campanas que representan la inminencia de un peligro. Durante los dos primeros minutos, la población debe ubicarse en zonas seguras internas para luego evacuar hacia puntos de reunión externos llevando consigo su mochila para emergencias.",
+          "url": "https://elcomercio.pe/lima/sucesos/sismos-en-peru-primer-simulacro-nacional-multipeligro-del-ano-sera-el-29-de-mayo-informa-indeci-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/IE6BWQ7MWVGXRABAYOHTOEF6KI.jpg?auth=07e34ded1bda9aadf196fbbcd4b079be1ec70dd2f448347b6f6de114ce54f273&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T13:23:19Z",
+          "embed_url": "https://elcomercio.pe/lima/sucesos/sismos-en-peru-primer-simulacro-nacional-multipeligro-del-ano-sera-el-29-de-mayo-informa-indeci-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Sismo, Temblor, Indeci, Sismos en Perú, Simulacro nacional multipeligro",
+            "Sucesos",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "2acc76532618",
@@ -2649,7 +2675,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e9a86bad7405",
@@ -2675,7 +2701,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "4ca2afe2b77c",
@@ -2697,32 +2723,6 @@
           "tags": [
             "ignacio buse, atp 500 de hamburgo, atp 500 hamburgo, tenis peruano, flavio cobolli",
             "Tenis",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "5d436aa392ea",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
-          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
-          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
-          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-19T12:53:24Z",
-          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
-            "Cómo",
             "Senaste",
             "El Comercio"
           ],
@@ -2877,30 +2877,56 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "4205044fb519",
+          "id": "5d436aa392ea",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
           "provider": "El Comercio",
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Cuál es el precio del DÓLAR BCV hoy, martes 19 de mayo en Venezuela?",
-          "summary": "¿A cómo está el dólar hoy? Revisa el tipo de cambio y tasa oficial del dólar BCV en Venezuela según la cotización del Banco Central.",
-          "body_text": "Consulta Dólar BCV en Venezuela hoy, martes 19 de mayo de 2026. ¿A cómo se cotiza el dólar según el Banco Central de Venezuela (BCV)? Conoce el tipo de cambio del dólar estadounidense en Venezuela. ¿Por qué es relevante esta cotización? Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 517,96 Bs según la tasa del Banco Central de Venezuela.",
-          "url": "https://elcomercio.pe/respuestas/venezuela/precio-del-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-bitcoin-dolartoday-banco-central-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/GRNITBAT3ZBPRKJTSCAV6CVX2U.png?auth=7b38aece4bd019ea93578a8da1c2c06f55c8cc41e080ded01659f0bfca6cbb74&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-20T01:52:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/venezuela/precio-del-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-bitcoin-dolartoday-banco-central-tdpe-noticia/",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T13:42:14Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
-            "Venezuela",
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
             "Economia",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "af6dc64c0adf",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Primer simulacro nacional multipeligro del año será el 29 de mayo, informa Indeci",
+          "summary": "El Instituto Nacional de Defensa Civil (Indeci) anunció que el primer Simulacro Nacional Multipeligro de 2026 se realizará el viernes 29 de mayo a las 10:00 a. m. para fortalecer las capacidades de respuesta de la población y las autoridades ante peligros como sismos, tsunamis e inundaciones.",
+          "body_text": "El Instituto Nacional de Defensa Civil (Indeci) anunció que el Primer Simulacro Nacional Multipeligro del 2026 se realizará el viernes 29 de mayo a las 10:00 a. m. para fortalecer las capacidades de respuesta de la población y las autoridades ante peligros como sismos, tsunamis e inundaciones. El simulacro se realizará tras el sismo de magnitud 6.1 registrado el pasado 19 de mayo con epicentro en el departamento de Ica, el cual se sintió también en la ciudad de Lima. La subdirectora de preparación del Indeci, Catherine Palacios, informó a Canal N que la naturaleza del ejercicio responde a las realidades geográficas de cada región. Un total de 21 departamentos y la provincia del Callao ensayarán la evacuación por terremoto, mientras que regiones amazónicas y andinas se enfocarán en inundaciones y deslizamientos. Palacios aclaró que el sistema Sismate no se activó durante el temblor real del 19 de mayo porque está configurado para peligros de impacto progresivo, como tsunamis o aluviones. No obstante, confirmó que el 29 de mayo se enviarán mensajes masivos de prueba a los teléfonos celulares con fines pedagógicos tras iniciarse el simulacro nacional. La funcionaria exhortó a las familias a diseñar su plan de emergencia interno y practicar el uso del servicio gratuito de mensajería de voz 119. Esta herramienta estatal permite dejar grabaciones de audio cortas a parientes directos, garantizando la comunicación fluida incluso ante un eventual colapso de las líneas telefónicas comerciales. El ejercicio iniciará con el sonido de bocinas, sirenas o campanas que representan la inminencia de un peligro. Durante los dos primeros minutos, la población debe ubicarse en zonas seguras internas para luego evacuar hacia puntos de reunión externos llevando consigo su mochila para emergencias.",
+          "url": "https://elcomercio.pe/lima/sucesos/sismos-en-peru-primer-simulacro-nacional-multipeligro-del-ano-sera-el-29-de-mayo-informa-indeci-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/IE6BWQ7MWVGXRABAYOHTOEF6KI.jpg?auth=07e34ded1bda9aadf196fbbcd4b079be1ec70dd2f448347b6f6de114ce54f273&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T13:23:19Z",
+          "embed_url": "https://elcomercio.pe/lima/sucesos/sismos-en-peru-primer-simulacro-nacional-multipeligro-del-ano-sera-el-29-de-mayo-informa-indeci-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Sismo, Temblor, Indeci, Sismos en Perú, Simulacro nacional multipeligro",
+            "Sucesos",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "2acc76532618",
@@ -2926,7 +2952,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e9a86bad7405",
@@ -2952,7 +2978,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "4ca2afe2b77c",
@@ -2974,32 +3000,6 @@
           "tags": [
             "ignacio buse, atp 500 de hamburgo, atp 500 hamburgo, tenis peruano, flavio cobolli",
             "Tenis",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "5d436aa392ea",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
-          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
-          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
-          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-19T12:53:24Z",
-          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
-            "Cómo",
             "Economia",
             "El Comercio"
           ],
@@ -3154,30 +3154,56 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "4205044fb519",
+          "id": "5d436aa392ea",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Cuál es el precio del DÓLAR BCV hoy, martes 19 de mayo en Venezuela?",
-          "summary": "¿A cómo está el dólar hoy? Revisa el tipo de cambio y tasa oficial del dólar BCV en Venezuela según la cotización del Banco Central.",
-          "body_text": "Consulta Dólar BCV en Venezuela hoy, martes 19 de mayo de 2026. ¿A cómo se cotiza el dólar según el Banco Central de Venezuela (BCV)? Conoce el tipo de cambio del dólar estadounidense en Venezuela. ¿Por qué es relevante esta cotización? Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 517,96 Bs según la tasa del Banco Central de Venezuela.",
-          "url": "https://elcomercio.pe/respuestas/venezuela/precio-del-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-bitcoin-dolartoday-banco-central-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/GRNITBAT3ZBPRKJTSCAV6CVX2U.png?auth=7b38aece4bd019ea93578a8da1c2c06f55c8cc41e080ded01659f0bfca6cbb74&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-20T01:52:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/venezuela/precio-del-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-bitcoin-dolartoday-banco-central-tdpe-noticia/",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T13:42:14Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
-            "Venezuela",
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
             "Mundo",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "af6dc64c0adf",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Primer simulacro nacional multipeligro del año será el 29 de mayo, informa Indeci",
+          "summary": "El Instituto Nacional de Defensa Civil (Indeci) anunció que el primer Simulacro Nacional Multipeligro de 2026 se realizará el viernes 29 de mayo a las 10:00 a. m. para fortalecer las capacidades de respuesta de la población y las autoridades ante peligros como sismos, tsunamis e inundaciones.",
+          "body_text": "El Instituto Nacional de Defensa Civil (Indeci) anunció que el Primer Simulacro Nacional Multipeligro del 2026 se realizará el viernes 29 de mayo a las 10:00 a. m. para fortalecer las capacidades de respuesta de la población y las autoridades ante peligros como sismos, tsunamis e inundaciones. El simulacro se realizará tras el sismo de magnitud 6.1 registrado el pasado 19 de mayo con epicentro en el departamento de Ica, el cual se sintió también en la ciudad de Lima. La subdirectora de preparación del Indeci, Catherine Palacios, informó a Canal N que la naturaleza del ejercicio responde a las realidades geográficas de cada región. Un total de 21 departamentos y la provincia del Callao ensayarán la evacuación por terremoto, mientras que regiones amazónicas y andinas se enfocarán en inundaciones y deslizamientos. Palacios aclaró que el sistema Sismate no se activó durante el temblor real del 19 de mayo porque está configurado para peligros de impacto progresivo, como tsunamis o aluviones. No obstante, confirmó que el 29 de mayo se enviarán mensajes masivos de prueba a los teléfonos celulares con fines pedagógicos tras iniciarse el simulacro nacional. La funcionaria exhortó a las familias a diseñar su plan de emergencia interno y practicar el uso del servicio gratuito de mensajería de voz 119. Esta herramienta estatal permite dejar grabaciones de audio cortas a parientes directos, garantizando la comunicación fluida incluso ante un eventual colapso de las líneas telefónicas comerciales. El ejercicio iniciará con el sonido de bocinas, sirenas o campanas que representan la inminencia de un peligro. Durante los dos primeros minutos, la población debe ubicarse en zonas seguras internas para luego evacuar hacia puntos de reunión externos llevando consigo su mochila para emergencias.",
+          "url": "https://elcomercio.pe/lima/sucesos/sismos-en-peru-primer-simulacro-nacional-multipeligro-del-ano-sera-el-29-de-mayo-informa-indeci-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/IE6BWQ7MWVGXRABAYOHTOEF6KI.jpg?auth=07e34ded1bda9aadf196fbbcd4b079be1ec70dd2f448347b6f6de114ce54f273&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T13:23:19Z",
+          "embed_url": "https://elcomercio.pe/lima/sucesos/sismos-en-peru-primer-simulacro-nacional-multipeligro-del-ano-sera-el-29-de-mayo-informa-indeci-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Sismo, Temblor, Indeci, Sismos en Perú, Simulacro nacional multipeligro",
+            "Sucesos",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "2acc76532618",
@@ -3203,7 +3229,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e9a86bad7405",
@@ -3229,7 +3255,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "4ca2afe2b77c",
@@ -3251,32 +3277,6 @@
           "tags": [
             "ignacio buse, atp 500 de hamburgo, atp 500 hamburgo, tenis peruano, flavio cobolli",
             "Tenis",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "5d436aa392ea",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
-          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
-          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
-          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-19T12:53:24Z",
-          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
-            "Cómo",
             "Mundo",
             "El Comercio"
           ],
@@ -3431,30 +3431,56 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "4205044fb519",
+          "id": "5d436aa392ea",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
           "provider": "El Comercio",
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿Cuál es el precio del DÓLAR BCV hoy, martes 19 de mayo en Venezuela?",
-          "summary": "¿A cómo está el dólar hoy? Revisa el tipo de cambio y tasa oficial del dólar BCV en Venezuela según la cotización del Banco Central.",
-          "body_text": "Consulta Dólar BCV en Venezuela hoy, martes 19 de mayo de 2026. ¿A cómo se cotiza el dólar según el Banco Central de Venezuela (BCV)? Conoce el tipo de cambio del dólar estadounidense en Venezuela. ¿Por qué es relevante esta cotización? Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 517,96 Bs según la tasa del Banco Central de Venezuela.",
-          "url": "https://elcomercio.pe/respuestas/venezuela/precio-del-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-bitcoin-dolartoday-banco-central-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/GRNITBAT3ZBPRKJTSCAV6CVX2U.png?auth=7b38aece4bd019ea93578a8da1c2c06f55c8cc41e080ded01659f0bfca6cbb74&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-20T01:52:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/venezuela/precio-del-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-bitcoin-dolartoday-banco-central-tdpe-noticia/",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T13:42:14Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
-            "Venezuela",
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
             "Peru",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "af6dc64c0adf",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Primer simulacro nacional multipeligro del año será el 29 de mayo, informa Indeci",
+          "summary": "El Instituto Nacional de Defensa Civil (Indeci) anunció que el primer Simulacro Nacional Multipeligro de 2026 se realizará el viernes 29 de mayo a las 10:00 a. m. para fortalecer las capacidades de respuesta de la población y las autoridades ante peligros como sismos, tsunamis e inundaciones.",
+          "body_text": "El Instituto Nacional de Defensa Civil (Indeci) anunció que el Primer Simulacro Nacional Multipeligro del 2026 se realizará el viernes 29 de mayo a las 10:00 a. m. para fortalecer las capacidades de respuesta de la población y las autoridades ante peligros como sismos, tsunamis e inundaciones. El simulacro se realizará tras el sismo de magnitud 6.1 registrado el pasado 19 de mayo con epicentro en el departamento de Ica, el cual se sintió también en la ciudad de Lima. La subdirectora de preparación del Indeci, Catherine Palacios, informó a Canal N que la naturaleza del ejercicio responde a las realidades geográficas de cada región. Un total de 21 departamentos y la provincia del Callao ensayarán la evacuación por terremoto, mientras que regiones amazónicas y andinas se enfocarán en inundaciones y deslizamientos. Palacios aclaró que el sistema Sismate no se activó durante el temblor real del 19 de mayo porque está configurado para peligros de impacto progresivo, como tsunamis o aluviones. No obstante, confirmó que el 29 de mayo se enviarán mensajes masivos de prueba a los teléfonos celulares con fines pedagógicos tras iniciarse el simulacro nacional. La funcionaria exhortó a las familias a diseñar su plan de emergencia interno y practicar el uso del servicio gratuito de mensajería de voz 119. Esta herramienta estatal permite dejar grabaciones de audio cortas a parientes directos, garantizando la comunicación fluida incluso ante un eventual colapso de las líneas telefónicas comerciales. El ejercicio iniciará con el sonido de bocinas, sirenas o campanas que representan la inminencia de un peligro. Durante los dos primeros minutos, la población debe ubicarse en zonas seguras internas para luego evacuar hacia puntos de reunión externos llevando consigo su mochila para emergencias.",
+          "url": "https://elcomercio.pe/lima/sucesos/sismos-en-peru-primer-simulacro-nacional-multipeligro-del-ano-sera-el-29-de-mayo-informa-indeci-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/IE6BWQ7MWVGXRABAYOHTOEF6KI.jpg?auth=07e34ded1bda9aadf196fbbcd4b079be1ec70dd2f448347b6f6de114ce54f273&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T13:23:19Z",
+          "embed_url": "https://elcomercio.pe/lima/sucesos/sismos-en-peru-primer-simulacro-nacional-multipeligro-del-ano-sera-el-29-de-mayo-informa-indeci-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Sismo, Temblor, Indeci, Sismos en Perú, Simulacro nacional multipeligro",
+            "Sucesos",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "2acc76532618",
@@ -3480,7 +3506,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e9a86bad7405",
@@ -3506,7 +3532,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "4ca2afe2b77c",
@@ -3528,32 +3554,6 @@
           "tags": [
             "ignacio buse, atp 500 de hamburgo, atp 500 hamburgo, tenis peruano, flavio cobolli",
             "Tenis",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "5d436aa392ea",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
-          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
-          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
-          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-19T12:53:24Z",
-          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
-            "Cómo",
             "Peru",
             "El Comercio"
           ],
@@ -3742,44 +3742,44 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "084b99ac63e3",
+          "id": "af699a66f49a",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "'Ask YouTube' brings AI-powered conversational search to video, adds Gemini Omni to Shorts | TechCrunch",
-          "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
-          "body_text": "Google is completely revamping its search experience, and that doesn’t stop at YouTube. Like the rest of Google, YouTube’s search bar is getting infused with AI tools like “Ask YouTube,” a feature that is supposed to give users a more sophisticated search experience. “With Ask YouTube, you can ask more complex search queries, such as wanting tips on how to teach your kid to ride a bike, or finding creator reviews of cozy games to play before bedtime,” the company explained. “You can even ask follow-up questions to continue refining what you’re looking for.” YouTube will compile both Shorts and long-form videos and generate a response. The company also announced that it is adding Gemini Omni, Google’s new AI video model, to YouTube Shorts Remix and the YouTube Create app. “Remixing with Omni delivers a fresh way for users to create and build on each other’s imagination,” YouTube wrote in a press release. “The model better understands user intent creating more consistent and meaningful storytelling while also handling complex video and audio adjustments behind the scenes.” Other companies like Meta and OpenAI have seen mixed reception when pushing for AI use in Shorts. OpenAI even sunsetted its social app Sora, where users could post and share their AI-generated clips. But YouTube seems to be rolling this out in a manner that feels a bit less front and center. YouTube is also expanding its likeness-detection tool to creators 18 and older, which is supposed to help prevent creators from being deepfaked in other people’s AI content. If a creator sees themselves misrepresented in AI videos, they can request that the video be removed. Since this feature is only now expanding more broadly, it remains to be seen how effective it is. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos. You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone. Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-          "url": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.00.28-PM.png?resize=1200,665",
-          "published_at": "2026-05-20T05:45:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.00.28-PM.png",
+          "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead | TechCrunch",
+          "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+          "body_text": "The funding was led by Valley Capital Partners, and saw participation from Docker, Vercel, Monday.com, Slow Ventures and angels like Clem Delangue, CEO of Hugging Face. In a matter of weeks, NanoClaw creator Gavriel Cohen (pictured above, left) said he went from coding the project on his couch to receiving viral endorsements from Andrej Karpathy and Singapore’s foreign minister, fielding inbound interest from dozens of investors, and even a roughly $20 million acquisition offer that he and his brother and co-founder, Lazer Cohen (pictured above, right), declined. “It was under six weeks from committing the first lines of code to a term sheet,” Gavriel told TechCrunch. “There was a lot of inbound and interest,” he added. “People reaching out in DMs on X and sending emails.” He estimated that about 50 or more founders and tech executives sent DMs asking to invest. One of them was Delangue, who dropped a note: “I like what you’re doing with NanoClaw.” Gavriel then responded in kind, telling the Hugging Face CEO that he liked the company’s tiny robot, Reachy Mini , and hoped to run NanoClaw on it one day. The two programmers then started talking shop, and Cohen eventually asked Delangue if he was interested in angel investing and secured a yes. As it turns out, an active member of NanoClaw’s open source community is already working on running it on Reachy Mini, Gavriel says. As we previously reported , interest in NanoClaw skyrocketed after AI researcher Andrej Karpathy tweeted his praise for it. But the project really began to snowball after the Foreign Minister of Singapore called NanoClaw his “second brain” in a Facebook post that went viral. NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their previous startup, an AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, with access to all services and credentials, NanoClaw runs sandboxed in a container — a practice that is becoming a common solution to running more secure, OpenClaw-like setups . But a couple of months ago, the idea was novel and took on a life of its own. Seeing the interest, the Cohen brothers began talking to investors and other founders asking for advice. Should they turn this free project into a company? How? One VC offered to buy the project right then for one of his portfolio companies, offering a “six-digit” dollar amount, Cohen said. While contemplating that, they met a founder friend who gave them a key insight: Open-source projects grow exponentially more valuable as their community grows. Not only do these users help contribute code to mature the project quickly, but they discover and demonstrate various uses as well.",
+          "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708",
+          "published_at": "2026-05-20T14:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
             "Tech",
             "TechCrunch"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 0
         },
         {
-          "id": "48767e595e58",
+          "id": "158c7a26f756",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Google just declared itself a contender in AI design at IO 2026 | TechCrunch",
-          "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-          "body_text": "Google announced at its annual Google I/O event on Tuesday that it’s launching Pics, a new AI-powered design and image-generation app for Google Workspace. The tech giant says it designed the app to be accessible to everyone, from teachers to small business owners. With Pics, users can generate everything from social media graphics and invitations to marketing materials and mock-ups using simple text prompts, without needing any editing skills or advanced tools. By giving users an easy way to generate visuals, Google is looking to take on popular design apps like Canva, as well as products from AI-native competitors like Claude Design from Anthropic. Google’s entry into the space signals that AI-powered design is fast becoming a core competitive arena — with real stakes for any business that depends on visual content. The company acknowledges that although AI models today can generate high-quality images, it’s still difficult to modify just one part of an image. If you get an image that’s almost perfect but want to change a small detail, you have to write an entirely new prompt and hope the AI doesn’t alter too much. That’s why Pics not only generates images but also makes them easily editable. Users can enter a prompt, and Pics will generate what they need. Gemini powers the editing layer, making every element in a generated design or image fully adjustable. You can write a new prompt to make changes, but you can also simply click the part you want to change and leave a comment — much like leaving feedback in Google Docs. You can also edit directly, without leaving a comment or writing a prompt. For example, if you create a birthday party invitation and want to change the time listed on the card, you can do so manually. Pics is powered by Nano Banana 2, which Google says is a strong fit for the app because it supports precise text rendering, real-world knowledge, and detailed visual output. Pics is also built natively into Google Workspace, enabling visual collaboration across its apps. Once you’re happy with your design, you can download, copy, print, or share it with others. You can also pass it to someone else for a final round of edits before it goes out, Google says. Google updates Gemini app to take on ChatGPT and Claude Google introduces Gemini Spark, a 24/7 agent assistant with Gmail integration How to use Google’s new information agents When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Aisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.",
-          "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/google-pics.png?resize=1200,736",
-          "published_at": "2026-05-19T21:33:30Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/google-pics.png",
+          "title": "Startup Battlefield 200 applications close May 27 | TechCrunch",
+          "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K. Nominate and apply here.",
+          "body_text": "Your shot at VC access, global visibility, TechCrunch coverage, and $100,000 in equity-free funding is gone in a week. Startup Battlefield 200 applications close May 27. If you’re building a breakout startup — or know a founder who is — this is the moment to act. Apply today for the opportunity to take the stage at TechCrunch Disrupt 2026 , October 13-15, alongside 200 of the world’s most promising early-stage startups. Pre-Series A founders, consider this your final countdown reminder: the strongest startups are already entering the arena, and the application window is closing fast . If your startup has already been nominated, don’t wait to complete your application . This final week moves quickly, and last-minute submissions risk getting buried as applications surge ahead of the deadline. Know a startup that deserves the spotlight? Nominate them now so they still have time to apply before May 27. Some of the most consequential companies in tech history didn’t launch with splashy fundraising announcements. They started with a pitch. Dropbox demoed to a room full of skeptics. Cloudflare took the stage before most people understood what edge networking meant. Discord was still a scrappy gaming startup called Hammer & Chisel. They all passed through the same crucible: Startup Battlefield 200. That’s not a coincidence — it’s a pattern. And it starts with an application. Startup Battlefield 200 has never been a competition for the most polished companies. It’s a competition for the most promising ones. Pre-launch is fine. No revenue is fine. What matters is whether what you’re building genuinely changes something — not incrementally, but meaningfully. If you or a founder you know is building something impactful, then the application itself becomes the first pitch. Apply before May 27. Startup Battlefield 200 is where breakout companies get discovered.",
+          "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800",
+          "published_at": "2026-05-20T14:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3994,10 +3994,107 @@
       "surface": "newsroom",
       "source_kind": "story",
       "live_section": false,
-      "status": "pending",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 4,
       "priority_split": 0,
-      "articles": []
+      "articles": [
+        {
+          "id": "780d91516edf",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "ADT’s new smart security system will unlock your door for a Trusted Neighbor",
+          "summary": "ADT Plus works with Google Nest’s facial recognition capabilities and the Yale Assure 2 smart lock to allow a “Trusted Neighbor” into your home in an emergency.",
+          "body_text": "ADT’s long-rumored new security system is now live on ADT.com. Featuring entirely new ADT hardware and integrations with Google Nest cameras, smart speakers, and more, the new ADT Plus system has a distinctly Google Nest Secure look and feel (RIP). But how it will work in your home remains to be seen. The company also announced that the Yale Assure Lock 2 will be the first smart lock compatible with Trusted Neighbor, its new feature that leverages technologies such as smart locks and facial recognition to make it easier for people you trust to get into your home in an emergency — or just to feed the dog. If you have the smart lock as part of the system, you’ll be able to set it so that when your “trusted neighbor” comes to the house to help you out, the door can unlock automatically and the system disarm, then re-lock and re-arm when they leave. [Image: Yale’s Assure Lock 2 (Z-Wave) will be the first smart door lock to work with ADT’s new Trusted Neighbor feature. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24970263/236819_Yale_Assure_Lock_2_JTuohy_0003.jpg?quality=90&strip=all] The new ADT Plus system is a significant shift for the company as it brings its professionally installed system and DIY system to parity. Now, you get the same hardware no matter which installation route you go. ADT Plus replaces ADT’s Self Setup system, which launched in 2023 following Google’s investment in the company. It was offered for free to Nest Secure users when that service shut down and will continue to be supported. According to ADT’s chief business officer, Wayne Thorsen, the technology behind the new system — which uses DECT Ultra Low Energy, Z-Wave, Wi-Fi, and BLE protocols — is able to integrate more deeply with hardware from smart home partners like Yale and Google, allowing for more advanced automation. In an interview with The Verge, Thorsen said this is just the start of more intelligent integrations that will be coming to the new platform. The Z-Wave Yale lock is the first lock to be compatible, but Thorsen says there will be more options in the future. The access feature allows someone you trust to disarm your system and unlock the door using the app or a key code based on parameters you set. These parameters can be time-based or — uniquely — event-based. So, you can set it to let Suzy in if a package shows up at your door and to let the plumber in if a leak detector is triggered. It can also leverage the Familiar Face feature of Google’s Nest cameras and the Yale lock’s connection to the ADT system to have the home “magically” disarm itself and unlock the door when it recognizes a trusted neighbor. [Image: Trusted Neighbor is a new feature in the ADT Plus app that lets you give friends and neighbors secure time and event-based access to your home. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25550644/adt.jpg?quality=90&strip=all] The Yale Assure Lock 2 is being offered in a bundled starter kit for the new system, which regularly costs $658.98 but is launching with a 30 percent discount for $461.29. The Front Door Protection bundle includes the new base station, two door/window sensors, a Yale Assure Lock 2, and a Google Nest Doorbell (battery). Professional monitoring is $45 a month and includes a subscription to Nest Aware for event-based video recording (if you want 24/7 video recording, it’s an extra $7). The premium Total Safety package adds a third door/window sensor, a motion sensor, three Google Nest Cams (Nest Cam indoor, Nest Cam indoor/outdoor, and Nest Cam floodlight), and three water temp sensors for $1,101.76 (reg $1,573.95). You can also build a package that starts at $269 for the base station and one door/window sensor. The ADT Plus system can be self-installed and self-monitored. However, you have to pay for one month of monitoring to purchase the system — after that, you can self-monitor for free, according to the company. For professional installation, a 36-month monitoring plan is required. Shades of Nest Secure [Image: Google’s Nest Secure home security system shut down earlier this year. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13736401/nest_secure.jpg?quality=90&strip=all] The new ADT Plus system borrows heavily from the much-missed Google Secure system. It has a similar-looking base station that features a backlit touch-button keypad with proximity sensing and the option of premium door and window sensors, similar to the Nest Detects that were part of Nest Secure. The sensor can be disabled with a button press — so you can let the dog out to pee without waking up the whole house — although it doesn’t double as a motion sensor like the Detect did. Since Google’s investment in ADT in 2020, there have been several changes at the top of the company, with many Nest employees moving over from Google to ADT —including Thorsen and new CTO Gilles Drieu, who was director of engineering at Google Nest. This all means the new hardware has Nest’s fingerprint all over it. I’m looking forward to testing it out to see if it’s a worthy Nest Secure successor. However, while ADT Plus works with Google Nest hardware, the company tells me it’s not compatible with the Google Home app — app control is only through the ADT Plus app. As someone who has covered the smart home and home security for over a decade, I’m excited to see better integration and innovation between the two areas, which have been largely segmented to date. At the same time, it’s frustrating that this is all still locked within a closed ecosystem. It will be interesting to see where ADT, Google, and Yale take this.",
+          "url": "https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25550574/adt_2.jpg?quality=90&strip=all&crop=4.985119047619%2C6.6220129281348%2C95.014880952381%2C93.377987071865&w=1200",
+          "published_at": "2024-07-29T22:00:00Z",
+          "embed_url": "https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "c8d65cd76e4e",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Blue by ADT launches a suite of HomeKit-ready cameras",
+          "summary": "LifeShield has rebranded to Blue by ADT, and it’s launching three new smart cameras at CES 2020 to celebrate. Each is compatible with Apple HomeKit, supports facial recognition, and costs $199.99.",
+          "body_text": "LifeShield has changed its name to “Blue by ADT,” but the bigger news out of CES 2020 is that it has launched three new DIY smart home security products, and they’re available today. All of them are cameras, and the collection consists of a video doorbell (pictured above), an indoor camera, and an outdoor camera. As for what they all have in common: they each cost $199.99, can recognize faces, and each also supports two-way talking and custom motion zones for alerts. Arguably their biggest selling point is HomeKit compatibility, as Apple’s smart home protocol has been in need of an upswing in support like this. That said, it might be a little deflating to learn that HomeKit — along with Google Assistant support — won’t be available until Q2 2020. At launch, these cameras will only work with Alexa and IFTTT. One of the coolest features provided by all three cameras is how they present notifications on your phone. Instead of having to click through a notification to see the video feed, Blue by ADT’s new cameras insert a video clip directly into the alert so you can see if it’s worth your time to investigate further. [Image: The doorbell’s button turns red when recording through HomeKit, as is required by Apple. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19540155/cfaulkner_170101_3846_0039.jpg?quality=90&strip=all] Blue by ADT’s new doorbell works via wired connection only, so only those with preexisting wiring for a doorbell will be able to use this. In this way, it’s competing against Ring’s Video Doorbell Pro, not the wireless-capable Video Doorbell 2. It has a 180-degree field of view (slightly wider than that of Ring or Nest’s latest video doorbells), records in 1080p resolution, is weather-resistant, and has night vision support. [Image: The indoor camera’s microSD slot is easily accessible on its side. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19540152/cfaulkner_170101_3846_0016.jpg?quality=90&strip=all] The indoor and outdoor cameras look almost identical, though they have their share of differences internally. You’ll find microSD support on each (up to 128GB) in case you’d rather record on your own terms instead of paying ADT for cloud storage. They also both record in 1080p resolution. Here’s where they differ: the indoor camera can listen for fire and carbon monoxide alarms and alert you via a notification if it hears them, and it features dual microphones to keep a closer ear on things that are happening in your home. It’s a wired camera, but in the case of a power outage, its built-in battery can last up to 70 minutes. The outdoor camera is Blue by ADT’s only wireless camera at the moment. The company hasn’t shared how long it expects its built-in battery to last per charge. This model has IP65 weather resistance, a 130-degree field of view, and it records in 1080p resolution. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19540153/cfaulkner_170101_3846_0018.jpg?quality=90&strip=all] ADT plans to offer professional monitoring for each of these products later this year for $19.99 per month, but at launch, you’ll be the one doing the monitoring. Each camera supports 24 hours’ worth of video storage for free. If that’s not enough coverage for you, Blue by ADT charges $2.99 per camera (or $12.99 for unlimited cameras) to extend it to 60 days. Blue by ADT had one more product to show off: its Chime + Extender. It plugs into a wall outlet and serves as a signal extender for your other Blue by ADT smart home tech. Other than that, the company says this product has a Bonjour server built in, and when HomeKit support goes live, it claims that it will allow for low-latency alerts when someone’s at the door, for instance. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19540156/cfaulkner_170101_3846_0041.jpg?quality=90&strip=all] This is only the beginning for the company’s DIY smart home plans. Blue by ADT claims that in Q2 2020, it will launch a base station, keypad, motion sensors, and window sensors to supplement the cameras. All of these products, as well as its previous LifeShield products, are said to work harmoniously with each other. Blue by ADT says you can expect pricing details for the other smart home products to be made available closer to release. Photography by Cameron Faulkner / The Verge",
+          "url": "https://www.theverge.com/2020/1/6/21028834/blue-adt-doorbell-indoor-outdoor-camera-apple-homekit-google-assistant-ces-2020",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19540149/cfaulkner_170101_3846_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2020-01-06T14:00:00Z",
+          "embed_url": "https://www.theverge.com/2020/1/6/21028834/blue-adt-doorbell-indoor-outdoor-camera-apple-homekit-google-assistant-ces-2020",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "54010b2c529f",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "https://www.theverge.com/2020/1/6/21028834/blue-adt-doorbell-indoor-outdoor-camera-apple-homekit-google-assistant-ces-2020\\\"\\u003eBlue",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.theverge.com/2020/1/6/21028834/blue-adt-doorbell-indoor-outdoor-camera-apple-homekit-google-assistant-ces-2020\\\"\\u003eBlue",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.theverge.com/2020/1/6/21028834/blue-adt-doorbell-indoor-outdoor-camera-apple-homekit-google-assistant-ces-2020\\\"\\u003eBlue",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "f048a9683912",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock\\\"\\u003eGoogle",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock\\\"\\u003eGoogle",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock\\\"\\u003eGoogle",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        }
+      ]
     },
     {
       "id": "theverge-ai",
@@ -4088,8 +4185,8 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Om Aftonbladet – kontakt och redaktionell policy",
-          "summary": "Tjänstgörande redaktörer: Linnea Digerstedt, Mikael Hedmark och Nils Höglander. Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Ka",
-          "body_text": "Uppdaterad 05.13 | Publicerad 2016-10-19 Tjänstgörande redaktörer: Linnea Digerstedt , Mikael Hedmark och Nils Höglander . Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius, och till 9 procent av Landsorganisationen i Sverige, LO.",
+          "summary": "Tjänstgörande redaktörer: Kristina Jeppsson, Elliot Morseth Edvinsson och Elvira Barsotti Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga ut",
+          "body_text": "Uppdaterad 15.18 | Publicerad 2016-10-19 Tjänstgörande redaktörer: Kristina Jeppsson , Elliot Morseth Edvinsson och Elvira Barsotti Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius, och till 9 procent av Landsorganisationen i Sverige, LO.",
           "url": "https://www.aftonbladet.se/a/LOlQ4/om-aftonbladet",
           "image_url": "https://images.aftonbladet-cdn.se/v2/images/11bc7a56-7cf1-4ae6-9bd3-f357872611de?fit=crop&format=auto&h=1267&q=50&w=1900&s=099f3f072dd17d1fe790dd9e1ec65cff7a6620d3",
           "published_at": "2020-09-02T08:55:45Z",
@@ -4169,20 +4266,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "364a5a68960f",
+          "id": "0fdccc7e3da7",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Åkessons skarpa mothugg: ”OCH”",
-          "summary": "SD vill låta Systemet ha öppet alla dagar. Ingen bra idé, menar KD-ledaren Ebba Busch – som nu får mothugg av Jimmie Åkesson.",
-          "body_text": "SD vill låta Systemet ha öppet alla dagar. Ingen bra idé, menar KD-ledaren Ebba Busch – som nu får mothugg av Jimmie Åkesson. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Sverigedemokraterna vill se söndagsöppet på Systembolaget . Det ska gå att köpa en öl eller en flaska rött under alla veckans dagar, menar man. – När vi har monopolet som jag i grunden tycker är väldigt bra, ska man upprätthålla någon slags legitimitet i det systemet. Så är det bra om man också möter efterfrågan på ett annat sätt, sa Jimmie Åkesson tidigare i veckan. Men förslaget landade inte väl hos KD-ledaren Ebba Busch. – Tycker det säger mycket om ett partis prioriteringar inför valet, säger hon till SVT och slår fast att hennes parti hellre vill fokusera på sjukvården. Är du 18–25 år? Nu kan du läsa Expressen gratis i ett år – avslutas automatiskt. Klicka här! Men det ena behöver inte utesluta det andra, menar Jimmie Åkesson som nu svarar i ett inlägg på X . ” Jag har hyfsat säker på att åtminstone SD klarar av att både förbättra vården OCH låta vanligt folk köpa pilsner på söndagar ”, skriver han och tillägger att detsamma gäller för till exempel kärnkraft och sänkta drivmedelspriser. ” I Sverigedemokraterna jobbar vi med både små och stora frågor som gör vårt land till en bättre plats att leva på ”, fortsätter SD-ledaren. ” Folk behöver 'chilla Gunilla' med sina rubriker ”‚ skriver hon på X där hon delar Åkessons inlägg.",
-          "url": "https://www.expressen.se/nyheter/politik/jimmie-akessons-svar-till-ebba-busch-och-p1bkc/",
-          "image_url": "https://static.bonniernews.se/images/67/4e/674eacf6198b45e587dd7e93cef3d954/16x9/original.png",
-          "published_at": "2026-05-20T11:40:22Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/jimmie-akessons-svar-till-ebba-busch-och-p1bkc/",
+          "title": "Max-arvingens liv i familjeföretaget – orden innan sin död",
+          "summary": "Wilhelm Bergfors blev bara 27 år, men han hann ändå med ett par år i familjeföretaget Max. Under en tid var han restaurangchef för Max på Kungsgatan i Stockholm",
+          "body_text": "Wilhelm Bergfors blev bara 27 år, men han hann ändå med ett par år i familjeföretaget. Under en tid var han restaurangchef för Max på Kungsgatan i Stockholm och efter pappa Curts död ägde han en fjärdedel av aktierna i företaget. – Jag är mer än Max. Jag är mer än så här, sa han i Expressens podd ” Hamburgerkungen ” från 2024. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den 19 april inträffade en allvarlig trafikolycka på Mallorca där Wilhelm Bergfors omkom. Han var Curt Bergfors son och under sin uppväxt och sin karriär en del av familjeföretaget. – Man får väl sina värderingar av sin familj och Max är en del av min familj, eller? Man kan väl säga att mina bröder och min pappa har satt sin prägel på Max eller värderingar på Max och sådana saker och det har de gjort på mig också, säger Wilhelm i Expressens podd ”Hamburgerkriget”. Wilhelm som var yngst av bröderna, började likt storebröderna Christoffer och Richard, tidigt att hjälpa till på restaurangerna. När McDonald's stängde sin första restaurang i Sverige, på Kungsgatan 4 i Stockholm, efter närmare 40 år, är pappa Curt utom sig av glädje. Det var självklart att Max skulle öppna på exakt den adressen och Wilhelm fick frågan om han inte ville bli restaurangchef. – Jag var extremt nervös kommer jag ihåg. Är allting på plats? Är vi redo? Och sen så vill man ju bara leva upp till allas förväntningar liksom. För absolut, att det var McDonald's första var en fjäder i hatten, så man kände ju av att förväntningarna var att det skulle bli en stor succé. Efter Wilhelms död besökte Expressen restaurangen. – Han var väldigt älskad bland personalen. Jag själv jobbade aldrig med honom, men många har berättat om honom. Man kunde ringa honom mitt i natten om det hade uppstått en situation, och hans svar var alltid ’Jag kommer direkt’. Alla säger att han var en väldigt bra chef, alltid positiv, säger Mohammed liban, driftchef på Max Kungsgatan. Samtidigt ville Wilhelm mer – och kanske något annat. Våren 2024 satt han i styrelsen och jobbade som kommunikatör på huvudkontoret i Stockholm.",
+          "url": "https://www.expressen.se/nyheter/sverige/wilhelm-bergfors-liv-inom-max-orden-innan-sin-dod/",
+          "image_url": "https://static.bonniernews.se/images/5a/e0/5ae0030ae7db4fe19abb891f01b1d97f/16x9/original.png",
+          "published_at": "2026-05-20T14:43:50Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/wilhelm-bergfors-liv-inom-max-orden-innan-sin-dod/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4193,20 +4290,20 @@
           "sort_order": 0
         },
         {
-          "id": "f4428f12f018",
+          "id": "df9e01d594b8",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "SD-ledamoten Rashid Farivar: SD agerade fel i riksdagen",
-          "summary": "SD:s riksdagsledamot Rashid Farivar anser att SD gjorde fel när partiet lät två utkvittade ledamöter rösta för att stoppa oppositionens förslag, om övergångsregler för de nya medborgarskapskraven.",
-          "body_text": "SD:s riksdagsledamot Rashid Farivar anser att SD gjorde fel när partiet lät två utkvittade ledamöter rösta för att stoppa oppositionens förslag, om övergångsregler för de nya medborgarskapskraven. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Farivar skriver på DN Debatt att Sverigedemokraterna ”har anledning att självkritiskt reflektera över hur situationen hanterades ”och att sättet majoriteten säkrades på var ”fel”. Han framhåller att han skriver som enskild riksdagsledamot, inte på uppdrag av SD. Han anser att förtroendet för riksdagens arbetsformer är viktigare än ”kortsiktiga parlamentariska segrar.” Farivar anser att det går att reparera skadan genom att göra om voteringen. ”Vi på Tidösidan har fortfarande många viktiga reformer framför oss. Då är det oansvarigt att riskera hela riksdagens arbetsformer för en enskild votering”, skriver han. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/politik/sd-ledamoten-rashid-farivar-sd-agerade-fel-i-riksdagen/",
-          "image_url": "https://static.bonniernews.se/images/d5/42/d542548f30c641d9b4848d56f1296f29/16x9/original.jpg",
-          "published_at": "2026-05-20T10:17:12Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/sd-ledamoten-rashid-farivar-sd-agerade-fel-i-riksdagen/",
+          "title": "Journalisten: ”Funnits en kultur som skadat”",
+          "summary": "Camilla Läckberg har gått ut och försvarat Lundsberg. SVT-journalisten Johannes Hallbom, som ligger bakom dokumentären, tror att verkligheten på internatskolan kan se annorlunda ut för alla – men att det finns ett utbrett problem.",
+          "body_text": "Camilla Läckberg har gått ut och försvarat Lundsberg. SVT-journalisten Johannes Hallbom, som ligger bakom dokumentären, tror att verkligheten på internatskolan kan se annorlunda ut för alla – men att det finns ett utbrett problem. – Många Lundsbergsföräldrar behöver ha allvarliga samtal med sina barn, säger han. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. SVT:s Dokument inifrån har i ungefär ett och ett halvt års tid arbetat med en tredelad dokumentärserie om internatskolan Lundsberg . I den framkommer bland annat att våld, bestraffningar och poängsystem förekommer på skolan. Entreprenören Gunilla von Platen är även med i dokumentären och vittnar om det våld och den rasism som hennes son, som gått på skolan, upplevt. SVT har granskat Lundsberg i en dokumentärserie. Enligt den förekommer våld, bestraffningar och poängsystem på skolan. Dokumentärmakaren Johannes Hallbom säger att många Lundsbergsföräldrar behöver prata allvar med sina barn. Samtidigt har flera andra föräldrar till barn på Lundsberg reagerat – och gått ut till skolans försvar. Tv-profilen Bathina Philipson har kallat anklagelserna om rasism för ”bullshit” och författaren Camilla Läckberg har hyllat skolan i en intervju med P4 Extra. – Pojkarna är fina mot varandra. Det är allt jag har sett och vad min son säger till mig, säger Camilla Läckberg. SVT-journalisten Johannes Hallbom ligger bakom dokumentären och har noterat Läckbergs kommentarer. – Man blir ju alltid glad av att höra om barn och ungdomar som trivs i sin skola. Det är ju så det ska vara.",
+          "url": "https://www.expressen.se/nyheter/sverige/journalisten-om-lundsberg--funnits-en-kultur-som-skadat/",
+          "image_url": "https://static.bonniernews.se/images/fa/ea/faeab0f46fd34cc99bfb33b3aeceaa53/16x9/original.png",
+          "published_at": "2026-05-20T14:35:07Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/journalisten-om-lundsberg--funnits-en-kultur-som-skadat/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4217,20 +4314,20 @@
           "sort_order": 1
         },
         {
-          "id": "58af03024535",
+          "id": "ca6913c85b0c",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Ebolautbrottet hotar hela Afrika: Vårdpersonal vittnar om ”galet läge”",
-          "summary": "Viruset spreds oupptäckt i flera veckor. Minst 139 människor har dött och över 600 misstänks ha smittats. WHO:s generaldirektör är ”djupt oroad över epidemins omfattning och hastighet”. Afrikanska unionens smittskyddsenhet klassar ebolautbrottet för ett säkerhetshot för kontinenten. Enligt UD befinner sig runt 200 svenska medborgare i det smittodrabbade området.",
-          "body_text": "Viruset spreds oupptäckt i flera veckor. Minst 139 människor har dött och över 600 misstänks ha smittats. WHO:s generaldirektör är ”djupt oroad över epidemins omfattning och hastighet”. Afrikanska unionens smittskyddsenhet klassar ebolautbrottet för ett säkerhetshot för kontinenten. Enligt UD befinner sig runt 200 svenska medborgare i det smittodrabbade området. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ebolautbrottet i östra Kongo-Kinshasa och Uganda har krävt minst 139 människoliv, enligt Världshälsoorganisationen (WHO). Dödssiffran lär dock stiga. Över 600 människor misstänks vara smittade – och den sällsynta virusvarianten, Bundibugyo, har en dödlighet på 30-50 procent. Minst 139 människor har dött i Kongo-Kinshasa och Uganda, efter att ha smittats av en sällsynt variant av ebolavirus. Sjukvårdspersonal testade för en vanligare typ av ebola, vilket fördröjde upptäckten av utbrottet. WHO har utlyst internationellt nödläge och Afrikanska unionen klassar utbrottet som ett säkerhetshot för hela kontinenten. Lokala vårdinrättningar är överfulla och många patienter kan inte isoleras, vilket försvårar hanteringen av utbrottet. Viruset spreds oupptäckt i flera veckor efter det första dödsfallet eftersom sjukvårdspersonal testade för en vanligare typ av ebola och fick negativa resultat.",
-          "url": "https://www.expressen.se/nyheter/varlden/utbrottet-ett-hot-hela-kontinenten-ar-ett-galet-lage-/",
-          "image_url": "https://static.bonniernews.se/images/98/d3/98d3e5d2aa4c4809909737a508749d92/16x9/original.png",
-          "published_at": "2026-05-20T10:16:18Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/utbrottet-ett-hot-hela-kontinenten-ar-ett-galet-lage-/",
+          "title": "Utsatta barns pengar gick till elevassistentens konto",
+          "summary": "Elevassistenten sökte pengar från kungens stiftelse för resor och fritidsaktiviteter åt funktionsnedsatta barn – som aldrig ägde rum. Istället hamnade delar av pengarna i elevassistentens egen ficka. – Otroligt beklagligt, säger Jan Lindman, överintendent vid Kungliga Hovstaterna.",
+          "body_text": "Elevassistenten sökte pengar från kungens stiftelse för resor och fritidsaktiviteter åt funktionsnedsatta barn – som aldrig ägde rum. Istället hamnade delar av pengarna i elevassistentens egen ficka. – Otroligt beklagligt, säger Jan Lindman, överintendent vid Kungliga Hovstaterna. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Prins Carl Gustafs stiftelse startades 1946 genom en insamling i samband med nuvarande kung Carl XVI Gustafs födelse. Årligen delar stiftelsen ut stora belopp till barn och ungdomars verksamheter, särskilt till de med funktionsnedsättning som får möjlighet att komma ut på resor och läger. Nu utreds en elevassistent i Göteborg för att systematiskt ha sökt pengar från kungastiftelsen för olika projekt åt funktionsnedsatta barn på den skola han arbetat på, men utan att aktiviteterna genomfördes. ■ En elevassistent i Göteborg har polisanmälts och avskedats efter att han ertappats med att söka pengar från Prins Carl Gustafs stiftelse för aktiviteter åt eleverna. ■ Aktiviteterna har sedan aldrig ägt rum och elevassistenten anklagas för att ha tagit delar av pengarna. Barnen skulle, med elevassistentens egna ord, ges en ”guldkant i vardagen” med resor till bland annat Stockholm, Ulricehamn och Nordens ark utanför Lysekil. Men inga av projekten ska sedan ägt rum. Åtminstone delar av pengarna hamnade i elevassistentens egen ficka, men kommunen utesluter inte att mer pengar kan ha sökts i skolans namn och försvunnit och vill med en polisanmälan få till att polis och åklagare utreder saken. – Det uppdagades genom att det var en stöld, sedan är det bra om polisen börjar titta på systematiken och att man sökt medel till saker som pengarna sedan inte har gått till, säger Kristin Perem, HR-chef vid Grundskoleförvaltningen i Göteborg.",
+          "url": "https://www.expressen.se/nyheter/sverige/utsatta-barns-pengar-gick-till-elevassistentens-konto/",
+          "image_url": "https://static.bonniernews.se/images/1a/94/1a948c59388c4fb4b3aa3e40df0105ae/16x9/original.png",
+          "published_at": "2026-05-20T14:03:09Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/utsatta-barns-pengar-gick-till-elevassistentens-konto/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4241,20 +4338,20 @@
           "sort_order": 2
         },
         {
-          "id": "e196a3ef1948",
+          "id": "f779be0a78f8",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Ingen fotboja för norske ”bonusprinsen” Marius Borg Høiby",
-          "summary": "Norges högsta domstol avslår den så kallade bonusprinsen Marius Borg Høibys önskemål om att släppas ut med fotboja.",
-          "body_text": "Norges högsta domstol avslår den så kallade bonusprinsen Marius Borg Høibys önskemål om att släppas ut med fotboja. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Borg Høibys begäran om fotboja, i stället för att vara inlåst, har tidigare avslagits i både tingsrätt och hovrätt. Nu får han även nej från högsta domstolen. ”Överklagandenämnden finner det enhälligt klart att överklagandet inte kan bifallas, skriver Högsta domstolen i sitt beslut. Høibys försvarsadvokat René Ibsen säger till Nettavisen att detta var sista chansen innan domen väntas, den 15 juni. – Jag har inte pratat med honom, men jag vet att han är besviken nu. Och ja, nu kommer han att sitta där tills domen kommer, säger Ibsen. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här! Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister.",
-          "url": "https://www.expressen.se/nyheter/kungligt/ingen-fotboja-for-norske-bonusprinsen-marius-borg-hoiby/",
-          "image_url": "https://static.bonniernews.se/images/58/ff/58ff4a68cdc04cab9f63f0b635a8b7ca/16x9/original.jpg",
-          "published_at": "2026-05-20T09:15:14Z",
-          "embed_url": "https://www.expressen.se/nyheter/kungligt/ingen-fotboja-for-norske-bonusprinsen-marius-borg-hoiby/",
+          "title": "Dödsolyckan i Luleå fångad på film • ”Sorg och förstämning” på döda mannens jobb",
+          "summary": "En kvinna i 20-årsåldern och en man i 50-årsåldern omkom efter trafikolyckan i Luleå på tisdagen. Polisen har delar av kraschen på film, rapporterar SVT Norrbotten. Mannen som dog jobbade på Tullverket i staden. ”Här råder i dag sorg och förstämning”, skriver hans chef.",
+          "body_text": "En kvinna i 20-årsåldern och en man i 50-årsåldern omkom efter trafikolyckan i Luleå på tisdagen. Polisen har delar av kraschen på film, rapporterar SVT Norrbotten. Mannen som dog jobbade på Tullverket i staden. ”Här råder i dag sorg och förstämning”, skriver hans chef. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Två bilar frontalkrockade på Bodenvägen i Luleå på tisdagseftermiddagen. Efter krocken voltade den ena bilen och landade uppochned i ett dike, medan den andra blev stående vid vägens mittremsa. Två personer, en kvinna i 20-årsåldern och en man i 50-årsåldern, omkom. Kvinnan studerade vid en gymnasieskola i staden. Mannen som dog jobbade på Tullverket i Luleå. Fredrik Lundström, chef för Tullverkets it-avdelning, säger i en kommentar till Expressen: ”Jag kan bekräfta att en av de omkomna jobbade hos oss. Här råder i dag sorg och förstämning och nu lägger vi allt fokus på att ta hand om personalen. I den här svåra stunden går mina tankar till vår omkomna kollegas närmast anhöriga.” Polisen utreder olyckan. Man förhör vittnen och ska genomföra en teknisk undersökning av bilarna. Rättsläkare ska undersöka kropparna, för att se om olyckan kan ha orsakats av sjukdom. Ett vittne har en kamera i sin bil och den fångade delar av händelsen på film, rapporterar SVT Nyheter Norrbotten. – Jag går inte in i detalj vad den visar. Det är ett antal meter framåt som händelseförloppet visar sig, säger polisens förundersökningsledare Fredrik Hansson till tv-kanalen.",
+          "url": "https://www.expressen.se/nyheter/sverige/olyckan-i-lulea-filmad-av-vittne-man-och-kvinna-doda/",
+          "image_url": "https://static.bonniernews.se/images/60/0c/600c4778c957489a9150dcf41b6a5923/16x9/original.jpg",
+          "published_at": "2026-05-20T12:56:24Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/olyckan-i-lulea-filmad-av-vittne-man-och-kvinna-doda/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4265,20 +4362,20 @@
           "sort_order": 3
         },
         {
-          "id": "7115c7697085",
+          "id": "eecb92b1f9c4",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sveriges plan: Pressa Rubio om Ryssland och stödet till Ukraina",
-          "summary": "USA:s utrikesminister Marco Rubio ska delta i Natomötet i Helsingborg. Ulf Kristersson och Maria Malmer Stenergard ska även ha ett enskilt samtal med honom. De kommer att trycka på för ökad press på Ryssland. – Det här är ju vår viktigaste utrikespolitiska prioritering, säger Maria Malmer Stenergard (M) i ”P1 Morgon”.",
-          "body_text": "USA:s utrikesminister Marco Rubio ska delta i Natomötet i Helsingborg. Ulf Kristersson och Maria Malmer Stenergard ska även ha ett enskilt samtal med honom. De kommer att trycka på för ökad press på Ryssland. – Det här är ju vår viktigaste utrikespolitiska prioritering, säger Maria Malmer Stenergard (M) i ”P1 Morgon”. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I går stod det klart att USA:s utrikesminister Marco Rubio ska delta i Natomötet i Helsingborg , som börjar på torsdag. Sverige står värd för ett Natomöte i Helsingborg den 21-22 maj. Det är framför allt medlemsländernas utrikesministrar som samlas. Mötet leds av Natos generalsekreterare Mark Rutte. Fokus väntas ligga på försvarsutgifter, Europas ansvar inom Nato och stödet till Ukraina. USA:s utrikesminister Marco Rubio ska delta och ha möten med både Ulf Kristersson och Mark Rutte. Säkerheten i Helsingborg är mycket omfattande. Gator kring mötesområdet kommer att spärras av. Både svensk och dansk polis ska sköta bevakningen. Sveriges utrikesminister Maria Malmer Stenergard (M) säger i SR:s ”P1 Morgon” att det är ”mycket bra” att Rubio är med. Malmer Stenergard och statsminister Ulf Kristersson kommer, i det bilaterala samtal de ska ha med Rubio, att lyfta frågan om stödet till Ukraina.",
-          "url": "https://www.expressen.se/nyheter/politik/sveriges-plan-pressa-marco-rubio-om-ryssland/",
-          "image_url": "https://static.bonniernews.se/images/d2/b8/d2b8352f7a3249deb2d6168fa8897de3/16x9/original.png",
-          "published_at": "2026-05-20T09:07:50Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/sveriges-plan-pressa-marco-rubio-om-ryssland/",
+          "title": "Par döms sexet i kärlekstunneln på Gröna Lund",
+          "summary": "Ett par i 40-årsåldern hade sex i kärlekstunneln på Gröna Lund i somras. En familj i båten bakom och en anställd på nöjesparken blev ofrivilliga vittnen till den intima stunden. Nu döms paret för förargelseväckande beteende.",
+          "body_text": "Ett par i 40-årsåldern hade sex i kärlekstunneln på Gröna Lund i somras. En familj i båten bakom och en anställd på nöjesparken blev ofrivilliga vittnen till den intima stunden. Nu döms paret för förargelseväckande beteende. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var i början av augusti i fjol som en man och en kvinna i 40-årsåldern hade sex i kärlekstunneln på Gröna Lund i Stockholm. En kvinnlig anställd på nöjesparken såg det hela via kameror. Hon skrek i högtalaren att paret skulle sluta, men det gjorde de inte. – I båten bakom paret sitter ett litet barn och ser på. I en av de sista kameravinklarna reser hon sig upp och jag ser då båda deras könsorgan, säger Gröna Lund -medarbetaren i polisförhör. – Jag får en ganska extrem panikattack. En kollega tar över för mig och jag sitter på golvet och gråter och skakar. Paret greps av ordningsvakter. I mars åtalades de för förargelseväckande beteende. Kvinnan, som erkände handlingen men förnekade brott, döms nu till tusen kronor i böter. Mannen döms till sex månaders fängelse då han även gjort sig skyldig till försök till inbrottsstöld, skriver nyhetsbyrån Siren. Gröna Lund-medarbetaren som såg sexakten begärde skadestånd för kränkning. Tingsrätten avslår kravet, då man bedömer att gärningen inte var riktad mot henne. Åklagaren hade begärt mannen att skulle utvisas från Sverige. Men så blir det inte. Tingsrätten anser att brottsligheten inte är tillräckligt allvarlig.",
+          "url": "https://www.expressen.se/nyheter/krim/par-doms-for-sexet-i-karlekstunneln/",
+          "image_url": "https://static.bonniernews.se/images/d5/54/d5549f1ae90048b786e536a1bafca2e7/16x9/original.png",
+          "published_at": "2026-05-20T12:51:04Z",
+          "embed_url": "https://www.expressen.se/nyheter/krim/par-doms-for-sexet-i-karlekstunneln/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4289,20 +4386,20 @@
           "sort_order": 4
         },
         {
-          "id": "639f95ba03d6",
+          "id": "dd936174d7d0",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Norsk man åtalas för dubbelmord i Göteborg",
-          "summary": "Två män sköts ihjäl i en bil i Göteborg i höstas. Nu åtalas en norsk man misstänkt för dubbelmordet, meddelar Åklagarmyndigheten.",
-          "body_text": "Två män sköts ihjäl i en bil i Göteborg i höstas. Nu åtalas en norsk man misstänkt för dubbelmordet, meddelar Åklagarmyndigheten. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den 2 september i fjol hittades två män i 25-årsåldern döda i en bil i stadsdelen Lunden i Göteborg . De hade blivit skjutna till döds. Dagen efter mordet greps en man i Oslo, då misstänkt för grovt hot mot tjänsteman och grovt vapenbrott. Samma man misstänks även för mordet på de två männen i bilen. Han utlämnades till Sverige den 9 oktober efter att ha suttit häktad i Norge. Den 35-åriga mannen misstänks, utöver mordet, även för grovt vapenbrott och för brotten begångna i Norge. Polisen har arbetat efter teorin att dubbelmordet har koppling till gängkonflikten i Biskopsgården. Enligt uppgifter till TV4 Nyheterna kan dubbelmordet ha varit en hämnd kopplad till mordet på rapparen C.Gambino, som sköts ihjäl i ett garage på Hisingen 2024. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/krim/norsk-man-atalas-for-dubbelmord-i-goteborg/",
-          "image_url": "https://static.bonniernews.se/images/78/f4/78f481f6e3994171a2d5853808bbe349/16x9/original.jpg",
-          "published_at": "2026-05-20T07:40:54Z",
-          "embed_url": "https://www.expressen.se/nyheter/krim/norsk-man-atalas-for-dubbelmord-i-goteborg/",
+          "title": "Socialdemokraterna: Så vill vi styra Sverige",
+          "summary": "Socialdemokraterna vill komma överens med de borgerliga partierna på en rad politikområden. Det säger S-ledaren Magdalena Andersson.",
+          "body_text": "Socialdemokraterna vill om de vinner valet göra upp över blockgränsen på en rad politikområden. Det säger S-ledaren Magdalena Andersson. – Jag vill bygga breda överenskommelser, säger hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På onsdagen håller partiledaren Magdalena Andersson och ekonomiskpolitiska talespersonen Mikael Damberg en pressträff om hur de vill styra landet vid en valvinst. Partiet håller fast vid att de går till val själva och kan samarbeta med alla partier utom SD. Nu presenterar de fem områden där de vill se breda överenskommelser efter valet. Det handlar om energipolitiken, stora infrastrukturprojekt, en skatteöversyn, att värna ett fritt och oberoende public service samt ett ”helt nytt angreppssätt” mot kriminaliteten. Det är områden där det är extra viktigt med en politik som håller över tid, enligt S. – Jag kommer söka de här breda samarbetena även efter att jag har samlat en majoritet i riksdagen bakom mig, säger Magdalena Andersson. Hon vill inte specificera vilka partier hon vill ha med sig i den majoriteten. – Hur majoriteten ser ut är upp till svenska folket att avgöra på valdagen, säger hon.",
+          "url": "https://www.expressen.se/nyheter/politik/socialdemokraterna-sa-vill-vi-styra-sverige/",
+          "image_url": "https://static.bonniernews.se/images/17/cb/17cb683a5a78418f8e6b3c2249f51691/16x9/original.jpg",
+          "published_at": "2026-05-20T12:10:02Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/socialdemokraterna-sa-vill-vi-styra-sverige/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4313,20 +4410,20 @@
           "sort_order": 5
         },
         {
-          "id": "f7f66e65e0e5",
+          "id": "960c89892ba6",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Vittnar om våldet: ”Tarmbrottning”",
-          "summary": "De äldsta eleverna bestämmer och de yngre kallas för tarmar. Bestraffningar och våld förekommer i samband med ett särskilt poängsystem som eleverna upprättat. Samtidigt råder tystnadskultur om den hierarki som råder på internatskolan Lundsberg, säger en elev till SVT.",
-          "body_text": "De äldsta eleverna bestämmer och de yngre kallas för tarmar. Bestraffningar och våld förekommer i samband med ett särskilt poängsystem som eleverna upprättat. Samtidigt råder tystnadskultur om den hierarki som råder på internatskolan Lundsberg. Det vittnar en elev om i SVT:s Dokument inifrån . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Internatskolan Lundsberg är i blåsväder efter att SVT:s Dokument inifrån gjort en tredelad granskning om skolan. I första avsnittet gick entreprenören Gunilla von Platen ut och vittnade om den rasism och det våld som hennes son, som är dömd för misshandel, blivit utsatt för på Lundsberg. På onsdagen sänds den andra delen. I den berättar en anonym elev som gått de senaste åren på skolan om den hierarki som råder. – Alla nya ettor och nior är ”tarmar”. Treorna bestämmer, säger eleven till SVT. ”Tarmarna”, som de yngsta kallas, måste lyda de äldre. Den som vägrar riskerar att bli utfryst och poänglös, enligt ett särskilt poängsystem som upprättats. – En klassiker kan ju vara att man ska gå ner på alla fyra och krypa runt, berättar eleven om något som kan förekomma i poängsystemet. Det har även förekommit ”tarmbrottning”, där de yngre ska brottas med varandra och de äldre kollar på. Den har skett i skolans lokaler. Tystnadskultur råder och ingen får berätta vad som försiggår på skolan, enligt eleven. Enligt Dokument inifrån finns även ett särskilt bälte på ett av skolans elevhem som kan användas för att eleverna ska bestraffa varandra. Det kallas för ”Porsche-bältet”.",
-          "url": "https://www.expressen.se/nyheter/sverige/lundsbergseleven-vittnar-om-poangsystem-och-bestraffningar/",
-          "image_url": "https://static.bonniernews.se/images/aa/51/aa51e5ed50f348af86dac951daf839df/16x9/original.jpg",
-          "published_at": "2026-05-20T07:36:49Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/lundsbergseleven-vittnar-om-poangsystem-och-bestraffningar/",
+          "title": "Nya reseregler i semesterparadiset",
+          "summary": "Thailand stramar åt reglerna för turister. I syfte att stoppa brottsligheten kommer man behöva ansöka om visum för en vistelse längre än 30 dagar, rapporterar The Guardian.",
+          "body_text": "Thailand stramar åt reglerna för turister. I syfte att stoppa brottsligheten kommer man behöva ansöka om visum för en vistelse längre än 30 dagar, rapporterar The Guardian. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Allt fler reser till Thailand och begår brott, enligt thailändska myndigheter. Det rör sig om allt från snatteri till att stanna för länge och öppna företag utan att ha tillstånd. Nu inför man nya regler för att stoppa turistbrottslingarna, rapporterar The Guardian. För medborgare i 93 länder – däribland Sverige – gäller nu att man får stanna i Thailand i 60 dagar utan att ha visum. De reglerna har man haft sedan 2024, då man ville stimulera ekonomin i sviterna av coronapandemin. Men det antalet kommer nu halveras, till 30 dagar. Thailands utrikesminister Sihasak Phuangketkeow säger att de nya reglerna inte riktar in sig mot något specifikt land eller någon särskild nationalitet, utan mot de turister som utnyttjar visumsystemet genom att begå brott. Det är oklart exakt när de nya reglerna börjar gälla. Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/nya-regler-for-att-resa-till-thailand-/",
+          "image_url": "https://static.bonniernews.se/images/3d/7a/3d7ab4822e5b4a689f76723b6a829d0f/16x9/original.jpg",
+          "published_at": "2026-05-20T12:02:48Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/nya-regler-for-att-resa-till-thailand-/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4337,20 +4434,20 @@
           "sort_order": 6
         },
         {
-          "id": "a4d359028f50",
+          "id": "616825eb02c5",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Tankesmedjan ISW: Kreml krattar för attacker – vid Östersjön • Landet pekas ut",
-          "summary": "Den ryska utrikesunderrättelsetjänsten SVR hävdar att Ukraina planerar för drönarattacker från Lettland. ”Ryssland ljuger igen”, skriver Lettlands utrikesminister Baiba Braže på plattformen X. Enligt tankesmedjan ISW krattar Kreml för framtida attacker mot Baltikum.",
-          "body_text": "Den ryska utrikesunderrättelsetjänsten SVR hävdar att Ukraina planerar för drönarattacker från Lettland. ”Ryssland ljuger igen”, skriver Lettlands utrikesminister Baiba Braže på plattformen X. Enligt tankesmedjan ISW krattar Kreml för framtida attacker mot Baltikum. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Rysslands utrikesunderrättelsetjänst SVR hävdar att den ukrainska militären förbereder drönarattacker mot mål djupt inne i Ryssland från Lettland. Enligt SVR har ukrainska drönaroperatörer redan placerats ut på lettiska militärbaser. Ukraina har med framgång attackerat oljeinfrastruktur runtom i Ryssland under våren. Nu hävdar den ryska utrikesunderrättelsetjänsten SVR att Ukrainas militär förbereder för drönarattacker från Lettland. Lettands regering förnekar det. Tankesmedjan ISW skriver att Kreml, med SVR:s hjälp, krattar för framtida attacker mot Baltikum. ”Den primitiva russofobin hos Lettlands nuvarande makthavare visade sig vara starkare än deras förmåga till kritiskt tänkande eller deras självbevarelsedrift” , skriver SVR enligt The Moscow Times. SVR antyder också att Lettland kan ”bli måltavla för vedergällningsattacker från Moskva”. Lettlands utrikesminister Baiba Braže menar att SVR bedriver en desinformationskampanj mot landet. ”Ryssland ljuger igen. Lettland tillhandahåller INTE luftrum för attacker mot Ryssland. Det har förklarats flera gånger för ryska företrädare” , skriver Braže på plattformen X.",
-          "url": "https://www.expressen.se/nyheter/varlden/tankesmedjan-krattar-for-attack-vid-ostersjon/",
-          "image_url": "https://static.bonniernews.se/images/e6/a8/e6a829fdc4ad43f5990ecb85a982d2f7/16x9/original.png",
-          "published_at": "2026-05-20T06:42:24Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/tankesmedjan-krattar-for-attack-vid-ostersjon/",
+          "title": "Lundsberg anmäler SVT:s ”Dokument inifrån” till Granskningsnämnden",
+          "summary": "SVT:s ”Dokument inifrån” har granskat internatskolan Lundsberg. Där berättar entreprenören Gunilla von Platen att hennes son blev utsatt för rasistiska påhopp och våld under sina år på skolan. Nu anmäler Lundsberg SVT till Granskningsnämnden, skriver skolan i ett pressmeddelande.",
+          "body_text": "SVT:s ”Dokument inifrån” har granskat internatskolan Lundsberg. Där berättar entreprenören Gunilla von Platen att hennes son blev utsatt för rasistiska påhopp och våld under sina år på skolan. Nu anmäler Lundsberg SVT till Granskningsnämnden, skriver skolan i ett pressmeddelande. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. SVT:s ”Dokument inifrån” granskar internatskolan Lundsberg . Internatskolan Lundsberg anmäler SVT:s ”Dokument inifrån” till Granskningsnämnden och menar att programmet bryter mot kraven på opartiskhet och saklighet. I programmet berättar entreprenören Gunilla von Platen att hennes son utsatts för rasism och våld på skolan. Advokat Percy Bratt anser att programmet ensidigt lyfter fram kritiska röster och inte ger skolan möjlighet till bemötande. Lundsberg påpekar att Skolinspektionen granskat och godkänt skolans arbete mot kränkningar, något som enligt skolan inte framkommer i programmet. Makarna Gunilla och Alfred von Platen berättar att deras son utsattes för grova rasistiska påhopp och våld under sin tid på skolan. Sonen och tre andra elever dömdes i slutet av förra året för misshandel och hemfridsbrott. Det beskrivs som en hämnd mot andra elever som tidigare uttryckt sig rasistiskt i ett ”rap battle”. Lundsberg skriver i ett pressmeddelande att man kommer att anmäla SVT till Granskningsnämnden. ”Advokat Percy Bratt har gjort en juridisk analys och ser att 'Dokument inifrån: Arvtagarna avsnitt 1' utgör ett tydligt brott mot det i lag uppställda kravet på opartiskhet och saklighet i utövandet av public service-verksamhet. Skolan avser också att anmäla avsnitt 2.” – Programmet ger nästintill oavkortat utrymme för kritiker av skolan att komma till tals. Trots den skarpa kritik som riktats mot skolans ledning har programmet ensidigt skildrat kritiska röster och inte lämnat utrymme för bemötande.",
+          "url": "https://www.expressen.se/nyheter/sverige/lundsberg-anmaler-svt-till-granskningsnamnden/",
+          "image_url": "https://static.bonniernews.se/images/8f/2e/8f2e8d10a72b4ae690c4a555400c8655/16x9/original.png",
+          "published_at": "2026-05-20T11:56:39Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/lundsberg-anmaler-svt-till-granskningsnamnden/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4361,20 +4458,20 @@
           "sort_order": 7
         },
         {
-          "id": "e91d7ee94685",
+          "id": "364a5a68960f",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige Idag 08.15 Interna kritiken mot polisen: ”Siffertrixande”",
+          "title": "Politik Idag 13.40 Jimmie Åkessons svar till Ebba Busch om Systembolaget: ”OCH”",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/interna-kritiken-mot-polisen-siffertrixande/",
+          "url": "https://www.expressen.se/nyheter/politik/jimmie-akessons-svar-till-ebba-busch-och-p1bkc/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/interna-kritiken-mot-polisen-siffertrixande/",
+          "embed_url": "https://www.expressen.se/nyheter/politik/jimmie-akessons-svar-till-ebba-busch-och-p1bkc/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4385,20 +4482,20 @@
           "sort_order": 8
         },
         {
-          "id": "d907aea1e46a",
+          "id": "f4428f12f018",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Politik Idag 08.03 Ebba Busch ratar Jimmie Åkessons förslag om Systembolaget",
+          "title": "Politik Idag 12.17 SD-ledamoten Rashid Farivar: SD agerade fel i riksdagen",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/ebba-busch-ratar-jimmie-akessons-forslag-om-systembolaget/",
+          "url": "https://www.expressen.se/nyheter/politik/sd-ledamoten-rashid-farivar-sd-agerade-fel-i-riksdagen/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/ebba-busch-ratar-jimmie-akessons-forslag-om-systembolaget/",
+          "embed_url": "https://www.expressen.se/nyheter/politik/sd-ledamoten-rashid-farivar-sd-agerade-fel-i-riksdagen/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
