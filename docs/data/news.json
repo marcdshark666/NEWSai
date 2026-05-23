@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T12:41:06Z",
+  "generated_at": "2026-05-23T14:15:00Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Experten efter toppmötet • Två vägar framåt Förvåningen efter Trumps vändning: ”Lite märklig motivering” I samband med vräkning, enligt Expressen Så många miljoner ska lottas ut i Sommaryran",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 ”Håller med Pernilla Wahlgren – jag skäms över att vara svensk” Experten efter toppmötet • Två vägar framåt Förvåningen efter Trumps vändning: ”Lite märklig motivering” Så många miljoner ska lottas ut i Sommaryran",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1775,6 +1775,56 @@
           "sort_order": 0
         },
         {
+          "id": "259a410349ef",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump weighs new Iran strikes as officials call US demands ‘unreasonable’ | Fox News Video",
+          "summary": "‘Fox News @ Night’ panelists Alex Gray and Rebecca Grant discuss the latest developments in U.S.-Iran talks and ongoing efforts to reopen the Strait of Hormuz.",
+          "body_text": "‘Fox News @ Night’ panelists Alex Gray and Rebecca Grant discuss the latest developments in U.S.-Iran talks and ongoing efforts to reopen the Strait of Hormuz. Kevin Corke moderates a discussion with national security & military analyst Dr. Rebecca Grant and former National Security Council Chief of Staff Alex Gray regarding the ongoing U.S.-Iran standoff. Grant suggests it's 'time to crush some Iranian military targets' due to Iran's unreasonableness, while Gray emphasizes President Donald nTrump's readiness to use military options if negotiations fail.",
+          "url": "https://www.foxnews.com/video/6396433329112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d186e2f6-add3-4835-a4b3-e4209ecb4ba0/f9507c90-5a93-4ddd-ba5a-9e4a414534fe/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-23T12:04:21Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396433329112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "310034d48d99",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Dems, NAACP urge Black athletes to boycott Southern schools over redistricting | Fox News Video",
+          "summary": "Outkick host Dan Dakich blasts Democrats and the NAACP for urging Black athletes to boycott Southern college sports over redistricting.",
+          "body_text": "Outkick host Dan Dakich blasts Democrats and the NAACP for urging Black athletes to boycott Southern college sports over redistricting.",
+          "url": "https://www.foxnews.com/video/6396430481112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8337ef15-6b0c-457b-9e4f-07b596ab9a69/997ce84b-3665-448f-b9fe-d78104d6ec0c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-23T11:47:29Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396430481112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "828f618f13d3",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1797,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "6e8dd9986c2e",
@@ -1822,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "126148d93091",
@@ -1847,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "79a55c0a2f14",
@@ -1872,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "a5431e902645",
@@ -1897,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "3d32980c1f6d",
@@ -1922,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "13785378cd21",
@@ -1947,7 +1997,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "26b6aba4693e",
@@ -1964,56 +2014,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a968535d-79ef-4e7c-9b7c-34907e349871/0da58c4f-1f00-4802-8196-8d9abba1dfe5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-23T02:08:42Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396403296112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "3b002554a6be",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "New report claims NASCAR legend Kyle Busch was found unresponsive | Fox News Video",
-          "summary": "‘Hannity’ panelists discuss NASCAR legend Kyle Busch's death as new reports emerge.",
-          "body_text": "‘Hannity’ panelists discuss NASCAR legend Kyle Busch's death as new reports emerge.",
-          "url": "https://www.foxnews.com/video/6396402098112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa5bb949-aad3-4d2b-b05f-f781fe59735d/a3efa9e9-2813-4a8f-89a3-d229801cd493/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-23T02:00:16Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396402098112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "ee1733d1091d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Spencer Pratt is speaking bluntly about the addiction problem in LA: Michael Shellenberger | Fox News Video",
-          "summary": "Journalist Michael Shellenberger analyzes Spencer Pratt's mayoral campaign and disruptive impact on Los Angeles politics on 'Jesse Watters Primetime.'",
-          "body_text": "Journalist Michael Shellenberger analyzes Spencer Pratt's mayoral campaign and disruptive impact on Los Angeles politics on 'Jesse Watters Primetime.'",
-          "url": "https://www.foxnews.com/video/6396400691112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ff28fa1-f706-4238-a226-2d6fb0643a49/5e7f9a1b-1994-4e3b-b8d2-b28fb9e42256/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-23T01:48:05Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396400691112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2100,20 +2100,20 @@
           "sort_order": 13
         },
         {
-          "id": "bcb0d5557a6f",
+          "id": "f8b8e44551dc",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Hannity - Friday, May 22 | Fox News Video",
-          "summary": "FNC, Hannity, Lawrence Jones, Qatar, Tehran, peace talks, US, war, Strait of Hormuz, Tulsi Gabbard, UFO, Kyle Busch",
-          "body_text": "FNC, Hannity, Lawrence Jones, Qatar, Tehran, peace talks, US, war, Strait of Hormuz, Tulsi Gabbard, UFO, Kyle Busch Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on events.",
-          "url": "https://www.foxnews.com/video/6396430886112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/e66f3089-25cf-4846-8521-a2c8e0428e02/36cc18d0-5818-4518-ab13-d899ec29a49f/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-23T11:34:51Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396430886112",
+          "title": "WATCH LIVE: The National Park Service holds a special Memorial Day observance at the WWII Memorial | Fox News Video",
+          "summary": "The National Park Service and the Friends of the National World War II Memorial are paying tribute to the more than 400,000 Americans who lost their lives during World War II.",
+          "body_text": "The National Park Service and the Friends of the National World War II Memorial are paying tribute to the more than 400,000 Americans who lost their lives during World War II.",
+          "url": "https://www.foxnews.com/video/6396436018112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c3aa7f5-ad26-4af6-baf8-6f54996a2cd2/fb88081a-b564-4326-beeb-a30aa86e383b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-23T13:37:52Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396436018112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2121,24 +2121,24 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 14
         },
         {
-          "id": "9e9f3131d089",
+          "id": "43bd3e148dc0",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Jesse Watters Primetime - Friday, May 22 | Fox News Video",
-          "summary": "FNC, Jesse Watters Primetime, Tomi Lahren, Donald Trump, New York, DNC autopsy, Kyle Busch, UFO",
-          "body_text": "FNC, Jesse Watters Primetime, Tomi Lahren, Donald Trump, New York, DNC autopsy, Kyle Busch, UFO Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-          "url": "https://www.foxnews.com/video/6396430755112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/1500f0b8-aa11-42b0-8b94-337fd18d2ca1/cd98af8c-2ee7-4115-a5c4-89cab61de000/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-23T11:12:44Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396430755112",
+          "title": "Fox News At Night - Friday, May 22 | Fox News Video",
+          "summary": "FNC, Fox News at Night, Kevin Corke, chemical leak, Garden Grove, California, angel mom, sanctuary cities, LA mayor, Kevin Warsh, Zionism, Iran, peace deal, teen takeovers",
+          "body_text": "FNC, Fox News at Night, Kevin Corke, chemical leak, Garden Grove, California, angel mom, sanctuary cities, LA mayor, Kevin Warsh, Zionism, Iran, peace deal, teen takeovers Hard news and analysis of compelling stories.",
+          "url": "https://www.foxnews.com/video/6396435261112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/caae79d1-bf05-4c71-9766-fab64ee73cd0/7a7c1cf2-d8af-42a5-b49a-9cb99af9edcb/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-05-23T12:43:21Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396435261112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2167,6 +2167,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "8e52f0db840a",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "French pair held until trial after boys abandoned by road in Portugal",
+          "summary": "The couple, who allegedly left two young boys on a roadside in the south of Portugal, will remain in custody, a court rules.",
+          "body_text": "A French woman and her partner will remain in custody after allegedly abandoning her two young boys on a roadside in the south of Portugal, a court has ruled. The boys were found on Tuesday evening crying beside a road near Alcacer do Sal, about 100km (60 miles) south of Lisbon. The woman and her partner, identified by authorities as Marine R and Marc B, were arrested in Fatima on Thursday. As they were being led into court on Saturday morning, the man shouted \"I love you\" in French and the boys' mother sang. A judge subsequently ordered the pair be placed in pre-trial detention, French and Portuguese media report. They are accused of aggravated assault, endangerment and abandonment of the boys. In Portugal, suspects must be brought before a judge within 48 hours of their arrest to decide whether they remain in custody or are released ahead of their trial. The couple have already been questioned by investigators for several hours. Meanwhile, the children, who are aged four and five, are with a French foster family in Lisbon and are expected to return to France. Authorities told the Setubal courthouse that the two boys had been living with their 41-year-old mother in the eastern French city of Colmar, while their father had limited and supervised visitation rights, local media report. On 11 May, the father reported them missing, prompting authorities to begin searching for the mother and children, and a European arrest warrant being issued. The mother of the motorist who found the children told Portuguese media that one of the boys had said they were blindfolded and told to look for a hidden toy, but that when they took their blindfolds off their mother had vanished. Authorities said the couple appeared to have no known connection to Portugal. The couple's backgrounds have gained attention in both France and Portugal. The woman's LinkedIn profile describes herself as a sexologist specialising in \"body-oriented practices, psychotrauma and developmental dynamics\".",
+          "url": "https://www.bbc.com/news/articles/cq5p75l7n17o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/699d/live/c7e53410-569c-11f1-9615-e14e530a4b81.jpg",
+          "published_at": "2026-05-23T12:39:10Z",
+          "embed_url": "https://www.bbc.com/news/articles/cq5p75l7n17o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "0f59586c346b",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2188,7 +2212,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "b7d5f8cda166",
@@ -2200,7 +2224,7 @@
           "source_kind": "mixed",
           "title": "China coal mine explosion leaves at least 90 dead, state media reports",
           "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-          "body_text": "At least 90 people have been killed in a coal mine blast in northern China, according to state media. The gas explosion at the Liushenyu Coal Mine in Shanxi province is the worst mining disaster in China since 2009. There were 247 workers reportedly on duty when the blast happened at 19:29 local time on Friday (22:29 GMT), with more than 100 people reportedly pulled to safety and hundreds of rescuers sent to the site. Chinese President Xi Jinping called for no effort to be spared in efforts to treat the injured and search for survivors, and asked the government to investigate the cause of the blast and hold those responsible to account. Twenty-seven people remain in a local hospital, with one in critical condition, while the rest have minor injuries. Most were affected after inhaling poisonous gas, according to state media, though it is not clear what type of gas it was. Wang Yong, an injured miner, told state media that when the incident happened, he did not hear a sound but saw a sudden plume of smoke. \"I smelled sulphur, the same smell you get from blasting. I shouted at people to run. As we were running I could see people collapsing from the fumes. Then I blacked out too,\" he said. \"I lay there for about an hour or so before I came round on my own. I woke up the person next to me and we got out together.\" Some of the management team at the mine have reportedly been detained. The cause of the gas explosion has not yet been revealed, but state media reported that the levels of carbon monoxide - a highly toxic, odourless gas - in the mine were found to have \"exceeded limits\". China's Ministry of Emergency Management has sent 345 personnel from six rescue teams to help with the operation. State media said the rescue operation had encountered difficulties as water has built up near the explosion site, preventing access to certain areas, while blueprints provided by the mine did not match the actual conditions. In 2024, the Liushenyu mine was listed as one of the \"severe safety hazards\" by the Chinese National Mine Safety Administration.",
+          "body_text": "At least 90 people have been killed in a coal mine blast in northern China, according to state media. The gas explosion at the Liushenyu Coal Mine in Shanxi province is the worst mining disaster in China since 2009. There were 247 workers reportedly on duty when the blast happened at 19:29 local time on Friday (22:29 GMT), with more than 100 people reportedly pulled to safety and hundreds of rescuers sent to the site. Chinese President Xi Jinping said no effort must be spared in efforts to treat the injured and search for survivors. The country's state council later said a \"rigorous\" investigation would be conducted and those found responsible would be \"severely punished\". Twenty-seven people remain in a local hospital, with one in critical condition, while the rest have minor injuries. Most were affected after inhaling poisonous gas, according to state media, though it is not clear what type of gas it was. Wang Yong, an injured miner, told state media that when the incident happened, he did not hear a sound but saw a sudden plume of smoke. \"I smelled sulphur, the same smell you get from blasting. I shouted at people to run. As we were running I could see people collapsing from the fumes. Then I blacked out too,\" he said. \"I lay there for about an hour or so before I came round on my own. I woke up the person next to me and we got out together.\" Some of the management team at the mine have reportedly been detained. The cause of the gas explosion has not yet been revealed, but state media reported that the levels of carbon monoxide - a highly toxic, odourless gas - in the mine were found to have \"exceeded limits\". China's Ministry of Emergency Management has sent 345 personnel from six rescue teams to help with the operation. State media said the rescue operation had encountered difficulties as water has built up near the explosion site, preventing access to certain areas, while blueprints provided by the mine did not match the actual conditions. In 2024, the Liushenyu mine was listed as one of the \"severe safety hazards\" by the Chinese National Mine Safety Administration.",
           "url": "https://www.bbc.com/news/articles/c5y0ve18qlko",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg",
           "published_at": "2026-05-23T05:19:01Z",
@@ -2212,7 +2236,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "cfc900a77a1e",
@@ -2236,7 +2260,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "0be813dd2a48",
@@ -2260,7 +2284,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "bc40eb5419ee",
@@ -2284,7 +2308,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "dabaffd5bfc6",
@@ -2308,7 +2332,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "eb4418e8c4be",
@@ -2332,7 +2356,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "e2256af118e1",
@@ -2356,7 +2380,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "db9a4d8f1a15",
@@ -2370,7 +2394,7 @@
           "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
           "body_text": "The Pentagon has released scores of UFO files, with descriptions of reported sightings of orbs, discs and fireballs spanning 80 years. Witnesses described seeing \"green orbs, discs and fireballs\" dating as far back as 1948, the files show. More recently, a senior US intelligence officer said he saw \"countless orange orbs swarming in all directions\" last year, rendering him \"speechless\". The fresh batch of materials includes a half dozen documents, a handful of audio recordings and 51 videos, including one of an Unidentified Flying Object (UFO) being shot to bits. The circumstances are unexplained. The files are the second set released after an order this year from US President Donald Trump. The Pentagon uploaded the first set of 161 files on 8 May, promising there would be more to come. The second was released on Friday. One of the documents is a 116-page Armed Forces Special Weapons Program report from 1948-1950 that said witnesses had recounted 209 sightings of unidentified objects - orbs and other objects the US government now calls \"unidentified anomalous phenomena\" (UAP). The report includes accounts of a series of sightings and investigations in Sandia, New Mexico, where witnesses described how UFOs manoeuvred, flew away and disappeared but then exploded. In another document, the unnamed \"senior US intelligence officer\" provided his first-hand account of seeing phenomena from a military helicopter in 2025 at a location listed as the \"western United States\". He described spotting mysterious \"orange orbs flaring up and down\" when investigating \"loud thuds heard in the mountains\" on a test range where others had spotted UFOs in the preceding days. The \"series of close UAP encounters\" lasted for more than an hour, he said. The UAP were \"super-hot\", low to the ground and moving at high speed. \"They were oval-shaped, orange with a white or yellow centre, and emitted light in all directions,\" the officer reported. He said the swarm appeared to coalesce as they flared up and down for several minutes, \"forming a distinct triangle before vanishing\". He said he did not take any photos because he was too focused on \"assessing what it was and whether it posed a threat\".",
           "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1c70/live/236a2f60-562b-11f1-88cc-af99d1be838d.png",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e06b/live/6ec4a980-56a9-11f1-89a3-d1f559421220.jpg",
           "published_at": "2026-05-22T22:32:12Z",
           "embed_url": "https://www.bbc.com/news/articles/cn8pzzlyy66o",
           "play_mode": "iframe",
@@ -2380,7 +2404,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "1b7c69035f54",
@@ -2404,7 +2428,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "120c889fdd49",
@@ -2416,35 +2440,11 @@
           "source_kind": "mixed",
           "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
           "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-          "body_text": "Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine. Ten people were killed and 38 others injured in the overnight strike in the town of Starobilsk, in the Luhansk region, the local Russian-backed governor said. Another 11 people remain missing, he said. Ukraine's military said it had hit the headquarters of Russia's elite Rubicon drone military unit in Starobilsk. It did not say whether it was the same building as the one identified by Russia. But Putin said there were \"no military facilities, intelligence service facilities or related services in the vicinity\". \"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems,\" he said at a reception in his Kremlin residence in Moscow on Friday. He ordered the Russian military to prepare \"proposals\" on how to retaliate. The Russian leader said the Ukrainian strike had been carried out in three waves using 16 drones. Russia's state-run TV showed what it said was one of the injured students, identifying her as Diana Shovkun, aged 19. She had head injuries after being hit by a collapsing concrete slab, the report said. No photos or videos of those who Moscow says were killed were shown. Early on Saturday, Russian officials reported two people had been injured after falling debris from drones triggered a fire at an oil depot in Russia's Black Sea port of Novorossiysk. The general headquarters of the southern Krasnodar region said \"several technical administrative buildings caught fire\" and fragments of drones fell on a fuel terminal.",
+          "body_text": "Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine. Eighteen people were killed and 42 others injured in the overnight strike in the town of Starobilsk, in the Luhansk region, Russia's emergencies ministry said. Another three people are believed to be trapped under the rubble. Ukraine's military said it had hit the headquarters of Russia's elite Rubicon drone military unit in Starobilsk. It did not say whether it was the same building as the one identified by Russia. But Putin said there were \"no military facilities, intelligence service facilities or related services in the vicinity\". \"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems,\" he said at a reception in his Kremlin residence in Moscow on Friday. He ordered the Russian military to prepare \"proposals\" on how to retaliate. The Russian leader said the Ukrainian strike had been carried out in three waves using 16 drones. Russia's state-run TV showed what it said was one of the injured students, identifying her as Diana Shovkun, aged 19. She had head injuries after being hit by a collapsing concrete slab, the report said. No photos or videos of those who Moscow says were killed were shown. Early on Saturday, Russian officials reported two people had been injured after falling debris from drones triggered a fire at an oil depot in Russia's Black Sea port of Novorossiysk. The general headquarters of the southern Krasnodar region said \"several technical administrative buildings caught fire\" and fragments of drones fell on a fuel terminal.",
           "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg",
           "published_at": "2026-05-22T18:51:49Z",
           "embed_url": "https://www.bbc.com/news/articles/c5y74lwx395o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "91d5b98b5097",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
-          "summary": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
-          "body_text": "A member of the diving team that recovered the bodies of Italian scuba divers in the Maldives has said the equipment they were found with \"was not optimal\". Images from inside the cave where the four Italians were discovered earlier this week were taken by Finnish diver Sami Paakkarinen, who told Italian media \"the bodies were all together in one section of the cave\", which he said was very deep and \"very challenging\". The body of the first diver was found soon after the five disappeared in a scuba diving accident at the 60-metre-deep (197ft) cave in Vaavu Atoll. It took several days before the rest of the group were found deep inside the cave by a team of specialist Finnish and Maldivian divers. A Maldivian rescue diver died last weekend while searching for the bodies of the group. It is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands. The four bodies found earlier this week are expected to be repatriated to Italy on Saturday and post mortem examinations will take place in the coming days. Paakkarinen told La Repubblica newspaper that when the team found the bodies they realised the cause could have been a \"tragic human error\" but ultimately it would be for investigators to determine what happened. He also questioned why the divers were inside the cave \"without the proper equipment\" as he said he and his fellow rescuers would never have ventured into such an environment without a scuba diving reel or guide rope for safety which he described as \"Ariadne's thread\". The diving reel is used to guide divers through complicated or hazardous terrain underwater. \"In general, for those who visit caves, it's known that it's not very wise to do so without a safety line. \"Unfortunately, in most cave diving accidents, the main cause is always human error.\"",
-          "url": "https://www.bbc.com/news/articles/c0l2j723nrxo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/39f1/live/ca0ae890-55ff-11f1-ad45-8ffb2d2085e2.jpg",
-          "published_at": "2026-05-22T17:54:11Z",
-          "embed_url": "https://www.bbc.com/news/articles/c0l2j723nrxo",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2607,12 +2607,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora van a jugar Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
+          "title": "¿A qué hora empezará el partido de Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
           "summary": "Revisa a qué hora juega Alianza Lima vs Chankas CYC HOY por la penútima jornada del Torneo Apertura de la Liga 1 en el estadio Alejandro Villanueva.",
           "body_text": "Alianza Lima recibe a Chankas este sábado 23 de mayo del 2026 con la oportunidad de gritar campeón del Torneo Apertura. En el estadio Alejandro Villanueva, el equipo dirigido por Pablo Guede tiene la complicada misión de sacar los 3 puntos frente a los de Andahuaylas para lograr su primer torneo corto del año. Con una ajustada victoria frente a Cienciano, los íntimos llegan a Matute con la oportunidad de cerrar el Apertura como campeones. Revisa la hora del partido en Perú y toda Sudamérica, incluyendo, México, España y Estados Unidos. El partido de Alianza Lima vs Chankas por la jornada 16 del Torneo Apertura de la Liga 1 2026 empieza a las 8:30 PM de Perú y 9:30 PM de Estdos Unidos este sábado 23 de mayo del 2026 en el estadio Alejandro Villanueva. El partido de Alianza Lima vs Chankas será transmitido a través de Liga 1 Max y Movistar Deportes en Perú. Mientras que en Argentina, Colombia, Ecuador, Chile y resto de Sudamérica lo pasa Fanatiz. En México el partido será transmitido a través de Fanatiz. En Perú, Alianza Lima vs Chankas juegan a las 20:30 horas en horario peruano en el estadio Alejandro Villanueva, este sábado 23 de mayo del 2026. Debido a su jerarquía y a la posibilidad real de cerrar el campeonato esa misma noche, Alianza Lima parte como el gran favorito para llevarse la victoria y, de esta manera, levantar el trofeo de la primera parte de la temporada. Por ello, de acuerdo con Betano, si el equipo local gana y se corona campeón paga una cuota de 1.32 y tiene un 72% de probabilidades. Asimismo, las cuotas de los jugadores íntimos para abrir el marcador se perfilan muy atractivas. Así destaca la participación de una de sus máximas figuras Erick Castillo, quien, si mete un gol, Betano paga 1.87; si lo hace Paolo Guerrero, se paga 2.12; si anota Jairo Vélez, se paga 2.95, o si lo hace Renzo Garcés, paga 5.00. Por su parte, el conjunto de Andahuaylas busca dar el golpe de la fecha. Tiene 33 puntos en la tabla y aún mantiene opciones matemáticas de quedarse con el primer torneo del año. Luego de una racha positiva de partidos sin perder, dejaron pasar puntos importantes en las últimas jornadas y ahora tienen la oportunidad de sumar. De esta manera, llegan a Lima con la consigna de aguarle la fiesta a los íntimos y demostrar que son un rival de cuidado fuera de casa. Aunque el panorama es retador, confía en su orden táctico y contragolpe para dar la sorpresa en Matute. Una histórica victoria de Los Chankas en el Alejandro Villanueva paga la atractiva cuota de 9.50 y tiene una probabilidad de 10% de triunfo. Mientras tanto, el empate paga 5.10 en Betano. Cabe precisar que, tanto si los “guerreros” se imponen como si logran un empate, Alianza Lima no podrá gritar campeón este sábado y todo se definirá en la última fecha, donde los íntimos visitarán a FC Cajamarca con la chance de sellar el título. Para este compromiso, Betano tiene las cuotas y probabilidades para los hinchas y aficionados al fútbol que deseen poner a prueba sus conocimientos deportivos.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/a-que-hora-juega-alianza-lima-vs-chankas-hoy-y-en-que-canales-pasan-partido-por-torneo-apertura-de-liga-1-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NWXRTVAB4VEIVBF6UK6JZAH5GM.jpg?auth=fff9e3d27529817264cdb760f69f73d0c37a9f8f6edded786075e41d28672792&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T11:20:00Z",
+          "published_at": "2026-05-23T14:03:20Z",
           "embed_url": "https://cdn.jwplayer.com/videos/m53xQtF3-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -2624,32 +2624,6 @@
           ],
           "is_live": false,
           "sort_order": 0
-        },
-        {
-          "id": "79f83101aa26",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Nuevo CORTE DE LUZ en Lima y Callao: horario y zonas afectadas hoy y mañana, 23 de mayo",
-          "summary": "¿Sin luz? Pluz Energía dio a conocer los próximos corte de luz programado para Lima y Callao desde el 21 al 23 de mayo del 2026. Revisa en la siguiente nota los horarios, zonas afectadas en cada distrito y más detalles.",
-          "body_text": "¡Atención, Lima y Callao! Pluz Energía compartió con el público en general los próximos cortes de luz programados en Lima y Callao, que se extenderán del jueves 21 al sábado 23 de mayo de 2026. En las siguientes líneas puedes encontrar los reportes con toda la información mencionada. Tener en cuenta que los cortes de luz se aplican a ciertas zonas de cada distrito y en horarios asignados. La falta del servicio se debe a trabajos de mantenimiento para mantener la calidad del recurso ofrecido a la capital y la provincia constitucional.",
-          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/T3AQC42I5FBWNAUJYOE6JSBYSY.jpg?auth=2860e27fb66e934c32eec828a0d09910dea270f02feeff72cc5ae4461d8b45fd&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T02:58:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Corte de luz, Pluz Energía, Corte de luz en Lima y Callao",
-            "A que Hora",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
         },
         {
           "id": "3cb27018c531",
@@ -2664,13 +2638,39 @@
           "body_text": "Una encuesta de Datum Internacional, realizada para América Multimedia y difundida por América noticias, reveló que en este escenario de segunda vuelta presidencial, Keiko Fujimori tiene el 39.5% de intención de voto, mientras que Roberto Sánchez alcanza el 36.1%. El sondeo también revela que un 15.9% de los consultados optaría por votar en blanco o viciado, y un 8.5% seleccionó que no sabe y no opina. Este es el primer sondeo de esta encuestadora difundido luego de la formalización de los resultados de la primera vuelta del 12 y 13 de abril, donde se confirmó que los candidatos presidenciales de Fuerza Popular y Juntos por el Perú (JPP) serán quienes disputen la segunda vuelta del 7 de junio. La encuesta de Datum se realizó entre los días 17 y 20 de mayo a nivel nacional y tiene un margen de error de +/- 2.8% con un nivel de confianza de 95%. En total, se realizaron 1,200 encuestas en personas entre 18 y 70 años de todos los niveles socioeconómicos. A nivel de macrorregiones, Datum reveló que en Lima/Callao, el respaldo a Keiko Fujimori es de 48.8% y para Roberto Sánchez 25.6%. En la macrorregión norte, Fujimori tiene 41.1% y Sánchez 36.4%, mientras que en el Centro es de 30.1% y 47.3% respectivamente. A nivel de las regiones del sur, Keiko Fujimori tiene 27.9% y Roberto Sánchez llega al 44.7%. Finalmente, en Oriente que implica la selva peruana Fuerza Popular llega a 33% y Juntos por el Perú 45.2%. Estas cifras salen a la luz pocos días antes de la realización de los dos debates para la segunda vuelta, entre equipos técnicos y candidatos presidenciales que se realizarán los domingos 24 y 31 de mayo respectivamente.",
           "url": "https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/N62M6IJ56NELJDZLQH4WS5DOOE.jpeg?auth=1b99efa3b4738e1771c6a4e0584190dad05d18e644ca6d12732e3438b892d17b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-22T21:24:16Z",
+          "published_at": "2026-05-23T13:52:04Z",
           "embed_url": "https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "Encuesta, Segunda vuelta, Elecciones 2026, Keiko Fujimori, Roberto Sánchez, Datum i",
             "Elecciones",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "79f83101aa26",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "CORTE DE LUZ en Lima y Callao HOY: Zonas afectadas en cada distrito y horarios según reportes",
+          "summary": "¿Sin luz? Pluz Energía dio a conocer los próximos corte de luz programado para Lima y Callao desde el 21 al 23 de mayo del 2026. Revisa en la siguiente nota los horarios, zonas afectadas en cada distrito y más detalles.",
+          "body_text": "¡Atención, Lima y Callao! Pluz Energía compartió con el público en general los próximos cortes de luz programados en Lima y Callao, que se extenderán del jueves 21 al sábado 23 de mayo de 2026. En las siguientes líneas puedes encontrar los reportes con toda la información mencionada. Tener en cuenta que los cortes de luz se aplican a ciertas zonas de cada distrito y en horarios asignados. La falta del servicio se debe a trabajos de mantenimiento para mantener la calidad del recurso ofrecido a la capital y la provincia constitucional.",
+          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/XBOSLLYZXNGJDHSKC3STURFJN4.jpg?auth=40edda70d2fb17c5a868d5804574d76735d62e801a3d94a587ffba37404401e3&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-23T13:50:34Z",
+          "embed_url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Corte de luz, Pluz Energía, Corte de luz en Lima y Callao",
+            "A que Hora",
             "Senaste",
             "El Comercio"
           ],
@@ -2884,12 +2884,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora van a jugar Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
+          "title": "¿A qué hora empezará el partido de Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
           "summary": "Revisa a qué hora juega Alianza Lima vs Chankas CYC HOY por la penútima jornada del Torneo Apertura de la Liga 1 en el estadio Alejandro Villanueva.",
           "body_text": "Alianza Lima recibe a Chankas este sábado 23 de mayo del 2026 con la oportunidad de gritar campeón del Torneo Apertura. En el estadio Alejandro Villanueva, el equipo dirigido por Pablo Guede tiene la complicada misión de sacar los 3 puntos frente a los de Andahuaylas para lograr su primer torneo corto del año. Con una ajustada victoria frente a Cienciano, los íntimos llegan a Matute con la oportunidad de cerrar el Apertura como campeones. Revisa la hora del partido en Perú y toda Sudamérica, incluyendo, México, España y Estados Unidos. El partido de Alianza Lima vs Chankas por la jornada 16 del Torneo Apertura de la Liga 1 2026 empieza a las 8:30 PM de Perú y 9:30 PM de Estdos Unidos este sábado 23 de mayo del 2026 en el estadio Alejandro Villanueva. El partido de Alianza Lima vs Chankas será transmitido a través de Liga 1 Max y Movistar Deportes en Perú. Mientras que en Argentina, Colombia, Ecuador, Chile y resto de Sudamérica lo pasa Fanatiz. En México el partido será transmitido a través de Fanatiz. En Perú, Alianza Lima vs Chankas juegan a las 20:30 horas en horario peruano en el estadio Alejandro Villanueva, este sábado 23 de mayo del 2026. Debido a su jerarquía y a la posibilidad real de cerrar el campeonato esa misma noche, Alianza Lima parte como el gran favorito para llevarse la victoria y, de esta manera, levantar el trofeo de la primera parte de la temporada. Por ello, de acuerdo con Betano, si el equipo local gana y se corona campeón paga una cuota de 1.32 y tiene un 72% de probabilidades. Asimismo, las cuotas de los jugadores íntimos para abrir el marcador se perfilan muy atractivas. Así destaca la participación de una de sus máximas figuras Erick Castillo, quien, si mete un gol, Betano paga 1.87; si lo hace Paolo Guerrero, se paga 2.12; si anota Jairo Vélez, se paga 2.95, o si lo hace Renzo Garcés, paga 5.00. Por su parte, el conjunto de Andahuaylas busca dar el golpe de la fecha. Tiene 33 puntos en la tabla y aún mantiene opciones matemáticas de quedarse con el primer torneo del año. Luego de una racha positiva de partidos sin perder, dejaron pasar puntos importantes en las últimas jornadas y ahora tienen la oportunidad de sumar. De esta manera, llegan a Lima con la consigna de aguarle la fiesta a los íntimos y demostrar que son un rival de cuidado fuera de casa. Aunque el panorama es retador, confía en su orden táctico y contragolpe para dar la sorpresa en Matute. Una histórica victoria de Los Chankas en el Alejandro Villanueva paga la atractiva cuota de 9.50 y tiene una probabilidad de 10% de triunfo. Mientras tanto, el empate paga 5.10 en Betano. Cabe precisar que, tanto si los “guerreros” se imponen como si logran un empate, Alianza Lima no podrá gritar campeón este sábado y todo se definirá en la última fecha, donde los íntimos visitarán a FC Cajamarca con la chance de sellar el título. Para este compromiso, Betano tiene las cuotas y probabilidades para los hinchas y aficionados al fútbol que deseen poner a prueba sus conocimientos deportivos.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/a-que-hora-juega-alianza-lima-vs-chankas-hoy-y-en-que-canales-pasan-partido-por-torneo-apertura-de-liga-1-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NWXRTVAB4VEIVBF6UK6JZAH5GM.jpg?auth=fff9e3d27529817264cdb760f69f73d0c37a9f8f6edded786075e41d28672792&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T11:20:00Z",
+          "published_at": "2026-05-23T14:03:20Z",
           "embed_url": "https://cdn.jwplayer.com/videos/m53xQtF3-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -2901,32 +2901,6 @@
           ],
           "is_live": false,
           "sort_order": 0
-        },
-        {
-          "id": "79f83101aa26",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Nuevo CORTE DE LUZ en Lima y Callao: horario y zonas afectadas hoy y mañana, 23 de mayo",
-          "summary": "¿Sin luz? Pluz Energía dio a conocer los próximos corte de luz programado para Lima y Callao desde el 21 al 23 de mayo del 2026. Revisa en la siguiente nota los horarios, zonas afectadas en cada distrito y más detalles.",
-          "body_text": "¡Atención, Lima y Callao! Pluz Energía compartió con el público en general los próximos cortes de luz programados en Lima y Callao, que se extenderán del jueves 21 al sábado 23 de mayo de 2026. En las siguientes líneas puedes encontrar los reportes con toda la información mencionada. Tener en cuenta que los cortes de luz se aplican a ciertas zonas de cada distrito y en horarios asignados. La falta del servicio se debe a trabajos de mantenimiento para mantener la calidad del recurso ofrecido a la capital y la provincia constitucional.",
-          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/T3AQC42I5FBWNAUJYOE6JSBYSY.jpg?auth=2860e27fb66e934c32eec828a0d09910dea270f02feeff72cc5ae4461d8b45fd&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T02:58:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Corte de luz, Pluz Energía, Corte de luz en Lima y Callao",
-            "A que Hora",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
         },
         {
           "id": "3cb27018c531",
@@ -2941,13 +2915,39 @@
           "body_text": "Una encuesta de Datum Internacional, realizada para América Multimedia y difundida por América noticias, reveló que en este escenario de segunda vuelta presidencial, Keiko Fujimori tiene el 39.5% de intención de voto, mientras que Roberto Sánchez alcanza el 36.1%. El sondeo también revela que un 15.9% de los consultados optaría por votar en blanco o viciado, y un 8.5% seleccionó que no sabe y no opina. Este es el primer sondeo de esta encuestadora difundido luego de la formalización de los resultados de la primera vuelta del 12 y 13 de abril, donde se confirmó que los candidatos presidenciales de Fuerza Popular y Juntos por el Perú (JPP) serán quienes disputen la segunda vuelta del 7 de junio. La encuesta de Datum se realizó entre los días 17 y 20 de mayo a nivel nacional y tiene un margen de error de +/- 2.8% con un nivel de confianza de 95%. En total, se realizaron 1,200 encuestas en personas entre 18 y 70 años de todos los niveles socioeconómicos. A nivel de macrorregiones, Datum reveló que en Lima/Callao, el respaldo a Keiko Fujimori es de 48.8% y para Roberto Sánchez 25.6%. En la macrorregión norte, Fujimori tiene 41.1% y Sánchez 36.4%, mientras que en el Centro es de 30.1% y 47.3% respectivamente. A nivel de las regiones del sur, Keiko Fujimori tiene 27.9% y Roberto Sánchez llega al 44.7%. Finalmente, en Oriente que implica la selva peruana Fuerza Popular llega a 33% y Juntos por el Perú 45.2%. Estas cifras salen a la luz pocos días antes de la realización de los dos debates para la segunda vuelta, entre equipos técnicos y candidatos presidenciales que se realizarán los domingos 24 y 31 de mayo respectivamente.",
           "url": "https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/N62M6IJ56NELJDZLQH4WS5DOOE.jpeg?auth=1b99efa3b4738e1771c6a4e0584190dad05d18e644ca6d12732e3438b892d17b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-22T21:24:16Z",
+          "published_at": "2026-05-23T13:52:04Z",
           "embed_url": "https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "Encuesta, Segunda vuelta, Elecciones 2026, Keiko Fujimori, Roberto Sánchez, Datum i",
             "Elecciones",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "79f83101aa26",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "CORTE DE LUZ en Lima y Callao HOY: Zonas afectadas en cada distrito y horarios según reportes",
+          "summary": "¿Sin luz? Pluz Energía dio a conocer los próximos corte de luz programado para Lima y Callao desde el 21 al 23 de mayo del 2026. Revisa en la siguiente nota los horarios, zonas afectadas en cada distrito y más detalles.",
+          "body_text": "¡Atención, Lima y Callao! Pluz Energía compartió con el público en general los próximos cortes de luz programados en Lima y Callao, que se extenderán del jueves 21 al sábado 23 de mayo de 2026. En las siguientes líneas puedes encontrar los reportes con toda la información mencionada. Tener en cuenta que los cortes de luz se aplican a ciertas zonas de cada distrito y en horarios asignados. La falta del servicio se debe a trabajos de mantenimiento para mantener la calidad del recurso ofrecido a la capital y la provincia constitucional.",
+          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/XBOSLLYZXNGJDHSKC3STURFJN4.jpg?auth=40edda70d2fb17c5a868d5804574d76735d62e801a3d94a587ffba37404401e3&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-23T13:50:34Z",
+          "embed_url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Corte de luz, Pluz Energía, Corte de luz en Lima y Callao",
+            "A que Hora",
             "Economia",
             "El Comercio"
           ],
@@ -3161,12 +3161,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora van a jugar Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
+          "title": "¿A qué hora empezará el partido de Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
           "summary": "Revisa a qué hora juega Alianza Lima vs Chankas CYC HOY por la penútima jornada del Torneo Apertura de la Liga 1 en el estadio Alejandro Villanueva.",
           "body_text": "Alianza Lima recibe a Chankas este sábado 23 de mayo del 2026 con la oportunidad de gritar campeón del Torneo Apertura. En el estadio Alejandro Villanueva, el equipo dirigido por Pablo Guede tiene la complicada misión de sacar los 3 puntos frente a los de Andahuaylas para lograr su primer torneo corto del año. Con una ajustada victoria frente a Cienciano, los íntimos llegan a Matute con la oportunidad de cerrar el Apertura como campeones. Revisa la hora del partido en Perú y toda Sudamérica, incluyendo, México, España y Estados Unidos. El partido de Alianza Lima vs Chankas por la jornada 16 del Torneo Apertura de la Liga 1 2026 empieza a las 8:30 PM de Perú y 9:30 PM de Estdos Unidos este sábado 23 de mayo del 2026 en el estadio Alejandro Villanueva. El partido de Alianza Lima vs Chankas será transmitido a través de Liga 1 Max y Movistar Deportes en Perú. Mientras que en Argentina, Colombia, Ecuador, Chile y resto de Sudamérica lo pasa Fanatiz. En México el partido será transmitido a través de Fanatiz. En Perú, Alianza Lima vs Chankas juegan a las 20:30 horas en horario peruano en el estadio Alejandro Villanueva, este sábado 23 de mayo del 2026. Debido a su jerarquía y a la posibilidad real de cerrar el campeonato esa misma noche, Alianza Lima parte como el gran favorito para llevarse la victoria y, de esta manera, levantar el trofeo de la primera parte de la temporada. Por ello, de acuerdo con Betano, si el equipo local gana y se corona campeón paga una cuota de 1.32 y tiene un 72% de probabilidades. Asimismo, las cuotas de los jugadores íntimos para abrir el marcador se perfilan muy atractivas. Así destaca la participación de una de sus máximas figuras Erick Castillo, quien, si mete un gol, Betano paga 1.87; si lo hace Paolo Guerrero, se paga 2.12; si anota Jairo Vélez, se paga 2.95, o si lo hace Renzo Garcés, paga 5.00. Por su parte, el conjunto de Andahuaylas busca dar el golpe de la fecha. Tiene 33 puntos en la tabla y aún mantiene opciones matemáticas de quedarse con el primer torneo del año. Luego de una racha positiva de partidos sin perder, dejaron pasar puntos importantes en las últimas jornadas y ahora tienen la oportunidad de sumar. De esta manera, llegan a Lima con la consigna de aguarle la fiesta a los íntimos y demostrar que son un rival de cuidado fuera de casa. Aunque el panorama es retador, confía en su orden táctico y contragolpe para dar la sorpresa en Matute. Una histórica victoria de Los Chankas en el Alejandro Villanueva paga la atractiva cuota de 9.50 y tiene una probabilidad de 10% de triunfo. Mientras tanto, el empate paga 5.10 en Betano. Cabe precisar que, tanto si los “guerreros” se imponen como si logran un empate, Alianza Lima no podrá gritar campeón este sábado y todo se definirá en la última fecha, donde los íntimos visitarán a FC Cajamarca con la chance de sellar el título. Para este compromiso, Betano tiene las cuotas y probabilidades para los hinchas y aficionados al fútbol que deseen poner a prueba sus conocimientos deportivos.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/a-que-hora-juega-alianza-lima-vs-chankas-hoy-y-en-que-canales-pasan-partido-por-torneo-apertura-de-liga-1-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NWXRTVAB4VEIVBF6UK6JZAH5GM.jpg?auth=fff9e3d27529817264cdb760f69f73d0c37a9f8f6edded786075e41d28672792&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T11:20:00Z",
+          "published_at": "2026-05-23T14:03:20Z",
           "embed_url": "https://cdn.jwplayer.com/videos/m53xQtF3-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3178,32 +3178,6 @@
           ],
           "is_live": false,
           "sort_order": 0
-        },
-        {
-          "id": "79f83101aa26",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Nuevo CORTE DE LUZ en Lima y Callao: horario y zonas afectadas hoy y mañana, 23 de mayo",
-          "summary": "¿Sin luz? Pluz Energía dio a conocer los próximos corte de luz programado para Lima y Callao desde el 21 al 23 de mayo del 2026. Revisa en la siguiente nota los horarios, zonas afectadas en cada distrito y más detalles.",
-          "body_text": "¡Atención, Lima y Callao! Pluz Energía compartió con el público en general los próximos cortes de luz programados en Lima y Callao, que se extenderán del jueves 21 al sábado 23 de mayo de 2026. En las siguientes líneas puedes encontrar los reportes con toda la información mencionada. Tener en cuenta que los cortes de luz se aplican a ciertas zonas de cada distrito y en horarios asignados. La falta del servicio se debe a trabajos de mantenimiento para mantener la calidad del recurso ofrecido a la capital y la provincia constitucional.",
-          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/T3AQC42I5FBWNAUJYOE6JSBYSY.jpg?auth=2860e27fb66e934c32eec828a0d09910dea270f02feeff72cc5ae4461d8b45fd&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T02:58:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Corte de luz, Pluz Energía, Corte de luz en Lima y Callao",
-            "A que Hora",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
         },
         {
           "id": "3cb27018c531",
@@ -3218,13 +3192,39 @@
           "body_text": "Una encuesta de Datum Internacional, realizada para América Multimedia y difundida por América noticias, reveló que en este escenario de segunda vuelta presidencial, Keiko Fujimori tiene el 39.5% de intención de voto, mientras que Roberto Sánchez alcanza el 36.1%. El sondeo también revela que un 15.9% de los consultados optaría por votar en blanco o viciado, y un 8.5% seleccionó que no sabe y no opina. Este es el primer sondeo de esta encuestadora difundido luego de la formalización de los resultados de la primera vuelta del 12 y 13 de abril, donde se confirmó que los candidatos presidenciales de Fuerza Popular y Juntos por el Perú (JPP) serán quienes disputen la segunda vuelta del 7 de junio. La encuesta de Datum se realizó entre los días 17 y 20 de mayo a nivel nacional y tiene un margen de error de +/- 2.8% con un nivel de confianza de 95%. En total, se realizaron 1,200 encuestas en personas entre 18 y 70 años de todos los niveles socioeconómicos. A nivel de macrorregiones, Datum reveló que en Lima/Callao, el respaldo a Keiko Fujimori es de 48.8% y para Roberto Sánchez 25.6%. En la macrorregión norte, Fujimori tiene 41.1% y Sánchez 36.4%, mientras que en el Centro es de 30.1% y 47.3% respectivamente. A nivel de las regiones del sur, Keiko Fujimori tiene 27.9% y Roberto Sánchez llega al 44.7%. Finalmente, en Oriente que implica la selva peruana Fuerza Popular llega a 33% y Juntos por el Perú 45.2%. Estas cifras salen a la luz pocos días antes de la realización de los dos debates para la segunda vuelta, entre equipos técnicos y candidatos presidenciales que se realizarán los domingos 24 y 31 de mayo respectivamente.",
           "url": "https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/N62M6IJ56NELJDZLQH4WS5DOOE.jpeg?auth=1b99efa3b4738e1771c6a4e0584190dad05d18e644ca6d12732e3438b892d17b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-22T21:24:16Z",
+          "published_at": "2026-05-23T13:52:04Z",
           "embed_url": "https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "Encuesta, Segunda vuelta, Elecciones 2026, Keiko Fujimori, Roberto Sánchez, Datum i",
             "Elecciones",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "79f83101aa26",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "CORTE DE LUZ en Lima y Callao HOY: Zonas afectadas en cada distrito y horarios según reportes",
+          "summary": "¿Sin luz? Pluz Energía dio a conocer los próximos corte de luz programado para Lima y Callao desde el 21 al 23 de mayo del 2026. Revisa en la siguiente nota los horarios, zonas afectadas en cada distrito y más detalles.",
+          "body_text": "¡Atención, Lima y Callao! Pluz Energía compartió con el público en general los próximos cortes de luz programados en Lima y Callao, que se extenderán del jueves 21 al sábado 23 de mayo de 2026. En las siguientes líneas puedes encontrar los reportes con toda la información mencionada. Tener en cuenta que los cortes de luz se aplican a ciertas zonas de cada distrito y en horarios asignados. La falta del servicio se debe a trabajos de mantenimiento para mantener la calidad del recurso ofrecido a la capital y la provincia constitucional.",
+          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/XBOSLLYZXNGJDHSKC3STURFJN4.jpg?auth=40edda70d2fb17c5a868d5804574d76735d62e801a3d94a587ffba37404401e3&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-23T13:50:34Z",
+          "embed_url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Corte de luz, Pluz Energía, Corte de luz en Lima y Callao",
+            "A que Hora",
             "Mundo",
             "El Comercio"
           ],
@@ -3438,12 +3438,12 @@
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora van a jugar Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
+          "title": "¿A qué hora empezará el partido de Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
           "summary": "Revisa a qué hora juega Alianza Lima vs Chankas CYC HOY por la penútima jornada del Torneo Apertura de la Liga 1 en el estadio Alejandro Villanueva.",
           "body_text": "Alianza Lima recibe a Chankas este sábado 23 de mayo del 2026 con la oportunidad de gritar campeón del Torneo Apertura. En el estadio Alejandro Villanueva, el equipo dirigido por Pablo Guede tiene la complicada misión de sacar los 3 puntos frente a los de Andahuaylas para lograr su primer torneo corto del año. Con una ajustada victoria frente a Cienciano, los íntimos llegan a Matute con la oportunidad de cerrar el Apertura como campeones. Revisa la hora del partido en Perú y toda Sudamérica, incluyendo, México, España y Estados Unidos. El partido de Alianza Lima vs Chankas por la jornada 16 del Torneo Apertura de la Liga 1 2026 empieza a las 8:30 PM de Perú y 9:30 PM de Estdos Unidos este sábado 23 de mayo del 2026 en el estadio Alejandro Villanueva. El partido de Alianza Lima vs Chankas será transmitido a través de Liga 1 Max y Movistar Deportes en Perú. Mientras que en Argentina, Colombia, Ecuador, Chile y resto de Sudamérica lo pasa Fanatiz. En México el partido será transmitido a través de Fanatiz. En Perú, Alianza Lima vs Chankas juegan a las 20:30 horas en horario peruano en el estadio Alejandro Villanueva, este sábado 23 de mayo del 2026. Debido a su jerarquía y a la posibilidad real de cerrar el campeonato esa misma noche, Alianza Lima parte como el gran favorito para llevarse la victoria y, de esta manera, levantar el trofeo de la primera parte de la temporada. Por ello, de acuerdo con Betano, si el equipo local gana y se corona campeón paga una cuota de 1.32 y tiene un 72% de probabilidades. Asimismo, las cuotas de los jugadores íntimos para abrir el marcador se perfilan muy atractivas. Así destaca la participación de una de sus máximas figuras Erick Castillo, quien, si mete un gol, Betano paga 1.87; si lo hace Paolo Guerrero, se paga 2.12; si anota Jairo Vélez, se paga 2.95, o si lo hace Renzo Garcés, paga 5.00. Por su parte, el conjunto de Andahuaylas busca dar el golpe de la fecha. Tiene 33 puntos en la tabla y aún mantiene opciones matemáticas de quedarse con el primer torneo del año. Luego de una racha positiva de partidos sin perder, dejaron pasar puntos importantes en las últimas jornadas y ahora tienen la oportunidad de sumar. De esta manera, llegan a Lima con la consigna de aguarle la fiesta a los íntimos y demostrar que son un rival de cuidado fuera de casa. Aunque el panorama es retador, confía en su orden táctico y contragolpe para dar la sorpresa en Matute. Una histórica victoria de Los Chankas en el Alejandro Villanueva paga la atractiva cuota de 9.50 y tiene una probabilidad de 10% de triunfo. Mientras tanto, el empate paga 5.10 en Betano. Cabe precisar que, tanto si los “guerreros” se imponen como si logran un empate, Alianza Lima no podrá gritar campeón este sábado y todo se definirá en la última fecha, donde los íntimos visitarán a FC Cajamarca con la chance de sellar el título. Para este compromiso, Betano tiene las cuotas y probabilidades para los hinchas y aficionados al fútbol que deseen poner a prueba sus conocimientos deportivos.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/a-que-hora-juega-alianza-lima-vs-chankas-hoy-y-en-que-canales-pasan-partido-por-torneo-apertura-de-liga-1-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NWXRTVAB4VEIVBF6UK6JZAH5GM.jpg?auth=fff9e3d27529817264cdb760f69f73d0c37a9f8f6edded786075e41d28672792&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T11:20:00Z",
+          "published_at": "2026-05-23T14:03:20Z",
           "embed_url": "https://cdn.jwplayer.com/videos/m53xQtF3-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3455,32 +3455,6 @@
           ],
           "is_live": false,
           "sort_order": 0
-        },
-        {
-          "id": "79f83101aa26",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Nuevo CORTE DE LUZ en Lima y Callao: horario y zonas afectadas hoy y mañana, 23 de mayo",
-          "summary": "¿Sin luz? Pluz Energía dio a conocer los próximos corte de luz programado para Lima y Callao desde el 21 al 23 de mayo del 2026. Revisa en la siguiente nota los horarios, zonas afectadas en cada distrito y más detalles.",
-          "body_text": "¡Atención, Lima y Callao! Pluz Energía compartió con el público en general los próximos cortes de luz programados en Lima y Callao, que se extenderán del jueves 21 al sábado 23 de mayo de 2026. En las siguientes líneas puedes encontrar los reportes con toda la información mencionada. Tener en cuenta que los cortes de luz se aplican a ciertas zonas de cada distrito y en horarios asignados. La falta del servicio se debe a trabajos de mantenimiento para mantener la calidad del recurso ofrecido a la capital y la provincia constitucional.",
-          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/T3AQC42I5FBWNAUJYOE6JSBYSY.jpg?auth=2860e27fb66e934c32eec828a0d09910dea270f02feeff72cc5ae4461d8b45fd&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T02:58:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Corte de luz, Pluz Energía, Corte de luz en Lima y Callao",
-            "A que Hora",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
         },
         {
           "id": "3cb27018c531",
@@ -3495,13 +3469,39 @@
           "body_text": "Una encuesta de Datum Internacional, realizada para América Multimedia y difundida por América noticias, reveló que en este escenario de segunda vuelta presidencial, Keiko Fujimori tiene el 39.5% de intención de voto, mientras que Roberto Sánchez alcanza el 36.1%. El sondeo también revela que un 15.9% de los consultados optaría por votar en blanco o viciado, y un 8.5% seleccionó que no sabe y no opina. Este es el primer sondeo de esta encuestadora difundido luego de la formalización de los resultados de la primera vuelta del 12 y 13 de abril, donde se confirmó que los candidatos presidenciales de Fuerza Popular y Juntos por el Perú (JPP) serán quienes disputen la segunda vuelta del 7 de junio. La encuesta de Datum se realizó entre los días 17 y 20 de mayo a nivel nacional y tiene un margen de error de +/- 2.8% con un nivel de confianza de 95%. En total, se realizaron 1,200 encuestas en personas entre 18 y 70 años de todos los niveles socioeconómicos. A nivel de macrorregiones, Datum reveló que en Lima/Callao, el respaldo a Keiko Fujimori es de 48.8% y para Roberto Sánchez 25.6%. En la macrorregión norte, Fujimori tiene 41.1% y Sánchez 36.4%, mientras que en el Centro es de 30.1% y 47.3% respectivamente. A nivel de las regiones del sur, Keiko Fujimori tiene 27.9% y Roberto Sánchez llega al 44.7%. Finalmente, en Oriente que implica la selva peruana Fuerza Popular llega a 33% y Juntos por el Perú 45.2%. Estas cifras salen a la luz pocos días antes de la realización de los dos debates para la segunda vuelta, entre equipos técnicos y candidatos presidenciales que se realizarán los domingos 24 y 31 de mayo respectivamente.",
           "url": "https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/N62M6IJ56NELJDZLQH4WS5DOOE.jpeg?auth=1b99efa3b4738e1771c6a4e0584190dad05d18e644ca6d12732e3438b892d17b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-22T21:24:16Z",
+          "published_at": "2026-05-23T13:52:04Z",
           "embed_url": "https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "Encuesta, Segunda vuelta, Elecciones 2026, Keiko Fujimori, Roberto Sánchez, Datum i",
             "Elecciones",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "79f83101aa26",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "CORTE DE LUZ en Lima y Callao HOY: Zonas afectadas en cada distrito y horarios según reportes",
+          "summary": "¿Sin luz? Pluz Energía dio a conocer los próximos corte de luz programado para Lima y Callao desde el 21 al 23 de mayo del 2026. Revisa en la siguiente nota los horarios, zonas afectadas en cada distrito y más detalles.",
+          "body_text": "¡Atención, Lima y Callao! Pluz Energía compartió con el público en general los próximos cortes de luz programados en Lima y Callao, que se extenderán del jueves 21 al sábado 23 de mayo de 2026. En las siguientes líneas puedes encontrar los reportes con toda la información mencionada. Tener en cuenta que los cortes de luz se aplican a ciertas zonas de cada distrito y en horarios asignados. La falta del servicio se debe a trabajos de mantenimiento para mantener la calidad del recurso ofrecido a la capital y la provincia constitucional.",
+          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/XBOSLLYZXNGJDHSKC3STURFJN4.jpg?auth=40edda70d2fb17c5a868d5804574d76735d62e801a3d94a587ffba37404401e3&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-23T13:50:34Z",
+          "embed_url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-del-21-al-23-de-mayo-pluz-energia-comparte-horarios-zonas-afectadas-y-distritos-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Corte de luz, Pluz Energía, Corte de luz en Lima y Callao",
+            "A que Hora",
             "Peru",
             "El Comercio"
           ],
@@ -3742,6 +3742,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "4e9cfd70d984",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Elon Musk has given up on solar power (on Earth) | TechCrunch",
+          "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+          "body_text": "Has Elon Musk given up on Tesla’s Master Plans, on the electrified economy, on solar power as we know it? From the SpaceX IPO filing released this week, it sure seems like it. A recap for those not enmeshed in the Musk-verse: Tesla has released four Master Plans over the years, and while details have varied, the through line has been electrification of the economy. Musk put it best in his first edition: “the overarching purpose of Tesla motors…is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy.” But recently, one of Musk’s companies, xAI, has embraced the mine-and-burn hydrocarbon economy, using dozens of unregulated natural gas turbines to power its data centers with plans to buy $2.8 billion more , effectively cementing the fossil fuel’s role in the company’s AI operations. It’s a curious turn for a businessman who built his empire on clean energy — and who has no qualms directing his companies to buy from one another. SpaceX spent $131 million on 1,279 Cybertrucks, and xAI has spent $697 million in the last two years on Tesla Megapacks, it’s grid-scale battery storage systems that the company will use to manage peak loads. But so far, xAI hasn’t bought a materially significant number of solar panels from Tesla. Solar power isn’t missing in the SpaceX filing, it’s just all concentrated on space, which the company touts as the future of data center power. Terrestrial solar garners a few mentions — not as a power source for xAI data centers but instead to show how much better SpaceX thinks space-based solar will be. It’s no secret that Musk and other Silicon Valley executives have become obsessed with space-based solar power. SpaceX says that space-based solar arrays can generate “more than five-times the energy” of terrestrial ones thanks to 24/7 illumination. As AI data centers have run into opposition here on Earth, CEOs like Musk have started mulling big server racks in space powered by that 24/7 sunshine. Hammer, meet nail. Even if SpaceX is able to bring down the cost of boosting a data center into orbit, the economics are challenging at best . Power prices for Starlink satellites are multiples higher than what a terrestrial data center typically spends, and protecting chips from the rigors of space won’t be easy or cheap. It’s also not clear whether AI training can be distributed across multiple satellites, leaving a significant chunk of AI work earthbound. It’s not just one problem that SpaceX needs to solve, but many. It’s likely that Musk considers xAI’s current data centers as stopgaps, that once SpaceX is able to loft gigawatts worth of servers into orbit — probably just a few years away, in his mind — he’ll scrap what’s here on the ground, natural gas turbines included and not have to think about NIMBYs anymore. The risk, of course, is that he’s wrong. It’s not just NIMBYs that Musk is worried about, though. He’s clearly concerned that computing demands from AI will quickly outstrip what we can provide here on Earth. Sprinkled throughout the SEC filing are references to “terawatt-scale annual AI compute growth,” which will require power to match. That’s a stunning figure when you consider that all the world’s data centers use around 40 gigawatts today . This is Musk’s “first principles” thinking in action. At some point, he assumed the world will need an additional terawatt worth of compute every year, and he worked back from there. “We believe that third-party estimates on data center demand are constrained by the practical supply limitations that exist in a terrestrial context and the power shortage may be far greater than what research estimates suggest,” the company argues. Possible? Sure, I suppose. But consider that humanity today uses about 35,000 terawatt-hours of energy annually, or about 4 terawatts on a continuous basis. Energy demand has risen lately, and for AI, it probably is in an phase of exponential growth, which could either continue or level off. We have no way of knowing at this point, but if there’s one thing Musk is good at, it’s spotting a trend at its inflection point and extrapolating wildly. Here’s where Musk’s problems settle back down to Earth. I’m no rocket scientist, but I suspect that shipping solar panels on a flatbed truck uses less energy than sending them into orbit. Plus, space-ready solar panels will need to be manufactured at unprecedented scale. Not insurmountable problems, but also maybe a distraction. We’ve barely scratched solar’s potential here on Earth, for example.",
+          "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
+          "published_at": "2026-05-23T13:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "0c6e1d07fe0d",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3763,7 +3787,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "48a55c9b5771",
@@ -3787,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "31df963387dd",
@@ -3811,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "214b35001a83",
@@ -3835,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "8d56d277ed4b",
@@ -3859,7 +3883,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "93da6cc8c34d",
@@ -3883,30 +3907,6 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "80ba59ffc1c3",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Kash Patel's clothing brand website shut down after reports it was hacked | TechCrunch",
-          "summary": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
-          "body_text": "The merchandise website of FBI director Kash Patel was taken offline on Friday after reports that it had been hijacked by hackers trying to infect visitors with malware, as first reported by Straight Arrow News . As of this writing, the website of Based Apparel is offline. On Thursday, an X user who goes by Debbie posted that the brand’s website apparently had malware on it, in particular an infostealer, a type of malicious software designed to infect victims and steal their credentials and passwords. A security researcher later analyzed the malware . Brand Apparel could not be reached for comment. TechCrunch emailed a Gmail address previously associated with Patel, but we have not received an answer. This was not a good week for security for MAGA-associated business ventures. On Friday, President Trump’s cell phone provider and maker of Trump Mobile confirmed that the company left customers’ personal information exposed online , including names, email addresses, mailing addresses, cell numbers, and order identifiers. The confirmation came days after a researcher alerted two YouTubers who had purchased Trump Mobile’s phone that their personal data was exposed on the internet. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
-          "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/kash-patel-fbi-donald-trump.jpg?resize=1200,800",
-          "published_at": "2026-05-22T16:28:06Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/kash-patel-fbi-donald-trump.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
           "sort_order": 6
         },
         {
@@ -4281,8 +4281,8 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Om Aftonbladet – kontakt och redaktionell policy",
-          "summary": "Tjänstgörande redaktörer: My Almér, Ellinor Brenning och Rebecka Rakell. Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Sch",
-          "body_text": "Uppdaterad 05.04 | Publicerad 2016-10-19 Tjänstgörande redaktörer: My Almér, Ellinor Brenning och Rebecka Rakell. Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius, och till 9 procent av Landsorganisationen i Sverige, LO.",
+          "summary": "Tjänstgörande redaktörer: Sebastian Laneby, Stefan Sköld, Mattias Kling Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schm",
+          "body_text": "Uppdaterad 15.35 | Publicerad 2016-10-19 Tjänstgörande redaktörer: Sebastian Laneby, Stefan Sköld, Mattias Kling Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius, och till 9 procent av Landsorganisationen i Sverige, LO.",
           "url": "https://www.aftonbladet.se/a/LOlQ4/om-aftonbladet",
           "image_url": "https://images.aftonbladet-cdn.se/v2/images/11bc7a56-7cf1-4ae6-9bd3-f357872611de?fit=crop&format=auto&h=1267&q=50&w=1900&s=099f3f072dd17d1fe790dd9e1ec65cff7a6620d3",
           "published_at": "2020-09-02T08:55:45Z",
@@ -4362,6 +4362,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "6fcc1819c0f5",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Därför missar Trump sonens bröllopsfest • Kryptiska orden: ”Omständigheter”",
+          "summary": "Donald Trump Jr gifte sig nyligen med Bettina Anderson. Hans pappa missar bröllopsfesten i Florida i helgen på grund av ”omständigheter som rör regeringen”. CBS News och Axios rapporterar att presidenten seriöst överväger nya militära attacker mot Iran.",
+          "body_text": "Donald Trump Jr gifte sig nyligen med Bettina Anderson. Hans pappa missar bröllopsfesten i Florida i helgen på grund av ”omständigheter som rör regeringen”. CBS News och Axios rapporterar att presidenten seriöst överväger nya militära attacker mot Iran. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Amerikanska medier rapporterar att Donald Trump Jr och influencern Bettina Anderson gifte sig i torsdags. Vigseln beskrivs som ”diskret”. Donald Trump Jr har gift sig med Bettina Anderson, men hans pappa missar bröllopsfesten i Florida på grund av jobbet. Amerikanska medier rapporterar att Trump överväger nya militära attacker mot Iran. Trump har kallat sin högsta nationella säkerhetsgrupp till möte om situationen. Vita huset betonar att Iran aldrig får skaffa kärnvapen och att alla alternativ ligger på bordet. Bröllopsfesten hålls i West Palm Beach i Florida i helgen. Brudgummens pappa kommer dock inte att närvara. I går skrev presidenten på plattformen Truth Social: ”Även om jag väldigt gärna hade velat vara med min son, Don Jr. och det nyaste tillskottet i Trump-familjen, hans blivande fru Bettina, gör omständigheter som rör regeringen, och min kärlek till Amerikas förenta stater, att jag inte kan göra det.” CBC News och Axios rapporterar att Trumpadministrationen förbereder för nya militära attacker mot Iran, eftersom fredsförhandlingarna går trögt. Detta enligt flera källor.",
+          "url": "https://www.expressen.se/nyheter/varlden/kallor-darfor-missar-trump-brollopsfesten/",
+          "image_url": "https://static.bonniernews.se/images/32/8f/328fe3531d684d33800e9b8c27211b21/16x9/original.png",
+          "published_at": "2026-05-23T14:07:54Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/kallor-darfor-missar-trump-brollopsfesten/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "5be19cbf8d70",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Sveriges krav på Nato",
+          "summary": "Sverige vill att Ukraina ska bli en del av Nato. Det säger försvarsminister Pål Jonson (M), till nyhetssajten Politico. Han menar att deras krigstestade armé skulle styrka alliansen.",
+          "body_text": "Sverige vill att Ukraina ska bli en del av Nato. Det säger försvarsminister Pål Jonson (M), till nyhetssajten Politico . Han menar att deras krigstestade armé skulle styrka alliansen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Frågan om ett ukrainskt medlemskap i Nato har varit väldigt omdebatterad. I fredsförhandlingarna har det varit en röd linje för Ryssland att Ukraina inte under några omständigheter ska bli medlem. Inom alliansen har också en debatt förs där medlemsstater tycket olika. Nu säger försvarsminister Pål Jonson (M) att han vill se ett ukrainskt medlemskap, rapporterar Politico . han vill att landet borde ha en väg in i Nato. Han beskriver den ukrainska armén som ”krigstestad” efter att ha avvärjt de ryska styrkorna under fyra års tid. Dessutom menar han att landets försvarsindustri utvecklats i rask takt. Dessa faktorer menar han skulle vara ett starkt bidrag till alliansen. – Alla europeiska länder borde ha rätt att gå med i Nato när de lever upp till kraven, säger Jonson och fortsätter: – Det borde inte finnas någon som har ett veto mot det, det är vår position. Jonson ser att det inte finns konsensus kring frågan inom alliansen. Flera medlemsländer är rädda att ett ukrainskt medlemskap skulle reta upp Ryssland och president Vladimir Putin. Men fördelarna överväger det, enligt Jonson. – Var någonstans i Europa finns 110 brigader? Var i Europa hittar vid innovationssystemen som Ukraina har tillhandahållit? säger han. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/sverige/sverige-vill-se-ukrainskt-nato-medlemskap/",
+          "image_url": "https://static.bonniernews.se/images/ef/b1/efb1ccdcf5fe417fbfc0cdea80bfe89b/16x9/original.jpg",
+          "published_at": "2026-05-23T13:59:03Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/sverige-vill-se-ukrainskt-nato-medlemskap/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "0b4fa8b2f2e2",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Man våldtog och tatuerade kvinna",
+          "summary": "Sedan han släppts fri efter en tidigare misshandel av flickvännen åkte mannen hem till henne. Han höll henne fången i 17 timmar och misshandlade, våldtog och tvångstatuerade henne.",
+          "body_text": "Sedan han släppts fri efter en tidigare misshandel av flickvännen åkte mannen hem till henne. Han höll henne fången i 17 timmar och misshandlade, våldtog och tvångstatuerade henne. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Mannen och kvinnan har tidigare varit ett par. I mars i år dömdes han för misshandel mot henne. Straffet blev skyddstillsyn, och han släpptes ur häktet efter rättegången. Han åkte genast hem till henne och anklagade henne för att ha varit otrogen medan han var häktad. Sen följde 17 timmar av våld, hot och förnedring. När hon inte erkände den påstådda otroheten tog han stryptag på henne. Sen lyfte han en stekpanna högt över huvudet och tvingade fram ett falskt erkännande, varpå han slog henne med stekpannan på knäet. Senare tvångstatuerade han henne, bland annat med texten ”Jag e hora” på hennes lår. Mannen filmade när han utförde, och tvingade henne att utföra, förnedrande handlingar. Han sa att han skulle döda henne och drog med baksidan av en kniv över hennes hals. Slutligen våldtog han henne. Han hade förbjudit henne att lämna bostaden, men när livsmedelsbutiken i närheten öppnade, medan han sov, smög hon ut och fick hjälp av butikspersonalen att tillkalla hjälp. Mannen har erkänt att han tatuerade in ”jag e hora”, men hävdar att de var överens om det. Han förnekar att han använt våld eller våldtagit henne. Han döms nu för grov misshandel, grovt olaga hot, olaga frihetsberövande, olaga tvång och våldtäkt. Mannen, som är i 35-årsåldern och sen tidigare förekommer under 16 avsnitt i belastningsregistret, döms nu av Gävle tingsrätt till fem års fängelse. Han döms också att betala 565 000 kronor i skadestånd till kvinnan. Jämställdhetsminister Nina Larsson har reagerat och skriver på X att fallet gör henne ”spyfärdig”.",
+          "url": "https://www.expressen.se/nyheter/sverige/man-slapptes-valdtog-och-tatuerade-kvinna/",
+          "image_url": "https://static.bonniernews.se/images/2e/70/2e70dd925c2e47aa928ffd9645624b59/16x9/original.jpg",
+          "published_at": "2026-05-23T13:50:36Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/man-slapptes-valdtog-och-tatuerade-kvinna/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "76dc943ca563",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4383,7 +4455,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "c772597004b1",
@@ -4407,7 +4479,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "8b2d17fd30af",
@@ -4431,7 +4503,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "e48c2d194f22",
@@ -4455,7 +4527,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "bc03867a9a98",
@@ -4479,7 +4551,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "78bdee1b695e",
@@ -4489,85 +4561,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Drönare kraschat",
-          "summary": "En drönare kraschade och exploderade i sjön Drīdža i Krāslava-regionen i Lettland på lördagsmorgonen. Inga skador har rapporterats, skriver Lettlands public servicebolag LSM.",
-          "body_text": "En drönare kraschade och exploderade i sjön Drīdža i Krāslava-regionen i Lettland på lördagsmorgonen. Inga skador har rapporterats, skriver Lettlands public servicebolag LSM. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Polisen och andra myndigheter undersöker ett stort område där möjliga vrakdelar har hittats. Räddningstjänst, brandkår och försvarsmakten deltar i sök- och insatsarbetet. Vid flera tillfällen tidigare i maj larmades det om drönare i lettiskt luftrum. Då skrev landets försvarsdepartement att ”Så länge Rysslands aggression mot Ukraina pågår är det möjligt att liknande incidenter sker”. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/dronare-kraschat-i-lettland/",
-          "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
-          "published_at": "2026-05-23T11:30:41Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/dronare-kraschat-i-lettland/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "a1ea1190c102",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tre skjutna vid villa i Älvsjö – stor polisinsats • En gripen",
-          "summary": "Polisen larmades om ett bråk i en villa i Älvsjö på lördagsförmiddagen. Där hittade man tre skottskadade personer. Samtliga har förts till sjukhus. En misstänkt gärningsman har gripits.",
-          "body_text": "Polisen larmades om ett bråk i en villa i Älvsjö på lördagsförmiddagen. Där hittade man tre skottskadade personer. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Polisen skriver på sin hemsida att ”någon typ av konflikt” uppstått i en villa i Älvsjö på lördagsförmiddagen och att ”detta har lett till att en person misstänks ha avlossat ett vapen”. Tre personer sköts i en villa i Älvsjö på lördagsförmiddagen. Samtliga skadade har förts till sjukhus, en av dem är allvarligt skadad. En misstänkt gärningsman har gripits på platsen. Polisen bedömer att det rör sig om en isolerad händelse och ingen fara för allmänheten. Vittnen berättar om ett stort pådrag i området. Flera poliser, ambulanser och helikoptrar larmades dit. Polisen har öppnat en förundersökning gällande försök till mord. I villan hittade polisen tre skottskadade personer. – Två är lindrigt skadade, en person är enligt mig lite allvarligare skadad, men samtliga var vakna och talbara. De är förda till sjukhus, säger polisens presstalesperson Carina Skagerlind. – Min bild är att det är någon typ av konflikt som har eskalerat och resulterat i det här. Initialt uppgav polisen att samtliga inblandade är vuxna män. Vid 12:20 skriver polisen på sin hemsida att en av de skadade är en kvinna och att övriga skadade samt skytten är vuxna män.",
-          "url": "https://www.expressen.se/nyheter/sverige/tre-personer-skjutna-vid-villa-i-alvsjo/",
-          "image_url": "https://static.bonniernews.se/images/54/1d/541d49191b6c4d35a9cf6daf3533c6bf/16x9/original.png",
-          "published_at": "2026-05-23T09:36:15Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/tre-personer-skjutna-vid-villa-i-alvsjo/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "f319c1ef385a",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Partiledarna ryker ihop i TV4: ”Inte seriöst”",
-          "summary": "Det hettar till mellan partiledarna i TV4:s Nyhetsmorgon på lördagen. Magdalena Andersson anklagar Kristersson för att ljuga. Och Jimmie Åkesson kritiserar Dadgostar för att lova saker hon inte kan hålla.",
-          "body_text": "Det hettar till mellan partiledarna i TV4:s Nyhetsmorgon på lördagen. Magdalena Andersson anklagar Kristersson för att ljuga. Och Jimmie Åkesson kritiserar Dadgostar för att lova saker hon inte kan hålla. – Det är inte seriöst Nooshi, säger han. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Förra veckan möttes ledarna för riksdagens mindre partier i partiledarsamtal i TV4 :s Nyhetsmorgon. På lördagsförmiddagen blev det dags för de fyra största partierna – S, SD, M och V – att drabba samman. På agendan står äldreomsorgen och migrationsfrågan. När äldreomsorgen debatterades hettade det till mellan SD:s Jimmie Åkesson och V:s Nooshi Dadgostar. V-ledaren belyste personalbristen i vården och de låga lönerna och bristande arbetsvillkoren, som hon vill göra bättre. – Vi vill ge undersköterskor mycket högre löner. Då kommer du se Jimmie, då kommer bristen minska, säger hon. Det får Jimmie Åkesson (SD) att se rött. – Jag kan lova 40 miljarder om jag vill det, men det är inte seriöst, Nooshi, att göra på det sättet. Du kastar ur dig massa siffror och lovar saker, det är inte seriöst. Bara några minuter senare var det i stället statsministerkandidaterna, Magdalena Andersson (S) och Ulf Kristersson (M) som rök ihop. Det då Andersson menar att Kristersson har fel när han säger att S har röstat nej till skattesänkningar.",
-          "url": "https://www.expressen.se/nyheter/politik/partiledarsamtal-i-nyhetsmorgon-inte-seriost/",
-          "image_url": "https://static.bonniernews.se/images/d6/2c/d62c1f3295784aa1b155d1324731414f/16x9/original.png",
-          "published_at": "2026-05-23T09:17:42Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/partiledarsamtal-i-nyhetsmorgon-inte-seriost/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "e4a68030dae6",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Krim Idag 11.02 Misstänkt bomb hittad under polisinsats i Borås",
+          "title": "Världen Idag 13.30 Drönare kraschat i Lettland",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/krim/misstankt-bomb-hittad-under-polisinsats-i-boras/",
+          "url": "https://www.expressen.se/nyheter/varlden/dronare-kraschat-i-lettland/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/krim/misstankt-bomb-hittad-under-polisinsats-i-boras/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/dronare-kraschat-i-lettland/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4578,20 +4578,20 @@
           "sort_order": 8
         },
         {
-          "id": "535377780aa2",
+          "id": "a1ea1190c102",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Politik Idag 10.55 SD vill ha nära hälften av ministerposterna",
+          "title": "Sverige Idag 11.36 Tre personer skjutna vid villa i Älvsjö",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/sd-vill-ha-nara-halften-av-ministerposterna/",
+          "url": "https://www.expressen.se/nyheter/sverige/tre-personer-skjutna-vid-villa-i-alvsjo/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/sd-vill-ha-nara-halften-av-ministerposterna/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/tre-personer-skjutna-vid-villa-i-alvsjo/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
