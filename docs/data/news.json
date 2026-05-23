@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T05:55:02Z",
+  "generated_at": "2026-05-23T08:11:42Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 ”Kommer kasta Gulfstaternas ekonomier ut i kaos” ”Brann i skallen” på Netanyahu – efter samtalet med Trump Så många miljoner ska lottas ut i Sommaryran",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Smockan i Nyhetsmorgon • Partiledarna i samtal om äldreomsorgen Haft hemligstämplade samtal i fyra månader Kritiserade ”Trump tower” invigs på Grönland Så många miljoner ska lottas ut i Sommaryran",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1775,6 +1775,81 @@
           "sort_order": 0
         },
         {
+          "id": "6e8dd9986c2e",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Spencer Pratt will bring change to California, panelist says | Fox News Video",
+          "summary": "‘Fox News @ Night’ panelists evaluate Spencer Pratt’s Los Angeles mayoral campaign.",
+          "body_text": "‘Fox News @ Night’ panelists evaluate Spencer Pratt’s Los Angeles mayoral campaign.",
+          "url": "https://www.foxnews.com/video/6396410890112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ecae16d-b74a-46c7-b87c-dd44ce504967/b41487db-5959-4ffb-bdce-071e57607091/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-23T04:03:32Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396410890112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "126148d93091",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Teen takeovers turn violent across the US | Fox News Video",
+          "summary": "A ‘Fox News @ Night’ panel discusses how authorities can handle the situation.",
+          "body_text": "A ‘Fox News @ Night’ panel discusses how authorities can handle the situation.",
+          "url": "https://www.foxnews.com/video/6396411659112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23e009a6-68d7-4a03-a0cf-1dbe8a684598/5f6aec6d-03fe-4af6-8d55-b4be082112a0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-23T03:58:43Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396411659112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "79a55c0a2f14",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Texas Democratic candidate says Zionists are a ‘danger to humanity’ | Fox News Video",
+          "summary": "A ‘Fox News @ Night’ panel discusses the rise in antisemitism being reflected in politics.",
+          "body_text": "A ‘Fox News @ Night’ panel discusses the rise in antisemitism being reflected in politics.",
+          "url": "https://www.foxnews.com/video/6396411172112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b0f24c8-698d-409c-9cb7-def7b74aa9d7/2241179a-b699-4de5-a9b7-806656b7f233/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-23T03:51:51Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396411172112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
           "id": "a5431e902645",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1797,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "3d32980c1f6d",
@@ -1822,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "13785378cd21",
@@ -1847,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "26b6aba4693e",
@@ -1872,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "3b002554a6be",
@@ -1897,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "ee1733d1091d",
@@ -1922,7 +1997,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "074af0fd0aaa",
@@ -1939,81 +2014,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70771d34-fb37-4b7a-91a6-761802cbba33/86b82c58-0838-48ab-a2fb-953916d6d1cc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-23T01:42:22Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396401570112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "38ad8a84e1c5",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "We’re focused on getting UFO whistleblower protections, Rep Anna Paulina Luna says | Fox News Video",
-          "summary": "Rep. Anna Paulina Luna, R-Fla., urges Congress to push for more transparency regarding UFO files on ‘Jesse Watters Primetime.’",
-          "body_text": "Rep. Anna Paulina Luna, R-Fla., urges Congress to push for more transparency regarding UFO files on ‘Jesse Watters Primetime.’",
-          "url": "https://www.foxnews.com/video/6396400908112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de79494f-4d95-4a1e-81fb-b93c50ecfb85/cc4a24af-5c3f-45ef-9c44-801a12f82336/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-23T01:04:26Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396400908112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "fb44632d8c97",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "NASCAR driver Casey Mears remembers Kyle Busch as family man, elite driver | Fox News Video",
-          "summary": "NASCAR driver Casey Mears reflects on the life and legacy of Kyle Busch, calling him a devoted family man and exceptional driver on 'The Ingraham Angle.'",
-          "body_text": "NASCAR driver Casey Mears reflects on the life and legacy of Kyle Busch, calling him a devoted family man and exceptional driver on 'The Ingraham Angle.'",
-          "url": "https://www.foxnews.com/video/6396397914112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eba9561d-a7ad-428d-9334-11ca66b00807/95c4aa40-537d-455b-89b0-a31034b68b85/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-23T00:16:01Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396397914112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "340f7c0c88ca",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "'Friday Follies': Obama sightings and 'cringy' graduation dances | Fox News Video",
-          "summary": "Fox News contributor Raymond Arroyo discusses Stephen Colbert's final show, former President Barack Obama sightings and more on ‘The Ingraham Angle.’",
-          "body_text": "Fox News contributor Raymond Arroyo discusses Stephen Colbert's final show, former President Barack Obama sightings and more on ‘The Ingraham Angle.’",
-          "url": "https://www.foxnews.com/video/6396396034112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e6fa162-3cc0-435b-895c-b8f20fa3ce26/515180d1-2567-4aee-be56-1e2c40915204/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-23T00:15:23Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6396396034112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2174,11 +2174,11 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "At least 82 dead in Chinese coal mine explosion, state media reports",
+          "title": "China coal mine explosion leaves at least 90 dead, state media reports",
           "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
-          "body_text": "At least 82 people have been killed in a coal mine blast in northern China, according to state media. \"Reporters learned from the scene of the gas explosion at the Liushenyu Coal Mine of the Tongzhou Group in Shanxi Province that the accident has resulted in 82 deaths,\" state news agency Xinhua said. The blast happened at 19:29 local time on Friday (11:29 GMT) at a coal mine in Shanxi, with 247 workers reportedly on duty at the time of the incident. Rescue operations at the site are ongoing. This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version. You can receive Breaking News on a smartphone or tablet via the BBC News App . You can also follow @BBCBreaking on X to get the latest alerts.",
+          "body_text": "At least 90 people have been killed in a coal mine blast in northern China, according to the country's state media. The gas explosion happened at the Liushenyu Coal Mine, run by the Tongzhou Group, in Shanxi Province. Hundreds of rescuers have been sent to the site. Footage from state media showed paramedics carrying stretchers at the site, with ambulances in the background. More than 100 people are said to have been taken to hospital, with rescue work at the site still under way. The blast happened at 19:29 local time on Friday (11:29 GMT) at a coal mine in Shanxi, with 247 workers reportedly on duty at the time of the incident. Following the incident, Chinese President Xi Jinping called for no effort to be spared in efforts to treat the injured and search for survivors. He also asked the government to investigate the cause of the accident and hold those responsible to account. Officials running the coal mine have been detained, according to state media. The cause of the gas explosion has not yet been revealed, but state media reported that the levels of carbon monoxide - a highly toxic, odourless gas - in the mine were found to have \"exceeded limits\". China's Ministry of Emergency Management has sent 345 personnel from six rescue teams to help with the operation. Shanxi, one of China's poorer provinces, is known as the country's coal-mining capital. In the early 2000s, deadly accidents were common in China's coal mining industry. Safety standards have been tightened in recent years, but accidents still occur. In 2023, a collapse at an open-pit coal mine in the northern Inner Mongolia region killed 53 people. Back in 2009, an explosion at a mine in Heilongjiang province in the north-east killed more than 100.",
           "url": "https://www.bbc.com/news/articles/c5y0ve18qlko",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/42bc/live/26de5e00-566c-11f1-b6cc-4175dfd9c219.jpg",
           "published_at": "2026-05-23T05:19:01Z",
           "embed_url": "https://www.bbc.com/news/articles/c5y0ve18qlko",
           "play_mode": "page_iframe",
@@ -2187,32 +2187,8 @@
             "World",
             "BBC"
           ],
-          "is_live": true,
-          "sort_order": 0
-        },
-        {
-          "id": "964bb812c481",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "More than 40,000 evacuated in Orange County due to chemical tank leak",
-          "summary": "Officials have warned that the tank contains a \"highly volatile\" substance that could lead to an explosion.",
-          "body_text": "More than 40,000 people have been evacuated after a toxic chemical started to leak from a tank at an aerospace manufacturing facility in the US. The tank in southern California contains an estimated 7,000 gallons of methyl methacrylate, a highly volatile and flammable substance used in the production of plastic. The Orange County Fire Authority (OCFA) issued initial evacuation orders for the area surrounding the Garden Grove facility on Thursday afternoon, after reports of a tank temperature increase. The evacuation zone has been expanded and the cause of the leak is being investigated. OCFA officials say there are three tanks at the facility, one of which has a compromised cooling system. In a press conference on Friday afternoon, OCFA Chief Craig Covey said there were two potential outcomes from the leak, the first being that the tank fails and spills \"very bad chemicals\" into the area surrounding the facility. \"Or two, the tank goes into a thermal runaway and blows up, affecting the tanks that are around it that have fuel or chemicals in them as well.\" \"This is not precautionary,\" he said. \"This thing is going to fail, and we don't know when... We're doing our best to figure out when or how we can prevent it.\" A hazmat team is working with experts to find a way to depressurise the affected tank and limit exposure. The fire chief said that evacuation orders will remain in place as authorities try to mitigate the leak. He added that his team had been able to successfully prevent further temperature increases of the compromised tanks. Evacuation centres have been set up by the OCFA, along with an information hotline. Officials have asked people to \"refrain from calling to offer suggestions\" as to how to respond to the incident.",
-          "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg",
-          "published_at": "2026-05-23T01:59:08Z",
-          "embed_url": "https://www.bbc.com/news/articles/c3w2l249j8go",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 0
         },
         {
           "id": "cfc900a77a1e",
@@ -2236,7 +2212,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 1
         },
         {
           "id": "0be813dd2a48",
@@ -2260,7 +2236,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 2
         },
         {
           "id": "bc40eb5419ee",
@@ -2284,7 +2260,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 3
         },
         {
           "id": "dabaffd5bfc6",
@@ -2308,7 +2284,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 4
         },
         {
           "id": "eb4418e8c4be",
@@ -2320,11 +2296,35 @@
           "source_kind": "mixed",
           "title": "Marco Rubio visits India to sell energy as Iran oil shock persists",
           "summary": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
-          "body_text": "US Secretary of State Marco Rubio arrived in India on Saturday for a four-day visit amid geopolitical crosswinds and a global energy crisis triggered by the Iran war. He arrived in the eastern city of Kolkata (formerly Calcutta) in the morning local time. His busy itinerary also includes visits to Delhi, Jaipur and Agra. He is also due to meet Indian Prime Minister Narendra Modi, with energy likely to be high on the agenda. Energy shipments through the Strait of Hormuz - a narrow shipping lane that has become a flashpoint since Israel and the US attacked Iran in February - have virtually ground to a halt. Iran has used the closure of the strait as a pressure tactic in the fragile peace negotiations with the US. India, which imports more than 80% of its energy needs, is one of the worst affected countries as its vast population of more than 1.4 billion depends on overseas fuel supply, including cooking gas and petroleum products, to sustain daily life. Rubio has already acknowledged the challenges facing Asia's third largest economy. \"We want to sell them [India] as much energy as they'll buy. And obviously, you've seen, I think, we're at historic levels of US production and US export,\" he said. There will be appetite in Delhi to boost its energy imports from the US as it will also help bridge the trade deficit that has been in India's favour - something that has constantly irked President Donald Trump. The US goods trade deficit with India was $58.2bn in 2025, a 27.1% increase over 2024. But it's not a straightforward solution. It's a much longer and expensive route for India to get energy shipments from the US. And analysts say it is not logical for India to fill the current shortfall in its imports from the US.",
+          "body_text": "US Secretary of State Marco Rubio arrived in India on Saturday for a four-day visit amid geopolitical crosswinds and a global energy crisis triggered by the Iran war. He arrived in the eastern city of Kolkata (formerly Calcutta) in the morning local time. His busy itinerary also includes visits to Delhi, Jaipur and Agra. He is also due to meet Indian Prime Minister Narendra Modi, with energy likely to be high on the agenda. Energy shipments through the Strait of Hormuz - a narrow waterway that has become a flashpoint since Israel and the US attacked Iran in February - have virtually ground to a halt. Iran has used the closure of the strait as a pressure tactic in the fragile peace negotiations with the US. India, which imports more than 80% of its energy needs, is one of the worst-affected countries as its vast population of more than 1.4 billion depends on overseas fuel supply, including cooking gas and petroleum products, to sustain daily life. Rubio has already acknowledged the challenges facing Asia's third-largest economy. \"We want to sell them [India] as much energy as they'll buy. And obviously, you've seen, I think, we're at historic levels of US production and US export,\" he said. There will be appetite in Delhi to boost its energy imports from the US as it will also help bridge the trade deficit that has been in India's favour - something that has constantly irked US President Donald Trump. The US goods trade deficit with India was $58.2bn (£43.3bn) in 2025, a 27.1% increase on 2024. But it's not a straightforward solution. It's a much longer and expensive route for India to get energy shipments from the US. And analysts say it is not logical for India to fill the current shortfall in its imports from the US.",
           "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/83ff/live/1c0d22f0-54db-11f1-8a44-d3e9da00a02a.jpg",
           "published_at": "2026-05-22T23:01:04Z",
           "embed_url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "e2256af118e1",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "One dead in NYC's Staten Island after shipyard explosion",
+          "summary": "More than 30 people, including firefighters, were hurt in the incident, which was described as \"a complex, fast-developing emergency situation\".",
+          "body_text": "One person has died and more than 30 people have been injured after an explosion on a barge at a Staten Island shipyard in New York City. At least 34 people were hurt in the incident on Friday, including firefighters and first responders, officials said. The person who died was a civilian, the New York City Fire Department said. The incident began with a report of workers trapped and a fire at around 15:30 local time (19:30 GMT). An explosion erupted roughly 50 minutes later, prompting additional emergency responders to deploy to the scene. \"This was a complex, fast-developing emergency situation,\" New York Mayor Zohran Mamdani said during a news conference on Friday evening. Two workers were reportedly trapped in a confined space as the fire spread, Joanne Mariano with the fire department's press office said, according to the Associated Press. When firefighters arrived, they located a fire in the basement of a metal structure at the dock. It is not clear yet what caused the fire and explosion. One fire marshal is in a critical condition and one firefighter is in a serious condition as of Friday evening, Mamdani. Officials told US media that people in the area should expect traffic delays and road closures.",
+          "url": "https://www.bbc.com/news/articles/c8r814xj8pro",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6a39/live/4ba04df0-562d-11f1-97bd-2ddd99000e77.jpg",
+          "published_at": "2026-05-22T22:46:03Z",
+          "embed_url": "https://www.bbc.com/news/articles/c8r814xj8pro",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2344,7 +2344,7 @@
           "source_kind": "mixed",
           "title": "UFO sighting reports released by US government - 'Orbs swarming in all directions'",
           "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
-          "body_text": "The Pentagon released scores of UFO files on Friday with descriptions of reported sightings of orbs, discs and fireballs spanning 80 years. Witnesses described seeing \"green orbs, discs and fireballs\" dating as far back as 1948, the files show. More recently, a senior US intelligence officer said he saw \"countless orange orbs swarming in all directions\" last year rendering him \"speechless\". The fresh batch of materials includes a half dozen documents, a handful of audio recordings and 51 videos, including one of an Unidentified Flying Object (UFO) being shot to bits. The circumstances are unexplained. The files are the second set released after an order this year from President Donald Trump. The Pentagon uploaded the first set of 161 files on May 8, promising there would be more to come. One of the documents released on Friday is a 116-page Armed Forces Special Weapons Program report from 1948-1950 that said witnesses had recounted 209 sightings of unidentified objects - orbs and other objects the US government now calls \"unidentified anomalous phenomena\" (UAP). The report includes accounts of a series of sightings and investigations in Sandia, New Mexico, where witnesses described how UFO's manoeuvred, flew away and disappeared but then exploded. In another document the unnamed \"senior U.S intelligence officer\" provided his first-hand account of seeing phenomena from a military helicopter in 2025 at a location listed as \"western United States\". He described spotting mysterious \"orange orbs flaring up and down\" when investigating \"loud thuds heard in the mountains\" on a test range where others had spotted UFOs in preceding days. The \"series of close UAP encounters\" lasted for more than an hour, he said. The UAP were \"super-hot,\" low to the ground, and moving at high speed. \"They were oval-shaped, orange with a white or yellow centre, and emitted light in all directions,\" the officer reported. He said the swarm appeared to coalesce as they flared up and down for several minutes, \"forming a distinct triangle before vanishing\". He said he did not take any photos because he was too focused on \"assessing what it was and whether it posed a threat.\"",
+          "body_text": "The Pentagon has released scores of UFO files, with descriptions of reported sightings of orbs, discs and fireballs spanning 80 years. Witnesses described seeing \"green orbs, discs and fireballs\" dating as far back as 1948, the files show. More recently, a senior US intelligence officer said he saw \"countless orange orbs swarming in all directions\" last year, rendering him \"speechless\". The fresh batch of materials includes a half dozen documents, a handful of audio recordings and 51 videos, including one of an Unidentified Flying Object (UFO) being shot to bits. The circumstances are unexplained. The files are the second set released after an order this year from US President Donald Trump. The Pentagon uploaded the first set of 161 files on 8 May, promising there would be more to come. The second was released on Friday. One of the documents is a 116-page Armed Forces Special Weapons Program report from 1948-1950 that said witnesses had recounted 209 sightings of unidentified objects - orbs and other objects the US government now calls \"unidentified anomalous phenomena\" (UAP). The report includes accounts of a series of sightings and investigations in Sandia, New Mexico, where witnesses described how UFOs manoeuvred, flew away and disappeared but then exploded. In another document, the unnamed \"senior US intelligence officer\" provided his first-hand account of seeing phenomena from a military helicopter in 2025 at a location listed as the \"western United States\". He described spotting mysterious \"orange orbs flaring up and down\" when investigating \"loud thuds heard in the mountains\" on a test range where others had spotted UFOs in the preceding days. The \"series of close UAP encounters\" lasted for more than an hour, he said. The UAP were \"super-hot\", low to the ground and moving at high speed. \"They were oval-shaped, orange with a white or yellow centre, and emitted light in all directions,\" the officer reported. He said the swarm appeared to coalesce as they flared up and down for several minutes, \"forming a distinct triangle before vanishing\". He said he did not take any photos because he was too focused on \"assessing what it was and whether it posed a threat\".",
           "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1c70/live/236a2f60-562b-11f1-88cc-af99d1be838d.png",
           "published_at": "2026-05-22T22:32:12Z",
@@ -2391,8 +2391,8 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-          "summary": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-          "body_text": "Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine. Six people were killed and 39 injured in the overnight strike in the town of Starobilsk, in the Luhansk region, the Russian President said. Another 15 people were missing. Ukraine's military said it had hit the headquarters of Russia's elite Rubicon drone military unit in Starobilsk. It did not say whether it was the same building as the one identified by Russia. But Putin said there were \"no military facilities, intelligence service facilities or related services in the vicinity\". \"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems,\" he said at a reception in his Kremlin residence in Moscow on Friday. He ordered the Russian military to prepare \"proposals\" on how to retaliate. The Russian leader said the Ukrainian strike had been carried out in three waves using 16 drones. Russia's state-run TV showed what it said was one of the injured students, identifying her as Diana Shovkun, aged 19. She had head injuries after being hit by a collapsing concrete slab, the report said. No photos or videos of those who Moscow says were killed were shown. Early on Saturday, Russian officials reported two people had been injured after falling debris from drones triggered a fire at an oil depot in Russia's Black Sea port of Novorossiysk. The general headquarters of the southern Krasnodar region said \"several technical administrative buildings caught fire\" and fragments of drones fell on a fuel terminal.",
+          "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+          "body_text": "Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine. Ten people were killed and 38 others injured in the overnight strike in the town of Starobilsk, in the Luhansk region, the local Russian-backed governor said. Another 11 people remain missing, he said. Ukraine's military said it had hit the headquarters of Russia's elite Rubicon drone military unit in Starobilsk. It did not say whether it was the same building as the one identified by Russia. But Putin said there were \"no military facilities, intelligence service facilities or related services in the vicinity\". \"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems,\" he said at a reception in his Kremlin residence in Moscow on Friday. He ordered the Russian military to prepare \"proposals\" on how to retaliate. The Russian leader said the Ukrainian strike had been carried out in three waves using 16 drones. Russia's state-run TV showed what it said was one of the injured students, identifying her as Diana Shovkun, aged 19. She had head injuries after being hit by a collapsing concrete slab, the report said. No photos or videos of those who Moscow says were killed were shown. Early on Saturday, Russian officials reported two people had been injured after falling debris from drones triggered a fire at an oil depot in Russia's Black Sea port of Novorossiysk. The general headquarters of the southern Krasnodar region said \"several technical administrative buildings caught fire\" and fragments of drones fell on a fuel terminal.",
           "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg",
           "published_at": "2026-05-22T18:51:49Z",
@@ -2440,7 +2440,7 @@
           "source_kind": "mixed",
           "title": "Tulsi Gabbard resigns as US director of national intelligence",
           "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-          "body_text": "Tulsi Gabbard will resign from her position as the US director of national intelligence in the Trump administration, citing her husband's recent bone cancer diagnosis. \"His strength and love have sustained me through every challenge,\" she wrote in her resignation letter on Friday. \"I cannot in good conscience ask him to face this fight alone while I continue in this demanding and time-consuming position.\" President Donald Trump said in a social media post that Gabbard \"has done an incredible job, and we will miss her\". Her resignation is effective 30 June. Aaron Lukas, the principal deputy director, will step in as acting director, Trump said. Gabbard, a loyal supporter of Trump during his 2024 presidential campaign, was confirmed as one of the most powerful figures in US intelligence-gathering weeks after he returned to the White House in 2025. But this year, she has largely been out of public view even as the US took military action against Iran, put pressure on Cuba, and notably removed Venezuela's president. Gabbard is the fourth Cabinet member to depart the Trump administration after Lori Chavez-DeRemer left her position as labor secretary in April. Homeland Security Secretary Kristi Noem and Attorney General Pam Bondi both left the administration earlier this year. In her resignation letter, Gabbard said her husband, Abraham, \"faces major challenges in the coming weeks and months.\" Trump posted on social media that Gabbard \"rightfully, wants to be with him, bringing him back to good health as they currently fight a tough battle together. I have no doubt he will soon be better than ever.\" During her political career, she had positioned herself as an anti-interventionalist in foreign wars, creating tension after Trump decided to attack Iran. Following US-Israel strikes, she avoided endorsing the decision, carefully evading questions during a congressional hearing in March about whether the administration knew of the conflict's potential fallout. She also faced scrutiny during questioning over what Democrats perceived as discrepancies between White House and intelligence community claims about Iran's nuclear enrichment capabilities. Last year, Trump appeared to dismiss Gabbard's declaration before Congress that Iran was not seeking to build a nuclear weapon. \"I don't care what she said,\" Trump told reporters at the time. \"I think they were very close to having a weapon.\" He has repeatedly cited Iran's nuclear capability as a reason for the US war with Iran.",
+          "body_text": "Tulsi Gabbard will resign from her position as the US director of national intelligence in the Trump administration, citing her husband's recent bone cancer diagnosis. \"His strength and love have sustained me through every challenge,\" she wrote in her resignation letter on Friday. \"I cannot in good conscience ask him to face this fight alone while I continue in this demanding and time-consuming position.\" US President Donald Trump wrote in a social media post that Gabbard had \"done an incredible job, and we will miss her\". Her resignation is effective as of 30 June. Aaron Lukas, the principal deputy director, will step in as acting director, Trump said. Gabbard, a loyal supporter of Trump during his 2024 presidential campaign, was confirmed as one of the most powerful figures in US intelligence-gathering weeks after he returned to the White House in 2025. But this year she has largely been out of public view even as the US took military action against Iran, put pressure on Cuba, and notably removed Venezuela's president. Gabbard is the fourth member of Trump's cabinet to depart his second administration, after Lori Chavez-DeRemer left her position as labour secretary in April. Homeland Security Secretary Kristi Noem and Attorney General Pam Bondi both left the administration earlier this year. In her resignation letter, Gabbard said her husband, Abraham, \"faces major challenges in the coming weeks and months\". Trump said that Gabbard \"rightfully, wants to be with him, bringing him back to good health as they currently fight a tough battle together. I have no doubt he will soon be better than ever.\" During her political career, she had positioned herself as an anti-interventionist when it came to foreign wars, creating tension after Trump decided to attack Iran. Following US-Israel strikes, she avoided endorsing the decision, carefully evading questions during a congressional hearing in March about whether the administration knew of the conflict's potential fallout. She also faced scrutiny during questioning over what Democrats perceived as discrepancies between White House and intelligence community claims about Iran's nuclear enrichment capabilities.",
           "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/db89/live/999c35e0-5606-11f1-b1da-2de1b3f74b08.jpg",
           "published_at": "2026-05-22T17:30:59Z",
@@ -2607,12 +2607,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora se juega el Alianza Lima vs Chankas CYC y qué canales transmiten partido por Liga 1?",
+          "title": "¿A qué hora van a jugar Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
           "summary": "Revisa a qué hora juega Alianza Lima vs Chankas CYC HOY por la penútima jornada del Torneo Apertura de la Liga 1 en el estadio Alejandro Villanueva.",
           "body_text": "Alianza Lima recibe a Chankas este sábado 23 de mayo del 2026 con la oportunidad de gritar campeón del Torneo Apertura. En el estadio Alejandro Villanueva, el equipo dirigido por Pablo Guede tiene la complicada misión de sacar los 3 puntos frente a los de Andahuaylas para lograr su primer torneo corto del año. Con una ajustada victoria frente a Cienciano, los íntimos llegan a Matute con la oportunidad de cerrar el Apertura como campeones. Revisa la hora del partido en Perú y toda Sudamérica, incluyendo, México, España y Estados Unidos. El partido de Alianza Lima vs Chankas por la jornada 16 del Torneo Apertura de la Liga 1 2026 empieza a las 8:30 PM de Perú y 9:30 PM de Estdos Unidos este sábado 23 de mayo del 2026 en el estadio Alejandro Villanueva. El partido de Alianza Lima vs Chankas será transmitido a través de Liga 1 Max y Movistar Deportes en Perú. Mientras que en Argentina, Colombia, Ecuador, Chile y resto de Sudamérica lo pasa Fanatiz. En México el partido será transmitido a través de Fanatiz. En Perú, Alianza Lima vs Chankas juegan a las 20:30 horas en horario peruano en el estadio Alejandro Villanueva, este sábado 23 de mayo del 2026. Debido a su jerarquía y a la posibilidad real de cerrar el campeonato esa misma noche, Alianza Lima parte como el gran favorito para llevarse la victoria y, de esta manera, levantar el trofeo de la primera parte de la temporada. Por ello, de acuerdo con Betano, si el equipo local gana y se corona campeón paga una cuota de 1.32 y tiene un 72% de probabilidades. Asimismo, las cuotas de los jugadores íntimos para abrir el marcador se perfilan muy atractivas. Así destaca la participación de una de sus máximas figuras Erick Castillo, quien, si mete un gol, Betano paga 1.87; si lo hace Paolo Guerrero, se paga 2.12; si anota Jairo Vélez, se paga 2.95, o si lo hace Renzo Garcés, paga 5.00. Por su parte, el conjunto de Andahuaylas busca dar el golpe de la fecha. Tiene 33 puntos en la tabla y aún mantiene opciones matemáticas de quedarse con el primer torneo del año. Luego de una racha positiva de partidos sin perder, dejaron pasar puntos importantes en las últimas jornadas y ahora tienen la oportunidad de sumar. De esta manera, llegan a Lima con la consigna de aguarle la fiesta a los íntimos y demostrar que son un rival de cuidado fuera de casa. Aunque el panorama es retador, confía en su orden táctico y contragolpe para dar la sorpresa en Matute. Una histórica victoria de Los Chankas en el Alejandro Villanueva paga la atractiva cuota de 9.50 y tiene una probabilidad de 10% de triunfo. Mientras tanto, el empate paga 5.10 en Betano. Cabe precisar que, tanto si los “guerreros” se imponen como si logran un empate, Alianza Lima no podrá gritar campeón este sábado y todo se definirá en la última fecha, donde los íntimos visitarán a FC Cajamarca con la chance de sellar el título. Para este compromiso, Betano tiene las cuotas y probabilidades para los hinchas y aficionados al fútbol que deseen poner a prueba sus conocimientos deportivos.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/a-que-hora-juega-alianza-lima-vs-chankas-hoy-y-en-que-canales-pasan-partido-por-torneo-apertura-de-liga-1-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NWXRTVAB4VEIVBF6UK6JZAH5GM.jpg?auth=fff9e3d27529817264cdb760f69f73d0c37a9f8f6edded786075e41d28672792&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T05:45:28Z",
+          "published_at": "2026-05-23T06:54:28Z",
           "embed_url": "https://cdn.jwplayer.com/videos/m53xQtF3-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -2884,12 +2884,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora se juega el Alianza Lima vs Chankas CYC y qué canales transmiten partido por Liga 1?",
+          "title": "¿A qué hora van a jugar Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
           "summary": "Revisa a qué hora juega Alianza Lima vs Chankas CYC HOY por la penútima jornada del Torneo Apertura de la Liga 1 en el estadio Alejandro Villanueva.",
           "body_text": "Alianza Lima recibe a Chankas este sábado 23 de mayo del 2026 con la oportunidad de gritar campeón del Torneo Apertura. En el estadio Alejandro Villanueva, el equipo dirigido por Pablo Guede tiene la complicada misión de sacar los 3 puntos frente a los de Andahuaylas para lograr su primer torneo corto del año. Con una ajustada victoria frente a Cienciano, los íntimos llegan a Matute con la oportunidad de cerrar el Apertura como campeones. Revisa la hora del partido en Perú y toda Sudamérica, incluyendo, México, España y Estados Unidos. El partido de Alianza Lima vs Chankas por la jornada 16 del Torneo Apertura de la Liga 1 2026 empieza a las 8:30 PM de Perú y 9:30 PM de Estdos Unidos este sábado 23 de mayo del 2026 en el estadio Alejandro Villanueva. El partido de Alianza Lima vs Chankas será transmitido a través de Liga 1 Max y Movistar Deportes en Perú. Mientras que en Argentina, Colombia, Ecuador, Chile y resto de Sudamérica lo pasa Fanatiz. En México el partido será transmitido a través de Fanatiz. En Perú, Alianza Lima vs Chankas juegan a las 20:30 horas en horario peruano en el estadio Alejandro Villanueva, este sábado 23 de mayo del 2026. Debido a su jerarquía y a la posibilidad real de cerrar el campeonato esa misma noche, Alianza Lima parte como el gran favorito para llevarse la victoria y, de esta manera, levantar el trofeo de la primera parte de la temporada. Por ello, de acuerdo con Betano, si el equipo local gana y se corona campeón paga una cuota de 1.32 y tiene un 72% de probabilidades. Asimismo, las cuotas de los jugadores íntimos para abrir el marcador se perfilan muy atractivas. Así destaca la participación de una de sus máximas figuras Erick Castillo, quien, si mete un gol, Betano paga 1.87; si lo hace Paolo Guerrero, se paga 2.12; si anota Jairo Vélez, se paga 2.95, o si lo hace Renzo Garcés, paga 5.00. Por su parte, el conjunto de Andahuaylas busca dar el golpe de la fecha. Tiene 33 puntos en la tabla y aún mantiene opciones matemáticas de quedarse con el primer torneo del año. Luego de una racha positiva de partidos sin perder, dejaron pasar puntos importantes en las últimas jornadas y ahora tienen la oportunidad de sumar. De esta manera, llegan a Lima con la consigna de aguarle la fiesta a los íntimos y demostrar que son un rival de cuidado fuera de casa. Aunque el panorama es retador, confía en su orden táctico y contragolpe para dar la sorpresa en Matute. Una histórica victoria de Los Chankas en el Alejandro Villanueva paga la atractiva cuota de 9.50 y tiene una probabilidad de 10% de triunfo. Mientras tanto, el empate paga 5.10 en Betano. Cabe precisar que, tanto si los “guerreros” se imponen como si logran un empate, Alianza Lima no podrá gritar campeón este sábado y todo se definirá en la última fecha, donde los íntimos visitarán a FC Cajamarca con la chance de sellar el título. Para este compromiso, Betano tiene las cuotas y probabilidades para los hinchas y aficionados al fútbol que deseen poner a prueba sus conocimientos deportivos.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/a-que-hora-juega-alianza-lima-vs-chankas-hoy-y-en-que-canales-pasan-partido-por-torneo-apertura-de-liga-1-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NWXRTVAB4VEIVBF6UK6JZAH5GM.jpg?auth=fff9e3d27529817264cdb760f69f73d0c37a9f8f6edded786075e41d28672792&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T05:45:28Z",
+          "published_at": "2026-05-23T06:54:28Z",
           "embed_url": "https://cdn.jwplayer.com/videos/m53xQtF3-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3161,12 +3161,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora se juega el Alianza Lima vs Chankas CYC y qué canales transmiten partido por Liga 1?",
+          "title": "¿A qué hora van a jugar Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
           "summary": "Revisa a qué hora juega Alianza Lima vs Chankas CYC HOY por la penútima jornada del Torneo Apertura de la Liga 1 en el estadio Alejandro Villanueva.",
           "body_text": "Alianza Lima recibe a Chankas este sábado 23 de mayo del 2026 con la oportunidad de gritar campeón del Torneo Apertura. En el estadio Alejandro Villanueva, el equipo dirigido por Pablo Guede tiene la complicada misión de sacar los 3 puntos frente a los de Andahuaylas para lograr su primer torneo corto del año. Con una ajustada victoria frente a Cienciano, los íntimos llegan a Matute con la oportunidad de cerrar el Apertura como campeones. Revisa la hora del partido en Perú y toda Sudamérica, incluyendo, México, España y Estados Unidos. El partido de Alianza Lima vs Chankas por la jornada 16 del Torneo Apertura de la Liga 1 2026 empieza a las 8:30 PM de Perú y 9:30 PM de Estdos Unidos este sábado 23 de mayo del 2026 en el estadio Alejandro Villanueva. El partido de Alianza Lima vs Chankas será transmitido a través de Liga 1 Max y Movistar Deportes en Perú. Mientras que en Argentina, Colombia, Ecuador, Chile y resto de Sudamérica lo pasa Fanatiz. En México el partido será transmitido a través de Fanatiz. En Perú, Alianza Lima vs Chankas juegan a las 20:30 horas en horario peruano en el estadio Alejandro Villanueva, este sábado 23 de mayo del 2026. Debido a su jerarquía y a la posibilidad real de cerrar el campeonato esa misma noche, Alianza Lima parte como el gran favorito para llevarse la victoria y, de esta manera, levantar el trofeo de la primera parte de la temporada. Por ello, de acuerdo con Betano, si el equipo local gana y se corona campeón paga una cuota de 1.32 y tiene un 72% de probabilidades. Asimismo, las cuotas de los jugadores íntimos para abrir el marcador se perfilan muy atractivas. Así destaca la participación de una de sus máximas figuras Erick Castillo, quien, si mete un gol, Betano paga 1.87; si lo hace Paolo Guerrero, se paga 2.12; si anota Jairo Vélez, se paga 2.95, o si lo hace Renzo Garcés, paga 5.00. Por su parte, el conjunto de Andahuaylas busca dar el golpe de la fecha. Tiene 33 puntos en la tabla y aún mantiene opciones matemáticas de quedarse con el primer torneo del año. Luego de una racha positiva de partidos sin perder, dejaron pasar puntos importantes en las últimas jornadas y ahora tienen la oportunidad de sumar. De esta manera, llegan a Lima con la consigna de aguarle la fiesta a los íntimos y demostrar que son un rival de cuidado fuera de casa. Aunque el panorama es retador, confía en su orden táctico y contragolpe para dar la sorpresa en Matute. Una histórica victoria de Los Chankas en el Alejandro Villanueva paga la atractiva cuota de 9.50 y tiene una probabilidad de 10% de triunfo. Mientras tanto, el empate paga 5.10 en Betano. Cabe precisar que, tanto si los “guerreros” se imponen como si logran un empate, Alianza Lima no podrá gritar campeón este sábado y todo se definirá en la última fecha, donde los íntimos visitarán a FC Cajamarca con la chance de sellar el título. Para este compromiso, Betano tiene las cuotas y probabilidades para los hinchas y aficionados al fútbol que deseen poner a prueba sus conocimientos deportivos.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/a-que-hora-juega-alianza-lima-vs-chankas-hoy-y-en-que-canales-pasan-partido-por-torneo-apertura-de-liga-1-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NWXRTVAB4VEIVBF6UK6JZAH5GM.jpg?auth=fff9e3d27529817264cdb760f69f73d0c37a9f8f6edded786075e41d28672792&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T05:45:28Z",
+          "published_at": "2026-05-23T06:54:28Z",
           "embed_url": "https://cdn.jwplayer.com/videos/m53xQtF3-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3438,12 +3438,12 @@
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora se juega el Alianza Lima vs Chankas CYC y qué canales transmiten partido por Liga 1?",
+          "title": "¿A qué hora van a jugar Alianza Lima vs Chankas CYC y en qué canales mirar partido por Liga 1?",
           "summary": "Revisa a qué hora juega Alianza Lima vs Chankas CYC HOY por la penútima jornada del Torneo Apertura de la Liga 1 en el estadio Alejandro Villanueva.",
           "body_text": "Alianza Lima recibe a Chankas este sábado 23 de mayo del 2026 con la oportunidad de gritar campeón del Torneo Apertura. En el estadio Alejandro Villanueva, el equipo dirigido por Pablo Guede tiene la complicada misión de sacar los 3 puntos frente a los de Andahuaylas para lograr su primer torneo corto del año. Con una ajustada victoria frente a Cienciano, los íntimos llegan a Matute con la oportunidad de cerrar el Apertura como campeones. Revisa la hora del partido en Perú y toda Sudamérica, incluyendo, México, España y Estados Unidos. El partido de Alianza Lima vs Chankas por la jornada 16 del Torneo Apertura de la Liga 1 2026 empieza a las 8:30 PM de Perú y 9:30 PM de Estdos Unidos este sábado 23 de mayo del 2026 en el estadio Alejandro Villanueva. El partido de Alianza Lima vs Chankas será transmitido a través de Liga 1 Max y Movistar Deportes en Perú. Mientras que en Argentina, Colombia, Ecuador, Chile y resto de Sudamérica lo pasa Fanatiz. En México el partido será transmitido a través de Fanatiz. En Perú, Alianza Lima vs Chankas juegan a las 20:30 horas en horario peruano en el estadio Alejandro Villanueva, este sábado 23 de mayo del 2026. Debido a su jerarquía y a la posibilidad real de cerrar el campeonato esa misma noche, Alianza Lima parte como el gran favorito para llevarse la victoria y, de esta manera, levantar el trofeo de la primera parte de la temporada. Por ello, de acuerdo con Betano, si el equipo local gana y se corona campeón paga una cuota de 1.32 y tiene un 72% de probabilidades. Asimismo, las cuotas de los jugadores íntimos para abrir el marcador se perfilan muy atractivas. Así destaca la participación de una de sus máximas figuras Erick Castillo, quien, si mete un gol, Betano paga 1.87; si lo hace Paolo Guerrero, se paga 2.12; si anota Jairo Vélez, se paga 2.95, o si lo hace Renzo Garcés, paga 5.00. Por su parte, el conjunto de Andahuaylas busca dar el golpe de la fecha. Tiene 33 puntos en la tabla y aún mantiene opciones matemáticas de quedarse con el primer torneo del año. Luego de una racha positiva de partidos sin perder, dejaron pasar puntos importantes en las últimas jornadas y ahora tienen la oportunidad de sumar. De esta manera, llegan a Lima con la consigna de aguarle la fiesta a los íntimos y demostrar que son un rival de cuidado fuera de casa. Aunque el panorama es retador, confía en su orden táctico y contragolpe para dar la sorpresa en Matute. Una histórica victoria de Los Chankas en el Alejandro Villanueva paga la atractiva cuota de 9.50 y tiene una probabilidad de 10% de triunfo. Mientras tanto, el empate paga 5.10 en Betano. Cabe precisar que, tanto si los “guerreros” se imponen como si logran un empate, Alianza Lima no podrá gritar campeón este sábado y todo se definirá en la última fecha, donde los íntimos visitarán a FC Cajamarca con la chance de sellar el título. Para este compromiso, Betano tiene las cuotas y probabilidades para los hinchas y aficionados al fútbol que deseen poner a prueba sus conocimientos deportivos.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/a-que-hora-juega-alianza-lima-vs-chankas-hoy-y-en-que-canales-pasan-partido-por-torneo-apertura-de-liga-1-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/NWXRTVAB4VEIVBF6UK6JZAH5GM.jpg?auth=fff9e3d27529817264cdb760f69f73d0c37a9f8f6edded786075e41d28672792&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-23T05:45:28Z",
+          "published_at": "2026-05-23T06:54:28Z",
           "embed_url": "https://cdn.jwplayer.com/videos/m53xQtF3-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3742,6 +3742,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "0c6e1d07fe0d",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say | TechCrunch",
+          "summary": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+          "body_text": "One of Berlin’s rising-star, early stage startups, Peec AI , just crossed $10 million in annualized revenue, according to internal dashboard data seen and verified by TechCrunch. Peec AI raised its $21 million Series A six months ago. While CEO Marius Meiners wouldn’t disclose its valuation to me at that time (only revealing that it was above $100 million), he did say the startup had grown its revenue to more than $4 million in the 10 months since its launch. So, it has more than doubled its revenue trajectory, and at a faster pace. Peec helps brands track and improve their visibility in AI searches. While based in Berlin, it recently opened an office in New York. It’s also serving as proof of one of the key market shifts happening in Europe’s tech scene. “Founders these days track revenue much more closely,” Antler partner Christoph Klink was telling me just a couple of days ago. Sitting in a hotel lobby bar during an event-laden week for the tech ecosystem, the Berlin-based VC had offhand mentioned Peec AI as one of the most successful companies in his portfolio, alongside Lovable and others. My next question was how he defined success, which led to a discussion of recent market cycles. Compared to six years ago, he said, the big change is that success is now defined by growth, not valuation. Having learned lessons from 2021’s frothiness and subsequent painful return to reality, investors now know that revenue can’t be an afterthought. The corollary is that it isn’t something you can just check on every couple of weeks, Klink told me. Startups now tend to keep running dashboards on revenue progress, sometimes — as is the case at Peec — visible to all employees. For some founders, this has required some adjusting; but others were born just for this new cycle. Peec AI’s product takes the same approach as SEO dashboards, except it helps brands track generative engine optimization (GEO) — visualizing whether they show up when users type a certain set of prompts into ChatGPT and the like. But as Meiners then told me, he is also a former esports athlete who once ranked among the top 100 League of Legends players. This explains why he would share a revenue tracker with his whole company: his background gave him a unique take on what makes a winning team.",
+          "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/a5fadec4-271b-4ce6-bdd2-504484c36964.jpg?resize=1200,900",
+          "published_at": "2026-05-23T07:01:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/11/a5fadec4-271b-4ce6-bdd2-504484c36964.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "48a55c9b5771",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3763,7 +3787,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "31df963387dd",
@@ -3787,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "214b35001a83",
@@ -3811,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "8d56d277ed4b",
@@ -3835,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "93da6cc8c34d",
@@ -3859,7 +3883,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "80ba59ffc1c3",
@@ -3883,30 +3907,6 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "049b2839cfd9",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers | TechCrunch",
-          "summary": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
-          "body_text": "In Apple’s seemingly never-ending lawsuit with Fortnite maker Epic Games over App Store commissions, the iPhone maker is once again fighting a court’s ruling. Its latest tactic? Saying that Epic Games’ beef with Apple over its fee structure shouldn’t lead to an injunction that applies to all developers that publish on the U.S. App Store, including other tech giants like Microsoft and Spotify, which weren’t a part of this particular litigation. “Epic never brought a class action and never attempted to show that enjoining Apple’s conduct against all other developers — like Microsoft or Spotify, who have nothing to do with Epic — was somehow necessary to provide relief to Epic,” reads Apple’s new petition, which asks the U.S. Supreme Court to review the lower court ruling. In the same document, Apple also argues against the Ninth Circuit’s civil contempt order over Apple’s compliance with the injunction. The court had ruled that Apple must give developers the right to include links in their apps — links that could direct users to alternative payment options outside of Apple’s own system — if they chose to do so. Apple did permit this as required, but charged fees on those outside purchases, leading to the contempt order. The Ninth Circuit said that charging fees of 27% on external payments defeated the purpose of allowing them — which, well, it did. But Apple is pushing back on specific legal grounds. Its new argument focuses on whether a federal court can hold a party in civil contempt for violating the “spirit” of an injunction when the injunction itself was written in a way that left room for interpretation and said nothing about commissions (i.e., it didn’t specifically prohibit fees on external purchases, so technically , Apple believes it did nothing wrong). Apple has seemingly infinite money to fund its legal battles. The company has been fighting Epic’s original 2020 lawsuit for over five years now with no end in sight. Epic Games criticized Apple’s latest move as “one last Hail Mary to delay a conclusion to this case and avoid opening up the gates to payment competition for the benefit of consumers.” Earlier this month, the Supreme Court rejected Apple’s request to pause additional proceedings until the court could determine whether the sanctions were justified. This week, Epic Games announced that Fortnite was back in the App Store globally (save for Australia), because it believes the court is on its side and will not allow Apple’s fee structure to stand as is. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. StrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping what’s ahead. Lock in your spot before it’s gone. You can no longer Google the word ‘disregard’ Six search engines worth trying now that Google isn’t really Google anymore",
-          "url": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
-          "published_at": "2026-05-22T16:27:57Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
           "sort_order": 6
         },
         {
@@ -4362,6 +4362,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "f19aac5b46ca",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Hon tvingades bort av Trump",
+          "summary": "Trumps underrättelsechef Tulsi Gabbard lämnade på fredagen sin post. Förklaringen var att hennes man är sjuk – men enligt Reuters ville Trump ha bort henne. – Hon tvingades bort, säger en källa i Vita huset till Reuters.",
+          "body_text": "Trumps underrättelsechef Tulsi Gabbard lämnade på fredagen sin post. Förklaringen var att hennes man är sjuk – men enligt Reuters ville Trump ha bort henne. – Hon tvingades bort, säger en källa i Vita huset till Reuters . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Rykten kring Tulsi Gabbards avsked från Vita huset har florerat i många månader. Så sent som i mars sa Trump på en presskonferens att han tycker att Gabbard, tidigare demokrat, varit ”för snäll” när det gäller Irans kärnvapenambitioner. På fredagen meddelade Gabbard att hon avgår – eftersom hennes man insjuknat i cancer. Men sjukdomen låg inte bakom avskedet, skriver Reuters . – Hon tvingades bort av Vita huset, de har varit missnöjda med henne under en längre tid, säger en källa med insyn i Gabbards avgång. Nyhetsbyrån uppger att Trump under lång tid har velat bli av med 45-åringen. Enligt Reuters ska Trump i april ha bett sina tjänstemän i Vita huset att leta efter en ersättare till Gabbard. Enligt Axios undvek Gabbard att bli sparkad då efter att Roger Stone, en gemensam vän, övertalat Trump att låta bli. Den högerextrema influencern och konspirationsteoretikern Laura Loomer, som står Trump nära, har även hon kritiserat Gabbard hårt sedan hon tillträdde på sin post.",
+          "url": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-hon-tvingades-bort-av-trump-/",
+          "image_url": "https://static.bonniernews.se/images/c8/6b/c86bc808fed044beb68453a4f242937b/16x9/original.jpg",
+          "published_at": "2026-05-23T07:55:57Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-hon-tvingades-bort-av-trump-/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "ef61dd2ac1f3",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Minst 90 döda efter explosion i kolgruva i Kina • Arbetare fast under jord",
+          "summary": "Kina skakas av en allvarlig gruvolycka. Minst 90 personer har dött efter en gasexplosion, skriver Sky News. Nio personer misstänks vara fast under jord och en stor räddningsinsats pågår. President Xi Jinping kräver en grundlig utredning så att ”ansvariga kan ställas till svars”.",
+          "body_text": "Minst 90 personer har dött efter en gasexplosion, skriver Sky News. Nio personer misstänks vara fast under jord och en stor räddningsinsats pågår. President Xi Jinping kräver en grundlig utredning så att ”ansvariga kan ställas till svars”. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Olyckan inträffade i en kolgruva i provinsen Shanxi i Kina på fredagskvällen, lokal tid. Det ska handla om en gasexplosion som orsakat ett omfattande ras, enligt kinesiska medier. Cirka 200 gruvarbetare lyckades ta sig ut från gruvan. På lördagsmorgonen uppger det statliga kinesiska mediebolaget CCTV att minst 82 personer omkommit. Brittiska Sky News rapporterar att det handlar om minst 90 döda. Nio gruvarbetare saknas och antas vara fast under jord. En stor räddningsinsats pågår vid gruvan. Olyckan är den värsta i en kinesisk kolgruva på över tio år, skriver South China Morning Post. Den statliga nyhetsbyrån Xinhua rapporterar att president Xi Jinping i ett uttalande ”betonade behovet av att göra allt för att behandla de skadade, organisera sök- och räddningsinsatserna på ett vetenskapligt och korrekt sätt samt hantera följderna på lämpligt vis”. Xi kräver även att orsaken till explosionen utreds grundligt, så att ”ansvariga kan ställas till svars enligt lagen”. Kina har över 4 000 aktiva kolgruvor och står för ungefär hälften av världens kolproduktion. Shanxi är en av de största kolregionerna. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/minst-90-doda-i-gruvolycka-i-kina/",
+          "image_url": "https://static.bonniernews.se/images/81/96/8196b3e36b4048f6a7676d9b33a675a4/16x9/original.png",
+          "published_at": "2026-05-23T06:57:40Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/minst-90-doda-i-gruvolycka-i-kina/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "1d1d0b6fbb11",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Hegseth tvärvändning – efter Trumps fråga",
+          "summary": "Pete Hegseth stoppade utplaceringen av 4 000 soldater till Polen. Då ringde Donald Trump. Nu ska i stället ytterligare 5 000 soldater skickas till landet.",
+          "body_text": "Pete Hegseth stoppade utplaceringen av 4 000 soldater till Polen. Nu ska i stället ytterligare 5 000 soldater skickas till landet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. ” Med anledning av det framgångsrika valet av Polens nuvarande president, Karol Nawrocki, är jag glad att kunna meddela att USA kommer att skicka ytterligare 5 000 soldater till Polen ”. Så skrev USA:s president Donald Trump på Truth Social sent på torsdagskvällen, svensk tid. Beskedet har orsakat stor förvirring . Bara i förra veckan var nämligen budskapet från försvarsministern Pete Hegseth att en planerad utplacering av 4 000 amerikanska soldater till landet stoppas . Enligt The Wall Street Journals uppgifter överraskade draget flera tjänstemän i Vita huset eftersom det var Tyskland, inte Polen, som kritiserade USA:s strategi i kriget i Iran, vilket föranledde att 5 000 soldater drogs tillbaka även därifrån . Även Trump verkar ha blivit tagen på sängen. I telefonsamtal med Hegseth nyligen ska han enligt tidningens uppgifter frågat varför utplaceringen ställdes in och betonat att Polen är en nära allierad till USA som inte borde behandlas illa. Att det skulle finnas någon osämja mellan presidenten och hans minister är dock ingenting som bekräftas från officiella håll: – President Trump och försvarsminister Hegseth kommunicerar ständigt och är helt överens när det gäller amerikanska truppförflyttningar i Europa, säger Pentagons talesperson Sean Parnell i en kommentar till The Wall Street Journal. Trots att 5 000 soldater nu verkar skickas till Polen innebär inte att USA har övergett sina planer på att minska sin närvaro i Europa. Enligt tidningens uppgifter väntas Trumpadministrationen inom de närmsta dagarna informera sina Natoallierade att man ska dra ned på antalet styrkor som man i dag är förbundet att skicka till Europa vid en konflikt.",
+          "url": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-overraskad-av-truppbesked/",
+          "image_url": "https://static.bonniernews.se/images/ba/68/ba68321b4c2f470d838ba05161d4c885/16x9/original.jpg",
+          "published_at": "2026-05-23T05:58:47Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-overraskad-av-truppbesked/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "4aca55ed533c",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4383,7 +4455,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "44587aacd621",
@@ -4395,7 +4467,7 @@
           "source_kind": "story",
           "title": "Sparpengarna till kistan försvann • ”Hur kunde jag?”",
           "summary": "Aino, Kristina, Mona och Lena i Stockholm blev lurade på sina sparpengar – av en och samma person. Kvinnorna blev alla av med sina kreditkort. Nu döms en 23-årig man med missbruksproblem, enligt egen utsago ”längst ned i kedjan”.",
-          "body_text": "Premium Aino, Kristina, Mona och Lena i Stockholm blev lurade på sina sparpengar – av en och samma person. Kvinnorna blev alla av med sina kreditkort. Nu döms en 23-årig man med missbruksproblem, enligt egen utsago ”längst ned i kedjan”. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. STEFAN MELANDER: Skandalen sopas under mattan LISTA: 15 bästa värvningarna i SHL inför 26/27",
+          "body_text": "Premium Aino, Kristina, Mona och Lena i Stockholm blev lurade på sina sparpengar – av en och samma person. Kvinnorna blev alla av med sina kreditkort. Nu döms en 23-årig man med missbruksproblem, enligt egen utsago ”längst ned i kedjan”. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. V85 MED EDHOLM Stekhete expertens stora guide JACKPOT 41 MILJONER SIGNERAT SANNY: En farlig väg att vandra för Tre Kronor Johan Svensson chattade med läsarna om silly season",
           "url": "https://www.expressen.se/nyheter/krim/sparpengarna-till-kistan--forsvann-hur-kunde-jag/",
           "image_url": "https://static.bonniernews.se/images/8b/5a/8b5a716a75454329ace1877a3d7904e4/16x9/original.jpg",
           "published_at": "2026-05-23T03:00:00Z",
@@ -4407,7 +4479,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "1014e1aa975c",
@@ -4431,7 +4503,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "e3c06e79ed5b",
@@ -4455,95 +4527,23 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "3a02a6edce5a",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Demokraternas valanalys: Vi svek Kamala Harris",
-          "summary": "Demokraterna ”svek” Kamala Harris under presidentkampanjen. Det slår demokratiska partiets kommitté fast i en eftervalsanalys.",
-          "body_text": "Demokraterna ”svek” Kamala Harris under presidentkampanjen. Det slår partiets nationella kommitté fast i en eftervalsanalys. ”Väljarna har glidit bort” , skriver man. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ett och ett halvt år sedan valfiaskot i USA har Demokraternas nationella kommitté publicerat sin eftervalsanalys, rapporterar flera amerikanska medier. Och de slår fast att partiet svek presidentkandidaten Kamala Harris, skriver Washington Post . Kommittén inleder sin analys med att ta avstånd från den. Författaren menar att rapporten ”inte uppfyller vår standard” och att partiet ”inte självständigt kan verifiera de påståenden som presenterats”. Det framhålls att partiet historiskt velat peka på marginaler och bristfälliga kandidater som de stora faktorerna för valförluster. Nu argumenterar demokraterna att partiet i stället för att justera behöver se över hela sin strategi och att tidigare synsätt ”hindrat partiet att ta ansvar”. Framför allt framhåller kommittén att Vita huset under Joe Bidens ledning inte gjorde tillräckligt mycket i att lobba för Harris kandidatur. Att de varken ”positionerade eller förberedde” vicepresidenten. ”Om Vita huset hade undersökt och utvärderat sätt att använda Kamala Harris mer strategiskt tidigare under administrationen, [...] hade det definitivt kunnat hjälpa till att förbereda henne för att leda presidentkampanjen ”, skriver man i rapporten. I analysen kommer man också fram till att man inte gick till tillräckligt hård attack mot president Donald Trump. Många i partiet ansåg vid tiden att den negativa bilden av Trump var så pass cementerad att ytterligare attacker inte skulle hjälpa. Slutligen skriver man att partiet och dess kandidater har förlorat väljarnas tillit.",
-          "url": "https://www.expressen.se/nyheter/varlden/partiets-analys--vi-svek-harris/",
-          "image_url": "https://static.bonniernews.se/images/88/e4/88e48b2bf48349728e4050b4caf33321/16x9/original.jpg",
-          "published_at": "2026-05-22T21:06:25Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/partiets-analys--vi-svek-harris/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "43407b0f5e99",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Bezos backar Melaniafloppen: ”Bra beslut”",
-          "summary": "Jeff Bezos försvarar beslutet att göra Melania Trump-film i intervju. Säger att det inte handlar om muta utan bra affärsbeslut.",
-          "body_text": "Amazons film om Melania Trump fick ett ljummet mottagande Men trots kritiken står grundaren Jeff Bezos fortfarande bakom beslutet att göra dokumentären. – Det var ett bra affärsbeslut, säger han i en intervju med CNBC. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Dokumentären Melania som handlar om presidentens fru släpptes i Januari i år. Budgeten för filmen låg på 40 miljoner dollar och utöver det kostade marknadsföringen bolaget Amazon runt 35 miljoner dollar. Senatorn Elisabeth Warren har tidigare kritiserat produktionen, då kostnaderna gör det till en av tidernas dyraste dokumentärer. Hon menar att det kan vara en dold muta från Amazon till Trumpadministrationen. Men jämfört med kostnaderna fick företaget ut en betydligt mindre vinst. Filmen ska ha tjänat in runt 17 miljoner dollar, vilket är mindre än hälften av vad budgeten låg på. Även filmens kvalitet har sågats. På sajten Imdb har filmen fått tittarbetyget 1,6 av 10. Amazons grundare Jeff Bezos talar nu ut om filmen i en intervju med CNBC. Han säger att han inte haft något att göra med filmen och att den inte gjordes av Amazon för att vinna Trumps gunst. Samtidigt backar han produktionen. – Den gick väldigt bra i biograferna. Den gick bra i streaming, säger Bezos, tidigare vd, numera styrelseordförande i företaget. Han säger också att filmen har stor kulturell och historisk vikt. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/bezos-backar-melaniafloppen-bra-affarsbeslut/",
-          "image_url": "https://static.bonniernews.se/images/2b/76/2b768b07edd9410281413054be67ea17/16x9/original.png",
-          "published_at": "2026-05-22T21:06:17Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/bezos-backar-melaniafloppen-bra-affarsbeslut/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "9f8e88fc362d",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Bilderna från dödsgrottan",
-          "summary": "Tidigare i maj dog fem italienare i en dykolycka i Maldiverna. Nu har de första bilderna från olycksplatsen publicerats. – Kropparna låg här och där inom ett område på två till tre meter, säger Patrik Grönqvist som var med och hämtade hem kropparna.",
-          "body_text": "Tidigare i maj dog fem italienare i en dykolycka i Maldiverna. Nu har de första bilderna från olycksplatsen publicerats. – Kropparna låg här och där inom ett område på två till tre meter, säger Patrik Grönqvist som var med och hämtade hem kropparna. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var i mitten på maj som fem italienska dykare genomförde en dykning vid Vaavu-atollen på Maldiverna . Syftet var att försöka utforska undervattensgrottor på ett djup av cirka 50 meter. Samtliga fem dog under ytan, och en räddningsdykare dog av trycksjuka under ett räddningsdyk. Bland offren fanns den italienska tv-profilen Monica Montefalcone och hennes 20-åriga dotter. För första gången visar bilder, publicerade av dykorganisationen Dan Europe, de smala undervattenpassager där de italienska dykarna omkom, skriver Daily Mail. Enligt Daily Mail hade en av dykarna, forskaren Gianluca Benedetti, nästan tagit sig ut ur grottan när han svimmade av. Hans kropp hittades nära mynningen till grottan. Resten av sällskapet hittades i grottans tredje och sista kammare. Chefen för Dan Europe, Laura Marroni, menar att italienarna hittats i en återvändsgränd i grottsystemet.",
-          "url": "https://www.expressen.se/nyheter/varlden/nya-bilderna-fran-dykolyckan-tog-sig-nastan-ut/",
-          "image_url": "https://static.bonniernews.se/images/52/4e/524e5abbf4ee404a9be747d2a9889b1d/16x9/original.png",
-          "published_at": "2026-05-22T20:34:50Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/nya-bilderna-fran-dykolyckan-tog-sig-nastan-ut/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
           "sort_order": 6
         },
         {
-          "id": "8dfda6942d5a",
+          "id": "25d0150d9387",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "JUST NU: En död och sju skadade – polisen utreder",
-          "summary": "En regionalbuss och en personbil frontalkrockade öster om Landskrona på fredagskvällen. Personbilen började brinna och föraren omkom. Sju personer som var ombord på bussen har förts till sjukhus för vård. Bussföraren är allvarligt skadad, enligt HD.",
-          "body_text": "En regionalbuss och en personbil frontalkrockade öster om Landskrona på fredagskvällen. Personbilen började brinna och föraren omkom. Sju personer som var ombord på bussen har förts till sjukhus för vård. Bussföraren är allvarligt skadad, enligt HD. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vid 21-tiden på fredagskvällen larmades polis, ambulans och räddningstjänst om den allvarliga olyckan på väg 17 utanför Landskorna. En regionalbuss och en personbil hade frontalkrockat. Totalt var elva personer inblandade i olyckan. – Det är en allvarlig trafikolycka, sa Patric Fors på polisen i region Syd till Expressen på fredagskvällen. Personbilsföraren, en man i 40-årsåldern, avled. Bilen började brinna och var övertänd när räddningstjänsten kom fram, skriver HD. Mannens anhöriga har underrättats. Sju personer, som satt på bussen, fördes till sjukhus med ambulans. – De förs till olika sjukhus, säger Patric Fors på polisen i Syd. En man i 60-årsåldern är allvarligt skadad. Enligt HD handlar det om bussföraren. En pojke i tidiga tonåren, en kvinna i 35-årsåldern och en man i 40-årsåldern har lindriga skador. Skadeläget för de övriga personerna är oklart.",
-          "url": "https://www.expressen.se/nyheter/sverige/buss-och-bil-i-krock-i-landskrona-allvarlig-olycka/",
-          "image_url": "https://static.bonniernews.se/images/51/4a/514a2b71fd5d4ebea8619333e7d65d6b/16x9/original.jpg",
-          "published_at": "2026-05-22T20:20:41Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/buss-och-bil-i-krock-i-landskrona-allvarlig-olycka/",
+          "title": "Kristersson om SD:s ministerposter | Expressen",
+          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
+          "body_text": "SD:s partiledare Jimmie Åkesson säger i Ekots lördagsintervju att partiet borde få nära hälften av ministerposterna vid en valvinst för Tidöpartierna. – Det är som jag upplever den diskussion vi har haft med de andra partierna, att utgångspunkten måste vara proportionerligt och lika inflytande. Han anser också att SD borde få tre av de \"tunga\" ministerposterna – som finansminister, utrikesminister, justitieminister och försvarsminister. I TV4:s Nyhetsmorgon kommenterar statsminister Ulf Kristersson (M) frågan. – Det är klart att alla partier vill ha så mycket inflytande som möjligt, men det är alltid valresultatet som avgör. Man säljer inte skinnet innan björnen är skjuten. Nu ryker S-ledaren Magdalena Andersson och Ulf Kristersson (M) ihop om skatterna. Andersson menar att Kristersson har fel när han säger att S har röstat nej till skattesänkningar. – Vi har röstat ja till skattesänkningar för de allra flesta. Det håller inte Ulf Kristersson med om. Han säger att S har höjt flera skatter tidigare, och att \"ni kommer göra det igen om ni får chansen\". – Vi sänker för alla och de höjer för alla, säger han med ett skratt. – Det är inte sant, varför säger du det Ulf Kristersson? svarar Magdalena Andersson innan hon avslutar: – Jag tycker det är ovärdigt av Sveriges statsminister att sprida rena osanningar om andra partier.",
+          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=9dfcc910-1402-409f-a069-88bbbff4a215",
+          "image_url": "https://verifiedupload.ifragasatt.se/d66f2555-b059-414f-b208-5b74c75794f9.jpeg",
+          "published_at": "2026-01-09T11:58:16Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=9dfcc910-1402-409f-a069-88bbbff4a215",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4554,20 +4554,20 @@
           "sort_order": 7
         },
         {
-          "id": "898f3ca27963",
+          "id": "3a02a6edce5a",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige I går 21.54 Tulltjänsteman sköt under insats: ”Nödvärnssituation”",
+          "title": "Världen I går 23.06 Partiets analys: Vi svek Harris",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/tulltjansteman-skot-under-insats-nodvarnssituation/",
+          "url": "https://www.expressen.se/nyheter/varlden/partiets-analys--vi-svek-harris/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/tulltjansteman-skot-under-insats-nodvarnssituation/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/partiets-analys--vi-svek-harris/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4578,20 +4578,20 @@
           "sort_order": 8
         },
         {
-          "id": "241640f19737",
+          "id": "43407b0f5e99",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen I går 21.35 Hotellens nya knep mot ”solstolsmaffian”",
+          "title": "Världen I går 23.06 Bezos backar Melaniafloppen: ”Bra affärsbeslut”",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/hotellens-nya-knep-mot-solstolsmaffian/",
+          "url": "https://www.expressen.se/nyheter/varlden/bezos-backar-melaniafloppen-bra-affarsbeslut/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/hotellens-nya-knep-mot-solstolsmaffian/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/bezos-backar-melaniafloppen-bra-affarsbeslut/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
