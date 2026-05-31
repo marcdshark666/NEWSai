@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T20:54:26Z",
+  "generated_at": "2026-05-31T21:55:47Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -340,31 +340,6 @@
           "sort_order": 0
         },
         {
-          "id": "72cc8961ba24",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ikväll 22:30",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 29 maj 22:30 4 min 32 sek Publicerades: Fre 29 maj 09:30 2 min 59 sek Publicerades: Fre 29 maj 08:30 3 min 2 sek",
-          "url": "https://www.svtplay.se/video/eb33naV/rapport/ikvall-22-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54235138/1780260676?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-01T06:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/eb33naV/rapport/ikvall-22-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
           "id": "1f7e2303b4e1",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -387,7 +362,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 1
         },
         {
           "id": "c81555e1fd36",
@@ -412,7 +387,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 2
         },
         {
           "id": "80d431e6c7f5",
@@ -437,7 +412,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 3
         },
         {
           "id": "ddad82b68b47",
@@ -462,7 +437,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 4
         },
         {
           "id": "661d6bd740ba",
@@ -487,7 +462,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 5
         },
         {
           "id": "2725655e20dc",
@@ -512,7 +487,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 6
         },
         {
           "id": "fe2563a48bdb",
@@ -529,6 +504,31 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54235117/1780255566?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-01T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/eb335A6/rapport/ikvall-21-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "72cc8961ba24",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 22:30",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 29 maj 22:30 4 min 32 sek Publicerades: Fre 29 maj 09:30 2 min 59 sek Publicerades: Fre 29 maj 08:30 3 min 2 sek",
+          "url": "https://www.svtplay.se/video/eb33naV/rapport/ikvall-22-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54235138/1780260676?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-31T20:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/eb33naV/rapport/ikvall-22-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1775,6 +1775,81 @@
           "sort_order": 0
         },
         {
+          "id": "d170cf3850c7",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "DEA to decide if 21-year-olds can buy marijuana | Fox News Video",
+          "summary": "Fox News correspondent Lucas Tomlinson reports on the DEA’s upcoming hearing on whether adults 21 and older can legally purchase marijuana without restrictions on ‘Fox Report.’",
+          "body_text": "Fox News correspondent Lucas Tomlinson reports on the DEA’s upcoming hearing on whether adults 21 and older can legally purchase marijuana without restrictions on ‘Fox Report.’",
+          "url": "https://www.foxnews.com/video/6397160923112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13e244db-492a-45ea-8418-a38c2ed2b8d4/7bbf9e4e-f0ea-481a-ac26-851e6b2858d3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T21:17:24Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397160923112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "cc62fbb07393",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Mamdani skipping Israel Day Parade sends ‘terrible message’ to Jewish community, Rep Nicole Malliotakis says | Fox News Video",
+          "summary": "Rep. Nicole Malliotakis, R-N.Y., discusses New York City Mayor Zohran Mamdani choosing not to attend the Israel Day Parade on ‘Fox Report.’",
+          "body_text": "Rep. Nicole Malliotakis, R-N.Y., discusses New York City Mayor Zohran Mamdani choosing not to attend the Israel Day Parade on ‘Fox Report.’",
+          "url": "https://www.foxnews.com/video/6397160740112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/889ce80a-219e-4e7f-9194-1aa539047ceb/e3a0c894-6986-4fc4-94a0-47f438b658a0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T20:52:55Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397160740112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "306910671015",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "New counter-drone technology aims to protect FIFA World Cup crowds from potential aerial attacks | Fox News Video",
+          "summary": "Airspace Link CEO Michael Healander joins 'Fox Report' to discuss how advanced drone detection and counter-drone technology are being deployed to protect FIFA World Cup venues across the U.S.",
+          "body_text": "Airspace Link CEO Michael Healander joins 'Fox Report' to discuss how advanced drone detection and counter-drone technology are being deployed to protect FIFA World Cup venues across the U.S.",
+          "url": "https://www.foxnews.com/video/6397156623112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bfc864c5-6598-434c-b503-7f30663de0c9/0f33b4d1-48b7-4de0-b1c4-e94d6bcf230e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T20:28:55Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397156623112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
           "id": "46e52880fc50",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1797,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "aef051936d85",
@@ -1822,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "80eaa60f004e",
@@ -1847,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "5576b5ce78cb",
@@ -1872,7 +1947,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "61e06a4e0c09",
@@ -1897,7 +1972,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "6edc7bf1a23e",
@@ -1922,7 +1997,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "68232a8e31b4",
@@ -1939,81 +2014,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb5c610d-f32a-4c07-a6eb-eea4887cdc7e/768c78e8-e173-4323-93ac-d7c55b7badc9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-05-31T19:14:27Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397152281112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "96375f83343c",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Hinson slams Iowa Dem Senate hopefuls for prioritizing 'illegals over Americans' | Fox News Video",
-          "summary": "FOX Business' Grady Trimble reports on the shifting political landscape surrounding Iowa's high-stakes U.S. Senate primary to replace retiring Sen. Joni Ernst.",
-          "body_text": "FOX Business' Grady Trimble reports on the shifting political landscape surrounding Iowa's high-stakes U.S. Senate primary to replace retiring Sen. Joni Ernst.",
-          "url": "https://www.foxnews.com/video/6397151974112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4efacf19-a022-46eb-abc8-a38980277356/0af721ff-7f43-4e4b-8f59-efcc6cfa5302/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T19:13:58Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397151974112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "a7e9d1b01de8",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Steak ’n Shake adopts grass-fed beef, removes seed oils in MAHA push | Fox News Video",
-          "summary": "Steak ’n Shake Chief MAHA Officer Michael Boes discusses the chain’s menu overhaul, including a shift to grass-fed beef and the removal of seed oils on ‘Fox News Live.’",
-          "body_text": "Steak ’n Shake Chief MAHA Officer Michael Boes discusses the chain’s menu overhaul, including a shift to grass-fed beef and the removal of seed oils on ‘Fox News Live.’ Fast-food chain Steak 'n Shake reveals a major menu shift, introducing grass-fed beef and eliminating seed oils from items like fries, tots, and chicken tenders, effective in June.",
-          "url": "https://www.foxnews.com/video/6397148926112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dca34b21-3c82-4353-b454-5b068c08789a/9fa9708c-a28d-49b4-bbf8-e6f09917a8b9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T18:39:22Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397148926112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 9
-        },
-        {
-          "id": "628648811a0c",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Dr. Nazee Moinian: Iran is a 'mafia state' under 'extreme pressure' | Fox News Video",
-          "summary": "Dr. Nazee Moinian, born and raised in Tehran, argues Iran is under 'extreme pressure' from U.S. sanctions and is essentially a 'mafia state' during 'Fox & Friends Weekend.'",
-          "body_text": "Dr. Nazee Moinian, born and raised in Tehran, argues Iran is under 'extreme pressure' from U.S. sanctions and is essentially a 'mafia state' during 'Fox & Friends Weekend.' Dr. Nazee Moinian, a Middle East Institute associate fellow born in Tehran, asserts Iran's regime operates as a 'mafia state' under 'extreme pressure' from the United States. She emphasizes the U.S. holds immense leverage, urging for a robust 'ironclad' deal rather than a diluted agreement. Moinian highlights Iran's dire economic state and calls for patience in negotiations.",
-          "url": "https://www.foxnews.com/video/6397146804112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffcf842b-35a3-43e2-b499-57014b3750af/d81284d0-ba23-43a6-a963-e6a2b9bf4b84/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T17:48:26Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397146804112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2100,20 +2100,20 @@
           "sort_order": 13
         },
         {
-          "id": "fc5afa005e8a",
+          "id": "5736d4c13a71",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Life, Liberty, and Levin - Saturday, May 30 | Fox News Video",
-          "summary": "Iran , Trump , War",
-          "body_text": "Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.",
-          "url": "https://www.foxnews.com/video/6397120957112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/11d98ed0-a848-467f-9fdb-02e2388c4bde/2779defa-d808-4289-9380-66d962f9ac58/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-31T09:04:19Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397120957112",
+          "title": "FOX News Sunday - Sunday, May 31 | Fox News Video",
+          "summary": "FOX News Sunday, Shannon Bream, New Jersey, ICE",
+          "body_text": "FOX News Sunday, Shannon Bream, New Jersey, ICE Kevin Hassett; Bill Hagerty; Chris Coons; Michael Allen; Mark Bednar; Francesca Chambers.",
+          "url": "https://www.foxnews.com/video/6397161091112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/7dbbaac4-46c2-40c2-bede-ad9f765a1b12/73161bd2-c162-4b80-a125-4c806e8ebc8f/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-05-31T20:57:27Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397161091112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2121,24 +2121,24 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 14
         },
         {
-          "id": "02db2167d472",
+          "id": "7d1410884c23",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "My View With Lara Trump - Saturday, May 30 | Fox News Video",
-          "summary": "Trump, Iran, Mamdani, Oval Office",
-          "body_text": "in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
-          "url": "https://www.foxnews.com/video/6397114138112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/0799e198-5a25-4dcc-adc8-260aa312df5b/37afcefb-d118-489f-affe-6a528b45483c/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-05-31T07:07:41Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397114138112",
+          "title": "The Sunday Briefing - Sunday, May 31 | Fox News Video",
+          "summary": "politics in sports and media, cia, primaries",
+          "body_text": "politics in sports and media, cia, primaries",
+          "url": "https://www.foxnews.com/video/6397161567112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/def439fd-0ac3-4977-883d-44fe6c6ca78c/e261ea24-3ceb-464a-a4be-ce6930106bec/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-05-31T20:55:25Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397161567112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2390,9 +2390,9 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Colombia votes in presidential election that could redefine relations with US",
-          "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-          "body_text": "Colombia is heading to the polls to choose a new president. The election is being held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump over a number of issues including drug trafficking and American intervention in the region. Colombia's constitution prohibits Petro seeking re-election and he has thrown his support behind Iván Cepeda. Challenging him are right-wing political outsider Abelardo de la Espriella and conservative Paloma Valencia. The outcome of the election could redefine which countries the Latin American nation aligns itself with and how the government intends to tackle drug gangs amid spiralling violence. As polls opened, Petro told a crowd in the capital, Bogotá, that Sunday's vote would \"determine where Colombia is headed\" and would \"define the [country's] destiny\". Voting began at 08:00 local time (13:00 GMT) and will close at 16:00 on Sunday. None of the candidates appear likely to win an outright majority, with a run-off vote expected on 21 June. Polling suggests Cepeda has the greatest support, with de la Espriella his next-closest rival. Cepeda has promised to continue with the Petro administration's policy of \"total peace\", which sought negotiated settlements with armed insurgent groups that engage in drug trafficking - though talks have stalled or fallen apart and there has been renewed violence. The International Committee of the Red Cross (ICRC) said in a recent report that armed conflict in Colombia last year had affected civilians the most in a decade. Just hours before voting began, authorities in the northern Cesar region relocated a polling station following a drone attack on security forces that left a soldier injured, local media report. Colombia's defence ministry has deployed 408,000 soldiers and police to secure the election.",
+          "title": "Polls close in Colombia presidential election that may reshape relations with US",
+          "summary": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
+          "body_text": "Polls have closed in Colombia's presidential election. The vote is being held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump over a number of issues including drug trafficking and American intervention in the region. Colombia's constitution prohibits Petro seeking re-election and he has thrown his support behind Iván Cepeda. Challenging him are right-wing political outsider Abelardo de la Espriella and conservative Paloma Valencia. The outcome of the election could redefine which countries the Latin American nation aligns itself with and how the government intends to tackle drug gangs amid spiralling violence. As polls opened, Petro told a crowd in the capital, Bogotá, that Sunday's vote would \"determine where Colombia is headed\" and would \"define the [country's] destiny\". Voting began at 08:00 local time (13:00 GMT) and closed at 16:00 on Sunday. None of the candidates appear likely to win an outright majority, with a run-off vote expected on 21 June. Polling suggests Cepeda has the greatest support, with de la Espriella his next-closest rival. Cepeda has promised to continue with the Petro administration's policy of \"total peace\", which sought negotiated settlements with armed insurgent groups that engage in drug trafficking - though talks have stalled or fallen apart and there has been renewed violence. The International Committee of the Red Cross (ICRC) said in a recent report that armed conflict in Colombia last year had affected civilians the most in a decade. Just hours before voting began, authorities in the northern Cesar region relocated a polling station following a drone attack on security forces that left a soldier injured, local media report. Colombia's defence ministry has deployed 408,000 soldiers and police to secure the election.",
           "url": "https://www.bbc.com/news/articles/c2027g423glo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7b62/live/c71dea20-5cf7-11f1-89a3-d1f559421220.jpg",
           "published_at": "2026-05-31T08:47:46Z",
@@ -2600,6 +2600,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "eb595cc82e95",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Resultados elecciones presidenciales en Colombia 2026 EN VIVO: últimas noticias de Cepeda, De la Espriella y Valencia",
+          "summary": "Elecciones Colombia 2026 en vivo: Los colombianos votan a para elegir al próximo presidente con Iván Cepeda, Abelardo de la Espriella y Paloma Valencia como los favoritos para pasar a segunda vuelta | Gustavo Petro",
+          "body_text": "Elecciones Colombia 2026 en vivo: Los colombianos votan a para elegir al próximo presidente con Iván Cepeda, Abelardo de la Espriella y Paloma Valencia como los favoritos para pasar a segunda vuelta | Gustavo Petro",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-colombia-2026-en-vivo-candidatos-incidencias-y-resultados-de-la-jornada-electoral-del-31-de-mayo-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/QXPJPZSVORAHXAL4YLTUT3L734.jpg?auth=225fdcbf5f361d6a5724f78f2a81df9179a42e8cd56ecb799ef8585209394eab&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-31T21:46:02Z",
+          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-colombia-2026-en-vivo-candidatos-incidencias-y-resultados-de-la-jornada-electoral-del-31-de-mayo-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "elecciones Colombia en vivo, Elecciones Colombia 2026, Elecciones en Colombia, Elecciones presidenciales en Colombia, Iván Cepeda, Abelardo de la Espriella, Paloma Valencia, Resultados Elecciones Colombia, Resultados Elecciones Colombia 2026, colombia, resultados de las elecciones en colombia, quién ganó en colombia, resultados de las elecciones presidenciales en colombia, quién ganó las elecciones en colombia, Resultados de la CNE, resultados del CNE, Consejo Nacional Electoral, Registraduría Nacional, Registraduría Nacional del Estado Civil, Comisiones Escrutadoras, elecciones presidenciales Colombia, quién será el próximo presidente de Colombia, candidatos presidenciales Colombia, elecciones de Colombia 2026, encuestas presidenciales Colombia, resultados elecciones Colombia, últimas noticias elecciones Colombia, candidatos a la presidencia de Colombia, Gustavo Petro elecciones 2026, Abelardo de la Espriella elecciones, quién va ganando las elecciones en Colombia 2026, qué dicen las encuestas para las elecciones en Colombia, quién reemplazará a Petro en la presidencia, noticias Colombia, segunda vuelta, primera vuelta, qué pasa si hay segunda vuelta en Colombia, últimas noticias de las elecciones presidenciales en Colombia, boca de urna, encuestas, Elecciones presidenciales en Colombia 2026, Resultados elecciones presidenciales en Colombia 2026 EN VIVO",
+            "Latinoamérica",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2fd3c13c9a00",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2623,7 +2649,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "47100f0a6066",
@@ -2649,7 +2675,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "1bee3b793480",
@@ -2675,7 +2701,7 @@
             "El Comercio"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "695ab71d6c00",
@@ -2701,7 +2727,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "c88e2f4b2541",
@@ -2723,32 +2749,6 @@
           "tags": [
             "feriado, feriados en Perú, feriado en Perú, calendario 2026",
             "Cuándo",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "73e3fc4ca742",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Resultados de La Tinka: conoce a los ganadores del miércoles 20 de mayo",
-          "summary": "Resultados de La Tinka EN VIVO: Conoce aquí los resultados del sorteo que juega el miércoles 20 de mayo, que tiene un Pozo Millonario de S/11′500,768.",
-          "body_text": "Conoce aquí los resultados y números del sorteo de La Tinka del miércoles 20 de mayo, que tiene un Pozo Millonario de S/11′500,768. Además, revisa los resultados y ganadores del Sí o Sí. Disfruta de todos los sorteos EN VIVO todos los miércoles y domingos a las 10:50 PM por América TV desde tu televisión y en Facebook o YouTube en tu celular o laptop.",
-          "url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-20-de-mayo-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JDA6453LVNCR3CBQEJJSLXXKBE.jpg?auth=474dac2c0b53da83c5d1b1441973dbd0ff9cd5a8e8dc11292afc149cf688aa6d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-21T11:58:02Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-20-de-mayo-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "La Tinka HOY EN VIVO 2026, resultados de la tinka, sorteo de la tinka, todos los resultados de la tinka, la tinka resultados anteriores, pozo de la tinka de hoy, américa tv en vivo, américa tv gratis en vivo, américa tv en vivo hoy, resultado tinka, tinka resultados, américa tv en vivo por internet, bolillas de la tinka, números de la tinka, la tinka ganadores, última tinka, tinka de anoche, tinka de ayer, La tinka resultados de hoy, La tinka quién ganó, La tinka ganador de hoy, La tinka último sorteo, La Tinka, La Tinka resultados, La Tinka últimos resultados, La Tinka cuál fue el ganador, Tinka de hoy, Tinka sorteo hoy, La Tinka sorteo, La Tinka miércoles 20 de mayo, Tinka miercoles 20, resultados Tinka miércoles 20, Tinka números 20 mayo, último sorteo Tinka miércoles 20, Tinka 20 de mayo, Tinka 20 mayo del 2026",
-            "Loterias",
             "Senaste",
             "El Comercio"
           ],
@@ -2877,6 +2877,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "eb595cc82e95",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Resultados elecciones presidenciales en Colombia 2026 EN VIVO: últimas noticias de Cepeda, De la Espriella y Valencia",
+          "summary": "Elecciones Colombia 2026 en vivo: Los colombianos votan a para elegir al próximo presidente con Iván Cepeda, Abelardo de la Espriella y Paloma Valencia como los favoritos para pasar a segunda vuelta | Gustavo Petro",
+          "body_text": "Elecciones Colombia 2026 en vivo: Los colombianos votan a para elegir al próximo presidente con Iván Cepeda, Abelardo de la Espriella y Paloma Valencia como los favoritos para pasar a segunda vuelta | Gustavo Petro",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-colombia-2026-en-vivo-candidatos-incidencias-y-resultados-de-la-jornada-electoral-del-31-de-mayo-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/QXPJPZSVORAHXAL4YLTUT3L734.jpg?auth=225fdcbf5f361d6a5724f78f2a81df9179a42e8cd56ecb799ef8585209394eab&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-31T21:46:02Z",
+          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-colombia-2026-en-vivo-candidatos-incidencias-y-resultados-de-la-jornada-electoral-del-31-de-mayo-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "elecciones Colombia en vivo, Elecciones Colombia 2026, Elecciones en Colombia, Elecciones presidenciales en Colombia, Iván Cepeda, Abelardo de la Espriella, Paloma Valencia, Resultados Elecciones Colombia, Resultados Elecciones Colombia 2026, colombia, resultados de las elecciones en colombia, quién ganó en colombia, resultados de las elecciones presidenciales en colombia, quién ganó las elecciones en colombia, Resultados de la CNE, resultados del CNE, Consejo Nacional Electoral, Registraduría Nacional, Registraduría Nacional del Estado Civil, Comisiones Escrutadoras, elecciones presidenciales Colombia, quién será el próximo presidente de Colombia, candidatos presidenciales Colombia, elecciones de Colombia 2026, encuestas presidenciales Colombia, resultados elecciones Colombia, últimas noticias elecciones Colombia, candidatos a la presidencia de Colombia, Gustavo Petro elecciones 2026, Abelardo de la Espriella elecciones, quién va ganando las elecciones en Colombia 2026, qué dicen las encuestas para las elecciones en Colombia, quién reemplazará a Petro en la presidencia, noticias Colombia, segunda vuelta, primera vuelta, qué pasa si hay segunda vuelta en Colombia, últimas noticias de las elecciones presidenciales en Colombia, boca de urna, encuestas, Elecciones presidenciales en Colombia 2026, Resultados elecciones presidenciales en Colombia 2026 EN VIVO",
+            "Latinoamérica",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2fd3c13c9a00",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2900,7 +2926,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "47100f0a6066",
@@ -2926,7 +2952,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "1bee3b793480",
@@ -2952,7 +2978,7 @@
             "El Comercio"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "695ab71d6c00",
@@ -2978,7 +3004,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "c88e2f4b2541",
@@ -3000,32 +3026,6 @@
           "tags": [
             "feriado, feriados en Perú, feriado en Perú, calendario 2026",
             "Cuándo",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "73e3fc4ca742",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Resultados de La Tinka: conoce a los ganadores del miércoles 20 de mayo",
-          "summary": "Resultados de La Tinka EN VIVO: Conoce aquí los resultados del sorteo que juega el miércoles 20 de mayo, que tiene un Pozo Millonario de S/11′500,768.",
-          "body_text": "Conoce aquí los resultados y números del sorteo de La Tinka del miércoles 20 de mayo, que tiene un Pozo Millonario de S/11′500,768. Además, revisa los resultados y ganadores del Sí o Sí. Disfruta de todos los sorteos EN VIVO todos los miércoles y domingos a las 10:50 PM por América TV desde tu televisión y en Facebook o YouTube en tu celular o laptop.",
-          "url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-20-de-mayo-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JDA6453LVNCR3CBQEJJSLXXKBE.jpg?auth=474dac2c0b53da83c5d1b1441973dbd0ff9cd5a8e8dc11292afc149cf688aa6d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-21T11:58:02Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-20-de-mayo-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "La Tinka HOY EN VIVO 2026, resultados de la tinka, sorteo de la tinka, todos los resultados de la tinka, la tinka resultados anteriores, pozo de la tinka de hoy, américa tv en vivo, américa tv gratis en vivo, américa tv en vivo hoy, resultado tinka, tinka resultados, américa tv en vivo por internet, bolillas de la tinka, números de la tinka, la tinka ganadores, última tinka, tinka de anoche, tinka de ayer, La tinka resultados de hoy, La tinka quién ganó, La tinka ganador de hoy, La tinka último sorteo, La Tinka, La Tinka resultados, La Tinka últimos resultados, La Tinka cuál fue el ganador, Tinka de hoy, Tinka sorteo hoy, La Tinka sorteo, La Tinka miércoles 20 de mayo, Tinka miercoles 20, resultados Tinka miércoles 20, Tinka números 20 mayo, último sorteo Tinka miércoles 20, Tinka 20 de mayo, Tinka 20 mayo del 2026",
-            "Loterias",
             "Economia",
             "El Comercio"
           ],
@@ -3154,6 +3154,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "eb595cc82e95",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Resultados elecciones presidenciales en Colombia 2026 EN VIVO: últimas noticias de Cepeda, De la Espriella y Valencia",
+          "summary": "Elecciones Colombia 2026 en vivo: Los colombianos votan a para elegir al próximo presidente con Iván Cepeda, Abelardo de la Espriella y Paloma Valencia como los favoritos para pasar a segunda vuelta | Gustavo Petro",
+          "body_text": "Elecciones Colombia 2026 en vivo: Los colombianos votan a para elegir al próximo presidente con Iván Cepeda, Abelardo de la Espriella y Paloma Valencia como los favoritos para pasar a segunda vuelta | Gustavo Petro",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-colombia-2026-en-vivo-candidatos-incidencias-y-resultados-de-la-jornada-electoral-del-31-de-mayo-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/QXPJPZSVORAHXAL4YLTUT3L734.jpg?auth=225fdcbf5f361d6a5724f78f2a81df9179a42e8cd56ecb799ef8585209394eab&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-31T21:46:02Z",
+          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-colombia-2026-en-vivo-candidatos-incidencias-y-resultados-de-la-jornada-electoral-del-31-de-mayo-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "elecciones Colombia en vivo, Elecciones Colombia 2026, Elecciones en Colombia, Elecciones presidenciales en Colombia, Iván Cepeda, Abelardo de la Espriella, Paloma Valencia, Resultados Elecciones Colombia, Resultados Elecciones Colombia 2026, colombia, resultados de las elecciones en colombia, quién ganó en colombia, resultados de las elecciones presidenciales en colombia, quién ganó las elecciones en colombia, Resultados de la CNE, resultados del CNE, Consejo Nacional Electoral, Registraduría Nacional, Registraduría Nacional del Estado Civil, Comisiones Escrutadoras, elecciones presidenciales Colombia, quién será el próximo presidente de Colombia, candidatos presidenciales Colombia, elecciones de Colombia 2026, encuestas presidenciales Colombia, resultados elecciones Colombia, últimas noticias elecciones Colombia, candidatos a la presidencia de Colombia, Gustavo Petro elecciones 2026, Abelardo de la Espriella elecciones, quién va ganando las elecciones en Colombia 2026, qué dicen las encuestas para las elecciones en Colombia, quién reemplazará a Petro en la presidencia, noticias Colombia, segunda vuelta, primera vuelta, qué pasa si hay segunda vuelta en Colombia, últimas noticias de las elecciones presidenciales en Colombia, boca de urna, encuestas, Elecciones presidenciales en Colombia 2026, Resultados elecciones presidenciales en Colombia 2026 EN VIVO",
+            "Latinoamérica",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2fd3c13c9a00",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3177,7 +3203,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "47100f0a6066",
@@ -3203,7 +3229,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "1bee3b793480",
@@ -3229,7 +3255,7 @@
             "El Comercio"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "695ab71d6c00",
@@ -3255,7 +3281,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "c88e2f4b2541",
@@ -3277,32 +3303,6 @@
           "tags": [
             "feriado, feriados en Perú, feriado en Perú, calendario 2026",
             "Cuándo",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "73e3fc4ca742",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Resultados de La Tinka: conoce a los ganadores del miércoles 20 de mayo",
-          "summary": "Resultados de La Tinka EN VIVO: Conoce aquí los resultados del sorteo que juega el miércoles 20 de mayo, que tiene un Pozo Millonario de S/11′500,768.",
-          "body_text": "Conoce aquí los resultados y números del sorteo de La Tinka del miércoles 20 de mayo, que tiene un Pozo Millonario de S/11′500,768. Además, revisa los resultados y ganadores del Sí o Sí. Disfruta de todos los sorteos EN VIVO todos los miércoles y domingos a las 10:50 PM por América TV desde tu televisión y en Facebook o YouTube en tu celular o laptop.",
-          "url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-20-de-mayo-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JDA6453LVNCR3CBQEJJSLXXKBE.jpg?auth=474dac2c0b53da83c5d1b1441973dbd0ff9cd5a8e8dc11292afc149cf688aa6d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-21T11:58:02Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-20-de-mayo-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "La Tinka HOY EN VIVO 2026, resultados de la tinka, sorteo de la tinka, todos los resultados de la tinka, la tinka resultados anteriores, pozo de la tinka de hoy, américa tv en vivo, américa tv gratis en vivo, américa tv en vivo hoy, resultado tinka, tinka resultados, américa tv en vivo por internet, bolillas de la tinka, números de la tinka, la tinka ganadores, última tinka, tinka de anoche, tinka de ayer, La tinka resultados de hoy, La tinka quién ganó, La tinka ganador de hoy, La tinka último sorteo, La Tinka, La Tinka resultados, La Tinka últimos resultados, La Tinka cuál fue el ganador, Tinka de hoy, Tinka sorteo hoy, La Tinka sorteo, La Tinka miércoles 20 de mayo, Tinka miercoles 20, resultados Tinka miércoles 20, Tinka números 20 mayo, último sorteo Tinka miércoles 20, Tinka 20 de mayo, Tinka 20 mayo del 2026",
-            "Loterias",
             "Mundo",
             "El Comercio"
           ],
@@ -3431,6 +3431,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "eb595cc82e95",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Resultados elecciones presidenciales en Colombia 2026 EN VIVO: últimas noticias de Cepeda, De la Espriella y Valencia",
+          "summary": "Elecciones Colombia 2026 en vivo: Los colombianos votan a para elegir al próximo presidente con Iván Cepeda, Abelardo de la Espriella y Paloma Valencia como los favoritos para pasar a segunda vuelta | Gustavo Petro",
+          "body_text": "Elecciones Colombia 2026 en vivo: Los colombianos votan a para elegir al próximo presidente con Iván Cepeda, Abelardo de la Espriella y Paloma Valencia como los favoritos para pasar a segunda vuelta | Gustavo Petro",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-colombia-2026-en-vivo-candidatos-incidencias-y-resultados-de-la-jornada-electoral-del-31-de-mayo-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/QXPJPZSVORAHXAL4YLTUT3L734.jpg?auth=225fdcbf5f361d6a5724f78f2a81df9179a42e8cd56ecb799ef8585209394eab&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-31T21:46:02Z",
+          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-colombia-2026-en-vivo-candidatos-incidencias-y-resultados-de-la-jornada-electoral-del-31-de-mayo-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "elecciones Colombia en vivo, Elecciones Colombia 2026, Elecciones en Colombia, Elecciones presidenciales en Colombia, Iván Cepeda, Abelardo de la Espriella, Paloma Valencia, Resultados Elecciones Colombia, Resultados Elecciones Colombia 2026, colombia, resultados de las elecciones en colombia, quién ganó en colombia, resultados de las elecciones presidenciales en colombia, quién ganó las elecciones en colombia, Resultados de la CNE, resultados del CNE, Consejo Nacional Electoral, Registraduría Nacional, Registraduría Nacional del Estado Civil, Comisiones Escrutadoras, elecciones presidenciales Colombia, quién será el próximo presidente de Colombia, candidatos presidenciales Colombia, elecciones de Colombia 2026, encuestas presidenciales Colombia, resultados elecciones Colombia, últimas noticias elecciones Colombia, candidatos a la presidencia de Colombia, Gustavo Petro elecciones 2026, Abelardo de la Espriella elecciones, quién va ganando las elecciones en Colombia 2026, qué dicen las encuestas para las elecciones en Colombia, quién reemplazará a Petro en la presidencia, noticias Colombia, segunda vuelta, primera vuelta, qué pasa si hay segunda vuelta en Colombia, últimas noticias de las elecciones presidenciales en Colombia, boca de urna, encuestas, Elecciones presidenciales en Colombia 2026, Resultados elecciones presidenciales en Colombia 2026 EN VIVO",
+            "Latinoamérica",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2fd3c13c9a00",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3454,7 +3480,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "47100f0a6066",
@@ -3480,7 +3506,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "1bee3b793480",
@@ -3506,7 +3532,7 @@
             "El Comercio"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "695ab71d6c00",
@@ -3532,7 +3558,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "c88e2f4b2541",
@@ -3554,32 +3580,6 @@
           "tags": [
             "feriado, feriados en Perú, feriado en Perú, calendario 2026",
             "Cuándo",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "73e3fc4ca742",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Resultados de La Tinka: conoce a los ganadores del miércoles 20 de mayo",
-          "summary": "Resultados de La Tinka EN VIVO: Conoce aquí los resultados del sorteo que juega el miércoles 20 de mayo, que tiene un Pozo Millonario de S/11′500,768.",
-          "body_text": "Conoce aquí los resultados y números del sorteo de La Tinka del miércoles 20 de mayo, que tiene un Pozo Millonario de S/11′500,768. Además, revisa los resultados y ganadores del Sí o Sí. Disfruta de todos los sorteos EN VIVO todos los miércoles y domingos a las 10:50 PM por América TV desde tu televisión y en Facebook o YouTube en tu celular o laptop.",
-          "url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-20-de-mayo-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JDA6453LVNCR3CBQEJJSLXXKBE.jpg?auth=474dac2c0b53da83c5d1b1441973dbd0ff9cd5a8e8dc11292afc149cf688aa6d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-21T11:58:02Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-20-de-mayo-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "La Tinka HOY EN VIVO 2026, resultados de la tinka, sorteo de la tinka, todos los resultados de la tinka, la tinka resultados anteriores, pozo de la tinka de hoy, américa tv en vivo, américa tv gratis en vivo, américa tv en vivo hoy, resultado tinka, tinka resultados, américa tv en vivo por internet, bolillas de la tinka, números de la tinka, la tinka ganadores, última tinka, tinka de anoche, tinka de ayer, La tinka resultados de hoy, La tinka quién ganó, La tinka ganador de hoy, La tinka último sorteo, La Tinka, La Tinka resultados, La Tinka últimos resultados, La Tinka cuál fue el ganador, Tinka de hoy, Tinka sorteo hoy, La Tinka sorteo, La Tinka miércoles 20 de mayo, Tinka miercoles 20, resultados Tinka miércoles 20, Tinka números 20 mayo, último sorteo Tinka miércoles 20, Tinka 20 de mayo, Tinka 20 mayo del 2026",
-            "Loterias",
             "Peru",
             "El Comercio"
           ],
@@ -3742,6 +3742,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "3a5b6804157e",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Erin Brockovich takes aim at data center secrecy | TechCrunch",
+          "summary": "Environmental activist Erin Brockovich has a new mission.",
+          "body_text": "Environmental activist Erin Brockovich has a new mission: Bringing more transparency to data center construction and the impact those data centers have on nearby communities. Brockovich — who was famously played by Julia Roberts in a film dramatizing her legal case against Pacific Gas & Electric — recently launched a website with a map of data centers across the United States. The website describes the map as “work in progress” that includes data centers reported by members of the surrounding community. In a Substack post , Brockovich said that after putting out a call for reports of data center-related issues in April, she received nearly 4,000 submissions in the first month alone. “The single most common concern — more than noise, more than water usage, more than rising utility bills — is the one word that keeps appearing in submission after submission: transparency ,” she wrote. Brockovich added that she’s not making a “making a blanket argument against data centers” or AI, but rather against “the pattern our map documents: projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.” Get an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Through candid fireside chats and high-impact networking, you’ll walk away with valuable insights and new connections. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+          "published_at": "2026-05-31T21:05:14Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "b2a99209ee6c",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3763,7 +3787,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "e68366b167b7",
@@ -3787,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "1c46f8ee3897",
@@ -3811,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "2effc53c7f1e",
@@ -3835,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "58aba64337de",
@@ -3859,7 +3883,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "ab3353988ff0",
@@ -3883,7 +3907,31 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
+        },
+        {
+          "id": "2f6bdff59a90",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "SoftBank says it will invest up to €75 billion to build French data centers | TechCrunch",
+          "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+          "body_text": "SoftBank Group announced today that it plans to spend up to €75 billion (around $87 billion) to expand data center capacity in France. The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The first phase of the plan involves building data centers in Dunkirk (Loon-Plage), Bosquel, and Bouchain to deliver 3.1 gigawatts of capacity to the Hauts-de-France region by 2031. SoftBank, which is both an investor in and customer of OpenAI , says this will be its largest AI infrastructure investment in Europe. In a statement, French economic minister Roland Lescure described the announcement as a “testament to President Emmanuel Macron’s ambition to position France as a leading destination all along the AI value chain.” In the United States, opposition to data center construction is heating up over environmental concerns, as well as questions about how data centers affect the electrical grid and utility prices. Nonetheless, SoftBank earlier announced plans to build a data center in Ohio, powered by a new 9.2 gigawatt natural gas plant . Get an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Through candid fireside chats and high-impact networking, you’ll walk away with valuable insights and new connections. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg?w=1024",
+          "published_at": "2026-05-30T21:45:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 7
         },
         {
           "id": "74c5c0a94fa1",
@@ -3907,31 +3955,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "d2b66db25e0a",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Meta is reportedly developing an AI pendant | TechCrunch",
-          "summary": "Meta seems to be making big bets on AI-powered hardware.",
-          "body_text": "Meta is developing an AI-powered pendant that it plans to start testing in the next year, according to a memo viewed by The Information . This device would presumably build on the work of Limitless, an AI device startup that Meta acquired at the end of 2025. The startup made an AI pendant that users could attach to their shirt or wear as a necklace to record their conversations. At the time, Meta said the acquisition would allow it to “accelerate our work to build AI-enabled wearables.” The memo also reportedly states that the company is planning to expand its lineup of AI glasses and launch a business subscription called Wearables for Work. With all these planned devices, Meta is apparently hoping to reverse the fortunes of its hardware-focused Reality Labs division, which lost $4 billion in the first quarter of this year. TechCrunch has reached out to Meta for comment. Get an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Through candid fireside chats and high-impact networking, you’ll walk away with valuable insights and new connections. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
-          "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-          "published_at": "2026-05-30T15:59:58Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "724f3d4ba491",
@@ -3955,30 +3979,6 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "1921d9234596",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "The groupthink boom: what three top VCs really think about the AI frenzy | TechCrunch",
-          "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A ,\" said one, half-kiddingly.",
-          "body_text": "This week at TechCrunch’s StrictlyVC event in Athens — part of the Panathenea festival taking place in the city — I sat down with Niko Bonatsos of Verdict Capital, Andreas Stavropoulos of Threshold Ventures, and Ben Blume of Atomico to ask about the current state of venture investing, the wave of mega-IPOs that SpaceX is about to kick off, and where they still see an ocean of opportunity. Our conversation, following, has been edited for length and clarity. You can check out the full discussion at page bottom. With SpaceX reportedly eyeing a $1.75 trillion valuation at IPO, and OpenAI and Anthropic potentially not far behind, what will the impacts be on the broader market? Andreas Stavropoulos: I remember how exciting the Google IPO was, and how it ushered in a reopening of a market that had been very pessimistic about tech in the early 2000s — how it was an enabling event that brought in a whole new generation of entrepreneurs. The same thing is happening now. With every subsequent wave of paradigm shifts, the scale changes by orders of magnitude, and that’s to be expected. What business today in the information age is not a technology business? Ben Blume: These are phenomenal companies, and with each one of these scale liquidity events, they generate wealth and returns that go back into the next generation of companies. Niko Bonatsos: My co-founder at Verdict was the first-ever investor in what is now known as Cursor. So if Elon feels like he’s [having] a good moment, maybe Cursor [which Musk revealed recently that he has the option to acquire for $60 billion] will have some good news too. But more broadly, for the next next generation of companies, as Andreas mentioned, they could be going after much larger markets, and immigrant founders, as we know, they’re the ones who dream really big, they have nothing to lose, and they can go the distance, and Elon Musk is an immigrant founder himself. So, for those of us who come from Greece or other smaller markets, wow, you know, that’s a great example. Some have suggested SpaceX at that valuation could soak up so much public market capital that it hurts companies going out in its wake. Is that a real concern? Stavropoulos: You can choose to see most things as optimistic or pessimistic and make very good arguments for both. Something like a SpaceX, macro-wise, is going to end up bringing more people into the market than the short-term impact of soaking up some liquidity. Consumer involvement in markets in the last 30 years has gone from something that wasn’t really a thing to something people trade on their phones every day. Those numbers add up. Blume: SpaceX is such a one-of-one company. For a long time, space has been a government and public sector domain. To give investors real financial access to it — I think that’s going to capture a widespread imagination. It may mentally draw from longer-tail allocations that might otherwise have gone into the next 20 or 30 software businesses, but I think the interest it generates more than compensates. Is the current flood of capital into AI justified by future earnings, or is this a case of extreme FOMO? Bonatsos: If you’re an AI-native founder or a company in the American dynamism space right now, you can live life in the fast lane. If you’re not in one of those two buckets, it’s really tough. In 17 years in Silicon Valley, I’ve never seen more groupthink. Three quarters of all venture capital raised over the last year went into five companies. Today, if you’re a 40-year-old tenured professor at Stanford not building something in AI, no one wants to meet you. That said, something real is changing. Two founders with today’s AI tools can make more progress in two months with one round of funding than they could a year ago with ten people, two rounds, and a full year of work. This is changing how companies get started and how they’ll capitalize themselves — potentially going straight from pre-seed to Series B. Stavropoulos: There will be a correction that pushes some capital back out of the market. The promise and the optimism is still significantly ahead of the short- to medium-term ability to show results. But on a long-term, macro scale, I don’t think we’re being over-optimistic. The problem is that shouldn’t be mistaken for thinking every 19-year-old with an idea is the next big thing.",
-          "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/SVC-Athens-2.jpg?w=800",
-          "published_at": "2026-05-30T14:49:27Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/SVC-Athens-2.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -3995,33 +3995,9 @@
       "source_kind": "story",
       "live_section": false,
       "status": "ok",
-      "article_count": 4,
+      "article_count": 2,
       "priority_split": 0,
       "articles": [
-        {
-          "id": "79696bc8626e",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "ChatGPT’s ‘Canvas’ interface makes it easier to write and code",
-          "summary": "OpenAI has launched a new “Canvas” interface for ChatGPT that allows users to adjust sections of text or code generated by the chatbot without a full rewrite.",
-          "body_text": "OpenAI has launched a new “Canvas” interface for ChatGPT that allows users to adjust sections of text or code generated by the chatbot in a side-by-side collaboration. Canvas opens a separate editing window next to the existing ChatGPT chat box, which can be used to manually change text or code or highlight specific sections to better target editing suggestions and feedback from ChatGPT. “With canvas, ChatGPT can better understand the context of what you’re trying to accomplish,” OpenAI said in its announcement. “Making AI more useful and accessible requires rethinking how we interact with it. Canvas is a new approach and the first major update to ChatGPT’s visual interface since we launched two years ago.” [Media: https://x.com/OpenAI/status/1841887709566271896] ChatGPT Canvas provides users with a menu of shortcuts for suggesting inline edits, quickly checking grammar and clarity, and adjusting the length and reading level of text. Some coding-specific shortcuts are also available for debugging, adding logs and comments, and translating code into other languages. It’s a similar concept to the “Artifacts” feature that rival AI developer Anthropic rolled out for Claude in August. Prior to this, ChatGPT users would typically need to repeatedly input new prompts to refine what the chatbot spat out. Canvas sounds a lot less tedious and gives users some additional control. It provides a back button that can restore previous versions of work, and OpenAI says it’s optimizing when Canvas will automatically activate — such as making it less likely to trigger for coding tasks to avoid disruptive power users. The Canvas interface is currently in beta and can be accessed by selecting “GPT-4o with canvas” under ChatGPT’s model picker drop-down menu. It’s rolling out globally to ChatGPT Plus and Teams users, with access being expanded to Enterprise and Edu users next week. When it’s out of beta, Canvas will be available for ChatGPT’s free users and automatically open “when ChatGPT detects a scenario in which it could be helpful,” according to OpenAI.",
-          "url": "https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25657766/ChatGPT_canvas_editing_interface.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2024-10-04T11:05:03Z",
-          "embed_url": "https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
         {
           "id": "3956bcd308ae",
           "source_id": "theverge-latest",
@@ -4044,7 +4020,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 0
         },
         {
           "id": "d47987c941e3",
@@ -4068,31 +4044,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "b8c37b7b0329",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface\\\"\\u003eedit",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface\\\"\\u003eedit",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface\\\"\\u003eedit",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 3
+          "sort_order": 1
         }
       ]
     },
@@ -4266,6 +4218,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "78da6fe2c9e6",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Flera skadade i våldsbrott",
+          "summary": "Flera personer har skadats i ett misstänkt våldsbrott utanför Kungälv. En person har gripits.",
+          "body_text": "Två personer har skadats efter ett mordförsök i Kungälv. En man har gripits misstänkt för brottet. – De är bekanta med varandra. Så vitt vi kan se är detta en helt isolerad händelse, säger Johan Jung på polisen i Väst. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Klockan 21.26 ringde grannar om ett misstänkt dåd i ett hus i Kungälvs kommun. Polisen åkte ut på larm om pågående dödligt våld. Två timmar senare uppger polisen att det rör sig om två mordförsök och ett barnfridsbrott. – En man och en kvinna är skadade och förda till sjukhus. Deras skadeläge är oklart, säger Johan Jung, vakthavande befäl på polisen i Väst. Den misstänkta gärningspersonen, en man, gick till attack med någon form av tillhygge. Han greps i närområdet under lugna förhållanden och misstänks nu för mordförsök. Ett barn var på platsen under tiden för dådet och därav har en anmälan om barnfridsbrott också upprättats. Mannen och de två skadade personerna känner varandra. Vad för typ av relation de har är i nuläget oklart. Under söndagskvällen var det ett enormt blåljuspådrag med många enheter från såväl polis och ambulans på plats i Kungälv. Även räddningstjänsten bistod med resurser för att hjälpa till att ta hand om skadade. En person som blev vittne till det stora pådraget berättar: – Jag var på väg hem och skulle svänga in på en väg som vi alltid kör. Då kom tre polisbilar med blåljus i hög hastighet. De svängde in på en liten väg och gick ut snabbt. Det låg en kille på marken. Jag vet inte om de var någon de tagit om för att han var stökig, eller så. Det gick så fort. Något senare såg vittnet mer av insatsen.",
+          "url": "https://www.expressen.se/nyheter/sverige/flera-skadade-i-valdsbrott/",
+          "image_url": "https://static.bonniernews.se/images/f3/db/f3db1cb29ae94e14a3b2b05c571075fd/16x9/original.png",
+          "published_at": "2026-05-31T20:58:18Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/flera-skadade-i-valdsbrott/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "820d2db11537",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4275,7 +4251,7 @@
           "source_kind": "story",
           "title": "Svantessons pik mot Åkesson: Ingen SD:are skulle göra att bättre jobb än jag",
           "summary": "Sverigedeokraterna kräver flera ministerposter vid en valvinst i höst. Jimmie Åkesson har också sagt att Moderaterna inte ska räkna med att få finansministerposten igen. Men Elisabeth Svantesson tror inte att någon SD-politiker skulle göra ett bättre jobb än hon.",
-          "body_text": "Sverigedeokraterna kräver flera ministerposter vid en valvinst i höst. Jimmie Åkesson har också sagt att Moderaterna inte ska räkna med att få finansministerposten igen. Men Elisabeth Svantesson tror inte att någon SD-politiker skulle göra ett bättre jobb än hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Sverigedemokraternas partiledare Jimmie Åkesson räknar med att partiet får ett stort sakpolitiskt inflytande och flera viktiga ministerposter om Tidöpartierna vinner valet i höst. När han nyligen medverkade i Ekots lördagsintervju pekades fem ministerposter ut som särskilt tunga: finansministern, utrikesministern, justitieministern och försvarsministern. – Jag skulle betrakta det som fem poster som är väldigt tunga, inklusive statsministerposten. Om vi är största parti borde vi ju rent proportionerligt ha tre av dem, sa Åkesson. Moderaterna ska inte ta finansministerposten för given, sa Åkesson nyligen till Dagens industri . Enligt Åkesson är M och SD bara överens om att Ulf Kristersson får bli statsminister och att SD får ansvar för migrations- och integrationsfrågorna. Sveriges nuvarande finansminister Elisabeth Svantesson kommenterar Åkessons utspel i en intervju med Svenska Dagbladet. Hon säger att samarbetet med SD ”har gått bättre än vad jag trodde” eftersom man ”hållit fokus” på löftena till väljarna, och att hon ser ”sverigedemokrater som är ansvarstagande och dugliga”. Men angående Åkessons utspel om finansministerposten säger hon: – Han är ju ledare för ett stort parti. Men det finns ingen, vad jag kan se, i Sverigedemokraterna som kan göra mitt jobb bättre än vad jag gör. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "Sverigedeokraterna kräver flera ministerposter vid en valvinst i höst. Jimmie Åkesson har också sagt att Moderaterna inte ska räkna med att få finansministerposten igen. Men Elisabeth Svantesson tror inte att någon SD-politiker skulle göra ett bättre jobb än hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Sverigedemokraternas partiledare Jimmie Åkesson räknar med att partiet får ett stort sakpolitiskt inflytande och flera viktiga ministerposter om Tidöpartierna vinner valet i höst. När han nyligen medverkade i Ekots lördagsintervju pekades fem ministerposter ut som särskilt tunga: finansministern, utrikesministern, justitieministern och försvarsministern. – Jag skulle betrakta det som fem poster som är väldigt tunga, inklusive statsministerposten. Om vi är största parti borde vi ju rent proportionerligt ha tre av dem, sa Åkesson. Moderaterna ska inte ta finansministerposten för given, sa Åkesson nyligen till Dagens industri . Enligt Åkesson är M och SD bara överens om att Ulf Kristersson får bli statsminister och att SD får ansvar för migrations- och integrationsfrågorna. Sveriges nuvarande finansminister Elisabeth Svantesson kommenterar Åkessons utspel i en intervju med Svenska Dagbladet. Hon säger att samarbetet med SD ”har gått bättre än vad jag trodde” eftersom man ”hållit fokus” på löftena till väljarna, och att hon ser ”sverigedemokrater som är ansvarstagande och dugliga”. Men angående Åkessons utspel om finansministerposten säger hon: – Han är ju ledare för ett stort parti. Men det finns ingen, vad jag kan se, i Sverigedemokraterna som kan göra mitt jobb bättre än vad jag gör. Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister.",
           "url": "https://www.expressen.se/nyheter/politik/ministerns-pik-ingen-i-sd-skulle-vara-battre/",
           "image_url": "https://static.bonniernews.se/images/b3/58/b35821cb3fe64029aef04a136d70e734/16x9/original.png",
           "published_at": "2026-05-31T19:55:21Z",
@@ -4287,7 +4263,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "a501f52828aa",
@@ -4311,7 +4287,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "704f8c09f185",
@@ -4335,7 +4311,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "fca4e76e8674",
@@ -4359,7 +4335,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "6b86ba918005",
@@ -4383,7 +4359,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "4510c0777bf0",
@@ -4407,7 +4383,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "f39353093ce1",
@@ -4431,7 +4407,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "97d18f48af57",
@@ -4441,12 +4417,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Smällen mot mamman efter lyxrenoveringen",
-          "summary": "Sonen har dömts för dubbla gängskjutningar. Nu riskerar mamman att bli av med 1,6 miljoner kronor i misstänkta brottsvinster som hon använt till en lyxrenovering. – Alla beräkningar de har gjort är fel, hävdar mamman.",
-          "body_text": "Sonen har dömts för dubbla gängskjutningar. Nu riskerar mamman att bli av med 1,6 miljoner kronor i misstänkta brottsvinster som hon använt till en lyxrenovering. – Alla beräkningar de har gjort är fel, hävdar mamman. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En höstkväll 2024 blev två pojkar beskjutna i Farsta i södra Stockholm. Pojkarna, som inte har någon kriminell koppling, klarade sig oskadda. Kort därpå avlossades skott in i entrén till ett hus där en medlem i det kriminella Farsta-Fagersjö-nätverket är skriven. Utredningen visade att dåden hade beställts av nätverket Peppar och var riktade mot Farsta-Fagersjö. Skjutningen mot pojkarna antogs ha berott på att gärningsmännen tog fel på person. I höstas dömdes de båda utförarna för mordförsök på pojkarna och grovt olaga hot mot gängmannen. En 23-årig man, som även dömdes för ett annat mordförsök, fick 16 års fängelse. En pojke som var 16 år vid gärningstillfället dömdes till två och ett halvt års sluten ungdomsvård. En kvinna riskerar att behöva betala 1,6 miljoner kronor till staten sedan en åklagare väckt talan om självständigt förverkande. Åklagaren anser att kvinnan finansierat en miljonrenovering av sin bostad med misstänkta brottsvinster. Kvinnan menar att hela utredningen är felaktig och att hon kan förklara varifrån alla pengar kommer. Kvinnans son dömdes förra året för mordförsök och grovt olaga hot efter att ha utfört två skjutningar i gängmiljö. Medan 16-åringen satt häktad fattade polisen misstankar om att hans mamma finansierat en lyxrenovering av sitt kedjehus med brottsvinster.",
+          "title": "Sverige Idag 16.52 Smällen mot mamman – efter lyxrenoveringen",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/smallen-mot-mamman-efter-lyxrenoveringen/",
-          "image_url": "https://static.bonniernews.se/images/72/ae/72aebf6d2f2c44a3ab49a61d4faf1b0a/16x9/original.jpg",
-          "published_at": "2026-05-31T14:52:08Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/smallen-mot-mamman-efter-lyxrenoveringen/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4454,8 +4430,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "21be28e4cca3",
@@ -4472,30 +4448,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/skandal-vdns-beslut-efter-ryktena-sparkar-hela-avdelningen-bortskamda/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "bed94d343fde",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sverige Idag 15.09 Kaos i Stockholms lokaltrafik",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/kaos-i-stockholms-lokaltrafik/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/kaos-i-stockholms-lokaltrafik/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
