@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T18:18:35Z",
+  "generated_at": "2026-05-31T19:44:35Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Vill minska antalet från 300 000 till bara några tusen • Jägareförbundet: ”Tagna på sängen” Så många miljoner ska lottas ut i Sommaryran Läkare utan gränser: ”Så här snabbt brukar utvecklingen inte gå” Över 600 smittade: ”Man måste vara väldigt snabb och agera” Krig, kris och ebola – barnen drabbas värst",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Misstanken: Köpte nyårsmat med hans pengar • Lurade till sig miljonbelopp 20 har blivit sju • ”Jag kommer att tuppa av” Så många miljoner ska lottas ut i Sommaryran",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -311,7 +311,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 9,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -340,7 +340,7 @@
           "sort_order": 0
         },
         {
-          "id": "18d584cee8fe",
+          "id": "fe2563a48bdb",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
@@ -349,11 +349,11 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 21:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
-          "url": "https://www.svtplay.se/video/eb335A6/rapport/ikvall-21-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 29 maj 22:30 4 min 32 sek Publicerades: Fre 29 maj 09:30 2 min 59 sek Publicerades: Fre 29 maj 08:30 3 min 2 sek Publicerades: Fre 29 maj 07:30 2 min 49 sek",
+          "url": "https://www.svtplay.se/video/eb335A6/rapport/ikvall-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54235117/1780255566?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-31T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/eb335A6/rapport/ikvall-21-00",
+          "embed_url": "https://www.svtplay.se/video/eb335A6/rapport/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -363,6 +363,56 @@
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "48493a3ceb26",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 29 maj 22:30 4 min 32 sek Publicerades: Fre 29 maj 09:30 2 min 59 sek Publicerades: Fre 29 maj 08:30 3 min 2 sek Publicerades: Fre 29 maj 07:30 2 min 49 sek",
+          "url": "https://www.svtplay.se/video/Ky221Qr/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54233821/1780236861?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-31T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/Ky221Qr/rapport/idag-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "c938f1937f20",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 22:50",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 29 maj 22:30 4 min 32 sek Publicerades: Fre 29 maj 09:30 2 min 59 sek Publicerades: Fre 29 maj 08:30 3 min 2 sek Publicerades: Fre 29 maj 07:30 2 min 49 sek",
+          "url": "https://www.svtplay.se/video/eXvvLav/rapport/igar-22-50?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54233665/1780175611?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-30T22:50:00Z",
+          "embed_url": "https://www.svtplay.se/video/eXvvLav/rapport/igar-22-50?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "1f7e2303b4e1",
@@ -387,7 +437,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "c080e0068afa",
@@ -412,7 +462,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "c81555e1fd36",
@@ -437,7 +487,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "80d431e6c7f5",
@@ -462,7 +512,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "ddad82b68b47",
@@ -487,7 +537,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "661d6bd740ba",
@@ -512,7 +562,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "2725655e20dc",
@@ -537,7 +587,32 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 10
+        },
+        {
+          "id": "c329c6e7c90f",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 29 maj 22:30 4 min 32 sek Publicerades: Fre 29 maj 09:30 2 min 59 sek Publicerades: Fre 29 maj 08:30 3 min 2 sek Publicerades: Fre 29 maj 07:30 2 min 49 sek",
+          "url": "https://www.svtplay.se/video/jz773MY/rapport/igar-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54233644/1780163846?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-05-30T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jz773MY/rapport/igar-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 11
         }
       ]
     },
@@ -1700,20 +1775,20 @@
           "sort_order": 0
         },
         {
-          "id": "7292d50f2e84",
+          "id": "61e06a4e0c09",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Jonathan Bush discusses possible Trump endorsement in Maine governor race | Fox News Video",
-          "summary": "Maine gubernatorial candidate Jonathan Bush discusses a possible Donald Trump endorsement in the race.",
-          "body_text": "Maine gubernatorial candidate Jonathan Bush discusses a possible Donald Trump endorsement in the race. Maine Republican gubernatorial candidate Jonathan Bush addresses the importance of President Donald Trump's endorsement in the primary. He positions himself as an outsider businessman and veteran, emphasizing his plan to revitalize Maine's economy through tax cuts and reduced bureaucracy, rather than being a career politician or lobbyist.",
-          "url": "https://www.foxnews.com/video/6397141214112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f00009c1-a704-4c5f-96f9-f0874dabe156/cb9adaf7-4c20-4279-ad99-d8a2c68fbd44/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T16:38:10Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397141214112",
+          "title": "Republicans ‘hold the right cards’ after Paxton’s Texas GOP primary win, panelist says | Fox News Video",
+          "summary": "The ‘Fox News Sunday’ panel discusses the California gubernatorial and mayoral primary races and breaks down the competitive Texas Senate race.",
+          "body_text": "The ‘Fox News Sunday’ panel discusses the California gubernatorial and mayoral primary races and breaks down the competitive Texas Senate race. Shannon Bream moderates a panel dissecting the latest developments in California's mayoral and gubernatorial primaries. Panelists discuss the close LA mayoral race, mayoral candidate Spencer Pratt's campaign strategy, and Karen Bass's challenges. The conversation shifts to the Texas Senate primary, where Ken Paxton's victory sparks GOP money concerns, and the competitive general election.",
+          "url": "https://www.foxnews.com/video/6397150606112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15f2edd1-1f7e-4e20-9c3b-c431e2c759f1/508559f4-d852-40d2-afa6-a9ae647dfa49/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T19:16:31Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397150606112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1725,20 +1800,20 @@
           "sort_order": 1
         },
         {
-          "id": "b85e8f602729",
+          "id": "6edc7bf1a23e",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Jonathan Bush rises in the polls in Maine gubernatorial race | Fox News Video",
-          "summary": "Maine gubernatorial candidate Jonathan Bush joins 'The Sunday Briefing' to share insights on his campaign. He speaks on the importance of President Donald Trump's endorsement and criticizes Senate candidate Graham Platner.",
-          "body_text": "Maine gubernatorial candidate Jonathan Bush joins 'The Sunday Briefing' to share insights on his campaign. He speaks on the importance of President Donald Trump's endorsement and criticizes Senate candidate Graham Platner.",
-          "url": "https://www.foxnews.com/video/6397142466112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b724952c-05e5-4701-b994-3bea311578a9/894fb4f1-403e-4a41-853a-bd9c7dbc8090/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T16:34:22Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397142466112",
+          "title": "Former Bush official warns Democrats trying to turn anti-ICE protests into an ‘advantage’ | Fox News Video",
+          "summary": "The ‘Fox News Sunday’ panel discusses the anti-ICE protests outside a New Jersey detention facility and the potential impact on the midterm elections.",
+          "body_text": "The ‘Fox News Sunday’ panel discusses the anti-ICE protests outside a New Jersey detention facility and the potential impact on the midterm elections. Anti-ICE protests in Newark, New Jersey, turn violent with masked agitators attacking barriers and making death threats against law enforcement. 'Fox News Sunday' host Shannon Bream leads a panel to analyze the escalating situation. Discussants evaluate the administration's immigration policies and the increasing polarization surrounding detention facilities. They explore the political fallout for Democratic officials.",
+          "url": "https://www.foxnews.com/video/6397152052112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56e9d542-747b-49fa-96f2-2283f98227b0/42a20112-320d-4427-b490-68cccf650837/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T19:15:03Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397152052112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1750,20 +1825,20 @@
           "sort_order": 2
         },
         {
-          "id": "e43ed79b8e6b",
+          "id": "68232a8e31b4",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Dan Hoffman weighs in on 'horrific' ex-CIA official gold bar scandal | Fox News Video",
-          "summary": "Former CIA station chief and Fox News contributor Dan Hoffman discusses the case of a former CIA senior officer accused of secretly stashing $40 million in gold bars, cash and 35 luxury watches.",
-          "body_text": "Former CIA station chief and Fox News contributor Dan Hoffman discusses the case of a former CIA senior officer accused of secretly stashing $40 million in gold bars, cash and 35 luxury watches.",
-          "url": "https://www.foxnews.com/video/6397142762112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f74afa5a-9fb4-4398-91b3-bd2eda26b6e7/d9e9f997-92f1-4e86-9ee8-25e6d6610bb6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T16:32:43Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397142762112",
+          "title": "Karen Bass calls Spencer Pratt a 'villain' as he gains traction in Los Angeles mayoral race | Fox News Video",
+          "summary": "Fox News correspondent Matt Finn details the competitive Los Angeles mayoral race featuring Karen Bass and Spencer Pratt. He also previews California's gubernatorial primary rules.",
+          "body_text": "Fox News correspondent Matt Finn details the competitive Los Angeles mayoral race featuring Karen Bass and Spencer Pratt. He also previews California's gubernatorial primary rules.",
+          "url": "https://www.foxnews.com/video/6397152281112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb5c610d-f32a-4c07-a6eb-eea4887cdc7e/768c78e8-e173-4323-93ac-d7c55b7badc9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T19:14:27Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397152281112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1775,20 +1850,20 @@
           "sort_order": 3
         },
         {
-          "id": "b1195333f9ae",
+          "id": "96375f83343c",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "DeSantis proposes major property tax cuts, criticizes Mamdani housing plan | Fox News Video",
-          "summary": "Florida Gov. Ron DeSantis discusses his proposal to cut property taxes, weighs in on New York City Mayor Zohran Mamdani’s housing plan and more on ‘Sunday Morning Futures.’",
-          "body_text": "Florida Gov. Ron DeSantis discusses his proposal to cut property taxes, weighs in on New York City Mayor Zohran Mamdani’s housing plan and more on ‘Sunday Morning Futures.’ Maria Bartiromo exposes the stark contrast between NYC Mayor Zohran Mamdani's socialist housing plan and Florida Governor Ron DeSantis's property tax cuts. Mamdani proposes seizing neglected properties to transfer ownership, while DeSantis outlines a plan to raise homestead exemptions to $250,000, effectively eliminating property taxes for 60% of Florida homeowners. DeSantis highlights Florida's fiscal responsibility and spending reductions against New York's budgetary challenges.",
-          "url": "https://www.foxnews.com/video/6397140646112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e3c979-6d8b-4a38-ba42-1b3f2225f378/373d379a-85bd-48c1-96c4-f8e331a80c5d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T16:05:32Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397140646112",
+          "title": "Hinson slams Iowa Dem Senate hopefuls for prioritizing 'illegals over Americans' | Fox News Video",
+          "summary": "FOX Business' Grady Trimble reports on the shifting political landscape surrounding Iowa's high-stakes U.S. Senate primary to replace retiring Sen. Joni Ernst.",
+          "body_text": "FOX Business' Grady Trimble reports on the shifting political landscape surrounding Iowa's high-stakes U.S. Senate primary to replace retiring Sen. Joni Ernst.",
+          "url": "https://www.foxnews.com/video/6397151974112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4efacf19-a022-46eb-abc8-a38980277356/0af721ff-7f43-4e4b-8f59-efcc6cfa5302/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T19:13:58Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397151974112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1800,20 +1875,20 @@
           "sort_order": 4
         },
         {
-          "id": "e4ac7fa0f2e9",
+          "id": "a7e9d1b01de8",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Darrell Issa on Trump's Iran peace framework and US missile inventory | Fox News Video",
-          "summary": "Rep. Darrell Issa, D-Calif., joins 'The Sunday Briefing' to discuss revised Iran peace framework, seeking tougher terms. They analyze Iran's financial demands and the state of the U.S. missile inventory.",
-          "body_text": "Rep. Darrell Issa, D-Calif., joins 'The Sunday Briefing' to discuss revised Iran peace framework, seeking tougher terms. They analyze Iran's financial demands and the state of the U.S. missile inventory. Rep. Darrell Issa, D-Calif. discusses President Donald Trump's tougher stance on a revised Iran peace framework, focusing on preventing weaponization of funds. He addresses the significant challenges in rebuilding the U.S. missile inventory and adapting to new warfare tactics demonstrated in Ukraine. Issa also comments on the political implications of President Donald Trump's plan to transfer the Kennedy Center.",
-          "url": "https://www.foxnews.com/video/6397138895112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a3e40805-9932-4416-82d7-1b66aadcfa8f/f5a15c6f-b798-42d1-a02e-70c8b850f021/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T15:54:27Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397138895112",
+          "title": "Steak ’n Shake adopts grass-fed beef, removes seed oils in MAHA push | Fox News Video",
+          "summary": "Steak ’n Shake Chief MAHA Officer Michael Boes discusses the chain’s menu overhaul, including a shift to grass-fed beef and the removal of seed oils on ‘Fox News Live.’",
+          "body_text": "Steak ’n Shake Chief MAHA Officer Michael Boes discusses the chain’s menu overhaul, including a shift to grass-fed beef and the removal of seed oils on ‘Fox News Live.’ Fast-food chain Steak 'n Shake reveals a major menu shift, introducing grass-fed beef and eliminating seed oils from items like fries, tots, and chicken tenders, effective in June.",
+          "url": "https://www.foxnews.com/video/6397148926112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dca34b21-3c82-4353-b454-5b068c08789a/9fa9708c-a28d-49b4-bbf8-e6f09917a8b9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T18:39:22Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397148926112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1821,24 +1896,24 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 5
         },
         {
-          "id": "5a62cb8bff1f",
+          "id": "628648811a0c",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Former Jill Biden spokesperson says memoir aims to 'change the tape' | Fox News Video",
-          "summary": "Former Jill Biden chief spokesperson Michael LaRosa discusses why the former first lady's new memoir is released now amid fallout from her comments on the 2024 presidential debate.",
-          "body_text": "Former Jill Biden chief spokesperson Michael LaRosa discusses why the former first lady's new memoir is released now amid fallout from her comments on the 2024 presidential debate. Michael LaRosa, former chief spokesperson to Jill Biden, analyzes the timing of the former first lady's new memoir. LaRosa explains that Jill Biden is attempting to 'change the tape' in people's minds regarding the White House's past actions and her own reaction to Biden's debate performance.",
-          "url": "https://www.foxnews.com/video/6397140258112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36c72245-8b0b-46b2-b4d2-a186c8f85a78/35c6cc3a-96ad-4cac-aefc-889fdb34c24b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T15:53:25Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397140258112",
+          "title": "Dr. Nazee Moinian: Iran is a 'mafia state' under 'extreme pressure' | Fox News Video",
+          "summary": "Dr. Nazee Moinian, born and raised in Tehran, argues Iran is under 'extreme pressure' from U.S. sanctions and is essentially a 'mafia state' during 'Fox & Friends Weekend.'",
+          "body_text": "Dr. Nazee Moinian, born and raised in Tehran, argues Iran is under 'extreme pressure' from U.S. sanctions and is essentially a 'mafia state' during 'Fox & Friends Weekend.' Dr. Nazee Moinian, a Middle East Institute associate fellow born in Tehran, asserts Iran's regime operates as a 'mafia state' under 'extreme pressure' from the United States. She emphasizes the U.S. holds immense leverage, urging for a robust 'ironclad' deal rather than a diluted agreement. Moinian highlights Iran's dire economic state and calls for patience in negotiations.",
+          "url": "https://www.foxnews.com/video/6397146804112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffcf842b-35a3-43e2-b499-57014b3750af/d81284d0-ba23-43a6-a963-e6a2b9bf4b84/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T17:48:26Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397146804112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1850,20 +1925,20 @@
           "sort_order": 6
         },
         {
-          "id": "820fabf53ab8",
+          "id": "a3793dafebd3",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Texas AG Ken Paxton on primary victory, Trump agenda and border security | Fox News Video",
-          "summary": "Texas Attorney General Ken Paxton joins 'Sunday Morning Futures' to discuss his primary victory as the Republican Senate candidate for Texas. He emphasizes the importance of supporting President Donald Trump's agenda and criticizes his opponent.",
-          "body_text": "Texas Attorney General Ken Paxton joins 'Sunday Morning Futures' to discuss his primary victory as the Republican Senate candidate for Texas. He emphasizes the importance of supporting President Donald Trump's agenda and criticizes his opponent. Texas Attorney General Ken Paxton joins 'Sunday Morning Futures' to discuss his primary victory as the Republican Senate candidate for Texas. He emphasizes the importance of supporting President Donald Trump's agenda and criticizes his opponent, James Talarico.",
-          "url": "https://www.foxnews.com/video/6397138078112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bb18c62-815d-40ed-bed7-4b0bd23dbedc/110b866f-6a2c-4bb2-98f5-bd23ae7462c6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T15:41:23Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397138078112",
+          "title": "NYC Mayor Mamdani skips Israel Day Parade breaking 60-year tradition | Fox News Video",
+          "summary": "Fox News correspondent CB Cotton reports on New York City Mayor Zohran Mamdani skipping the Israel Day Parade, marking the first time in more than 60 years that a New York City mayor has missed the event.",
+          "body_text": "Fox News correspondent CB Cotton reports on New York City Mayor Zohran Mamdani skipping the Israel Day Parade, marking the first time in more than 60 years that a New York City mayor has missed the event.",
+          "url": "https://www.foxnews.com/video/6397144643112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2d6512f-105f-4ae4-b5d0-5296334107c4/0e7be03a-b496-452a-b170-4fa4372a755a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T17:42:02Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397144643112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1871,24 +1946,24 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 7
         },
         {
-          "id": "eb6042b450fe",
+          "id": "410d0c8fdb9f",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Trump hardens position on Iran talks reach pivotal stage | Fox News Video",
-          "summary": "Fox News' Alex Hogan reports on threats targeting ICE agents, the economic impact of the war in Iran and more on 'Fox News Sunday.'",
-          "body_text": "Fox News' Alex Hogan reports on threats targeting ICE agents, the economic impact of the war in Iran and more on 'Fox News Sunday.'",
-          "url": "https://www.foxnews.com/video/6397136969112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cd5b940-baac-442a-ad39-68eb85c3b824/558a5721-edbc-4d9e-87a4-051e560b0c03/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T15:17:02Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397136969112",
+          "title": "Peter Doocy reveals wife is pregnant with third baby | Fox News Video",
+          "summary": "Peter Doocy shared that his wife is pregnant and the couple is preparing to welcome their third baby.",
+          "body_text": "Peter Doocy shared that his wife is pregnant and the couple is preparing to welcome their third baby.",
+          "url": "https://www.foxnews.com/video/6397142636112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1aef67d-c0cf-48b1-8bd2-0ce06ba9865d/846927ca-249a-43e3-862c-9835ffd627c5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T17:38:45Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397142636112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1900,20 +1975,20 @@
           "sort_order": 8
         },
         {
-          "id": "83a2be199c50",
+          "id": "c7253a90c471",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Secretary Bessent on Trump's Iran policy, economy, trade | Fox News Video",
-          "summary": "Treasury Secretary Scott Bessent discusses President Donald Trump's Iran policy, the U.S. economy, inflation, tariffs and more on 'Sunday Morning Futures.'",
-          "body_text": "Treasury Secretary Scott Bessent discusses President Donald Trump's Iran policy, the U.S. economy, inflation, tariffs and more on 'Sunday Morning Futures.' Treasury Secretary Scott Bessent offers an exclusive update on President Donald Trump's Iran strategy, highlighting economic fury and the fragile ceasefire. He also explains the U.S. economy's resilience, the upcoming end of global tariffs and the new Trump Accounts app. Bessent addresses Senate GOP infighting over Trump’s agenda and calls for fiscal contraction.",
-          "url": "https://www.foxnews.com/video/6397139116112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aaf8049-afd2-4e00-8c1c-dc2d544cb1e1/da694424-e98f-4ad1-9472-5bb64b2fef0f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T15:15:20Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397139116112",
+          "title": "Former ICE official slams 'cynical' tactics of rioters amid violent clashes | Fox News Video",
+          "summary": "Former Acting ICE Director Jonathan Fahey criticizes the anti-ICE riots in New Jersey as politically motivated and well-organized, blaming state leadership for allowing the situation to escalate.",
+          "body_text": "Former Acting ICE Director Jonathan Fahey criticizes the anti-ICE riots in New Jersey as politically motivated and well-organized, blaming state leadership for allowing the situation to escalate.",
+          "url": "https://www.foxnews.com/video/6397144115112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd35484e-66a3-40ac-91e8-fc32bd92a7b3/adc346f3-81ae-4e5b-aa50-856e1b1bc1d7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T17:15:52Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397144115112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1925,20 +2000,20 @@
           "sort_order": 9
         },
         {
-          "id": "a574cc5d0927",
+          "id": "ca5d0e4e0ce0",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Florida Gov DeSantis addresses wealth migration to Florida, points to 'destructive policies' elsewhere | Fox News Video",
-          "summary": "Florida Gov. Ron DeSantis discusses the massive influx of high-earners, companies and tech founders moving to Florida during 'Sunday Morning Futures.'",
-          "body_text": "Florida Gov. Ron DeSantis discusses the massive influx of high-earners, companies and tech founders moving to Florida during 'Sunday Morning Futures.' Florida Governor Ron DeSantis details how Florida has become a magnet for wealth, companies and tech founders. He highlights the state's attractive policies, such as no income tax, in stark contrast to 'leftist politicians' in states like California, whose 'destructive policies' and proposed wealth tax are driving people to Florida.",
-          "url": "https://www.foxnews.com/video/6397138129112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fab409e6-cedb-4978-83cd-0c02bbfe699d/efe52ca6-c7c4-4f42-a640-59b784a94786/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-05-31T15:13:20Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397138129112",
+          "title": "Rebecca Grant: Trump is 'squeezing Iran like a vice' to force nuclear compliance | Fox News Video",
+          "summary": "Dr. Rebecca Grant, a national security analyst, discusses President Donald Trump's strategy for dealing with Iran, highlighting his review of military targets and the U.S. military's readiness.",
+          "body_text": "Dr. Rebecca Grant, a national security analyst, discusses President Donald Trump's strategy for dealing with Iran, highlighting his review of military targets and the U.S. military's readiness. Dr. Rebecca Grant, senior fellow at the Lexington Institute, explains how President Donald Trump is applying immense pressure on Iran to negotiate a deal. She notes Trump reviewed military targets in the Situation Room, confirming U.S. readiness for strikes with aircraft carriers and land-based air. Grant emphasizes Trump's resolve to prevent Iran from acquiring nuclear weapons or enriching uranium, despite historical Iranian resistance to inspections.",
+          "url": "https://www.foxnews.com/video/6397143372112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f748d4-fac0-4c76-bb8c-c4346fa36e49/47ea597c-0fea-410c-8f66-847480045402/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-05-31T16:59:21Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397143372112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2092,6 +2167,54 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "83e0db428a79",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Dead whale towed ashore in Denmark ahead of autopsy",
+          "summary": "\"Timmy\" was found dead off the coast of Anholt despite multiple attempts to rescue it.",
+          "body_text": "The carcass of a dead humpback whale whose attempted rescue captivated many across Germany has been pulled ashore. Timelapsed footage published by German news site News5 on Saturday showed the whale being towed slowly onto a beach on the Danish island of Anholt by an industrial winch. Denmark's environment agency intends to conduct a post-mortem examination on Thursday. Several attempts were made to get the whale - nicknamed \"Timmy\" and \"Hope\" - back into the North Sea, after it got stuck in the Baltic Sea in March. However, the aquatic mammal was already considered ailing and close to death when a final, last-ditch attempt was made earlier in May. The whale, originally about 12-15m (40-50ft) in length, has gained in size because of a build-up of gas as the carcass decomposes, and there is concern it could explode - as washed-up whale carcasses have been known to do. Morten Abildstrøm, a Danish Environmental Agency official on the island of Anholt, told daily newspaper Jyllands Posten that the whale would be cut into pieces after veterinarians and researchers had travelled there to take samples. Those pieces will then be taken elsewhere to be destroyed, he said. The whale was discovered off Anholt's shoreline earlier in May, two weeks after a private mission to save the humpback from being stranded on Germany's Baltic Sea coast ended in failure. German authorities had given the go-ahead for that attempt despite viewing it as a long shot, as the whale was already severely weakened from its ordeal, having acquired damage to its skin from the lower salt content of the Baltic Sea. The mission used inflatable cushions to pull it to the surface before dragging it back to the North Sea on a floating platform. Exactly how the whale ended up on an island off Denmark's East Jutland coast remains unclear. The barge that carried the mammal away from Germany released it into the sea about 70km (45 miles) from the northern tip of Denmark. The urgency in disposing of the body was because the whale was now sitting on a popular beach, according to Abildstrøm.",
+          "url": "https://www.bbc.com/news/articles/cpwpl9vn0yqo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4bbf/live/6a7d9360-5d1f-11f1-89a3-d1f559421220.jpg",
+          "published_at": "2026-05-31T19:05:42Z",
+          "embed_url": "https://www.bbc.com/news/articles/cpwpl9vn0yqo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "1bc106b286bc",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Ebola: Brazil monitors two patients for possible infection",
+          "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
+          "body_text": "Health authorities in Brazil are monitoring two patients for possible Ebola infection in the country's two biggest cities, São Paulo and Rio de Janeiro. A man, 37, from the Democratic Republic of the Congo (DR Congo) \"exhibited symptoms such as fever\", São Paulo's state government said. In Rio state, the health department said it had activated safety protocols after a Belgian man who arrived from Uganda showed \"viral symptoms such as cough, chills and diarrhoea\". The test results for both patients should become available next week. If confirmed, they would be the first infection cases outside Africa since the outbreak began in DR Congo. There are now more than 1,000 suspected Ebola cases in DR Congo, with at least 246 deaths. Uganda has reported nine confirmed cases and one death. The current outbreak has been caused by a rare strain of Ebola known as Bundibugyo, which has no proven vaccine and kills about a third of those infected. While the two patients in Brazil are still being monitored for Ebola, they have already both been diagnosed with other conditions: in São Paulo, the man from DR Congo tested positive for meningitis and is in a serious condition, while in Rio, the Belgian patient tested positive for malaria. The respective diagnoses do not rule out the possibility of also having Ebola, officials say. Ebola viruses normally infect animals, typically fruit bats, but outbreaks among humans can sometimes start when people eat or handle infected animals. Ebola spreads through direct contact with the bodily fluids of an infected person, including sweat, saliva, blood, semen, excrement, urine and vomit. On Saturday the medical charity Médecins Sans Frontières (MSF) warned that the rapid spread of the virus had caused an \"alarming situation\" , with an unprecedented number of cases recorded so soon into the outbreak.",
+          "url": "https://www.bbc.com/news/articles/cy72z48zd7po",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f8b0/live/26bcd810-5d16-11f1-8b93-bf943d3c7bfa.jpg",
+          "published_at": "2026-05-31T18:18:13Z",
+          "embed_url": "https://www.bbc.com/news/articles/cy72z48zd7po",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "da8ff6011385",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2113,7 +2236,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "27d74753fd59",
@@ -2137,7 +2260,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "c575d0181490",
@@ -2161,7 +2284,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "1bfe3e587c62",
@@ -2185,7 +2308,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "fcf1da6fe7d1",
@@ -2209,7 +2332,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "43c5863885da",
@@ -2233,7 +2356,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "ec451e594098",
@@ -2257,7 +2380,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "1b431f1ee74d",
@@ -2281,7 +2404,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "92e19de552d5",
@@ -2305,7 +2428,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 10
         },
         {
           "id": "265f18ff0181",
@@ -2329,7 +2452,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 9
+          "sort_order": 11
         },
         {
           "id": "417f529b10e4",
@@ -2353,7 +2476,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 10
+          "sort_order": 12
         },
         {
           "id": "106eb4762f60",
@@ -2377,54 +2500,6 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 11
-        },
-        {
-          "id": "89be88d0c2af",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-          "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
-          "body_text": "The rapid spread of Ebola in the Democratic Republic of Congo has created a \"deeply alarming\" situation, the medical charity Médecins Sans Frontières (MSF) has warned. Speaking two weeks on from the outbreak being declared by the World Health Organization (WHO), MSF deputy director Dr Alan Gonzales said never before had \"so many cases\" been recorded so soon. His comments came as WHO head Dr Tedros Adhanom Ghebreyesus, visited the eastern Congolese province of Ituri - the worst-hit area - to oversee virus containment efforts. There are now more than 1,000 suspected Ebola cases in the DR Congo, and at least 246 deaths. Neighbouring Uganda has reported nine confirmed cases and one death. \"Two weeks after the declaration of the Ebola disease outbreak in Ituri Province, the situation is deeply alarming,\" Gonzalez said in a statement on Saturday. \"Never before has an Ebola outbreak recorded so many cases so soon after its declaration,\" he said, stressing his teams on the ground were \"witnessing a response that has not yet caught up to the rapid spread of the epidemic\". \"The reality today is that nobody knows the true scale and severity of this outbreak. New suspected cases are being reported daily, yet hundreds of samples remain untested.\" Gonzalez added that containment efforts and humanitarian aid deliveries were being delayed by \"major constraints\", including border and airport closures. The WHO has repeatedly warned that ongoing conflict in DR Congo was also significantly hampering the Ebola outbreak response. After arriving in Ituri's provincial capital of Bunia on Saturday, Tedros said he and his team were in DR Congo \"to see how the response is running and if there are challenges to help\". He urged communities in the centre of the outbreak to play a bigger role in fighting the disease, saying they \"understand the problems better and they know the solution as well\". Tedros also said he understood how important it was for people to honour their dead at funerals - but warned that right now this was dangerous.",
-          "url": "https://www.bbc.com/news/articles/c99ldxykz4zo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bc88/live/4ffbbcb0-5c6b-11f1-bb7c-79c4d11ae224.jpg",
-          "published_at": "2026-05-30T16:12:07Z",
-          "embed_url": "https://www.bbc.com/news/articles/c99ldxykz4zo",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
-          "sort_order": 12
-        },
-        {
-          "id": "31343b7c1edd",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Italy bans Kanye West and Travis Scott concerts in Reggio Emilia",
-          "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
-          "body_text": "Italian authorities have barred Kanye West and Travis Scott concerts from going ahead, citing public order and security concerns. Prefect Salvatore Angieri announced on Friday that the two events, due to take place in the northern city of Reggio Emilia in July, would not take place, following a request from the local Jewish community to cancel West's gig. The community's leader Nicoletta Uzzielli had urged local officials to replace the show with a performance that would bring \"music back to the forefront as a universally unifying force\". West has caused outrage for a string of antisemitic, racist and pro-Nazi comments that recently led to him being banned from entering the UK. Now known as Ye, the US rapper had been due to perform alongside Scott and other artists including The Chainsmokers, Rita Ora and Swedish House Mafia. The regional prefecture said in a statement that several factors had weighed on its decision, including the \"cancellation of previous concerts by the American rapper in other countries and the real risk of counter-demonstrations\". It said that the closeness of the two events, scheduled for 17 and 18 July at Reggio Emilia's RFC Arena, and the large crowds they were expected to attract was a further factor in the decision. Scott faced intense scrutiny after 10 people, aged nine to 27, died during his Astroworld festival in Houston, Texas, in 2021. Thousands of others were injured when panic broke out as the over-capacity crowd pressed towards the front of the stage during the US rapper's headline performance. Meanwhile, this summer's Wireless Festival in London was cancelled last month , after West - who had been announced as its headline act - was refused permission to enter the UK amid a backlash over his previous remarks. In 2022, West posted on social media saying he would go \"death con 3 On Jewish people\", and in May last year, he released a song called Heil Hitler and sold T-shirts featuring swastikas. His barring from the UK led to a series of cancellations elsewhere.",
-          "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/50bf/live/654e96a0-5c34-11f1-9597-5f5d9cc81ab3.jpg",
-          "published_at": "2026-05-30T15:39:12Z",
-          "embed_url": "https://www.bbc.com/news/articles/c3d27x5vnnvo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
           "sort_order": 13
         }
       ]
@@ -2537,7 +2612,7 @@
           "body_text": "El próximo domingo 7 de junio, los ciudadanos del Perú acudirán a las urnas para participar en la segunda vuelta de las elecciones generales 2026, una jornada decisiva que permitirá elegir al próximo presidente de la República. Es por ello, la Oficina Nacional de Procesos Electorales (ONPE) recordó a la población la importancia de verificar con anticipación su local y mesa de votación mediante la plataforma oficial del organismo, con el fin de evitar contratiempos durante el proceso electoral. Además, aclaró que, pese a que numerosos ciudadanos actualizaron su dirección en el Registro Nacional de Identificación y Estado Civil (Reniec) en los últimos meses, el padrón electoral vigente fue cerrado antes de la primera vuelta, por lo que algunos electores podrían mantener el mismo lugar de sufragio asignado anteriormente. Por otro lado, la legislación peruana contempla multas económicas para quienes no cumplan con acudir a votar y con diversas restricciones administrativas derivadas del incumplimiento de las obligaciones electorales. La ONPE informó que los ciudadanos deberán acudir al mismo local donde sufragaron durante la primera vuelta realizada el 12 y 13 de abril, ya que no se efectuaron cambios en los centros de votación tras el cierre oficial del padrón electoral en 2025. La medida busca mantener el orden y la transparencia del proceso en medio de la expectativa política generada por la segunda vuelta presidencial. Asimismo, el organismo electoral precisó que la cédula de sufragio para esta etapa será distinta a la utilizada anteriormente, debido a que solo incluirá dos opciones correspondientes a los candidatos que obtuvieron la mayor votación en la primera ronda. Por ello, la boleta tendrá un formato más reducido y con información simplificada. La ONPE también exhortó a la ciudadanía a presentarse con anticipación en sus respectivos locales portando únicamente el Documento Nacional de Identidad (DNI), requisito indispensable para ejercer el derecho al voto. Las personas con discapacidad, adultos mayores y embarazadas contarán con atención preferente y acceso prioritario en los locales de votación. El organismo electoral recomendó a estos grupos acercarse en horarios de menor afluencia para evitar esperas innecesarias. La ONPE recordó que la jornada se desarrollará entre las 07:00 y las 17:00 horas, y solicitó puntualidad a los miembros de mesa, quienes deberán instalar las mesas a las 06:00. La institución advirtió que quienes no asistan el día de la elección deberán asumir las consecuencias legales y económicas estipuladas en la normativa vigente. Para quienes no puedan acudir por razones justificadas, el Jurado Nacional de Elecciones (JNE) mantiene habilitado un procedimiento de dispensa especial, que requiere la presentación de pruebas documentales en los plazos establecidos. Las personas que acumulen multas por no votar o por ausentarse como miembros de mesa no podrán realizar trámites notariales, inscripciones civiles, ni acceder a licencias de conducir o pasaportes. Además, enfrentarán impedimentos para postular a cargos públicos y para acceder a programas sociales del Estado. El JNE puede iniciar procedimientos de cobranza coactiva, con la posibilidad de embargar cuentas bancarias si la deuda persiste. Para evitar estas sanciones, se debe regularizar los pagos a través de la plataforma Págalo.pe, en agencias del Banco de la Nación o directamente en las oficinas del JNE. El organismo electoral aclara que las sanciones administrativas solo se eliminan después de cancelar el monto total adeudado. La multa varía según la clasificación socioeconómica del distrito de residencia. En distritos considerados no pobres, el monto asciende a S/92; para zonas catalogadas como pobres no extremos, la sanción es de S/46; en áreas de pobreza extrema, la penalidad es de S/23. Quienes fueron seleccionados como miembros de mesa y no cumplan esa función enfrentarán una multa adicional de S/230.",
           "url": "https://elcomercio.pe/respuestas/tramites/sabes-donde-votar-consulta-tu-local-de-votacion-via-onpe-para-la-segunda-vuelta-de-elecciones-2026-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/IASRMTODX5CYNA2KOEY2KZ5OUM.jpg?auth=3155d6054fa869ab1b603ed5384af8e856f13982e0d2d5001d8634c7de490756&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-31T17:40:24Z",
+          "published_at": "2026-05-31T19:41:00Z",
           "embed_url": "https://elcomercio.pe/respuestas/tramites/sabes-donde-votar-consulta-tu-local-de-votacion-via-onpe-para-la-segunda-vuelta-de-elecciones-2026-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2814,7 +2889,7 @@
           "body_text": "El próximo domingo 7 de junio, los ciudadanos del Perú acudirán a las urnas para participar en la segunda vuelta de las elecciones generales 2026, una jornada decisiva que permitirá elegir al próximo presidente de la República. Es por ello, la Oficina Nacional de Procesos Electorales (ONPE) recordó a la población la importancia de verificar con anticipación su local y mesa de votación mediante la plataforma oficial del organismo, con el fin de evitar contratiempos durante el proceso electoral. Además, aclaró que, pese a que numerosos ciudadanos actualizaron su dirección en el Registro Nacional de Identificación y Estado Civil (Reniec) en los últimos meses, el padrón electoral vigente fue cerrado antes de la primera vuelta, por lo que algunos electores podrían mantener el mismo lugar de sufragio asignado anteriormente. Por otro lado, la legislación peruana contempla multas económicas para quienes no cumplan con acudir a votar y con diversas restricciones administrativas derivadas del incumplimiento de las obligaciones electorales. La ONPE informó que los ciudadanos deberán acudir al mismo local donde sufragaron durante la primera vuelta realizada el 12 y 13 de abril, ya que no se efectuaron cambios en los centros de votación tras el cierre oficial del padrón electoral en 2025. La medida busca mantener el orden y la transparencia del proceso en medio de la expectativa política generada por la segunda vuelta presidencial. Asimismo, el organismo electoral precisó que la cédula de sufragio para esta etapa será distinta a la utilizada anteriormente, debido a que solo incluirá dos opciones correspondientes a los candidatos que obtuvieron la mayor votación en la primera ronda. Por ello, la boleta tendrá un formato más reducido y con información simplificada. La ONPE también exhortó a la ciudadanía a presentarse con anticipación en sus respectivos locales portando únicamente el Documento Nacional de Identidad (DNI), requisito indispensable para ejercer el derecho al voto. Las personas con discapacidad, adultos mayores y embarazadas contarán con atención preferente y acceso prioritario en los locales de votación. El organismo electoral recomendó a estos grupos acercarse en horarios de menor afluencia para evitar esperas innecesarias. La ONPE recordó que la jornada se desarrollará entre las 07:00 y las 17:00 horas, y solicitó puntualidad a los miembros de mesa, quienes deberán instalar las mesas a las 06:00. La institución advirtió que quienes no asistan el día de la elección deberán asumir las consecuencias legales y económicas estipuladas en la normativa vigente. Para quienes no puedan acudir por razones justificadas, el Jurado Nacional de Elecciones (JNE) mantiene habilitado un procedimiento de dispensa especial, que requiere la presentación de pruebas documentales en los plazos establecidos. Las personas que acumulen multas por no votar o por ausentarse como miembros de mesa no podrán realizar trámites notariales, inscripciones civiles, ni acceder a licencias de conducir o pasaportes. Además, enfrentarán impedimentos para postular a cargos públicos y para acceder a programas sociales del Estado. El JNE puede iniciar procedimientos de cobranza coactiva, con la posibilidad de embargar cuentas bancarias si la deuda persiste. Para evitar estas sanciones, se debe regularizar los pagos a través de la plataforma Págalo.pe, en agencias del Banco de la Nación o directamente en las oficinas del JNE. El organismo electoral aclara que las sanciones administrativas solo se eliminan después de cancelar el monto total adeudado. La multa varía según la clasificación socioeconómica del distrito de residencia. En distritos considerados no pobres, el monto asciende a S/92; para zonas catalogadas como pobres no extremos, la sanción es de S/46; en áreas de pobreza extrema, la penalidad es de S/23. Quienes fueron seleccionados como miembros de mesa y no cumplan esa función enfrentarán una multa adicional de S/230.",
           "url": "https://elcomercio.pe/respuestas/tramites/sabes-donde-votar-consulta-tu-local-de-votacion-via-onpe-para-la-segunda-vuelta-de-elecciones-2026-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/IASRMTODX5CYNA2KOEY2KZ5OUM.jpg?auth=3155d6054fa869ab1b603ed5384af8e856f13982e0d2d5001d8634c7de490756&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-31T17:40:24Z",
+          "published_at": "2026-05-31T19:41:00Z",
           "embed_url": "https://elcomercio.pe/respuestas/tramites/sabes-donde-votar-consulta-tu-local-de-votacion-via-onpe-para-la-segunda-vuelta-de-elecciones-2026-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3091,7 +3166,7 @@
           "body_text": "El próximo domingo 7 de junio, los ciudadanos del Perú acudirán a las urnas para participar en la segunda vuelta de las elecciones generales 2026, una jornada decisiva que permitirá elegir al próximo presidente de la República. Es por ello, la Oficina Nacional de Procesos Electorales (ONPE) recordó a la población la importancia de verificar con anticipación su local y mesa de votación mediante la plataforma oficial del organismo, con el fin de evitar contratiempos durante el proceso electoral. Además, aclaró que, pese a que numerosos ciudadanos actualizaron su dirección en el Registro Nacional de Identificación y Estado Civil (Reniec) en los últimos meses, el padrón electoral vigente fue cerrado antes de la primera vuelta, por lo que algunos electores podrían mantener el mismo lugar de sufragio asignado anteriormente. Por otro lado, la legislación peruana contempla multas económicas para quienes no cumplan con acudir a votar y con diversas restricciones administrativas derivadas del incumplimiento de las obligaciones electorales. La ONPE informó que los ciudadanos deberán acudir al mismo local donde sufragaron durante la primera vuelta realizada el 12 y 13 de abril, ya que no se efectuaron cambios en los centros de votación tras el cierre oficial del padrón electoral en 2025. La medida busca mantener el orden y la transparencia del proceso en medio de la expectativa política generada por la segunda vuelta presidencial. Asimismo, el organismo electoral precisó que la cédula de sufragio para esta etapa será distinta a la utilizada anteriormente, debido a que solo incluirá dos opciones correspondientes a los candidatos que obtuvieron la mayor votación en la primera ronda. Por ello, la boleta tendrá un formato más reducido y con información simplificada. La ONPE también exhortó a la ciudadanía a presentarse con anticipación en sus respectivos locales portando únicamente el Documento Nacional de Identidad (DNI), requisito indispensable para ejercer el derecho al voto. Las personas con discapacidad, adultos mayores y embarazadas contarán con atención preferente y acceso prioritario en los locales de votación. El organismo electoral recomendó a estos grupos acercarse en horarios de menor afluencia para evitar esperas innecesarias. La ONPE recordó que la jornada se desarrollará entre las 07:00 y las 17:00 horas, y solicitó puntualidad a los miembros de mesa, quienes deberán instalar las mesas a las 06:00. La institución advirtió que quienes no asistan el día de la elección deberán asumir las consecuencias legales y económicas estipuladas en la normativa vigente. Para quienes no puedan acudir por razones justificadas, el Jurado Nacional de Elecciones (JNE) mantiene habilitado un procedimiento de dispensa especial, que requiere la presentación de pruebas documentales en los plazos establecidos. Las personas que acumulen multas por no votar o por ausentarse como miembros de mesa no podrán realizar trámites notariales, inscripciones civiles, ni acceder a licencias de conducir o pasaportes. Además, enfrentarán impedimentos para postular a cargos públicos y para acceder a programas sociales del Estado. El JNE puede iniciar procedimientos de cobranza coactiva, con la posibilidad de embargar cuentas bancarias si la deuda persiste. Para evitar estas sanciones, se debe regularizar los pagos a través de la plataforma Págalo.pe, en agencias del Banco de la Nación o directamente en las oficinas del JNE. El organismo electoral aclara que las sanciones administrativas solo se eliminan después de cancelar el monto total adeudado. La multa varía según la clasificación socioeconómica del distrito de residencia. En distritos considerados no pobres, el monto asciende a S/92; para zonas catalogadas como pobres no extremos, la sanción es de S/46; en áreas de pobreza extrema, la penalidad es de S/23. Quienes fueron seleccionados como miembros de mesa y no cumplan esa función enfrentarán una multa adicional de S/230.",
           "url": "https://elcomercio.pe/respuestas/tramites/sabes-donde-votar-consulta-tu-local-de-votacion-via-onpe-para-la-segunda-vuelta-de-elecciones-2026-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/IASRMTODX5CYNA2KOEY2KZ5OUM.jpg?auth=3155d6054fa869ab1b603ed5384af8e856f13982e0d2d5001d8634c7de490756&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-31T17:40:24Z",
+          "published_at": "2026-05-31T19:41:00Z",
           "embed_url": "https://elcomercio.pe/respuestas/tramites/sabes-donde-votar-consulta-tu-local-de-votacion-via-onpe-para-la-segunda-vuelta-de-elecciones-2026-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3368,7 +3443,7 @@
           "body_text": "El próximo domingo 7 de junio, los ciudadanos del Perú acudirán a las urnas para participar en la segunda vuelta de las elecciones generales 2026, una jornada decisiva que permitirá elegir al próximo presidente de la República. Es por ello, la Oficina Nacional de Procesos Electorales (ONPE) recordó a la población la importancia de verificar con anticipación su local y mesa de votación mediante la plataforma oficial del organismo, con el fin de evitar contratiempos durante el proceso electoral. Además, aclaró que, pese a que numerosos ciudadanos actualizaron su dirección en el Registro Nacional de Identificación y Estado Civil (Reniec) en los últimos meses, el padrón electoral vigente fue cerrado antes de la primera vuelta, por lo que algunos electores podrían mantener el mismo lugar de sufragio asignado anteriormente. Por otro lado, la legislación peruana contempla multas económicas para quienes no cumplan con acudir a votar y con diversas restricciones administrativas derivadas del incumplimiento de las obligaciones electorales. La ONPE informó que los ciudadanos deberán acudir al mismo local donde sufragaron durante la primera vuelta realizada el 12 y 13 de abril, ya que no se efectuaron cambios en los centros de votación tras el cierre oficial del padrón electoral en 2025. La medida busca mantener el orden y la transparencia del proceso en medio de la expectativa política generada por la segunda vuelta presidencial. Asimismo, el organismo electoral precisó que la cédula de sufragio para esta etapa será distinta a la utilizada anteriormente, debido a que solo incluirá dos opciones correspondientes a los candidatos que obtuvieron la mayor votación en la primera ronda. Por ello, la boleta tendrá un formato más reducido y con información simplificada. La ONPE también exhortó a la ciudadanía a presentarse con anticipación en sus respectivos locales portando únicamente el Documento Nacional de Identidad (DNI), requisito indispensable para ejercer el derecho al voto. Las personas con discapacidad, adultos mayores y embarazadas contarán con atención preferente y acceso prioritario en los locales de votación. El organismo electoral recomendó a estos grupos acercarse en horarios de menor afluencia para evitar esperas innecesarias. La ONPE recordó que la jornada se desarrollará entre las 07:00 y las 17:00 horas, y solicitó puntualidad a los miembros de mesa, quienes deberán instalar las mesas a las 06:00. La institución advirtió que quienes no asistan el día de la elección deberán asumir las consecuencias legales y económicas estipuladas en la normativa vigente. Para quienes no puedan acudir por razones justificadas, el Jurado Nacional de Elecciones (JNE) mantiene habilitado un procedimiento de dispensa especial, que requiere la presentación de pruebas documentales en los plazos establecidos. Las personas que acumulen multas por no votar o por ausentarse como miembros de mesa no podrán realizar trámites notariales, inscripciones civiles, ni acceder a licencias de conducir o pasaportes. Además, enfrentarán impedimentos para postular a cargos públicos y para acceder a programas sociales del Estado. El JNE puede iniciar procedimientos de cobranza coactiva, con la posibilidad de embargar cuentas bancarias si la deuda persiste. Para evitar estas sanciones, se debe regularizar los pagos a través de la plataforma Págalo.pe, en agencias del Banco de la Nación o directamente en las oficinas del JNE. El organismo electoral aclara que las sanciones administrativas solo se eliminan después de cancelar el monto total adeudado. La multa varía según la clasificación socioeconómica del distrito de residencia. En distritos considerados no pobres, el monto asciende a S/92; para zonas catalogadas como pobres no extremos, la sanción es de S/46; en áreas de pobreza extrema, la penalidad es de S/23. Quienes fueron seleccionados como miembros de mesa y no cumplan esa función enfrentarán una multa adicional de S/230.",
           "url": "https://elcomercio.pe/respuestas/tramites/sabes-donde-votar-consulta-tu-local-de-votacion-via-onpe-para-la-segunda-vuelta-de-elecciones-2026-tdpe-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/IASRMTODX5CYNA2KOEY2KZ5OUM.jpg?auth=3155d6054fa869ab1b603ed5384af8e856f13982e0d2d5001d8634c7de490756&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-05-31T17:40:24Z",
+          "published_at": "2026-05-31T19:41:00Z",
           "embed_url": "https://elcomercio.pe/respuestas/tramites/sabes-donde-votar-consulta-tu-local-de-votacion-via-onpe-para-la-segunda-vuelta-de-elecciones-2026-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3667,6 +3742,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "b2a99209ee6c",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "This weekend’s two biggest movies were both directed by YouTubers | TechCrunch",
+          "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+          "body_text": "The YouTube-to-prestige-horror pipeline is looking very strong this weekend. Taking the number one spot at the box office is “Backrooms,” a feature film expansion of Kane Parsons’ series of YouTube videos featuring eerie found footage of a mysterious office space (drawn from a 4chan thread ) that defies physics. Directed by Parsons, “Backrooms” will bring in an estimated $81 million at the domestic box office this weekend alone. That’s the biggest opening by far for indie studio A24 — the previous record was held by “Civil War,” which made $25.7 in its first weekend of release. The number two film, “Obsession,” is pulling off something that’s arguably even more impressive. True, its estimated weekend total is a mere $26.4 million — but the movie (about a romantic wish gone nightmarishly wrong) already made more money in its second weekend than its first, and now its third weekend is set to grow another 10 percent. For context, most wide release films normally fall between 50 to 70 percent in their second weekend; last year’s “Sinners” was considered an extraordinary word-of-mouth success because it fell less than 5 percent. Outside of Christmas releases (which have more staying power, thanks to the holidays), growing from weekend to weekend is unheard of — according to the Hollywood Reporter , “Obsession” is the first film since 1982 to grow on both its second and third weekends. And like “Backrooms,” “Obsession” is a horror movie directed by someone who first made his name on YouTube — Curry Barker , whose YouTube filmmaking culminated (for now) in the hourlong found footage horror film “Milk & Serial” released in 2024. Barker has already shot his next film and is set to direct a new remake of “The Texas Chainsaw Massacre.” The two releases follow the surprise success of “Iron Lung,” a video game adaptation released earlier this year. Directed by Mark Fischbach — better known under his YouTube account name Markiplier — “Iron Lung” grossed nearly $41 million domestically. In a New York Times article about the recent “YouTube-to-filmmaker boomlet,” Rutgers Cinema general manager Mark DelVecchio noted that “lots of YouTubers have tried to make the leap to mainstream movies and come up short.” What sets Parsons, Barker, and Fischbach apart? DelVecchio said that despite their youth (Parsons is 20, Barker is 26), they all have “longevity.” “At this point, some of them have been making videos for a very long time, and that’s how you develop a loyal audience that will follow you,” he added. Both films came in ahead of the first Star Wars film in seven years, “The Mandalorian and Grogu,” which is on-track to gross $24 million this weekend. By the way, while I haven’t seen “Backrooms” yet (fingers crossed for tomorrow), I have seen “Obsession.” So I can confirm that it absolutely does not disappoint — I watched most of the second half with my fingers over my eyes, and I may even have screamed a few times. This post was first published on May 30. It has been updated with current box office numbers.",
+          "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/backrooms.jpeg?resize=1200,800",
+          "published_at": "2026-05-31T18:34:58Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/backrooms.jpeg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "e68366b167b7",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan | TechCrunch",
+          "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+          "body_text": "After criticizing a startup called Artisan for misusing his work, artist KC Green — creator of the famous “This is fine” meme — said he’s reached an agreement with Artisan. The dispute arose after the startup appeared to use a version of Green’s art to promote its AI assistant Ava. In Artisan’s bus and subway ads, Green’s recognizable dog sat amid recognizable flames, but instead of saying “This is fine,” it declared, “My pipeline is on fire,” while the ad urged people to “Hire Ava the AI BDR.” Earlier this month, Green posted on social media that his art had been “stolen like AI steals” and urged his followers to “vandalize” the ads if they saw them. He also told TechCrunch he was frustrated about having to “try my hand at the American court system” instead of putting that time into his comics. Artisan, meanwhile, told us it has “a lot of respect for Green and his work.” Then, earlier this week, founder and CEO Jaspar Carmichael-Jack said the two sides had come to an agreement. When TechCrunch reached out to Green, he confirmed that they’d “reached a settlement pretty quick,” with Artisan taking down the ads in New York and San Francisco that used his character, and Green taking down his initial post. Get an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Through candid fireside chats and high-impact networking, you’ll walk away with valuable insights and new connections. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2188469160.jpg?w=1024",
+          "published_at": "2026-05-31T18:28:17Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2188469160.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "1c46f8ee3897",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3688,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "2effc53c7f1e",
@@ -3712,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "58aba64337de",
@@ -3736,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "ab3353988ff0",
@@ -3760,54 +3883,6 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "2f6bdff59a90",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "SoftBank says it will invest up to €75 billion to build French data centers | TechCrunch",
-          "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-          "body_text": "SoftBank Group announced today that it plans to spend up to €75 billion (around $87 billion) to expand data center capacity in France. The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The first phase of the plan involves building data centers in Dunkirk (Loon-Plage), Bosquel, and Bouchain to deliver 3.1 gigawatts of capacity to the Hauts-de-France region by 2031. SoftBank, which is both an investor in and customer of OpenAI , says this will be its largest AI infrastructure investment in Europe. In a statement, French economic minister Roland Lescure described the announcement as a “testament to President Emmanuel Macron’s ambition to position France as a leading destination all along the AI value chain.” In the United States, opposition to data center construction is heating up over environmental concerns, as well as questions about how data centers affect the electrical grid and utility prices. Nonetheless, SoftBank earlier announced plans to build a data center in Ohio, powered by a new 9.2 gigawatt natural gas plant . Get an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Through candid fireside chats and high-impact networking, you’ll walk away with valuable insights and new connections. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
-          "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg?w=1024",
-          "published_at": "2026-05-30T21:45:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "2072c9481f04",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "This weekend’s two biggest movies were both directed by YouTubers | TechCrunch",
-          "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
-          "body_text": "The YouTube-to-prestige-horror pipeline is looking very strong this weekend. Taking the number one spot at the box office is “Backrooms,” a feature film expansion of Kane Parsons’ series of YouTube videos featuring eerie found footage of a mysterious office space (drawn from a 4chan thread ) that defies physics. Directed by Parsons, “Backrooms” made $38 million on Friday, and is expected to bring in a total of $80 million to $90 million at the domestic box office over this weekend alone. For indie studio A24, that’s its biggest opening by far — the previous record was held by “Civil War,” which made $25.7 in its first weekend of release. The number two film, “Obsession,” is pulling off something that’s arguably even more impressive. True, it made a mere $8 million on Friday, with an estimated weekend haul of $28.5 million — but the movie (about a romantic wish gone nightmarishly wrong) already made more money in its second weekend than its first, and now its third weekend is set to grow another 19 percent. For context, most wide release films normally fall between 50 to 70 percent in their second weekend; last year’s “Sinners” was considered an extraordinary word-of-mouth success because it fell less than 5 percent. Outside of Christmas releases (which have more staying power, thanks to the holidays), growing from weekend to weekend is unheard of — according to the Hollywood Reporter , “Obsession” is the first film since 1982 to grow on both its second and third weekends. And like “Backrooms,” “Obsession” is a horror movie directed by filmmaker who first made his name on YouTube — Curry Barker , who released the hourlong found footage horror film “Milk & Serial” on YouTube in 2024. Barker has already shot his next film and is set to direct a new remake of “The Texas Chainsaw Massacre. The two releases follow the surprise success of “Iron Lung,” a video game adaptation released earlier this year. Directed by Mark Fischbach — better known under his YouTube account name Markiplier — “Iron Lung” grossed nearly $41 million domestically. In a New York Times article about the recent “YouTube-to-filmmaker boomlet,” Rutgers CInema general manager Mark DelVecchio noted that “lots of YouTubers have tried to make the leap to mainstream movies and come up short.” What sets Parsons, Barker, and Fischbach apart? DelVecchio said that despite their youth (Parsons is 20, Barker is 26), they all have “longevity.” “At this point, some of them have been making videos for a very long time, and that’s how you develop a loyal audience that will follow you,” he added. By the way, while I haven’t seen “Backrooms” yet (fingers crossed for tomorrow), I have seen “Obsession.” So I can confirm that it absolutely does not disappoint — I watched most of the second half with my fingers over my eyes, and I may even have screamed a few times. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.",
-          "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/backrooms.jpeg?resize=1200,800",
-          "published_at": "2026-05-30T21:12:37Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/backrooms.jpeg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
           "sort_order": 5
         },
         {
@@ -4191,6 +4266,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "a501f52828aa",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Chiedza, 15, dog – i extrema värmeböljan",
+          "summary": "Ytterligare en ung person har dött under Storbritanniens extrema värmebölja. 15-åriga Chiedza Nyanjowa dog efter en badolycka, skriver Daily Mail. – Hon kommer att vara djupt saknad och bli ihågkommen för sitt vänliga och omtänksamma sätt, säger familjen.",
+          "body_text": "Ytterligare en ung person har dött under Storbritanniens extrema värmebölja. 15-åriga Chiedza Nyanjowa dog efter en badolycka, skriver Daily Mail. – Hon kommer att vara djupt saknad och bli ihågkommen för sitt vänliga och omtänksamma sätt, säger familjen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Minst 13 personer har mist livet i samband med den ovanliga värmeböljan i Storbritannien . 15-åriga Chiedza Nyanjowa hamnade i svårigheter i vattnet vid Formby Beach i Liverpool i måndags eftermiddag. Räddningstjänst och sjukvård larmades till platsen och flickan fördes till sjukhus. Under fredagen meddelades att hon avlidit, rapporterar Daily Mail. I ett uttalande tackar flickans familj alla som försökte hjälpa Chiedza. – Familjen är tacksam över att det fanns människor omkring henne som stöttade henne. Deras insatser visar hur älskad hon var. Familjen beskriver henne som en glad och omtänksam person som älskade att laga mat, gå i kyrkan och drömde om att bli sjuksköterska. Dödsfallet är det senaste i en rad tragedier som inträffat under den rekordvarma veckan. Flera av de omkomna är barn och tonåringar som hamnat i svårigheter vid sjöar, dammar, floder och stränder. Bland de döda finns bland annat 12-åriga Junior, en 14-årig pojke som hittades i Themsen och flera ungdomar som försvunnit under badutflykter. Även en 68-årig man omkom efter att ha försökt rädda sin hustru och sitt barnbarn från havet i Cornwall. Storbritanniens hälsomyndighet UKHSA har utfärdat värmevarningar och varnat för en ökad risk för drunkningsolyckor när fler söker sig till vatten för att svalka sig. Myndigheten pekar särskilt på faran med kallvattenschock i sjöar och dammar.",
+          "url": "https://www.expressen.se/nyheter/varlden/15-ariga-chiedza-drunknade-under-extrema-varmeboljan-i-storbritannien/",
+          "image_url": "https://static.bonniernews.se/images/10/a5/10a5e8d180324636a2680993adce1dbb/16x9/original.png",
+          "published_at": "2026-05-31T19:37:55Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/15-ariga-chiedza-drunknade-under-extrema-varmeboljan-i-storbritannien/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "704f8c09f185",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Jims monsterfångst – kamp på 20 minuter",
+          "summary": "Jim Burman Englund fick sitt livs överraskning under en fisketur i Rickleån, Västerbotten. Efter en dramatisk kamp drog han upp en jättegädda.",
+          "body_text": "Jim Burman Englund, 43, trodde han fick bottennapp. Efter en dramatisk kamp drog han upp något stort. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Är du 18–25 år? Nu kan du läsa Expressen gratis i ett år – avslutas automatiskt. Klicka här! Jim Burman Englund och en kompis var ute med båten för en premiärtur i Rickleån i Västerbotten . – Det blev inte som planerat, säger han. Jim Burman Englund, 43, trodde han fått bottennapp – drog upp en jättegädda. Vågen fungerade inte – vikten förblir en gissning. Vid ett av kasten med abborrespö trodde Jim först att han fått bottennapp, något VK också berättat om. – Det tog tvärtstopp. När jag vevade in båten närmare började det röra på sig, berättar Jim. Efter en kamp på över 20 minuter var fisken vid båten. Kompisen backade förskräckt när han fick se vad Jim vevat in. – Då förstod jag att det inte var någon vanlig fisk, säger han.",
+          "url": "https://www.expressen.se/nyheter/sverige/jims-monsterfangst-kampen-med-meterlanga-gaddan/",
+          "image_url": "https://static.bonniernews.se/images/9a/91/9a91f266ea7844ed9aa909ea2394002e/16x9/original.jpg",
+          "published_at": "2026-05-31T18:30:00Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/jims-monsterfangst-kampen-med-meterlanga-gaddan/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "fca4e76e8674",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Kaptenens larm – så slår Putin mot Östersjön",
+          "summary": "Ryssland stör navigationssystemen i Östersjön så gott som dagligen, varnar den finska kaptenen Niclas Seligson i en intervju med Iltalehti. – Det sker i stort sett i hela Östersjöområdet, säger han.",
+          "body_text": "Ryssland stör navigationssystemen i Östersjön så gott som dagligen, varnar den finska kaptenen Niclas Seligson i en intervju med Iltalehti. – Det sker i stort sett i hela Östersjöområdet, säger han. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Niclas Seligson arbetar på rederiet Finnlines, och tillbringar mycket tid ute till sjöss. Där är Rysslands närvaro ofta påtaglig, då man slår mot satellitsignalerna för de fartyg som färdas ute på Östersjön. – På kommandobryggan visas det att GPS-systemet drabbats av störningar och då får vi en varning. Positionen går inte helt förlorad, men noggrannheten i den försämras, säger Seligson till Iltalehti. Störningarna sker i ”stort sett hela Östersjöområdet”, menar han, bland annat utanför södra Sveriges kust. I vissa fall har Seligsons rederi kontaktats av andra fartyg i Östersjön, då de helt förlorat sin GPS-position. Rederiet Finnlines har nu behövt köpa störningsskyddssystem på grund av störningarna mot navigationen. Det gör man för att det ska fortsätta vara säkert att färdas genom Östersjön. Men om GPS:en skulle slås ut helt är man på Finnlines ändå beredd. – Vi har en väldigt kompetent besättning som kan navigera med hjälp av traditionella navigationsmetoder. Fartygens framfart kommer inte att hindras och säkerheten kommer inte äventyras, säger Niclas Seligson. I september i fjol varnade Transportstyrelsen i Sverige för att GPS-störningarna i Östersjön ökat markant under 2025. Utöver sjöfarten slog störningarna även mot luftfarten, och nästan dagligen tog myndigheten emot larm från flygplan om rubbingar i deras GPS-system. Transportstyrelsen misstänker att störningarna kommer från Ryssland, har man sagt till SVT. Även Sjöfartsverket har varnat fritidsbåtsägare för liknande fenomen och uppmanat sjöfarare till att alltid ha alternativa metoder att navigera till hands.",
+          "url": "https://www.expressen.se/nyheter/varlden/kaptenens-varning-sa-slar-ryssland-mot-ostersjon/",
+          "image_url": "https://static.bonniernews.se/images/ae/ab/aeabaff5ab0f4f31bcd9bad956077ab7/16x9/original.png",
+          "published_at": "2026-05-31T18:28:23Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/kaptenens-varning-sa-slar-ryssland-mot-ostersjon/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "6b86ba918005",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4212,7 +4359,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "4510c0777bf0",
@@ -4236,7 +4383,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "f39353093ce1",
@@ -4260,7 +4407,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "97d18f48af57",
@@ -4270,7 +4417,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Mamma riskerar miljonsmäll efter lyxrenoveringen",
+          "title": "Smällen mot mamman efter lyxrenoveringen",
           "summary": "Sonen har dömts för dubbla gängskjutningar. Nu riskerar mamman att bli av med 1,6 miljoner kronor i misstänkta brottsvinster som hon använt till en lyxrenovering. – Alla beräkningar de har gjort är fel, hävdar mamman.",
           "body_text": "Sonen har dömts för dubbla gängskjutningar. Nu riskerar mamman att bli av med 1,6 miljoner kronor i misstänkta brottsvinster som hon använt till en lyxrenovering. – Alla beräkningar de har gjort är fel, hävdar mamman. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En höstkväll 2024 blev två pojkar beskjutna i Farsta i södra Stockholm. Pojkarna, som inte har någon kriminell koppling, klarade sig oskadda. Kort därpå avlossades skott in i entrén till ett hus där en medlem i det kriminella Farsta-Fagersjö-nätverket är skriven. Utredningen visade att dåden hade beställts av nätverket Peppar och var riktade mot Farsta-Fagersjö. Skjutningen mot pojkarna antogs ha berott på att gärningsmännen tog fel på person. I höstas dömdes de båda utförarna för mordförsök på pojkarna och grovt olaga hot mot gängmannen. En 23-årig man, som även dömdes för ett annat mordförsök, fick 16 års fängelse. En pojke som var 16 år vid gärningstillfället dömdes till två och ett halvt års sluten ungdomsvård. En kvinna riskerar att behöva betala 1,6 miljoner kronor till staten sedan en åklagare väckt talan om självständigt förverkande. Åklagaren anser att kvinnan finansierat en miljonrenovering av sin bostad med misstänkta brottsvinster. Kvinnan menar att hela utredningen är felaktig och att hon kan förklara varifrån alla pengar kommer. Kvinnans son dömdes förra året för mordförsök och grovt olaga hot efter att ha utfört två skjutningar i gängmiljö. Medan 16-åringen satt häktad fattade polisen misstankar om att hans mamma finansierat en lyxrenovering av sitt kedjehus med brottsvinster.",
           "url": "https://www.expressen.se/nyheter/sverige/smallen-mot-mamman-efter-lyxrenoveringen/",
@@ -4284,7 +4431,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "21be28e4cca3",
@@ -4308,7 +4455,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "bed94d343fde",
@@ -4318,85 +4465,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Kaos i Stockholms lokaltrafik",
-          "summary": "På söndagen fortsätter kaoset i Stockholmstrafiken. Det råder återigen stora störningar på flera tunnelbanelinjer. På perronger runtom i huvudstaden är det fullsmockat.",
-          "body_text": "På söndagen fortsätter kaoset i Stockholmstrafiken. Det råder återigen stora störningar på flera tunnelbanelinjer. På perronger runtom i huvudstaden är det fullsmockat. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ett tekniskt fel på banan har lett till stora störningar på tunnelbanans röda och gröna linje i Stockholm . Flera avgångar på röda linjen har ställts in. På gröna linjen är det oregelbunden trafik, inställda avgångar och förseningar på grund av växelfel. Det finns ingen prognos för när trafiken kan rulla på som vanligt igen, uppger SL:s presstjänst. Även under lördagen hade SL stora problem. På röda linjen ledde ett vagnfel till att passagerare satt fast i tunnlarna under Östermalmstorg i hela tre timmar. De kunde till slut evakueras genom till fots. Det rådde också ett signalfel på Strömbron som ledde till reducerad trafik. Problemen på den röda linjen kommer att stå sig under söndagen, säger Aleksander Krajisnik på SL. – Det är ett fel som är sedan tidigare i veckan där vi gått ut med en prognos. – Det ska förhoppningsvis vara åtgärdat 19.30 i kväll, fortsätter han. Varför det hade blivit fel på vagnen under lördagen vet fortfarande inte SL. Många kritiserade att kommunikationen kring vad som hände var bristfällig. Det tog en och en halv timme innan de började evakuera passagerare. – Naturligtvis var ju själva stoppet mycket, mycket olyckligt. Men evakueringen gick väldigt tryggt och säkert till, det är vår bestämda åsikt, sa Krajisnik tidigare i dag.",
-          "url": "https://www.expressen.se/nyheter/sverige/kaos-i-stockholms-lokaltrafik/",
-          "image_url": "https://static.bonniernews.se/images/82/05/82058b75861349678986b4f1c6e2811c/16x9/original.png",
-          "published_at": "2026-05-31T13:09:13Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/kaos-i-stockholms-lokaltrafik/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "cf6571a98b16",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Löparboomen håller i sig – rekordmånga på maran",
-          "summary": "Den svenska löparboomen håller i sig. I årets Stockholm Marathon var det fler som tog sig i mål än någonsin tidigare. – Vi märker att längre distanser i stadsmiljö lockar väldigt mycket, säger Mats Hedenström från Marathongruppen.",
-          "body_text": "I årets Stockholm Marathon var det fler som tog sig i mål än någonsin tidigare. – Vi märker att längre distanser i stadsmiljö lockar väldigt mycket, säger Mats Hedenström från Marathongruppen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Är du 18–25 år? Nu kan du läsa Expressen gratis i ett år – avslutas automatiskt. Klicka här! Förra veckan släppte Göteborgsvarvet – världens största halvmaraton med över 55 000 deltagare – anmälningarna till nästa års lopp. Alla platser sålde slut på tre dagar. Rekord. – Vi är helt överväldigade, säger Madelene Gimlegård, kommersiell chef på Göteborgsvarvet, i ett pressmeddelande . Svensk löparboom: rekordmånga i mål på Stockholm Marathon. Göteborgsvarvet sålde slut 55 000 platser på tre dagar. Stadslopptrenden växer – alla generationer och bakgrunder springer. Nu ser Stockholm Marathon ut att gå samma väg. Årets lopp som sprangs i går sålde slut redan i november förra året. Också det ett rekord. – Vi har aldrig öppnat försäljningen så här starkt, jag tror att vi kommer ha sålt slut alla platser redan i augusti, säger Marathongruppens verksamhetschef Mats Hedenström, till Expressen. Till The Guardian säger Hugh Brasher från London Marathon att vi just nu ser en tredje löparboom. Den första var på 70- och 80-talet.",
-          "url": "https://www.expressen.se/nyheter/sverige/stockholm-marathon-slar-rekord--fler-an-nagonsin-vill-springa/",
-          "image_url": "https://static.bonniernews.se/images/bd/21/bd21362ca1134b68ae5cbf214ee5fcfc/16x9/original.png",
-          "published_at": "2026-05-31T12:30:48Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/stockholm-marathon-slar-rekord--fler-an-nagonsin-vill-springa/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "74707e207a27",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Lagercrantz panik efter dotterns ord",
-          "summary": "Plötsligt når författaren David Lagercrantz ut till en helt annan publik. Anledningen är dottern Nelly och filmerna hon lägger upp på Tiktok.",
-          "body_text": "Nelly Lagercrantz, 21, var nära att dö av sin ätstörning. Nu får hon flera miljoner människor att skratta och må bra av sina Tiktok-filmer med pappa, författaren David Lagercrantz. Helvetet förde dem ännu närmare varandra. – Jag säger det med kärlek. Han är förvirrad konstant, säger Nelly om sin pappa. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. David Lagercrantz har skrivit succéer som ”Det som inte dödar oss” i Millennium-serien och ”Jag är Zlatan Ibrahimović”. För tillfället arbetar han med uppföljaren till ”Intränglingen”, om pappa Olof Lagercrantz och en mörk familjehemlighet. Men numera blir David Lagercrantz också igenkänd som ”Tiktok-författaren” när han promenerar i Stockholm. ■ Nelly Lagercrantz, 21, led av ätstörningar under tonåren. ■ Nu mår hon bättre och gör succé med humoristiska Tiktok-filmer med pappa, författaren David Lagercrantz. ■ Båda vill uppmärksamma sjukdomen för att hjälpa andra som har samma problem. ”Det är så många sjuka tjejer”, säger Nelly. Orsaken är filmerna som dottern Nelly, 21, spelar in tillsammans med honom. Vissa av filmerna har setts av flera miljoner människor. – Det är livets orättvisa. Jag sliter i två år med en bok. Jag kämpar som fan. Man får i värsta fall bara en liten notis i tidningen. Så gör man så här... Och så blir det ens virala break, säger David Lagercrantz och skrattar.",
-          "url": "https://www.expressen.se/nyheter/sverige/david-lagercrantz-ovantade-succe-pa-tiktok-med-dottern-nelly/",
-          "image_url": "https://static.bonniernews.se/images/bb/78/bb7858143e9d460181c4ebdcb20874af/16x9/original.jpg",
-          "published_at": "2026-05-31T11:57:10Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/david-lagercrantz-ovantade-succe-pa-tiktok-med-dottern-nelly/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "fdd40c5b8dad",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sverige Idag 13.28 SL vet inte vad som orsakade tunnelbanekaoset",
+          "title": "Sverige Idag 15.09 Kaos i Stockholms lokaltrafik",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/sl-vet-inte-vad-som-orsakade-tunnelbanekaoset-ber-om-ursakt/",
+          "url": "https://www.expressen.se/nyheter/sverige/kaos-i-stockholms-lokaltrafik/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/sl-vet-inte-vad-som-orsakade-tunnelbanekaoset-ber-om-ursakt/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/kaos-i-stockholms-lokaltrafik/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4407,20 +4482,20 @@
           "sort_order": 8
         },
         {
-          "id": "b59c077abc93",
+          "id": "cf6571a98b16",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige Idag 13.28 Coop, Garant och Stjärnägg återkallar ägg – risk för salmonella",
+          "title": "Sverige Idag 14.30 Stockholm Marathon slår rekord – fler än någonsin vill springa",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/coop-garant-och-stjarnagg-aterkallar-agg-risk-for-salmonella-/",
+          "url": "https://www.expressen.se/nyheter/sverige/stockholm-marathon-slar-rekord--fler-an-nagonsin-vill-springa/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/coop-garant-och-stjarnagg-aterkallar-agg-risk-for-salmonella-/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/stockholm-marathon-slar-rekord--fler-an-nagonsin-vill-springa/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
