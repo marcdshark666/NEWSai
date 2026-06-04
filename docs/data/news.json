@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T19:20:57Z",
+  "generated_at": "2026-06-04T21:07:54Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -13,11 +13,10 @@
       "surface": "video",
       "source_kind": "video",
       "live_section": false,
-      "status": "error",
+      "status": "pending",
       "article_count": 0,
       "priority_split": 0,
-      "articles": [],
-      "error": "403 Client Error: Forbidden for url: https://www.tv4play.se/nyheter"
+      "articles": []
     },
     {
       "id": "tv4-ekonomi",
@@ -30,11 +29,275 @@
       "surface": "video",
       "source_kind": "video",
       "live_section": false,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 11,
       "priority_split": 0,
-      "articles": [],
-      "error": "403 Client Error: Forbidden for url: https://www.tv4.se/ekonomi"
+      "articles": [
+        {
+          "id": "6bd55b87280a",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump miljardsatsar på kolindustrin",
+          "summary": "Nyheter från TV4: Trump miljardsatsar på kolindustrin",
+          "body_text": "USA:s president Donald Trump presenterar sitt stödpaket till kolindustrin. Sammanlagt 13 amerikanska kolkraftverk och 42 kolgruvor ska med hjälp av 700 miljoner dollar fortsätta producera energi. Dessutom ska två helt nya kolkraftverk byggas, lovar Trump. Den amerikanska kolindustrin kämpar i motvind, och gick från att ha stått för 45 procent av all elproduktion i USA 2010 till 15 procent för två år sedan. I stället växer fossilgas samt – trots Trumps skepsis till grön energi – vind och sol. Men Trump vill aktivt vända på trenden, inte minst för att kolsektorn är en stor arbetsgivare i vissa delstater, och enligt tidigare uppgifter från Vita huset hoppas regeringen att det nu aviserade stödet ska ge 14 000 nya arbetstillfällen.",
+          "url": "https://www.tv4.se/artikel/tt-260604-usatrumpkol1-d3d05900/trump-miljardsatsar-pa-kolindustrin",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlorwZiSUHO1A/d874590b17e0c95f52e9edb8b79b5b9e/USA_s_president_Donald_Trump_presenterar_sitt_stodpaket_till_kolindustrin._",
+          "published_at": "2026-06-04T20:20:05Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260604-usatrumpkol1-d3d05900/trump-miljardsatsar-pa-kolindustrin",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "12bccd11db8b",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Återhämtning på Wall Street efter AI-frossa",
+          "summary": "Nyheter från TV4: Återhämtning på Wall Street efter AI-frossa",
+          "body_text": "Utvecklingen spretade på Wall Street under torsdagen. Arkivbild. Återhämtning på Wall Street efter AI-frossa Tekniktunga Nasdaqs kompositindex, som inledde med tryck nedåt, återhämtade sig under dagen och stängde på minus 0,1 procent. Dow Jones industrindex däremot klättrade 1,7 procent och landade på en ny rekordnivå, medan Breda S&P 500 avslutade på plus 0,4 procent. Chipjätten Broadcom agerade sänke, ned 13 procent efter en rapport med oväntat svag intäktsprognos inom AI-segmentet. Oron för en svacka i AI-rallyt smittade av sig. Chipbolagen Micron och AMD föll 7,7 procent respektive 3,6 procent. Andra aktiesegment gick bättre, stärkta av att oljepriset fallit tillbaka under dagen. Ett fat Nordsjöolja (Brent) kostar nu drygt 95 dollar per fat.",
+          "url": "https://www.tv4.se/artikel/tt-260604-usabors1-146df6c2/aterhamtning-pa-wall-street-efter-ai-frossa",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdl5TelTqbx7W4/e7ba58f46a533a3530e3f3d099ead296/Utvecklingen_spretade_pa_Wall_Street_under_torsdagen._Arkivbild._",
+          "published_at": "2026-06-04T20:13:58Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260604-usabors1-146df6c2/aterhamtning-pa-wall-street-efter-ai-frossa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "cef9a9e90424",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Lägre pris på fossil gas – fredsförhoppningar",
+          "summary": "Nyheter från TV4: Lägre pris på fossil gas – fredsförhoppningar",
+          "body_text": "Turkiet satsar på ökad import av flytande naturgas för att minska beroende av rysk gas via ledningar. Arkivbild Lägre pris på fossil gas – fredsförhoppningar Uttalanden från USA:s president Donald Trump om att fredsförhandlingarna med Iran befinner sig mitt i en slutfas sprider hopp om återupptagna gasleveranser till Europa från länderna runt Persiska viken via det i princip stängda Hormuzsundet. Gaslagren i EU-länderna är på 41 procent, en ovanligt låg nivå för säsongen. Och experter varnar för att det – med en global utbudsbrist till följd av Irankriget – kan bli svårt att hinna fylla på gaslagren igen inför det att uppvärmningssäsongen drar i gång i höst. Priset på Nordsjöolja (Brent) sjunker också, ned 3,2 procent till 94,65 dollar per fat.",
+          "url": "https://www.tv4.se/artikel/tt-260604-eugaspris1-309129d5/lagre-pris-pa-fossil-gas-fredsforhoppningar",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdllD7jbs4JXP0/2d22ec6746897232165750ab216c0e62/Turkiet_satsar_p___kad_import_av_flytande_naturgas_f_r_att_minska_beroende_av_rysk_gas_via_ledningar._Arkivbild",
+          "published_at": "2026-06-04T12:23:54Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260604-eugaspris1-309129d5/lagre-pris-pa-fossil-gas-fredsforhoppningar",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "55610029db16",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Misstänkt kartell med livsmedelsgrossister",
+          "summary": "Nyheter från TV4: Misstänkt kartell med livsmedelsgrossister",
+          "body_text": "Gryningsräd mot livsmedelsgrossister, enligt Dagens industri. Arkivbild Misstänkt kartell med livsmedelsgrossister Misstankarna handlar om misstänkt samordning mellan konkurrenter och är riktade mot Martin & Servera – en del av Axel Johnson-imperiet – och amerikanska Menigo. De bygger på tips från flera kommuner och rör hur grossisterna agerat i offentliga upphandlingar till skolor och äldreboenden. Gryningsräderna ska enligt tidningens uppgifter ha genomförts förra veckan sedan tillstånd givits av Patent- och marknadsdomstolen. \"Vi bistår myndigheten med den information som efterfrågas i processen, men har i nuläget inget ytterligare att tillägga”, skriver Jonathan Blom, kommunikationschef på Martin & Servera, i en kommentar till Dagens industri.",
+          "url": "https://www.tv4.se/artikel/tt-260604-grossistkonkurrens1-791d05c3/misstankt-kartell-med-livsmedelsgrossister",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlhgQptGzMWBk/58e38057ba4ab8ae92a4f16471c58aae/Gryningsrad_mot_livsmedelsgrossister__enligt_Dagens_industri._Arkivbild",
+          "published_at": "2026-06-04T10:59:43Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260604-grossistkonkurrens1-791d05c3/misstankt-kartell-med-livsmedelsgrossister",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "6a02bcc6fa49",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Minskad detaljhandel i eurozonen",
+          "summary": "Nyheter från TV4: Minskad detaljhandel i eurozonen",
+          "body_text": "Eurostat presenterar nya siffror om konsumentprisökningarna i årstakt – det vill säga inflationen – i eurozonen. Arkivbild Det kan jämföras med en snittprognos bland analytiker på minus 0,3 procent, enligt Bloomberg. I mars ökade detaljhandeln med 0,8 procent jämfört med februari, enligt reviderade Eurostat-siffror.",
+          "url": "https://www.tv4.se/artikel/tt-260604-eudetaljhandel1-42eb54db/minskad-detaljhandel-i-eurozonen",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlXOHRmsnWxEo/8350ed3d9de8f573c5ff6bf6bd6bd1b7/Eurostat_presenterar_nya_siffror_om_konsumentprisokningarna_i_arstakt__det_vill_saga_inflationen__i_eurozonen._Arkivbild",
+          "published_at": "2026-06-04T09:10:10Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260604-eudetaljhandel1-42eb54db/minskad-detaljhandel-i-eurozonen",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "4a03b8a22313",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Hur kontaktar jag TV4?",
+          "summary": "Nyheter från TV4: Hur kontaktar jag TV4?",
+          "body_text": "9 januari 2024 ・ Uppdaterad: 10 februari 2026 Vill du kontakta TV4 Plays kundtjänst? Klicka här för att komma till vår supportsida och välj sedan \"Kontakta oss\". TV4 Medias visselblåsarkanal, klicka här . Om du är missnöjd med en publicering är du välkommen att höra av dig till oss på nyheterna@tv4.se . Du kan också göra en anmälan till Granskningsnämnden eller Medieombudsmannen . Registreringsnummer för mervärdesskatt: SE556242715201 Ägare: TV4 Media AB organisationsnummer 556802-5646, en del av Schibsted Tillsyn Tillsynsmyndigheter: Mediemyndigheten, Konsumentverket. TV4 är medlem i det medieetiska systemet, Medieombudsmannen.",
+          "url": "https://www.tv4.se/artikel/21S40PKdrQZDCEJllEPwRj/hur-kontaktar-jag-tv4",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:57:12Z",
+          "embed_url": "https://www.tv4.se/artikel/21S40PKdrQZDCEJllEPwRj/hur-kontaktar-jag-tv4",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "7fd576969d7c",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Ansvariga utgivare för innehåll på TV4 Play och tv4.se",
+          "summary": "Nyheter från TV4: Ansvariga utgivare för innehåll på TV4",
+          "body_text": "9 januari 2024 ・ Uppdaterad: 17 april 2026 TV4 Nyheterna (inkl sportnyheter, ekonomi, väder), tv4.se, Nyheterna Story och Kalla fakta Nyhetsmorgon, Nyhetsdagen, Efter fem, tillkommande samhällsprogram som tex val, dokumentärer. Färdigproducerade filmer och serier som inte producerats eller beställts av TV4 samt återköp av produktioner Beställda produktioner, manusbaserade filmer och serier (sk drama) inkl äldre säsonger av pågående produktioner Beställda produktioner, underhållning (ej drama) Trailers (dock inte trailers för program inom nyheter och samhälle)",
+          "url": "https://www.tv4.se/artikel/4FASkwNxMHxSiSi8XBG6mf/ansvariga-utgivare-foer-innehall-pa-tv4-play-och-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:56:05Z",
+          "embed_url": "https://www.tv4.se/artikel/4FASkwNxMHxSiSi8XBG6mf/ansvariga-utgivare-foer-innehall-pa-tv4-play-och-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "6acd39c55860",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Publicistiska grunden för journalistik på TV4",
+          "summary": "Nyheter från TV4: Hur fungerar den publicistiska grunden för nyhets- och samhällsjournalistik på TV4?",
+          "body_text": "Hur fungerar den publicistiska grunden för nyhets- och samhällsjournalistik på TV4? 9 januari 2024 ・ Uppdaterad: 15 augusti 2025 TV4:s nyhets- och samhällsbevakning ska vara i ögonhöjd med tittarna. Vi vill vara nära, personliga och inkluderande. För alla i hela Sverige. Vi ska vara trovärdiga och relevanta. Vi testar nya visuella former och utvecklar det rörliga berättandet. Vi är både snabba, och fördjupande. Vi ger plats för både humor och allvar. Vi påverkar och berör. Vi avslöjar maktmissbruk, och värnar pressfrihet och yttrandefrihet. Vi producerar Nyhetsmorgon, Nyhetsdagen, Efter fem och kvällsnyheter. Vi nyhetsrapporterar på tv4.se och fördjupar i kortdokumentärerna Nyheterna Story. Vår mångfaldigt prisbelönta redaktion Kalla Fakta granskar makt och missförhållanden. TV4:s nyhets- och samhällsbevakning sker ur ett riksperspektiv, med hela Sverige och världen som bevakningsområde. Vi har 17 rikskorrar på sex orter i Sverige. De finns i Luleå, Umeå, Östersund, Skövde, Göteborg och Malmö. Vi bevakar världen via utrikesreportrar, korrar och stringers. Vår journalistik vilar på respekt för alla människors lika värde, oavsett politisk åskådning, religion eller sexuell läggning. Det innebär att vi låter många röster komma till tals, även de som bär åsikter som inte nödvändigtvis delas av medarbetarna på redaktionen eller TV4. Men det kan också innebära att vi tar bort artikelkommentarer som kränker, eller till exempel avstår gäster i direktsändning där vi bedömer att risken är stor för missbruk av öppenheten. TV4:s nyhets- och samhällsjournalistik är oberoende och obunden. Den står fri från politiska partier, organisationer, och näringsliv. Vi har ingen ledarsida eller politisk färg. Innehållet på våra plattformar bedöms och värderas av redaktörer, producenter och av ansvarig utgivare före publicering. Vi följer grundlagen och skyddar våra källor när de önskar anonymitet. Om vi refererar uppgifter från andra medier redovisar vi vilka medier eller andra informationskällor det handlar om. Annars berättar vi hur vi själva tagit reda på informationen, dock alltid med största respekt för källskydd.",
+          "url": "https://www.tv4.se/artikel/4Qhj6KAd8hwaL4HZwg2uBL/hur-fungerar-den-publicistiska-grunden-foer-nyhets-och-samhaellsjournalistik",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:53:10Z",
+          "embed_url": "https://www.tv4.se/artikel/4Qhj6KAd8hwaL4HZwg2uBL/hur-fungerar-den-publicistiska-grunden-foer-nyhets-och-samhaellsjournalistik",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": true,
+          "sort_order": 7
+        },
+        {
+          "id": "2494532aeba0",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Annonsera - TV4.se",
+          "summary": "Nyheter från TV4: Annonsera",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Zelenskyj i öppet brev till Putin: Föreslår möte Därför öppnar Putin för kompromisser: ”Vill ha en dialog med USA” ”Vi är som en familj” • Från Östergötland till Ukraina Kallduschen – Grekland kvitterade i sista sekund Chans till drömvinsten med Premium • Vinn med dina grannar i sommar",
+          "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2023-04-27T12:24:20Z",
+          "embed_url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "bab9eba08c1f",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Cookiepolicy - www.tv4.se",
+          "summary": "Nyheter från TV4: Cookie-policy",
+          "body_text": "25 maj 2018 ・ Uppdaterad: 9 januari 2024 Vissa tjänsteleverantörer, t.ex. Google och Adform, tillhandahåller även egna verktyg som möjliggör för dig att avsäga dig fortsatt marknadsföring. När detta är fallet länkar vi till dessa verktyg i den informationen om våra tredjepartsleverantörer ovan.",
+          "url": "https://www.tv4.se/artikel/5b07c2b424bc62a7002b524d/cookiepolicy-www-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2018-05-25T08:00:52Z",
+          "embed_url": "https://www.tv4.se/artikel/5b07c2b424bc62a7002b524d/cookiepolicy-www-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 9
+        },
+        {
+          "id": "4cb1b263ef11",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Allmänna användarvillkor för TV4:s tjänster",
+          "summary": "Allmänna användarvillkor för tv4.se Uppdaterade februari 2025",
+          "body_text": "Allmänna användarvillkor för TV4:s tjänster Allmänna användarvillkor för tv4.se Uppdaterade februari 2025 Tv4.se ägs och tillhandahålls av TV4 AB (org nr 556242-7152), (”TV4”). Genom att använda Tv4.se bekräftar du att du accepterar dessa villkor för användningen av det innehåll som tillgängliggörs via Tv4.se. TV4 har rätt att när som helst ändra dessa Användarvillkor. Sådan ändring kommuniceras endast genom att en uppdaterad version av villkoren publiceras här. Vi rekommenderar därför att du regelbundet tar del av Användarvillkoren. Användarvillkoren gäller oavsett hur du tar del av tv4.se och inkluderar därmed även användning som t.ex. sker via appar. För TV4:s övriga tjänster - tv4play.se, Köket.se samt Fotbollskanalen.se – gäller särskilda villkor som tillhandahålls i respektive tjänst. Tv4.se innehåller material som skyddas enligt Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk. Detta innebär bland annat att du inte har rätt att sprida (göra tillgängligt) eller kopiera hela eller delar av Tv4.se till allmänheten eller på annat sätt använda Tv4.se för kommersiellt bruk. Du får inte heller kringgå eller försöka kringgå tekniska åtgärder mot kopiering. TV4.s material får inte användas i sammanhang som syftar till att undergräva respekten för mänskliga rättigheter eller diskriminerar någon på grund av etnisk tillhörighet kön, religiös uppfattning, sexuell läggning, nationalitet eller liknande. Vi förbehåller oss rätten att vidta åtgärder i syfte att begränsa sådan användning om vi anser detta nödvändigt. Kopiering för privat bruk får ske enligt vissa förutsättningar i enlighet med tillämplig lag. Du får endast använda Tv4.se för eget och privat bruk och i enlighet med vad som i övrigt gäller enligt tillämplig lag. Brott mot vad som nämnts i denna bestämmelse ska alltid anses som ett väsentligt avtalsbrott och medföra rätt för TV4 att utan förvarning omedelbart stänga av dig från att använda Tv4.se. Brott mot denna bestämmelse kan även medföra skadeståndsskyldighet. TV4 förbehåller sig även rätten att, vid upprepade avtalsbrott, blockera relevant IP-nr och/eller kontokort från fortsatt användning av Tv4.se TV4 bär utgivaransvaret för Tv4.se vilket innebär att merparten av innehåll som återfinns i Tv4.se omfattas av detta ansvar. En del av det innehåll som finns på Tv4.se kommer dock från våra användare, så kallat användargenererat innehåll – t.ex. kommentarer och bilder som användare själva lagt upp/publicerat. TV4 ansvarar inte för sådant innehåll vilket betyder att det är användaren som lagt upp innehållet som bär det fulla ansvaret. TV4 är skyldiga att i efterhand granska och ta bort sådant användargenererat innehåll som är i strid med lag, detta i enlighet med den sk BBS lagen (Lag (1998:112) om ansvar för elektroniska anslagstavlor). Därutöver förbehåller sig TV4 rätten att ta bort användargenererat innehåll som TV4 bedömer som olämpligt eller opassande. I syfte att tydliggöra för dig som användare vad som faller inom TV4:s utgivaransvar så markeras detta alltid i vår layout eller genom text.",
+          "url": "https://www.tv4.se/artikel/5742a60ffca38f120d00046b/allmanna-anvandarvillkor-for-tv4-s-tjanster",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2016-05-23T06:41:19Z",
+          "embed_url": "https://www.tv4.se/artikel/5742a60ffca38f120d00046b/allmanna-anvandarvillkor-for-tv4-s-tjanster",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        }
+      ]
     },
     {
       "id": "svt-rapport",
@@ -319,31 +582,6 @@
           "sort_order": 0
         },
         {
-          "id": "333d4e003761",
-          "source_id": "svt-aktuellt",
-          "source_name": "Aktuellt",
-          "provider": "SVT Play",
-          "category": "Fordjupning",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Aktuellt – Ikväll 21:00",
-          "summary": "Skåne-moderatens utspel:: \"Dags att vaska L\" • Nick Alinia i Invandrare för svenskar: Hård kritik mot SVT • Livet och döden: Borde dödshjälp legaliseras?",
-          "body_text": "Skåne-moderatens utspel:: \"Dags att vaska L\" • Nick Alinia i Invandrare för svenskar: Hård kritik mot SVT • Livet och döden: Borde dödshjälp legaliseras? Mer om programmet Avstängde SD-ledamoten: Åkesson om misstankarna • Vänsterpartiet petar kandidater: Stryks efter terrorhyllning • Storbritannien: Ilska mot polisens agerande Mer om programmet Misstänkt barnpornografibrott: SD-ledamot lämnar uppdrag • Trots Trumps motstånd: Kriget mot Hizbollah fortsätter • Amanda Linds ord om S:: \"Bensinpopulism\" Mer om programmet Tonårsutvisningar: Regeringen överens om en ventil • Privata sjukvårdsförsäkringar: Gräddfil eller avlastning? Mer om programmet Centerpartiet: Vad betyder S-flörtarna? • Kongo-Kinshasa: Svensk familj mitt i ebolautbrottet • Jeff Bezos raket exploderade: Försvann i enormt eldhav Mer om programmet Jas Gripen: Ukraina köper svenska plan • Jas Gripen: Hur påverkas Ukrainas försvarsförmåga? • Unik studie: Magnetism behandlar depression hos tonåringar Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
-          "url": "https://www.svtplay.se/video/KN33R7R/aktuellt/ikvall-21-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54258049/1780599243?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T21:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/KN33R7R/aktuellt/ikvall-21-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Fordjupning",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 1
-        },
-        {
           "id": "8be878a5f2bb",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
@@ -366,7 +604,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 1
         },
         {
           "id": "e8cdc376c596",
@@ -391,7 +629,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 2
         },
         {
           "id": "54367049fdd9",
@@ -416,7 +654,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 3
         },
         {
           "id": "9e70f9c92aca",
@@ -433,6 +671,31 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/35812489/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-05T19:00:00Z",
           "embed_url": "https://www.svtplay.se/video/K1qq3zd/aktuellt/imorgon-21-00",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Fordjupning",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 4
+        },
+        {
+          "id": "333d4e003761",
+          "source_id": "svt-aktuellt",
+          "source_name": "Aktuellt",
+          "provider": "SVT Play",
+          "category": "Fordjupning",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Aktuellt – Ikväll 21:00",
+          "summary": "Skåne-moderatens utspel:: \"Dags att vaska L\" • Nick Alinia i Invandrare för svenskar: Hård kritik mot SVT • Livet och döden: Borde dödshjälp legaliseras?",
+          "body_text": "Skåne-moderatens utspel:: \"Dags att vaska L\" • Nick Alinia i Invandrare för svenskar: Hård kritik mot SVT • Livet och döden: Borde dödshjälp legaliseras? Mer om programmet Avstängde SD-ledamoten: Åkesson om misstankarna • Vänsterpartiet petar kandidater: Stryks efter terrorhyllning • Storbritannien: Ilska mot polisens agerande Mer om programmet Misstänkt barnpornografibrott: SD-ledamot lämnar uppdrag • Trots Trumps motstånd: Kriget mot Hizbollah fortsätter • Amanda Linds ord om S:: \"Bensinpopulism\" Mer om programmet Tonårsutvisningar: Regeringen överens om en ventil • Privata sjukvårdsförsäkringar: Gräddfil eller avlastning? Mer om programmet Centerpartiet: Vad betyder S-flörtarna? • Kongo-Kinshasa: Svensk familj mitt i ebolautbrottet • Jeff Bezos raket exploderade: Försvann i enormt eldhav Mer om programmet Jas Gripen: Ukraina köper svenska plan • Jas Gripen: Hur påverkas Ukrainas försvarsförmåga? • Unik studie: Magnetism behandlar depression hos tonåringar Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "url": "https://www.svtplay.se/video/KN33R7R/aktuellt/ikvall-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54258049/1780599243?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T19:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/KN33R7R/aktuellt/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -561,20 +824,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "859e45f02c87",
+          "id": "d57c7567e092",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
           "category": "Sport",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sportnytt – Ikväll 18:33",
-          "summary": "Senaste nytt i sportvärlden.",
-          "body_text": "Senaste nytt i sportvärlden. Mer om programmet Publicerades: Mån 1 jun 18:33 4 min 57 sek Publicerades: Sön 31 maj 17:55 4 min 57 sek Publicerades: Fre 29 maj 18:33 4 min 51 sek Publicerades: Ons 27 maj 18:33 4 min 59 sek Publicerades: Tis 26 maj 18:33 3 min 50 sek De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
-          "url": "https://www.svtplay.se/video/jXvv9wb/sportnytt/ikvall-18-33",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54257446/1780591866?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T16:33:00Z",
-          "embed_url": "https://www.svtplay.se/video/jXvv9wb/sportnytt/ikvall-18-33",
+          "title": "Sportnytt – Imorgon 06:45",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/eorrPP3/sportnytt/imorgon-06-45",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T04:45:00Z",
+          "embed_url": "https://www.svtplay.se/video/eorrPP3/sportnytt/imorgon-06-45",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -582,24 +845,24 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 0
         },
         {
-          "id": "67cb1c1e3563",
+          "id": "14da98762950",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
           "category": "Sport",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sportnytt – Igår 21:46",
+          "title": "Sportnytt – Ikväll 21:46",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
-          "url": "https://www.svtplay.se/video/jxggzDb/sportnytt/igar-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54251974/1780517771?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-03T19:46:00Z",
-          "embed_url": "https://www.svtplay.se/video/jxggzDb/sportnytt/igar-21-46",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "url": "https://www.svtplay.se/video/jN33pGq/sportnytt/ikvall-21-46",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54258130/1780603966?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T19:46:00Z",
+          "embed_url": "https://www.svtplay.se/video/jN33pGq/sportnytt/ikvall-21-46",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -611,20 +874,20 @@
           "sort_order": 1
         },
         {
-          "id": "750b628bf3a6",
+          "id": "67cb1c1e3563",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
           "category": "Sport",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sportnytt – Igår 18:33",
-          "summary": "Senaste nytt i sportvärlden.",
-          "body_text": "Senaste nytt i sportvärlden. Mer om programmet Publicerades: Mån 1 jun 18:33 4 min 57 sek Publicerades: Sön 31 maj 17:55 4 min 57 sek Publicerades: Fre 29 maj 18:33 4 min 51 sek Publicerades: Ons 27 maj 18:33 4 min 59 sek Publicerades: Tis 26 maj 18:33 3 min 50 sek De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
-          "url": "https://www.svtplay.se/video/8DvvqN2/sportnytt/igar-18-33",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54251218/1780505521?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-03T16:33:00Z",
-          "embed_url": "https://www.svtplay.se/video/8DvvqN2/sportnytt/igar-18-33",
+          "title": "Sportnytt – Igår 21:46",
+          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "url": "https://www.svtplay.se/video/jxggzDb/sportnytt/igar-21-46",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54251974/1780517771?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-03T19:46:00Z",
+          "embed_url": "https://www.svtplay.se/video/jxggzDb/sportnytt/igar-21-46",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -645,7 +908,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 2 jun 21:46",
           "summary": "Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
           "url": "https://www.svtplay.se/video/jVwwGwM/sportnytt/tis-2-jun-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54246106/1780431604?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-02T19:46:00Z",
@@ -670,7 +933,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 1 jun 21:46",
           "summary": "Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
           "url": "https://www.svtplay.se/video/egWWGWp/sportnytt/man-1-jun-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54240253/1780344384?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-01T19:46:00Z",
@@ -695,7 +958,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 30 maj 19:45",
           "summary": "Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
           "url": "https://www.svtplay.se/video/8YqqGbE/sportnytt/lor-30-maj-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54233674/1780175917?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-30T17:45:00Z",
@@ -720,7 +983,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 29 maj 21:30",
           "summary": "Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
           "url": "https://www.svtplay.se/video/eakkGko/sportnytt/fre-29-maj-21-30",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54233680/1780176023?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-29T19:30:00Z",
@@ -745,7 +1008,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 28 maj 21:46",
           "summary": "Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
           "url": "https://www.svtplay.se/video/e3ddzdN/sportnytt/tor-28-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54231307/1780040574?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-28T19:46:00Z",
@@ -770,7 +1033,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 27 maj 21:46",
           "summary": "Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
           "url": "https://www.svtplay.se/video/jR55n5a/sportnytt/ons-27-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54223567/1779948318?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-27T19:46:00Z",
@@ -795,7 +1058,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 26 maj 21:46",
           "summary": "Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
           "url": "https://www.svtplay.se/video/82ddEdA/sportnytt/tis-26-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54223552/1779947962?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-26T19:46:00Z",
@@ -820,7 +1083,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 25 maj 21:46",
           "summary": "Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
           "url": "https://www.svtplay.se/video/jn4454Y/sportnytt/man-25-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54214480/1779795296?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-25T19:46:00Z",
@@ -836,20 +1099,20 @@
           "sort_order": 10
         },
         {
-          "id": "ea95c39ff237",
+          "id": "43b0106647cc",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
           "category": "Sport",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sportnytt – Lör 23 maj 19:45",
-          "summary": "Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Andreas Almgren tvingades bryta Diamond League-tävling • Hammarby vann toppmötet • Halmstad tog första segern Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play",
-          "url": "https://www.svtplay.se/video/jAMMPVo/sportnytt/lor-23-maj-19-45",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54203377/1779598815?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-23T17:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/jAMMPVo/sportnytt/lor-23-maj-19-45",
+          "title": "SVT Sport möter Graham Potter",
+          "summary": "I oktober 2025 tog engelsmannen Graham Potter över som förbundskapten för det svenska herrlandslaget i fotboll - efter att hans föregångare Jon Dahl Tomasson misslyckats med att ta Sverige direkt till fotbolls-VM. 50-årige Potter har ett förflutet som tränare för Premier League-klubbarna Brighton och Chelsea. Men för den svenska publiken är han kanske främst förknippad med sitt tränarjobb i Östersunds FK, som han tog från division 2 ända upp till allsvenskan. Så hur ska då Graham Potter vända den negativa trend som herrlandslaget befinner sig i? Har han vad som krävs för att Sverige ska ta sig till VM i sommar? Det och mycket annat frågade SVT Sports programledare André Pops honom.",
+          "body_text": "Nyheter och snackisar från FIFA Fotbolls-VM 2026 Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/ja4EWMQ/svt-sport-moter-graham-potter",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/53895511/1773153966?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-03-10T01:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/ja4EWMQ/svt-sport-moter-graham-potter",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1095,7 +1358,7 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "49feeb3e0560",
+          "id": "1b7d39af5e7d",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
           "provider": "SVT Play",
@@ -1105,10 +1368,10 @@
           "title": "Kulturnyheterna – Ikväll 21:38",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "url": "https://www.svtplay.se/video/eorrxEB/kulturnyheterna/ikvall-21-38",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52371355/1737553575?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T19:38:00Z",
-          "embed_url": "https://www.svtplay.se/video/eorrxEB/kulturnyheterna/ikvall-21-38",
+          "url": "https://www.svtplay.se/video/eorrxEB/kulturnyheterna/ikvall-21-38?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54258118/1780603356?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T06:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/eorrxEB/kulturnyheterna/ikvall-21-38?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1132,7 +1395,7 @@
           "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
           "url": "https://www.svtplay.se/video/jAMMxEp/kulturnyheterna/ikvall-18-24?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54257257/1780591266?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-03T18:24:00Z",
+          "published_at": "2026-06-05T06:41:00Z",
           "embed_url": "https://www.svtplay.se/video/jAMMxEp/kulturnyheterna/ikvall-18-24?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -1143,6 +1406,206 @@
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "194f8b326a07",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Tis 2 jun 18:24",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
+          "url": "https://www.svtplay.se/video/8WmmxNg/kulturnyheterna/tis-2-jun-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54245071/1780418476?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T06:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/8WmmxNg/kulturnyheterna/tis-2-jun-18-24?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "1e9c6b86d258",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Mån 1 jun 18:24",
+          "summary": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen",
+          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
+          "url": "https://www.svtplay.se/video/jkAAXNE/kulturnyheterna/man-1-jun-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54239398/1780332276?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T06:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/jkAAXNE/kulturnyheterna/man-1-jun-18-24?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "cf5353459234",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Tor 28 maj 18:24",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
+          "url": "https://www.svtplay.se/video/eJyyxnx/kulturnyheterna/tor-28-maj-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54226894/1779986696?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T06:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/eJyyxnx/kulturnyheterna/tor-28-maj-18-24?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "cd1efec5b7d5",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Idag 09:41",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/KPBa25a/kulturnyheterna/idag-09-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54255859/1780560061?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T09:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/KPBa25a/kulturnyheterna/idag-09-41?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "9070ecc36f45",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Idag 08:41",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/e5dvr69/kulturnyheterna/idag-08-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54254710/1780556451?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T08:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/e5dvr69/kulturnyheterna/idag-08-41?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "bedc3cd45224",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Idag 07:41",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/eb36QAM/kulturnyheterna/idag-07-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54253636/1780552911?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T07:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/eb36QAM/kulturnyheterna/idag-07-41?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "6f2ea3f7a5d6",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Idag 06:41",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/jmyqdXr/kulturnyheterna/idag-06-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54252550/1780549241?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T06:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/jmyqdXr/kulturnyheterna/idag-06-41?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "dfa416a200ff",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Igår 21:38",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/jb33xD5/kulturnyheterna/igar-21-38?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54251953/1780517122?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-03T21:38:00Z",
+          "embed_url": "https://www.svtplay.se/video/jb33xD5/kulturnyheterna/igar-21-38?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 9
         },
         {
           "id": "6fa384dd29f5",
@@ -1167,223 +1630,23 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "194f8b326a07",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Tis 2 jun 18:24",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
-          "url": "https://www.svtplay.se/video/8WmmxNg/kulturnyheterna/tis-2-jun-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54245071/1780418476?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-03T18:24:00Z",
-          "embed_url": "https://www.svtplay.se/video/8WmmxNg/kulturnyheterna/tis-2-jun-18-24?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "1e9c6b86d258",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Mån 1 jun 18:24",
-          "summary": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen",
-          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
-          "url": "https://www.svtplay.se/video/jkAAXNE/kulturnyheterna/man-1-jun-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54239398/1780332276?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-03T18:24:00Z",
-          "embed_url": "https://www.svtplay.se/video/jkAAXNE/kulturnyheterna/man-1-jun-18-24?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "cf5353459234",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Tor 28 maj 18:24",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
-          "url": "https://www.svtplay.se/video/eJyyxnx/kulturnyheterna/tor-28-maj-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54226894/1779986696?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-03T18:24:00Z",
-          "embed_url": "https://www.svtplay.se/video/eJyyxnx/kulturnyheterna/tor-28-maj-18-24?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "0b99714c2c3c",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna special: Avgörs valet på TikTok?",
-          "summary": "För första gången finns alla partiledare på Tiktok, samtidigt som nästan hälften av alla förstagångsväljare säger att de oftare tar del av politik på sociala medier än i tidningar, radio och tv. Vad gör det här med politiken, och är det på en kinesisk plattform som framställs som en säkerhetsrisk som det svenska valet kommer att avgöras? Medverkande: Emanuel Karlsten, journalist, Kajsa Falasca, forskare, och Oscar Samuelsson, kommunikationsrådgivare. Programledare: Cecilia Tiberg.",
-          "body_text": "Allt du inte visste att du behövde veta om svensk politik Sveriges politiker som du aldrig har sett dem förut",
-          "url": "https://www.svtplay.se/video/jQ7EbBY/kulturnyheterna-special-2",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54184045/1779191150?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-20T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jQ7EbBY/kulturnyheterna-special-2",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "e8cc31c5bfa7",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna special: Ska jag göra botox?",
-          "summary": "Aldrig har det varit vanligare att skönhetsoperera sig: kvinnor åldras baklänges, skådisar kan inte röra en min och känslorna tycks försvagas av botoxade ansikten. När ett injicerat och lyft ansikte blir vanligare än ett som åldras naturligt måste vi fråga: Hur påverkar det oss? Programledare: Sara-Gül Kangöz.",
-          "body_text": "USA-reportage med Stefan Åsberg inför valet Aldrig har det varit vanligare att skönhetsoperera sig: kvinnor åldras baklänges, skådisar kan inte röra en min och känslorna tycks försvagas av botoxade ansikten. När ett injicerat och lyft ansikte blir vanligare än ett som åldras naturligt måste vi fråga: Hur påverkar det oss? Programledare: Sara-Gül Kangöz.",
-          "url": "https://www.svtplay.se/video/edPy94R/kulturnyheterna-special-ska-jag-gora-botox",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54003130/1775119687?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-04-07T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/edPy94R/kulturnyheterna-special-ska-jag-gora-botox",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "0c366eefb0c9",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna special: Har kulturen blivit dålig?",
-          "summary": "Har dagens populärkultur blivit så näringsfattig av algoritmer, kommersialism och slappa kulturjournalister - att den håller på att tappa sin relevans? Kvar finns bara underhållning. Det påstår författaren W David Marx i boken Blank Space. Vi frågar oss om kulturen har blivit dålig trots att det aldrig varit så lätt att hitta musik, filmer, böcker och konst? Medverkande: Andres Lokko, musikjournalist Svd, Saga Cavallin, kulturjournalist Bon, och Ola Söderholm, kulturjournalist och poddare, Stormens utveckling. Programledare: Kristofer Lundström.",
-          "body_text": "De tio utvalda musikverken i den svenska kulturkanon USA-reportage med Stefan Åsberg inför valet",
-          "url": "https://www.svtplay.se/video/8Wvr9yp/kulturnyheterna-special-1",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53959483/1774369874?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-03-26T01:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8Wvr9yp/kulturnyheterna-special-1",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "4767d3381d22",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna special: Exponerad barndom",
-          "summary": "De är vår tids barnstjärnor. De som blivit kända på sociala medier, antingen för att föräldrarna delat med sig av bilder och videos, eller att de gjort det själva redan i unga år. Men hur påverkas man egentligen av att dokumenteras och exponeras från sekunden man kommit till världen? Och vad kostar det för barnen när föräldrar delar med sig av något så personligt som barnets diagnoser? Gäster: Lovisa Karlsson, Anitha Clemence och Gabriel Odenhammar. Programledare: Hannah Lindgren.",
-          "body_text": "USA-reportage med Stefan Åsberg inför valet De är vår tids barnstjärnor. De som blivit kända på sociala medier, antingen för att föräldrarna delat med sig av bilder och videos, eller att de gjort det själva redan i unga år. Men hur påverkas man egentligen av att dokumenteras och exponeras från sekunden man kommit till världen? Och vad kostar det för barnen när föräldrar delar med sig av något så personligt som barnets diagnoser? Gäster: Lovisa Karlsson, Anitha Clemence och Gabriel Odenhammar. Programledare: Hannah Lindgren.",
-          "url": "https://www.svtplay.se/video/8opX62M/kulturnyheterna-special-exponerad-barndom",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53815313/1771585615?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-02-25T01:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8opX62M/kulturnyheterna-special-exponerad-barndom",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "b005ad0427b6",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Jazz: Hiromi's Sonicwonder",
-          "summary": "Den japanska pianisten Hiromi Uehara har varit en av den internationella jazzscenens fixstjärnor under sin mer än 20 år långa karriär, berömd för sin virtuosa teknik och energiska scenframträdanden. Här ser vi henne tillsammans med hennes nya grupp Sonicwonder i en inspelning från jazzfestivalen i Vienne sommaren 2024. (Frankrike, 2024)",
-          "body_text": "Den japanska pianisten Hiromi Uehara har varit en av den internationella jazzscenens fixstjärnor under sin mer än 20 år långa karriär, berömd för sin virtuosa teknik och energiska scenframträdanden. Här ser vi henne tillsammans med hennes nya grupp Sonicwonder i en inspelning från jazzfestivalen i Vienne sommaren 2024. (Frankrike, 2024) Hiromi's Sonicwonder - live at Jazz à Vienne",
-          "url": "https://www.svtplay.se/video/8WvrRRV/jazz-hiromis-sonicwonder",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52731751/1745998973?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-05-09T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8WvrRRV/jazz-hiromis-sonicwonder",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": true,
           "sort_order": 10
         },
         {
-          "id": "c8007b73d788",
+          "id": "d6f59e1c6003",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
           "provider": "SVT Play",
           "category": "Kultur",
           "surface": "video",
           "source_kind": "video",
-          "title": "Ett omöjligt uppdrag",
-          "summary": "Dokumentär om förberedelserna inför Fredrik Skavlans nya intervju- och debattshow \"Skavlan & Sverige\". Han tar också med oss på en upptäcktsresa genom den svenska debatthistorien med mängder av roliga och häpnadsväckande klipp från gamla tv-debatter, kommenterade av dem som var med.",
-          "body_text": "Dokumentär om förberedelserna inför Fredrik Skavlans nya intervju- och debattshow \"Skavlan & Sverige\". Han tar också med oss på en upptäcktsresa genom den svenska debatthistorien med mängder av roliga och häpnadsväckande klipp från gamla tv-debatter, kommenterade av dem som var med.",
-          "url": "https://www.svtplay.se/video/KZmQAmn/ett-omojligt-uppdrag",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53042556/1755083675?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": null,
-          "embed_url": "https://www.svtplay.se/video/KZmQAmn/ett-omojligt-uppdrag",
+          "title": "Kulturnyheterna – Igår 09:41",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/KrQD9mo/kulturnyheterna/igar-09-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54249667/1780473716?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-03T09:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/KrQD9mo/kulturnyheterna/igar-09-41?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1437,6 +1700,156 @@
           "sort_order": 0
         },
         {
+          "id": "4bca8f2b1630",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "US Navy official says Operation Epic Fury wasn’t factored into military’s budget | Fox News Video",
+          "summary": "Fox News chief national security correspondent Jennifer Griffin reports on the Pentagon’s ‘tough’ budget decisions on ‘America Reports.’",
+          "body_text": "Fox News chief national security correspondent Jennifer Griffin reports on the Pentagon’s ‘tough’ budget decisions on ‘America Reports.’",
+          "url": "https://www.foxnews.com/video/6397570627112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc3c61f6-69a0-45dc-991c-a30769fb1701/31676747-bde2-456c-947b-a6f7c21b2752/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-04T20:19:12Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397570627112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "b4dfe1af095e",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "'This is America, Jack': Tyrus slams White House UFC event criticism | Fox News Video",
+          "summary": "Fox News contributor Tyrus laughs off CNN's suggestion that the White House UFC event is akin to authoritarian shows of power on 'America Reports.'",
+          "body_text": "Fox News contributor Tyrus laughs off CNN's suggestion that the White House UFC event is akin to authoritarian shows of power on 'America Reports.'",
+          "url": "https://www.foxnews.com/video/6397564170112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/47981be6-2dbb-479d-a9d2-e5f9739ef59e/e8f12352-079a-4c8b-aaf6-7321ef90362c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-04T20:08:58Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397564170112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "97c25b5f4fc7",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Legacy media melting down over White House UFC event | Fox News Video",
+          "summary": "Fox News contributor Tyrus blasts legacy media comparisons between the White House UFC event and authoritarian governments on 'America Reports.'",
+          "body_text": "Fox News contributor Tyrus blasts legacy media comparisons between the White House UFC event and authoritarian governments on 'America Reports.'",
+          "url": "https://www.foxnews.com/video/6397564358112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bef6d1a9-b1cd-4ee7-9b96-3ad66deee713/9efb167d-a1f4-4f22-9249-6680cda08d15/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-04T20:02:46Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397564358112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "1a26fcb1f27b",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Iran's blame game: Tehran denies responsibility for Kuwait strike YT: Iran needs to 'FEAR' the United States, foreign policy expert says | Fox News Video",
+          "summary": "Foundation for Defense of Democracies CEO Mark Dubowitz analyzes the latest on the purported ceasefire with Iran on 'America Reports.'",
+          "body_text": "Foundation for Defense of Democracies CEO Mark Dubowitz analyzes the latest on the purported ceasefire with Iran on 'America Reports.'",
+          "url": "https://www.foxnews.com/video/6397565870112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70bca017-8d85-4436-8908-04550427e6e7/1e53df66-bda0-490c-a301-279557d8fc76/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-04T19:53:51Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397565870112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "ba8c16bc00c3",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Karmelo Anthony murder trial begins | Fox News Video",
+          "summary": "Fox News correspondent Brooke Taylor and UC Berkeley law professor John Yoo discuss the murder trial of 19-year-old Karmelo Anthony on ‘America Reports.’",
+          "body_text": "Fox News correspondent Brooke Taylor and UC Berkeley law professor John Yoo discuss the murder trial of 19-year-old Karmelo Anthony on ‘America Reports.’",
+          "url": "https://www.foxnews.com/video/6397564173112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/749448e7-61ae-400d-89a7-6762a80bd4e2/fb1a802b-a283-464c-b7ab-6cc8e297196e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-04T19:39:22Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397564173112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "9e062175a23c",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Mamdani-backed congressional candidate exposed for anti-American posts and radical views | Fox News Video",
+          "summary": "Washington Times editor-at-large Alex Swoyer and former Harris-Walz battleground director Dan Kanninen discuss scrutiny surrounding congressional candidate Darializa Avila Chevalier on ‘America Reports.’",
+          "body_text": "Washington Times editor-at-large Alex Swoyer and former Harris-Walz battleground director Dan Kanninen discuss scrutiny surrounding congressional candidate Darializa Avila Chevalier on ‘America Reports.’",
+          "url": "https://www.foxnews.com/video/6397561411112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ad32329-bee2-477e-807e-5c7f8a0c290f/16bcca43-b462-470d-85c5-175c855b4efb/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-04T19:32:12Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397561411112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
           "id": "beae5db15240",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1459,7 +1872,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 7
         },
         {
           "id": "6b2643b3447f",
@@ -1484,7 +1897,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 8
         },
         {
           "id": "d7e946452f7a",
@@ -1509,7 +1922,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 9
         },
         {
           "id": "cfb8b33817ea",
@@ -1534,156 +1947,6 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "afa3136a2268",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Hezbollah rejects Israel-Lebanon ceasefire as Trump weighs Iran deal | Fox News Video",
-          "summary": "Peter Doocy reports after Hezbollah rejected a ceasefire agreement between Israel and Lebanon, demanding Israel withdraw. Retired Navy Commander Kirk Lippold discusses Iran's tactics and the need for U.S. resolve.",
-          "body_text": "Peter Doocy reports after Hezbollah rejected a ceasefire agreement between Israel and Lebanon, demanding Israel withdraw. Retired Navy Commander Kirk Lippold discusses Iran's tactics and the need for U.S. resolve. Peter Doocy reports after Hezbollah rejected a ceasefire agreement between Israel and Lebanon, demanding Israel withdraw. Former U.S. Navy Commander Kirk Lippold argues Iran uses Hezbollah as a proxy, asserting the U.S. must dictate terms to prevent Iranian nuclear weapons development and ensure regional stability.",
-          "url": "https://www.foxnews.com/video/6397558374112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/696cd76e-ee01-4ec6-b9eb-c67f74e5825b/001ba48f-1c79-4432-96a6-0098b614e972/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-04T18:08:15Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397558374112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "41948c4126d7",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "California faces backlash for slow-vote counting | Fox News Video",
-          "summary": "Fox News’ Matt Finn joins ‘The Faulkner Focus’ with updates on California’s races for governor and Los Angeles mayor as vote counting continues.",
-          "body_text": "Fox News’ Matt Finn joins ‘The Faulkner Focus’ with updates on California’s races for governor and Los Angeles mayor as vote counting continues.",
-          "url": "https://www.foxnews.com/video/6397555305112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c0fefd9-422b-4312-abf9-541a56a0ea77/f2531985-5af4-4fad-85d3-cb3e3bec1101/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-04T17:51:57Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397555305112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "7e88ccd8fffc",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "DOJ exposes $30M Medicaid fraud scheme in Ohio | Fox News Video",
-          "summary": "'Outnumbered' reacts to Acting Attorney General Todd Blanche announcing charges against 14 defendants for Medicaid fraud in Ohio totaling over $50 million.",
-          "body_text": "'Outnumbered' reacts to Acting Attorney General Todd Blanche announcing charges against 14 defendants for Medicaid fraud in Ohio totaling over $50 million. Acting Attorney General Todd Blanche announces charges against 14 defendants in Ohio for Medicaid fraud schemes totaling over $50 million. 'Outnumbered' reacts to the DOJ's nationwide crackdown on government program fraud, including testimony from Daily Wire reporter Luke Rosiak. They highlight various fraud cases, discuss public concern, and the impact on those relying on aid, emphasizing foreign government involvement and the mindset of fraudsters.",
-          "url": "https://www.foxnews.com/video/6397554786112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a508a5-be25-4486-85a6-ecc3791c3510/e2944166-ab5d-4772-ae2b-63bb5ce949b1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-04T17:46:26Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397554786112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "e7a307154a48",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "WTC bombing victim's cousin slams NJ Dem primary winner for terrorist ties | Fox News Video",
-          "summary": "Andrew Colabella, cousin of 1993 World Trade Center bombing victim John DiGiovanni, expresses outrage after New Jersey Democrat Adam Hamawy, who defended the attack's mastermind, won a primary election.",
-          "body_text": "Andrew Colabella, cousin of 1993 World Trade Center bombing victim John DiGiovanni, expresses outrage after New Jersey Democrat Adam Hamawy, who defended the attack's mastermind, won a primary election. Andrew Colabella, cousin of John DiGiovanni, a victim of the 1993 World Trade Center bombing, speaks out on 'The Faulkner Focus' after New Jersey Democrat Adam Hamawy's primary win. Colabella condemns Hamawy's past defense testimony for the attack's mastermind, calling his nomination a 'disheartening' threat to democracy and an 'insult to injury' for victims' families.",
-          "url": "https://www.foxnews.com/video/6397551112112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cee9eef-d13c-4172-8c39-d487b78ffcf1/f529a247-10c2-41a9-b237-ebac02bb7d38/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-04T16:56:20Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397551112112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "9ff970e0c50e",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "NJ Dem primary winner defended 1993 World Trade Center bomber | Fox News Video",
-          "summary": "Fox News' Eric Shawn provides details on New Jersey Democrat Adam Hamawy's past defense of Omar Abdel-Rahman, the 'Blind Sheikh' and mastermind of the 1993 World Trade Center bombing.",
-          "body_text": "Fox News' Eric Shawn provides details on New Jersey Democrat Adam Hamawy's past defense of Omar Abdel-Rahman, the 'Blind Sheikh' and mastermind of the 1993 World Trade Center bombing. New Jersey Democrat Adam Hamawy's primary win sparks outrage due to his controversial past. He testified for the defense of Omar Abdel-Rahman, the \"Blind Sheikh,\" mastermind of the 1993 World Trade Center bombing that killed six and injured over a thousand. Prosecutor Andy McCarthy and Fox News' Eric Shawn reveal Hamawy volunteered his defense testimony for the convicted terrorist.",
-          "url": "https://www.foxnews.com/video/6397551237112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d6a03f-4409-44f9-a621-f96598173e39/abdf1ff0-dee2-4088-b2ad-22f98e90f08f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-04T16:54:32Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397551237112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "fa6df380cdb2",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "America 250: Clara Barton | Fox News Video",
-          "summary": "Known as the “Angel of the Battlefield,” Clara Barton risked her life delivering supplies and providing medical care near the front lines of the Civil War.",
-          "body_text": "Known as the “Angel of the Battlefield,” Clara Barton risked her life delivering supplies and providing medical care near the front lines of the Civil War. Clara Barton was born in Oxford, Massachusetts, in 1821, the youngest of five children. When the Civil War began in 1861, she left her job to care for wounded Union soldiers on the battlefield. Known as the “Angel of the Battlefield,” she risked her life delivering supplies and providing medical care near the front lines. After the war, Barton worked to locate missing soldiers and helped notify their families. In 1881, she founded the American Red Cross, which was soon officially recognized by the U.S. government. Barton served as its president for more than two decades, retiring in 1904, before she died in 1912 at the age of 91.",
-          "url": "https://www.foxnews.com/video/6397549941112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c87314db-5f91-465a-a9f8-63509fb447bb/1af3c8d5-7356-4682-a490-36b8230192b9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-04T16:53:01Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397549941112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
           "sort_order": 10
         },
         {
@@ -1762,20 +2025,20 @@
           "sort_order": 13
         },
         {
-          "id": "dd7868b3cb07",
+          "id": "3ebea179e1f6",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "WATCH LIVE: Lawmakers hold hearing on alleged CCP links to fentanyl crisis | Fox News Video",
-          "summary": "Subcommittee members hold hearing on \"Beijing’s Poison Pipeline: The CCP’s Role in the Fentanyl Crisis\" to examine whether actions by the Chinese government and Chinese companies are fueling a crisis claiming lives across the United States.",
-          "body_text": "Subcommittee members hold hearing on \"Beijing’s Poison Pipeline: The CCP’s Role in the Fentanyl Crisis\" to examine whether actions by the Chinese government and Chinese companies are fueling a crisis claiming lives across the United States.",
-          "url": "https://www.foxnews.com/video/6397555572112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4c474b7-9097-4fcf-8b6b-1d38b6f84da7/f946f907-8a6b-4642-855b-8452551c28e6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-04T17:35:47Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397555572112",
+          "title": "The Faulkner Focus - Thursday, June 4 | Fox News Video",
+          "summary": "fraud, Platner, gubernatorial race",
+          "body_text": "fraud, Platner, gubernatorial race",
+          "url": "https://www.foxnews.com/video/6397568339112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/0ef79b3d-1d59-4003-a392-0a3327be2b69/81c25799-24fb-413b-8ca1-206d6cbb3357/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-06-04T20:13:02Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397568339112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1783,24 +2046,24 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 14
         },
         {
-          "id": "de925cea2ed5",
+          "id": "1500fd6dcd8b",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "WATCH LIVE: President Trump makes an announcement on clean coal | Fox News Video",
-          "summary": "President Trump delivers remarks on clean coal initiatives, including a $700 million coal industry support plan utilizing the Defense Production Act.",
-          "body_text": "President Trump delivers remarks on clean coal initiatives, including a $700 million coal industry support plan utilizing the Defense Production Act.",
-          "url": "https://www.foxnews.com/video/6397560246112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb13258f-bce5-493b-a40f-666613ba2da6/5e7e99db-2cfa-47fc-892d-2c2278ab7056/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-04T18:40:48Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397560246112",
+          "title": "Fox News at Night - Wednesday, June 3 | Fox News Video",
+          "summary": "FNC, Fox News at Night, Trace Gallagher, New York sewers, California governor race, Los Angeles mayor race, funding bill, Platner, Henry Nowak, Tod Blanche, Iran, peace talks, Pratt, Scott Pelley",
+          "body_text": "FNC, Fox News at Night, Trace Gallagher, New York sewers, California governor race, Los Angeles mayor race, funding bill, Platner, Henry Nowak, Tod Blanche, Iran, peace talks, Pratt, Scott Pelley Hard news and analysis of compelling stories.",
+          "url": "https://www.foxnews.com/video/6397532045112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/4944d860-e7fb-4b83-bb97-382a2b3b75c9/6fb0b12f-86a7-4ca2-b5b7-18575c71a874/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-06-04T12:52:24Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397532045112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1808,7 +2071,7 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 15
         }
       ]
@@ -1864,7 +2127,7 @@
           "summary": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.",
           "body_text": "A British human rights lawyer says the former wife of a nephew of the ruler of Dubai has gone missing. Contact with Zeynab Javadli was lost on Tuesday and the BBC has been told her home in Dubai is locked and empty. Javadli has repeatedly expressed concern for her safety. She's been embroiled for years in a bitter custody battle with her ex-husband, Sheikh Saeed bin Maktoum bin Rashid Al Maktoum. The BBC has contacted a number of officials in the UAE for comment but has received no response as of yet. Friends of Javadli raised the alarm when their phone calls and messages received no reply on Tuesday. The British lawyer and activist, David Haigh, said he last spoke to Javadli on Tuesday night. Since that moment, he said, she has \"vanished\". Neither she nor her three young daughters have been seen or heard from since. He told the BBC no-one in authority has given a \"single answer\" as to what might have happened to her. Javadli's mother - who had just arrived in Dubai for a visit - has since gone to her house and found it empty, with the locks changed. She is understood to have been in touch with police in Dubai and the consulate of Azerbaijan - the country Javadli is from. For months, Javadli had barely left the house as she believed security officers were waiting to take her children from her and possibly put her under arrest. Last year, her ex-husband lodged a complaint with the police accusing her of kidnapping their daughters, in the latest development of their bitter custody dispute.",
           "url": "https://www.bbc.com/news/articles/c362618d9e8o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8004/live/74cbb160-c9e7-11f0-9fb5-5f3a3703a365.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e875/live/5db4d870-604c-11f1-b682-cf91850925ea.jpg",
           "published_at": "2026-06-04T18:01:54Z",
           "embed_url": "https://www.bbc.com/news/articles/c362618d9e8o",
           "play_mode": "page_iframe",
@@ -1910,7 +2173,7 @@
           "source_kind": "mixed",
           "title": "John Bolton expected to plead guilty in classified documents case",
           "summary": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said.",
-          "body_text": "John Bolton, a onetime national security advisor to Donald Trump who evolved into one of his most prominent critics, has reached a deal to plead guilty in his federal classified documents case, according to two people familiar with the matter. Federal prosecutors indicted Bolton last year on 18 counts related to improper handling of classified material. Bolton initially pleaded not guilty. He will plead guilty to one count of retention of national defence information and will pay a $2.25m fine, both people said, requesting anonymity to discuss the not-yet-public deal. Bolton is expected to enter his plea at a re-arraignment hearing on 26 June. A spokesman for the US Attorney's office in Maryland, the division handling the case, noted the hearing date to the BBC but did not comment further. The justice department did not immediately respond to a request for comment. The agreement would have to be approved by a judge before being finalized. The plea deal also recommends no jail time, according to one person familiar with the agreement, but it would fall to a judge at a separate sentencing hearing to decide a sentence. The charge carries a potential penalty of up to 60 months in prison. The justice department charged Bolton last October, accusing him of putting the public at risk by allegedly mishandling classified documents, some marked as top secret, during and after his stint as Trump's national security advisor between April 2018 and September 2019. Some of those documents related to \"diary-like\" entries from his time as national security advisor, that contained national defence information classified up to the top secret level, the indictment alleged. The single charge to which Bolton will plead guilty relates to the diary entries, the individuals familiar with his plea deal told the BBC. Bolton's indictment came on the heels of other high profile criminal cases brought against Trump critics, including former FBI Director James Comey and New York Attorney General Letitia James.",
+          "body_text": "John Bolton, a onetime national security advisor to Donald Trump who evolved into one of his most prominent critics, has reached a deal to plead guilty in his federal classified documents case, according to two people familiar with the matter. Federal prosecutors indicted Bolton last year on 18 counts related to improper handling of classified material. Bolton initially pleaded not guilty. He will plead guilty to one count of retention of national defence information and will pay a $2.25m fine, both people said, requesting anonymity to discuss the not-yet-public deal. Bolton is expected to enter his plea at a re-arraignment hearing on 26 June. A spokesman for the US attorney's office in Maryland, the division handling the case, noted the hearing date to the BBC but did not comment further. The justice department declined to comment. The agreement would have to be approved by a judge before being finalized. The plea deal also recommends no jail time, according to one person familiar with the agreement, but it would fall to a judge at a separate sentencing hearing to decide a sentence. The charge carries a potential penalty of up to 60 months in prison. The justice department charged Bolton last October, accusing him of putting the public at risk by allegedly mishandling classified documents, some designated as top secret or sensitive compartmented information, during and after his stint as Trump's national security advisor between April 2018 and September 2019. Some of those documents related to \"diary-like\" entries from his time as national security advisor, which contained national defence information classified up to the top secret level, the indictment alleged. Bolton was accused of transmitting some of these materials to two relatives, as he wrote his book about his time as national security advisor. The single charge to which Bolton will plead guilty relates to the diary-like entries, the individuals familiar with his plea deal told the BBC. Bolton's indictment came on the heels of other high profile criminal cases brought against Trump critics, including former FBI Director James Comey and New York Attorney General Letitia James.",
           "url": "https://www.bbc.com/news/articles/c2e2e71xyjzo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c19e/live/e507f340-6036-11f1-9792-c579e9d62a5f.jpg",
           "published_at": "2026-06-04T17:42:57Z",
@@ -2054,7 +2317,7 @@
           "source_kind": "mixed",
           "title": "Marjane Satrapi: Oscar-nominated Persepolis author and director dies aged 56",
           "summary": "The French-Iranian author and illustrator was known for her graphic novel series and Oscar-nominated film.",
-          "body_text": "French-Iranian author, illustrator, director and activist Marjane Satrapi, best known for her graphic novel series and film Persepolis, has died aged 56, the Élysée Palace in Paris has confirmed . She \"captivated a global audience with Persepolis\", the palace said, calling her \"a leading figure in French culture and an artist devoted to freedom, whose work carried a universal message and earned her immense international renown\". Persepolis, first published in 2000, follows the story of young Marjane growing up during and after the Iranian Revolution, also known as the Islamic Revolution. Eight years later, the film adaptation was nominated for best animated feature at the Oscars, having been co-directed by Satrapi. News agency AFP quoted a \"member of her close circle\" as saying she had \"died of sadness a little over a year after the death of Mattias Ripa, her husband and the love of her life\". France President Emmanuel Macron paid tribute to \"a great artist who transformed an Iranian childhood into a universal fable\". The palace added: \"With her childlike perspective, her irony, her tenderness, and her inner demons, the author created a deeply moving world with which readers identified.\" Satrapi was an outspoken critic of Iran's government, and Persepolis - her graphic novel memoir-turned bestseller - depicts her childhood in the Iranian capital of Tehran, struggling under the rules imposed by Iran's Islamic leadership following the 1979 revolution. It then goes on to follow her as she is sent to Europe by her parents to begin a life in exile. Satrapi told the Guardian in 2024 that Persepolis was about making western readers reflect on the humanity of Iranian people, and to realise: \"Oh, they're actually human beings like us\". The film version stars Chiara Mastroianni as young Marjane and Catherine Deneuve as her mother. President of the French National Assembly, Yaël Braun-Pivet, posted on X that France had lost \"an immense artist\". She said: \"Marjane Satrapi had turned her work into an act of freedom. With Persepolis, she had given a face and a voice to the Iranian revolution, proudly carrying the fight for women's freedom and dignity.\"",
+          "body_text": "French-Iranian author, illustrator, director and activist Marjane Satrapi, best known for her graphic novel series and film Persepolis, has died aged 56, the Élysée Palace in Paris has confirmed . She \"captivated a global audience with Persepolis\", the palace said, calling her \"a leading figure in French culture and an artist devoted to freedom, whose work carried a universal message and earned her immense international renown\". Persepolis, first published in 2000, follows the story of young Marjane growing up amid the Iranian Revolution, also known as the Islamic Revolution. Eight years later, the film adaptation was nominated for best animated feature at the Oscars, having been co-directed by Satrapi. News agency AFP quoted a \"member of her close circle\" as saying she had \"died of sadness a little over a year after the death of Mattias Ripa, her husband and the love of her life\". France President Emmanuel Macron paid tribute to \"a great artist who transformed an Iranian childhood into a universal fable\". The palace added: \"With her childlike perspective, her irony, her tenderness, and her inner demons, the author created a deeply moving world with which readers identified.\" Satrapi was an outspoken critic of Iran's government, and Persepolis - her graphic novel memoir-turned bestseller - depicts her childhood in the Iranian capital of Tehran, struggling under the rules imposed by Iran's Islamic leadership following the 1979 revolution. It then goes on to follow her as she is sent to Europe by her parents to begin a life in exile. Satrapi told the Guardian in 2024 that Persepolis was about making western readers reflect on the humanity of Iranian people, and to realise: \"Oh, they're actually human beings like us\". The film version stars Chiara Mastroianni as young Marjane and Catherine Deneuve as her mother. President of the French National Assembly, Yaël Braun-Pivet, posted on X that France had lost \"an immense artist\". She said: \"Marjane Satrapi had turned her work into an act of freedom. With Persepolis, she had given a face and a voice to the Iranian revolution, proudly carrying the fight for women's freedom and dignity.\"",
           "url": "https://www.bbc.com/news/articles/c4g0nnj51jyo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/91ee/live/290a58d0-5ffb-11f1-8fb5-d943e40a1a99.jpg",
           "published_at": "2026-06-04T11:54:39Z",
@@ -2117,22 +2380,22 @@
           "sort_order": 11
         },
         {
-          "id": "1b11b68cb65a",
+          "id": "1704e05f087b",
           "source_id": "bbc-video",
           "source_name": "BBC World",
           "provider": "BBC",
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Mogadishu fighting: Heavy gunfire in Somali capital as row over election delay escalates",
-          "summary": "The opposition has called for protests after the president's term in office was extended by a year.",
-          "body_text": "Government forces and opposition fighters have exchanged heavy gunfire in Somalia's capital, Mogadishu, as a row over delays to elections has escalated. President Hassan Sheikh Mohamud's term in office ended on 15 May but was extended by a year. The opposition said this was unconstitutional and called for protests on Thursday. Gunfire was reported in several neighbourhoods of the capital and persisted throughout the night, according to accounts by residents. Police said they were conducting a \"large-scale security operation\" against \"heavily armed militias who launched mortar attacks\" in some areas. Somalia last held a one-person, one-vote election in 1969 and has been ravaged by civil war for more than 30 years. Former Prime Minister Hassan Ali Khaire said he had been attacked by government forces while he and other leaders were preparing for Thursday's \"peaceful\" demonstrations. \"The responsibility for any casualties or damage resulting from this incident lies with the president whose term has expired,\" he said on X. \"This attack is a grave assault on the constitutional rights of Somali citizens and a deliberate attempt to suppress peaceful assembly,\" he added. A resident told the Reuters news agency that a mortar shell had landed on his neighbour's house and injured a mother. \"A big house near us is also ablaze, mortars and other weapons landed on it,\" Ahmed Ismail told the agency on Thursday morning. The number of casualties is not yet known and the president has not commented. In statement on X, former President Sharif Sheikh Ahmed, an ally of Khaire, said the opposition would not be intimidated.",
-          "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ed5b/live/edefa830-5fe2-11f1-a292-23ac7fbac375.jpg",
-          "published_at": "2026-06-04T08:05:33Z",
-          "embed_url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "title": "Can the US, Mexico and Canada set aside their differences as they co-host the World Cup?",
+          "summary": "The tournament comes after a period of fractious relations between the US, Canada and Mexico.",
+          "body_text": "Think of it as being like a dinner party where the hosts are in the midst of a tense argument when you arrive. Football fans travelling to North America for the continent's first co-hosted World Cup will find three host countries who have endured a tense time. The tournament, which will take place across a sprawling 16 host cities and three countries, comes after a period of fractious relations between its hosts: the US, Canada and Mexico. The underlying issues seemed distant when the countries' leaders met for the draw in Washington DC in December and posed for a selfie with Fifa boss Gianni Infantino. But teaming up for a full 39-day tournament is likely to be a different ball game. US President Donald Trump has been unashamedly open about the fact that the US is the dominant power on the continent. That means the very real tensions between the three nations on issues such as trade, immigration and drug-trafficking - which have all simmered since Trump returned to office - could spill back into view. On the other hand, get it right and the World Cup could forge closer ties between the trio. Mexico and Canada, the top trading partners for the US, will not have forgotten that they were among the first countries to be targeted by Trump with tariffs. Canada - which was also angered by Trump's repeated comments about making the country a \"51st state\" of the US - hit back with its own counter-measures. Provinces pulled US alcohol from shelves and Canadians significantly curbed travel south, which irritated the US in return. The issues Canada and Mexico both have with the US have also impacted relationship between them, suggests Carlo Dade, director of international policy at the University of Calgary. Canada had been accused of throwing Mexico under the bus ahead of Trump's second term, as Canadian and US officials argued that Mexico was serving as a back door in North America for Chinese investment. \"It was downright disrespectful,\" Dade comments. That means Canadian Prime Minister Mark Carney has also found himself trying to patch things up with Mexico as he tries to diversify trade away from the US.",
+          "url": "https://www.bbc.com/news/articles/cvgz2081y8ko",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/37e7/live/30c52e40-5fee-11f1-89a3-d1f559421220.jpg",
+          "published_at": "2026-06-04T08:46:23Z",
+          "embed_url": "https://www.bbc.com/news/articles/cvgz2081y8ko",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -3404,6 +3667,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "1df75f43641c",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Startup Battlefield is returning to Australia — here's what happened the last time we came to Sydney | TechCrunch",
+          "summary": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+          "body_text": "In November 2017, TechCrunch brought Startup Battlefield to Australia for the first time. Fifteen startups from across Australia and New Zealand took the stage in Sydney, pitched in front of investors and judges, and competed for a shot at the global stage. It was one day. One stage. And what happened next is exactly why we’re coming back. On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world’s most iconic technology companies. We’re taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won’t forget. Ten selected companies will pitch live in front of top-tier investors, global press, and the best of Australia’s tech community. The top three will win up to $10,000 in Stripe fee credits. The grand winner walks away with something even bigger: automatic entry into Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October — no application required, no competition. Just a guaranteed spot on the world’s most iconic startup stage. But this isn’t just an event for the 10 companies pitching. This is a moment for the entire Australian startup ecosystem — the founders, investors, operators, and builders who have been quietly doing world-class work from the other side of the world. We want every ambitious founder in the room, whether you’re onstage or in the audience, because this is the kind of night that reminds you why you started. Find out who should apply and more details about the Stripe x Startup Battlefield here . Don’t just take our word for it. Here’s what came out of one day in Sydney in 2017. Manuri Gunawardena was a final-year medical student when she pitched HealthMatch — a machine learning platform matching patients with clinical trials. She won . That win turned into over $25 million raised, U.S. expansion, and over 1 million patients globally, backed by Square Peg Capital and SEEK co-founder Paul Bassat. Runner-up FluroSat used hyperspectral imaging to help farmers reduce waste. The Startup Battlefield stage gave the company its first real visibility. A Microsoft M12 seed round followed, then a merger to form Regrow Agriculture — now with over $60 million raised and backed by Microsoft, Airtree, and Cargill. Together, the winner and runner-up from one day in Sydney have raised over $85 million. That’s what happens when you create a stage and invite the right people onto it. Across 26 Australian Battlefield alumni, the collective funding raised exceeds $147 million, with three successful acquisitions. They’ve been backed by Y Combinator, Blackbird Ventures, Square Peg, Khosla Ventures, Microsoft, Airtree, Startmate, Techstars, and SOSV. CancerAid went on to become Osara Health. Life Whisperer partnered with fertility clinics internationally. These were companies the world had never heard of before they stood in a room in Sydney and made their case. That’s what Startup Battlefield does. It finds companies before the world knows their names. We are looking for the next HealthMatch. The next Regrow. The next company nobody has heard of yet, building something that will matter.",
+          "url": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1830095240.jpg?resize=1200,900",
+          "published_at": "2026-06-04T20:55:38Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1830095240.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "de6475a399e0",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Meta steals a tactic from Tesla and builds data centers in tents | TechCrunch",
+          "summary": "Meta may have found one way to slash its massive data center bill: tents.",
+          "body_text": "Just when you thought the AI data center boom couldn’t get any crazier, Meta has gone and built data centers in tents. The strategy appears to borrow in equal parts from Tesla and xAI. In a bid to cut construction time in half, Meta has built six tents — or “rapid deployment structures” as the company describes them — outside of New Albany, Ohio, according to Michael Thomas, founder of Cleanview , which tracks data center deployments. Thomas’ findings aren’t totally new. Meta CEO Mark Zuckerberg spoke to the Information last year about his plan to use weatherproof tents to house the company’s multi-gigawatt data centers. But Thomas’ images and review of local permits showcase the speed of construction and scale of the project. According to city permits reviewed by Thomas, Meta started building five 125,000-square-foot tents between April and June. The satellite images he shared in his post on X show the structures have all been built. The use of tents is reminiscent of those Tesla built in the parking lot of its Fremont, California factory when it was rushing to roll out the Model 3. The site is also powered by 200 megawatts of modular gas turbines nearby, a tactic popularized by competitor xAI. Inside the tents, AI chips, likely worth billions of dollars, will go about their business. Meta is building dozens of massive tents at campuses across the US, sticking billions of dollars of chips inside, and powering them with off-grid turbines. The AI race has officially entered its Mad Max phase. Over the last month, I reviewed hundreds of documents and satellite… pic.twitter.com/U8yDZUlEO0 The tents have sprung up as Meta has struggled to release its AI models to developers. A recent report in the Wall Street Journal found that Meta’s latest model, Muse Spark, is complete, but the APIs that developers rely on to access it have been repeatedly delayed. Meta has said it intends to spend up to $145 billion on data centers and other capital expenditures. Wall Street hasn’t liked the sound of that, with Meta’s stock trading down 5% this year. Putting AI chips in tents is one way to trim the bill. TechCrunch has reached out to Meta for comment and will update this article if it responds. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Tim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.",
+          "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
+          "published_at": "2026-06-04T19:33:09Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "74b95bcee00a",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Apple approves Poke as the first AI agent on its Messages for Business platform | TechCrunch",
+          "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+          "body_text": "Poke , a startup that turns using AI agents into something as simple as sending a text message, has become the first AI agent approved to run on Apple’s Messages for Business platform . Previously, the platform was designed for businesses — airlines, retailers, hotel chains, and others — to communicate with their own customers through iMessage, offering a standardized interface that supports both automated chat and live agents. Until now, it hadn’t been open to stand-alone third-party AI agents. Launched in March, Poke is one of the first AI agents designed to be accessible to everyday users who don’t have the technical skill set or inclination to work with command-line tools or more complex agentic systems, like OpenClaw. Today, Poke can help with common activities, like daily planning, managing your calendar, tracking your health and fitness, controlling your smart home, and editing your photos, all via text message. To date, it’s relayed some 100 million messages, the company tells TechCrunch. The AI service operates over SMS, Telegram, and, in some markets, WhatsApp. Now Poke will be able to add iMessage to its supported platforms. Say hi to the new Poke! 🌴 Now officially approved by Apple to text on Apple Messages. As the first and only AI agent. Chat now: https://t.co/VIWYU64dUI pic.twitter.com/AtZxupI2Ji The news of Poke’s launch on Apple’s Messages for Business comes just days ahead of Apple’s anticipated Worldwide Developers Conference on Monday, where it’s expected to introduce an AI-optimized version of Siri along with other AI tools and services for app developers. It is also rumored that Apple would open its App Store to AI agents. That’s not quite the case here with Poke. Apple’s Messages for Business platform isn’t about offering a consumer-facing mobile app, but rather a way for consumers to interact with a business through iMessage’s interface directly. This allows consumers to reach out to businesses for information, support, appointment scheduling, and more, without having to call them by phone. Poke’s users ask the AI agent a question or make a request, and it responds via text. For founders and investors, the more interesting detail may be the business model it opens up. Marvin von Hagen , co-founder of The Interaction Company of California , the Palo Alto-based startup behind Poke, says his startup will pay Apple on a per-user basis. While he can’t share the exact pricing, he notes that it’s significantly lower than Meta AI, after it increased fees in response to EU regulation that required it to permit third-party AI agents on WhatsApp. That per-user toll structure, applied at scale, represents a potentially meaningful new revenue stream for Apple but also a new cost of distribution that AI agent startups will need to factor in. “I think that Apple is just noticing this is the best way to offer AI, and … actually, good for them, because they charge us. They charge us per user on the platform and actually make money with this, especially if it becomes really big,” von Hagen says. He believes Apple’s support for AI agents will grow over time as well. Getting Apple’s approval required the company to verify that it could offer live support, if needed, and that its AI agent was clearly identified as such. Poke also submitted testimonies from its messaging providers and customized its user interface to meet Apple’s guidelines. For instance, Poke on iMessage has to show link previews instead of inline links, as before, and it uses Apple’s style guide for things like buttons and interface elements. “This took a couple of months to adhere to all of these standards, and it will take anyone else who wants to build on this — it will also take them a couple of months to get through this approval process,” von Hagen said. As for being the first? That had a lot to do with trust. “It was also just important that we were very aligned in terms of the positioning of the company,” he noted, explaining that many consumer products today are about getting to numbers through questionable tactics. “We care about quality, we care to have a brand that signals trust,” von Hagen said.",
+          "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
+          "published_at": "2026-06-04T19:20:58Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "97b130469fba",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3413,7 +3748,7 @@
           "source_kind": "story",
           "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft | TechCrunch",
           "summary": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.",
-          "body_text": "Helion , the fusion startup backed by Sam Altman, announced on Thursday that it had raised $465 million in a new funding round that values the company at $15.5 billion. The cash infusion lands as Helion is racing to complete Orion, its first power plant. The startup has set an aggressive timeline to deploy fusion power to the grid, as early as 2028 if it can deliver on the terms of its deal with Microsoft . The startup last raised $425 million in January 2025 . Altogether, Helion said it has raised $1.5 billion. The new round, a Series G, was led by Thrive Capital with a long list of participants, including new investors Alta Park Capital, Anti Fund, BoxGroup, Lux Capital, Peak XV Partners, and Bill Ford, along with existing investors, which include Capricorn Technology Impact Funds, Lightspeed Venture Partners, Mithril Capital, Dustin Moskovitz through Good Ventures Foundation, SoftBank Vision Fund 2, and a university endowment fund. Helion’s approach to fusion power differs from many of its peers. Some use magnets to contain the superheated plasma required for fusion conditions, while others use lasers to compress fusion fuel until it reacts. In both cases, the majority of startups plan to use steam turbines to transform the intense heat into electricity. But Helion, which uses magnets to compress the fuel, intends to harvest electricity straight from the magnets themselves. When fusion occurs in the plasma inside the reactor, it expands, pushing against the magnetic fields. That force can be drawn off the magnets as electricity, similar to how an electric vehicle can reverse its motors to provide braking force and recharge the battery. Such a configuration would dramatically improve the efficiency of a fusion power plant. But some fusion experts are skeptical it could work. That’s in part because Helion, unlike many of its competitors, doesn’t frequently publish in peer-reviewed journals, so physicists haven’t been able to poke at the theoretical underpinnings. David Kirtley, Helion’s CEO, argues that eventual results from the company’s fusion devices should be sufficient. “We don’t want to theorize about fusion,” he told me last year. “We just want to go build it.” Helion isn’t alone in attracting fresh funding. The fusion sector has become an investor darling in recent months. Focused Energy and Thea Energy both announced new rounds last week: Focused for $240 million , Thea for $100 million . In February, Inertia Energy emerged from stealth with a $450 million Series A , and the month before, Type One Energy said it was in the process of raising $250 million for a Series B. The investments have poured in despite fusion’s lengthy timeline. Though several companies have made progress in recent months on milestones they say pave the way to a viable power plant, most predict they won’t begin operating their first commercial scale power plant until the middle of the next decade at the earliest. Part of the appeal is fusion’s potential to deliver nearly limitless amounts of always-on energy using little more than seawater. For AI-focused tech companies, that’s an attractive proposition. But it also has the potential to disrupt other trillion-dollar energy markets if fusion power companies can aggressively drive costs down. The timelines might be a bit longer than VCs are used to, but the potential payoff could be a lot bigger. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Tim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.",
+          "body_text": "Helion , the fusion startup backed by Sam Altman, announced on Thursday that it had raised $465 million in a new funding round that values the company at $15.5 billion. The cash infusion lands as Helion is racing to complete Orion, its first power plant. The startup has set an aggressive timeline to deploy fusion power to the grid, as early as 2028 if it can deliver on the terms of its deal with Microsoft . The startup last raised $425 million in January 2025 . Altogether, Helion said it has raised $1.5 billion. The new round, a Series G, was led by Thrive Capital with a long list of participants, including new investors Alta Park Capital, Anti Fund, BoxGroup, Lux Capital, Peak XV Partners, and Bill Ford, along with existing investors, which include Capricorn Technology Impact Funds, Lightspeed Venture Partners, Mithril Capital, Dustin Moskovitz through Good Ventures Foundation, SoftBank Vision Fund 2, and a university endowment fund. Helion’s approach to fusion power differs from many of its peers. Some use magnets to contain the superheated plasma required for fusion conditions, while others use lasers to compress fusion fuel until it reacts. In both cases, the majority of startups plan to use steam turbines to transform the intense heat into electricity. But Helion, which uses magnets to compress the fuel, intends to harvest electricity straight from the magnets themselves. When fusion occurs in the plasma inside the reactor, it expands, pushing against the magnetic fields. That force can be drawn off the magnets as electricity, similar to how an electric vehicle can reverse its motors to provide braking force and recharge the battery. Such a configuration would dramatically improve the efficiency of a fusion power plant. But some fusion experts are skeptical it could work. That’s in part because Helion, unlike many of its competitors, doesn’t frequently publish in peer-reviewed journals, so physicists haven’t been able to poke at the theoretical underpinnings. David Kirtley, Helion’s CEO, argues that eventual results from the company’s fusion devices should be sufficient. “We don’t want to theorize about fusion,” he told me last year. “We just want to go build it.” Helion isn’t alone in attracting fresh funding. The fusion sector has become an investor darling in recent months. Focused Energy and Thea Energy both announced new rounds last week: Focused for $240 million , Thea for $100 million . In February, Inertia Energy emerged from stealth with a $450 million Series A , and the month before, Type One Energy said it was in the process of raising $250 million for a Series B. The investments have poured in despite fusion’s lengthy timeline. Though several companies have made progress in recent months on milestones they say pave the way to a viable power plant, most predict they won’t begin operating their first commercial-scale power plant until the middle of the next decade at the earliest. Part of the appeal is fusion’s potential to deliver nearly limitless amounts of always-on energy using little more than seawater. For AI-focused tech companies, that’s an attractive proposition. But it also has the potential to disrupt other trillion-dollar energy markets if fusion power companies can aggressively drive costs down. The timelines might be a bit longer than VCs are used to, but the potential payoff could be a lot bigger. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Tim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.",
           "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Helion-Polaris-D-T.jpeg?resize=1200,800",
           "published_at": "2026-06-04T18:54:08Z",
@@ -3425,31 +3760,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
-        },
-        {
-          "id": "8be8439c4660",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Meta's Oversight Board says account bans lack due process, transparency | TechCrunch",
-          "summary": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.",
-          "body_text": "Meta’s Oversight Board, the independent governing body that makes policy recommendations to the tech company, said Thursday that Meta’s account deactivations lack due process, violations are doled out without clarity, and there’s little customer support for appeals. The board, which recently received increased funding to continue its work through 2028, launched the investigation into Meta’s account violations policy earlier this year to review a case involving threats of violence against a journalist. The board agreed that Meta was right to permanently disable the account due to the severity of the threats. However, in looking into the matter, the board found what it described as “systemic human rights concerns,” and a “lack of transparency and consistency” when it came to Meta’s two-system approach to disabling accounts. That’s a reference to the two different ways accounts can be actioned against: one that involves strikes, some that can be severe, and another for “egregious” violations that merit permanently disabling an account. The board said the difference between what leads to one type of violation or the other isn’t clear or well-documented. The board also called out the social media giant for charging users for Meta Verified access, which is supposed to include “24/7 access to email or chat agent support,” but failing to provide users with disabled accounts any sort of “meaningful assistance.” Meta users across Facebook, Instagram, and other Meta apps have dealt with this problem for years. As Meta’s moderation systems became more automated over the years, there has been little recourse when they make mistakes to get any sort of help from the company. This has been devastating to users who have lost their personal accounts, or even those belonging to their business, over false accusations. Some have even filed lawsuits over the matter or are in the process of doing so. The board took up the matter of permanent bans in a landmark case after a wave of recent bans that affected Facebook and Instagram After covering the bans, TechCrunch received a constant stream of reports from impacted users, begging us to bring their cases to Meta’s attention For instance, retired LA County firefighter and paramedic Richard Pauwels, who was building a wellness brand on Meta’s platforms, claimed his personal account was banned without any specific post being identified and without human review. Automated alleged child sexual exploitation (CSE) violations are another common occurrence leading to bans, which are devastating to innocent parties. For instance, a PR professional reached out to us, asking to remain anonymous because their account was banned for false accusations of CSE, despite no content being cited in their ban and no new posts from them in weeks. Meta’s allegation was “evil and vile,” they told us, and filed a case with the Oversight Board. Another person, Manomi Jayakody, said their account was also banned for CSE, again without any specific content, action, or violation being flagged.",
-          "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802",
-          "published_at": "2026-06-04T16:47:12Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "8948c28c367a",
@@ -3473,7 +3784,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "e0c0430c314c",
@@ -3497,7 +3808,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "c475957ccba4",
@@ -3521,7 +3832,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "fdb65c6bec1a",
@@ -3545,31 +3856,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "b71fc616b0eb",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Quick-commerce FirstClub doubles valuation to $255M in 9 months | TechCrunch",
-          "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
-          "body_text": "In a quick-commerce market obsessed with speed, Indian startup FirstClub has convinced investors that quality may be a fresh opportunity, helping to double its valuation just nine months after its last funding round . The Bengaluru-based startup has raised $55 million in a Series B round co-led by Peak XV Partners and Sofina, valuing the company at $255 million after the investment. That’s up from $120 million when it last raised capital in September 2025. Existing investors Accel, RTP Global, and Paramark Ventures also participated. The latest financing brings FirstClub’s total funding to $86 million. As grocery shopping increasingly moves online, India’s quick-commerce market has expanded rapidly, growing from about $6.2 billion in FY25 to an estimated $11 billion to $12 billion in FY26, according to a recent ICICI Securities report. Leading players have popularized online grocery shopping through ever-faster deliveries. However, FirstClub is wagering that a growing segment of consumers will prioritize quality and product curation over receiving orders as quickly as possible. Founded in 2024 by former Flipkart executive Ayyappan R, FirstClub operates a curated online grocery platform that offers around 4,000 products — roughly a third of the assortment carried by many quick-commerce rivals. The startup says it conducts quality checks on fresh produce, lab-tests certain staples, and works with brands to develop exclusive products, as it seeks to position itself as a trusted destination for groceries rather than a fast-delivery service. “People don’t need a very large selection, but they need the right quality selection, consistently delivered every single time,” Ayyappan said in an interview. FirstClub says more than 60% of its customer base consists of women-led households. Unlike many quick-commerce platforms, where staples such as onions, tomatoes, and potatoes dominate sales, Ayyappan said some of FirstClub’s top-selling products include avocados, persimmons, and Modi apples, reflecting demand for premium and curated grocery offerings. The strategy appears to be resonating with early shoppers. FirstClub says it has crossed 1 million orders and acquired 170,000 households within a year of launching in Bengaluru. The startup is currently operating at an annualized gross market value (meaning total of all goods sold on its platform) of about $50 million, with customers placing more than four orders a month on average and spending roughly ₹1,200 (about $13) per order, Ayyappan told TechCrunch. FirstClub plans to use the fresh capital to expand beyond Bengaluru, where it currently operates 21 stores, and deepen its presence in Hyderabad, where it recently launched with three locations. The startup, which employs about 220 people directly, also plans to expand into categories such as home and kitchen products, gifting, and other household essentials. Peak XV managing director GV Ravishankar said the firm believes India is seeing the emergence of a larger cohort of affluent, health-conscious consumers willing to pay for higher-quality products, creating space for specialized grocery platforms alongside mainstream quick-commerce players. “There will be a specific set of consumers who gravitate toward a better-quality platform that serves trustworthy products,” Ravishankar told TechCrunch. “As Indians become wealthier and more informed, there will be more and more people who make that choice.” Ravishankar compared the trend to the rise of premium grocery chains in developed markets, arguing that India’s retail landscape is beginning to fragment beyond a one-size-fits-all approach centered on price and convenience.",
-          "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/firstclub.jpg?resize=1200,800",
-          "published_at": "2026-06-04T00:30:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/06/firstclub.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "ed66da0fc422",
@@ -3593,7 +3880,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "b1148769570a",
@@ -3617,30 +3904,6 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "dcc9c91454d5",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it | TechCrunch",
-          "summary": "Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs.",
-          "body_text": "Meta’s attempt to pioneer a metaverse and make VR cool totally flopped , except for one shining diamond in the rough: Supernatural , a VR fitness game that made working out feel fun and accessible. Now, users can rejoice that Supernatural isn’t shutting down after all. Meta went through the hassle of fighting an eight-month antitrust battle so that it could acquire Within, the game studio that made Supernatural, in 2023. The deal was reportedly worth around $400 million , plus however much it costs to fight and win an FTC lawsuit. Yet after all that effort, Meta laid off much of its VR team and announced that it would stop adding new content just a few years later. But Meta had a rare moment of mercy and listened to the Supernatural users who protested the app’s sad fate. About five months later, Meta is now letting the Supernatural team spin off into a new independent company called Supernatural Health, which will take over the app later this year. “Supernatural is being reborn. Same coaches, same DNA, same obsession with making fitness feel like the best part of your day — now under a new, independent company we’re starting from the ground up,” Supernatural Health says on its website . Who’s behind Supernatural Health? The original founders, of course. It’s a happy ending, yet it’s maddening. It’s the regulatory equivalent of a high schooler confessing their undying love to their crush through an elaborate prom-posal, then navigating a tense dinner with their date’s parents to prove they have good intentions, only to break up right after the dance. “We’re grateful for the platform and resources Meta provided during a critical growth phase,” Supernatural Health wrote . “This transition reflects a shared belief that Supernatural’s community is best served by a focused, independent team. Meta has been supportive throughout.” I’ll be over here pulling my hair out at how dumb this whole situation has been, but at least I know that one online community has escaped the harsh anvil of big tech. “Like so many of us I was so devastated when the coaches were let go and we were told our beloved Supernatural, while we loved it and it was great, would never get any better than it was. What we had was what we had. We all felt like it was purchased to kill,” one user wrote in the public Supernatural Facebook group. “I am such a sap. Why am I tearing up?” When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos. You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.",
-          "url": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/hero-mr.png.jpeg?w=1200",
-          "published_at": "2026-06-03T19:22:53Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/01/hero-mr.png.jpeg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4096,6 +4359,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "523a9b3aab00",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Lyxyacht beslagtagen – kopplas till Ryssland",
+          "summary": "Båten ska ha rysk ägare, enligt SVT:s uppgifter, och misstänks vara inköpt med brottsliga pengar.",
+          "body_text": "Den svenska polisen och Kustbevakningen har beslagtagit en lyxyacht i Båstad. Båten ska ha rysk ägare, enligt SVT:s uppgifter, och misstänks vara inköpt med pengar som kommer från kriminell verksamhet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Lyxbåten beslagtogs natten till onsdag och har på torsdagen bogserats i väg av Kustbevakningen, enligt lokaltidningen Nu 7Dagar Bjäre . – Det finns inga misstankar om att det förekommit något brott på båten eller att det skulle röra sig om narkotika eller liknande, säger Evelina Olsson, presstalesperson vid polisen syd till tidningen. Polisen vill inte gå in på hur mycket lyxbåten är värd, men det ska röra sig om ett ”högt värde”. Enligt lokaltidningen säljs båtar av samma modell för runt tio miljoner på andrahandsmarknaden. Enligt SVT :s uppgifter har båten rysk ägare och polisen säger till Nu 7DagarBjäre att myndigheten misstänker att den finansierats med pengar från brottslig verksamhet. Lyxyachten ska ha ha legat i hamnen året runt under flera år. Beslaget gjordes med stöd av lagen om självständigt förverkande, men ingen ska ha delgivits misstanke om brott. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/krim/lyxyacht-beslagtagen-av-svenska-polisen-kopplas-till-ryssland/",
+          "image_url": "https://static.bonniernews.se/images/b8/7b/b87b8ae25f404884b44e37ac4fd74ef0/16x9/original.jpg",
+          "published_at": "2026-06-04T20:44:08Z",
+          "embed_url": "https://www.expressen.se/nyheter/krim/lyxyacht-beslagtagen-av-svenska-polisen-kopplas-till-ryssland/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "fe77e50e7ea6",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4105,7 +4392,7 @@
           "source_kind": "story",
           "title": "Zelenskyj föreslår möte med Putin i öppet brev",
           "summary": "”Det här kriget är ditt personliga val”. Det är Volodymyr Zelenskyj budskap i ett öppet brev, där han vänder sig direkt till Vladimir Putin. ”Jag föreslår ett möte”, skriver den ukrainska presidenten.",
-          "body_text": "”Det här kriget är ditt personliga val”. Det är Volodymyr Zelenskyj budskap i ett öppet brev, där han vänder sig direkt till Vladimir Putin. ”Jag föreslår ett möte”, skriver den ukrainska presidenten. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Brevet är långt och adresserat till den ryska federationens president, från Ukrainas president. Volodymyr Zelenskyj inleder med att beskriva att många ukrainare inledningsvis var positiva till Vladimir Putin, när han kom till makten i Ryssland för mer än 26 år sen. Men sen dess har bilden förändrats, och Zelenskyj konstaterar att Putin har krigat mot Ukraina i nästan hälften av sina år vid makten. Och nu börjar ryssarna tröttna på det, enligt den ukrainska ledaren. Han skriver i sitt brev bland annat att det ryska folket inte gillar Ukrainas drönare, konstanta restriktioner eller stigande priser – och att Putin varken kommer ha tillräckligt med pengar eller politiskt kapital att ”fortsätta köpa ryssarnas lojalitet”. Enligt Zelenskyj förlorar den ryska militären långt fler soldater än Ukraina i kriget, men han skriver att varje ukrainsk förlust ändå är ”smärtsam”. ”Var inte rädd att vägen ut ur kriget. Det är det viktigaste som krävs av dig nu”, manar han till Putin. ”Ukraina har bevarat sin självständighet. Och kommer att bevara den. Trots alla förutsägelser om motsatsen.”",
+          "body_text": "”Det här kriget är ditt personliga val”. Det är Volodymyr Zelenskyj budskap i ett öppet brev, där han vänder sig direkt till Vladimir Putin. ”Jag föreslår ett möte”, skriver den ukrainska presidenten. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Brevet är långt och adresserat till den ryska federationens president, från Ukrainas president. Volodymyr Zelenskyj inleder med att beskriva att många ukrainare inledningsvis var positiva till Vladimir Putin, när han kom till makten i Ryssland för mer än 26 år sen. Men sen dess har bilden förändrats, och Zelenskyj konstaterar att Putin har krigat mot Ukraina i nästan hälften av sina år vid makten. Och nu börjar ryssarna tröttna på det, enligt den ukrainska ledaren. Han skriver i sitt brev bland annat att det ryska folket inte gillar Ukrainas drönare, konstanta restriktioner eller stigande priser – och att Putin varken kommer ha tillräckligt med pengar eller politiskt kapital att ”fortsätta köpa ryssarnas lojalitet”. Enligt Zelenskyj förlorar den ryska militären långt fler soldater än Ukraina i kriget, men han skriver att varje ukrainsk förlust ändå är ”smärtsam”. ”Var inte rädd att ta vägen ut ur kriget. Det är det viktigaste som krävs av dig nu”, manar han till Putin. ”Ukraina har bevarat sin självständighet. Och kommer att bevara den. Trots alla förutsägelser om motsatsen.”",
           "url": "https://www.expressen.se/nyheter/varlden/zelenskyj-foreslar-mote-med-putin-i-oppet-brev/",
           "image_url": "https://static.bonniernews.se/images/b2/dc/b2dce41caa70433aa8fde363fed9bc5c/16x9/original.png",
           "published_at": "2026-06-04T19:01:21Z",
@@ -4117,7 +4404,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "51f675ef2978",
@@ -4127,11 +4414,11 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Putin i nytt tal – kraven på fred",
-          "summary": "Rysslands mål är fortfarande en full demilitarisering av Ukraina, säger president Putin. Men samtidigt stänger han inte dörren för ett fredsavtal – om Ukraina är villigt att göra kompromisser.",
-          "body_text": "Rysslands mål är fortfarande en full demilitarisering av Ukraina, säger president Putin. Men samtidigt stänger han inte dörren för ett fredsavtal – om Ukraina är villigt att göra kompromisser. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vladimir Putin visade under ett pressmöte med internationella journalister en vilja för fred med Ukraina. Han uttryckte förtroende för att Ryssland kan nå sina mål i Ukraina militärt, men att han hellre ser dem uppfyllas genom ett fredsavtal. Detta avtal – enligt Reuters i så fall baserat på det avtal han ska ha kommit överens om med Donald Trump i Alaska i fjol – hänger enligt Putin dock på Ukrainas vilja att kompromissa. – Om man inte kan nå en överenskommelse på fredlig väg så måste man söka en militär lösning, säger Putin. – Vi vill se till att det inte kan finnas några väpnade styrkor i Ukraina som kan utgöra ett hot mot Ryssland. Hans ord om att nå fred genom avtal kommer dock alldeles efter att han hotat med att utvidga användandet av den hypersoniska roboten Oresjnik mot Ukraina, som enligt Putin inte har använts med full förmåga. Roboten som färdas i många gånger ljudets hastighet och använts tre gånger i kriget, kan enligt Ryssland bestyckas med kärnvapen. Efter uppmärksammade ukrainska drönarattacker mot Ryssland, inte minst mot S:t Petersburg på onsdagen i samband med det ekonomiska forum som pågår där, säger han också att Ryssland måste stärka sitt luftförsvar. – Ryssland har ett luftförsvarssystem, ja. Vi måste förbättra det, vi måste stärka det. Och det kommer vi att göra. På frågan om det finns några planer på ett möte eller telefonsamtal med USA:s president Donald Trump svarar Putin att det ”skulle vara till stor nytta”. – Jag håller med den amerikanske presidenten om att det (ett möte) bör vara väl förberett och att det bör ge några positiva resultat, säger Putin.",
+          "title": "Putins freds- krav: ”Håller med Trump”",
+          "summary": "Rysslands mål är fortfarande en full demilitarisering av Ukraina, säger president Putin. Men samtidigt stänger han inte dörren för ett fredsavtal – om Ukraina är villigt att göra kompromisser. Missa ingenting om Vladimir Putin – ladda ned Expressens app här",
+          "body_text": "Rysslands mål är fortfarande en full demilitarisering av Ukraina, säger president Putin. Men samtidigt stänger han inte dörren för ett fredsavtal – om Ukraina är villigt att göra kompromisser. Missa ingenting om Vladimir Putin – ladda ned Expressens app här Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vladimir Putin visade under ett pressmöte med internationella journalister en vilja för fred med Ukraina. Han uttryckte förtroende för att Ryssland kan nå sina mål i Ukraina militärt, men att han hellre ser dem uppfyllas genom ett fredsavtal. Detta avtal – enligt Reuters i så fall baserat på det avtal han ska ha kommit överens om med Donald Trump i Alaska i fjol – hänger enligt Putin dock på Ukrainas vilja att kompromissa. – Om man inte kan nå en överenskommelse på fredlig väg så måste man söka en militär lösning, säger Putin. – Vi vill se till att det inte kan finnas några väpnade styrkor i Ukraina som kan utgöra ett hot mot Ryssland. Hans ord om att nå fred genom avtal kommer dock alldeles efter att han hotat med att utvidga användandet av den hypersoniska roboten Oresjnik mot Ukraina, som enligt Putin inte har använts med full förmåga. Roboten som färdas i många gånger ljudets hastighet och använts tre gånger i kriget, kan enligt Ryssland bestyckas med kärnvapen. Efter uppmärksammade ukrainska drönarattacker mot Ryssland, inte minst mot S:t Petersburg på onsdagen i samband med det ekonomiska forum som pågår där, säger han också att Ryssland måste stärka sitt luftförsvar. – Ryssland har ett luftförsvarssystem, ja. Vi måste förbättra det, vi måste stärka det. Och det kommer vi att göra. På frågan om det finns några planer på ett möte eller telefonsamtal med USA:s president Donald Trump svarar Putin att det ”skulle vara till stor nytta”.",
           "url": "https://www.expressen.se/nyheter/varlden/putin-ryssland-maste-starka-luftforsvaret/",
-          "image_url": "https://static.bonniernews.se/images/c3/b7/c3b7a7b1db85419584e33fb022392c3d/16x9/original.png",
+          "image_url": "https://static.bonniernews.se/images/80/cd/80cd2db0d97346179a42a1ed0da74a4e/16x9/original.png",
           "published_at": "2026-06-04T18:31:09Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/putin-ryssland-maste-starka-luftforsvaret/",
           "play_mode": "page_iframe",
@@ -4141,7 +4428,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "2e16b1e5316a",
@@ -4165,7 +4452,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "ff938b44e94a",
@@ -4189,7 +4476,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "17fcff581410",
@@ -4213,7 +4500,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "df708d6a9c44",
@@ -4237,7 +4524,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "8c8754cae616",
@@ -4261,7 +4548,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "d88186987793",
@@ -4271,37 +4558,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Bandets hyllning – till svenskarna",
-          "summary": "Här är Whitesnake-favoritens hyllning – till svenska popikonerna! Plötsligt började bandet spela hiten ”The look” på Sweden Rock. – Jag älskar svensk musik, säger sångaren Dino Jelusić bakom scen.",
-          "body_text": "Här är Whitesnake-favoritens hyllning – till svenska popikonerna! Plötsligt började bandet spela hiten ”The look” på Sweden Rock. – Jag älskar svensk musik, säger sångaren Dino Jelusić bakom scen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kroatiske Dino Jelusić – på dagen 34 år gammal – är kanske mest känd som nykomlingen i klassiska brittiska hårdrocksbandet Whitesnake. Där är han keyboardist, men också backupsångare. I den rollen tar han ganska stor plats med sin röst, något som hyllats av fansen. Vid sidan om det har han sitt eget band, Jelusick, en liten ordvits med det egna efternamnet. Med det bandet spelade han på Blå kläder-scenen på Sweden Rock på torsdagen. Då passade han och bandet på att hylla ett par svenskar: Roxette. – Vi spelar aldrig den här låten live, men nu är vi i Sverige, sa Dino Jelusić från scenen innan de började spela Per Gessles och Marie Fredrikssons hit ”The look” från 1988. Bakom scenen, efter konserten, förklarar Dino Jelusić valet. – Publiken var otrolig, som alltid i Sverige. Ni valde att spela en svensk låt, en Roxettelåt. Vad är din relation till svensk musik? – Jag älskar svensk musik! Från början var jag inte så sugen på att spela en cover, men för Sverige… då allt är görbart!",
-          "url": "https://www.expressen.se/nyheter/sverige/bandets-hyllning-till-svenskarna/",
-          "image_url": "https://static.bonniernews.se/images/12/29/1229b54915b44e8a977ed4f265eb161f/16x9/original.png",
-          "published_at": "2026-06-04T15:47:27Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/bandets-hyllning-till-svenskarna/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "084605aa12f0",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Krim Idag 17.07 Garmian Qader, 28, gripen i Irak efter tio år på flykt",
+          "title": "Sverige Idag 17.47 Bandets hyllning – till svenskarna",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/krim/garmian-qader-28-gripen-i-irak-efter-tio-ar-pa-flykt/",
+          "url": "https://www.expressen.se/nyheter/sverige/bandets-hyllning-till-svenskarna/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/krim/garmian-qader-28-gripen-i-irak-efter-tio-ar-pa-flykt/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/bandets-hyllning-till-svenskarna/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4312,20 +4575,20 @@
           "sort_order": 8
         },
         {
-          "id": "f9262324c110",
+          "id": "eaf3238a1f2b",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige Idag 16.13 Nooshi Dadgostar om petade V-kandidaterna: Djupt olämpliga",
+          "title": "Krim Idag 17.07 MaN gripen i Irak efter tio år på flykt",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/nooshi-dadgostar-om-petade--v-kandidaterna-djupt-olampliga/",
+          "url": "https://www.expressen.se/nyheter/krim/man-gripen-i-irak-efter-tio-ar-pa-flykt/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/nooshi-dadgostar-om-petade--v-kandidaterna-djupt-olampliga/",
+          "embed_url": "https://www.expressen.se/nyheter/krim/man-gripen-i-irak-efter-tio-ar-pa-flykt/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
