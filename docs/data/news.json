@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T04:49:56Z",
+  "generated_at": "2026-06-05T08:41:10Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -13,11 +13,10 @@
       "surface": "video",
       "source_kind": "video",
       "live_section": false,
-      "status": "error",
+      "status": "pending",
       "article_count": 0,
       "priority_split": 0,
-      "articles": [],
-      "error": "403 Client Error: Forbidden for url: https://www.tv4play.se/nyheter"
+      "articles": []
     },
     {
       "id": "tv4-ekonomi",
@@ -30,11 +29,275 @@
       "surface": "video",
       "source_kind": "video",
       "live_section": false,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 11,
       "priority_split": 0,
-      "articles": [],
-      "error": "403 Client Error: Forbidden for url: https://www.tv4.se/ekonomi"
+      "articles": [
+        {
+          "id": "afe8dfca43d9",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "De har lägst bolåneränta",
+          "summary": "Nyheter från TV4: De har lägst bolåneränta",
+          "body_text": "Nu blir det dyrare att låna till bostaden. Arkivbild. Snittkunden fick en rörlig bolåneränta på 2,77 procent i maj, oförändrat jämfört med april. Det visar en sammanställning av bankernas snitträntor som jämförelsesajten Zmarta ställt samman. Lägst rörlig ränta i snitt hade Skandiabanken, 2,64 procent, medan Swedbank erbjöd lägst genomsnittlig ränta på ett treårigt lån, 3,09 procent. Lägst femårig bolåneränta hade Danske Bank med 3,03 procent. Skillnaderna mellan bankerna är större på bundna bolån än rörliga lån. ”Ju längre du binder, desto mer kostar det att välja fel bank”, säger Zmartas hushållsekonom Ola Söderlind i en skriftlig kommentar.",
+          "url": "https://www.tv4.se/artikel/tt-260605-boranta1-8e2c0912/de-har-lagst-bolaneranta",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlfDZJlzeZexU/cecf6cd625e8c7a40020a02d2193e83e/Nu_blir_det_dyrare_att_lana_till_bostaden._Arkivbild.",
+          "published_at": "2026-06-05T08:32:21Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260605-boranta1-8e2c0912/de-har-lagst-bolaneranta",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "7074a3b2b63d",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Turkisk inflation fortsätter uppåt",
+          "summary": "Nyheter från TV4: Turkisk inflation fortsätter uppåt",
+          "body_text": "Hårt tryck uppåt på priserna i Turkiet. Arkivbild Högre energipriser till följd av Irankriget driver på utvecklingen. I årstakt steg konsumentpriserna i Turkiet 32,6 procent i maj. Ökningen i månaden före låg på 32,4 procent i årstakt. Analytiker hade i genomsnitt räknat med en inflation i Turkiet på 32,5 procent i maj, enligt Bloomberg. Turkiets centralbank, med en styrränta på 37 procent, har satt upp som mål att få ned inflationen i landet till 24 procent till årsskiftet. Nästa räntebesked väntas den 11 juni. Jämfört med månaden före steg konsumentpriserna i Turkiet med 1,7 procent i maj vilket kan jämföras med en ökning mot månaden före på 4,2 procent i april.",
+          "url": "https://www.tv4.se/artikel/tt-260605-turkietinflation1-4b20a69a/turkisk-inflation-fortsatter-uppat",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlBuwUJrKPidk/b64ed2c59045dc46af1bfe91f76761cf/Hart_tryck_uppat_pa_priserna_i_Turkiet._Arkivbild",
+          "published_at": "2026-06-05T07:41:01Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260605-turkietinflation1-4b20a69a/turkisk-inflation-fortsatter-uppat",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "8b7a278d16a8",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Nvidia väljer leverantörer för ny AI-plattform",
+          "summary": "Nyheter från TV4: Nvidia väljer leverantörer för ny AI-plattform",
+          "body_text": "Nvidiachefen Jensen Huang på Gimpo Airport i Seoul, Sydkorea. Nvidia väljer leverantörer för ny AI-plattform Alla tre leverantörerna har kvalificerats. Samtliga är i produktion och alla kämpar nu för att stödja Vera Rubin, säger Nvidias medgrundare och vd Jensen Huang efter att han landat i Sydkoreas huvudstad Seoul. Vera Rubin-plattformen är redan i full produktion och ska börja levereras under tredje kvartalet i år, enligt uppgifter som presenterades tidigare i veckan. Systemet bygger på Nvidias Vera-processorer och Rubin-grafikkärnor, men för att hantera de enorma datamängderna krävs även avancerade minneskretsar av modellen HBM4.",
+          "url": "https://www.tv4.se/artikel/tt-260605-usanvidia1-399ac639/nvidia-valjer-leverantorer-for-ny-ai-plattform",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlczgQODvmLok/9a77792e38d54abefd620db0b9634991/Nvidiachefen_Jensen_Huang_pa_Gimpo_Airport_i_Seoul__Sydkorea.",
+          "published_at": "2026-06-05T06:18:57Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260605-usanvidia1-399ac639/nvidia-valjer-leverantorer-for-ny-ai-plattform",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "f12189ac4a6b",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Indien slopar skatt för utländska långivare",
+          "summary": "Nyheter från TV4: Indien slopar skatt för utländska långivare",
+          "body_text": "Indiens premiärminister Narendra Modi. Arkivbild Indien slopar skatt för utländska långivare Rupien tillhör slagpåsarna på valutamarknaden till följd av högre energipriser och ett ovanligt stort utflöde av utländskt kapital från den indiska börsen. Beskedet kommer sedan Indiens centralbank lämnat styrräntan oförändrad på 5,25 procent i ett räntebesked där tillväxtprognosen sänks och inflationsprognosen höjs av bankens ekonomer. Indiens premiärminister Narendra Modi vädjade till landets investerare att sluta resa utomlands, sluta köpa guld och begränsa bränslekonsumtionen för att parera landets ekonomiska utmaningar.",
+          "url": "https://www.tv4.se/artikel/tt-260605-indienekonomi1-9d45dce2/indien-slopar-skatt-for-utlandska-langivare",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdljbSjE9YKSV0/8da8031156a06f0a945afabfff718ef7/Indiens_premiarminister_Narendra_Modi._Arkivbild",
+          "published_at": "2026-06-05T05:54:38Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260605-indienekonomi1-9d45dce2/indien-slopar-skatt-for-utlandska-langivare",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "3fb3996e7470",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Börsen öppnar svagt nedåt",
+          "summary": "Nyheter från TV4: Börsen öppnar svagt nedåt",
+          "body_text": "Börsen ser ut att öppna i sidled. Arkivbild. Bland tungviktarna faller gruvkoncernen Boliden och verkstadskoncernen Atlas Copco med 2,5 respektive 1,2 procent. Tekniktunga Nasdaq i New York backade i torsdags för andra dagen i rad sedan investerare tolkat en oväntat svag prognos från chiptillverkaren Broadcom negativt. Och det har fortsatt nedåt i tekniksektorn i Asien. Priset på Nordsjöolja (Brent) är stabilt efter prisfallet på nästan 3 procent i torsdags till följd av spekulationer kring ett fredsavtal mellan USA och Iran. Stockholmsbörsen steg 0,3 procent i torsdags. Sedan årsskiftet ligger indexet på plus 4,2 procent.",
+          "url": "https://www.tv4.se/artikel/tt-260605-marknaden1-e4bcf698/borsen-oppnar-svagt-nedat",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdla7UlQGVvTlA/2478f2de80c090f4702822cb6ed90ca5/Borsen_ser_ut_att_oppna_i_sidled._Arkivbild.",
+          "published_at": "2026-06-05T05:37:25Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260605-marknaden1-e4bcf698/borsen-oppnar-svagt-nedat",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "4a03b8a22313",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Hur kontaktar jag TV4?",
+          "summary": "Nyheter från TV4: Hur kontaktar jag TV4?",
+          "body_text": "9 januari 2024 ・ Uppdaterad: 10 februari 2026 Vill du kontakta TV4 Plays kundtjänst? Klicka här för att komma till vår supportsida och välj sedan \"Kontakta oss\". TV4 Medias visselblåsarkanal, klicka här . Om du är missnöjd med en publicering är du välkommen att höra av dig till oss på nyheterna@tv4.se . Du kan också göra en anmälan till Granskningsnämnden eller Medieombudsmannen . Registreringsnummer för mervärdesskatt: SE556242715201 Ägare: TV4 Media AB organisationsnummer 556802-5646, en del av Schibsted Tillsyn Tillsynsmyndigheter: Mediemyndigheten, Konsumentverket. TV4 är medlem i det medieetiska systemet, Medieombudsmannen.",
+          "url": "https://www.tv4.se/artikel/21S40PKdrQZDCEJllEPwRj/hur-kontaktar-jag-tv4",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:57:12Z",
+          "embed_url": "https://www.tv4.se/artikel/21S40PKdrQZDCEJllEPwRj/hur-kontaktar-jag-tv4",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "7fd576969d7c",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Ansvariga utgivare för innehåll på TV4 Play och tv4.se",
+          "summary": "Nyheter från TV4: Ansvariga utgivare för innehåll på TV4",
+          "body_text": "9 januari 2024 ・ Uppdaterad: 17 april 2026 TV4 Nyheterna (inkl sportnyheter, ekonomi, väder), tv4.se, Nyheterna Story och Kalla fakta Nyhetsmorgon, Nyhetsdagen, Efter fem, tillkommande samhällsprogram som tex val, dokumentärer. Färdigproducerade filmer och serier som inte producerats eller beställts av TV4 samt återköp av produktioner Beställda produktioner, manusbaserade filmer och serier (sk drama) inkl äldre säsonger av pågående produktioner Beställda produktioner, underhållning (ej drama) Trailers (dock inte trailers för program inom nyheter och samhälle)",
+          "url": "https://www.tv4.se/artikel/4FASkwNxMHxSiSi8XBG6mf/ansvariga-utgivare-foer-innehall-pa-tv4-play-och-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:56:05Z",
+          "embed_url": "https://www.tv4.se/artikel/4FASkwNxMHxSiSi8XBG6mf/ansvariga-utgivare-foer-innehall-pa-tv4-play-och-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "6acd39c55860",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Publicistiska grunden för journalistik på TV4",
+          "summary": "Nyheter från TV4: Hur fungerar den publicistiska grunden för nyhets- och samhällsjournalistik på TV4?",
+          "body_text": "Hur fungerar den publicistiska grunden för nyhets- och samhällsjournalistik på TV4? 9 januari 2024 ・ Uppdaterad: 15 augusti 2025 TV4:s nyhets- och samhällsbevakning ska vara i ögonhöjd med tittarna. Vi vill vara nära, personliga och inkluderande. För alla i hela Sverige. Vi ska vara trovärdiga och relevanta. Vi testar nya visuella former och utvecklar det rörliga berättandet. Vi är både snabba, och fördjupande. Vi ger plats för både humor och allvar. Vi påverkar och berör. Vi avslöjar maktmissbruk, och värnar pressfrihet och yttrandefrihet. Vi producerar Nyhetsmorgon, Nyhetsdagen, Efter fem och kvällsnyheter. Vi nyhetsrapporterar på tv4.se och fördjupar i kortdokumentärerna Nyheterna Story. Vår mångfaldigt prisbelönta redaktion Kalla Fakta granskar makt och missförhållanden. TV4:s nyhets- och samhällsbevakning sker ur ett riksperspektiv, med hela Sverige och världen som bevakningsområde. Vi har 17 rikskorrar på sex orter i Sverige. De finns i Luleå, Umeå, Östersund, Skövde, Göteborg och Malmö. Vi bevakar världen via utrikesreportrar, korrar och stringers. Vår journalistik vilar på respekt för alla människors lika värde, oavsett politisk åskådning, religion eller sexuell läggning. Det innebär att vi låter många röster komma till tals, även de som bär åsikter som inte nödvändigtvis delas av medarbetarna på redaktionen eller TV4. Men det kan också innebära att vi tar bort artikelkommentarer som kränker, eller till exempel avstår gäster i direktsändning där vi bedömer att risken är stor för missbruk av öppenheten. TV4:s nyhets- och samhällsjournalistik är oberoende och obunden. Den står fri från politiska partier, organisationer, och näringsliv. Vi har ingen ledarsida eller politisk färg. Innehållet på våra plattformar bedöms och värderas av redaktörer, producenter och av ansvarig utgivare före publicering. Vi följer grundlagen och skyddar våra källor när de önskar anonymitet. Om vi refererar uppgifter från andra medier redovisar vi vilka medier eller andra informationskällor det handlar om. Annars berättar vi hur vi själva tagit reda på informationen, dock alltid med största respekt för källskydd.",
+          "url": "https://www.tv4.se/artikel/4Qhj6KAd8hwaL4HZwg2uBL/hur-fungerar-den-publicistiska-grunden-foer-nyhets-och-samhaellsjournalistik",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:53:10Z",
+          "embed_url": "https://www.tv4.se/artikel/4Qhj6KAd8hwaL4HZwg2uBL/hur-fungerar-den-publicistiska-grunden-foer-nyhets-och-samhaellsjournalistik",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": true,
+          "sort_order": 7
+        },
+        {
+          "id": "2494532aeba0",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Annonsera - TV4.se",
+          "summary": "Nyheter från TV4: Annonsera",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 ”Prognosen extremt osäker – som att skjuta prick på en kilometers håll” Chans till drömvinsten med Premium • Vinn med dina grannar i sommar",
+          "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2023-04-27T12:24:20Z",
+          "embed_url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "bab9eba08c1f",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Cookiepolicy - www.tv4.se",
+          "summary": "Nyheter från TV4: Cookie-policy",
+          "body_text": "25 maj 2018 ・ Uppdaterad: 9 januari 2024 Vissa tjänsteleverantörer, t.ex. Google och Adform, tillhandahåller även egna verktyg som möjliggör för dig att avsäga dig fortsatt marknadsföring. När detta är fallet länkar vi till dessa verktyg i den informationen om våra tredjepartsleverantörer ovan.",
+          "url": "https://www.tv4.se/artikel/5b07c2b424bc62a7002b524d/cookiepolicy-www-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2018-05-25T08:00:52Z",
+          "embed_url": "https://www.tv4.se/artikel/5b07c2b424bc62a7002b524d/cookiepolicy-www-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 9
+        },
+        {
+          "id": "4cb1b263ef11",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Allmänna användarvillkor för TV4:s tjänster",
+          "summary": "Allmänna användarvillkor för tv4.se Uppdaterade februari 2025",
+          "body_text": "Allmänna användarvillkor för TV4:s tjänster Allmänna användarvillkor för tv4.se Uppdaterade februari 2025 Tv4.se ägs och tillhandahålls av TV4 AB (org nr 556242-7152), (”TV4”). Genom att använda Tv4.se bekräftar du att du accepterar dessa villkor för användningen av det innehåll som tillgängliggörs via Tv4.se. TV4 har rätt att när som helst ändra dessa Användarvillkor. Sådan ändring kommuniceras endast genom att en uppdaterad version av villkoren publiceras här. Vi rekommenderar därför att du regelbundet tar del av Användarvillkoren. Användarvillkoren gäller oavsett hur du tar del av tv4.se och inkluderar därmed även användning som t.ex. sker via appar. För TV4:s övriga tjänster - tv4play.se, Köket.se samt Fotbollskanalen.se – gäller särskilda villkor som tillhandahålls i respektive tjänst. Tv4.se innehåller material som skyddas enligt Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk. Detta innebär bland annat att du inte har rätt att sprida (göra tillgängligt) eller kopiera hela eller delar av Tv4.se till allmänheten eller på annat sätt använda Tv4.se för kommersiellt bruk. Du får inte heller kringgå eller försöka kringgå tekniska åtgärder mot kopiering. TV4.s material får inte användas i sammanhang som syftar till att undergräva respekten för mänskliga rättigheter eller diskriminerar någon på grund av etnisk tillhörighet kön, religiös uppfattning, sexuell läggning, nationalitet eller liknande. Vi förbehåller oss rätten att vidta åtgärder i syfte att begränsa sådan användning om vi anser detta nödvändigt. Kopiering för privat bruk får ske enligt vissa förutsättningar i enlighet med tillämplig lag. Du får endast använda Tv4.se för eget och privat bruk och i enlighet med vad som i övrigt gäller enligt tillämplig lag. Brott mot vad som nämnts i denna bestämmelse ska alltid anses som ett väsentligt avtalsbrott och medföra rätt för TV4 att utan förvarning omedelbart stänga av dig från att använda Tv4.se. Brott mot denna bestämmelse kan även medföra skadeståndsskyldighet. TV4 förbehåller sig även rätten att, vid upprepade avtalsbrott, blockera relevant IP-nr och/eller kontokort från fortsatt användning av Tv4.se TV4 bär utgivaransvaret för Tv4.se vilket innebär att merparten av innehåll som återfinns i Tv4.se omfattas av detta ansvar. En del av det innehåll som finns på Tv4.se kommer dock från våra användare, så kallat användargenererat innehåll – t.ex. kommentarer och bilder som användare själva lagt upp/publicerat. TV4 ansvarar inte för sådant innehåll vilket betyder att det är användaren som lagt upp innehållet som bär det fulla ansvaret. TV4 är skyldiga att i efterhand granska och ta bort sådant användargenererat innehåll som är i strid med lag, detta i enlighet med den sk BBS lagen (Lag (1998:112) om ansvar för elektroniska anslagstavlor). Därutöver förbehåller sig TV4 rätten att ta bort användargenererat innehåll som TV4 bedömer som olämpligt eller opassande. I syfte att tydliggöra för dig som användare vad som faller inom TV4:s utgivaransvar så markeras detta alltid i vår layout eller genom text.",
+          "url": "https://www.tv4.se/artikel/5742a60ffca38f120d00046b/allmanna-anvandarvillkor-for-tv4-s-tjanster",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2016-05-23T06:41:19Z",
+          "embed_url": "https://www.tv4.se/artikel/5742a60ffca38f120d00046b/allmanna-anvandarvillkor-for-tv4-s-tjanster",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        }
+      ]
     },
     {
       "id": "svt-rapport",
@@ -61,7 +324,7 @@
           "source_kind": "video",
           "title": "Rapport – Lör 30 maj 19:30",
           "summary": "Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta",
-          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet",
+          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
           "url": "https://www.svtplay.se/video/ePBByrQ/rapport/lor-30-maj-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54233623/1780161842?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-06T23:59:00Z",
@@ -77,20 +340,20 @@
           "sort_order": 0
         },
         {
-          "id": "98b7f36950a3",
+          "id": "f3887e00238f",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Ons 3 jun 19:30",
-          "summary": "Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock",
-          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet",
-          "url": "https://www.svtplay.se/video/jQrrPoM/rapport/ons-3-jun-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54251398/1780507435?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jQrrPoM/rapport/ons-3-jun-19-30?video=visa",
+          "title": "Rapport – Idag 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/jBwyo34/rapport/idag-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54261790/1780645416?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T09:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jBwyo34/rapport/idag-09-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -102,20 +365,20 @@
           "sort_order": 1
         },
         {
-          "id": "73998adf5bb5",
+          "id": "278b1277f776",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Tis 2 jun 19:30",
-          "summary": "Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier",
-          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet",
-          "url": "https://www.svtplay.se/video/85ddAkN/rapport/tis-2-jun-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54245299/1780421047?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/85ddAkN/rapport/tis-2-jun-19-30?video=visa",
+          "title": "Rapport – Idag 09:00",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/e7ddgaD/rapport/idag-09-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54261199/1780644171?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T09:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/e7ddgaD/rapport/idag-09-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -127,20 +390,20 @@
           "sort_order": 2
         },
         {
-          "id": "3c8566927a44",
+          "id": "f13fc3669e5a",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Mån 1 jun 19:30",
-          "summary": "Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet",
-          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet",
-          "url": "https://www.svtplay.se/video/e4ddAqW/rapport/man-1-jun-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54239665/1780334636?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/e4ddAqW/rapport/man-1-jun-19-30?video=visa",
+          "title": "Rapport – Idag 08:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/8LJJVqD/rapport/idag-08-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54260650/1780641796?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T08:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/8LJJVqD/rapport/idag-08-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -152,20 +415,20 @@
           "sort_order": 3
         },
         {
-          "id": "5f59a2a1ddc1",
+          "id": "c60da1dc1818",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Sön 31 maj 19:30",
-          "summary": "Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor",
-          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet",
-          "url": "https://www.svtplay.se/video/89ddAYA/rapport/son-31-maj-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54234484/1780248234?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/89ddAYA/rapport/son-31-maj-19-30?video=visa",
+          "title": "Rapport – Idag 08:00",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/89ddxyr/rapport/idag-08-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54260128/1780640516?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T08:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/89ddxyr/rapport/idag-08-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -177,20 +440,20 @@
           "sort_order": 4
         },
         {
-          "id": "c81555e1fd36",
+          "id": "9deb9966bd57",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Fre 29 maj 19:30",
-          "summary": "Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966",
-          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet",
-          "url": "https://www.svtplay.se/video/ed662nx/rapport/fre-29-maj-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54232834/1780075432?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/ed662nx/rapport/fre-29-maj-19-30?video=visa",
+          "title": "Rapport – Idag 07:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/KDvv337/rapport/idag-07-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54259579/1780638206?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T07:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/KDvv337/rapport/idag-07-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -202,56 +465,6 @@
           "sort_order": 5
         },
         {
-          "id": "2c3cabaf3a57",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 06:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Ons 3 jun 23:05 4 min 54 sek",
-          "url": "https://www.svtplay.se/video/8Yqq5vd/rapport/idag-06-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54258760/1780634641?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T06:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/8Yqq5vd/rapport/idag-06-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "df37ef1338c1",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Igår 23:30",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Ons 3 jun 23:05 4 min 54 sek",
-          "url": "https://www.svtplay.se/video/jkAA4RB/rapport/igar-23-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54258733/1780609951?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T23:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/jkAA4RB/rapport/igar-23-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
           "id": "41d11aaada93",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -261,7 +474,7 @@
           "source_kind": "video",
           "title": "Rapport – Igår 19:30",
           "summary": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber",
-          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet",
+          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
           "url": "https://www.svtplay.se/video/jwqqzWV/rapport/igar-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54257542/1780593847?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-04T19:30:00Z",
@@ -274,23 +487,73 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 6
         },
         {
-          "id": "31ba65733fcf",
+          "id": "98b7f36950a3",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Igår 09:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Ons 3 jun 23:05 4 min 54 sek",
-          "url": "https://www.svtplay.se/video/86dqmo3/rapport/igar-09-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54255547/1780558921?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T09:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/86dqmo3/rapport/igar-09-30?video=visa",
+          "title": "Rapport – Ons 3 jun 19:30",
+          "summary": "Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock",
+          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/jQrrPoM/rapport/ons-3-jun-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54251398/1780507435?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jQrrPoM/rapport/ons-3-jun-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "73998adf5bb5",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Tis 2 jun 19:30",
+          "summary": "Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier",
+          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/85ddAkN/rapport/tis-2-jun-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54245299/1780421047?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/85ddAkN/rapport/tis-2-jun-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "3c8566927a44",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Mån 1 jun 19:30",
+          "summary": "Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet",
+          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/e4ddAqW/rapport/man-1-jun-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54239665/1780334636?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/e4ddAqW/rapport/man-1-jun-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -302,20 +565,20 @@
           "sort_order": 9
         },
         {
-          "id": "2fd84de6a0aa",
+          "id": "5f59a2a1ddc1",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Igår 09:00",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Ons 3 jun 23:05 4 min 54 sek",
-          "url": "https://www.svtplay.se/video/8p55R1G/rapport/igar-09-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54255016/1780557671?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T09:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8p55R1G/rapport/igar-09-00?video=visa",
+          "title": "Rapport – Sön 31 maj 19:30",
+          "summary": "Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor",
+          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/89ddAYA/rapport/son-31-maj-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54234484/1780248234?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/89ddAYA/rapport/son-31-maj-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -327,20 +590,20 @@
           "sort_order": 10
         },
         {
-          "id": "89961399940a",
+          "id": "c81555e1fd36",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Igår 08:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Ons 3 jun 23:05 4 min 54 sek",
-          "url": "https://www.svtplay.se/video/8vvvNrB/rapport/igar-08-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54254437/1780555306?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T08:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/8vvvNrB/rapport/igar-08-30?video=visa",
+          "title": "Rapport – Fre 29 maj 19:30",
+          "summary": "Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966",
+          "body_text": "SCB:s stora undersökning: Oppositionen i stor ledning • Brasilien: Vill köpa fler Gripenplan • Norge: Drabbat av fotbollsfeber Mer om programmet Beroendet av amerikansk teknik: EU presenterar ny plan • EU:: Beroendet av amerikansk teknik ska bort • Syrien: Landet gör upp med sitt förflutna • Musik: Idag öppnade Sweden Rock Mer om programmet Misstänkt barnpornografibrott: SD-ledamot stängs av • Kriget i Ukraina: Rysk storoffensiv • Nytt förslag:: 15-årsgräns för sociala medier Mer om programmet Privata sjukvårdsförsäkringar: Vården under lupp • Folkhälsomyndigheten:: Mobilfritt med barnen • Ukraina: Unga flyttar ut på landet Mer om programmet Vården: 800 000 har privat försäkring • Vadhållning: Stridspilot slog vad om attack • Linköping: De övar för extrema smittor Mer om programmet Techjättar: Osäkert kring molntjänster • Stockholm: Folkfest och kaos • Laos: Fler räddade ur grotta Mer om programmet Gängkriminella: Förlorar uppehållstillstånd • Ebola: Svensk familj i Kongo Kinshasa • Diamantbröllop: Ovanligt många vigslar 1966 Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/ed662nx/rapport/fre-29-maj-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54232834/1780075432?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/ed662nx/rapport/fre-29-maj-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -636,20 +899,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "8df3a648d8d8",
+          "id": "9604318a20c6",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
           "category": "Sport",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sportnytt – Idag 06:45",
+          "title": "Sportnytt – Idag 09:45",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:45 2 min 8 sek Publicerades: Ons 3 jun 08:45 4 min 38 sek Publicerades: Ons 3 jun 07:45 4 min 57 sek Publicerades: Ons 3 jun 06:45 4 min 35 sek Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
-          "url": "https://www.svtplay.se/video/eorrPP3/sportnytt/idag-06-45",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T04:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/eorrPP3/sportnytt/idag-06-45",
+          "body_text": "Publicerades: Ons 3 jun 09:45 2 min 8 sek Publicerades: Ons 3 jun 08:45 4 min 38 sek Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/82ddxXJ/sportnytt/idag-09-45",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54262111/1780646686?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T07:45:00Z",
+          "embed_url": "https://www.svtplay.se/video/82ddxXJ/sportnytt/idag-09-45",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -657,24 +920,24 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 0
         },
         {
-          "id": "4f367891d694",
+          "id": "b01effbc1435",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
           "category": "Sport",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sportnytt – Igår 21:46",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
-          "url": "https://www.svtplay.se/video/jN33pGq/sportnytt/igar-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54258130/1780603966?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T19:46:00Z",
-          "embed_url": "https://www.svtplay.se/video/jN33pGq/sportnytt/igar-21-46",
+          "title": "Sportnytt – Idag 08:45",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Ons 3 jun 09:45 2 min 8 sek Publicerades: Ons 3 jun 08:45 4 min 38 sek Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/KrQQzZo/sportnytt/idag-08-45",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54260920/1780643016?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T06:45:00Z",
+          "embed_url": "https://www.svtplay.se/video/KrQQzZo/sportnytt/idag-08-45",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -686,20 +949,20 @@
           "sort_order": 1
         },
         {
-          "id": "bee7f02e0f18",
+          "id": "4f367891d694",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
           "category": "Sport",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sportnytt – Igår 09:45",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:45 2 min 8 sek Publicerades: Ons 3 jun 08:45 4 min 38 sek Publicerades: Ons 3 jun 07:45 4 min 57 sek Publicerades: Ons 3 jun 06:45 4 min 35 sek Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll Personliga möten med svenska idrottsstjärnor",
-          "url": "https://www.svtplay.se/video/jn44vX1/sportnytt/igar-09-45",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54255868/1780560176?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T07:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/jn44vX1/sportnytt/igar-09-45",
+          "title": "Sportnytt – Igår 21:46",
+          "summary": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/jN33pGq/sportnytt/igar-21-46",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54261793/1780645431?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T19:46:00Z",
+          "embed_url": "https://www.svtplay.se/video/jN33pGq/sportnytt/igar-21-46",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -707,7 +970,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 2
         },
         {
@@ -719,10 +982,10 @@
           "surface": "video",
           "source_kind": "video",
           "title": "Sportnytt – Ons 3 jun 21:46",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "summary": "Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jxggzDb/sportnytt/ons-3-jun-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54251974/1780517771?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54261769/1780645287?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-03T19:46:00Z",
           "embed_url": "https://www.svtplay.se/video/jxggzDb/sportnytt/ons-3-jun-21-46",
           "play_mode": "page_iframe",
@@ -745,7 +1008,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 2 jun 21:46",
           "summary": "Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jVwwGwM/sportnytt/tis-2-jun-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54246106/1780431604?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-02T19:46:00Z",
@@ -770,7 +1033,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 1 jun 21:46",
           "summary": "Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/egWWGWp/sportnytt/man-1-jun-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54240253/1780344384?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-01T19:46:00Z",
@@ -795,7 +1058,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 30 maj 19:45",
           "summary": "Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8YqqGbE/sportnytt/lor-30-maj-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54233674/1780175917?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-30T17:45:00Z",
@@ -820,7 +1083,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 29 maj 21:30",
           "summary": "Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/eakkGko/sportnytt/fre-29-maj-21-30",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54233680/1780176023?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-29T19:30:00Z",
@@ -845,7 +1108,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 28 maj 21:46",
           "summary": "Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/e3ddzdN/sportnytt/tor-28-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54231307/1780040574?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-28T19:46:00Z",
@@ -870,7 +1133,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 27 maj 21:46",
           "summary": "Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jR55n5a/sportnytt/ons-27-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54223567/1779948318?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-27T19:46:00Z",
@@ -895,7 +1158,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 26 maj 21:46",
           "summary": "Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/82ddEdA/sportnytt/tis-26-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54223552/1779947962?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-26T19:46:00Z",
@@ -920,7 +1183,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 25 maj 21:46",
           "summary": "Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval.",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Fördjupning kring de största nyheterna från i dag Hockeymagasin med nedsläpp på torsdagar 22:00 i SVT1 & SVT Play De bästa ögonblicken från herrallsvenskan i fotboll",
+          "body_text": "Sveriges herrar tappade segern i VM-genrepet • Blågula damerna spelar nyckelmatch i VM-kval • Superkast i spjut i Diamond League Mer om programmet Maja Åskag slog till med jättehopp i Aten • Daniel Ståhl bröt tävling i Finland • Viktor Gyökeres in direkt från start i VM-genrepet Mer om programmet Positivt besked för Felicia Schröder inför VM-kvalet • Regerande mästarna Västervik tog över serieledningen • Johanna Rytting Kaneryd om den tuffa säsongen Mer om programmet Sverige överkört mot Norge i VM-uppladdning • MFF:s nya sportchef jagar tränare direkt • Andreas Almgren om säsongens stora mål Mer om programmet Herman Johansson kallas in till VM efter skadeavbräck • Sirius succé fortsätter • Nära banrekord på Stockholm Marathon Mer om programmet Kristianstad svenska mästare • Gyökeres hyllas inför Champions League-finalen • Alexander Isak om tunga skadefrånvaron Mer om programmet Sinner utslagen ur Franska Öppna • Så ska Sverige klara VM-värmen • Finland till VM-semifinal. Mer om programmet Osäkert runt Isaks VM-status • Tre Kronor laddar inför VM-kvartsfinal • Tuff resa för Häcken mot AIK. Mer om programmet Malmö FF sparkar tränaren • Tre Kronor undvek fiasko • Supertalangerna ställs mot varandra i SM-finalen. Mer om programmet Regerande mästaren Mjällby gästade bottenlaget Blåvitt • Kenny Bräck om svenskens dramatiska seger i Indy 500 • Svenska basketstjärnan klar för VM-kval. Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jn4454Y/sportnytt/man-25-maj-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54214480/1779795296?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-05-25T19:46:00Z",
@@ -1014,7 +1277,7 @@
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
           "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/jVwwdMp/morgonstudion/igar-06-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53655334/1768482968?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54262129/1780647946?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-04T04:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jVwwdMp/morgonstudion/igar-06-00",
           "play_mode": "page_iframe",
@@ -1170,20 +1433,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "e589730114bd",
+          "id": "5741aeb443c3",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
           "provider": "SVT Play",
           "category": "Kultur",
           "surface": "video",
           "source_kind": "video",
-          "title": "Kulturnyheterna – Ons 3 jun 18:24",
+          "title": "Kulturnyheterna – Idag 09:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
-          "url": "https://www.svtplay.se/video/jGVVxXm/kulturnyheterna/ons-3-jun-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54251029/1780505091?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:41:00Z",
-          "embed_url": "https://www.svtplay.se/video/jGVVxXm/kulturnyheterna/ons-3-jun-18-24?video=visa",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/jMyW9A5/kulturnyheterna/idag-09-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54262102/1780646631?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T09:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/jMyW9A5/kulturnyheterna/idag-09-41?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1195,20 +1458,20 @@
           "sort_order": 0
         },
         {
-          "id": "194f8b326a07",
+          "id": "c32609cfe768",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
           "provider": "SVT Play",
           "category": "Kultur",
           "surface": "video",
           "source_kind": "video",
-          "title": "Kulturnyheterna – Tis 2 jun 18:24",
+          "title": "Kulturnyheterna – Idag 08:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
-          "url": "https://www.svtplay.se/video/8WmmxNg/kulturnyheterna/tis-2-jun-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54245071/1780418476?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:41:00Z",
-          "embed_url": "https://www.svtplay.se/video/8WmmxNg/kulturnyheterna/tis-2-jun-18-24?video=visa",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/KQrAYEL/kulturnyheterna/idag-08-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54260911/1780642936?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T08:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/KQrAYEL/kulturnyheterna/idag-08-41?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1220,20 +1483,20 @@
           "sort_order": 1
         },
         {
-          "id": "1e9c6b86d258",
+          "id": "c659247afe2a",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
           "provider": "SVT Play",
           "category": "Kultur",
           "surface": "video",
           "source_kind": "video",
-          "title": "Kulturnyheterna – Mån 1 jun 18:24",
-          "summary": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen",
-          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
-          "url": "https://www.svtplay.se/video/jkAAXNE/kulturnyheterna/man-1-jun-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54239398/1780332276?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "title": "Kulturnyheterna – Idag 07:41",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/8or9mv6/kulturnyheterna/idag-07-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54259756/1780638676?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-05T07:41:00Z",
-          "embed_url": "https://www.svtplay.se/video/jkAAXNE/kulturnyheterna/man-1-jun-18-24?video=visa",
+          "embed_url": "https://www.svtplay.se/video/8or9mv6/kulturnyheterna/idag-07-41?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1245,20 +1508,20 @@
           "sort_order": 2
         },
         {
-          "id": "5fdf794de3df",
+          "id": "31f2e3b064d3",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
           "provider": "SVT Play",
           "category": "Kultur",
           "surface": "video",
           "source_kind": "video",
-          "title": "Kulturnyheterna – Ons 3 jun 21:38",
+          "title": "Kulturnyheterna – Idag 06:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:41 4 min 28 sek Publicerades: Ons 3 jun 07:41 4 min 6 sek",
-          "url": "https://www.svtplay.se/video/jb33xD5/kulturnyheterna/ons-3-jun-21-38?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54251953/1780517122?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:41:00Z",
-          "embed_url": "https://www.svtplay.se/video/jb33xD5/kulturnyheterna/ons-3-jun-21-38?video=visa",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/8qPkdoo/kulturnyheterna/idag-06-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54258775/1780635786?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-05T06:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/8qPkdoo/kulturnyheterna/idag-06-41?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1270,56 +1533,6 @@
           "sort_order": 3
         },
         {
-          "id": "645de46aae0d",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Ons 3 jun 09:41",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:41 4 min 28 sek Publicerades: Ons 3 jun 07:41 4 min 6 sek",
-          "url": "https://www.svtplay.se/video/KrQD9mo/kulturnyheterna/ons-3-jun-09-41?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54249667/1780473716?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T07:41:00Z",
-          "embed_url": "https://www.svtplay.se/video/KrQD9mo/kulturnyheterna/ons-3-jun-09-41?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "31f2e3b064d3",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Idag 06:41",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:41 4 min 28 sek Publicerades: Ons 3 jun 07:41 4 min 6 sek",
-          "url": "https://www.svtplay.se/video/8qPkdoo/kulturnyheterna/idag-06-41?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52371355/1737553575?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-05T06:41:00Z",
-          "embed_url": "https://www.svtplay.se/video/8qPkdoo/kulturnyheterna/idag-06-41?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
           "id": "2061dd1ffe26",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
@@ -1329,7 +1542,7 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Igår 21:38",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:41 4 min 28 sek Publicerades: Ons 3 jun 07:41 4 min 6 sek",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "url": "https://www.svtplay.se/video/eorrxEB/kulturnyheterna/igar-21-38?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54258118/1780603356?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-04T21:38:00Z",
@@ -1342,7 +1555,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 4
         },
         {
           "id": "4d9ac81a6a6f",
@@ -1367,7 +1580,82 @@
             "SVT Play"
           ],
           "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "e589730114bd",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Ons 3 jun 18:24",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
+          "url": "https://www.svtplay.se/video/jGVVxXm/kulturnyheterna/ons-3-jun-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54251029/1780505091?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T18:24:00Z",
+          "embed_url": "https://www.svtplay.se/video/jGVVxXm/kulturnyheterna/ons-3-jun-18-24?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "194f8b326a07",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Tis 2 jun 18:24",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
+          "url": "https://www.svtplay.se/video/8WmmxNg/kulturnyheterna/tis-2-jun-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54245071/1780418476?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T18:24:00Z",
+          "embed_url": "https://www.svtplay.se/video/8WmmxNg/kulturnyheterna/tis-2-jun-18-24?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
           "sort_order": 7
+        },
+        {
+          "id": "1e9c6b86d258",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Mån 1 jun 18:24",
+          "summary": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen",
+          "body_text": "Marilyn Monroe - hundraårsdagen av hennes födelse • Dum blondin eller litteraturälskare? • Fler dialekter i bussutropen Mer om programmet",
+          "url": "https://www.svtplay.se/video/jkAAXNE/kulturnyheterna/man-1-jun-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54239398/1780332276?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-06-04T18:24:00Z",
+          "embed_url": "https://www.svtplay.se/video/jkAAXNE/kulturnyheterna/man-1-jun-18-24?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "svt, play, svtplay, program, tv, television",
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "f971f80e8c22",
@@ -1379,7 +1667,7 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Igår 09:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:41 4 min 28 sek Publicerades: Ons 3 jun 07:41 4 min 6 sek",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "url": "https://www.svtplay.se/video/KPBa25a/kulturnyheterna/igar-09-41?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54255859/1780560061?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-04T09:41:00Z",
@@ -1392,7 +1680,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "63f77583c4b4",
@@ -1404,7 +1692,7 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Igår 08:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:41 4 min 28 sek Publicerades: Ons 3 jun 07:41 4 min 6 sek",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "url": "https://www.svtplay.se/video/e5dvr69/kulturnyheterna/igar-08-41?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54254710/1780556451?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-04T08:41:00Z",
@@ -1417,7 +1705,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "fadc83db57e4",
@@ -1429,36 +1717,11 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Igår 07:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:41 4 min 28 sek Publicerades: Ons 3 jun 07:41 4 min 6 sek",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "url": "https://www.svtplay.se/video/eb36QAM/kulturnyheterna/igar-07-41?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54253636/1780552911?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-06-04T07:41:00Z",
           "embed_url": "https://www.svtplay.se/video/eb36QAM/kulturnyheterna/igar-07-41?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "svt, play, svtplay, program, tv, television",
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "37db3102ccad",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Igår 06:41",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Ons 3 jun 09:41 4 min 28 sek Publicerades: Ons 3 jun 07:41 4 min 6 sek",
-          "url": "https://www.svtplay.se/video/jmyqdXr/kulturnyheterna/igar-06-41?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54252550/1780549241?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-04T06:41:00Z",
-          "embed_url": "https://www.svtplay.se/video/jmyqdXr/kulturnyheterna/igar-06-41?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1837,20 +2100,20 @@
           "sort_order": 13
         },
         {
-          "id": "8aae170c7fab",
+          "id": "e9c533fcf2e4",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Outnumbered - Thursday, June 4 | Fox News Video",
-          "summary": "Platner allegations, discipline crisis, men's mental health",
-          "body_text": "Platner allegations, discipline crisis, men's mental health Four female panelists and one male colleague share their perspectives on the day's top news stories.",
-          "url": "https://www.foxnews.com/video/6397577101112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/56253ed2-bb7c-4086-b2d2-7642b71db0fa/bad46baf-a046-405e-8f8c-846817a27b63/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-06-04T21:38:57Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397577101112",
+          "title": "Gutfeld! - Thursday, June 4 | Fox News Video",
+          "summary": "FNC, Gutfeld!, Greg Gutfeld, Kathy Griffin, Karen Bass, Jill Biden, Scott Pelley, Uber, pigeons, screwworm, Conan O'Brien, SPLC, Klan, Marco Rubio, shoes, cop, fish, Mike Sorrentino",
+          "body_text": "FNC, Gutfeld!, Greg Gutfeld, Kathy Griffin, Karen Bass, Jill Biden, Scott Pelley, Uber, pigeons, screwworm, Conan O'Brien, SPLC, Klan, Marco Rubio, shoes, cop, fish, Mike Sorrentino Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+          "url": "https://www.foxnews.com/video/6397620882112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/fc0b2aa4-3b19-4611-9c46-57df5f187511/6b253489-3691-47bc-86e4-3876f5e1ef47/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-06-05T07:37:12Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397620882112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1862,20 +2125,20 @@
           "sort_order": 14
         },
         {
-          "id": "3ebea179e1f6",
+          "id": "0fa0c02c3bc2",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "The Faulkner Focus - Thursday, June 4 | Fox News Video",
-          "summary": "fraud, Platner, gubernatorial race",
-          "body_text": "fraud, Platner, gubernatorial race",
-          "url": "https://www.foxnews.com/video/6397568339112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/0ef79b3d-1d59-4003-a392-0a3327be2b69/81c25799-24fb-413b-8ca1-206d6cbb3357/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-06-04T20:13:02Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397568339112",
+          "title": "Hannity - Thursday, June 4 | Fox News Video",
+          "summary": "Jill Biden, Hannity, John Bolton, California elections, Steve Hilton, Spencer Pratt",
+          "body_text": "Jill Biden, Hannity, John Bolton, California elections, Steve Hilton, Spencer Pratt Description: Sean Hannity interviews political figures and newsmakers and offers his own perspective.",
+          "url": "https://www.foxnews.com/video/6397617910112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/67cc2768-a867-440e-babf-1b33446a2b13/9b3991e7-197c-467e-bcd6-7dd8313190ba/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-06-05T07:27:25Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6397617910112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1904,6 +2167,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "9f7514702ddd",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "China's Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
+          "summary": "It is taking place weeks after Xi met the leaders of the US and Russia - two countries that loom large over North Korea's foreign policy.",
+          "body_text": "China's president Xi Jinping will meet Kim Jong Un next week in a trip to North Korea, in his first visit in nearly seven years, according to both countries' state media. Xi will be in North Korea from 8 to 9 June at Kim's invitation. Xi last visited Pyongyang in 2019. The visit comes weeks after Xi received US President Donald Trump and Russian President Vladimir Putin in Beijing - two countries that loom large over Pyongyang's foreign policy. China is a key economic and political partner of North Korea, which faces sweeping international sanctions as a result of its nuclear weapons programme and alleged human rights violations. China and North Korea share a 1,400km-long border and are bound by a defence pact - the only one China has with any country. It guarantees mutual support if either is attacked. This year marks the 65th anniversary of that treaty. For Kim, the propaganda value of Xi's visit is self-evident. North Korea had improved its standing on the world stage after withstanding the pandemic and entering the war in Ukraine on the side of Russia. Despite Beijing's close ties with both Pyongyang and Moscow, Xi is wary of the burgeoning alliance between Kim and Putin. But Beijing, Pyongyang's largest trading partner, remains the main lifeline for Kim. It is widely expected that Kim will seek more trade over the land border and more Chinese tourists to fill its newly built beach and ski resorts. Kim has been proudly displaying his nuclear and missile arsenal. He has also been showing off the capital Pyongyang to visiting dignitaries. And he wants the world to know that it was all achieved without bending his knee to the US or engaging with the South. Since Kim declared the end to reunification efforts with the South in December 2024, he had called South Koreans a sworn enemy and had cut all levels of communication with Seoul.",
+          "url": "https://www.bbc.com/news/articles/clypym3q7p1o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e12b/live/6d54f040-6096-11f1-aec2-d1b9519839ae.jpg",
+          "published_at": "2026-06-05T04:50:28Z",
+          "embed_url": "https://www.bbc.com/news/articles/clypym3q7p1o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "bf1dbb0b0aa3",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -1925,7 +2212,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "1d6d5a56bbca",
@@ -1949,7 +2236,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "5a0118976c4e",
@@ -1973,7 +2260,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "74e2cf0c4e97",
@@ -1983,11 +2270,11 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Le Sserafim: 'Having fun looks really good on us'",
+          "title": "Le Sserafim: How the pop group overcame band tensions and internet trolls",
           "summary": "The K-pop band say accepting their flaws and embracing humour took them to a new level of success.",
           "body_text": "The pop graveyard is full of bands who fell out, melted down and broke up. British boyband Five split after their backstage arguments escalated into fist fights. A row about a jacket sparked All Saints deciding to part ways. Oasis took a 16-year hiatus after Liam Gallagher threw a plum at his brother Noel. But it's rare to hear a group talk about resolving their problems. So I've a huge amount of admiration for the latest album by Korean girl group Le Sserafim. Sitting in the middle of the tracklist is a song called Need Your Company , which details the history of friction between New York-born member Huh Yunjin, and her bandmate Kim Chaewon. \" Is friendship all just for show? \" they sing over a melancholy guitar line. \" I really wanna trust you... no matter how you hurt me. \" \"I wanted to talk about that weird, complicated mix of emotions where you want to be close to someone but it's physically hard for you to admit it,\" says Yunjin, on a call from Le Sserafim's record label offices in Seoul. \"There are times when you doubt your own emotions, like, 'Oh, am I the only one who wants to be this intimate? Are they not committed to this relationship?'\" Chaewon – who is absent from our interview as she recovers from a neck injury – has attributed the song's angst to communication problems, rather than personal animosity. \"If you look at the lyrics, you might think it's a conflict, but people are just different, you know?\" she told the Korean talk show Lee Mu-jin Service . \"There was a time spent adjusting to those differences.\" \"Sometimes saying, 'you hurt me', can sound harsh,\" Yunjin explained in the album's liner notes, \"but it can also mean I care enough about us that I want things to get better.\" \"The things that were hard for each other... There was a time we talked openly and worked through it,\" Chaewon explained. \"And we actually got closer, to be honest.\" So close, in fact, that the singers ultimately chose to pair up for a terrifying, 233-metre tandem bungee jump from China's Macau tower.",
           "url": "https://www.bbc.com/news/articles/c7752znyle6o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5499/live/d6657c40-6063-11f1-8b8c-6d33e1d5abb6.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4cd9/live/4255ddf0-60a5-11f1-bdfa-0f2a2a4dc6d7.jpg",
           "published_at": "2026-06-04T22:22:56Z",
           "embed_url": "https://www.bbc.com/news/articles/c7752znyle6o",
           "play_mode": "page_iframe",
@@ -1997,7 +2284,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "fcda92ff93cf",
@@ -2021,7 +2308,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "5581c2d248b7",
@@ -2033,9 +2320,9 @@
           "source_kind": "mixed",
           "title": "Zeynab Javadli: Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
           "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
-          "body_text": "The ex-wife of a nephew of the ruler of Dubai has been taken into custody, authorities have said. Dubai Public Prosecution told the BBC that Zenab Javadli was detained following a complaint made by the father of her three children - her former husband, Sheikh Saeed bin Maktoum bin Rashid Al Maktoum. He alleged that she had abducted the children during a court-approved visitation session. Javadli's family and friends had lost contact with her since Tuesday night and had raised the alarm over her whereabouts. For almost two days, no news was received as to where Javadli or her children had gone. For months, she had barely left the house as she believed security officers were waiting to take her children from her and put her under arrest. Last year, her ex-husband lodged his complaint with the police accusing her of kidnapping their daughters. That was after the children changed hands between their parents several times, with each accusing the other of kidnap. Javadli - a former international gymnast - has also been facing potential arrest for e-crimes - online offences - in the UAE after she livestreamed one of the showdowns last year. At the time she explained her actions in a video message to the British human rights lawyer David Haigh, who has been advocating for her: \"I knew that it was the last chance to be with my children as they would never let me see them again. I genuinely believed that it was my last chance, so I just opened a livestream and called for help.\" Lawyers acting for Sheikh Saeed bin Maktoum bin Rashid Al Maktoum have claimed in court hearings in the custody case over their children that she was an unfit mother who had failed to send her daughters to school, was living in a place unsuitable for the children when she was in a hotel, and that she had put the health of the youngest girl at risk. In a statement on Thursday evening, Dubai Public Prosecution said the matter remained under investigation and was subject to ongoing legal proceedings.",
+          "body_text": "The ex-wife of a nephew of the ruler of Dubai has been taken into custody, authorities have said, as a custody battle over their three young daughters deepens. Dubai Public Prosecution told the BBC that Zenab Javadli was detained following a complaint made by the father of her three children - her former husband, Sheikh Saeed bin Maktoum bin Rashid Al Maktoum. Javadli's family and friends had lost contact with her since Tuesday night and had raised the alarm over her whereabouts. For almost two days, no news was received as to where Javadli or her children had gone. For months, she had barely left the house as she believed security officers were waiting to take her children from her and put her under arrest. According to Dubai Public Prosecution, her ex-husband has alleged she abducted the children during a court-approved visitation session. Last year, he lodged a complaint with the police accusing her of kidnapping their daughters. That was after the children changed hands between their parents several times, with each accusing the other of kidnap. Javadli - a former international gymnast - has also been facing potential arrest for e-crimes - online offences - in the UAE after she livestreamed one of the showdowns last year. At the time she explained her actions in a video message to the British human rights lawyer David Haigh, who has been advocating for her: \"I knew that it was the last chance to be with my children as they would never let me see them again. I genuinely believed that it was my last chance, so I just opened a livestream and called for help.\" Lawyers acting for Sheikh Saeed bin Maktoum bin Rashid Al Maktoum have claimed in court hearings in the custody case over their children that she was an unfit mother who had failed to send her daughters to school, was living in a place unsuitable for the children when she was in a hotel, and that she had put the health of the youngest girl at risk. In a statement on Thursday evening, Dubai Public Prosecution said the matter remained under investigation and was subject to ongoing legal proceedings.",
           "url": "https://www.bbc.com/news/articles/cx2124zylxno",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5fa4/live/71ba3610-605d-11f1-b682-cf91850925ea.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f639/live/38fc0a10-60a8-11f1-8b8c-6d33e1d5abb6.jpg",
           "published_at": "2026-06-04T21:34:49Z",
           "embed_url": "https://www.bbc.com/news/articles/cx2124zylxno",
           "play_mode": "page_iframe",
@@ -2045,7 +2332,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "58f3036afb1e",
@@ -2057,9 +2344,9 @@
           "source_kind": "mixed",
           "title": "Zelensky proposes face-to-face talks in open letter to Putin",
           "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-          "body_text": "Volodymyr Zelensky has called for a face-to-face meeting between himself and Vladimir Putin in a renewed bid to end the war. In an open letter to the Russian president, the Ukrainian leader said it would be \"wrong to simply wait\" until the war in Europe becomes the focus of the US's attention once more, adding peace could only come \"through direct engagement between\" Ukraine and Russia. He also called for a full ceasefire for the duration of proposed negotiations - something Putin ruled out earlier on Thursday. US President Donald Trump said on Thursday he thought \"it would be great\" if the two leaders met. The Kremlin confirmed it had received the letter and Putin would be briefed on it. The tone of the letter was defiant, even mocking, drawing attention to Ukraine's recent strikes on Russian territory. Zelensky stated that \"after 26 years in power, age is beginning to take its toll\" on Putin. \"Ukraine proposes ending this war through direct engagement between us — and you. I am proposing a meeting,\" Zelensky wrote. It's not a new offer from Ukraine's leader. As it has before, the Kremlin responded, saying Zelensky was welcome to meet Putin in Moscow. What was notable was Kyiv's public acknowledgement that the US \"is fully focused on the issue of Iran\". \"It would be wrong to simply wait until the war in Europe returns to the centre of its attention,\" Zelensky wrote.",
+          "body_text": "Volodymyr Zelensky has called for a face-to-face meeting between himself and Vladimir Putin in a renewed bid to end the war. In an open letter to the Russian president, the Ukrainian leader said it would be \"wrong to simply wait\" until the war in Europe becomes the focus of the US's attention once more, adding peace could only come \"through direct engagement between\" Ukraine and Russia. He also called for a full ceasefire for the duration of proposed negotiations - something Putin ruled out earlier on Thursday. US President Donald Trump said on Thursday he thought \"it would be great\" if the two leaders met. The Kremlin confirmed it had received the letter. The tone of the letter was defiant, even mocking, drawing attention to Ukraine's recent strikes on Russian territory. Zelensky stated that \"after 26 years in power, age is beginning to take its toll\" on Putin. \"Ukraine proposes ending this war through direct engagement between us - and you. I am proposing a meeting,\" Zelensky wrote. It's not a new offer from Ukraine's leader. As it has before, the Kremlin responded, saying Zelensky was welcome to meet Putin in Moscow. What was notable was Kyiv's public acknowledgement that the US \"is fully focused on the issue of Iran\". \"It would be wrong to simply wait until the war in Europe returns to the centre of its attention,\" Zelensky wrote.",
           "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cdd6/live/a5e633b0-60aa-11f1-b682-cf91850925ea.jpg",
           "published_at": "2026-06-04T21:34:14Z",
           "embed_url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
           "play_mode": "page_iframe",
@@ -2069,7 +2356,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "81d20944c5d1",
@@ -2093,7 +2380,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "97f2e215c3c7",
@@ -2117,7 +2404,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "d93454762d68",
@@ -2141,7 +2428,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "7181dd0aee7b",
@@ -2165,7 +2452,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 11
         },
         {
           "id": "bb04e56fac0a",
@@ -2189,7 +2476,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 11
+          "sort_order": 12
         },
         {
           "id": "ea428e744d37",
@@ -2206,30 +2493,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/91ee/live/290a58d0-5ffb-11f1-8fb5-d943e40a1a99.jpg",
           "published_at": "2026-06-04T11:54:39Z",
           "embed_url": "https://www.bbc.com/news/articles/c4g0nnj51jyo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 12
-        },
-        {
-          "id": "17c4f039a647",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-          "summary": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
-          "body_text": "At least 11 Palestinians have been killed, including women and children, and dozens wounded in Israeli air strikes across Gaza City, according to medical sources and eyewitnesses. Simultaneous strikes were launched by at least three Israeli helicopters against four residential buildings in the Sheikh Radwan and Tel al-Hawa areas, and the Shati refugee camp early on Thursday, causing powerful explosions, the BBC was told. Videos posted on social media, said to show the aftermath of the attacks, showed distressing images of people trying to leave a building engulfed in fire in Shati camp. The Israeli military said the strikes killed four senior members of Hamas's General Security Apparatus. It identified them as Hassan Labad, the deputy head of the apparatus, along with three subordinates, Asim Shubair, Abdullah Abu Kaloub, and Mohammed Abu Marq. Local sources said earlier that one of the strikes had targeted Labad, and that he was killed along with his wife and three of their children. A spokesman for the Hamas-run Civil Defence agency also said the dead included two children with disabilities from the Labad family and three women. Israel has carried out repeated air strikes in Gaza despite the US-brokered ceasefire deal, accusing Hamas of rearming and rebuilding its forces. More than 940 people have been killed since the ceasefire took effect last October, according to the territory's Hamas-run health ministry. And with the world's attention focused on conflicts elsewhere in the Middle East, the situation in Gaza continues to deteriorate, with a worsening humanitarian crisis and reported plans by Israel to increase the area of land under its control to 70%. The Gaza war was triggered by the Hamas-led attack on southern Israel on 7 October 2023, when about 1,200 people were killed and 251 others were taken hostage. Israel responded by launching a military campaign in Gaza, during which more than 72,950 people have been killed, according to the territory's health ministry.",
-          "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4773/live/10c39b70-5fff-11f1-b682-cf91850925ea.jpg",
-          "published_at": "2026-06-04T11:07:12Z",
-          "embed_url": "https://www.bbc.com/news/articles/cg5prr9gr1ro",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -3479,6 +3742,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "77f323f635fc",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Mira Murati steps back into the spotlight, carefully | TechCrunch",
+          "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+          "body_text": "Mira Murati isn’t a natural creature of the conference stage. As the CTO of OpenAI, she was present but rarely the public face of the company. As CEO of her own company, Thinking Machines Lab, she has been even harder to find. So when she sat down with Bloomberg in San Francisco on Thursday — her first major media appearance in roughly 18 months — it was worth paying attention, even if she was careful not to say too much. The timing makes sense. Thinking Machines has spent the better part of a year and a half operating largely in the background: raising capital, hiring researchers, and shipping one product, Tinker , an API for fine-tuning open-source AI models. In the meantime, the companies competing for the same talent, customers, and headlines have only grown more omnipresent. OpenAI, where Murati spent six years as CTO, is constantly in the news cycle. Anthropic’s momentum is all that anyone can talk about right now. And xAI, Elon Musk’s AI venture, has been folded into SpaceX ahead of what is expected to be its massive public offering, generating its own gravitational pull on attention and investment. In that environment, staying heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist. Murati used the Bloomberg appearance to do exactly that and not much more. She previewed what Thinking Machines is calling “ interaction models ,” which she described as a fundamentally different kind of AI interface. Rather than the turn-based, prompt-and-response dynamic that defines most AI products today, she told interviewer Emily Chang, the company’s models are designed to process continuous streams of audio, text, and video in 200-millisecond intervals. The idea is that they can pick up on the texture of human communication — the interruptions, the mid-thought corrections, even pauses to think — in something closer to real time. But Murati was careful to frame it as a first step, not a finished product, and she declined to put a specific release date on anything. She also answered questions about the episode that first put her more squarely in the public eye: the chaotic week in November 2023 when OpenAI’s board fired Sam Altman and she became interim CEO. Inside OpenAI it came to be called “the blip.” Murati said she felt clear about her decisions in each moment — that protecting the mission and the team was the through-line that made the choices feel obvious even as the situation appeared to be falling apart from the outside. She said the company would have “imploded” if not for her involvement through that strange five-day stretch and its immediate aftermath. But she acknowledged that clarity of intent is not the same thing as clarity about consequences. In retrospect, she said, she would have pushed harder for more information, a better transition plan, and more transparency. What she did not say, at least not directly, is whether she thinks things turned out well. Asked whether she still trusts her former boss, she sidestepped the question, steering the conversation toward a larger concern that she returned to several times: the concentration of consequential decisions in too few hands — not just at OpenAI but across the industry. Her worry, she said, is less about the character of any individual leader (though she acknowledged that matters) and more about the absence of structural checks. Good people make bad calls. Well-intentioned organizations drift. Too much attention has been paid to virtue and too little to governance, she suggested. Chang also politely pressed her on the departures of several high-profile researchers from Thinking Machines in recent months , a subject Murati has largely avoided in public and that she downplayed on Thursday. First, she said, building a frontier AI lab from scratch compresses years of normal organizational volatility into months. She also acknowledged that compensation — the nine-figure packages that have become standard currency in the war for AI talent — captures people’s imaginations, but she suggested it isn’t usually the whole story. To some audience laughter, she said of her own competitive instincts, “When I wake up in the morning, I am not thinking about how to kill the competitor.” Naturally, Chang asked about what comes next for AI broadly, including for the humans who AI companies once said would be empowered by AI but who’ve more recently grown scared by talk of mass job displacement, not to mention a future where AI is used to create chemical weapons. Murati, who was born in Albania and speaks with a slight Eastern European accent, was measured in her response. She pushed back on the framing of inevitable dystopia or inevitable utopia, arguing that neither outcome is predetermined and that the period we’re in right now is the one that will determine which way things go. Still, she said — and not for the first time during the interview — that if humans take their hands off the wheel too soon, the future will look very different, and not better. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Get an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Through candid fireside chats and high-impact networking, you’ll walk away with valuable insights and new connections. Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+          "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+          "published_at": "2026-06-05T05:06:37Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "ea27e1300a02",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3500,7 +3787,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "1858a5daeecf",
@@ -3524,7 +3811,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "6e07b148513b",
@@ -3548,7 +3835,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "eb657bf1fa85",
@@ -3572,7 +3859,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "e2bf1cd7a69c",
@@ -3596,7 +3883,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "1df75f43641c",
@@ -3620,7 +3907,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "74b95bcee00a",
@@ -3644,7 +3931,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "97b130469fba",
@@ -3668,30 +3955,6 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "8948c28c367a",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Cash App launches a wand for tap-and-pay | TechCrunch",
-          "summary": "Digital wallet app Cash App is launching a new gadget on Thursday, seemingly inspired by the social media trend that involves paying for items in the real world with a tap of a homemade magic wand, which hides a tap-and-pay credit card.",
-          "body_text": "Digital wallet app Cash App is launching a new gadget on Thursday, seemingly inspired by the social media trend that involves paying for items in the real world with a tap of a homemade magic wand, which hides a tap-and-pay credit card. Now, there’s a real wand you can buy to take part. The company’s $25 wand is part of its new NFC-powered tag hardware lineup, which Cash App plans to expand to include more form factors in the coming months. The company said that its tags are linked to the Cash App Card and would work at outlets compatible with Visa’s tap-to-pay platform. Tags are activated by linking the wand hardware (pictured above) to the app, and there’s no minimum balance needed for the tag to work. Cash App’s new wand comes with a keychain ring that lets you easily attach it to a bag or clip it to clothes. The gadget ostensibly allows you to make payments at times when it’s too cumbersome to get your phone out of your bag, like concerts or sporting events. Of course, the real driver is that there’s something whimsical about tapping a wand to pay for things, especially on special occasions like birthday shopping trips, which may appeal to younger users. Wand users will get instant spend notifications as they pay, and they can lock or unlock the tag from the app at any time. If a user loses a tag, they can use the app to deactivate it. The company said it’s also monitoring fraud for payments made through tags to protect users. “While digital wallets are invisible and physical cards are often buried in wallets, Cash App Tags are just the opposite. We see a unique opportunity here to make payments visible and social for the first time,” Thomas Templeton, Hardware lead at Block, said in a statement. The company said that it plans to introduce more types of tags, including limited-edition drops, in the coming months before making some versions permanently available this summer. Cash App is largely targeting Gen Z users with this launch in a move to attract younger users to the app. The Block-owned fintech introduced accounts for teen users in 2021 , and this year, it launched a parent-controlled debit card for kids aged between six and 12 years. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web. You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal. Get an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Through candid fireside chats and high-impact networking, you’ll walk away with valuable insights and new connections. Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-          "url": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Cash-App-Wand-Handheld-16x9-1.jpeg?resize=1200,784",
-          "published_at": "2026-06-04T16:00:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/06/Cash-App-Wand-Handheld-16x9-1.jpeg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
           "sort_order": 8
         },
         {
@@ -4099,6 +4362,102 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "2dc858e78164",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Redo för lungtransplantation",
+          "summary": "Norska kronprinsessan Mette-Marit är redo för lungtransplantation. Samtidigt vill bonusprinsen Marius Borg Høiby bli frisläppt. Och prinsessan Ingrid Alexandra flyttar hem.",
+          "body_text": "Norska kronprinsessan Mette-Marit är redo för lungtransplantation. Samtidigt vill bonusprinsen Marius Borg Høiby bli frisläppt. Och prinsessan Ingrid Alexandra flyttar hem. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den norska kronprinsessan Mette-Marit har satts på listan för att så snart som möjligt kunna genomföra en lungtransplantation, uppger det norska kungahuset. – Utvecklingen av kronprinsessans lungsjukdom är allvarlig. Efter en omfattande medicinsk bedömning har hon nu placerats på listan över personer som ska genomgå en lungtransplantation så snart som möjligt, säger överläkare och lungspecialist Are Holm på Rikshospitalet i ett pressmeddelande. Just nu står åtta personer på listan för att få en ny lunga i Norge, enligt VG . Mette-Marit meddelade för åtta år sen att hon drabbats av den kroniska sjukdomen lungfibros. Men hennes hälsa har försämrats den senaste tiden och på torsdagen var hon på Rikshospitalet i Oslo tillsammans med resten av familjen. Under tiden som hon väntar på transplantation kommer kronprinsessan inte att kunna arbeta eller genomföra de program som är planerade. Även kronprins Haakon kommer justera sina åtaganden. De kommer bland annat skjuta på firandet av sin silverbröllopsdag som var planerad i augusti. Kronprins Hakoon kommer inte heller att närvara på svenska kungaparets guldbröllopsdag i Stockholm nästa vecka. Prinsessan Ingrid Alexandra reste tillbaka från sina studier i Australien i veckan och kommer stanna i Norge för att plugga på distans därifrån under hösten. Prins Sverre Magnus kommer fortsätta sina utlandsstudier men är redo att åka hem när det behövs. Stortingets president Masud Gharahkhani uttrycker nu också sitt stöd för kronprinssesan.",
+          "url": "https://www.expressen.se/nyheter/kungligt/mette-marit-pa-listan-for-lungtransplantation/",
+          "image_url": "https://static.bonniernews.se/images/cd/e2/cde27151f95f48a7b4092615b558f7bb/16x9/original.jpg",
+          "published_at": "2026-06-05T07:58:39Z",
+          "embed_url": "https://www.expressen.se/nyheter/kungligt/mette-marit-pa-listan-for-lungtransplantation/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "ec43a89785ef",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Levde i flärd – notan gick till en av Sveriges rikaste",
+          "summary": "Genom hotell och mat byggde en man upp en nota på runt 100 000 kronor – som skickades till Antonia Ax:son Johnsons företag. Nu åtalas han för bedrägeri.",
+          "body_text": "Genom hotellnätter och matkassar byggde en man upp en nota på 100 000 kronor – som skickades till Antonia Ax:son Johnsons företag. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det första bedrägeriet misstänks ha begåtts på en Hemköp-butik i Stockholm i mars. Mannen, som är i 20-årsåldern, fick matvarubutiken att lämna ut läsk, energidryck och snacks till ett värde av 23 078 kronor till honom. En hotellnatt och mat på ett Scandic för 8 116 kronor. Varor på ett annat Hemköp för 1 452 kronor. Fyra nätter på ett Clarion-hotell där han åt och drack för 52 071 kronor. Kvittot från vistelsen visar att han bland annat beställt in toast skagen, fyra wienerschnitzel och en dyr flaska champagne. Han utgav sig för att komma från Axel Johnson AB och bad dem att fakturera dem. Ett företag som ägs av entreprenören Antonia Ax:son Johnson – Sveriges rikaste kvinna – med familj. Totalt misstänks han ha bluffat till sig 103 287 kronor. I förhör berättar mannen att han inte hade någon agenda, utan mest ville se om det funkade. Hotellnätterna bokade han för att han ”ville komma hemifrån och inte hade råd att betala eget hotell”, enligt förhöret. – Axel Jonsson är ett företag jag ser upp till och har velat komma nära. När jag fick denna dumma idé var det solklart att det skulle vara Axel Jonsson AB. Jag hade i baktanke att de kan och kommer betala kostnaderna. Jag hade aldrig avsikt att göra det själv, säger han i förhör. Enligt förhöret ”visste han att det var olagligt, men inte att det var bedrägeri”. Nu åtalas han för sju fall av bedrägeri och ett grovt bedrägeri.",
+          "url": "https://www.expressen.se/nyheter/sverige/bluffade-till-sig-100000-kronor-fakturerade-sveriges-rikaste-kvinna/",
+          "image_url": "https://static.bonniernews.se/images/a0/7e/a07ebfea58704c1e9a9571595362a881/16x9/original.png",
+          "published_at": "2026-06-05T06:43:00Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/bluffade-till-sig-100000-kronor-fakturerade-sveriges-rikaste-kvinna/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "09ed65a4a376",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "”Dags att vaska L”",
+          "summary": "M-toppen Christian Sonesson tycker att Tidöpartierna ska ”vaska L” efter att SCB:s partisympatimätning presenterades på torsdagen.",
+          "body_text": "M-toppen Christian Sonesson tycker att Tidöpartierna ska ”vaska L”. Det skriver han i ett inlägg på Facebook efter att SCB:s partisympatimätning presenterades på torsdagen. – Ska vi ha en sportslig chans på högersidan så kan inte 2,5 procent av väljarnas röster bli förpassade till papperskorgen, säger han i Aktuellt . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. SCB:s partisympatimätning kom på torsdagen och gapet mellan blocken har vidgats och ligger nu på 12,6 procent – om man räknar med Liberalernas procent. L fick 2,5 procent i mätningen och kan stjälpa högersidans chanser till att åter få styra landet i fyra år. Det tycker i alla fall M-toppen, Staffanstorps kommunstyrelseordförande, Christian Sonesson som vill att Tidö-sidan gör sig av med Mohamsson och hennes gäng. ”Vaska L”. Det tycker M-toppen, Staffanstorps kommunstyrelseordförande, Christian Sonesson som på Facebook uppmanat Tidö att försöka ”rädda det som räddas kan”. I torsdagskvällens Aktuellt på SVT lägger han ut ordet i en debatt med Linda Jerneck, liberal ledarskribent på Expressen. ”Det är dags att vaska L. Se till att rädda de procentenheter som fortfarande finns i partiet genom att sprida ut er på övriga blå/gula partier så att vi inte lämnar walkover till vänstern i valet”, skriver Sonesson på Facebook. – Jag säger bara det som alla väljare redan har förstått, säger han. – Gapet är så stort att ska vi ha en sportslig chans på högersidan så måste vi vara rädd om varje röst som finns. Han tycket att hans regeringsalternativ ska försöka ”rädda det som räddas kan” och att ”tuffa beslut” måste fattas. – Det går ju givetvis inte att på valnatten konstatera att 2,5 procent av väljarnas röster bli förpassade till papperskorgen, fortsätter han.",
+          "url": "https://www.expressen.se/nyheter/politik/m-toppen-christian-sonesson-vaska-l/",
+          "image_url": "https://static.bonniernews.se/images/2d/68/2d684c1fb623412fb0166b62d060b42f/16x9/original.png",
+          "published_at": "2026-06-05T06:40:33Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/m-toppen-christian-sonesson-vaska-l/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
+          "id": "4ab9f6a74bd7",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Firar terror och hyllar diktaturer",
+          "summary": "Här är 25 vänsterpartister som förnekar Förintelsen, sprider hat och antisemitism, firar terrordåd och hyllar Irans och Ryssland ledare – men ändå fått platser på partiets vallistor.",
+          "body_text": "Här är 25 vänsterpartister som förnekar Förintelsen, sprider hat och antisemitism, firar terrordåd och hyllar Irans och Ryssland ledare – men ändå fått platser på partiets vallistor. Vänsterledaren Nooshi Dadgostar hävdar att partiet inte har ett problem med terrorsympatier eller antisemitism. – Det är en handfull personer, sa hon hårt pressad av ett medieuppbåd i riksdagshuset i går. Men Expressen kan nu avslöja att problemet är betydligt större än partiledaren ger sken av. En efter en sparkas ut när Expressen börjar ställa frågor. Hittils har 13 av dem försvunnit från vallistorna. Al-Qaida, Hamas, Huthirebellerna, Hizbollah, PFLP. Det är bara några av de terrorstämplade grupper som Islam Qatesh , 53, hyllat öppet. Trots det gavs han plats på Vänsterpartiets vallistor. Nu sparkas han ut. I Östra Göinge kandiderar Mona Alsalehi Nordfält , 72, i kommunvalet. På Facebook delar hon inlägg där antisemitiske influencers uttrycker stöd för Hamas och säger att judar anser sig stå över alla andra människor. Hon påstår även att Israel lät Hamaskrigarna gå in i Israel för att ha anledning att attackera Gaza. – Det är precis detsamma som 11 september. Det kommer fram nu, men jag visste det från första dagen, att det bara är teater för att de skulle ha anledning att döda folk, säger hon. Mona Alsalehi Nordfält kandiderar i kommunvalet i Östra Göinge och står på andra plats på kommunlistan och på åttonde plats på flera regionlistor i Skåne.",
+          "url": "https://www.expressen.se/nyheter/politik/hela-listan-25-v-kandidater-som-firar-terror-och-hyllar-diktaturer/",
+          "image_url": "https://static.bonniernews.se/images/54/be/54beb9bb59f6472090b63863f380c00c/16x9/original.jpg",
+          "published_at": "2026-06-05T05:12:39Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/hela-listan-25-v-kandidater-som-firar-terror-och-hyllar-diktaturer/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 3
+        },
+        {
           "id": "88a7f02751ae",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4120,7 +4479,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 4
         },
         {
           "id": "9c64a633cba2",
@@ -4144,7 +4503,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 5
         },
         {
           "id": "c4785b9624f3",
@@ -4154,9 +4513,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Stoppar vapnet – av rädsla för Rysslands svar",
-          "summary": "USA är på väg att stoppa viktiga vapenleveranser till Tyskland. Enligt källor rivs ett flera år gammalt avtal upp, då Pentagon oroar sig för hur Ryssland ska reagera.",
-          "body_text": "USA är på väg att stoppa viktiga vapenleveranser till Tyskland. Enligt källor rivs ett flera år gammalt avtal upp, då Pentagon oroar sig för hur Ryssland ska reagera. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA stoppar viktiga vapenleveranser till Tyskland, enligt källor. Beslutet grundas på oro för Rysslands reaktion och brist på vapen efter kriget i Iran. Tyskland ser robotarna som avgörande för sitt försvar mot Ryssland. USA:s reträtt från Nato under Donald Trump fortsätter. Tusentals amerikanska soldater ska förflyttas från Tyskland och färre stridsflygplan, drönare och marina enheter ska vara tillgängliga för försvarsalliansen. Nu väntas Pentagon avbryta planerna på att skicka avancerade Tomahawk-robotar till Tyskland, uppger amerikanska och europeiska källor för Politico . Enligt källorna ska amerikanska företrädare vara rädda för att Ryssland skulle se en leverans som en eskalering och slå tillbaka. Avtalet om en leverans gjordes redan under Joe Biden och i Tyskland ser man kryssningsroboten som central i försvaret mot Ryssland. Även om oron för Rysslands reaktion är huvudorsaken till att riva upp avtalet påpekar källorna också att kriget i Iran grävt djupa hål i USA:s egna vapenlager. Under krigets första veckor gjorde man av med tusentals kryssnings- och luftvärnsrobotar, något som försvarsminister Pete Hegseth har medgett kommer att ta flera år att ersätta. Redan förra månaden förutspådde Friedrich Merz, Tysklands förbundskansler, att USA inte skulle kunna placera några Tomahawks i Tyskland. – De har inte tillräckligt för sig själva just nu, sa han i tysk tv.",
+          "title": "Stoppar vapnet – av rädsla för ryska svaret",
+          "summary": "USA är på väg att stoppa viktiga vapenleveranser till Tyskland. Enligt källor rivs ett flera år gammalt avtal upp, då Pentagon oroar sig för hur Ryssland ska reagera. Missa inget om Trump – ladda ner Expressens app här",
+          "body_text": "USA är på väg att stoppa viktiga vapenleveranser till Tyskland. Enligt källor rivs ett flera år gammalt avtal upp, då Pentagon oroar sig för hur Ryssland ska reagera. Missa inget om Trump – ladda ner Expressens app här Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA stoppar viktiga vapenleveranser till Tyskland, enligt källor. Beslutet grundas på oro för Rysslands reaktion och brist på vapen efter kriget i Iran. Tyskland ser robotarna som avgörande för sitt försvar mot Ryssland. USA:s reträtt från Nato under Donald Trump fortsätter. Tusentals amerikanska soldater ska förflyttas från Tyskland och färre stridsflygplan, drönare och marina enheter ska vara tillgängliga för försvarsalliansen. Nu väntas Pentagon avbryta planerna på att skicka avancerade Tomahawk-robotar till Tyskland, uppger amerikanska och europeiska källor för Politico . Enligt källorna ska amerikanska företrädare vara rädda för att Ryssland skulle se en leverans som en eskalering och slå tillbaka. Avtalet om en leverans gjordes redan under Joe Biden och i Tyskland ser man kryssningsroboten som central i försvaret mot Ryssland. Även om oron för Rysslands reaktion är huvudorsaken till att riva upp avtalet påpekar källorna också att kriget i Iran grävt djupa hål i USA:s egna vapenlager. Under krigets första veckor gjorde man av med tusentals kryssnings- och luftvärnsrobotar, något som försvarsminister Pete Hegseth har medgett kommer att ta flera år att ersätta. Redan förra månaden förutspådde Friedrich Merz, Tysklands förbundskansler, att USA inte skulle kunna placera några Tomahawks i Tyskland.",
           "url": "https://www.expressen.se/nyheter/varlden/usa-stoppar-leverans-av-robotar-till-tyskland/",
           "image_url": "https://static.bonniernews.se/images/cd/f7/cdf76be1daeb4985bfd96b4240d4d6a0/16x9/original.png",
           "published_at": "2026-06-04T23:29:38Z",
@@ -4168,7 +4527,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "523a9b3aab00",
@@ -4192,7 +4551,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 7
         },
         {
           "id": "fe77e50e7ea6",
@@ -4202,109 +4561,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Zelenskyj föreslår möte med Putin i öppet brev",
-          "summary": "”Det här kriget är ditt personliga val”. Det är Volodymyr Zelenskyj budskap i ett öppet brev, där han vänder sig direkt till Vladimir Putin. ”Jag föreslår ett möte”, skriver den ukrainska presidenten.",
-          "body_text": "”Det här kriget är ditt personliga val”. Det är Volodymyr Zelenskyj budskap i ett öppet brev, där han vänder sig direkt till Vladimir Putin. ”Jag föreslår ett möte”, skriver den ukrainska presidenten. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Brevet är långt och adresserat till den ryska federationens president, från Ukrainas president. Volodymyr Zelenskyj inleder med att beskriva att många ukrainare inledningsvis var positiva till Vladimir Putin, när han kom till makten i Ryssland för mer än 26 år sen. Men sen dess har bilden förändrats, och Zelenskyj konstaterar att Putin har krigat mot Ukraina i nästan hälften av sina år vid makten. Och nu börjar ryssarna tröttna på det, enligt den ukrainska ledaren. Han skriver i sitt brev bland annat att det ryska folket inte gillar Ukrainas drönare, konstanta restriktioner eller stigande priser – och att Putin varken kommer ha tillräckligt med pengar eller politiskt kapital att ”fortsätta köpa ryssarnas lojalitet”. Enligt Zelenskyj förlorar den ryska militären långt fler soldater än Ukraina i kriget, men han skriver att varje ukrainsk förlust ändå är ”smärtsam”. ”Var inte rädd att ta vägen ut ur kriget. Det är det viktigaste som krävs av dig nu”, manar han till Putin. ”Ukraina har bevarat sin självständighet. Och kommer att bevara den. Trots alla förutsägelser om motsatsen.”",
-          "url": "https://www.expressen.se/nyheter/varlden/zelenskyj-foreslar-mote-med-putin-i-oppet-brev/",
-          "image_url": "https://static.bonniernews.se/images/b2/dc/b2dce41caa70433aa8fde363fed9bc5c/16x9/original.png",
-          "published_at": "2026-06-04T19:01:21Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/zelenskyj-foreslar-mote-med-putin-i-oppet-brev/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "51f675ef2978",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Putins fredskrav: ”Håller med Trump”",
-          "summary": "Rysslands mål är fortfarande en full demilitarisering av Ukraina, säger president Putin. Men samtidigt stänger han inte dörren för ett fredsavtal – om Ukraina är villigt att göra kompromisser. Missa ingenting om Vladimir Putin – ladda ned Expressens app här",
-          "body_text": "Rysslands mål är fortfarande en full demilitarisering av Ukraina, säger president Putin. Men samtidigt stänger han inte dörren för ett fredsavtal – om Ukraina är villigt att göra kompromisser. Missa ingenting om Vladimir Putin – ladda ned Expressens app här Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vladimir Putin visade under ett pressmöte med internationella journalister en vilja för fred med Ukraina. Han uttryckte förtroende för att Ryssland kan nå sina mål i Ukraina militärt, men att han hellre ser dem uppfyllas genom ett fredsavtal. Detta avtal – enligt Reuters i så fall baserat på det avtal han ska ha kommit överens om med Donald Trump i Alaska i fjol – hänger enligt Putin dock på Ukrainas vilja att kompromissa. – Om man inte kan nå en överenskommelse på fredlig väg så måste man söka en militär lösning, säger Putin. – Vi vill se till att det inte kan finnas några väpnade styrkor i Ukraina som kan utgöra ett hot mot Ryssland. Hans ord om att nå fred genom avtal kommer dock alldeles efter att han hotat med att utvidga användandet av den hypersoniska roboten Oresjnik mot Ukraina, som enligt Putin inte har använts med full förmåga. Roboten som färdas i många gånger ljudets hastighet och använts tre gånger i kriget, kan enligt Ryssland bestyckas med kärnvapen. Efter uppmärksammade ukrainska drönarattacker mot Ryssland, inte minst mot S:t Petersburg på onsdagen i samband med det ekonomiska forum som pågår där, säger han också att Ryssland måste stärka sitt luftförsvar. – Ryssland har ett luftförsvarssystem, ja. Vi måste förbättra det, vi måste stärka det. Och det kommer vi att göra. På frågan om det finns några planer på ett möte eller telefonsamtal med USA:s president Donald Trump svarar Putin att det ”skulle vara till stor nytta”.",
-          "url": "https://www.expressen.se/nyheter/varlden/putin-ryssland-maste-starka-luftforsvaret/",
-          "image_url": "https://static.bonniernews.se/images/80/cd/80cd2db0d97346179a42a1ed0da74a4e/16x9/original.png",
-          "published_at": "2026-06-04T18:31:09Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/putin-ryssland-maste-starka-luftforsvaret/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "2e16b1e5316a",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Så kan El Niño påverka Sverige i sommar",
-          "summary": "Världsmeteorologiska organisationen WMO uppmanar världens länder att göra sig redo för väderfenomenet El Niño. Men hur påverkas vi i norr? – Även det varmaste året någonsin globalt kan vara en kall sommar i Sverige, säger Gustav Strandberg på SMHI.",
-          "body_text": "Världsmeteorologiska organisationen WMO uppmanar världens länder att göra sig redo för väderfenomenet El Niño. – Även det varmaste året någonsin globalt kan vara en kall sommar i Sverige, säger Gustav Strandberg på SMHI. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Någon gång mellan mars och juni brukar El Niño börja byggas upp, för att sen nå sin högsta styrka mellan november och februari. Senast väderfenomenet inträffade var 2023-2024, och nu ser det ut att vara dags igen. WMO skriver i ett pressmeddelande att det enligt den senaste prognosen är 80 procents sannolikhet att El Niño inträffar juni–augusti, och att det kommer att öka risken för extremväder de närmaste månaderna. – Vi måste förbereda oss på en potentiellt stark El Niño – som kommer att förvärra torka och omfattande regn och öka risken för värmeböljor både på land och i havet, säger WMO-chefen Celeste Saulo i ett uttalande. Detta är dock inte något som väntas få några stora effekter i Sverige. Åtminstone inte vädermässigt. – Det är sannolikt att vi får en El Niño under sommaren. Det betyder att den globala uppvärmningen får en skjuts, vilket i sin tur betyder ökad risk för extrema väderhändelser. Det har tydliga effekter i stora delar av världen, men kopplingen till det svenska vädret är svag, säger Gustav Strandberg, klimatforskare på SMHI , i en kommentar. – Man ser inte att det kommer bli någonting speciellt i Sverige på grund av El Niño. – Nej, inte på det sättet. Den globala årsmedeltemperaturen blir högre men det är ju inte så att man, som i vissa andra delar av världen, får tydligt förändrade nederbördsmönster eller varmare hav. Den där starka kopplingen till sommarvädret, den har vi inte. Enligt Gustav Strandberg kan 2026 på grund av El Niño blir det varmaste året någonsin, men han säger att ”även det varmaste året någonsin globalt kan vara en kall sommar i Sverige”.",
-          "url": "https://www.expressen.se/nyheter/vader/sa-kan-el-nino-paverka-sverige-i-sommar/",
-          "image_url": "https://static.bonniernews.se/images/2e/a4/2ea49b44cb0c4fd6bc490fbcffcc6d97/16x9/original.png",
-          "published_at": "2026-06-04T18:16:38Z",
-          "embed_url": "https://www.expressen.se/nyheter/vader/sa-kan-el-nino-paverka-sverige-i-sommar/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "ff938b44e94a",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Foxtrot-toppen Ali Namdar, 21, efterlyst även av Norge",
-          "summary": "Svenska Ali Namdar, 21, är en av Europas mest jagade män – misstänkt för en rad brott i Sverige. Nu vill även Norge få tag i honom. – Han sitter utomlands och organiserar grova våldsuppdrag, säger åklagare Anja Perminow Stenersen.",
-          "body_text": "Svenska Ali Namdar, 21, är en av Europas mest jagade män – misstänkt för en rad brott i Sverige. – Han sitter utomlands och organiserar grova våldsuppdrag, säger åklagare Anja Perminow Stenersen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ali Namdar från Katrineholm är en av flera svenskar på Europols ”most wanted”-lista. Han är häktad i sin frånvaro av flera tingsrätter i Sverige, och efterlyst för bland annat anstiftan av försök till mord, stämpling till mord, anstiftan av grov allmänfarlig ödeläggelse och involverande av underårig i brottslighet. – Namdar är misstänkt för mycket allvarlig brottslighet av stor omfattning och är dessutom fortsatt aktiv inom denna brottslighet. Det är mycket angeläget att han kan gripas och lagföras, dels för upprättelse mot offer men också för att skydda svenska medborgare, har en anonym polisinspektör på NOA tidigare sagt till Expressen. Nu misstänks 21-åringen, som kopplas till det kriminella nätverket Foxtrot, även för flera brott i Norge – som också har efterlyst honom. Oslopolisen pekar ut Ali Namdar som beställare av bland annat en granatattack och två skjutningar, och den norska rikskriminalpolisen Kripos menar att han också har försökt ragga folk till våldsuppdrag via krypterade plattformar. – Misstankarna gäller hösten och vintern 2025, men det kan vara aktuellt att utvidga det. Vi har sett aktivitet mot Norge även efter denna period, säger åklagaren Anja Perminow Stenersen i en kommentar. Hon pekar ut 21-åringen som en person med en ”central roll” i Foxtrot, och som ”strategiskt viktig” för nätverket. – Detta är en person som vi menar sitter utomlands och organiserar allvarliga våldsuppdrag, som utgör ett allvarligt hot mot tryggheten i Norge. Han har utnyttjat barn och ungdomar till att genomföra våldsuppdragen. Till NRK säger Anja Perminow Stenersen att svensken även kan komma att misstänkas för människohandel.",
-          "url": "https://www.expressen.se/nyheter/sverige/foxtrot-toppen-ali-namdar-21-efterlyst-aven-av-norge/",
-          "image_url": "https://static.bonniernews.se/images/d1/38/d1380cee9adb4457a675a3afc8d60240/16x9/original.png",
-          "published_at": "2026-06-04T17:39:29Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/foxtrot-toppen-ali-namdar-21-efterlyst-aven-av-norge/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "17fcff581410",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Krim I går 18.17 Kriminalvårdarnas vapenbilder väcker ilska",
+          "title": "Världen I går 21.01 Zelenskyj föreslår möte med Putin i öppet brev",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/krim/kriminalvardarnas-vapenbilder-vacker-ilska/",
+          "url": "https://www.expressen.se/nyheter/varlden/zelenskyj-foreslar-mote-med-putin-i-oppet-brev/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/krim/kriminalvardarnas-vapenbilder-vacker-ilska/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/zelenskyj-foreslar-mote-med-putin-i-oppet-brev/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4315,20 +4578,20 @@
           "sort_order": 8
         },
         {
-          "id": "df708d6a9c44",
+          "id": "51f675ef2978",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Politik I går 18.01 V-kandidaterna sprider lögner om Förintelsen",
+          "title": "Världen I går 22.14 Putin: Ryssland måste stärka luftförsvaret",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/v-kandidaterna-sprider-logner-om-forintelsen/",
+          "url": "https://www.expressen.se/nyheter/varlden/putin-ryssland-maste-starka-luftforsvaret/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/v-kandidaterna-sprider-logner-om-forintelsen/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/putin-ryssland-maste-starka-luftforsvaret/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
