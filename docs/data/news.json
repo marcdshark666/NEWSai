@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T11:51:56Z",
+  "generated_at": "2026-06-13T13:48:38Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -13,10 +13,11 @@
       "surface": "video",
       "source_kind": "video",
       "live_section": false,
-      "status": "pending",
+      "status": "error",
       "article_count": 0,
       "priority_split": 0,
-      "articles": []
+      "articles": [],
+      "error": "403 Client Error: Forbidden for url: https://www.tv4play.se/nyheter"
     },
     {
       "id": "tv4-ekonomi",
@@ -29,275 +30,11 @@
       "surface": "video",
       "source_kind": "video",
       "live_section": false,
-      "status": "ok",
-      "article_count": 11,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "5f2b927bfe21",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Suget efter Space X-aktien ”extremt högt”",
-          "summary": "Nyheter från TV4: Suget efter Space X-aktien ”extremt högt”",
-          "body_text": "Space X operativa chef Gwynne Shotwell talar i samband med fredagens ceremoni när aktien hade börspremiär. Suget efter Space X-aktien ”extremt högt” Alla som ville ha, fick sina Space X-aktier inför fredagens börsnotering, om än inte så många som önskades. Många köpte även över börsen. Efter en börsdag ägde 43 000 av Nordnets nordiska kunder den amerikanska raketjätten. ”De har varit ett extremt högt intresse jämfört med tidigare börsnoteringar vi haft på alla våra nordiska marknader”, säger Nordnets sparekonom Calle Söderberg i en skriftlig kommentar till TT. Nordnet var en av få mäklarfirmor som kunde erbjuda köp av aktien inför börspremiären på fredagen. Hur många som fick köpa vill inte nätmäklaren berätta. Men alla som ville fick tilldelning ”om än i reducerad skala mot hur många aktier man sökte, detta då intresset var så pass stort”, säger Söderberg. Och det blev en riktig börsfest för de som fick hoppa på från start. Aktien i Elon Musk rymd- och satellitbolag steg med 19 procent under fredagens handel på Nasdaqbörsen i New York. Därmed landade det totala börsvärdet på Space X vid fredagens slut på 2 200 miljarder dollar, eller hissnande 20 800 miljarder kronor.",
-          "url": "https://www.tv4.se/artikel/tt-260613-spacex1-b3a555c5/suget-efter-space-x-aktien-extremt-hogt",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlnmM77GRHl2Q/07b4f76caeb536a88a04ddf13950eee2/Space_X_operativa_chef_Gwynne_Shotwell_talar_i_samband_med_fredagens_ceremoni_nar_aktien_hade_borspremiar.",
-          "published_at": "2026-06-13T09:55:06Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260613-spacex1-b3a555c5/suget-efter-space-x-aktien-extremt-hogt",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "839c32ab4578",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Efter sammanslagning – Arla gör ost i Ryssland",
-          "summary": "Nyheter från TV4: Efter sammanslagning – Arla gör ost i Ryssland",
-          "body_text": "Efter sammanslagning – Arla gör ost i Ryssland Genom sammanslagningen med den tyska mejerijätten DMK Group har Arla blivit ägare till en omfattande verksamhet i Ryssland. Hur situationen ska hanteras har mejerikoncernen i dagsläget inga konkreta svar på. Den omstridda fusionen mellan Arla och den tyska mejerijätten Deutsches Milchkontor, DMK Group, har nyligen godkänts av EU:s konkurrensmyndighet. Syftet med affären är att ge Arla bättre ekonomisk motståndskraft och att säkra den framtida livsmedelsproduktionen i Sverige, var budskapet från Cecilia Kocken, vd för Arla Sverige, när mejerikoncernen deklarerade sammanslagningen i slutet av maj i år. Med löfte om att ett starkare kooperativ säkrar såväl tillväxt som högre mjölkpris till svenska bönder, berörde Arla däremot inte en känslig fråga: den om DMK:s fortsatta verksamhet i Ryssland. Andra mejeriföretag, däribland Arla, har dragit sig ur Ryssland sedan landets storskaliga invasion av Ukraina för drygt fyra år sedan. Men DMK har valt att ha kvar sin produktion riktad mot den ryska marknaden i form av en ysteriverksamhet i full drift i Voronezh-regionen. Den tyska mejerijätten har tidigare uppgett att verksamheten i Ryssland ska utvärderas så snart fusionen med Arla godkänts. Arla har i sin tur lovat att hantera DMK:s aktivitet i Ryssland när sammanslagningen väl har trätt i kraft, vilket den gjorde 1 juni i år. Än så länge kan mejerikoncernen dock inte svara på hur de tänker ta tag i frågan. ”Arlas hållning till verksamhet i Ryssland är välkänd och ligger fast”, framhåller Cecilia Kocken i ett mejlsvar till TT, men meddelar att hon inte kan dela fler detaljer. ”Först nu när fusionen är genomförd kan vi börja fatta konkreta beslut. Samtidigt har vi ett ansvar att hantera situationen för de lokala medarbetarna på ett korrekt och respektfullt sätt\", uppger hon. Vera Hassenpflug, presskontakt vid DMK Group, vill inte heller kommentera framtida planer för aktiviteten i Ryssland: \"Arla och DMK är nu ett enda företag och kommer att fatta beslut som ett sådant\", skriver hon i ett mejlsvar till TT. Fusionen mellan bondeägda mejeriföretaget Arla och den tyska mejerikoncern DMK Group trädde i kraft den 1 juni 2026. I slutet av maj i år godkände EU:s konkurrensmyndigheter sammanslagningen.",
-          "url": "https://www.tv4.se/artikel/tt-260613-arlafusion1-85574d1d/efter-sammanslagning-arla-gor-ost-i-ryssland",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlo-oFgyEzZ0w/0b2a55e278f010956f0acd348a15dfe5/Mjolkpriset_sanks._",
-          "published_at": "2026-06-13T05:03:03Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260613-arlafusion1-85574d1d/efter-sammanslagning-arla-gor-ost-i-ryssland",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "7fc56249500b",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "USA stoppar Anthropics nya AI-modeller",
-          "summary": "Nyheter från TV4: USA stoppar Anthropics nya AI-modeller",
-          "body_text": "Anthropic har under fredagen stängt av tillgången till två av sina AI-modeller efter direktiv från USA. Beslutet, som förbjuder alla utländska medborgare från att använda tekniken av ”nationella säkerhetsskäl”, sker mitt under en infekterad rättslig strid mellan företaget och presidentstyret. Ordern förbjuder alla utländska medborgare – inklusive Anthropics egen personal – från att använda modellerna. Det tvingar företaget att stänga av tillgången för samtliga kunder. Företaget uppger att det inte framgått specifikt vad som oroat myndigheterna. Enligt dem anser sig myndigheterna dock ha fått kännedom om en metod för att kringgå säkerhetsspärrarna av Fable 5-modellen på ett sätt som skulle kunna underlätta hackning. Fable 5 är en låst version av Mythos 5, en avancerad modell som hållits tillbaka från allmänheten då den har stor förmåga att hitta sårbarheter i programkod. Anthropic håller inte med om riskanalysen och betonar att Fable 5 inte ger hackare unika verktyg. De varnar för att sådana åtgärder kan stoppa hela branschens utveckling. Detta sker mitt i en rättslig strid där Anthropic förvägrat Trumpstyret att använda deras teknik för massövervakning och autonoma vapen, vilket lett till att Pentagon brutit kontrakt med företaget. Claude Mythos är en AI-modell utvecklad av amerikanska Anthropic. Modellen kan koda och förstå programmeringskod, och är enligt bolaget bättre än nästan alla människor på att hitta och utnyttja sårbarheter. 1. Den får läsa programmets källkod i en dator isolerad från internet. 2. Mythos tar fram en hypotes på eventuella sårbarheter. 3. Hypotesen testas för att bekräfta eller avvisa misstankarna, eller anpassa något och göra ett nytt försök. 4. När Mythos hittat flera mindre sårbarheter testar den att kedja samman dem, för att skapa en kraftigare attack.",
-          "url": "https://www.tv4.se/artikel/tt-260613-anthropicai1-7e7ca635/usa-stoppar-anthropics-nya-ai-modeller",
-          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
-          "published_at": "2026-06-13T03:50:31Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260613-anthropicai1-7e7ca635/usa-stoppar-anthropics-nya-ai-modeller",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": true,
-          "sort_order": 2
-        },
-        {
-          "id": "c22928c5f9a4",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Trumpregeringen godkänner Paramounts jätteaffär",
-          "summary": "Nyheter från TV4: Trumpregeringen godkänner Paramounts jätteaffär",
-          "body_text": "USA godkänner Paramounts förvärv av Warner Bros. Trumpregeringen godkänner Paramounts jätteaffär USA:s justitiedepartement gav under fredagen grönt ljus till Paramounts köp av Warner Bros. Men flera delstater förbereder ett försök att stoppa affären. Affären mellan de två Hollywoodjättarna värderas till mer än 110 miljarder dollar, eller drygt 1 000 miljarder kronor. I ett uttalande från justitiedepartementets konkurrensavdelning heter det att affären ”sannolikt inte kommer att skada konkurrensen eller de amerikanska konsumenterna”. Att Trump-regeringen skulle godkänna affären var väntat. Enligt källor till Bloomberg träffade Paramountchefen David Ellison, son till Trumpvännen och Oraclechefen Larry Ellison, nyligen representanter för konkurrensmyndigheten. Men flera delstater, ledda av Kalifornien, förbereder en stämning för att blockera affären. Även skådespelare, producenter och manusförfattare protesterar mot sammanslagningen som enligt dem kommer att resultera i högre kostnader och färre jobb.",
-          "url": "https://www.tv4.se/artikel/tt-260613-paramountkop1-df026a25/trumpregeringen-godkanner-paramounts-jatteaffar",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlIpJVWM-Yw50/d58d9a84fbb15354a09c0c2d24a82b6e/USA_godkanner_Paramounts_forvarv_av_Warner_Bros.",
-          "published_at": "2026-06-12T22:35:29Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260613-paramountkop1-df026a25/trumpregeringen-godkanner-paramounts-jatteaffar",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "298e5e501d2e",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kuba öppnar för mer privat företagande",
-          "summary": "Nyheter från TV4: Kuba öppnar för mer privat företagande",
-          "body_text": "Kubas president Miguel Díaz-Canel. Arkivbild. Kuba tar nya steg för att liberalisera sin ekonomi, under trycket från USA:s skärpta blockad. Den kommuniststyrda ön kommer att öppna fler sektorer för småföretag samt snabba på godkännandeprocessen för nya privata initiativ, meddelar president Miguel Díaz-Canel i ett tv-sänt tal. Privata företag med som mest 100 anställda tilläts 2021 och har blivit en allt viktigare del av Kubas ekonomi. Sedan i februari i år har de tillåtelse att importera bränsle, en sektor som tidigare var helt statskontrollerad. Som del av de nya reformerna kommer privata företag också få investera på liknande villkor som utländska företag, sedan flera av dessa lämnat landet efter skärpta amerikanska sanktioner. Díaz-Canel lovar också decentralisering av ekonomin genom större handlingsfrihet för statsägda företag, samt en trimmad statsapparat.",
-          "url": "https://www.tv4.se/artikel/tt-260612-kubareform1-ab7870ae/kuba-oppnar-for-mer-privat-foretagande",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlUwC1YF0-E4Q/7cd4b593bc7fe4d92ae85000bb6c2a04/Kubas_president_Miguel_Daz-Canel._Arkivbild._",
-          "published_at": "2026-06-12T20:37:43Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260612-kubareform1-ab7870ae/kuba-oppnar-for-mer-privat-foretagande",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "4a03b8a22313",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Hur kontaktar jag TV4?",
-          "summary": "Nyheter från TV4: Hur kontaktar jag TV4?",
-          "body_text": "9 januari 2024 ・ Uppdaterad: 10 februari 2026 Vill du kontakta TV4 Plays kundtjänst? Klicka här för att komma till vår supportsida och välj sedan \"Kontakta oss\". TV4 Medias visselblåsarkanal, klicka här . Om du är missnöjd med en publicering är du välkommen att höra av dig till oss på nyheterna@tv4.se . Du kan också göra en anmälan till Granskningsnämnden eller Medieombudsmannen . Registreringsnummer för mervärdesskatt: SE556242715201 Ägare: TV4 Media AB organisationsnummer 556802-5646, en del av Schibsted Tillsyn Tillsynsmyndigheter: Mediemyndigheten, Konsumentverket. TV4 är medlem i det medieetiska systemet, Medieombudsmannen.",
-          "url": "https://www.tv4.se/artikel/21S40PKdrQZDCEJllEPwRj/hur-kontaktar-jag-tv4",
-          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
-          "published_at": "2024-01-09T10:57:12Z",
-          "embed_url": "https://www.tv4.se/artikel/21S40PKdrQZDCEJllEPwRj/hur-kontaktar-jag-tv4",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "7fd576969d7c",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Ansvariga utgivare för innehåll på TV4 Play och tv4.se",
-          "summary": "Nyheter från TV4: Ansvariga utgivare för innehåll på TV4",
-          "body_text": "9 januari 2024 ・ Uppdaterad: 17 april 2026 TV4 Nyheterna (inkl sportnyheter, ekonomi, väder), tv4.se, Nyheterna Story och Kalla fakta Nyhetsmorgon, Nyhetsdagen, Efter fem, tillkommande samhällsprogram som tex val, dokumentärer. Färdigproducerade filmer och serier som inte producerats eller beställts av TV4 samt återköp av produktioner Beställda produktioner, manusbaserade filmer och serier (sk drama) inkl äldre säsonger av pågående produktioner Beställda produktioner, underhållning (ej drama) Trailers (dock inte trailers för program inom nyheter och samhälle)",
-          "url": "https://www.tv4.se/artikel/4FASkwNxMHxSiSi8XBG6mf/ansvariga-utgivare-foer-innehall-pa-tv4-play-och-tv4-se",
-          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
-          "published_at": "2024-01-09T10:56:05Z",
-          "embed_url": "https://www.tv4.se/artikel/4FASkwNxMHxSiSi8XBG6mf/ansvariga-utgivare-foer-innehall-pa-tv4-play-och-tv4-se",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "6acd39c55860",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Publicistiska grunden för journalistik på TV4",
-          "summary": "Nyheter från TV4: Hur fungerar den publicistiska grunden för nyhets- och samhällsjournalistik på TV4?",
-          "body_text": "Hur fungerar den publicistiska grunden för nyhets- och samhällsjournalistik på TV4? 9 januari 2024 ・ Uppdaterad: 15 augusti 2025 TV4:s nyhets- och samhällsbevakning ska vara i ögonhöjd med tittarna. Vi vill vara nära, personliga och inkluderande. För alla i hela Sverige. Vi ska vara trovärdiga och relevanta. Vi testar nya visuella former och utvecklar det rörliga berättandet. Vi är både snabba, och fördjupande. Vi ger plats för både humor och allvar. Vi påverkar och berör. Vi avslöjar maktmissbruk, och värnar pressfrihet och yttrandefrihet. Vi producerar Nyhetsmorgon, Nyhetsdagen, Efter fem och kvällsnyheter. Vi nyhetsrapporterar på tv4.se och fördjupar i kortdokumentärerna Nyheterna Story. Vår mångfaldigt prisbelönta redaktion Kalla Fakta granskar makt och missförhållanden. TV4:s nyhets- och samhällsbevakning sker ur ett riksperspektiv, med hela Sverige och världen som bevakningsområde. Vi har 17 rikskorrar på sex orter i Sverige. De finns i Luleå, Umeå, Östersund, Skövde, Göteborg och Malmö. Vi bevakar världen via utrikesreportrar, korrar och stringers. Vår journalistik vilar på respekt för alla människors lika värde, oavsett politisk åskådning, religion eller sexuell läggning. Det innebär att vi låter många röster komma till tals, även de som bär åsikter som inte nödvändigtvis delas av medarbetarna på redaktionen eller TV4. Men det kan också innebära att vi tar bort artikelkommentarer som kränker, eller till exempel avstår gäster i direktsändning där vi bedömer att risken är stor för missbruk av öppenheten. TV4:s nyhets- och samhällsjournalistik är oberoende och obunden. Den står fri från politiska partier, organisationer, och näringsliv. Vi har ingen ledarsida eller politisk färg. Innehållet på våra plattformar bedöms och värderas av redaktörer, producenter och av ansvarig utgivare före publicering. Vi följer grundlagen och skyddar våra källor när de önskar anonymitet. Om vi refererar uppgifter från andra medier redovisar vi vilka medier eller andra informationskällor det handlar om. Annars berättar vi hur vi själva tagit reda på informationen, dock alltid med största respekt för källskydd.",
-          "url": "https://www.tv4.se/artikel/4Qhj6KAd8hwaL4HZwg2uBL/hur-fungerar-den-publicistiska-grunden-foer-nyhets-och-samhaellsjournalistik",
-          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
-          "published_at": "2024-01-09T10:53:10Z",
-          "embed_url": "https://www.tv4.se/artikel/4Qhj6KAd8hwaL4HZwg2uBL/hur-fungerar-den-publicistiska-grunden-foer-nyhets-och-samhaellsjournalistik",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "2494532aeba0",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Annonsera - TV4.se",
-          "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Flera potentiella fallgropar • ”All anledning till att vara skeptisk” Experterna om avtalet: ”På riktigt den här gången” Pojke fastnade i container • Människor har samlats på platsen: ”Jättehemskt” Befann sig nära svenskt luftrum • ”Det ryska agerandet är allvarligt”",
-          "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
-          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
-          "published_at": "2023-04-27T12:24:20Z",
-          "embed_url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "bab9eba08c1f",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Cookiepolicy - www.tv4.se",
-          "summary": "Nyheter från TV4: Cookie-policy",
-          "body_text": "25 maj 2018 ・ Uppdaterad: 9 januari 2024 Vissa tjänsteleverantörer, t.ex. Google och Adform, tillhandahåller även egna verktyg som möjliggör för dig att avsäga dig fortsatt marknadsföring. När detta är fallet länkar vi till dessa verktyg i den informationen om våra tredjepartsleverantörer ovan.",
-          "url": "https://www.tv4.se/artikel/5b07c2b424bc62a7002b524d/cookiepolicy-www-tv4-se",
-          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
-          "published_at": "2018-05-25T08:00:52Z",
-          "embed_url": "https://www.tv4.se/artikel/5b07c2b424bc62a7002b524d/cookiepolicy-www-tv4-se",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "4cb1b263ef11",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Allmänna användarvillkor för TV4:s tjänster",
-          "summary": "Allmänna användarvillkor för tv4.se Uppdaterade februari 2025",
-          "body_text": "Allmänna användarvillkor för TV4:s tjänster Allmänna användarvillkor för tv4.se Uppdaterade februari 2025 Tv4.se ägs och tillhandahålls av TV4 AB (org nr 556242-7152), (”TV4”). Genom att använda Tv4.se bekräftar du att du accepterar dessa villkor för användningen av det innehåll som tillgängliggörs via Tv4.se. TV4 har rätt att när som helst ändra dessa Användarvillkor. Sådan ändring kommuniceras endast genom att en uppdaterad version av villkoren publiceras här. Vi rekommenderar därför att du regelbundet tar del av Användarvillkoren. Användarvillkoren gäller oavsett hur du tar del av tv4.se och inkluderar därmed även användning som t.ex. sker via appar. För TV4:s övriga tjänster - tv4play.se, Köket.se samt Fotbollskanalen.se – gäller särskilda villkor som tillhandahålls i respektive tjänst. Tv4.se innehåller material som skyddas enligt Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk. Detta innebär bland annat att du inte har rätt att sprida (göra tillgängligt) eller kopiera hela eller delar av Tv4.se till allmänheten eller på annat sätt använda Tv4.se för kommersiellt bruk. Du får inte heller kringgå eller försöka kringgå tekniska åtgärder mot kopiering. TV4.s material får inte användas i sammanhang som syftar till att undergräva respekten för mänskliga rättigheter eller diskriminerar någon på grund av etnisk tillhörighet kön, religiös uppfattning, sexuell läggning, nationalitet eller liknande. Vi förbehåller oss rätten att vidta åtgärder i syfte att begränsa sådan användning om vi anser detta nödvändigt. Kopiering för privat bruk får ske enligt vissa förutsättningar i enlighet med tillämplig lag. Du får endast använda Tv4.se för eget och privat bruk och i enlighet med vad som i övrigt gäller enligt tillämplig lag. Brott mot vad som nämnts i denna bestämmelse ska alltid anses som ett väsentligt avtalsbrott och medföra rätt för TV4 att utan förvarning omedelbart stänga av dig från att använda Tv4.se. Brott mot denna bestämmelse kan även medföra skadeståndsskyldighet. TV4 förbehåller sig även rätten att, vid upprepade avtalsbrott, blockera relevant IP-nr och/eller kontokort från fortsatt användning av Tv4.se TV4 bär utgivaransvaret för Tv4.se vilket innebär att merparten av innehåll som återfinns i Tv4.se omfattas av detta ansvar. En del av det innehåll som finns på Tv4.se kommer dock från våra användare, så kallat användargenererat innehåll – t.ex. kommentarer och bilder som användare själva lagt upp/publicerat. TV4 ansvarar inte för sådant innehåll vilket betyder att det är användaren som lagt upp innehållet som bär det fulla ansvaret. TV4 är skyldiga att i efterhand granska och ta bort sådant användargenererat innehåll som är i strid med lag, detta i enlighet med den sk BBS lagen (Lag (1998:112) om ansvar för elektroniska anslagstavlor). Därutöver förbehåller sig TV4 rätten att ta bort användargenererat innehåll som TV4 bedömer som olämpligt eller opassande. I syfte att tydliggöra för dig som användare vad som faller inom TV4:s utgivaransvar så markeras detta alltid i vår layout eller genom text.",
-          "url": "https://www.tv4.se/artikel/5742a60ffca38f120d00046b/allmanna-anvandarvillkor-for-tv4-s-tjanster",
-          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
-          "published_at": "2016-05-23T06:41:19Z",
-          "embed_url": "https://www.tv4.se/artikel/5742a60ffca38f120d00046b/allmanna-anvandarvillkor-for-tv4-s-tjanster",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        }
-      ]
+      "articles": [],
+      "error": "403 Client Error: Forbidden for url: https://www.tv4.se/ekonomi"
     },
     {
       "id": "svt-rapport",
@@ -1721,6 +1458,181 @@
           "sort_order": 0
         },
         {
+          "id": "ef0f28e91882",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "FIFA World Cup creating ‘economic boom’ for US cities | Fox News Video",
+          "summary": "The ‘Fox & Friends Weekend’ hosts discuss how U.S. cities are preparing for the World Cup, anticipating significant economic activity.",
+          "body_text": "The ‘Fox & Friends Weekend’ hosts discuss how U.S. cities are preparing for the World Cup, anticipating significant economic activity. FIFA World Cup 2026 host cities in the U.S., including Boston, Houston, and Atlanta, prepare for a massive economic boom. FIFA anticipates the tournament will add $30.5 billion to the economy and create 185,000 full-time jobs across the United States. This will significantly impact local economies.",
+          "url": "https://www.foxnews.com/video/6398320222112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fe080fa-de8d-42a6-b017-591e341c4770/38488b46-8248-41bc-96b6-7798400cafdf/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-13T13:34:02Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398320222112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "372e5e2b3f32",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Robinson defense alleging prosecutor misconduct | Fox News Video",
+          "summary": "Criminal defense attorney Josh Ritter joins 'Fox & Friends Weekend' to discuss the Tyler Robinson death penalty case, where the defense alleges prosecutor misconduct regarding media comments.",
+          "body_text": "Criminal defense attorney Josh Ritter joins 'Fox & Friends Weekend' to discuss the Tyler Robinson death penalty case, where the defense alleges prosecutor misconduct regarding media comments. Criminal defense attorney Josh Ritter joins 'Fox & Friends Weekend' to discuss the Tyler Robinson death penalty case, where the defense alleges prosecutor misconduct regarding media comments. He also weighs in on the backlash against the Metcalf family following the verdict of Karmelo Anthony.",
+          "url": "https://www.foxnews.com/video/6398319508112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27d7057b-3b69-466f-a496-f7f6f9ba99d1/3a7a28d6-c8ca-4e96-802b-89ce19c2f539/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-13T13:20:03Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398319508112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "945feb0b596e",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump announces US strike killed Tren de Aragua leader | Fox News Video",
+          "summary": "President Donald Trump confirmed a U.S. strike eliminated Tren de Aragua leader in Venezuela, Rich Edson joins 'Fox & Friends Weekend' with details. The 'Fox & Friends Weekend' co-hosts discuss the gang's violent ties to U.S. crime.",
+          "body_text": "President Donald Trump confirmed a U.S. strike eliminated Tren de Aragua leader in Venezuela, Rich Edson joins 'Fox & Friends Weekend' with details. The 'Fox & Friends Weekend' co-hosts discuss the gang's violent ties to U.S. crime. President Donald Trump confirmed a U.S. strike eliminated Tren de Aragua leader in Venezuela, Rich Edson joins 'Fox & Friends Weekend' with details. The 'Fox & Friends Weekend' co-hosts discuss the gang's violent ties to U.S. crime and the ongoing US-Iran peace deal negotiations.",
+          "url": "https://www.foxnews.com/video/6398316866112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b47d6abb-8095-46df-866a-29244fa9dfbf/03e32461-8b83-42d2-9804-8f43b467056f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-13T13:18:05Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398316866112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "d91a1b856477",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump sets record with 22-specialist physical exam | Fox News Video",
+          "summary": "Fox News senior medical analyst Dr. Marc Siegel discusses President Donald Trump’s annual physical exam and a growing Gen Z trend of turning to the internet for health advice on ‘Fox & Friends Weekend.’",
+          "body_text": "Fox News senior medical analyst Dr. Marc Siegel discusses President Donald Trump’s annual physical exam and a growing Gen Z trend of turning to the internet for health advice on ‘Fox & Friends Weekend.’ Fox News senior medical contributor Dr. Marc Siegel breaks down Trump's recent physical, noting his heart health is comparable to someone 14 years younger. The record-setting 22-specialist examination results fuel debate on presidential health, ageism, and transparency ahead of his 80th birthday.",
+          "url": "https://www.foxnews.com/video/6398317028112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7c7b821-2bed-4637-a81c-809a4ed9f686/b604551f-1e27-426a-ac29-655f9d9c9c00/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-13T12:44:52Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398317028112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "e145627f1627",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Workers remove Trump’s name from Kennedy Center after court ruling | Fox News Video",
+          "summary": "Workers remove President Donald Trump’s name from the John F. Kennedy Memorial Center for the Performing Arts following a federal court ruling.",
+          "body_text": "Workers remove President Donald Trump’s name from the John F. Kennedy Memorial Center for the Performing Arts following a federal court ruling. Workers begin removing Donald Trump's name from the Kennedy Center in Washington D.C. following a federal appeals court ruling. The court denied a last-minute appeal to keep Trump's name on the building, which had been added after a unanimous board vote in December.",
+          "url": "https://www.foxnews.com/video/6398316943112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5327743-abf3-4682-a94f-a1e8e6b3c172/d04d4b65-981d-41a1-865c-a256f27c7e1d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-13T12:38:38Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398316943112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "88f1a28c905c",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Expert says Iran suffering ‘economic strangulation’ as potential US deal nears | Fox News Video",
+          "summary": "Retired US CENTCOM Deputy Commander Vice Adm. Robert Harward analyzes a potential U.S.-Iran deal, efforts to reopen the Strait of Hormuz and more on ‘Fox & Friends Weekend.’",
+          "body_text": "Retired US CENTCOM Deputy Commander Vice Adm. Robert Harward analyzes a potential U.S.-Iran deal, efforts to reopen the Strait of Hormuz and more on ‘Fox & Friends Weekend.’ Retired US CENTCOM Deputy Commander Vice Adm. Robert Harward analyzes the potential Iran deal, underscoring Iran's severe economic pressures as the primary driver for negotiations. Harward states the deal must include opening the Strait of Hormuz, dismantling the nuclear program, and ending funding for terrorist proxies. He emphasizes \"you simply have to verify\" Iran's compliance with any agreement.",
+          "url": "https://www.foxnews.com/video/6398317690112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc301c80-2b8d-4b28-97d1-0ad510347637/a65206db-2058-470d-a7c4-6a21f88452e2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-13T12:36:43Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398317690112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "6af2ca4a9812",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Vice Admiral Robert Harward praises strategy driving Iran to the table: 'They need to survive' | Fox News Video",
+          "summary": "Vice Admiral Robert Harward, retired U.S. CENTCOM Deputy Commander, explains how economic sanctions and blockades are forcing Iran to the negotiation table for a potential deal. He highlights Iran's need for money.",
+          "body_text": "Vice Admiral Robert Harward, retired U.S. CENTCOM Deputy Commander, explains how economic sanctions and blockades are forcing Iran to the negotiation table for a potential deal. He highlights Iran's need for money. Vice Admiral Robert Harward, Retired US CENTCOM Deputy Commander, details how severe economic sanctions and ongoing blockades have left Iran's regime desperate for funds. He emphasizes that this financial pressure is now the primary factor driving Iran to the negotiation table, seeking a deal for their survival.",
+          "url": "https://www.foxnews.com/video/6398315359112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f31db58-ebe1-45dc-8346-ec3f84f37795/9e582263-9e8b-4dc1-95cc-7ae9bc744212/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-13T11:22:52Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398315359112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
           "id": "521348e84df0",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1655,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 8
         },
         {
           "id": "b2064f5d4c8c",
@@ -1768,7 +1680,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 9
         },
         {
           "id": "e46db890fb6d",
@@ -1785,181 +1697,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/101761ca-5f18-441b-a709-4158eae47f4e/5271affd-5474-4383-8e80-511ca8541997/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-06-13T03:47:45Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398294866112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "04303e8e2ea0",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "We have the proper ‘carrot and stick’ for Iran, Navy veteran says | Fox News Video",
-          "summary": "Former U.S. Navy Lieutenant Commander Tom Sauer and The Foreign Desk editor-in-chief Lisa Daftari analyze the details of a proposed United States-Iran peace deal on ‘Fox News @ Night.’",
-          "body_text": "Former U.S. Navy Lieutenant Commander Tom Sauer and The Foreign Desk editor-in-chief Lisa Daftari analyze the details of a proposed United States-Iran peace deal on ‘Fox News @ Night.’",
-          "url": "https://www.foxnews.com/video/6398295572112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/688a7c32-d2b3-435b-88d9-4b553af78f47/4fb32e49-90f5-4ade-86f3-50f40f07acc1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-13T03:47:13Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398295572112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "af94beeaaecc",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Gutfeld panel shares their most shocking movie scenes | Fox News Video",
-          "summary": "Greg Gutfeld asks the panel about the movie scene that shocked them the most. Tom Shillue recalls an art-house cinema classic, while Jim Norton shares a surprising take on a comedy.",
-          "body_text": "Greg Gutfeld asks the panel about the movie scene that shocked them the most. Tom Shillue recalls an art-house cinema classic, while Jim Norton shares a surprising take on a comedy. Greg Gutfeld challenges his panel to name the most shocking movie scene they've ever witnessed. Tom Shillue delves into a surreal 1929 film, while Jim Norton comically recalls a famous 'documentary' from the 70s involving Kareem Abdul-Jabbar. The unexpected answers provide a humorous start to the discussion.",
-          "url": "https://www.foxnews.com/video/6398293010112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ffdfc3f-ef44-4f43-b4a4-ef900dc12056/7c3b2872-05f0-458a-abaf-72cab6d08efa/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-13T03:45:59Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398293010112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "b44a959f8083",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "New York women living with nuns amid high rent | Fox News Video",
-          "summary": "Greg Gutfeld discusses a Wall Street Journal article about New York women moving into convents due to high rent. Kat Timpf agrees it's a good idea, citing meals, safety and no boyfriends.",
-          "body_text": "Greg Gutfeld discusses a Wall Street Journal article about New York women moving into convents due to high rent. Kat Timpf agrees it's a good idea, citing meals, safety and no boyfriends. Greg Gutfeld opens a discussion about an intriguing Wall Street Journal article revealing that young New York women are moving into convents to cope with soaring rental costs. Panelist Kat Timpf enthusiastically supports this trend, highlighting benefits like included meals, safety, and the absence of undesirable boyfriends. She jokingly adds that her own experience at a clergy-run camp was positive.",
-          "url": "https://www.foxnews.com/video/6398291804112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed72f26b-9a01-4971-b465-80c188833fe5/60b712eb-ba08-48a2-a185-07066bb0d45c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-13T03:05:45Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398291804112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "9587259244a6",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Jim Norton: Hunter Biden's private life should remain private | Fox News Video",
-          "summary": "Comedian Jim Norton discusses public versus private life regarding Hunter Biden's phone data. Greg Gutfeld expresses being 'over' Hunter's addiction to the spotlight, highlighting the line between personal and public scrutiny.",
-          "body_text": "Comedian Jim Norton discusses public versus private life regarding Hunter Biden's phone data. Greg Gutfeld expresses being 'over' Hunter's addiction to the spotlight, highlighting the line between personal and public scrutiny.",
-          "url": "https://www.foxnews.com/video/6398292465112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5e51cef-91dd-459a-be34-17bf05897a62/6b31e6d7-2824-4ffc-b5fa-962f60884bb0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-13T03:03:55Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398292465112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "3403a05deb81",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Greg Gutfeld slams Karen Bass for alleged government incompetence after brother sues Los Angeles | Fox News Video",
-          "summary": "Greg Gutfeld highlights Los Angeles Mayor Karen Bass's brother Kenneth suing the city after his Malibu home burned in the Palisades Fire. Gutfeld questions the alleged government incompetence and lack of fire response.",
-          "body_text": "Greg Gutfeld highlights Los Angeles Mayor Karen Bass's brother Kenneth suing the city after his Malibu home burned in the Palisades Fire. Gutfeld questions the alleged government incompetence and lack of fire response. Greg Gutfeld criticizes Los Angeles Mayor Karen Bass after her brother Kenneth Bass sues the city for negligence during the Palisades Fire. Gutfeld emphasizes the alleged government incompetence in managing the water infrastructure, leaving a 117-million-gallon reservoir empty while homes burned.",
-          "url": "https://www.foxnews.com/video/6398292442112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345b4ba0-f8c2-4f6d-abe1-46d7b03c8fde/da1ca677-509f-4825-bcd0-7ee040309fde/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-13T03:01:36Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398292442112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "0f6f06ca27ff",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Fox News Highlights - June 12th, 2026 | Fox News Video",
-          "summary": "Laura Ingraham, Jesse Watters, and Greg Gutfeld bring Fox News viewers their fresh takes on the top news of the day.",
-          "body_text": "Laura Ingraham, Jesse Watters, and Greg Gutfeld bring Fox News viewers their fresh takes on the top news of the day.",
-          "url": "https://www.foxnews.com/video/6398290957112",
-          "image_url": "https://a57.foxnews.com/assets.foxnews.com/images/fox-news/og/1024/512/og-fox-news.png?ve=1&tl=1",
-          "published_at": "2026-06-13T02:53:51Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398290957112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "143d8998149b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Tom Shillue: I was starting to be charmed by Hunter, but then… | Fox News Video",
-          "summary": "Fox News host Greg Gutfeld and the ‘Gutfeld!’ panel discuss the dubious nature of Graham Platner’s defenders.",
-          "body_text": "Fox News host Greg Gutfeld and the ‘Gutfeld!’ panel discuss the dubious nature of Graham Platner’s defenders.",
-          "url": "https://www.foxnews.com/video/6398291661112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10e33b9d-bcc2-4b6b-844f-4a513ea2188a/812c984f-3280-407f-ac5b-74f36490a70d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-13T02:48:51Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398291661112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2046,6 +1783,31 @@
           "sort_order": 13
         },
         {
+          "id": "7beb58fc68d7",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Fox News at Night - Friday, June 12 | Fox News Video",
+          "summary": "FNC, Fox News at Night, Kevin Corke, Iran, peace talks, Trump, war, socialism, Team USA, World Cup, Platner",
+          "body_text": "FNC, Fox News at Night, Kevin Corke, Iran, peace talks, Trump, war, socialism, Team USA, World Cup, Platner Hard news and analysis of compelling stories.",
+          "url": "https://www.foxnews.com/video/6398316178112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/4e674efb-c956-4859-aedb-c46109a739dd/753ab14a-cc06-4426-ba17-605437730ab5/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-06-13T11:37:51Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398316178112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "665d29997de8",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2060,31 +1822,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/9a0eea52-2e2b-4a04-9776-3c08680c5bc2/f899d9ef-a5af-4e80-aa83-72759121e89b/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-06-13T08:16:16Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398307766112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "6ddc1578e38f",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Gutfeld! - Friday, June 12 | Fox News Video",
-          "summary": "Seinfeld, Newsom, Hunter Biden",
-          "body_text": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
-          "url": "https://www.foxnews.com/video/6398304387112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/df715bde-d3d4-4033-8ed5-b6f5523737be/ea9a466b-4cf3-461b-acf6-0dd15a725ac0/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-06-13T05:53:38Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398304387112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2546,6 +2283,58 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d6c0bc8dcbe3",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Temblor en Chile: epicentro y magnitud del último sismo de hoy, sábado 13 de junio",
+          "summary": "Temblor en Chile EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Centro Sismológico Nacional (CSN).",
+          "body_text": "Sigue en vivo los reportes de los sismos en Chile, según el Centro Sismológico Nacional (CSN). También podrás consultar sobre noticias relacionadas, así como recomendaciones en este tipo de situaciones.",
+          "url": "https://elcomercio.pe/respuestas/chile/temblor-hoy-en-chile-en-vivo-intensidad-hora-exacta-magnitud-y-epicentro-del-ultimo-sismo-reportado-el-13-y-14-de-junio-2026-segun-el-csn-centro-sismologico-nacional-santiago-socaire-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6EHDT2LB35AH7H3Z7RGU7LKPIA.png?auth=6a127c610bc357677bb729aacefbe5ebffa69513c24e8f424cf59d969f3b3d2b&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T13:45:52Z",
+          "embed_url": "https://content.jwplatform.com/videos/hQ2UPLaf-AoJUfW3e.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "sismo viña del mar, sismo hoy, onemi temblor, temblor hoy, temblor hoy santiago, terremotos más fuertes de la historia, epicentro del temblor de hoy hace unos minutos, epicentro del temblor reciente, sismología chile último sismo hoy, epicentro del temblor hoy, temblor ahora, últimos sismos en chile hoy día onemi, registro de temblores en chile, temblor hoy, chile 2022, Melinka, sismo reciente en Chile, sismo de ayer en Chile, sismo valparaiso ahora, último sismo valparaiso, sismo hoy serena, alerta de tsunami hoy, onemi, Oficina Nacional de Emergencia del Ministerio del Interior, temblor en Valparaíso, temblor en Viña, temblor en Santiago, temblor en Arica, temblor en Tarapacá, temblor en Concepción, Temblor en Lubu, terremoto sismo temblor hoy chile, sismo chile, temblor chile, sismo cl, temblor cl, sismo chile hoy, ultimo sismo chile, temblor en chile, temblores en chile, temblor Chile 2026, terremoto Chile 2026, temblor Chile junio, terremoto Chile junio, temblor Santiago junio, terremoto Santiago junio",
+            "Chile",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "b31769eaefaf",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "David Hockney: seis obras emblemáticas de la gran figura del arte contemporáneo",
+          "summary": "El británico David Hockney, considerado una de las figuras más influyentes del arte contemporáneo, murió el jueves por la noche a los 88 años.",
+          "body_text": "El pintor británico DavidHockney, fallecido el jueves a los 88 años, era conocido por sus cuadros figurativos llenos de color. Estas son seis de sus obras más conocidas. Pintada en 1963, “Domestic Scene, Notting Hill” es típica de las primeras obras del artista, realizadas al óleo en un estilo experimental sin perspectiva. Un personaje vestido de negro está sentado en un sillón, de espaldas a un hombre desnudo. Un jarrón amarillo, una lámpara y una cortina roja completan la escena, depurada e intrigante, en un apartamento del barrio de Notting Hill en Londres, donde el pintor residía en aquella época. Esta tela, una de las más importantes del pintor, es representativa del estilo de vida que interesa a Hockney de California en los años 1960.El azul pastel del cielo sin nubes y el azul más profundo de la piscina dominan la obra, en una inquietante calma sólo alterada por un chapuzón.California es una gran fuente de inspiración para el artista, porque aprecia “la intensidad de los colores, la luz, la sensualidad”, explicaba Andrew Wilson, conservador de la Tate Britain, en la BBC en 2017. Una pareja, junto a un gran ventanal, mira al espectador. El señor Clark está sentado, con su gato Percy en el regazo, y su esposa frente a él, con las manos en las caderas.La intensidad emocional de esta pintura, “obra maestra de tensión doméstica contenida”, según The Guardian, se encuentra también en el tierno y conmovedor “My Parents” (1977).Estos lienzos forman parte de una serie de dobles retratos de allegados del artista en su entorno. Una de estas obras, “Henry Geldzahler and Christopher Scott” (1969), se vendió por 49,5 millones de dólares en una subasta en Londres en 2019. “Portrait of an Artist (Pool with Two Figures)” representa al pintor Peter Schlesinger, a quien Hockney conoce en 1966 y que se convierte en su amante y máxima inspiración.En este gran lienzo, Schlesinger aparece de pie, elegante, al borde de una piscina y contempla una silueta bajo el agua que nada en su dirección, delante de un paisaje de colinas verdes.En 2018, esta tela se subastó en Christie’s en Nueva York por 90,3 millones de dólares, convirtiéndose en la obra más cara vendida por un artista vivo. Un año después, lo superaría la escultura en forma de conejo de Koons. Esta imponente pintura de más de cuatro metros por doce representa un conjunto de árboles en el este de Yorkshire, en Inglaterra, poco antes de la primavera.“Es un paisaje que conozco desde mi infancia y que está cargado de significado pero, hasta hace unos diez años, nunca lo había visto como un tema”, explicó en la BBC el pintor, que dejó California en 2004 para regresar a su región natal.La obra, compuesta por 50 paneles unidos, fue pintada al aire libre con la ayuda de la fotografía digital. Hockney, ya septuagenario, se lanza a pintar en iPad, con un lápiz óptico y una paleta de colores limitada. “The Yosemite Suite” es una serie de 20 obras ampliadas e impresas en gran formato, realizadas durante varias estancias en este parque nacional californiano entre 2010 y 2011. “El iPad es como una hoja de papel infinita, que encajaba perfectamente con mi sensación de que la pintura debía ser grande”, declaró Hockney en 2012. El artista utiliza también la tableta como herramienta pedagógica, creando obras interactivas que le permiten explicar y explorar el proceso creativo.",
+          "url": "https://elcomercio.pe/eldominical/actualidad/david-hockney-seis-obras-emblematicas-de-la-gran-figura-del-arte-contemporaneo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/TEH6DIPKB5EJRFMNU4W3PGGUCQ.jpg?auth=41ce9b9f1194b636ef8793c831b53a7cc95a5bbc295f3fc51fa22ce5d55ea409&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T13:45:00Z",
+          "embed_url": "https://elcomercio.pe/eldominical/actualidad/david-hockney-seis-obras-emblematicas-de-la-gran-figura-del-arte-contemporaneo-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Diario el Comercio, El Dominical, Suplemento El Dominical, Suplemento Cultural, Cultura, Literatura, Libros, Actualidad, Noticias, David Hockney",
+            "Actualidad",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "33e346ad4343",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2555,10 +2344,10 @@
           "source_kind": "story",
           "title": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
           "summary": "Sigue aquí los resultados oficiales ONPE con la diferencia de votos entre Keiko Fujimori (Fuerza Popular) y Roberto Sánchez (Juntos por el Perú)",
-          "body_text": "La segunda vuelta de las Elecciones Generales Perú 2026, entre los candidatos Keiko Fujimori (Fuerza Popular) y Roberto Sánchez (Juntos por el Perú), se realizó el domingo 7 de junio a nivel nacional y en algunos países de diferentes continentes. Las autoridades del Jurado Nacional de Elecciones (JNE) y la Oficina Nacional de Procesos Electorales (ONPE) informaron en la fecha que el proceso se realizó con normalidad, y que las incidencias que se registraron durante la jornada fueron subsanadas y ya son investigadas por las autoridades del Ministerio Público. Tras el cierre de las mesas de sufragio a las 5 p.m. del domingo 7, y luego de conocerse los primeros resultados no oficiales a boca de urna, los peruanos centraron sus expectativas en conocer los resultados oficiales de la ONPE. Para ello, el ente electoral habilitó una página oficial para que la ciudadanía consulte en tiempo real los resultados del balotaje. Este 13/06/2026, en la actualización de las 06:40 al 98.33% de actas contabilizadas, Keiko Fujimori supera a Roberto Sánchez por 4,519 votos. Fuerza Popular registra 9,044,327 votos válidos, mientras que Juntos por el Perú alcanza 9,039,987 votos válidos. Del total de actas, el 98.33% ha sido contabilizado y el 100% procesado por la ONPE, mientras que el 0% restante se encuentra pendiente. La diferencia entre los votos obtenidos por ambos aspirantes es corta y se espera que la ONPE dé a conocer los resultados finales al 100% cuando la totalidad de actas haya sido validada por las autoridades electorales. Pasadas las 11 a.m. del lunes 8 de junio se dieron a conocer los primeros resultados del extranjero, por lo que las cifras oficiales podrían variar en las próximas horas. De acuerdo con la normativa electoral vigente, el ganador de la segunda vuelta (es decir, quien resulte presidente electo) será el candidato que obtenga la mayor cantidad de votos válidos, sin importar el número de votos de diferencia. Grecia Rentería, vocera del JNE, indicó en conferencia de prensa que la proclamación de los resultados de la segunda vuelta presidencial se realizará a mediados de julio, una vez que concluyan los procesos de resolución de actas observadas y las eventuales audiencias de recuento de votos. La funcionaria explicó que las actas observadas serán trasladadas inicialmente desde las oficinas descentralizadas de procesos electorales (ODPE) hacia los jurados electorales especiales (JEE) de cada jurisdicción, donde se realizará el cotejo correspondiente. Si las observaciones no pueden ser resueltas en esta etapa, se dispondrá el recuento de votos mediante audiencias públicas. “A mediados de julio es la proclamación de la segunda vuelta”, expresó.",
+          "body_text": "La segunda vuelta de las Elecciones Generales Perú 2026, entre los candidatos Keiko Fujimori (Fuerza Popular) y Roberto Sánchez (Juntos por el Perú), se realizó el domingo 7 de junio a nivel nacional y en algunos países de diferentes continentes. Las autoridades del Jurado Nacional de Elecciones (JNE) y la Oficina Nacional de Procesos Electorales (ONPE) informaron en la fecha que el proceso se realizó con normalidad, y que las incidencias que se registraron durante la jornada fueron subsanadas y ya son investigadas por las autoridades del Ministerio Público. Tras el cierre de las mesas de sufragio a las 5 p.m. del domingo 7, y luego de conocerse los primeros resultados no oficiales a boca de urna, los peruanos centraron sus expectativas en conocer los resultados oficiales de la ONPE. Para ello, el ente electoral habilitó una página oficial para que la ciudadanía consulte en tiempo real los resultados del balotaje. Este 13/06/2026, en la actualización de las 08:30 al 98.33% de actas contabilizadas, Keiko Fujimori supera a Roberto Sánchez por 4,519 votos. Fuerza Popular registra 9,044,327 votos válidos, mientras que Juntos por el Perú alcanza 9,039,987 votos válidos. Del total de actas, el 98.33% ha sido contabilizado y el 100% procesado por la ONPE, mientras que el 0% restante se encuentra pendiente. La diferencia entre los votos obtenidos por ambos aspirantes es corta y se espera que la ONPE dé a conocer los resultados finales al 100% cuando la totalidad de actas haya sido validada por las autoridades electorales. Pasadas las 11 a.m. del lunes 8 de junio se dieron a conocer los primeros resultados del extranjero, por lo que las cifras oficiales podrían variar en las próximas horas. De acuerdo con la normativa electoral vigente, el ganador de la segunda vuelta (es decir, quien resulte presidente electo) será el candidato que obtenga la mayor cantidad de votos válidos, sin importar el número de votos de diferencia. Grecia Rentería, vocera del JNE, indicó en conferencia de prensa que la proclamación de los resultados de la segunda vuelta presidencial se realizará a mediados de julio, una vez que concluyan los procesos de resolución de actas observadas y las eventuales audiencias de recuento de votos. La funcionaria explicó que las actas observadas serán trasladadas inicialmente desde las oficinas descentralizadas de procesos electorales (ODPE) hacia los jurados electorales especiales (JEE) de cada jurisdicción, donde se realizará el cotejo correspondiente. Si las observaciones no pueden ser resueltas en esta etapa, se dispondrá el recuento de votos mediante audiencias públicas. “A mediados de julio es la proclamación de la segunda vuelta”, expresó.",
           "url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/JV5T6CG2SREDPFJE2LQGIRZMLE.jpeg?auth=601dbd56221d788781faa3209b360ceece5b9c589ea47c835bbf4182be6e9d80&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T11:50:30Z",
+          "published_at": "2026-06-13T13:40:30Z",
           "embed_url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2569,59 +2358,33 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "e766a55cc597",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "¿Por qué canales pasan, Haití vs Escocia y a qué hora es el partido por Mundial 2026?",
-          "summary": "Consulta los canales de TV y plataformas online para ver el partido entre Haití vs Escocia el sábado 13 de junio por fecha 1 del grupo C del Mundial 2026 desde el Estadio Boston.",
-          "body_text": "Haití vs Escocia se enfrentan en el estadio Boston por la fecha 1 del Grupo C del Mundial 2026 este sábado 13 de junio. Escocia regresa a un Mundial tras 28 años de ausencia (su última participación fue en Francia 1998). Por otro lado, Haití disputa su segundo Mundial en la historia (el primero fue en 1974). Se clasificó de forma destacada en las eliminatorias de la Concacaf. ¿Qué canales transmiten el partido de Haití vs Escocia en el Mundial 2026? Conoce en qué canales ver el partido de Haití vs Escocia según tu país y dónde verlo ONLINE vía streaming. Conoce qué canales de TV y dónde seguir online el partido entre Haití vs Escocia EN VIVO EN DIRECTO ONLINE, este sábado 13 de junio del 2026 desde el Estadio Boston. Para Perú, el partido de Haití vs Escocia será transmitido a través de DirecTV y Paramount+ por cable y streaming. En México míralo por ViX. El partido de Haití vs Escocia será televisado por DirecTV y Paramount+ para Colombia, Ecuador, Argentina, Paraguay, Uruguay, Venezula y Bolivia. Además, DGO tendrá la transmisión del partido por streaming. En España, el partido de Haití-Escocia, será transmitido a través de DAZN y Movistar+. Finalmente, en Estados Unidos podrás seguir el partido a través de FOX Network, fuboTV, Telemundo, Tubi, FOX One, SiriusXM FC y Futbol de Primera Radio. En Perú, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por DirecTV, señal que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de Paramount. En México, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por TUDN, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de ViX. En Argentina, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por TyC Sports y DirecTV, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de Paramount+. En Colombia, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por DirecTV, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de Paramount. En Ecuador, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por DirecTV, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de Paramount. En Uruguay, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por DirecTV, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de Paramount. En Chile, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por DirecTV, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de Paramount. En Venezuela, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por DirecTV, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de Paramount+. En Paraguay, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por GEN y Trece, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de GEN. En Bolivia, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por Tigo Sports, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de Entel TV. En Estados Unidos, el partid Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por FOX Network, fuboTV, Telemundo, Tubi, FOX One, SiriusXM FC y Futbol de Primera Radio, señales que posee los derechos de la Copa del Mundo. En España, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por DAZN y Movistar+, señales que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de RTVE Play. En Guatemala, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por Tigo Sports, señal que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de ViX. En Honduras, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por Tigo Sports, señal que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de ViX. En Nicaragua, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por Tigo Sports, señal que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de ViX. En Costa Rica, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por Tigo Sports, señal que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de ViX. En El Salvador, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por Tigo Sports, señal que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de ViX. En Puerto Rico, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por Tigo Sports, señal que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de ViX. En Panamá, el partido Haití vs Escocia por Mundial 2026 se transmitirá EN VIVO por Tigo Sports, señal que posee los derechos de la Copa del Mundo, y también se podrá ver vía streaming a través de ViX. El partido entre Haití vs Escocia se juega el sábado 13 de junio de 2026 en el Estadio Boston.",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/en-que-canales-tv-transmiten-haiti-vs-escocia-en-vivo-gratis-hoy-por-mundial-2026-a-que-hora-juega-y-donde-ver-online-streaming-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/7364BFVPZNF75HNHLZ7DPYPIF4.jpg?auth=bc82168049dc20e0baf391d3f14ec29b4f1b060eded94c2227566cabdf48f76d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T11:50:00Z",
-          "embed_url": "https://cdn.jwplayer.com/videos/CBN2kQId-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "Haití vs Escocia, canal Haití vs Escocia, canal TV Haití vs Escocia, canales Haití vs Escocia, Haití vs Escocia en vivo, en que canal ver Haití vs Escocia, en que canal pasan Haití vs Escocia, en que canal transmiten Haití vs Escocia, en que canal juegan Haití vs Escocia, en que canal mirar Haití vs Escocia, que canal pasa Haití vs Escocia, que canal transmite Haití vs Escocia, por que canal ver Haití vs Escocia, por que canal pasan Haití vs Escocia, por que canal juegan Haití vs Escocia, por que canal transmiten Haití vs Escocia, quien pasa Haití vs Escocia, quien transmite Haití vs Escocia, donde ver Haití vs Escocia, donde pasan Haití vs Escocia, donde puedo ver Haití vs Escocia, en donde ver Haití vs Escocia, por donde ver Haití vs Escocia, hora Haití vs Escocia, horarios Haití vs Escocia, a que hora juega Haití vs Escocia, partidos de hoy, futbol en vivo, Copa Mundial de la FIFA, Mundial, Mundial 2026, Copa del Mundo, Copa del Mundo 2026, DIRECTV, Disney Plus, DAZN, DGO, DSports, Paramount, Canal 5, TUDN, Azteca 7",
-            "Fútbol mundial",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "63a6458c01e5",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "DirecTV online gratis: sigue el partido de Brasil vs Marruecos por Mundial 2026",
-          "summary": "Transmisión DirecTV EN VIVO: ver partido de Brasil vs Marruecos por Grupo C del Mundial 2026 desde Nueva York. DSports y DGO ONLINE pasan el encuentro.",
-          "body_text": "DirecTV EN VIVO: transmite el partido de Brasil vs Marruecos desde el Estadio Nueva York Nueva Jersey por el Grupo C de la fecha 1 del grupo C del Mundial 2026. ¿Cómo ver DIRECTV EN VIVO? DirecTV Sports (DSports) transmite el partido del Madrid por televisión paga en países de Sudamérica como Perú, Argentina, Chile, Colombia y otros. Otra alternativa para ver DirecTV, es la de DGO, mediante su app disponible para iOS y Android, o también desde su sitio web por internet. No te pierdas la transmisión del partido con la información de los canales para seguir este encuentro.",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/video-directv-en-vivo-online-donde-ver-brasil-marruecos-hoy-gratis-por-mundial-2026-via-dsports-dgo-streaming-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/VTQQ5RBADFHSFISAN5Q5RXJYY4.jpg?auth=115baaff2af1d68af35f09a8b7204a62dcdd26786355637ceac3050d66339263&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T11:45:00Z",
-          "embed_url": "https://cdn.jwplayer.com/videos/CBN2kQId-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "DirecTV, DirecTV en vivo, DirecTV online, DirecTV ppor internet, DirecTV en directo, DirecTV hoy, DirecTV gratis, ver DirecTV, mira DirecTV, señal DirecTV, programación DirecTV, canal DirecTV, donde ver DirecTV, como ver DirecTV, link DirecTV, en que canal ver DirecTV, en que canal pasan DirecTV, que canal es DirecTV, que canal pasa DirecTV, que canal transmite DirecTV, quien pasa DirecTV, quien transmite DirecTV, DGO, DSports, Copa Mundial FIFA 2026, Copa Mundial 2026, Mundial 2026, Copa del Mundo, partidos de hoy, futbol en vivo, Brasil vs Marruecos",
-            "Fútbol mundial",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
           "sort_order": 2
+        },
+        {
+          "id": "ce1670ec42c7",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Resultados ONPE al 98.327%: Keiko Fujimori y Roberto Sánchez disputan voto a voto la Presidencia del Perú",
+          "summary": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
+          "body_text": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
+          "url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/NB4QVMVPEJABZP7DG4PF3Y66PE.jpg?auth=002b628f6f61c904024214678cb866630a5a2f971ad80ac1e7fbf032de7e803d&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T12:00:00Z",
+          "embed_url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Resultados segunda vuelta 2026, Resultados ONPE en vivo, Resultados ONPE, Resultados segunda vuelta en Perú, Keiko Fujimori, Roberto Sánchez, Quien ganó las elecciones en Perú, ONPE",
+            "Elecciones",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "2af1f11ac31b",
@@ -2643,32 +2406,6 @@
           "tags": [
             "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
             "Venezuela",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "ce1670ec42c7",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Resultados ONPE al 98.327%: Keiko Fujimori y Roberto Sánchez disputan voto a voto la Presidencia del Perú",
-          "summary": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
-          "body_text": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
-          "url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NB4QVMVPEJABZP7DG4PF3Y66PE.jpg?auth=002b628f6f61c904024214678cb866630a5a2f971ad80ac1e7fbf032de7e803d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T05:28:00Z",
-          "embed_url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Resultados segunda vuelta 2026, Resultados ONPE en vivo, Resultados ONPE, Resultados segunda vuelta en Perú, Keiko Fujimori, Roberto Sánchez, Quien ganó las elecciones en Perú, ONPE",
-            "Elecciones",
             "Senaste",
             "El Comercio"
           ],
@@ -2823,6 +2560,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "ce1670ec42c7",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Resultados ONPE al 98.327%: Keiko Fujimori y Roberto Sánchez disputan voto a voto la Presidencia del Perú",
+          "summary": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
+          "body_text": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
+          "url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/NB4QVMVPEJABZP7DG4PF3Y66PE.jpg?auth=002b628f6f61c904024214678cb866630a5a2f971ad80ac1e7fbf032de7e803d&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T12:00:00Z",
+          "embed_url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Resultados segunda vuelta 2026, Resultados ONPE en vivo, Resultados ONPE, Resultados segunda vuelta en Perú, Keiko Fujimori, Roberto Sánchez, Quien ganó las elecciones en Perú, ONPE",
+            "Elecciones",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2af1f11ac31b",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2842,32 +2605,6 @@
           "tags": [
             "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
             "Venezuela",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "ce1670ec42c7",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Resultados ONPE al 98.327%: Keiko Fujimori y Roberto Sánchez disputan voto a voto la Presidencia del Perú",
-          "summary": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
-          "body_text": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
-          "url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NB4QVMVPEJABZP7DG4PF3Y66PE.jpg?auth=002b628f6f61c904024214678cb866630a5a2f971ad80ac1e7fbf032de7e803d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T05:28:00Z",
-          "embed_url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Resultados segunda vuelta 2026, Resultados ONPE en vivo, Resultados ONPE, Resultados segunda vuelta en Perú, Keiko Fujimori, Roberto Sánchez, Quien ganó las elecciones en Perú, ONPE",
-            "Elecciones",
             "Economia",
             "El Comercio"
           ],
@@ -3100,6 +2837,84 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d01150c5955e",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "El difunto líder supremo iraní Alí Jamenei será enterrado el 9 de julio",
+          "summary": "Irán comenzará el 4 de julio los funerales del líder supremo Alí Jameneí, asesinado por Estados Unidos e Israel en la guerra, en unas ceremonias que se extenderán por tres ciudades y que culminarán con su entierro el 9 de julio en la ciudad religiosa de Mashad.",
+          "body_text": "Irán comenzará el 4 de julio los funerales del líder supremo Alí Jamenei, asesinado por Estados Unidos e Israel en la guerra, en unas ceremonias que se extenderán por tres ciudades y que culminarán con su entierro el 9 de julio en la ciudad religiosa de Mashad. La mezquita Mosala de Teherán acogerá el féretro de Jameneí el 4 y 5 de julio y el 6 de julio una procesión funeraria recorrerá la capital, informaron este sábado medios estatales iraníes. Un día más tarde la procesión funeraria recorrerá la ciudad religiosa de Qom, situada al sur de Teherán y sede de los principales seminarios del país islámico, y finalmente Jameneí será enterrado el 9 de julio en la ciudad nororiental de Mashad en el mausoleo del imán Reza, octavo del chiísmo. Alí Jameneí, quien gobernó Irán durante más de tres décadas, fue asesinado en el primer día de la guerra iniciada por Estados Unidos e Israel contra Irán el 28 de febrero junto con otros altos cargos iraníes. Su hijo Mojtaba Jameneí fue nombrado su sucesor el 8 de marzo y aún nadie le ha visto ni escuchado. Irán y Estados Unidos aseguran que están muy cerca de firmar un memorando de entendimiento que ponga fin a la guerra y permita reabrir el estrecho de Ormuz, donde continúa las tensiones y el bloqueo del tránsito de buques. Tanto Teherán como Washington estiman que el acuerdo se podría cerrar en los próximos días, aunque aún no está claro ni cuándo ni donde. A pesar de la aparente inminente firma de un acuerdo las tensiones continúan en Ormuz. La televisión estatal informó anoche de que la armada iraní atacó un buque que trataba de cruzar el estrecho “sin permiso” mientras que desde Estados Unidos denunció que Irán lanzó drones en el estratégico paso.",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/ali-jamenei-el-difunto-lider-supremo-de-iran-sera-enterrado-el-9-de-julio-mashad-estados-unidos-israel-mezquita-mosala-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/T5JCJSVCAVE25EVESQEAOR4N6Q.jpg?auth=dac04f308747cd08ad98f27dcd1c588fe5a5737c4b41bafdeacd029e6f709f25&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T13:21:47Z",
+          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/ali-jamenei-el-difunto-lider-supremo-de-iran-sera-enterrado-el-9-de-julio-mashad-estados-unidos-israel-mezquita-mosala-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Alí Jamenei, Irán, Mashad, Estados Unidos, Israel, Mezquita Mosala",
+            "Oriente Medio",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "9557790f7395",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "El acuerdo de paz Estados Unidos-Irán probablemente se cierre en las próximas 24 horas, dice Pakistán",
+          "summary": "El acuerdo de paz entre Estados Unidos e Irán podría quedar finalizado en las próximas 24 horas, según el gobierno de Pakistán, que actúa como mediador entre ambos países.",
+          "body_text": "El acuerdo de paz entre Estados Unidos e Irán podría quedar finalizado en las próximas 24 horas, según el gobierno de Pakistán, que actúa como mediador entre ambos países. “Estamos más cerca que nunca de un acuerdo de paz. Con la finalización probablemente en las próximas 24 horas, Pakistán se prepara para la firma electrónica del acuerdo inmediatamente después, seguida de conversaciones técnicas la próxima semana”, afirmó el primer ministro pakistaní, Shehbaz Sharif, en la red social X. Después de semanas de negociaciones en punto muerto, Washington y Teherán hicieron saber en los últimos días que estaban cerca de un acuerdo para poner fin a la contienda, iniciada el 28 de febrero con la ofensiva conjunta de Israel y Estados Unidos contra la república islámica. La incertidumbre se ha mantenido no obstante, con amenazas cruzadas en todo momento y hostilidades. Este mismo sábado, Estados Unidos dijo haber abatido varios drones iraníes que apuntaban a buques comerciales en el estrecho de Ormuz. La televisión estatal iraní, Irib, indicó igualmente que el canciller Abás Araqchi declaró que “mientras no se alcance un acuerdo sobre todas las cuestiones, no puede decirse con certeza que se ha alcanzado un principio de acuerdo con Estados Unidos”. Desde hace meses, Pakistán trata de llevar a las dos partes a un acuerdo, tras la instauración el 8 de abril de un alto el fuego. Islamabad albergó ese mes unas conversaciones entre ambos países, pero sin éxito en cuanto a un acuerdo de paz.",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/acuerdo-de-paz-estados-unidos-iran-probablemente-se-cierre-en-las-proximas-24-horas-dice-pakistan-donald-trump-shehbaz-sharif-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6LHOI4BB5NGEZI64X5VHL3KYCU.jpg?auth=a867f5e83a9f1160f88781b9c87a22d782c11371b0aa0ac9b894bcb270afcc85&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T12:57:15Z",
+          "embed_url": "https://elcomercio.pe/mundo/oriente-medio/acuerdo-de-paz-estados-unidos-iran-probablemente-se-cierre-en-las-proximas-24-horas-dice-pakistan-donald-trump-shehbaz-sharif-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Acuerdo de paz entre Estados Unidos e Irán, Estados Unidos, Irán, Donald Trump, Pakistán, Shehbaz Sharif",
+            "Oriente Medio",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "ce1670ec42c7",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Resultados ONPE al 98.327%: Keiko Fujimori y Roberto Sánchez disputan voto a voto la Presidencia del Perú",
+          "summary": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
+          "body_text": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
+          "url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/NB4QVMVPEJABZP7DG4PF3Y66PE.jpg?auth=002b628f6f61c904024214678cb866630a5a2f971ad80ac1e7fbf032de7e803d&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T12:00:00Z",
+          "embed_url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Resultados segunda vuelta 2026, Resultados ONPE en vivo, Resultados ONPE, Resultados segunda vuelta en Perú, Keiko Fujimori, Roberto Sánchez, Quien ganó las elecciones en Perú, ONPE",
+            "Elecciones",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "cf270590ec60",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3123,59 +2938,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "f8375d313e97",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Quién era el ‘Niño Guerrero’, el líder del Tren de Aragua que Estados Unidos mató en un ataque aéreo",
-          "summary": "Héctor Rustherford Guerrero Flores, alias ‘Niño Guerrero’, era el líder de la banda criminal venezolana Tren de Aragua. Donald Trump anunció que Estados Unidos lo mató en un ataque aéreo",
-          "body_text": "Héctor Rustherford Guerrero Flores, alias ‘Niño Guerrero’, el líder de la organización criminal transnacional Tren de Aragua por quien Estados Unidos ofrecía una recompensa de cinco millones de dólares, cayó bajo la sombra de la tutela de Washington sobre Caracas durante un ataque del Comando Sur de EE.UU. coordinado “estrechamente” con Venezuela. La muerte del “Niño Guerrero”, convertido en uno de los delincuentes más buscados de Sudamérica, fue anunciada por el gobernante estadounidense, Donald Trump, en su red social Truth, después de rumores en el país suramericano que vinculaban una operación en una zona minera en el estado Bolívar (sur) con la búsqueda de Guerrero. Este hecho se produce cinco meses después de la captura de Nicolás Maduro por parte de Estados Unidos, que acusaba al Gobierno del líder chavista de cooperar con la organización criminal Tren de Aragua, vinculada a extorsiones, secuestros, tráfico y trata de personas. De 42 años, se encontraba prófugo desde 2023, después de un operativo de las autoridades venezolanas en la cárcel de Tocorón, considerada la base de operaciones del Tren de Aragua, organización que fue extendiendo sus tentáculos por América Latina hasta llegar a EE.UU., donde fue calificada como terrorista por la propia Administración de Trump. Washington lo acusaba de transformar al Tren de Aragua de una pandilla carcelaria centrada en la extorsión y el soborno en una organización criminal de alcance continental que representa una amenaza para la seguridad pública en toda América. Por esta razón, el 17 de julio del año pasado anunció sanciones contra Guerrero y otros cinco miembros de ese grupo. Desde 2024, el Departamento de Estado ofrecía una recompensa de cinco millones de dólares por información que condujera a la captura de este prófugo que, según InSight Crime, incursionó en la delincuencia en el 2000, cuando atacó a policías de su estado natal Aragua (centro) y se involucró con “negocios de microtráfico”. Venezuela también había anunciado una recompensa, aunque sin especificar un monto, después del operativo desplegado en 2023 en las instalaciones de Tocorón, donde Guerrero cumplía una sentencia de más 17 años prisión que le fue impuesta en 2018 por la comisión de doce delitos, entre ellos homicidio intencional, ocultamiento de arma de guerra y otros. Según InSight Crime, el ‘Niño Guerrero’ estaba al mando del Tren de Aragua desde aproximadamente 2015. La organización ya existía desde antes en este estado, pero para ese año el ahora fallecido se presentó en una fiesta como el líder de la banda “y aseguró que mejoraría las condiciones de vida para los residentes”. “Un año después, Niño Guerrero se presentó ante un juzgado en (la ciudad de) Maracay, donde fue acusado de varios asesinatos, múltiples robos a residencias, porte de armas, tráfico de drogas (...) En febrero de 2018, Guerrero aceptó los delitos que se le imputaron y fue condenado a 17 años de cárcel”, asegura InSight Crime en su web. El líder criminal, nacido el 2 de diciembre de 1983, estuvo detenido en al menos dos oportunidades antes de esta condena, pero se había fugado. Según los datos de la organización, Guerrero quedó en el radar de las autoridades luego de atacar una comisión policial y asesinar a un funcionario de la Policía de Aragua. Vivía en la cárcel de Tocorón rodeado “de lujos y gustos exorbitantes” en una casa de “dos pisos dentro del penal, en donde recibía a los visitantes que quisiera” y “tenía acceso a una piscina, campo de béisbol, discoteca y hasta un zoológico”, asegura InSight Crime. Tras el supuesto desmantelamiento de la banda durante la intervención en la cárcel en 2023, los organismos de seguridad del Estado venezolano publicaron en redes sociales una imagen con fotografías de Guerrero, su nombre y número de documento de identificación, así como los delitos por los que era buscado: homicidio, secuestro y terrorismo. Nicolás Maduro dijo en ese momento que coordinaba con Colombia, Ecuador, Perú y Chile una “operación de búsqueda, persecución y captura” de fugitivos del centro penitenciario, aunque no especificó el número de prófugos. En diciembre pasado, el depuesto presidente insistió en que esa banda fue derrotada e indicó que la desaparecieron “con la ley y la Constitución en la mano”, tras la intervención en la cárcel de Tocorón. Pero países como Colombia, Chile y Perú han informado sobre la captura de personas a las que vinculan con esta banda, por lo que han reforzado la denuncia de que la estructura criminal sigue operando fuera de Venezuela.",
-          "url": "https://elcomercio.pe/mundo/venezuela/nino-guerrero-quien-era-el-nino-guerrero-el-lider-del-tren-de-aragua-que-estados-unidos-mato-en-un-ataque-aereo-donald-trump-venezuela-perfil-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/PTBS7BFMTRFAVBG2VNDO6IQ65E.png?auth=894d6f665a34bb1a35ad83549f28489584abe8dc94f050d48f311bfb82f4f31a&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T11:22:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/venezuela/nino-guerrero-quien-era-el-nino-guerrero-el-lider-del-tren-de-aragua-que-estados-unidos-mato-en-un-ataque-aereo-donald-trump-venezuela-perfil-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Quién era el Niño Guerrero, estados unidos mató al Niño Guerrero, de qué murió el Niño Guerrero, cómo mató estados unidos al Niño Guerrero, cómo mataron al Niño Guerrero, cómo murió el Niño Guerrero, dónde mataron al Niño Guerrero, venezuela, estados unidos, tren de aragua, donald trump, tocorón, aragua, delcy rodriguez, Quién era el ‘Niño Guerrero’, el líder del Tren de Aragua que Estados Unidos mató en un ataque aéreo",
-            "Venezuela",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "983fd68cb49d",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "“El Helicoide fue un instrumento del terrorismo de Estado”: la historia detrás de la cárcel que simboliza la represión en Venezuela",
-          "summary": "La Corte IDH ordenó cerrar El Helicoide, la cárcel que se convirtió en símbolo de represión y la más temida de Venezuela. “La sola amenaza de El Helicoide ablandaba a la gente”, dijo a El Comercio el politólogo José Vicente Carrasquero",
-          "body_text": "Concebido en la década de 1950 como un ambicioso centro comercial que simbolizaba la modernidad y la bonanza petrolera de Venezuela, El Helicoide terminó convirtiéndose en una cárcel señalada por denuncias de torturas y tratos crueles contra presos políticos durante el chavismo. Ahora, casi dos décadas después del caso emblemático del estudiante Jorge Rojas Riera que llegó al sistema interamericano, la Corte Interamericana de Derechos Humanos (Corte IDH) ordenó el cierre definitivo de la prisión, en una sentencia histórica que vuelve a poner bajo escrutinio el legado de uno de los mayores símbolos de la represión venezolana. El Helicoide está ubicado en Caracas y se caracteriza por sus rampas en espiral para el tránsito de vehículos. El proyecto de centro comercial nunca llegó a completarse debido a la inestabilidad política y económica que siguió a la caída de la dictadura de Marcos Pérez Jiménez en enero de 1958. Tras años de abandono y usos parciales, el edificio pasó a manos de los organismos de seguridad del Estado y, desde 1984, comenzó a albergar dependencias de la entonces Dirección de los Servicios de Inteligencia y Prevención (DISIP), antecesora del actual y temido Servicio Bolivariano de Inteligencia Nacional (SEBIN). Desde entonces, existieron áreas de detención dentro de El Helicoide. Los espacios concebidos para ser locales comerciales y áreas de servicio empezaron a utilizarse como celdas y centros de interrogatorio. Sin embargo, fue durante los gobiernos de Hugo Chávez (1999-2013) y, especialmente, de Nicolás Maduro (2013-2026) cuando se convirtió en el principal símbolo de la represión política en Venezuela y en una de las cárceles más conocidas para presos políticos del país, como opositores, activistas de derechos humanos, militares disidentes y manifestantes. Organizaciones nacionales e internacionales de defensa de los derechos humanos documentaron denuncias de detenciones arbitrarias, desapariciones temporales, aislamiento, hacinamiento, torturas físicas y psicológicas, así como tratos crueles e inhumanos en El Helicoide. Hasta la semana pasada, en El Helicoide había más de 70 prisioneros, según el Observatorio Venezolano de Prisiones (OVP). Pero este centro de tortura quedó prácticamente vacío el jueves, luego de que los presos fueran trasladados a diferentes prisiones de Venezuela, sin que sus familiares fueran informados. Dos días antes, el secretario de Estado de Estados Unidos, Marco Rubio, había dicho ante el Senado de su país que la “infame prisión El Helicoide fue cerrada“. Tras esa declaración recién empezó el traslado. Finalmente, el 10 de junio de 2026, la Corte IDH ordenó al Estado Venezolano cerrar el centro de detención. La medida fue adoptada más de 20 años después de la detención del estudiante Jorge Rojas Riera, cuyo caso dio origen a la sentencia histórica. En setiembre del 2003, Jorge Rojas Riera, entonces de 30 años, fue detenido durante una protesta en la Plaza Francia de Altamira, en Caracas, y trasladado a El Helicoide. Rojas denunció que en El Helicoide fue interrogado sobre otras personas que participaban de la protesta, y sufrió diversas agresiones, tales como: golpes de puño, patadas, culatazos, le colocaron una soga entre sus manos y lo levantaron, y le colocaron bolsas plásticas para asfixiarlo. Luego se le inició una investigación por los delitos de porte ilícito de arma de guerra, intimidación pública y resistencia a la autoridad. El 9 de agosto del 2004 fue sentenciado por dichos delitos. El Juzgado condenó a Rojas a una pena de cuatro años, seis meses y quince días de prisión. Tanto su defensa como la Fiscalía apelaron. Ambos recursos fueron declarados sin lugar por la Corte de Apelaciones. El 12 de junio del 2009, el Tribunal de Primera Instancia Sexto de Ejecución declaró la extinción de la responsabilidad penal de Rojas y ordenó su libertad plena. Sin embargo, las denuncias que hizo Rojas por tortura no avanzaron y terminaron archivadas. Sin obtener justicia en Venezuela, en el 2007 Rojas llevó sucaso al sistema interamericano, que finalmente 19 años después tomó una decisión. “La Corte estima pertinente ordenar al Estado que disponga, en un plazo de 18 meses a partir de la notificación de la presente sentencia, el cierre del centro de detención ‘El Helicoide’”, indicó la Corte IDH. También dispuso “que el traslado de las personas allí detenidas se efectúe conforme a los estándares establecidos en la Convención Americana en materia de integridad personal, libertad personal y debido proceso”. En su sentencia, la Corte IDH dijo que constató que varias instituciones y organismos internacionales que monitorean la situación de los derechos humanos en Venezuela han determinado que las personas privadas de libertad en El Helicoide han sido sujetas a torturas y tratos crueles, inhumanos y degradantes. La Corte IDH declaró responsable al Estado venezolano por restringir la participación del estudiante Jorge Rojas en una protesta pacífica, así como por violar su libertad de pensamiento y expresión y su participación política. El tribunal también sostuvo que agentes estatales, que no fueron investigados, perpetraron actos de tortura contra Rojas cuando se encontraba bajo la custodia en El Helicoide. Para el politólogo venezolano José Vicente Carrasquero, la decisión de la Corte IDH tiene una enorme carga simbólica debido al papel que desempeñó este centro de detención durante años en Venezuela. “El Helicoide ha sido un centro de tortura, un mecanismo, un instrumento del terrorismo de Estado”, afirmó a El Comercio. Según explicó, el recinto se convirtió en un lugar de referencia para la represión política, al punto de que su sola mención era utilizada como una amenaza contra opositores y detenidos. “Decirle a un preso político que iba a ser llevado a El Helicoide era como mandarlo a la peor cárcel de Venezuela. La sola amenaza de El Helicoide ablandaba a la gente”, sostuvo. Carrasquero señaló que la gravedad de los abusos denunciados ayuda a explicar la decisión adoptada por la Corte IDH. Según indicó, durante años se acumularon testimonios sobre torturas físicas, psicológicas y sexuales dentro del recinto. “Había tortura a mujeres y hombres por igual, tortura sexual, violaciones e introducción de objetos en las partes íntimas”, aseguró. Remarcó que El Helicoide terminó convirtiéndose en un símbolo nacional del miedo y la persecución política. “Traían gente de toda Venezuela. Era el instrumento para decir: si no haces esto, te vamos a llevar a El Helicoide”, comentó. No obstante, Carrasquero advirtió que la eventual desaparición de El Helicoide como cárcel no necesariamente significa el fin de las prácticas denunciadas por organismos de derechos humanos. Sostuvo que el problema de fondo no es únicamente el edificio, sino las instituciones y mecanismos que permitieron las violaciones de derechos humanos en Venezuela. “Está bien, cierro El Helicoide, pero ¿desaparece la estructura de tortura? ¿Desaparece la estructura a través de la cual siguen ejerciendo poder real en Venezuela? A mí me parece que no”, indicó. El analista también puso en duda la capacidad real de la Corte IDH para garantizar el cumplimiento de la medida. Aunque reconoció que las decisiones del tribunal son formalmente obligatorias, recordó que existe un problema de ejecución práctica. “Es formalmente obligatorio, pero la pregunta es: ¿quién hace cumplir esa orden?”, comentó. Asimismo, sostuvo que el traslado de presos fuera de El Helicoide no necesariamente implica el cierre definitivo del lugar ni la desaparición de las prácticas denunciadas. Incluso alertó sobre denuncias de familiares que desconocían el paradero de algunos detenidos tras los traslados.",
-          "url": "https://elcomercio.pe/mundo/venezuela/el-helicoide-la-historia-de-la-carcel-simbolo-de-la-represion-en-venezuela-cuyo-cierre-ordeno-la-corte-idh-nicolas-maduro-hugo-chavez-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/XIJBEAUONFFJJBNSDC7URYGGXQ.jpg?auth=00e25be66e32f6ba0cb92a7d7fdcf6846fb7f48abfb8668d025fce0f373bd706&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T11:15:00Z",
-          "embed_url": "https://elcomercio.pe/mundo/venezuela/el-helicoide-la-historia-de-la-carcel-simbolo-de-la-represion-en-venezuela-cuyo-cierre-ordeno-la-corte-idh-nicolas-maduro-hugo-chavez-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "El Helicoide: la historia de la cárcel que se convirtió en símbolo de la represión en Venezuela, Las razones del cierre de El Helicoide, por qué la corte idh ordenó el cierre de el helicoide, venezuela, el helicoide, derechos humanos, nicolás maduro, corte idh, corte interamericana de derechos humanos, La historia de El Helicoide, la cárcel que se convirtió en símbolo de la represión en Venezuela y que la Corte IDH ordenó cerrar, El Helicoide: la historia de la cárcel símbolo de la represión en Venezuela cuyo cierre ordenó la Corte IDH, Corte Interamericana de Derechos Humanos, presos políticos, cierre de El Helicoide, cárcel El Helicoide, prisión El Helicoide, presos políticos Venezuela, derechos humanos en Venezuela, SEBIN, Servicio Bolivariano de Inteligencia Nacional, torturas en Venezuela, torturas en El Helicoide, terrorismo de Estado Venezuela, Jorge Rojas Riera, sentencia Corte IDH Venezuela, por qué la Corte IDH ordenó cerrar El Helicoide, qué es El Helicoide en Venezuela, historia de El Helicoide, caso Jorge Rojas Riera Venezuela, violaciones de derechos humanos en Venezuela, presos políticos en venezuela",
-            "Venezuela",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "2af1f11ac31b",
@@ -3197,32 +2960,6 @@
           "tags": [
             "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
             "Venezuela",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "ce1670ec42c7",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Resultados ONPE al 98.327%: Keiko Fujimori y Roberto Sánchez disputan voto a voto la Presidencia del Perú",
-          "summary": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
-          "body_text": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
-          "url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NB4QVMVPEJABZP7DG4PF3Y66PE.jpg?auth=002b628f6f61c904024214678cb866630a5a2f971ad80ac1e7fbf032de7e803d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T05:28:00Z",
-          "embed_url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Resultados segunda vuelta 2026, Resultados ONPE en vivo, Resultados ONPE, Resultados segunda vuelta en Perú, Keiko Fujimori, Roberto Sánchez, Quien ganó las elecciones en Perú, ONPE",
-            "Elecciones",
             "Mundo",
             "El Comercio"
           ],
@@ -3377,6 +3114,58 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "dfafd46380c8",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Piura: sismo de 5.5 grados se sintió en la localidad de Suyo esta madrugada",
+          "summary": "Un sismo de magnitud 5.5 se registró este sábado 13 de junio en la región Piura. El evento ocurrió a las 01:35 horas en el norte del territorio peruano, según datos del Instituto Geofísico del Perú.",
+          "body_text": "Un sismo de magnitud 5.5 se registró este sábado 13 de junio en la región Piura. El evento ocurrió a las 01:35 horas en el norte del territorio peruano, según datos del Instituto Geofísico del Perú. Los datos oficiales sitúan el epicentro a 10 kilómetros al oeste del distrito de Suyo, en Ayabaca. El foco sísmico presentó una profundidad de 68 kilómetros bajo la superficie. La intensidad del movimiento alcanzó los niveles IV y V en la escala de Mercalli en la localidad de Suyo. Hasta el momento no hay informes oficiales sobre personas heridas o afectadas por el fenómeno.",
+          "url": "https://elcomercio.pe/peru/piura/piura-sismo-de-55-grados-se-sintio-en-la-localidad-de-suyo-esta-madrugada-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/JXEPAKQ56BBGFA4EQXDPZB4WUM.jpg?auth=95ab5fc5844341fcb0b63e1e04e499da684299001c4f2618f89e98c2d44a32f2&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T13:04:13Z",
+          "embed_url": "https://elcomercio.pe/peru/piura/piura-sismo-de-55-grados-se-sintio-en-la-localidad-de-suyo-esta-madrugada-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Piura, Sismos, Temblor, Sismo en Perú",
+            "Piura",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "ce1670ec42c7",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Resultados ONPE al 98.327%: Keiko Fujimori y Roberto Sánchez disputan voto a voto la Presidencia del Perú",
+          "summary": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
+          "body_text": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
+          "url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/NB4QVMVPEJABZP7DG4PF3Y66PE.jpg?auth=002b628f6f61c904024214678cb866630a5a2f971ad80ac1e7fbf032de7e803d&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-13T12:00:00Z",
+          "embed_url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Resultados segunda vuelta 2026, Resultados ONPE en vivo, Resultados ONPE, Resultados segunda vuelta en Perú, Keiko Fujimori, Roberto Sánchez, Quien ganó las elecciones en Perú, ONPE",
+            "Elecciones",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "2af1f11ac31b",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3400,33 +3189,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "ce1670ec42c7",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Resultados ONPE al 98.327%: Keiko Fujimori y Roberto Sánchez disputan voto a voto la Presidencia del Perú",
-          "summary": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
-          "body_text": "Resultados ONPE en vivo segunda vuelta 2026: Keiko Fujimori y Roberto Sánchez pelean voto a voto la Presidencia del Perú lbposting",
-          "url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NB4QVMVPEJABZP7DG4PF3Y66PE.jpg?auth=002b628f6f61c904024214678cb866630a5a2f971ad80ac1e7fbf032de7e803d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-13T05:28:00Z",
-          "embed_url": "https://elcomercio.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-keiko-fujimori-y-roberto-sanchez-pelean-voto-a-voto-la-presidencia-del-peru-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Resultados segunda vuelta 2026, Resultados ONPE en vivo, Resultados ONPE, Resultados segunda vuelta en Perú, Keiko Fujimori, Roberto Sánchez, Quien ganó las elecciones en Perú, ONPE",
-            "Elecciones",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "aceae046067a",
@@ -3452,7 +3215,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "3087bad803c8",
@@ -3478,7 +3241,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "8809ab552278",
@@ -3500,32 +3263,6 @@
           "tags": [
             "Víctor Febre Calle capturan otro implicado asesinato, Víctor Febre Calle asesinato capturan implicado Piura, PNP Piura capturan implicado Víctor Febre Calle, Víctor Febre Calle asesinado Piura implicado asesinato",
             "Piura",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "861a8567b3ed",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Junta de Fiscales Supremos condena detención de fiscales en Ucayali y anuncia acciones legales",
-          "summary": "La Junta de Fiscales Supremos rechazó la intervención policial contra dos representantes del Ministerio Público que investigaban el hallazgo de cédulas de sufragio marcadas.",
-          "body_text": "La Junta de Fiscales Supremos anunció que interpondrá acciones penales por la presunta comisión del delito de secuestro contra los efectivos de la Policía Nacional que detuvieron a dos fiscales durante la segunda vuelta presidencial en la región Ucayali, luego de que estos intervinieran ante el hallazgo de cédulas de sufragio marcadas. A través de un pronunciamiento, el máximo órgano del Ministerio Público expresó su “más enérgico rechazo” a la actuación policial y manifestó su “total solidaridad y respaldo institucional” a los magistrados afectados. Según la Junta de Fiscales Supremos, los fiscales fueron privados de su libertad entre las 2:30 p. m. y las 7:00 p. m. del domingo 7 de junio cuando se encontraban ejerciendo sus funciones durante el proceso electoral. “Los efectivos policiales habrían actuado sin derecho, motivo ni facultad justificada”, sostuvo la institución, que calificó el hecho como una grave afectación al ejercicio de la función fiscal. Asimismo, condenó la actuación de los agentes involucrados y ratificó su compromiso con la defensa de la legalidad, la protección de los derechos fundamentales y la autonomía e independencia del Ministerio Público. Horas después, la Policía Nacional del Perú emitió un comunicado en el que defendió la intervención realizada en Ucayali y sostuvo que esta se produjo tras recibir una denuncia sobre la existencia de 17 cédulas de sufragio previamente marcadas en la institución educativa Diego Ferrer Sosa. De acuerdo con la versión policial, cuando los agentes iniciaron las diligencias preliminares tomaron conocimiento de que las cédulas habían sido retiradas por representantes del Ministerio Público. La institución señaló que dicha actuación habría implicado una presunta usurpación de funciones, al considerar que la investigación preliminar de los hechos correspondía a la Policía Nacional conforme a una sentencia del Tribunal Constitucional. En ese contexto, indicó que se procedió a la detención en flagrancia de dos integrantes del Ministerio Público por el presunto delito de encubrimiento real y personal de los autores de un ilícito contra la voluntad popular. La PNP solicitó que se respete el marco constitucional y legal vigente y pidió que las cédulas marcadas sean puestas a disposición de las investigaciones policiales, al señalar que dicho material permanece bajo custodia del Ministerio Público. Asimismo, requirió a la Junta de Fiscales Supremos que designe una sede fiscal distinta a la de Ucayali para conducir jurídicamente las investigaciones relacionadas con este caso.",
-          "url": "https://elcomercio.pe/peru/ucayali/junta-de-fiscales-supremos-condena-detencion-de-fiscales-en-ucayali-y-anuncia-acciones-legales-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/2NU2YMRGYJE3NDMCTZ2TZP4GOI.jpg?auth=9d946446beaf44a537e738d5fe246082c8018df3d1f46df4e46f90d681b409ea&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-10T03:57:28Z",
-          "embed_url": "https://elcomercio.pe/peru/ucayali/junta-de-fiscales-supremos-condena-detencion-de-fiscales-en-ucayali-y-anuncia-acciones-legales-ultimas-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Junta de Fiscales Supremos, Ucayali, Fiscal, PNP, Ministerio Público, Segunda vuelta, Elecciones generales 2026",
-            "Ucayali",
             "Peru",
             "El Comercio"
           ],
@@ -4115,6 +3852,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "b458f80b105a",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Bilden visar hemliga attackplanen mot M",
+          "summary": "Här är attacken mot M-profilen – som Nooshi Dadgostar aldrig använde. Expressens fotograf fångade den handskrivna lappen på bild.",
+          "body_text": "Här är attacken mot M-profilen – som Nooshi Dadgostar aldrig använde. Expressens fotograf fångade den handskrivna lappen på bild. – Det tar jag som en ära, säger måltavlan Lars Beckman (M). Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I veckans partiledardebatt gick flera till angrepp mot Vänsterpartiets ledare Nooshi Dadgostar. Detta efter Expressens avslöjanden om terrorhyllningar och antisemitism som spridits av V-kandidater. Också statsminister Ulf Kristersson (M) har varit kritisk. – Det framstår nästan som en infiltration från islamister i Mellanöstern, har han sagt. Nooshi Dadgostar tycks ha varit förberedd på just den kritiken även i debatten. På en bild syns hur hon sitter i kammaren med en rad papper framför sig. Bland dem en handskriven lapp med en attack på statsministern. Han borde, enligt vad som står, ” vända blicken mot sitt eget parti och sin riksdagsgrupp ”. ” Hans egen ledamot, Lars Beckman, som sitter där (peka), är den främsta antisemitiska konspirationsteoretikern i riksdagen ”. Kristersson anklagas för att inte agera trots att Beckman kommer med ” nästan dagliga påståenden om Bonniermedias makt ”.",
+          "url": "https://www.expressen.se/nyheter/politik/bilden-visar-handskrivna-lappen-till-dadgostar/",
+          "image_url": "https://static.bonniernews.se/images/1b/77/1b773c41cf4549439a02e080441509a8/16x9/original.jpg",
+          "published_at": "2026-06-13T12:21:10Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/bilden-visar-handskrivna-lappen-till-dadgostar/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "5bf6d2356d00",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Pedofiljägarnas varning om Lyhannas misstänkta mördare",
+          "summary": "Anklagelserna mot 11-åriga Lyhannas misstänkta mördare blir allt fler. Frankrike varnades flera gånger av amerikanska pedofiljägare för Jérôme Barella. – De hade alla bevis för att gripa honom, säger mamman till en flicka som anmält honom för våldtäkt, till RTL.",
+          "body_text": "Anklagelserna mot 11-åriga Lyhannas misstänkta mördare blir allt fler. Frankrike varnades flera gånger av amerikanska pedofiljägare för Jérôme Barella. – De hade alla bevis för att gripa honom, säger mamman till en flicka som anmält honom för våldtäkt, till RTL . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. ■ Jérôme Barella misstänks för flera fall av våldtäkter och sexuella övergrepp mot barn efter att han greps förra veckan misstänkt för mordet på 11-åriga Lyhanna i Frankrike. ■ En mamma har berättat om att myndigheterna inte agerade efter att hennes dotter anmälde Barella för våldtäkt förra året. ■ Även Barellas pappa och bror utreds nu för våldtäkter och sexuella övergrepp. 11-åriga Lyhanna hittades mördad förra veckan efter att ha varit försvunnen i flera dagar. Kroppen hittades i en gammal spannmålssilo några kilometer utanför hennes hemstad Fleurance. Lyhannas bästa väns pappa, 41-åriga Jérôme Barella, misstänks ha kidnappat och mördat henne. Flickan sågs i hans bil efter skoldagens slut den 29 maj, men Barella nekar till att ha gjort något brottsligt. Fallet har skakat Frankrike och stora demonstrationer har hållits efter att flera misstankar mot Barella om sexuellt våld kommit till ytan. Polisen utreder flera våldtäkter och sexuella övergrepp som har begåtts under flera år, särskilt under övernattningar i mannens hem. Antalet fall bedöms vara fler än vad som tidigare rapporterats i franska medier, uppger källor för Le Monde . Senast förra året gick en mamma till en tioårig flicka till polisen och anklagade Barella för att ha våldtagit hennes dotter flera gånger – men polisen förhörde honom aldrig trots vittnesmålen.",
+          "url": "https://www.expressen.se/nyheter/varlden/varningarna-om-11-ariga-lyhannas-misstankta-mordare/",
+          "image_url": "https://static.bonniernews.se/images/c7/6c/c76c3e1272a641b9a18c23d90c5b18b4/16x9/original.png",
+          "published_at": "2026-06-13T12:05:16Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/varningarna-om-11-ariga-lyhannas-misstankta-mordare/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "7e034f555bc4",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4123,8 +3908,8 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Två barn skjutna",
-          "summary": "Två barn har skjutits i Alvesta, enligt Expressens uppgifter. – Det är en pågående insats. Ser man att vi arbetar så håll er inomhus, säger Katarina Rusin, polisens presstalesperson. Polisen jagar efter en beväpnad gärningsman med helikopter, erfar Expressen.",
-          "body_text": "Två barn har skjutits i Alvesta, enligt Expressens uppgifter. – Det är en pågående insats. Ser man att vi arbetar så håll er inomhus, säger Katarina Rusin, polisens presstalesperson. Polisen jagar efter en beväpnad gärningsman med helikopter, erfar Expressen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Polisen bekräftar att de är på plats i ett mindre samhälle strax utanför Alvesta och att två personer har hittats skadade i en villa. Personerna har förts till sjukhus med ambulans. Skadeläget är oklart. Enligt uppgifter till Expressen har två barn blivit skjutna och det pågår en jakt med helikopter efter en beväpnad gärningsman. – Det är ingen gripen i ärendet, men jag kan inte tala om några detaljer mer än så tyvärr, säger Katarina Rusin. Händelsen rubriceras som försök till mord. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "summary": "Två barn har skjutits i Alvesta, enligt Expressens uppgifter. Den misstänkta gärningsmannen har hittats död i anslutning till en bostad. – Det jag kan säga nu är att de känner varandra på något sätt, säger Filip Annas, presstalesperson vid polisen.",
+          "body_text": "Två barn har skjutits i Alvesta, enligt Expressens uppgifter. Den misstänkta gärningsmannen har hittats död i anslutning till en bostad. – Det jag kan säga nu är att de känner varandra på något sätt, säger Filip Annas, presstalesperson vid polisen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Polisen är på plats i ett mindre samhälle strax utanför Alvesta efter att två barn hittats skadade i en villa vid klockan 11 på lördagsförmiddagen. Barnen har förts till sjukhus med ambulans. Skadeläget är oklart. – De två drabbade är på sjukhus och vårdas där, säger Katarina Rusin, presstalesperson vid polisen. Enligt uppgifter till Expressen har de två barnen blivit skjutna. Den misstänkta gärningsmannen hittades senare död i anslutning till villan, uppger polisen. Inga fler gärningsmän söks av polisen. – Det jag kan säga nu är att de känner varandra på något sätt, men jag går inte in på någon närmare detalj än så, säger Filip Annas. Händelsen rubriceras som försök till mord. En avspärrning har upprättats runt flera hus och en teknisk undersökning kommer att göras på platsen. – Det vi vill trycka på är att det inte finns någon fara för allmänheten, säger presstalespersonen Katarina Rusin. Tidigare på dagen sökte polisen med helikopter efter gärningsmannen. Han var då beväpnad, enligt uppgifter till Expressen. – Det är en pågående insats. Ser man att vi arbetar så håll er inomhus, sa Katarina Rusin initialt.",
           "url": "https://www.expressen.se/nyheter/sverige/personer-skadade-i-alvesta-stor-polisinsats/",
           "image_url": "https://static.bonniernews.se/images/b1/3c/b13c3dd32aec4da1bc1be6f031a39993/16x9/original.png",
           "published_at": "2026-06-13T10:26:12Z",
@@ -4136,7 +3921,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "fc4ffb681c3c",
@@ -4160,7 +3945,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "0beff89fc07e",
@@ -4170,11 +3955,11 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Prinsessan Ines stal showen med sitt hejdå",
+          "title": "Guldbröllop – följ firandet här",
           "summary": "Kungaparet firar 50 år tillsammans och har en heldag i Stockholm planerad. Följ med i det kungliga guldbröllopet här!",
-          "body_text": "Kungaparet firar 50 år tillsammans och har en heldag i Stockholm planerad. Följ med i det kungliga guldbröllopet här! Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kungen och drottningen firar 50 år som gifta Här är en karta som visar hur kungaparet kommer röra sig under eftermiddagen: Kungaparet är mitt uppe i en privat lunch på Slottet, varefter de kommer att åka båt i kungaslupen Vasaorden, innan kortege och konsert. Här är resten av hållpunkterna för dagen: Kl 14.00 Kungaparet ros med Vasaorden från Slottet, via Skeppsbron till Djurgården.Kl 14.30 Kungaparet åker i kortege från Djurgården via Strandvägen, Birger Jarlsgatan, Stureplan, Kungsgatan, Sveavägen, Sergels torg och Hamngatan till Kungsträdgården.Kl 15.00 Konsert i Kungsträdgården med kärlekstema.Kl 18.00 Guldbröllopskonsert på Kungliga Operan.Kl 20.00 Privat supé på slottet för familj och vänner. Prinsessan Sofia kom i cerise och en fascinatorhatt. Lillasyster prinsessan Madeleine kom i vitt, även hon i tvådelat och hatt, Kronprinsessan Victoria valde ljusgult (en trendfärg just nu) och bredbrättad hatt. Viben var klassisk kunglig garderob – drottning Elizabeth II hade INTE hatat den ensemblen.",
+          "body_text": "Kungaparet firar 50 år tillsammans och har en heldag i Stockholm planerad. Följ med i det kungliga guldbröllopet här! Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kungen och drottningen firar 50 år som gifta Dramatik under kortegen – vid Djurgårdsbron föll en häst och ryttaren. Både ryttaren och hästen ska ha klarat sig utan allvarligare skador. Kungaparets arbetsmoral är verkligen imponerande, och dagens schema är till och med lugnt i jämförelse med hur en dag under till exempel ett statsbesök ser ut. Jag kan också säga att kungaparet är högst engagerade när det kommer till schemaläggningen av guldbröllopsdagen och liknande högtider och det är inte så att det är påtvingat, tvärtom! Det är inte heller någon stor bankett, som till exempel på kungens födelsedag, utan kungaparet firar ikväll privat på Slottet. Prinsessan Madeleine sitter på andra raden, strax bakom drottning Silvia. Konserten i Kungsträdgården är gratis för alla som får plats, och leds av Mark Levengood och Amie Bramme Sey. Konserten inleds – såklart – med Abbas Dancing Queen. Kungen och drottningen närmar sig nu Sergels torg på väg mot Kungsträdgården.",
           "url": "https://www.expressen.se/nyheter/kungligt/kungaparet-firar-guldbrollop-folj-firandet-har/",
-          "image_url": "https://static.bonniernews.se/images/d1/2e/d12ecc36b1974774b2cb747cf24bd74c/16x9/original.png",
+          "image_url": "https://static.bonniernews.se/images/11/15/1115a26383954ac4a9f871b4dc918dc8/16x9/original.png",
           "published_at": "2026-06-13T08:43:08Z",
           "embed_url": "https://www.expressen.se/nyheter/kungligt/kungaparet-firar-guldbrollop-folj-firandet-har/",
           "play_mode": "page_iframe",
@@ -4184,7 +3969,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "7fe756364093",
@@ -4208,7 +3993,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "a29e6db413b2",
@@ -4232,7 +4017,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "7a3397d1cea2",
@@ -4256,7 +4041,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "6d8858654be1",
@@ -4280,7 +4065,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "db25a04a1382",
@@ -4297,54 +4082,6 @@
           "image_url": "https://static.bonniernews.se/images/c2/52/c25241a54d0644709663d444f3e48b2f/16x9/original.jpg",
           "published_at": "2026-06-13T06:07:11Z",
           "embed_url": "https://www.expressen.se/nyheter/politik/sveriges-miljardnota-till-donald-trump/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "045d195e593c",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Arla gör ost i Ryssland – slog samman med tysk jätte",
-          "summary": "Genom sammanslagningen med den tyska mejerijätten DMK Group har Arla blivit ägare till en omfattande verksamhet i Ryssland. Hur situationen ska hanteras har mejerikoncernen i dagsläget inga konkreta svar på.",
-          "body_text": "Genom sammanslagningen med den tyska mejerijätten DMK Group har Arla blivit ägare till en omfattande verksamhet i Ryssland. Hur situationen ska hanteras har mejerikoncernen i dagsläget inga konkreta svar på. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den omstridda fusionen mellan Arla och den tyska mejerijätten Deutsches Milchkontor, DMK Group, har nyligen godkänts av EU:s konkurrensmyndighet. Syftet med affären är att ge Arla bättre ekonomisk motståndskraft och att säkra den framtida livsmedelsproduktionen i Sverige, var budskapet från Cecilia Kocken, vd för Arla Sverige, när mejerikoncernen deklarerade sammanslagningen i slutet av maj i år. Med löfte om att ett starkare kooperativ säkrar såväl tillväxt som högre mjölkpris till svenska bönder, berörde Arla däremot inte en känslig fråga: den om DMK:s fortsatta verksamhet i Ryssland. Andra mejeriföretag, däribland Arla, har dragit sig ur Ryssland sedan landets storskaliga invasion av Ukraina för drygt fyra år sedan. Men DMK har valt att ha kvar sin produktion riktad mot den ryska marknaden i form av en ysteriverksamhet i full drift i Voronezh-regionen. Den tyska mejerijätten har tidigare uppgett att verksamheten i Ryssland ska utvärderas så snart fusionen med Arla godkänts. Arla har i sin tur lovat att hantera DMK:s aktivitet i Ryssland när sammanslagningen väl har trätt i kraft, vilket den gjorde 1 juni i år. Än så länge kan mejerikoncernen dock inte svara på hur de tänker ta tag i frågan. ”Arlas hållning till verksamhet i Ryssland är välkänd och ligger fast”, framhåller Cecilia Kocken i ett mejlsvar till TT, men meddelar att hon inte kan dela fler detaljer. ”Först nu när fusionen är genomförd kan vi börja fatta konkreta beslut. Samtidigt har vi ett ansvar att hantera situationen för de lokala medarbetarna på ett korrekt och respektfullt sätt”, uppger hon. Vera Hassenpflug, presskontakt vid DMK Group, vill inte heller kommentera framtida planer för aktiviteten i Ryssland: ”Arla och DMK är nu ett enda företag och kommer att fatta beslut som ett sådant”, skriver hon i ett mejlsvar till TT. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/efter-sammanslagning-arla-gor-ost-i-ryssland/",
-          "image_url": "https://static.bonniernews.se/images/b5/14/b514acc94fa6476bb689ab53d630d9b2/16x9/original.jpg",
-          "published_at": "2026-06-13T05:10:33Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/efter-sammanslagning-arla-gor-ost-i-ryssland/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "12367204b346",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "S lägsta stöd under hela mandatperioden | Expressen",
-          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
-          "body_text": "I SVT/Verians senaste mätning får socialdemokraterna 31,6 procent av väljarstödet, det sämsta som uppmätts under mandatperioden. Det innebär att partiet inte längre ligger signifikant över resultatet i valet 2022, skriver SVT. Bättre går det för MP och V som är de enda partierna som ligger klart över valresultatet 2022. På Tidösidan är KD det enda partiet som ökar. M, L och SD får i princip samma resultat som tidigare mätningar. För att Tidöpartierna ska hinna få igenom alla sina förslag innan valet hålls debatter i riksdagen under helgen. Debatter på helgerna och en extrainkallad sommarriksdag. Det är vad som krävs för att alla de lagförslag regeringen lagt fram ska hinna debatteras och röstas om innan hösten. Under lördagen kommer därför bland annat skärpta straffskalor att debatteras och på söndagen debatteras bland annat vandelskrav för uppehållstillstånd. Att det hålls debatter på en helg är sällsynt. Senaste gången det skedde var enligt riksdagens information i april 2023. Då ville regeringen få igenom ett snabbt beslut om att evakuera svenskar från Sudan i samband med att inbördeskriget bröt ut. Sverigedemokraten Stina Isaksson, gruppledare och oppositionsråd i Hylte, utesluts ur partiet rapporterar Ekot. Det efter att hon och partiet i Hylte delat ut flygblad som har kopplats till LVU-kampanjen. På flygbladen fanns budskapet \"sätt stopp för att socialtjänsten omhändertar era barn\", har SVT Halland tidigare rapporterat. Efter att flygbladen uppmärksammats och kritiserats av bland annat det egna partiet drog SD i Hylte tillbaka dem. Sverigedemokraterna vill förbjuda slöja och hijab på allmän plats. Det rapporterar Ekot . Även tidigare har partiet förespråkat förbud mot niqab och burka, men nu går partiet alltså längre. Sara Gille, SD:s talesperson i jämställdhets- och hederspolitiska frågor, menar att plaggen är symboler för underordning av kvinnor och att många tvingas bära dem. De kvinnor som själva vill bära slöja kan göra det någon annanstans, enligt Gille.",
-          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=32350d78-6239-49a7-99bb-679c45228df1",
-          "image_url": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
-          "published_at": "2026-01-09T11:58:16Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=32350d78-6239-49a7-99bb-679c45228df1",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4381,7 +4118,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Medlarlandet Pakistan uppger att USA och Iran är redo att skriva under ramarna för ett fredsavtal inom 24 timmar, enligt Reuters. Pakistans premiärminister Shehbaz Sharif säger att avtalet skulle innebära ett stopp för konflikten och att fler samtal kommer att hållas nästa vecka. Det larmades om misstänkta militärdrönare i Litauens huvudstad Vilinius, skriver norska nyhetsbyrån NTB. Larmet kunde dock blåsas av efter bara några minuter – och det var ingen drönare, uppger representanter för landet. Senast för ett par veckor sedan fick flygplatsen i staden stoppa alla flyg och invånare uppmanades att söka skydd – efter ett drönarlarm. Under fredagen genomförde försvaret två insatser med Gripen-plan för att möta ryska stridsflyg i Östersjön nära svenskt luftrum, uppger Försvarsmakten. Incidenterna inträffade i södra respektive norra delen av Östersjön och involverade två ryska stridsflyg av typen Su-24 och Su-34. – Det ryska agerandet är allvarligt och är ett återkommande beteende som hotar både vår territoriella integritet och säkerhet. Svenskt och allierat stridsflyg agerade snabbt, resolut och tydligt genom att möta de ryska planen och säkra Sveriges och alliansens territorium, säger viceamiral Ewa Skoog Haslum, chef för Försvarsmaktens operationsledning, i ett pressmeddelande. Polisen larmades tidigt på lördagsmorgonen om att en man gått till attack med en kniv vid ett bråk i en lägenhet i Sätra i södra Stockholm. Två skadade personer hittades på platsen och en man i 20-årsåldern greps misstänkt för mordförsök. Personerna var bekanta med varandra, enligt polisen. De skadade personerna togs om hand av ambulanspersonal och skadorna bedöms inte som allvarliga. En kvinna i 60-årsåldern greps på fredagskvällen i Uppsala misstänkt för mordförsök. Polisen larmades vdi 21-tiden till en bostad i Gottsunda/Valsätra-området där kvinnan misstänks ha skadat en annan kvinna i 60-årsåldern med ett tillhygge. Den misstänkta kvinnan greps i bostaden och den skadade kvinnan fördes till sjukhus med ambulans. Skadeläget är oklart. Bostaden har spärrats av för en teknisk undersökning. En ung kvinna i de äldre tonåren är misstänkt för att ha tänt eld i sitt rum på ett boende i Laxå, skriver polisen på sin hemsida. Den unga kvinnan ska även har misshandlat en i personalen som fick skador i ansiktet och behövde föras till sjukhus. Kvinnan är gripen och anhållen. Ingen person blev skadad med anledning av branden.",
+          "body_text": "Den tidigare moderata utrikesministern och finanskvinnan Margaretha af Ugglas har dött. Hon dog den 10 maj 2026 och blev 88 år gammal. Hon var utrikesminister i Carl Bildtregeringen 1991-1994. Tidigare satt hon i styrelsen för bland annat Kinnevik, Boliden, och Swedish Match. Margaretha af Ugglas var syster till Jan Stenbeck. Medlarlandet Pakistan uppger att USA och Iran är redo att skriva under ramarna för ett fredsavtal inom 24 timmar, enligt Reuters. Pakistans premiärminister Shehbaz Sharif säger att avtalet skulle innebära ett stopp för konflikten och att fler samtal kommer att hållas nästa vecka. Det larmades om misstänkta militärdrönare i Litauens huvudstad Vilinius, skriver norska nyhetsbyrån NTB. Larmet kunde dock blåsas av efter bara några minuter – och det var ingen drönare, uppger representanter för landet. Senast för ett par veckor sedan fick flygplatsen i staden stoppa alla flyg och invånare uppmanades att söka skydd – efter ett drönarlarm. Under fredagen genomförde försvaret två insatser med Gripen-plan för att möta ryska stridsflyg i Östersjön nära svenskt luftrum, uppger Försvarsmakten. Incidenterna inträffade i södra respektive norra delen av Östersjön och involverade två ryska stridsflyg av typen Su-24 och Su-34. – Det ryska agerandet är allvarligt och är ett återkommande beteende som hotar både vår territoriella integritet och säkerhet. Svenskt och allierat stridsflyg agerade snabbt, resolut och tydligt genom att möta de ryska planen och säkra Sveriges och alliansens territorium, säger viceamiral Ewa Skoog Haslum, chef för Försvarsmaktens operationsledning, i ett pressmeddelande. Polisen larmades tidigt på lördagsmorgonen om att en man gått till attack med en kniv vid ett bråk i en lägenhet i Sätra i södra Stockholm. Två skadade personer hittades på platsen och en man i 20-årsåldern greps misstänkt för mordförsök. Personerna var bekanta med varandra, enligt polisen. De skadade personerna togs om hand av ambulanspersonal och skadorna bedöms inte som allvarliga. En kvinna i 60-årsåldern greps på fredagskvällen i Uppsala misstänkt för mordförsök. Polisen larmades vdi 21-tiden till en bostad i Gottsunda/Valsätra-området där kvinnan misstänks ha skadat en annan kvinna i 60-årsåldern med ett tillhygge.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
