@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T09:45:05Z",
+  "generated_at": "2026-06-20T11:53:24Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 VM-festen hotad • ”Kanske måste ställa in med kort varsel” Trafikverket: Överväg att skjuta upp resan Hur är vädret hos dig? Skicka dina bilder till oss! Varnar för kraftig åska – kan slå till under Sveriges VM-match Nya vapenvilan bruten • Kritik mot USA:s sändebud Uppgifter: Israel kan underminera Iranavtalet Trump efter Irankriget: ”Det finns inga gränser” Man skars i halsen med glasflaska • Barnfamiljer fick låsa in sig i sina stugor Här faller midsommarstången i Järvsö: ”Folk fick panik”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 VM-festen hotad • ”Kanske måste ställa in med kort varsel” Ovädret drar vidare: ”Det är långt ifrån över” Hur är vädret hos dig? Skicka dina bilder till oss! Varnar för kraftig åska – kan slå till under Sveriges VM-match Blågult riskerar att tappa Graham Potter: ”Det visste vi om” ”Super-Bosse” laddar upp i skärgården – med storbild GUIDE: Allt inför VM-2026 – så sänds Sveriges matcher",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1721,6 +1721,31 @@
           "sort_order": 0
         },
         {
+          "id": "d5af3428f89f",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Carafano: Critics of Trump's Iran deal are drinking 'stupid juice' | Fox News Video",
+          "summary": "Lt. Col. James Carafano, a 25-year Army veteran, lambastes critics of current Iran nuclear negotiations.",
+          "body_text": "Lt. Col. James Carafano, a 25-year Army veteran, lambastes critics of current Iran nuclear negotiations. Lt. Col. James Carafano, a senior counselor at the Heritage Foundation, criticizes Republican concerns over Iran nuclear talks, stating that demanding regime change is \"unrealistic.\" Carafano asserts that the potential $300 billion fund for Iran is a \"chimera,\" unlikely to be fully accessed by the regime or sufficient for national rebuilding. He predicts these dynamics will increase pressure on the Iranian regime.",
+          "url": "https://www.foxnews.com/video/6398933256112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c08f5532-101f-4c2a-abe0-49c226a7d2d0/b716e265-6102-4781-9af3-c22f936eef70/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-20T11:26:22Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398933256112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "170952577ff9",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1768,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "98457b95f9cc",
@@ -1768,7 +1793,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "186efe031b24",
@@ -1793,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "c8a6215b09a2",
@@ -1818,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "8e7a77e1e7b8",
@@ -1843,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "a66020e0e74c",
@@ -1868,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "963e87eaec16",
@@ -1893,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "a2dab9d8c919",
@@ -1918,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "4637ac26ff7e",
@@ -1935,31 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b34b09-9309-424f-88ea-dd27616c7686/554012a0-3740-46fe-8012-273edb4f6e02/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-06-20T00:59:58Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398901515112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "d4e6944ea099",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Americans want to get past this 'civility crisis': Fred Ryan | Fox News Video",
-          "summary": "Ronald Reagan Presidential Foundation chairman Fred Ryan discusses 'The Civility Handbook' amid political divide, urging bipartisan dialogue, on 'Special Report.'",
-          "body_text": "Ronald Reagan Presidential Foundation chairman Fred Ryan discusses 'The Civility Handbook' amid political divide, urging bipartisan dialogue, on 'Special Report.' Ronald Reagan Presidential Foundation chairman Fred Ryan joins Bret Baier to unveil 'The Civility Handbook: A Guide for All Americans.' Ryan emphasizes the importance of constructive dialogue and principled disagreement, drawing parallels to former President Ronald Reagan's bipartisan efforts. Published during America's 250th birthday celebration, the free handbook aims to rebuild respectful discourse in a deeply divided nation, offering simple solutions for everyday engagement.",
-          "url": "https://www.foxnews.com/video/6398899615112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81555381-8fbc-43a5-a7b5-a995ac9a94a6/1b26d4ed-d177-4226-8080-2cb5e36db95b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-20T00:46:04Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398899615112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2046,6 +2046,31 @@
           "sort_order": 13
         },
         {
+          "id": "c8dd7e8d96b4",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "The Ingraham Angle - Friday, June 19 | Fox News Video",
+          "summary": "Trump , money, taxes",
+          "body_text": "Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.",
+          "url": "https://www.foxnews.com/video/6398928585112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/f8204314-5b9e-42fb-8409-b9c021900283/57be5b5a-32f8-44fb-ade8-774894dda6e7/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-06-20T09:05:37Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398928585112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "89425b19f900",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2060,31 +2085,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/07fb8f3c-a371-44a2-820a-3f61cc97b444/eeff9e31-05a0-47b4-82ee-8b639a592c63/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-06-20T07:48:51Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398926518112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "5b0fa4b937a0",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "The Story With Martha MacCallum - Friday, June 19 | Fox News Video",
-          "summary": "trump, iran , soccer",
-          "body_text": "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
-          "url": "https://www.foxnews.com/video/6398924041112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/d089ba80-f6a0-47a0-b618-4098c7c04f6e/0ba97add-cf7f-41a8-9408-7f46c8fde413/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-06-20T07:13:43Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6398924041112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,78 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "78dc36c09749",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+          "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+          "body_text": "There are moments when life in Moscow feels completely normal. Thursday morning wasn't one of them. In the south-east of the city an oil refinery had been hit during a Ukrainian drone attack - even from a distance the sight was surreal. Thick smoke billowing from the direction of the facility had turned the sky dark. Like a giant black shroud, it hung over the Moscow skyline. As extraordinary and eye-catching this was, so was the reaction of people near the refinery. Paying minimal attention to the huge clouds of smoke, an angler sat by the side of a pond, staring out across the water as he carried on fishing. At the playground opposite, children were having fun on the swings. Shoppers were heading to and from a supermarket, as if this was just another Thursday. I realised then that my sense of what's normal in Moscow and what's not, needed updating. For so long, the war on Ukraine felt very distant to people in the Russian capital. Many pretended it wasn't happening at all, but that's harder to do as the front line creeps closer to the city. Over the past year-and-a-half, Muscovites have woken to news that army generals in Moscow have been assassinated, and drones have been targeting the capital. In a sense, abnormal is already the new normal. Thursday's attack was one of the largest aerial assaults on the Moscow region since Russia's full-scale invasion of Ukraine.",
+          "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg",
+          "published_at": "2026-06-20T10:19:34Z",
+          "embed_url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "12917bbf09af",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+          "summary": "Several people are reported killed in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
+          "body_text": "At least a dozen people have reportedly been killed by Israeli airstrikes on southern Lebanon, less than 24 hours after a new ceasefire between Israel and Hezbollah was announced. Officials in the Nabatieh district said attacks had killed 16 people and injured at least a dozen more, after Israeli warplanes, drones, and artillery targeted numerous areas. The Israeli military said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in the region. Washington has criticised Israel's ongoing operations in Lebanon, which was drawn into the US-Iran war when Hezbollah launched rockets into Israel in retaliation for a strike that killed Iran's supreme leader. Washington also fears that the continuing tensions between Israel and Lebanon could undermine the US peace deal with Iran , which includes a commitment to end fighting on \"all fronts\" including Lebanon. US envoy, Steve Witkoff, is reported to be heading to Switzerland for initial talks with Iran to help cement the agreement. While it may have helped prevent a wider regional escalation for the time being, the deal leaves unresolved the central disputes at the heart of the conflict, including Israel's military presence in southern Lebanon and the future of Hezbollah's weapons. A Hezbollah official told the BBC it does not recognise the ceasefire that was announced by US officials on Friday afternoon, and it rejects the Israeli objective to operate freely inside Lebanon. Senior Hezbollah official Hassan Fadlallah said his group had the right to respond to Israeli attacks. \"What concerns us is that the enemy fully and comprehensively respects the ceasefire, and doesn't attempt to attack our country and villages or seek to occupy any new position,\" he said, as quoted in Lebanon's state-run National News Agency (NNA). Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes, with both sides accusing each other of violating the agreement. Before Friday's ceasefire was announced, Israel said it had no intention of withdrawing its forces from Lebanon and had insisted that its conflict with Hezbollah was separate from the war on Iran.",
+          "url": "https://www.bbc.com/news/articles/cx240k9l112o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4bf1/live/6e8fa4b0-6c7f-11f1-975e-1359364fe88d.jpg",
+          "published_at": "2026-06-20T08:53:53Z",
+          "embed_url": "https://www.bbc.com/news/articles/cx240k9l112o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "a862165ce524",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Dominican Republic resort fire: Italian tourist dies in Bayahibe fire",
+          "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+          "body_text": "A huge fire at a luxury beach resort in the Dominican Republic killed one woman and forced nearly 1,700 guests to be evacuated on Friday. The woman was a 46-year old Italian tourist, the DAEH emergency services said in a statement to local media. It added that three people were taken to medical facilities and six others were treated on site. Drone footage shows how widespread the fire was, with buildings spanning the Viva Wyndham Dominicus Beach in the town of Bayahibe on fire, and thick black smoke billowing into the air. The cause of the early-morning blaze is not yet known, but an initial investigation found the flames spread quickly due to wind conditions and the flammable thatched roofs on some buildings. The country's Emergency Operations Center (COE) said the fire had been brought under control and guests had been moved to other hotels. It added that tourist activities in the town and surrounding area were not affected. Italian news agency Ansa reported that the Italian ambassador to the Dominican Republic met the deceased woman's husband at the hospital. The embassy is helping around 285 Italian tourists who were staying at the resort or nearby, issuing emergency passports to those whose travel documents were destroyed in the fire and arranging flights home. Bayahibe, a popular resort town on the Caribbean coast, is known for its clear blue waters and sandy beaches. Wyndham Hotels & Resorts, which franchises about 8,400 hotels around the world, has been contacted for comment.",
+          "url": "https://www.bbc.com/news/articles/c932k8010j1o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/76f2/live/a5bd9b80-6c7b-11f1-8546-8f19e4fe30f4.jpg",
+          "published_at": "2026-06-20T07:40:20Z",
+          "embed_url": "https://www.bbc.com/news/articles/c932k8010j1o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "71577586297d",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2206,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "68c69276fb3e",
@@ -2158,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "cb271a39624e",
@@ -2182,7 +2254,31 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
+        },
+        {
+          "id": "b6018fb31e86",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Pop group XG on the ‘pure survival' of training and global success",
+          "summary": "The Japanese pop group have become global stars, after being recruited before they were teenagers.",
+          "body_text": "Every night, before they take the stage, the seven members of pop group XG form a circle and join hands. Band leader Jurin shouts \" Hesono \", and the other members reply with a loud shout of \" Oh \", flinging their arms towards the sky. They're not the only band to have pre-show ritual – but there's a special message behind XG's chant. Hesono-o (or, more accurately へその緒) is the Japanese word for umbilical cord. It can symbolise someone's fate or destiny from birth. For XG, the phrase represents the intensity of their bond. \"We're so strongly connected, we're always thinking the same things,\" says Chisa, the group's oldest member. \"In our early days, I actually had a dream we were connected by an umbilical cord, like a mother and child. \"So I threw that out as an idea for our identity. People said, 'That's so new and interesting', and that's how the concept of Hesono-o was born.\" XG talk to the BBC the morning after a triumphant (if rain-soaked) debut at Capital's Summertime Ball in Wembley Stadium. All seven members - Maya, Juria, Hinata, Harvey, Cocona, Chisa and Jurin - are dressed in vibrant neon outfits that erupt with tufts of faux fur and intricate belt buckles. Cocona sports a necklace that reads \"rock star\". Harvey has so many bangles that she rattles as she walks. Everyone has their own individual spin, but they move as one - and their camaraderie is conspicuous. Answering questions, they confer in a huddle before appointing a spokesperson. It's a connection forged more than 10 years ago, when some of the band were only 11 or 12 years old. XG's members were scouted from thousands of hopefuls across Japan in 2016. Twenty-one qualified for training, living together in dormitories while taking dawn to dusk lessons in singing, dancing and speaking in multiple languages.",
+          "url": "https://www.bbc.com/news/articles/cly8gj8pqz7o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9b66/live/75d5eb00-6bf1-11f1-8631-5f302ec8cd09.jpg",
+          "published_at": "2026-06-19T23:40:59Z",
+          "embed_url": "https://www.bbc.com/news/articles/cly8gj8pqz7o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 6
         },
         {
           "id": "ffde39bb270d",
@@ -2206,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 7
         },
         {
           "id": "b73342276c92",
@@ -2230,31 +2326,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "e898908fa99d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-          "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
-          "body_text": "Israel and Hezbollah have agreed a ceasefire, a US official says, following intense Israeli air strikes in southern Lebanon that killed 47 people. The latest agreement followed concerns that continued clashes, which also saw Hezbollah kill four Israeli soldiers in Lebanon, would undermine the deal to end the war between the US and Iran. The Israeli military confirmed that a ceasefire was in effect, but later a spokesman said its forces would \"continue to remove immediate threats\". Hezbollah is yet to confirm the ceasefire but its secretary general, Sheikh Naim Qassem, said: \"The project to eliminate Hezbollah has failed.\" Rescue officials in the city of Nabatieh told the BBC there had been at least 12 air strikes since the ceasefire began at 16:00 local time (13:00 GMT). The deadly escalation is another sign that Donald Trump is not necessarily in control of the fate of his deal with Iran. The memorandum of understanding declared a ceasefire in Lebanon as well as between the US and Iran. But that has not been the reality on the ground, which has led Tehran to accuse Trump of failing to rein in Israel. Trump himself has given fuel to this argument in an unprecedented set of accusations against his ally, Israeli Prime Minister Benjamin Netanyahu, suggesting he has been senselessly killing civilians in his fight against Hezbollah. The overnight flare-up in southern Lebanon poses more problems. While the White House insists a ceasefire is in place, Israel's far-right National Security Minister Itamar Ben Gvir responded to the deaths of Israeli soldiers by saying \"Lebanon must burn... For every tear shed by an Israeli mother, 1,000 Lebanese mothers must weep\". In response, Iranian Foreign Minister Abbas Araghchi accused Israel of wanting \"permanent war\" and insisted that any breach of the commitments set out in the memorandum of understanding \"will be attributed to the US\". Trump's deal relies on each side reining in hardliners and showing restraint - and there are few signs of that.",
-          "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg",
-          "published_at": "2026-06-19T18:34:05Z",
-          "embed_url": "https://www.bbc.com/news/articles/cwyk7kkygj5o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "c22e6bfe9045",
@@ -2278,31 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "15391ac70d95",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital",
-          "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
-          "body_text": "A six-year-old Ebola patient, who Congolese authorities were searching for after armed men stormed the hospital where she was being treated, has been found and is \"doing well\", a local health official has told the BBC. On Wednesday, Dr Lubambo Maboko Gaston said that a girl and her mother had been taken by \"very angry\" men from a hospital in the eastern city of Butembo, two days previously. It is unclear whether the men were known to the child, but suspicion and fear surrounding Ebola treatment centres have been rife during the current outbreak. On Friday, Gaston said the child and mother had turned up at an Ebola treatment centre roughly 18km (11 miles) from Butembo. \"Her condition is currently considered stable,\" Dr Gaston said of the child. Ebola treatment facilities have come under attack multiple times during the ongoing outbreak, in which more than 230 deaths and 890 cases have been confirmed. Last month, police in the town of Mongbwalu fired shots in the air after angry crowds attempted to reclaim the bodies of loved ones who had died at a health facility. Days before, crowds set fire to isolation tents in hospital in Rwampara - a town 85km (53 miles) south-east of Mongbwalu - after they were prevented from taking the body of a man thought to have died from Ebola. The body of an Ebola victim is highly infectious and can lead to the virus spreading further when prepared for burial. Ensuring that burials are carried out safely is a key concern for health official trying to tackle the outbreak. \"People are not properly informed or sensitised about what is happening. For a certain segment of the population, especially in remote areas, Ebola is an invention by outsiders - it does not exist,\" local politician Luc Malembe told the BBC last month. \"They believe it is the NGOs and hospitals creating this to make money, and this is tragic.\" On Friday, a World Health Organisation (WHO) official said the Ebola outbreak in eastern DR Congo was still \"evolving so fast\".",
-          "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/defa/live/2098db00-6be4-11f1-b1db-af71d47507d6.jpg",
-          "published_at": "2026-06-19T14:10:00Z",
-          "embed_url": "https://www.bbc.com/news/articles/c0qyg29wpk2o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "ced48a4904a7",
@@ -2326,7 +2374,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 10
         },
         {
           "id": "1e56953cefad",
@@ -2350,7 +2398,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 9
+          "sort_order": 11
         },
         {
           "id": "7aecbff9dfaf",
@@ -2374,7 +2422,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 12
         },
         {
           "id": "867a869f43dc",
@@ -2391,54 +2439,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/75a7/live/20681b30-6b2d-11f1-b1db-af71d47507d6.png",
           "published_at": "2026-06-19T05:33:59Z",
           "embed_url": "https://www.bbc.com/news/articles/cy735xlv50ko",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 11
-        },
-        {
-          "id": "187b91109cc7",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "What Iran and US get from deal and why both could struggle to keep it",
-          "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
-          "body_text": "More than 100 days after US and Israeli bombs began falling on Iran, both sides are claiming victory - a sign of how much each needed a way out. A deal has officially ended the fighting, but the harder negotiations are just beginning. Both sides have sold the deal to their public as a win but, as our analysts here explain, neither has fully convinced them and domestic critics on both sides argue that too many concessions were made. For Iran , the deal with the US offers something just as important as a ceasefire: a way to claim that it has not just survived the war without surrendering but has emerged from it stronger. From the start, Tehran's core objective was not necessarily to defeat the US and Israel in conventional military terms. It was to come out of the conflict with the Islamic Republic intact, its leadership still functioning and its negotiating position not completely broken. The Memorandum of Understanding (MOU) – as the deal is known - allows Iran to say it has achieved that. The document, signed separately by US President Donald Trump and Iranian President Masoud Pezeshkian, sets out a 60-day framework for negotiations over Iran's nuclear programme but it also confirms an immediate halt to military operations on all fronts, including Lebanon, mutual respect for sovereignty, the reopening of the Strait of Hormuz and the lifting of the US naval blockade on Iranian shipping. Iran's immediate obligations are significant, but relatively limited. Tehran has agreed to help ensure safe commercial passage through Hormuz, something that had long been the status quo before the war, reaffirm that it will not pursue nuclear weapons, and enter talks on the future of its highly enriched uranium and enrichment programme. The US commitments appear broader. According to the MoU, Washington will begin removing its naval blockade, issue waivers for Iranian oil exports, make frozen or restricted Iranian assets available, work towards easing sanctions and pursue with regional partners a reconstruction and economic development plan for Iran worth at least $300bn (£224bn). That helps explain why the reaction from Iranian critics has so far been muted. The MoU gives the leadership enough to present the deal as a victory: Iran's sovereignty is recognised, the blockade is due to be lifted, sanctions relief is on the table and reconstruction funding is explicitly mentioned. But that silence is unlikely to last. Even the first response of Iran's supreme leader, Mojtaba Khamenei, was carefully balanced: he allowed the deal to proceed, while making clear that it had been accepted on Iran's Supreme National Security Council responsibility. The most difficult issues have been deferred, not resolved. The future of Iran's highly enriched uranium, the scale of its enrichment industry and the rebuilding of damaged nuclear facilities will now be negotiated under intense pressure.",
-          "url": "https://www.bbc.com/news/articles/c932yqz8lggo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5277/live/e2c02aa0-6b01-11f1-8317-e1f912f75a64.jpg",
-          "published_at": "2026-06-18T15:38:18Z",
-          "embed_url": "https://www.bbc.com/news/articles/c932yqz8lggo",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 12
-        },
-        {
-          "id": "b4915556ee9d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Weapons, money and ships: How is this Iran deal different from others?",
-          "summary": "BBC Verify examines how the new deal between the US and Iran affects three key areas.",
-          "body_text": "President Donald Trump has formally signed a deal with Iran to end the conflict that began on 28 February when the US and Israel launched air strikes against Tehran and across the country. The terms of the 14-point Memorandum of Understanding (MoU) between the US and Iran have been criticised over what is included and what is left out. There have also been questions about how the agreement - which lays the groundwork for talks on Iran's nuclear weapons programme - will also affect economic sanctions and access to the Strait of Hormuz. Comparisons have inevitably been made between this deal and the 2015 Obama-era nuclear accord known as the Joint Comprehensive Plan of Action (JCPOA) which Trump scrapped in his first term. To make sense of the current deal, BBC Verify has looked through key details of the documents to compare it with the situation during three distinct periods: 1. When the JCPOA was in force between 2016 and 2018 2. Before the war began on 28 February 2026 The whole point of the JCPOA - which included the UK, France, the EU, China and Russia - was to impose specific limitations on Iran's nuclear programme. That highly technical document restricted Iran's stockpile of nuclear material to 300kg and said it could not enrich its uranium above 3.67% for 15 years. This level of enrichment is not high enough to be used in nuclear warheads but can be used in reactors to generate electricity. The JCPOA also allowed the International Atomic Energy Agency (IAEA) access to Iran's nuclear programme to ensure it was complying with the agreement. The IAEA said Iran had been complying until Trump withdrew the US from the JCPOA in 2018, calling it \"decaying and rotten\". Following the collapse of that deal Iran stepped up its nuclear programme.",
-          "url": "https://www.bbc.com/news/articles/c74ynmnrwmeo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8953/live/1cb40d80-6b25-11f1-b1db-af71d47507d6.png",
-          "published_at": "2026-06-18T14:16:42Z",
-          "embed_url": "https://www.bbc.com/news/articles/c74ynmnrwmeo",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2555,10 +2555,10 @@
           "source_kind": "story",
           "title": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
           "summary": "Sigue aquí los resultados oficiales ONPE con la diferencia de votos entre Keiko Fujimori (Fuerza Popular) y Roberto Sánchez (Juntos por el Perú)",
-          "body_text": "La segunda vuelta de las Elecciones Generales Perú 2026, entre los candidatos Keiko Fujimori (Fuerza Popular) y Roberto Sánchez (Juntos por el Perú), se realizó el domingo 7 de junio a nivel nacional y en algunos países de diferentes continentes. Las autoridades del Jurado Nacional de Elecciones (JNE) y la Oficina Nacional de Procesos Electorales (ONPE) informaron en la fecha que el proceso se realizó con normalidad, y que las incidencias que se registraron durante la jornada fueron subsanadas y ya son investigadas por las autoridades del Ministerio Público. Tras el cierre de las mesas de sufragio a las 5 p.m. del domingo 7, y luego de conocerse los primeros resultados no oficiales a boca de urna, los peruanos centraron sus expectativas en conocer los resultados oficiales de la ONPE. Para ello, el ente electoral habilitó una página oficial para que la ciudadanía consulte en tiempo real los resultados del balotaje. Este 20/06/2026, en la actualización de las 04:35 al 99.63% de actas contabilizadas, Keiko Fujimori supera a Roberto Sánchez por 41,565 votos. Fuerza Popular registra 9,183,602 votos válidos, mientras que Juntos por el Perú alcanza 9,142,185 votos válidos. Del total de actas, el 99.63% ha sido contabilizado y el 100% procesado por la ONPE, mientras que el 0% restante se encuentra pendiente. La diferencia entre los votos obtenidos por ambos aspirantes es corta y se espera que la ONPE dé a conocer los resultados finales al 100% cuando la totalidad de actas haya sido validada por las autoridades electorales. Pasadas las 11 a.m. del lunes 8 de junio se dieron a conocer los primeros resultados del extranjero, por lo que las cifras oficiales podrían variar en las próximas horas. De acuerdo con la normativa electoral vigente, el ganador de la segunda vuelta (es decir, quien resulte presidente electo) será el candidato que obtenga la mayor cantidad de votos válidos, sin importar el número de votos de diferencia. Grecia Rentería, vocera del JNE, indicó en conferencia de prensa que la proclamación de los resultados de la segunda vuelta presidencial se realizará a mediados de julio, una vez que concluyan los procesos de resolución de actas observadas y las eventuales audiencias de recuento de votos. La funcionaria explicó que las actas observadas serán trasladadas inicialmente desde las oficinas descentralizadas de procesos electorales (ODPE) hacia los jurados electorales especiales (JEE) de cada jurisdicción, donde se realizará el cotejo correspondiente. Si las observaciones no pueden ser resueltas en esta etapa, se dispondrá el recuento de votos mediante audiencias públicas. “A mediados de julio es la proclamación de la segunda vuelta”, expresó.",
+          "body_text": "La segunda vuelta de las Elecciones Generales Perú 2026, entre los candidatos Keiko Fujimori (Fuerza Popular) y Roberto Sánchez (Juntos por el Perú), se realizó el domingo 7 de junio a nivel nacional y en algunos países de diferentes continentes. Las autoridades del Jurado Nacional de Elecciones (JNE) y la Oficina Nacional de Procesos Electorales (ONPE) informaron en la fecha que el proceso se realizó con normalidad, y que las incidencias que se registraron durante la jornada fueron subsanadas y ya son investigadas por las autoridades del Ministerio Público. Tras el cierre de las mesas de sufragio a las 5 p.m. del domingo 7, y luego de conocerse los primeros resultados no oficiales a boca de urna, los peruanos centraron sus expectativas en conocer los resultados oficiales de la ONPE. Para ello, el ente electoral habilitó una página oficial para que la ciudadanía consulte en tiempo real los resultados del balotaje. Este 20/06/2026, en la actualización de las 06:45 al 99.63% de actas contabilizadas, Keiko Fujimori supera a Roberto Sánchez por 41,565 votos. Fuerza Popular registra 9,183,602 votos válidos, mientras que Juntos por el Perú alcanza 9,142,185 votos válidos. Del total de actas, el 99.63% ha sido contabilizado y el 100% procesado por la ONPE, mientras que el 0% restante se encuentra pendiente. La diferencia entre los votos obtenidos por ambos aspirantes es corta y se espera que la ONPE dé a conocer los resultados finales al 100% cuando la totalidad de actas haya sido validada por las autoridades electorales. Pasadas las 11 a.m. del lunes 8 de junio se dieron a conocer los primeros resultados del extranjero, por lo que las cifras oficiales podrían variar en las próximas horas. De acuerdo con la normativa electoral vigente, el ganador de la segunda vuelta (es decir, quien resulte presidente electo) será el candidato que obtenga la mayor cantidad de votos válidos, sin importar el número de votos de diferencia. Grecia Rentería, vocera del JNE, indicó en conferencia de prensa que la proclamación de los resultados de la segunda vuelta presidencial se realizará a mediados de julio, una vez que concluyan los procesos de resolución de actas observadas y las eventuales audiencias de recuento de votos. La funcionaria explicó que las actas observadas serán trasladadas inicialmente desde las oficinas descentralizadas de procesos electorales (ODPE) hacia los jurados electorales especiales (JEE) de cada jurisdicción, donde se realizará el cotejo correspondiente. Si las observaciones no pueden ser resueltas en esta etapa, se dispondrá el recuento de votos mediante audiencias públicas. “A mediados de julio es la proclamación de la segunda vuelta”, expresó.",
           "url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/JV5T6CG2SREDPFJE2LQGIRZMLE.jpeg?auth=601dbd56221d788781faa3209b360ceece5b9c589ea47c835bbf4182be6e9d80&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-20T09:40:59Z",
+          "published_at": "2026-06-20T11:50:59Z",
           "embed_url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2572,25 +2572,25 @@
           "sort_order": 0
         },
         {
-          "id": "085089c7eed6",
+          "id": "a27ca07c0cdc",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Dime cómo te llevas con tu madre y te diré cómo están tus finanzas: la conexión que las constelaciones familiares revelan sobre el dinero",
-          "summary": "Patrones de gasto, deuda y merecimiento podrían estar vinculados a dinámicas no resueltas en el vínculo con la madre, las cuales marcarían nuestra relación emocional con el dinero.",
-          "body_text": "Hay personas que, a simple vista, hacen todo “bien”: trabajan duro, se esfuerzan, ganan lo suficiente y, aun así, el dinero no les alcanza. Otras, en cambio, sin fórmulas mágicas ni golpes de suerte, logran sostenerlo, hacerlo crecer o, al menos, son capaces de vivir con una sensación de estabilidad que no parece depender solo de sus ingresos. Si bien cuando hablamos de dinero, la educación financiera y la disciplina son factores claves para un crecimiento económico, no siempre alcanzan para entender por qué, frente a oportunidades similares, algunas personas avanzan, mientras otras parecen estar inmersas en una racha de escasez. Frente a ello, el enfoque de las constelaciones familiares propone una lectura distinta, — y no siempre fácil de aceptar—: la forma en que una persona se relaciona con el dinero podría estar profundamente vinculada con la relación que tiene (o tuvo) con su madre. Para muchas personas, el dinero siempre ha estado ligado al trabajo, al esfuerzo e incluso a la suerte. Sin embargo, desde las constelaciones familiares, no parte tanto del cómo se gana, sino desde dónde se aprende a recibir. Como explicó María Ysabel Malca, terapeuta holística del Centro Holístico Luna Nueva a Somos, antes del dinero estuvo la madre. Y es que su pecho, su calor y su “sí” a darnos la vida, constituyen la primera experiencia de abundancia que registra el cuerpo. “Desde esta mirada, el inconsciente no diferencia entre esa vivencia inicial y lo que viene después: para ese niño interior, recibir cuidado, alimento o sostén emocional se conecta directamente con todo lo que más adelante será entendido como “recibir” en un sentido más amplio, incluyendo el dinero”. Por eso, cuando ese vínculo se tensiona o se rechaza —de forma consciente o inconsciente— puede aparecer una dificultad para recibir. De acuerdo con la terapeuta holística, no se trata de una relación lineal ni directa, sino de un patrón emocional que se instala, por lo que si le cerramos el corazón a nuestra madre, ese mismo gesto puede repetirse frente a otras formas de abundancia. En este sentido, las constelaciones nos invitan a “tomar a la madre”, en otras palabras, a decirle sí a la vida que vino de ella, sin reclamar lo que faltó. “Es poder decir internamente: “Mamá, te tomo como eres”. No se trata de justificar sus errores ni negar el dolor, sino de soltar la pelea con esa historia y empezar a aceptarla desde otro lugar”. Cuando la madre estuvo ausente —por enfermedad, muerte, migración o depresión — o cuando el vínculo estuvo marcado por experiencias dolorosas como el maltrato o el abuso, puede generarse una ruptura en la conexión madre-hijo, lo que el psicoterapeuta y trainer en constelaciones familiares Julio Salas denomina “amor interrumpido”. No se trata solo de una herida afectiva, simbólicamente también puede traducirse en una dificultad para sostener la prosperidad, como si la fuente de vida y —con ella la abundancia— hubiera quedado parcialmente desconectada. “Aquí es necesario aplicar lo de “tomar a la madre”, lo cual debe partir del deseo y la intención del hijo de acercarse y volver a conectarse desde el interior con la figura materna. A veces, ese proceso requiere de acompañamiento terapéutico o una constelación que permita “ordenar” ese vínculo y aceptar lo ocurrido”, aseguró Salas. En esta misma línea, Max Monge, psicoterapeuta constelador familiar y fundador de Casa Doctor, añadió un matiz importante, ya que incluso cuando una madre biológica no estuvo presente en la crianza, es fundamental distinguir entre la madre como origen biológico y la función materna como experiencia emocional. La primera es única e irremplazable en términos simbólicos, mientras la segunda puede ser sostenida por distintas figuras —abuelas o tías— que aportan cuidado, sostén y afecto. Desde esta perspectiva, no se trata de sustituir una por otra, sino de reconocer a quienes cumplieron la función materna sin excluir a la madre de origen, dándole a cada una su lugar dentro de la historia. Aunque la madre es el flujo, la abundancia y el canal por donde entra el dinero, el amor y la vida, desde las constelaciones familiares, el padre es el que da el permiso para ir al mundo. Según María Ysabel Malca, este representa la estructura, los límites, la fuerza para actuar, invertir y sostener lo que llega. Por eso, sin ese padre simbólico, podemos recibir, pero el dinero se nos escapa. Además, esta relación con las finanzas no solo se circunscribe a la familia actual. Como bien señaló la terapeuta, las abuelas son el origen del sistema. Es por eso que, si nuestros antepasados atravesaron hambre, guerras, pérdidas o crisis graves, grabaron en el campo familiar frases como “el dinero se acaba” o “hay que ahorrar todo porque nunca se sabe”, creencias que se pueden terminar heredando y viviendo como propias, aunque nunca se haya atravesado por esas experiencias. “Las finanzas actuales pueden estar repitiendo el miedo a la escasez de hace dos o tres generaciones. En constelaciones familiares esto se le denomina como lealtades invisibles, ya que nos afectan sin que seamos conscientes de su origen”. Sin embargo, simplificar los problemas económicos atribuyéndolos únicamente a la relación con la madre puede ser riesgoso. Como advirtió Julio Salas, cada persona es responsable de su propia vida y, si bien la historia familiar puede influir, no determina. Y es que no se trata de culpar al pasado, sino de asumir el propio poder personal, fortalecer la conexión interna y recordar que, el éxito comienza en el corazón y la mente, antes de reflejarse en lo externo. Cuando hay un conflicto no resuelto con la madre, según Malca y Salas, más que errores financieros aislados, lo que aparece son patrones que se repiten casi de forma inconsciente: Detrás de muchas de estas conductas no solo hay hábitos financieros, sino creencias profundamente arraigadas: “el dinero se me va de mis manos”, “ganar dinero es difícil”, “es mejor no deberle nada a nadie” o “si tengo, me lo quitan”. Aunque parecen ideas sobre dinero, en realidad nacen del niño interior que aprendió que recibir puede ser peligroso o que, simplemente no tiene derecho a hacerlo. Y esto se vuelve aún más evidente en contextos donde predomina la figura de la madre sacrificada. De acuerdo con Max Monge, cuando un hijo empieza a ganar más que ella, puede aparecer una tensión interna, ya que prosperar se vive como una traición. Desde ahí, algunos repiten el sacrificio, mientras que otros alcanzan el éxito, pero sin poder disfrutarlo plenamente. En ambos casos, el psicoterapeuta explicó que, lo que falta no es más esfuerzo, sino procesar las emociones que quedaron pendientes, como el dolor, la frustración y la tristeza. Algo similar ocurre en los llamados “hijos parentalizados” y es que, cuando un hijo asume el rol de proveedor, su dinero deja de sentirse propio. “Crecer, ahorrar o invertir para sí mismo puede generar culpa, como si progresar implicara abandonar. Por eso, el desarrollo financiero se frena, no por falta de capacidad, sino por una lealtad emocional que sigue operando en silencio”, agregó Malca. Cuando una persona trabaja en la relación con la madre, comienza a experimentar mayor bienestar, paz y claridad mental, lo cual termina impactando significativamente en la forma en la que se toman decisiones. A partir de ahí, los cambios se vuelven visibles en la vida diaria, refirió Monge. Por ejemplo, disminuyen los gastos innecesarios, aparece una mayor capacidad de ahorro y pueden surgir nuevas oportunidades, como mejores puestos de trabajo o ideas para emprender. “Esto no ocurre como algo aislado, sino como consecuencia de estar más en armonía con la energía de nuestra madre”. Pero estos cambios no se logran solo en un espacio terapéutico. Según el experto en constelaciones familiares, este vínculo se trabaja, sobre todo, en lo cotidiano. Básicamente, en cómo una persona se relaciona con su casa, con su cuerpo y con las responsabilidades diarias. Y es que, al representar la vida y la abundancia, la madre se refleja en cómo una persona sostiene su día a día. Por eso, involucrarse activamente en tareas simples, como mantener el orden, cocinar y cuidar la salud, es también la base para ordenar las finanzas. En este sentido, el termómetro más sincero de este vínculo aparece al mirar la cuenta bancaria, pues allí es donde toca preguntarse: ¿agradezco lo que hay o siento que todavía me deben? Porque quien vive bajo la queja de que su madre no le dio suficiente afecto, cuidado o reconocimiento, traslada esa deuda emocional a su economía. “Al final, como miras a tu madre, miras al dinero. Si te sientes pequeño ante ella, te sentirás pequeño ante las deudas. Pero cuando ocupas tu lugar de hijo y eres agradecido, dejas de exigirle al pasado y asumes la madurez necesaria para dominar y ordenar tu propio dinero”, enfatizó el fundador Casa Doctor.",
-          "url": "https://elcomercio.pe/somos/estilo/que-revelan-las-constelaciones-familiares-sobre-la-madre-y-el-dinero-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/DAZG57XPV5CIVEAC3WUKVM34LI.jpg?auth=94916392201f1460965709a346734efb59bc687a8278f2aa12698f9ece85b206&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-20T09:30:00Z",
-          "embed_url": "https://elcomercio.pe/somos/estilo/que-revelan-las-constelaciones-familiares-sobre-la-madre-y-el-dinero-noticia/",
+          "title": "¿Cuándo olvidamos cómo reducir la pobreza?",
+          "summary": "“El desafío del próximo gobierno no es descubrir una fórmula nueva, sino volver a hacer funcionar aquello que ya sabemos que da resultados y adaptarlo a una pobreza que hoy tiene un rostro distinto”, dice Oswaldo Molina, Profesor e Investigador de la Universidad del Pacífico y fundador de la Red de Estudios para el Desarrollo para La Mirada.",
+          "body_text": "Mientras esperamos la proclamación oficial de los resultados electorales, vale la pena mirar los grandes desafíos que enfrentará el próximo gobierno. Y ninguno es tan importante como reducir la pobreza. Después de todo, si existe un objetivo que debería convocarnos como país, es lograr que más peruanos puedan acceder a una vida mejor, especialmente aquellos que aún permanecen excluidos del progreso. Para ello, no necesitamos empezar de cero. Basta recordar qué hicimos bien cuando logramos reducir la pobreza de manera sostenida y observar qué están haciendo países de la región que siguen avanzando. En quince años, el Perú logró sacar a más de 9 millones de peruanos de la pobreza y alcanzó la que probablemente sea la tasa de pobreza más baja de toda su historia (20,2% en 2019). Detrás de esa cifra hay millones de historias de esfuerzo, oportunidades que se abrieron y familias que lograron mejorar su calidad de vida. Algunos suelen restar importancia a este avance argumentando que fue únicamente producto de un contexto internacional favorable o señalando que parte de esos logros se revirtieron con la pandemia. Sin embargo, ambas críticas son injustas. El Perú ha disfrutado de contextos internacionales favorables en otros momentos de su historia, incluidos los últimos años de altos precios de nuestras exportaciones, sin lograr reducciones similares de pobreza. Y más que concentrarnos en lo que ocurrió durante la pandemia, deberíamos preguntarnos por qué el Perú sigue siendo uno de los pocos países de la región que aún no ha logrado regresar a sus niveles de pobreza previos. Conviene, en cambio, recordar qué fue lo que hicimos bien cuando sí logramos reducirla de manera sostenida. El crecimiento económico fue el gran protagonista de ese avance. Según el Banco Mundial, buena parte de la reducción de la pobreza durante ese período se explica por una economía que generaba más empleo, más ingresos y más oportunidades. La experiencia paraguaya confirma esta lección. En las últimas dos décadas, ese país redujo su pobreza de más de 50% a cerca de 16%, apoyado en un crecimiento sostenido, la expansión del empleo formal y reformas orientadas a promover la inversión privada. La evidencia es contundente: ningún país ha logrado reducir la pobreza de manera significativa sin una economía capaz de crecer y generar oportunidades. No se puede, por tanto, desdeñar el crecimiento si queremos mejorar el bienestar de los peruanos. Junto con el crecimiento, las políticas sociales focalizadas también jugaron un papel importante, especialmente para llegar a los hogares más vulnerables. Si ampliamos la mirada más allá de la pobreza monetaria y pensamos en la pobreza multidimensional, la conclusión es similar. Reducir la pobreza también exige un Estado capaz de proveer servicios públicos de calidad. Y allí el Perú enfrenta desafíos evidentes, con una inversión pública deficiente y obras paralizadas. Un Estado que deja obras paralizadas difícilmente logrará cerrar brechas. Sin embargo, el reto actual presenta una complejidad adicional. La pobreza peruana es hoy mucho más urbana que hace dos décadas. Tres de cada cuatro pobres viven actualmente en ciudades. Son hogares que enfrentan problemas distintos a los del pasado: empleos informales, escasa productividad, servicios públicos deficientes e inseguridad. Por ello, la agenda social del próximo gobierno debe adaptarse a esta nueva realidad. Ello implica adaptar los programas sociales actuales al contexto urbano, facilitar la inserción laboral de los jóvenes, fortalecer los servicios públicos básicos y elevar la productividad de trabajadores y pequeñas empresas. El Perú ya demostró que puede reducir la pobreza de manera acelerada. El desafío del próximo gobierno no es descubrir una fórmula nueva, sino volver a hacer funcionar aquello que ya sabemos que da resultados y adaptarlo a una pobreza que hoy tiene un rostro distinto.",
+          "url": "https://elcomercio.pe/economia/opinion/cuando-olvidamos-como-reducir-la-pobreza-por-oswaldo-molina-la-mirada-opinion-universidad-del-pacifico-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/HBG3V2CJSBGIHPVM2I2AU5YZHI.jpg?auth=53be3ee3a05851bcf78741d48ec1472a55905a734ac81e7c9edaf3d826c710db&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-20T11:38:00Z",
+          "embed_url": "https://elcomercio.pe/economia/opinion/cuando-olvidamos-como-reducir-la-pobreza-por-oswaldo-molina-la-mirada-opinion-universidad-del-pacifico-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "constelaciones familiares, familia, relación madre e hijo, madre, dinero, finanzas personales, figura materna, abundancia, ausencia materna, conexión madre-hijo, herida afectiva, prosperidad, madre biológica, función materna, sistema familiar, abuelas, padres, escasez económica, problemas financieros, gastos impulsivos, endeudarse, ahorrar, sacrificio laboral, autosabotaje económico, dependencia económica, la figura de la madre según las constelaciones familiares, gratitud, aceptación, mala relación con la madre",
-            "Estilo",
+            "Oswaldo Molina, La Mirada, Universidad del Pacífico, Opinión",
+            "Opinión",
             "Senaste",
             "El Comercio"
           ],
@@ -3100,6 +3100,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "64c17fc2987c",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cotizar en bolsa: una prueba de fuego para tres gigantes de la inteligencia artificial",
+          "summary": "Cotizar en bolsa: una prueba de fuego para tres gigantes de la inteligencia artificial | El exitoso debut de SpaceX en Wall Street confirmó el gran entusiasmo financiero por la inteligencia artificial y convirtió a Elon Musk en el primer billonario del mundo. La operación aviva una carrera a la que pronto se sumarán Anthropic y OpenAI.",
+          "body_text": "Elon Musk se propuso seducir a los inversores con sus ambiciones de colonizar Marte y alcanzar una vida “multiplanetaria”, y lo logró. Su empresa SpaceX marcó un hito con su debut en la bolsa cuando sus acciones se dispararon casi 20% el 12 de junio, en la mayor oferta pública inicial de la historia de Wall Street. La exitosa operación aviva una carrera que pondrá a prueba el entusiasmo por la inteligencia artificial (IA). SpaceX es la primera de tres gigantes tecnológicas del sector que se espera que salgan a la bolsa este año en busca de captar fondos. En pocas semanas les toca a Anthropic y OpenAI. Fundada por Musk en el 2002, SpaceX ya no es solo una compañía de cohetes, sino que hoy es un imperio de inteligencia artificial y satélites. De hecho, la compañía comunicó a los inversores que quiere usar los fondos obtenidos de la salida a la bolsa para construir centros de datos de IA en el espacio. Sin embargo, hay interrogantes sobre los planes de la empresa, que ha registrado pérdidas de miles de millones de dólares. El propio Musk ha evitado dar detalles de su tecnología aún no probada e insistió en sus promesas de construir “hoteles en la Luna” y llevar a la humanidad a ese satélite, a Marte y “más allá”. Pese a ello, el furor por sus ideas no está en duda. En su salida al mercado Nasdaq de Nueva York, SpaceX vendió 556 millones de acciones a un precio inicial de US$135 por acción. Finalmente, la empresa alcanzó un valor de mercado de US$2,1 billones y ganó el título de la sexta mayor compañía de Estados Unidos que cotiza en bolsa, incluso por encima de Tesla, también propiedad de Musk. El resultado convirtió al empresario en el primer billonario del mundo. Musk no está solo en la pugna por despertar el interés financiero en torno a la tecnología. Se espera que OpenAI y Anthropic, sus grandes rivales en la carrera de la inteligencia artificial y responsables de los modelos más avanzados, empiecen a cotizar sus acciones en el mercado público en los próximos meses, lo que, según el diario “The New York Times”, supone un momento decisivo para Silicon Valley y su auge de la IA. “Estas salidas a la bolsa podrían generar una enorme bonanza para Wall Street y Silicon Valley tras años de ofertas poco atractivas. Podrían desatar una fiebre entre los inversores del mercado público, que llevan tiempo esperando participar en el auge de la IA, y los bancos de Wall Street podrían ganar cientos de millones facilitando estas operaciones”, explica el medio. Aunque comparten las pretensiones de guiar una revolución tecnológica, SpaceX, OpenAI y Anthropic tienen ambiciones distintas. Omar Flórez, doctor en Computación e investigador peruano en IA, remarca que SpaceX quiere construir la infraestructura física de la próxima etapa tecnológica, desde cohetes reutilizables hasta satélites, conectividad global y presencia humana fuera de la Tierra. Los objetivos de sus rivales se centran en la IA. “OpenAI quiere convertir la inteligencia artificial en una capa cotidiana de trabajo, creatividad y productividad: algo tan común como usar Internet o un teléfono inteligente. Anthropic va por una ruta similar en IA, pero con un énfasis más fuerte en seguridad, control y alineamiento con valores humanos. Su apuesta es muy interesante: una IA que será cada vez más poderosa, pero que solo será realmente útil si podemos entenderla, gobernarla y usarla sin perder criterio humano”, dice a El Comercio. Si bien el furor inversor puede crecer, también hay otra posibilidad: que un mal desempeño en la bolsa de las tres compañías ponga en duda el frenesí por esta tecnología. Hasta ahora, las áreas del sector que habían salido a la bolsa fueron las vinculadas a su infraestructura. Pese a ello, el optimismo acompaña a OpenAI y Anthropic, pues los expertos aseguran que ambas podrían superar una valuación de 1 billón de dólares cuando sus acciones coticen en bolsa. ¿Cuál de las tres se perfila para alcanzar mejores resultados? Flórez cree que, a corto plazo, Anthropic tiene más opciones de impacto masivo porque la IA ya está entrando a empresas, escuelas y gobiernos. SpaceX tiene una ventaja más difícil de copiar, porque ha construido infraestructura física, industrial y espacial. “Anthropic puede moverse más rápido, pero SpaceX tiene la barrera más fuerte y la venta clara a largo plazo”, concluye.",
+          "url": "https://elcomercio.pe/mundo/actualidad/cotizar-en-bolsa-una-prueba-de-fuego-para-tres-gigantes-de-la-inteligencia-artificial-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/HU3ERELEDNARFCCNMKAJIOA74U.jpg?auth=ed8e26f70e83ce05a4e9144ee18597a5ca2fb12368bec962d778d87d53547297&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-20T11:21:24Z",
+          "embed_url": "https://elcomercio.pe/mundo/actualidad/cotizar-en-bolsa-una-prueba-de-fuego-para-tres-gigantes-de-la-inteligencia-artificial-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Inteligencia artificial, IA, SpaceX, OpenAI, Anthropic, Elon Musk, Tecnología, Negocios, Decisiones empresariales, Finanzas, Bolsa",
+            "Actualidad",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "461a28c68f23",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3123,7 +3149,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "8f4beb6edb87",
@@ -3145,32 +3171,6 @@
           "tags": [
             "Bolivia, Paz y Central Obrera, Protestas en Bolivia, Central Obrera Boliviana, protestas en bolivia, Rodrigo Paz y Central Obrera logran acuerdo, pero campesinos mantienen bloqueos de vías en Bolivia",
             "Latinoamérica",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "5d11c659aa8b",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "CDMX: Una ciudad de refugiados sin refugio",
-          "summary": "En la Ciudad de México, personas que han dejado atrás sus hogares siguen procesos administrativos indispensables que parecen no tener fin, para avanzar en su solicitud de protección internacional",
-          "body_text": "Huir de la violencia, la persecución o el desplazamiento forzado suele ser el primer paso hacia la búsqueda de protección. Para muchas personas refugiadas y solicitantes de asilo, cruzar una frontera internacional no significa encontrar seguridad inmediata. A veces comienza una nueva etapa marcada por incertidumbre: meses de espera, trámites prolongados y una vida suspendida mientras llega una respuesta. Los equipos de Médicos Sin Fronteras (MSF) vemos esta realidad diariamente en la puerta de la Comisión Mexicana de Ayuda a Refugiados (COMAR) en Naucalpan e Iztapalapa. Personas que han dejado atrás sus hogares siguen procesos administrativos indispensables que parecen no tener fin, para avanzar en su solicitud de protección internacional. Cada semana, cientos de personas deben confirmar su permanencia en el país, al firmar presencialmente de cada semana. Para hacerlo, pierden jornadas de trabajo, asumen costos de transporte que apenas pueden cubrir o buscan quién cuide a sus hijos e hijas mientras realizan el trámite. Para quienes solicitan asilo, la espera se convierte en una etapa en la que la vida queda suspendida. La resolución de una solicitud puede significar la posibilidad de trabajar formalmente, acceder a servicios y comenzar a reconstruir un proyecto de vida. También puede representar la obtención de una residencia permanente y la posibilidad de ejercer plenamente derechos que durante meses o años permanecieron en suspenso. También representa el reconocimiento de historias de resiliencia marcadas por la violencia, la persecución o el desplazamiento forzado. Mientras Tapachula continúa siendo la principal puerta de entrada para quienes buscan protección internacional en México, la capital se ha consolidado como uno de los principales destinos para quienes esperan una respuesta. De acuerdo con la Agencia de la ONU para Refugiados (ACNUR), en 2025 la Ciudad de México y su área metropolitana concentraron alrededor del 30% de todas las solicitudes de la condición de refugiado registradas en el país. Además, el número de solicitantes de asilo en la CDMX aumentó un 65% respecto al año anterior. Para miles de personas, la capital se ha convertido en un lugar donde la espera se vuelve parte de la vida cotidiana. Si bien debería tomar un máximo de 45 días, meses e incluso años pueden transcurrir antes de recibir una resolución. Mientras tanto, las personas intentan encontrar trabajo, vivienda y estabilidad sin saber si podrán permanecer en el país. Detrás de cada solicitud hay una historia de desplazamiento, pérdida y supervivencia. Esa espera tiene consecuencias concretas. A medida que los procesos se alargan, observamos un deterioro progresivo de la salud mental de las personas solicitantes de asilo. La obligada permanencia en este limbo administrativo, aunado a la dificultad para acceder a medios de vida estables, así como a la imposibilidad de planificar el futuro, afectan profundamente su bienestar y el de sus familias. A esto se suman enfermedades crónicas o tratables cuyo seguimiento se vuelve más difícil en un contexto de movilidad, precariedad económica e incertidumbre prolongada. La situación se vuelve aún más compleja en un contexto marcado por la reducción de recursos destinados a la atención de personas refugiadas, solicitantes de asilo y en situación de desplazamiento forzado interno. ACNUR reportó los mayores recortes de financiamiento de su historia, con una reducción cercana al 60% de su capacidad operativa. La organización también advirtió que esta disminución afectó directamente el apoyo brindado a la COMAR, cuyo presupuesto fue reducido en un 7% con respecto al año anterior. Aunque las instituciones mexicanas han realizado esfuerzos importantes para responder a una demanda creciente, las necesidades superan con frecuencia la capacidad disponible. Esta presión se traduce en procesos más largos, menor acompañamiento especializado y mayores dificultades para una población que ya enfrenta condiciones de vulnerabilidad. En este contexto, los equipos de Médicos Sin Fronteras observamos cada vez con mayor frecuencia las consecuencias de una espera prolongada. La oficina de COMAR en Naucalpan se ha convertido en uno de los principales puntos de atención de nuestros equipos. En 2026, en la Ciudad de México y el Estado de México hemos brindado 2 mil 624 consultas en total; 1 mil 958 atenciones en salud primaria y 444 sesiones de salud mental. El 63% de las personas atendidas fueron mujeres. A través de estos servicios acompañamos a personas que enfrentan síntomas de ansiedad, depresión, estrés postraumático y otros padecimientos relacionados con experiencias de violencia, desplazamiento e incertidumbre. La gravedad de estas afectaciones también se refleja en los 43 casos que hemos tratado bajo el enfoque MhGAP, que incluye atención farmacológica y seguimiento a personas con trastornos mentales moderados o severos. Al mismo tiempo, nuestros equipos de trabajo social se han adaptado para orientar a quienes intentan comprender procesos administrativos complejos mientras buscan trabajo, vivienda y acceso a derechos y servicios básicos en la ciudad y en la periferia. Mientras esperan una resolución, miles de personas intentan construir una vida en la Ciudad de México. Buscan trabajo, vivienda, atención médica y espacios donde sus hijos e hijas puedan crecer con seguridad y estabilidad. Sin embargo, los obstáculos administrativos, económicos y sociales terminan prolongando una situación de vulnerabilidad que dificulta la integración y limita la posibilidad de planificar su futuro. La Ciudad de México es un lugar que recibe a quienes buscan protección. El desafío pendiente es que esa protección pueda traducirse en posibilidades reales de integración, acceso a derechos, servicios y estabilidad. Reconocerlo implica fortalecer las condiciones que les permitan reconstruir sus vidas y continuar contribuyendo a las comunidades que hoy también son su hogar. Porque refugio no es solo llegar. Refugio también significa poder volver a vivir.",
-          "url": "https://elcomercio.pe/mundo/mexico/dia-mundial-de-los-refugiados-cdmx-una-ciudad-de-refugiados-sin-refugio-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/IMSMXV5Y3ZCANOCGRFTY44H73E.jpg?auth=d327b13bfa043b8a9d9873a9fc9e5af77321514a65dd9c02b65adb8584289438&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-20T03:26:25Z",
-          "embed_url": "https://elcomercio.pe/mundo/mexico/dia-mundial-de-los-refugiados-cdmx-una-ciudad-de-refugiados-sin-refugio-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Día Mundial de los Refugiados, CDMX: Una ciudad de refugiados sin refugio, Refugiados, México, MSF",
-            "México",
             "Mundo",
             "El Comercio"
           ],
@@ -4188,6 +4188,102 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d723fcff8015",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Orden om ryska hotet: ”Förberett oss på allt”",
+          "summary": "Ryssland bedöms ta allt större risker både politiskt och militärt i Sveriges närområde.",
+          "body_text": "Ryssland bedöms ta allt större risker både politiskt och militärt i Sveriges närområde. – Vi har förberett oss för scenarion i hela eskalationstrappan, säger Ewa Skoog Haslum, chef för Försvarsmaktens operationsledning. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. ÖB Michael Claesson har flera gånger varnat för att Ryssland kan komma att testa Nato, till exempel genom att besätta en mindre, obebodd ö i Östersjön. Ett syfte kan vara att se om Natoländerna kan hålla ihop och enas om att i ett sådant läge utlösa försvarsgarantin i Natofördragets artikel 5. Det kräver ett beslut på politisk nivå i det Nordatlantiska rådet, NAC. – Men i väntan på det så sitter inte vi och väntar på att det kollektiva beslutet ska fattas, säger Skoog Haslum. Hon understryker att alla Natoländer har ett ansvar som nation att planera mot och förebygga attacker på det egna territoriet. – Och har vi ett grannland som blir utsatt, då kommer vi att stödja det grannlandet, säger Skoog Haslum. Hon pekar på att Sverige har avtal med Finland, som gäller även utanför fredstid och samarbeten med flera andra länder. Dessutom finns EU:s försvarsklausul. Skoog Haslum är säker på att Nato kommer att agera snabbt i ett sådant pressat läge i syfte att aktivera artikel 5. – Skulle vi inte lita på det så skulle vi ju inte lita på Nato överhuvudtaget. Skoog Haslum bedömer att sannolikheten i dag är låg för att Ryssland skulle våga testa Nato genom att ta en bit mark.",
+          "url": "https://www.expressen.se/nyheter/sverige/forsvaret-om-ryska-hotet-forberett-oss-pa-allt/",
+          "image_url": "https://static.bonniernews.se/images/e6/d0/e6d014e6f4a34cf7aa7a439e64e8f3dc/16x9/original.png",
+          "published_at": "2026-06-20T11:31:57Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/forsvaret-om-ryska-hotet-forberett-oss-pa-allt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "14dc9515c0f8",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Kräver en formell ursäkt för slavhandeln",
+          "summary": "Afrikanska och karibiska länder kräver en formell ursäkt och kompensation från de länder som drog nytta av den transatlantiska slavhandeln som ett nästa steg i en FN-resolution.",
+          "body_text": "Afrikanska och karibiska länder kräver en formell ursäkt för den transatlantiska slavhandeln. FN erkände slavhandeln som det ”grövsta brottet mot mänskligheten” tidigare i år. Nu har en lista med 19 punkter presenterats som nästa steg mot rättvisa. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Afrikanska och karibiska länder kräver en formell ursäkt och kompensation från de länder som drog nytta av den transatlantiska slavhandeln, rapporterar Reuters . Kraven är en del av en 19 punkter lång ”reparationsplan”, som presenterades under fredagen efter en tredagarskonferens i Ghana . Planen är en del av arbetet med att skipa rättvisa och ge upprättelse åt de miljontals människor som tillfångatogs och förslavades. Européer tillfångatog och transporterade omkring 12 miljoner afrikaner och sålde dem som slavar mellan 1400- och 1800-talet, enligt FN. FN erkände den transatlantiska slavhandeln som det ”grövsta brottet mot mänskligheten” i en resolution tidigare i år. Resolutionen innebär bland annat att de ansvariga länderna ska be om ursäkt och betala skadestånd till de berörda nationerna. Som ett led i detta samlades företrädare från flera länder på en konferens i Ghana i veckan. – Inga av oss samlade i denna sal i dag kan hållas ansvariga, sade Ghanas president John Dramani Mahama och fortsatte: – Historien kräver inte skuld, men den kräver att vi tar ansvar. Reparationsplanen innehåller också krav på bland annat rättvis klimatfinansiering, och att plundrade kulturarv och mänskliga kvarlevor ska återlämnas. Dessutom ska en plan för att adressera de särskilt brutala övergreppen mot afrikanska kvinnor och barn under slavhandeln tas fram. Exakt vilka länder det är som ska be om ursäkt är inte specificerat.",
+          "url": "https://www.expressen.se/nyheter/varlden/afrikanska-och-karibiska-lander-kraver-formell-ursakt-for-slavhandeln/",
+          "image_url": "https://static.bonniernews.se/images/36/2f/362f5dda3636475698a014e276a6e779/16x9/original.jpg",
+          "published_at": "2026-06-20T10:55:15Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/afrikanska-och-karibiska-lander-kraver-formell-ursakt-for-slavhandeln/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "afa5665cf94e",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "JUST NU: Tänk på detta",
+          "summary": "VM-folkfesten när Sverige möter Nederländerna i kväll är hotad och Trafikverket står i beredskap för kaos. Sverige har drabbats av väderbaksmälla och SMHI varnar för kraftigt åskoväder som drar över större delen av landet under midsommardagen. Följ senaste nytt i direktrapporten nedan.",
+          "body_text": "Det är stora förseningar i tågtrafiken efter åskan. – Det är ett signalfel efter att ovädret har dragit förbi, säger Denny Josefsson, presstalesperson på Trafikverket. Felet påverkar sträckan mellan Kalmar och Göteborg. – Felet är mellan Alvesta och Rydaholm. Det är på den banan som går mellan Alvesta och Göteborg. Så det påverkar ju även ner till Kalmar kan man väl säga då, säger Denny Josefsson. – Vi har reparatörer på plats snart som ser över hur mycket vi behöver åtgärda där innan vi kan börja köra tåg igen. Så just nu har vi ingen prognos. SMHI:s väderapp har tekniska problem, skriver SMHI på sin hemsida. Även hemsidan krånglar. Användare som går in i appen möts av en sida som inte laddas klart. Istället dyker felmeddelanden upp, såsom \"Misslyckades hämta prognos\". Hemsidan har också ovanligt lång laddningstid. SMHI har skrivit felmeddelandet: \"Kan ej visa varningar för tillfället\". Leif Stenbom, SMHI:s webbkoordinator, säger att man jobbar hårt för att felsöka problemen. – Det är tråkig tajming. Vi har kallat in extra IT-personal som jobbar med detta nu, säger Leif Stenbom. Enligt Stenbom finns det ingen prognos för när teknikstrulet ska vara löst. SMHI har utfärdat gula varningar för åska på flera håll i landet. På sin hemsida listar Brandskyddsföreningen saker man ska tänka på när det åskar. ”När du ser blixten kan du räkna hur många sekunder det dröjer tills du hör åskan. Dela antalet sekunder med tre så får du fram hur många kilometer bort blixten är. Tar det 12 sekunder är blixten alltså 4 kilometer bort”.",
+          "url": "https://www.expressen.se/nyheter/vader/senast-nytt-om-askovadret-pa-midsommardagen/",
+          "image_url": "https://static.bonniernews.se/images/9c/93/9c93ad4f7bd949b380268456c174c167/16x9/original.jpg",
+          "published_at": "2026-06-20T09:55:18Z",
+          "embed_url": "https://www.expressen.se/nyheter/vader/senast-nytt-om-askovadret-pa-midsommardagen/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
+          "id": "e49102455c66",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tog klasskompisens skallben som trofé",
+          "summary": "Hon torterade ihjäl sin klasskamrat och tog med sig en bit av hennes skallben som trofé. Nu är Christa Pike, 50, bara månader från dödssprutan – men hennes advokater gör ett sista försök att rädda henne, skriver WATE 6 On Your Side.",
+          "body_text": "Hon torterade ihjäl sin klasskamrat och tog med sig en bit av hennes skallben som trofé. Nu är Christa Pike, 50, bara månader från dödssprutan – men hennes advokater gör ett sista försök att rädda henne, skriver WATE 6 On Your Side. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Hon var bara 18 år när hon dömdes för ett av USA:s mest uppmärksammade mord på 19-åriga Colleen Slemmer i Knoxville 1995. De två kvinnorna gick på samma yrkesprogram när Pike, hennes pojkvän och ytterligare en person lockade Slemmer till ett avskilt område. Där utsattes 19-åringen för en utdragen attack. Enligt åklagarna misshandlades hon svårt, skars med kniv och dödades till slut när Pike slog henne i huvudet med en sten. Under rättegången framkom också att Pike efter mordet tog med sig en bit av offrets skallben och visade upp den för andra. Åklagarna beskrev handlingen som ett av de mest brutala mordfallen i Tennessees moderna historia. Pike, som är den enda kvinnan på death row i Tennessee, ska enligt plan avrättas den 30 september. Om domen verkställs blir hon den första kvinnan som avrättas i delstaten på över 200 år , skriver AP. I en ny inlaga till Tennessees högsta domstol ifrågasätter hennes advokater delstatens metod för dödlig injektion. De kräver att en särskild granskare utses för att utreda om avrättningen kan genomföras utan att bryta mot USA konstitutionella förbud mot grymma och ovanliga straff. Enligt försvaret innebär Pikes fysiska och psykiska hälsotillstånd att dödssprutan riskerar att orsaka ett plågsamt dödsförlopp.",
+          "url": "https://www.expressen.se/nyheter/varlden/mordade-som-18-aring-nu-vadjar-advokaterna-for-att-stoppa-dodsstraffet/",
+          "image_url": "https://static.bonniernews.se/images/5d/e0/5de0b21506494e3c9cd3764bfa426c83/16x9/original.png",
+          "published_at": "2026-06-20T09:45:09Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/mordade-som-18-aring-nu-vadjar-advokaterna-for-att-stoppa-dodsstraffet/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 3
+        },
+        {
           "id": "98f943b28dfc",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4199,7 +4295,7 @@
           "summary": "Nu härjar åskovädret för fullt över Sverige. Redan under förmiddagen bekräftas tusentals blixtar och strömavbrott. – Åskväder ställer till det ibland, säger Johan Sennerö på Vattenfall.",
           "body_text": "Nu härjar åskovädret för fullt över Sverige. Redan under förmiddagen bekräftas tusentals blixtar och strömavbrott. – Åskväder ställer till det ibland, säger Johan Sennerö på Vattenfall. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. • Kontakta Expressen på tipsa@expressen.se • Här kan du läsa mer om hur du tipsar Expressen När västkustborna klev upp i morse var stormen redan ett faktum. Ovädret, som för med sig åska och risk för stora lokala regnmängder, drar in över stora delar av Sverige under midsommardagen. – Till Västkusten har skurarna och åskan redan nått. Med det menar vi ungefär norra halvan av Halland och norrut upp över Göteborg och Bohuskusten, Erik Höjgård-Olsen, meteorolog på SMHI . Sedan tidigare fanns en gul varning för åska, som styckades upp i går morse. – Varningarna är uppdelade efter gällande tid beroende på vilken del av landet som har störst risk vid vilken tid på dygnet, säger Erik Höjgård-Olsen. – Nu så rör det sig åt nordost och ser ut att nå Stockholmsområdet vid 15-16-tiden i eftermiddag. Därifrån drar det bort vid 19-20-tiden ungefär. Sen under kvällen och natten är det tyngdpunkt på Norrland i stället.",
           "url": "https://www.expressen.se/nyheter/vader/sa-ror-sig-askovadret-under-midsommardagen/",
-          "image_url": "https://static.bonniernews.se/images/1e/dd/1eddb49793f84ed8ac1f7b5087011147/16x9/original.png",
+          "image_url": "https://static.bonniernews.se/images/9f/cd/9fcd7be24efd4db1a896281f976861b4/16x9/original.png",
           "published_at": "2026-06-20T07:52:24Z",
           "embed_url": "https://www.expressen.se/nyheter/vader/sa-ror-sig-askovadret-under-midsommardagen/",
           "play_mode": "page_iframe",
@@ -4209,7 +4305,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 4
         },
         {
           "id": "138478d6edd7",
@@ -4233,7 +4329,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 5
         },
         {
           "id": "921c73e486e5",
@@ -4257,7 +4353,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "14da6a1116f3",
@@ -4281,7 +4377,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 7
         },
         {
           "id": "71720f37b8d0",
@@ -4291,109 +4387,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Tonåringar åtalas för planerad granatattack",
-          "summary": "Två unga åtalas – ska ha planerat granatattacker i Oslo",
-          "body_text": "Två unga pojkar misstänks ha planerat sprängdåd på flera platser i centrala Oslo. Planeringen ska ha skett via det svenska Foxtrot-nätverket, skriver Dagbladet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Enligt åklagaren hade pojkarna kontakt med personer som kallas ”Chicano” och ”Joker” via den krypterade appen Signal. Dessa personer kopplas till Foxtrot-nätverket i Sverige. Kontakten ska ha skett före den 26 september 2025. Pojkarna ska ha gått med på att ta emot och transportera sprängämnen till olika platser i Oslo . Planen var att kasta en eller flera granater, eller utföra explosioner på annat sätt. De greps av polisen den 15 oktober och satt häktade i en månad. De släpptes sedan. Åtalet väcktes av statsåklagare Arvid Malde. 17-åringens advokat vill inte kommentera. Pojken nekar till brott. Även 18-åringen nekar till brott och vill inte heller kommentera. Rättegången hålls i Haugaland och Sunnhordland tingsrätt den 17 och 18 augusti. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/tonaringar-atalas-for-planerad-granatattack-i-oslo/",
-          "image_url": "https://static.bonniernews.se/images/a5/6b/a56b7da6fb414c558026ccd4527cfb5b/16x9/original.jpg",
-          "published_at": "2026-06-20T05:03:49Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/tonaringar-atalas-for-planerad-granatattack-i-oslo/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "684f4993b7b8",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Carin Hjulström försvann från SVT – sen bytte hon liv • ”Längtade efter mörkret”",
-          "summary": "Hon har fortfarande inte fått någon förklaring av SVT. Från en dag till en annan försvann Carin Hjulström från tv-rutan. Sedan bytte hon liv. Ny karriär, ny stad, ny man. – Vi träffades på Tinder. Han flyttade in efter två veckor.",
-          "body_text": "Hon har fortfarande inte fått någon förklaring av SVT. Från en dag till en annan försvann Carin Hjulström från tv-rutan. – Vi träffades på Tinder. Han flyttade in efter två veckor. En trädgård i full blom och solsken, det är en perfekt försommardag i Stäket norr om Stockholm. Inne i villan har Carin Hjulström , 62, just avslutat förmiddagens skrivpass och blandar nu till en egenuppfunnen dryck bestående av två ingredienser. – Då blir det bubbel-lemonad, visst är det gott? Om det är en somrig miljö där Hjulström befinner sig så är det en kontrast mot miljön i hennes nya bok ”Fallhöjd”. Där är det vinter, snålblåst och en huvudkaraktär som mår skit. – Jag längtade efter att gå in i mörkret. Och den här gången har jag vågat blotta mig själv lite mer, gå närmare mina egna mörka sidor. Att huvudpersonen är en grävande reporter på SVT är knappast någon tillfällighet. Det var som programledare på tv som Carin Hjulström blev känd för svenska folket. Det är faktiskt en gåta, jag vet fortfarande inte Det abrupta slutet på SVT är hon rätt less på att prata om.",
-          "url": "https://www.expressen.se/nyheter/sverige/carin-hjulstrom-forsvann--fran-svt-sen-bytte-hon-liv-/",
-          "image_url": "https://static.bonniernews.se/images/a2/b2/a2b2903303ee4e058e34cd62d027ebe2/16x9/original.jpg",
-          "published_at": "2026-06-20T04:59:50Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/carin-hjulstrom-forsvann--fran-svt-sen-bytte-hon-liv-/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "017a51772051",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Såg lågor från taket – snabbt övertänd",
-          "summary": "Det började brinna i en villa i Kattarp utanför Malmö under natten. Huset och en närliggande lada är förstörda.",
-          "body_text": "Det började brinna i en villa i Kattarp utanför Malmö under natten. Huset och en närliggande lada är förstörda. – Det spred sig snabbt och har blivit helt övertänt, säger Cassandra Fridh, larm- och ledningsoperatör på Räddningstjänsten. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det började brinna i en villa i Kattarp utanför Malmö natten till lördag. Räddningstjänsten larmades av förbipasserande som såg att slog lågor från taket vid halv tre. Flera resurser skickades till platsen. Branden spred sig till en närliggande lada och vid klockan sex på morgonen är Räddningstjänsten kvar på platsen med flera resurser. Då brinner det fortfarande, men branden är under kontroll. – Vi är på plats och sköter bevakning just nu, säger Cassandra Fridh. De som bodde i villan var inte hemma utan ska ha kommit till platsen lite senare, enligt Räddningstjänsten. Ingen person ska ha kommit till skada, men villan och ladan är förstörda. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/sverige/villa-utanfor-malmo-forstord-i-brand-spred-sig-snabbt/",
-          "image_url": "https://static.bonniernews.se/images/c5/a5/c5a51e7d032544289ac3cc02373a2508/16x9/original.jpg",
-          "published_at": "2026-06-20T04:18:18Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/villa-utanfor-malmo-forstord-i-brand-spred-sig-snabbt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "c41c7f1c6623",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Polischefen fick sparken – efter att sonen rånades av gängkillar",
-          "summary": "Efter 24 år fick polischefen Max Forsström sparken, efter flera otillåtna slagningar i polisens IT-system. Nu ogiltigförklarar Arbetsdomstolen avskedandet.",
-          "body_text": "Premium Polischefen Max Forsströms son blev rånad och misstankarna riktades mot tre gängkillar. För att bedöma hotbilden slog kommissarien i polisens IT-system – och fick därför sparken efter 24 år i kåren. Nu slår Arbetsdomstolen fast: han skulle inte ha avskedats. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. Betyg på 1 201 vård- och hälsocentraler • Sök på din kommun ”De bor och äter gratis – han bidrar aldrig” • Edward Blom svarar 8 färska politiska snapsvisor av Viktor Barth-Kron",
-          "url": "https://www.expressen.se/nyheter/krim/polischefen-max-forsstrom-fick-sparken-far-ratt-mot-polisen/",
-          "image_url": "https://static.bonniernews.se/images/25/22/252267c5efb045e1a8fd712928f599dd/16x9/original.jpg",
-          "published_at": "2026-06-20T03:00:00Z",
-          "embed_url": "https://www.expressen.se/nyheter/krim/polischefen-max-forsstrom-fick-sparken-far-ratt-mot-polisen/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "46ad25db49af",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen Idag 05.57 Trump visade upp ”världens lyxigaste flygplan”",
+          "title": "Världen Idag 07.03 Tonåringar åtalas för planerad granatattack i Oslo",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/trump-visade-upp-varldens-lyxigaste-flygplan/",
+          "url": "https://www.expressen.se/nyheter/varlden/tonaringar-atalas-for-planerad-granatattack-i-oslo/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/trump-visade-upp-varldens-lyxigaste-flygplan/",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/tonaringar-atalas-for-planerad-granatattack-i-oslo/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4404,20 +4404,20 @@
           "sort_order": 8
         },
         {
-          "id": "1f831a06f9e3",
+          "id": "684f4993b7b8",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen Idag 03.52 Vanliga prylen exploderade i fickan: ”Extrem smärta”",
+          "title": "Sverige Idag 06.59 Carin Hjulström försvann från SVT – sen bytte hon liv",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/vanliga-prylen-exploderade-i-fickan-extrem-smarta/",
+          "url": "https://www.expressen.se/nyheter/sverige/carin-hjulstrom-forsvann--fran-svt-sen-bytte-hon-liv-/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/vanliga-prylen-exploderade-i-fickan-extrem-smarta/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/carin-hjulstrom-forsvann--fran-svt-sen-bytte-hon-liv-/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
