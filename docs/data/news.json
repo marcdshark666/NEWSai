@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T23:39:18Z",
+  "generated_at": "2026-06-30T01:36:35Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "0bbc2103e6c7",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kinesisk miljardär döms till 30 år",
+          "summary": "Nyheter från TV4: Kinesisk miljardär döms till 30 år",
+          "body_text": "En teckning på Guo Wengui i rätten, år 2023. Guo Wengui, en kinesisk affärsmagnat och dollarmiljardär i självvald exil, har dömts till 30 års fängelse i USA för omfattande ekonomiskt bedrägeri. Guo lämnade Kina för USA för cirka tio år sedan och är en uttalad kritiker av det kinesiska kommunistpartiet. Åklagarna har kallat hans bedrägeriupplägg för ”häpnadsväckande” och anklagat honom för att ha förstört hundratals människors liv mellan åren 2018 och 2023.",
+          "url": "https://www.tv4.se/artikel/tt-260630-usamiljardardom1-b868b1b6/kinesisk-miljardar-doms-till-30-ar",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlZtsSgSZxpCI/8a256d68649d19051110969bd2ea7e14/En_teckning_pa_Guo_Wengui_i_ratten__ar_2023.",
+          "published_at": "2026-06-30T00:19:31Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260630-usamiljardardom1-b868b1b6/kinesisk-miljardar-doms-till-30-ar",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "1c50720d02e9",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "20efa10e9770",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "0a5c503146a7",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "1dbdb9bc7080",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlmSgLoEKiQfY/705c8a52de5b4e71f9178b9ffec311d0/Glatt_pa_Wall_Street._Bilden_ar_tagen_25_juni.",
           "published_at": "2026-06-29T13:43:14Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260629-usabors1-84a577cb/wall-street-stangde-klart-uppat",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "f664668c0274",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Comcast knoppar av Sky och NBC i nytt börsbolag",
-          "summary": "Nyheter från TV4: Comcast knoppar av Sky och NBC i nytt börsbolag",
-          "body_text": "Mike Cavanagh kommer att ta vd-posten i det nya börsbolaget. Arkivbild. Comcast knoppar av Sky och NBC i nytt börsbolag Mediekonglomeratet Comcast planerar att separera sin verksamhet i två börsbolag, enligt ett pressmeddelande . Comcasts medie- och underhållningsverksamhet, som består av Sky och NBC Universal, kommer att knoppas av i ett eget börsbolag under namnet NBC Universal. Teknik- och telekomverksamheten blir kvar i Comcast. Avknoppningen väntas vara klar inom ett år, och befintliga aktieägare kommer att äga aktier i både Comcast och NBC Universal. ”Comcast kommer att bygga vidare på sin ledande position inom uppkoppling, medan NBC Universal, tillsammans med Sky, kommer att ha de varumärken och finansiella resurser som krävs för att konkurrera som ett globalt medie- och underhållningsföretag”, säger vd Mike Cavanagh i ett uttalande. Comcasts aktie rusar drygt 20 procent i förhandeln på Wall Street.",
-          "url": "https://www.tv4.se/artikel/tt-260629-comcastaffar1-f65c3e94/comcast-knoppar-av-sky-och-nbc-i-nytt-borsbolag",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdldoOCi_ftJdM/d6eef489bc41470f93f8977f0b6be3ae/Mike_Cavanagh_kommer_att_ta_vd-posten_i_det_nya_borsbolaget._Arkivbild._",
-          "published_at": "2026-06-29T11:37:11Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260629-comcastaffar1-f65c3e94/comcast-knoppar-av-sky-och-nbc-i-nytt-borsbolag",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -324,10 +324,10 @@
           "source_kind": "video",
           "title": "Rapport – Ons 24 jun 19:30",
           "summary": "Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter",
-          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KBwwAk4/rapport/ons-24-jun-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54381304/1782321841?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-30T23:59:00Z",
+          "published_at": "2026-07-01T23:59:00Z",
           "embed_url": "https://www.svtplay.se/video/KBwwAk4/rapport/ons-24-jun-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -348,10 +348,10 @@
           "source_kind": "video",
           "title": "Rapport – Idag 09:30",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KGVdRV1/rapport/idag-09-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54411991/1782719056?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T09:30:00Z",
+          "published_at": "2026-06-30T09:30:00Z",
           "embed_url": "https://www.svtplay.se/video/KGVdRV1/rapport/idag-09-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -372,10 +372,10 @@
           "source_kind": "video",
           "title": "Rapport – Idag 09:00",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KqPP3LR/rapport/idag-09-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54411409/1782717251?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T09:00:00Z",
+          "published_at": "2026-06-30T09:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KqPP3LR/rapport/idag-09-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -396,10 +396,10 @@
           "source_kind": "video",
           "title": "Rapport – Idag 08:30",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jR55QDr/rapport/idag-08-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54410890/1782715431?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T08:30:00Z",
+          "published_at": "2026-06-30T08:30:00Z",
           "embed_url": "https://www.svtplay.se/video/jR55QDr/rapport/idag-08-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -420,10 +420,10 @@
           "source_kind": "video",
           "title": "Rapport – Idag 08:00",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jgWWw3d/rapport/idag-08-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54410263/1782713596?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T08:00:00Z",
+          "published_at": "2026-06-30T08:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jgWWw3d/rapport/idag-08-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -444,10 +444,10 @@
           "source_kind": "video",
           "title": "Rapport – Idag 07:30",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jwqqB6m/rapport/idag-07-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54409624/1782711791?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T07:30:00Z",
+          "published_at": "2026-06-30T07:30:00Z",
           "embed_url": "https://www.svtplay.se/video/jwqqB6m/rapport/idag-07-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -468,10 +468,10 @@
           "source_kind": "video",
           "title": "Rapport – Lör 27 jun 19:30",
           "summary": "Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige",
-          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jEqqPvX/rapport/lor-27-jun-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54404569/1782581031?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T07:02:00Z",
+          "published_at": "2026-06-30T07:02:00Z",
           "embed_url": "https://www.svtplay.se/video/jEqqPvX/rapport/lor-27-jun-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -492,10 +492,10 @@
           "source_kind": "video",
           "title": "Rapport – Fre 26 jun 19:30",
           "summary": "Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige",
-          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/ePBB52p/rapport/fre-26-jun-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54401821/1782494651?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T07:02:00Z",
+          "published_at": "2026-06-30T07:02:00Z",
           "embed_url": "https://www.svtplay.se/video/ePBB52p/rapport/fre-26-jun-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -516,10 +516,10 @@
           "source_kind": "video",
           "title": "Rapport – Tor 25 jun 19:30",
           "summary": "Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan",
-          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/erQQm91/rapport/tor-25-jun-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54391285/1782408244?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T07:02:00Z",
+          "published_at": "2026-06-30T07:02:00Z",
           "embed_url": "https://www.svtplay.se/video/erQQm91/rapport/tor-25-jun-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -540,10 +540,10 @@
           "source_kind": "video",
           "title": "Rapport – Tis 23 jun 19:30",
           "summary": "Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas",
-          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/e6ddAJ3/rapport/tis-23-jun-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54373021/1782235437?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-29T07:02:00Z",
+          "published_at": "2026-06-30T07:02:00Z",
           "embed_url": "https://www.svtplay.se/video/e6ddAJ3/rapport/tis-23-jun-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -564,10 +564,10 @@
           "source_kind": "video",
           "title": "Rapport – Igår 22:45",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 4 min 57 sek Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 4 min 54 sek Publicerades: Igår 07:30 Igår 07:30 • 4 min 57 sek Publicerades: Igår 07:02 Igår 07:02 • 2 min 59 sek Publicerades: Sön 28 jun 23:05 Sön 28 jun • 4 min 54 sek Publicerades: Sön 28 jun 21:00 Sön 28 jun • 14 min Publicerades: Sön 28 jun 16:00 Sön 28 jun • 2 min 59 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KN334L4/rapport/igar-22-45?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54417274/1782766931?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-28T22:45:00Z",
+          "published_at": "2026-06-29T22:45:00Z",
           "embed_url": "https://www.svtplay.se/video/KN334L4/rapport/igar-22-45?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -588,10 +588,10 @@
           "source_kind": "video",
           "title": "Rapport – Igår 19:30",
           "summary": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar",
-          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min",
+          "body_text": "Försvaret: Mångmiljardaffär med Polen • Venezuela: Ännu saknas 50 000 efter skalven • Socialtjänsten: Utredning efter granskningar Mer om programmet Publicerades: Sön 28 jun 19:30 Sön 28 jun • 25 min Venezuela: Intesvit räddningsarbete • Ryska skuggflottan: Kan orsaka miljökatastrof i Östersjön • Ekologiskt kött: Minskad produktion Mer om programmet Venezuela: Nya efterskalv • Värmeböljan: Vädervarningar i Sydsverige Mer om programmet Venezuela: Dödstalen stiger • Fotbolls-VM: Jubel efter oavgjort mot Japan • Värmeböljan: Orange varning i Sydsverige Mer om programmet Venezuela: Många döda efter jordskalv • Almedalen: S och MP i fokus • Fotbolls-VM: Sverige möter Japan Mer om programmet Almedalsveckan: SD:s och Centerpartiets dag • Ryska skuggflottan: Olja för tusentals miljarder • Europa: Värmeböljan fortsätter Mer om programmet Almedalen: KD och L först ut • Äldrepolitik: 100 000 äldre är undernärda • Skarp AI-varning: Underrättelsetjänster oroas Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jmyy5zw/rapport/igar-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54416473/1782753838?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-28T19:30:00Z",
+          "published_at": "2026-06-29T19:30:00Z",
           "embed_url": "https://www.svtplay.se/video/jmyy5zw/rapport/igar-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -632,7 +632,7 @@
           "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Venezuela: Man räddad efter fem dygn • Terrordömd svensk: Kopplas till misstänkt rysk agent • Fotbolls-VM: Sveriges ödesmatch mot Frankrike Mer om programmet Almedalsveckan: Hur mår moderaterna? • Norge mot Frankrike: Vilka blir Sveriges motståndare? Mer om programmet Venezuela: Omfattande förödelse • Venezuela: Antalet döda stiger • Miljöpartiet och Socialdemokraterna: Blir det någon kärnkraft? Mer om programmet Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike • Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike Mer om programmet Kristdemokraterna: Vill se ”höger med hjärta” • Liberalerna: Kräver halverad statlig inkomstskatt Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KXvvN5E/aktuellt/ons-24-jun-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54371761/1782222286?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-30T23:59:00Z",
+          "published_at": "2026-07-01T23:59:00Z",
           "embed_url": "https://www.svtplay.se/video/KXvvN5E/aktuellt/ons-24-jun-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -680,7 +680,7 @@
           "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Venezuela: Man räddad efter fem dygn • Terrordömd svensk: Kopplas till misstänkt rysk agent • Fotbolls-VM: Sveriges ödesmatch mot Frankrike Mer om programmet Almedalsveckan: Hur mår moderaterna? • Norge mot Frankrike: Vilka blir Sveriges motståndare? Mer om programmet Venezuela: Omfattande förödelse • Venezuela: Antalet döda stiger • Miljöpartiet och Socialdemokraterna: Blir det någon kärnkraft? Mer om programmet Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike • Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike Mer om programmet Kristdemokraterna: Vill se ”höger med hjärta” • Liberalerna: Kräver halverad statlig inkomstskatt Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KRozDnb/aktuellt/ikvall-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54417082/1782759246?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-28T21:00:00Z",
+          "published_at": "2026-06-29T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KRozDnb/aktuellt/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -704,7 +704,7 @@
           "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Venezuela: Man räddad efter fem dygn • Terrordömd svensk: Kopplas till misstänkt rysk agent • Fotbolls-VM: Sveriges ödesmatch mot Frankrike Mer om programmet Almedalsveckan: Hur mår moderaterna? • Norge mot Frankrike: Vilka blir Sveriges motståndare? Mer om programmet Venezuela: Omfattande förödelse • Venezuela: Antalet döda stiger • Miljöpartiet och Socialdemokraterna: Blir det någon kärnkraft? Mer om programmet Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike • Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike Mer om programmet Kristdemokraterna: Vill se ”höger med hjärta” • Liberalerna: Kräver halverad statlig inkomstskatt Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KGVVXzW/aktuellt/fre-26-jun-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54400330/1782481557?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-28T21:00:00Z",
+          "published_at": "2026-06-29T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KGVVXzW/aktuellt/fre-26-jun-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -728,7 +728,7 @@
           "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Venezuela: Man räddad efter fem dygn • Terrordömd svensk: Kopplas till misstänkt rysk agent • Fotbolls-VM: Sveriges ödesmatch mot Frankrike Mer om programmet Almedalsveckan: Hur mår moderaterna? • Norge mot Frankrike: Vilka blir Sveriges motståndare? Mer om programmet Venezuela: Omfattande förödelse • Venezuela: Antalet döda stiger • Miljöpartiet och Socialdemokraterna: Blir det någon kärnkraft? Mer om programmet Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike • Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike Mer om programmet Kristdemokraterna: Vill se ”höger med hjärta” • Liberalerna: Kräver halverad statlig inkomstskatt Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KrQQNXB/aktuellt/tor-25-jun-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54389515/1782393373?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-28T21:00:00Z",
+          "published_at": "2026-06-29T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KrQQNXB/aktuellt/tor-25-jun-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -752,7 +752,7 @@
           "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Venezuela: Man räddad efter fem dygn • Terrordömd svensk: Kopplas till misstänkt rysk agent • Fotbolls-VM: Sveriges ödesmatch mot Frankrike Mer om programmet Almedalsveckan: Hur mår moderaterna? • Norge mot Frankrike: Vilka blir Sveriges motståndare? Mer om programmet Venezuela: Omfattande förödelse • Venezuela: Antalet döda stiger • Miljöpartiet och Socialdemokraterna: Blir det någon kärnkraft? Mer om programmet Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike • Almedalsveckan: Kan SD locka mittenväljarna? • Centerpartiet: Vill införa skattefri grundlön • Europa: Rekordvärme i Frankrike Mer om programmet Kristdemokraterna: Vill se ”höger med hjärta” • Liberalerna: Kräver halverad statlig inkomstskatt Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/eDvvyYv/aktuellt/tis-23-jun-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54371695/1782222105?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-28T21:00:00Z",
+          "published_at": "2026-06-29T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/eDvvyYv/aktuellt/tis-23-jun-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -762,6 +762,30 @@
           ],
           "is_live": true,
           "sort_order": 5
+        },
+        {
+          "id": "e8cc31c5bfa7",
+          "source_id": "svt-aktuellt",
+          "source_name": "Aktuellt",
+          "provider": "SVT Play",
+          "category": "Fordjupning",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna special: Ska jag göra botox?",
+          "summary": "Aldrig har det varit vanligare att skönhetsoperera sig: kvinnor åldras baklänges, skådisar kan inte röra en min och känslorna tycks försvagas av botoxade ansikten. När ett injicerat och lyft ansikte blir vanligare än ett som åldras naturligt måste vi fråga: Hur påverkar det oss? Programledare: Sara-Gül Kangöz.",
+          "body_text": "USA-reportage med Stefan Åsberg inför valet Aldrig har det varit vanligare att skönhetsoperera sig: kvinnor åldras baklänges, skådisar kan inte röra en min och känslorna tycks försvagas av botoxade ansikten. När ett injicerat och lyft ansikte blir vanligare än ett som åldras naturligt måste vi fråga: Hur påverkar det oss? Programledare: Sara-Gül Kangöz.",
+          "url": "https://www.svtplay.se/video/edPy94R/kulturnyheterna-special-ska-jag-gora-botox",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54003130/1775119687?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-04-07T00:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/edPy94R/kulturnyheterna-special-ska-jag-gora-botox",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Fordjupning",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 6
         },
         {
           "id": "9d57a55ee59c",
@@ -785,30 +809,6 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "b005ad0427b6",
-          "source_id": "svt-aktuellt",
-          "source_name": "Aktuellt",
-          "provider": "SVT Play",
-          "category": "Fordjupning",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Jazz: Hiromi's Sonicwonder",
-          "summary": "Den japanska pianisten Hiromi Uehara har varit en av den internationella jazzscenens fixstjärnor under sin mer än 20 år långa karriär, berömd för sin virtuosa teknik och energiska scenframträdanden. Här ser vi henne tillsammans med hennes nya grupp Sonicwonder i en inspelning från jazzfestivalen i Vienne sommaren 2024. (Frankrike, 2024)",
-          "body_text": "Den japanska pianisten Hiromi Uehara har varit en av den internationella jazzscenens fixstjärnor under sin mer än 20 år långa karriär, berömd för sin virtuosa teknik och energiska scenframträdanden. Här ser vi henne tillsammans med hennes nya grupp Sonicwonder i en inspelning från jazzfestivalen i Vienne sommaren 2024. (Frankrike, 2024) Hiromi's Sonicwonder - live at Jazz à Vienne",
-          "url": "https://www.svtplay.se/video/8WvrRRV/jazz-hiromis-sonicwonder",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54326020/1781614688?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-05-09T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8WvrRRV/jazz-hiromis-sonicwonder",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Fordjupning",
-            "SVT Play"
-          ],
-          "is_live": true,
           "sort_order": 7
         },
         {
@@ -845,7 +845,7 @@
           "source_kind": "video",
           "title": "Ett omöjligt uppdrag",
           "summary": "Dokumentär om förberedelserna inför Fredrik Skavlans nya intervju- och debattshow \"Skavlan & Sverige\". Han tar också med oss på en upptäcktsresa genom den svenska debatthistorien med mängder av roliga och häpnadsväckande klipp från gamla tv-debatter, kommenterade av dem som var med.",
-          "body_text": "Dokumentär om förberedelserna inför Fredrik Skavlans nya intervju- och debattshow \"Skavlan & Sverige\". Han tar också med oss på en upptäcktsresa genom den svenska debatthistorien med mängder av roliga och häpnadsväckande klipp från gamla tv-debatter, kommenterade av dem som var med.",
+          "body_text": "USA-reportage med Stefan Åsberg inför valet Dokumentär om förberedelserna inför Fredrik Skavlans nya intervju- och debattshow \"Skavlan & Sverige\". Han tar också med oss på en upptäcktsresa genom den svenska debatthistorien med mängder av roliga och häpnadsväckande klipp från gamla tv-debatter, kommenterade av dem som var med.",
           "url": "https://www.svtplay.se/video/KZmQAmn/ett-omojligt-uppdrag",
           "image_url": "https://www.svtstatic.se/image/custom/1144/53042556/1755083675?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": null,
@@ -1359,7 +1359,7 @@
           "source_kind": "video",
           "title": "Bortglömda fiskar",
           "summary": "Teatrar och konserthus lockar allt oftare med olika sidoevenemang. Teater Västernorrland har musikquiz, Folkoperan sänder poddar från sin foajé och på Göteborgsoperan kan man höra föredrag eller vara med och dansa. De uppsluppna tillställningarna, före och efter konserter och föreställningar, lockar också en ny sorts publik. En av Östersjöfestivalens mest omtalade programpunkter, förutom musiken i Berwaldhallen, har varit “Bortglömda fiskar” - en oväntad kulinarisk träff med Kålrotsakademin och provsmakning av “svensk sushi”. “Gensvaret från publiken är enormt. Man vill bli överraskad”, konstaterar Emma Nyberg, exekutiv producent på Berwaldhallen. Och på frågan om vad nors och näbbgädda har att göra i ett konserthus kommer det självklara svaret snabbt: “Att äta gott och att lyssna på klassisk musik hör ihop, båda skärper och öppnar våra sinnen.”",
-          "body_text": "Teatrar och konserthus lockar allt oftare med olika sidoevenemang. Teater Västernorrland har musikquiz, Folkoperan sänder poddar från sin foajé och på Göteborgsoperan kan man höra föredrag eller vara med och dansa. De uppsluppna tillställningarna, före och efter konserter och föreställningar, lockar också en ny sorts publik. En av Östersjöfestivalens mest omtalade programpunkter, förutom musiken i Berwaldhallen, har varit “Bortglömda fiskar” - en oväntad kulinarisk träff med Kålrotsakademin och provsmakning av “svensk sushi”. “Gensvaret från publiken är enormt. Man vill bli överraskad”, konstaterar Emma Nyberg, exekutiv producent på Berwaldhallen. Och på frågan om vad nors och näbbgädda har att göra i ett konserthus kommer det självklara svaret snabbt: “Att äta gott och att lyssna på klassisk musik hör ihop, båda skärper och öppnar våra sinnen.”",
+          "body_text": "Årets hetaste händelser inom forskningen Teatrar och konserthus lockar allt oftare med olika sidoevenemang. Teater Västernorrland har musikquiz, Folkoperan sänder poddar från sin foajé och på Göteborgsoperan kan man höra föredrag eller vara med och dansa. De uppsluppna tillställningarna, före och efter konserter och föreställningar, lockar också en ny sorts publik. En av Östersjöfestivalens mest omtalade programpunkter, förutom musiken i Berwaldhallen, har varit “Bortglömda fiskar” - en oväntad kulinarisk träff med Kålrotsakademin och provsmakning av “svensk sushi”. “Gensvaret från publiken är enormt. Man vill bli överraskad”, konstaterar Emma Nyberg, exekutiv producent på Berwaldhallen. Och på frågan om vad nors och näbbgädda har att göra i ett konserthus kommer det självklara svaret snabbt: “Att äta gott och att lyssna på klassisk musik hör ihop, båda skärper och öppnar våra sinnen.”",
           "url": "https://www.svtplay.se/video/KnDgx3Q/bortglomda-fiskar",
           "image_url": "https://www.svtstatic.se/image/custom/1144/51472876/1714382847?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2024-05-24T00:00:00Z",
@@ -1427,7 +1427,7 @@
           "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "url": "https://www.svtplay.se/video/Kn44Bo5/kulturnyheterna/ons-24-jun-18-24?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54381256/1782319266?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-06-30T23:59:00Z",
+          "published_at": "2026-07-01T23:59:00Z",
           "embed_url": "https://www.svtplay.se/video/Kn44Bo5/kulturnyheterna/ons-24-jun-18-24?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -1568,7 +1568,7 @@
           "source_kind": "video",
           "title": "Kulturnyheterna special: Har kulturen blivit dålig?",
           "summary": "Har dagens populärkultur blivit så näringsfattig av algoritmer, kommersialism och slappa kulturjournalister - att den håller på att tappa sin relevans? Kvar finns bara underhållning. Det påstår författaren W David Marx i boken Blank Space. Vi frågar oss om kulturen har blivit dålig trots att det aldrig varit så lätt att hitta musik, filmer, böcker och konst? Medverkande: Andres Lokko, musikjournalist Svd, Saga Cavallin, kulturjournalist Bon, och Ola Söderholm, kulturjournalist och poddare, Stormens utveckling. Programledare: Kristofer Lundström.",
-          "body_text": "USA-reportage med Stefan Åsberg inför valet Har dagens populärkultur blivit så näringsfattig av algoritmer, kommersialism och slappa kulturjournalister - att den håller på att tappa sin relevans? Kvar finns bara underhållning. Det påstår författaren W David Marx i boken Blank Space. Vi frågar oss om kulturen har blivit dålig trots att det aldrig varit så lätt att hitta musik, filmer, böcker och konst? Medverkande: Andres Lokko, musikjournalist Svd, Saga Cavallin, kulturjournalist Bon, och Ola Söderholm, kulturjournalist och poddare, Stormens utveckling. Programledare: Kristofer Lundström.",
+          "body_text": "USA-reportage med Stefan Åsberg inför valet De tio utvalda musikverken i den svenska kulturkanon",
           "url": "https://www.svtplay.se/video/8Wvr9yp/kulturnyheterna-special-1",
           "image_url": "https://www.svtstatic.se/image/custom/1144/53959483/1774369874?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-03-26T01:00:00Z",
@@ -1631,6 +1631,30 @@
           "sort_order": 9
         },
         {
+          "id": "38a0c85b2af2",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Sommarjazz: Eyolf Dale Trio",
+          "summary": "Norska jazztrion Eyolf Dale i en spelning med norska radioorkestern KORK, under ledning av dirigenten Miho Hazama. Musiken, som mestadels är komponerad av Dale själv, har arrangerats för symfoniorkester av bl.a. Petter Winroth, Helge Sunde och kvällens dirigent, Miho Hazama. Förutom Eyolf Dale själv vid pianot består trion av basisten Per Zanussi och Audun Kleive på trummor. (Norge, 2024)",
+          "body_text": "Norska jazztrion Eyolf Dale i en spelning med norska radioorkestern KORK, under ledning av dirigenten Miho Hazama. Musiken, som mestadels är komponerad av Dale själv, har arrangerats för symfoniorkester av bl.a. Petter Winroth, Helge Sunde och kvällens dirigent, Miho Hazama. Förutom Eyolf Dale själv vid pianot består trion av basisten Per Zanussi och Audun Kleive på trummor. (Norge, 2024)",
+          "url": "https://www.svtplay.se/video/j16G6Xb/sommarjazz-eyolf-dale-trio",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/52880580/1749648451?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2025-07-04T00:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/j16G6Xb/sommarjazz-eyolf-dale-trio",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        },
+        {
           "id": "b005ad0427b6",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
@@ -1652,30 +1676,6 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 10
-        },
-        {
-          "id": "98e8c109c790",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Mozart: Jupitersymfonin",
-          "summary": "Mozarts sista symfoni, nr 41 i C-dur KV 551, den som ofta kallas för Jupitersymfonin i ett framförande av norska radioorkestern KORK, under ledning av den tjeckiske dirigenten Petr Popelka. (Norge, 2024)",
-          "body_text": "Mozarts sista symfoni, nr 41 i C-dur KV 551, den som ofta kallas för Jupitersymfonin i ett framförande av norska radioorkestern KORK, under ledning av den tjeckiske dirigenten Petr Popelka. (Norge, 2024) Jupitersymfonien av Mozart med Petr Popelka",
-          "url": "https://www.svtplay.se/video/KnDAZ2Y/mozart-jupitersymfonin",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52752179/1746522711?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-05-09T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/KnDAZ2Y/mozart-jupitersymfonin",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
           "sort_order": 11
         }
       ]
@@ -1721,6 +1721,156 @@
           "sort_order": 0
         },
         {
+          "id": "4abee15948e4",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Congress made the ‘right decision’ to defund NPR, PBS, says Florida lawmaker | Fox News Video",
+          "summary": "Rep. Mike Haridopolos, R-Fla., breaks down Congress’ move to cut funding for public radio on ‘The Evening Edit.’",
+          "body_text": "Rep. Mike Haridopolos, R-Fla., breaks down Congress’ move to cut funding for public radio on ‘The Evening Edit.’",
+          "url": "https://www.foxnews.com/video/6399763633112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/ee822b1f-ad6d-451b-834d-124dd52950e6/0027b557-5bf7-45fe-8947-23de0e052ff2/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-06-30T00:19:19Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399763633112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "c36115c41c51",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Stephen Miller: Earthquake-based Temporary Protected Status is ‘total BS’ | Fox News Video",
+          "summary": "White House deputy chief of staff for policy Stephen Miller criticizes the Biden administration's decision to extend Temporary Protected Status for Haitian migrants on ‘The Ingraham Angle.’",
+          "body_text": "White House deputy chief of staff for policy Stephen Miller criticizes the Biden administration's decision to extend Temporary Protected Status for Haitian migrants on ‘The Ingraham Angle.’",
+          "url": "https://www.foxnews.com/video/6399763340112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2968360-7ee2-46c5-85dc-7190f6e1a803/3e76bda4-cc13-4aa4-b373-e8e66fdf373f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-30T00:15:52Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399763340112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "4da38ff74b72",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Democrats' argument for Supreme Court reform is ‘complete bunk’: Marc Thiessen | Fox News Video",
+          "summary": "Fox News contributor Marc Thiessen argues against the narrative of a politicized Supreme Court on ‘Special Report.’",
+          "body_text": "Fox News contributor Marc Thiessen argues against the narrative of a politicized Supreme Court on ‘Special Report.’ Fox News contributor Marc Thiessen argues against the narrative of a politicized Supreme Court, highlighting its recent rulings that both favor and oppose the President. Thiessen notes the Court consistently upholds the Constitution, regardless of political agendas, thereby invalidating arguments for \"packing the court.\"",
+          "url": "https://www.foxnews.com/video/6399763139112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea193e7-5762-4d3e-8fe1-978530d335dc/fe43545e-3db2-4b51-8b93-002b6626264b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-30T00:15:43Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399763139112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "9142b84edc76",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "This proved Democrats' push for Supreme Court reform is 'complete bunk': Marc Thiessen | Fox News Video",
+          "summary": "A 'Special Report' panel discusses the Supreme Court's controversial rulings and what's next for the United States and Iran.",
+          "body_text": "A 'Special Report' panel discusses the Supreme Court's controversial rulings and what's next for the United States and Iran. Bret Baier convenes a special report panel to unpack the Supreme Court's latest rulings, including decisions on presidential firing authority and the Federal Reserve's independence. Discussions extend to the ongoing US-Iran negotiations in Doha and concerns about Democratic Socialists' expansion into various states. Donald Trump weighs in on the perceived threat of communism.",
+          "url": "https://www.foxnews.com/video/6399762363112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db6fbc5a-1ee4-454c-b1b2-66b63a62e170/630753d4-2536-46c6-b100-7ce8f57bf9e8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-30T00:12:28Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399762363112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "7aa57094ebd3",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Pirro slams DC mayoral candidate Janeese Lewis George over bail stance: ‘This is lunacy’ | Fox News Video",
+          "summary": "U.S. Attorney for D.C. Jeanine Pirro dissects the growing influence of radical socialist and communist ideologies in the Democratic Party on ‘The Ingraham Angle.’",
+          "body_text": "U.S. Attorney for D.C. Jeanine Pirro dissects the growing influence of radical socialist and communist ideologies in the Democratic Party on ‘The Ingraham Angle.’ Laura Ingraham and Judge Jeanine Pirro dissect the growing influence of radical socialist and communist ideologies on the Democratic Party and American society. They discuss President Donald Trump's concerns, analyze rising crime in Washington D.C. under new leftist leadership, and condemn monument vandalism as signs of a nation veering towards harmful anti-capitalist sentiment.",
+          "url": "https://www.foxnews.com/video/6399760459112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7592181-f279-43a7-b7b8-c48e909e337e/7c8edb9f-3b5e-44f9-aa4b-623401f7c868/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-30T00:00:46Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399760459112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "bb7f35c41386",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Laura: This is a complete travesty | Fox News Video",
+          "summary": "Fox News host Laura Ingraham discusses efforts to ensure election integrity and the SAVE America Act on 'The Ingraham Angle.'",
+          "body_text": "Fox News host Laura Ingraham discusses efforts to ensure election integrity and the SAVE America Act on 'The Ingraham Angle.' Recent Supreme Court decisions on election integrity and presidential executive power draw strong reactions. Laura Ingraham, Stephen Miller, and Jonathan Turley discuss the implications of the 5-4 ruling regarding mail-in ballots and the Court's stance on firing agency heads. They also analyze the long-standing 'temporary' protected status program granted to Haitians in 2010 and Arizona's citizenship voting law set for review.",
+          "url": "https://www.foxnews.com/video/6399762118112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10a33804-7112-45e7-8c07-2911a57e1004/2ef282ca-72d8-4e97-bb12-f4080377e779/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-06-29T23:58:53Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399762118112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
           "id": "2075c5957748",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 7
         },
         {
           "id": "df4f9b3ed060",
@@ -1768,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 8
         },
         {
           "id": "825f6c4d76f9",
@@ -1793,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 9
         },
         {
           "id": "5a9822a442c2",
@@ -1810,156 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aba0fe2b-1273-4dfe-80af-84e33eb954cd/cac84f6a-055b-4292-b556-cc6372d3c3bf/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-06-29T23:15:18Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399758538112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "7211b0a744b7",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Brit Hume: Iran is ‘impossible’ to deal with | Fox News Video",
-          "summary": "Fox News chief political analyst Brit Hume discusses the challenges of negotiating with Iran and President Donald Trump's approach to talks with the regime on ‘Special Report.’",
-          "body_text": "Fox News chief political analyst Brit Hume discusses the challenges of negotiating with Iran and President Donald Trump's approach to talks with the regime on ‘Special Report.’",
-          "url": "https://www.foxnews.com/video/6399759691112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ee52733-9548-4639-a459-06515a920def/fe2261dd-6afb-4eab-9391-c413df27c05a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-29T23:12:26Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399759691112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "433acbbd03a8",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Coming up on Tuesday, June 30 edition of 'Special Report' | Fox News Video",
-          "summary": "'Special Report' executive editor Bret Baier gives a sneak peek at the next show.",
-          "body_text": "'Special Report' executive editor Bret Baier gives a sneak peek at the next show.",
-          "url": "https://www.foxnews.com/video/6399758203112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b45ccdb-3c7b-4cd8-963b-b3d113f22c54/271d4c27-9200-433f-97d8-f1e60a96622c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-29T23:01:45Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399758203112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "396a809071ca",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Texan offers free Texas ranch experience to World Cup tourists | Fox News Video",
-          "summary": "Bullbee owner Drew Haas details how he provides free authentic Texas ranch experiences, including two-step lessons, mud trucking, and barbecue, to World Cup tourists through Southern hospitality on 'The Story.'",
-          "body_text": "Bullbee owner Drew Haas details how he provides free authentic Texas ranch experiences, including two-step lessons, mud trucking, and barbecue, to World Cup tourists through Southern hospitality on 'The Story.' Fox News anchor Martha MacCallum highlights Drew Haas, a Texan who offers authentic, free ranch experiences to World Cup tourists. These activities, facilitated by community spirit and Southern hospitality, include mud trucking, helicopter rides, horseback riding, and two-step lessons.",
-          "url": "https://www.foxnews.com/video/6399757016112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bcb3805-ac1f-42a1-9766-911fe1cf9ca8/d6933a91-0b27-4c82-8f98-7d6fcd20cb50/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-29T22:46:26Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399757016112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "d5917585abc6",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "President Trump guards expectations ahead of Iran talks | Fox News Video",
-          "summary": "Fox News correspondent Alexandria Hoff has the latest on efforts in the Middle East as the U.S. and Iranian officials agree to meet for negotiations in Qatar on 'Special Report.'",
-          "body_text": "Fox News correspondent Alexandria Hoff has the latest on efforts in the Middle East as the U.S. and Iranian officials agree to meet for negotiations in Qatar on 'Special Report.' The Supreme Court issues pivotal rulings on presidential power, upholding President Trump's right to dismiss some federal officials while reining in authority over the Federal Reserve. US-Iran talks are set to resume amid heightened tensions in the Persian Gulf, and international teams, including US Marines, provide aid to Venezuela after recent earthquakes. Colorado primaries also see a progressive push to unseat incumbents.",
-          "url": "https://www.foxnews.com/video/6399758854112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae1d9e27-37df-47d7-bfad-05236608a1b4/9ef70bbd-f323-4729-a365-7e77a3c668f9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-29T22:45:53Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399758854112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "5c40d78c7c8d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "'Impossible to deal with': Brit Hume examines tense US-Iran negotiations | Fox News Video",
-          "summary": "Fox News chief political analyst Brit Hume discusses the path forward in handling the Iran conflict on 'Special Report'",
-          "body_text": "Fox News chief political analyst Brit Hume discusses the path forward in handling the Iran conflict on 'Special Report' Fox News Chief Political Analyst Brit Hume and host Bret Baier dissect U.S.-Iran relations, highlighting Iran's history of violating agreements. Hume raises concerns about the Iranian regime's control and reliability amidst President Trump's announced meeting in Doha. The discussion also touches on recent Iranian strikes and their impact on a potential denuclearization deal.",
-          "url": "https://www.foxnews.com/video/6399758851112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe314a5b-4cf0-4d13-ae1e-04284a96efa9/5b6c9fd4-b44f-4eaf-9b82-354ca5527de5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-29T22:45:14Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399758851112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "089e2156b5bb",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Country star Rodney Atkins warns youth about social media fads | Fox News Video",
-          "summary": "'Outnumbered' panelists discuss country star Rodney Atkins' advice for young people to avoid social media fads and the impact of social media on America's youth.",
-          "body_text": "'Outnumbered' panelists discuss country star Rodney Atkins' advice for young people to avoid social media fads and the impact of social media on America's youth.",
-          "url": "https://www.foxnews.com/video/6399757778112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c131f9db-c547-49fc-bed5-8a31c0ca9320/4e1fdbc2-ce06-44ad-84ff-aee52898e3d5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-06-29T22:44:17Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6399757778112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2137,6 +2137,30 @@
           "sort_order": 0
         },
         {
+          "id": "858e6258db4f",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+          "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
+          "body_text": "On the second-to-last day of Supreme Court decisions for this term, the justices delivered a big win for Donald Trump. But beneath the headline-generating ruling on expansive presidential power, the court gave some indications that this particular president may not always get what he wants – and the three liberal justices may have a few unexpected allies amongst the six conservative justices on the high court. Here's a look at the three biggest takeaways from an eventful Monday morning for America's judicial branch. Nearly 100 years ago, the Supreme Court ruled unanimously that Democratic President Franklin Delano Roosevelt did not have unchecked power to replace commissioners on regulatory agencies set up by Congress to be insulated from presidential authority. On Monday, facing a challenge by Republican Trump, the court decisively scrapped that precedent. \"Subordinates who exercise the president's power are subject to removal by him,\" Chief Justice John Roberts wrote in the majority opinion. \"Then, and only then, can they remain accountable to the president, and the president to the people.\" In this ruling, the court's justices divided into familiar groupings. All six conservatives, three of whom were appointed by Trump, found in favour of the president. The three liberal justices, all appointed by Democrats, dissented. The court's decision will give Trump, and all future presidents, broad power to remove and replace regulators from dozens of key agencies with whom they disagree. The Federal Trade Commission was directly at issue in this case (as it was in Roosevelt's), but the precedent the court sets here will apply to regulatory bodies interpreting election laws, issuing communications policies, resolving labour disputes and establishing financial and environmental regulations. By now, Americans are used to dramatic policy swings when a president of a different political party takes over the presidency – from Barack Obama to Trump to Joe Biden and back to Trump. This court's decision is sure to supercharge that trend. \"Ninety years of precedent has been completely and unequivocally overruled,\" Trump exclaimed in a Truth Social post after the decision, \"greatly increasing presidential power at a time when it is most needed!\" While the Supreme Court on Monday gave presidents broad powers over supposedly independent regulators, a different grouping of justices drew the line when it came to Trump's efforts to remove a member of the powerful Federal Reserve Board of Governors.",
+          "url": "https://www.bbc.com/news/articles/ceqdzd7zx24o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6822/live/fe2df4d0-7401-11f1-8e1d-bbbb1017d210.jpg",
+          "published_at": "2026-06-29T20:34:52Z",
+          "embed_url": "https://www.bbc.com/news/articles/ceqdzd7zx24o",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "51685e5bd6c3",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "418794f251cd",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "83ee7316935f",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "899f5810bc57",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "84b642698779",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "9a54b290e52b",
@@ -2271,30 +2295,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/23aa/live/5d149fa0-73ba-11f1-8546-8f19e4fe30f4.jpg",
           "published_at": "2026-06-29T14:10:45Z",
           "embed_url": "https://www.bbc.com/news/articles/c992k7zk981o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "9889c88f55d2",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-          "summary": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
-          "body_text": "The US Supreme Court will not hear an appeal requested by President Donald Trump to review the civil case that found he defamed and sexually abused writer E Jean Carroll. A New York jury awarded Carroll $5m (£3.6m) in damages in 2023 over her civil claim that Trump sexually assaulted her in the 1990s, and then branded the incident a hoax on social media. Trump denied the allegations and repeatedly claimed that the judge who oversaw the civil trial improperly allowed evidence to be presented that affected how the jury viewed him. A federal appeals court agreed with the jury's verdict last year and said a new trial was not warranted. Trump then asked the highest court to intervene. The Supreme Court gave no details about their decision not to take up the case, as is customary. It was Trump's final hope of overturning the jury's unanimous verdict and means he will have to pay Carroll the damages she had been awarded. Carroll's attorney, Roberta Kaplan, said in a statement that the Supreme Court's decision \"affirms once and for all the jury's unanimous verdict that President Donald J Trump sexually assaulted and defamed E Jean Carroll\". \"His multiple efforts to appeal that verdict have all failed and today's ruling ends his quest to avoid accountability for his actions,\" she added. Carroll's counsel had not previously commented on the president's decision to bring a challenge to the Supreme Court. In a lengthy Truth Social post after the ruling, Trump said he would continue to fight against the \"Weaponization and Lawfare Case\" including \"the ridiculous claim of Defamation, with all of my power and strength\". \"This Case is really against the United States of America, and all it stands for, and should never be allowed to happen to another President, or Candidate to be,\" he continued. \"New York State created a Law, for an instant speck of time, going back many decades, in order to wrongfully \"nab\" me. It was tailormade, and this Injustice cannot be allowed to stand!\"",
-          "url": "https://www.bbc.com/news/articles/cn8q2z5wpn2o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7b79/live/b1279970-73c5-11f1-a785-7f6fcfc76fe8.jpg",
-          "published_at": "2026-06-29T14:04:24Z",
-          "embed_url": "https://www.bbc.com/news/articles/cn8q2z5wpn2o",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2546,30 +2546,56 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "81e9c034e997",
+          "id": "c254b8f35323",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Paraguay a octavos de final: elimina a Alemania por penales",
-          "summary": "Partido Paraguay vs Alemania EN VIVO ONLINE por dieciseisavos de final del Mundial 2026 | lbposting",
-          "body_text": "Partido Paraguay vs Alemania EN VIVO ONLINE por dieciseisavos de final del Mundial 2026 | lbposting",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/paraguay-vs-alemania-en-vivo-online-por-dieciseisavos-de-final-del-mundial-2026-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/TW3BHGJTO5C6VG54N42JKOSTTA.png?auth=29a83c1f1a48bd59104852fad1e1329e974563089bc91d65d57da80e13676c99&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-29T23:36:39Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-mundial/paraguay-vs-alemania-en-vivo-online-por-dieciseisavos-de-final-del-mundial-2026-lbposting-noticia/",
+          "title": "Países Bajos-Marruecos EN VIVO por DirecTV y DGO: minuto a minuto del partido por el Mundial 2026",
+          "summary": "Países Bajos vs Marruecos EN VIVO HOY desde el Estadio Monterrey: transmisión del partido por los dieciseisavos de final del Mundial 2026.",
+          "body_text": "Países Bajos vs Marruecos EN VIVO HOY desde el Estadio Monterrey: transmisión del partido por los dieciseisavos de final del Mundial 2026.",
+          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/paises-bajos-vs-marruecos-en-vivo-gratis-hoy-ver-transmision-del-partido-por-mundial-2026-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/JLSNTRRDKVCKLC6RT3P4C6PTCA.png?auth=f4e66766770768ecbc5ad337133bb15e4498ffa3ad67af223d5fbc996998f8ae&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-30T01:35:44Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/futbol-mundial/paises-bajos-vs-marruecos-en-vivo-gratis-hoy-ver-transmision-del-partido-por-mundial-2026-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Paraguay vs Alemania, Paraguay vs Alemania en vivo, Partido Paraguay vs Alemania, Canales Paraguay vs Alemania, Alemania vs Paraguay EN VIVO por el Mundial 2026, PARAGUAY vs ALEMANIA EN VIVO MUNDIAL 2026",
+            "Países Bajos vs Marruecos, Países Bajos vs Marruecos en vivo, Países Bajos vs Marruecos en directo, Países Bajos vs Marruecos gratis, Países Bajos vs Marruecos online, Países Bajos vs Marruecos por internet, Países Bajos vs Marruecos por streaming, ver Países Bajos vs Marruecos, partido Países Bajos vs Marruecos, donde ver Países Bajos vs Marruecos, donde pasan Países Bajos vs Marruecos, en que canal ver Países Bajos vs Marruecos, en que canal transmiten Países Bajos vs Marruecos, minuto a minuto Países Bajos vs Marruecos, a que hora juega Países Bajos vs Marruecos, a que hora juega Países Bajos vs Marruecos hoy, cuando juega Países Bajos vs Marruecos, donde juega Países Bajos vs Marruecos, Mundial 2026, Copa del Mundo 2026, Copa Mundial de la FIFA 2026, DirecTV, DSports, DGO, Paramount+, partidos de hoy, futbol en vivo",
             "Fútbol mundial",
             "Senaste",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "b60967e6c59c",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Horóscopo de hoy, 29 de junio: Lee las predicciones más exactas para tu signo",
+          "summary": "Consulta tu horóscopo de hoy, lunes 29 de junio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, lunes 29 de junio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: se darán las condiciones para dejar atrás las trabas y avanzar con las tareas. Amor: necesitará moderar sus impulsos si desea concretar un encuentro romántico. Trabajo y negocios: momento para estar alerta, revisar posibles fallas y evitar algún altibajo. Amor: descubrirá que posee una intensa afinidad con la persona más inesperada. Trabajo y negocios: resolverá un desacuerdo con el entorno y la cooperación comenzará a crecer. Amor: su encanto se destacará en un encuentro y todo le llevará hacia un romance. Trabajo y negocios: tomará una decisión que está injustamente postergada y las trabas cederán. Amor: los gestos más que las palabras crearán una reconciliación o un romance. Trabajo y negocios: se avecinan cambios de cierta complejidad, pero tendrán resultado positivo. Amor: algunas cosas resueltas o bien hechas darán optimismo y armonía a la pareja. Trabajo y negocios: su intuición se pondrá en alerta ante una propuesta que no es confiable. Amor: las cosas en la pareja estarán en calma, pero un cambio será inevitable. Trabajo y negocios: si mantiene un férreo control, pronto llegará un beneficio inesperado. Amor: las diferencias en la pareja crearán inquietud pero un gesto amoroso las vencerá. Trabajo y negocios: descubrirá la falta de avance en el trabajo y tomará duras iniciativas. Amor: su fuerte encanto generará situaciones incómodas en el entorno pero lo disfrutará. Trabajo y negocios: surgirá propuesta que solo asegura esfuerzo y poco beneficio. Amor: la expresión del afecto será crucial para recuperar la calidez y vencer la indiferencia. Trabajo y negocios: se dirá que un proyecto es genial pero será algo decepcionante. Amor: sin razones, germinará la idea según la cual su posición en la pareja es insegura. Trabajo y negocios: necesitará poner orden y alejará a gente poco idónea que no ayuda. Amor: en la pareja se debatirán los impulsos por disponer de espacios propios y acordarán. Trabajo y negocios: una propuesta será del agrado del entorno que decidirá cooperar en todo. Amor: surgirán dulces vivencias que fortalecerán a la pareja y permitirán un nuevo comienzo. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: ROMÁNTICA E INCLINADA A EMBELLECER LA VIDA ÍNTIMA. NO LE GUSTA DISCUTIR.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-29-de-junio-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-29T23:35:09Z",
+          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
+            "Vida social",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "4f67030d2980",
@@ -2595,7 +2621,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "df6eac14188b",
@@ -2621,7 +2647,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "36ca32710275",
@@ -2643,32 +2669,6 @@
           "tags": [
             "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
             "Venezuela",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "4d54aab09596",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Horóscopo de hoy, 28 de junio: estas son las predicciones más exactas",
-          "summary": "Consulta tu horóscopo de hoy, domingo 28 de junio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, domingo 28 de junio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Amor: dejará de lado compromisos y se gratificará en una cita con la persona que desea conocer. Salud: una dolencia tendrá alivio. Sorpresa: encuentro divertido. Amor: se relacionará sin la timidez habitual, mostrará su encanto y una situación romántica surgirá. Salud: optimismo y buen ánimo. Sorpresa: conflicto resuelto. Amor: momento de intensa vibración en la pareja, la intimidad estará plena de dulces vivencias. Salud: un ejercicio será relajante. Sorpresa: curiosa revelación. Amor: sin despegar los pies de la tierra, se sumergirá en una relación que resultará inolvidable. Salud: un pequeño cambio ayudará. Sorpresa: idea controversial. Amor: se disiparán las dudas y temores y el clima de la relación ayudará a recuperar la calidez. Salud: un estudio será oportuno. Sorpresa: error subsanado. Amor: por actuar con cierta ansiedad, podría impedirle el disfrute de un momento hermoso. Salud: un cambio de dieta ayudará. Sorpresa: lección aprendida. Amor: la fuerte calidez en la pareja despertará estímulos nunca antes experimentados. Salud: un tratamiento será exitoso. Sorpresa: convocatoria inesperada. Amor: su fuerte encanto impactará en una persona y de inmediato, llamará su atención. Salud: una rutina será desechada. Sorpresa: una ayuda llegará a tiempo. Amor: sentirá que aún conserva afinidad con alguien de un pasado compartido. Salud: las caminatas harán bien. Sorpresa: alguien se enojará. Amor: parecerá que su pareja se empeña en gastar pero tendrá una razón. Salud: un chequeo será oportuno. Sorpresa: recupera algo extraviado. Amor: si hay mayor o menor compromiso será una discusión que crece día a día en la pareja. Salud: un dolor tendrá alivio. Sorpresa: esfuerzo recompensado. Amor: el intercambio amoroso crecerá y permitirá que cada momento de la pareja sea feliz. Salud: mejorará la calidad del sueño. Sorpresa: alguien sensible se acercará. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: BENEVOLENTE Y CON ALMA DE ARTISTA. A VECES ELUDE LOS COMPROMISOS FORMALES.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-28-de-junio-las-predicciones-mas-precisas-para-tu-signo-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-28T20:11:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
-            "Vida social",
             "Senaste",
             "El Comercio"
           ],
@@ -2823,6 +2823,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "b60967e6c59c",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Horóscopo de hoy, 29 de junio: Lee las predicciones más exactas para tu signo",
+          "summary": "Consulta tu horóscopo de hoy, lunes 29 de junio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, lunes 29 de junio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: se darán las condiciones para dejar atrás las trabas y avanzar con las tareas. Amor: necesitará moderar sus impulsos si desea concretar un encuentro romántico. Trabajo y negocios: momento para estar alerta, revisar posibles fallas y evitar algún altibajo. Amor: descubrirá que posee una intensa afinidad con la persona más inesperada. Trabajo y negocios: resolverá un desacuerdo con el entorno y la cooperación comenzará a crecer. Amor: su encanto se destacará en un encuentro y todo le llevará hacia un romance. Trabajo y negocios: tomará una decisión que está injustamente postergada y las trabas cederán. Amor: los gestos más que las palabras crearán una reconciliación o un romance. Trabajo y negocios: se avecinan cambios de cierta complejidad, pero tendrán resultado positivo. Amor: algunas cosas resueltas o bien hechas darán optimismo y armonía a la pareja. Trabajo y negocios: su intuición se pondrá en alerta ante una propuesta que no es confiable. Amor: las cosas en la pareja estarán en calma, pero un cambio será inevitable. Trabajo y negocios: si mantiene un férreo control, pronto llegará un beneficio inesperado. Amor: las diferencias en la pareja crearán inquietud pero un gesto amoroso las vencerá. Trabajo y negocios: descubrirá la falta de avance en el trabajo y tomará duras iniciativas. Amor: su fuerte encanto generará situaciones incómodas en el entorno pero lo disfrutará. Trabajo y negocios: surgirá propuesta que solo asegura esfuerzo y poco beneficio. Amor: la expresión del afecto será crucial para recuperar la calidez y vencer la indiferencia. Trabajo y negocios: se dirá que un proyecto es genial pero será algo decepcionante. Amor: sin razones, germinará la idea según la cual su posición en la pareja es insegura. Trabajo y negocios: necesitará poner orden y alejará a gente poco idónea que no ayuda. Amor: en la pareja se debatirán los impulsos por disponer de espacios propios y acordarán. Trabajo y negocios: una propuesta será del agrado del entorno que decidirá cooperar en todo. Amor: surgirán dulces vivencias que fortalecerán a la pareja y permitirán un nuevo comienzo. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: ROMÁNTICA E INCLINADA A EMBELLECER LA VIDA ÍNTIMA. NO LE GUSTA DISCUTIR.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-29-de-junio-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-29T23:35:09Z",
+          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
+            "Vida social",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "4f67030d2980",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2846,7 +2872,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "df6eac14188b",
@@ -2872,7 +2898,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "36ca32710275",
@@ -2894,32 +2920,6 @@
           "tags": [
             "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
             "Venezuela",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "4d54aab09596",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Horóscopo de hoy, 28 de junio: estas son las predicciones más exactas",
-          "summary": "Consulta tu horóscopo de hoy, domingo 28 de junio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, domingo 28 de junio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Amor: dejará de lado compromisos y se gratificará en una cita con la persona que desea conocer. Salud: una dolencia tendrá alivio. Sorpresa: encuentro divertido. Amor: se relacionará sin la timidez habitual, mostrará su encanto y una situación romántica surgirá. Salud: optimismo y buen ánimo. Sorpresa: conflicto resuelto. Amor: momento de intensa vibración en la pareja, la intimidad estará plena de dulces vivencias. Salud: un ejercicio será relajante. Sorpresa: curiosa revelación. Amor: sin despegar los pies de la tierra, se sumergirá en una relación que resultará inolvidable. Salud: un pequeño cambio ayudará. Sorpresa: idea controversial. Amor: se disiparán las dudas y temores y el clima de la relación ayudará a recuperar la calidez. Salud: un estudio será oportuno. Sorpresa: error subsanado. Amor: por actuar con cierta ansiedad, podría impedirle el disfrute de un momento hermoso. Salud: un cambio de dieta ayudará. Sorpresa: lección aprendida. Amor: la fuerte calidez en la pareja despertará estímulos nunca antes experimentados. Salud: un tratamiento será exitoso. Sorpresa: convocatoria inesperada. Amor: su fuerte encanto impactará en una persona y de inmediato, llamará su atención. Salud: una rutina será desechada. Sorpresa: una ayuda llegará a tiempo. Amor: sentirá que aún conserva afinidad con alguien de un pasado compartido. Salud: las caminatas harán bien. Sorpresa: alguien se enojará. Amor: parecerá que su pareja se empeña en gastar pero tendrá una razón. Salud: un chequeo será oportuno. Sorpresa: recupera algo extraviado. Amor: si hay mayor o menor compromiso será una discusión que crece día a día en la pareja. Salud: un dolor tendrá alivio. Sorpresa: esfuerzo recompensado. Amor: el intercambio amoroso crecerá y permitirá que cada momento de la pareja sea feliz. Salud: mejorará la calidad del sueño. Sorpresa: alguien sensible se acercará. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: BENEVOLENTE Y CON ALMA DE ARTISTA. A VECES ELUDE LOS COMPROMISOS FORMALES.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-28-de-junio-las-predicciones-mas-precisas-para-tu-signo-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-28T20:11:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
-            "Vida social",
             "Economia",
             "El Comercio"
           ],
@@ -3100,30 +3100,56 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "fd32f60305e0",
+          "id": "71e761645196",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Efemérides del 29 de junio: ¿Qué pasó en el mundo un día como hoy?",
-          "summary": "Conoce qué sucedía en el mundo un 29 de junio, un día cargado de nacimientos, muertes y otros momentos históricos que conmocionaron al mundo.",
-          "body_text": "En un 29 de junio, pero de 1976, hace 50 años, las islas Seychelles consiguen la independencia, tras 162 años de dominio colonial británico. 1613.- Un incendio destruye el teatro ‘The Globe’ de Londres, en el que estrenaba sus obras William Shakespeare. 1776.- Los franciscanos Francisco Palou y Pedro Cambon comienzan a construir la misión de San Francisco, origen de esta ciudad californiana. 1900.- Se crea la Fundación Nobel, que otorga desde el año siguiente los premios que llevan su nombre. 1913.- Comienza la segunda guerra de los Balcanes, entre Bulgaria y sus antiguos aliados de la Liga Balcánica, Rumanía y el Imperio otomano. 1970.- España y la CEE firman en Luxemburgo un Acuerdo Comercial Preferencial para reducir derechos de aduana. 1974.- El bailarín ruso Baryshnikov deserta de la URSS en Toronto (Canadá), durante una gira del Bolshoi. - Isabel Martínez de Perón asume la presidencia interina de Argentina por la enfermedad de su marido, quien fallece dos días después. 1984.- El ‘Grupo de Contadora’ para la pacificación de Centroamérica, Premio Príncipe de Asturias de Cooperación Iberoamericana. 1987.- Profanan la tumba del expresidente argentino Juan Domingo Perón, en el cementerio bonaerense de La Cacharita, y roban sus manos. 1992.- Asesinato del presidente argelino, Mohamed Budiaf. 1995.- El transbordador estadounidense ‘Atlantis’ y la estación rusa ‘Mir’ se unen en el espacio. 2005.- Declarada Reserva de la Biosfera de la Unesco parte del territorio de la isla española de Gran Canaria 2007.- Apple pone a la venta el primer iPhone, presentado por Steve Jobs el 9 de enero. 1540.- Ana de Mendoza de la Cerda, princesa de Éboli. 1886.- Robert Schumann, político francés, uno de los ‘padres de la Unión Europa’. 1900.- Antoine de Saint-Exupéry, novelista francés. 1905.- Manuel Altolaguirre, poeta y productor de cine español. 1925.- Giorgio Napolitano, presidente italiano. 1930.- Oriana Fallaci, periodista y escritora italiana. 1957.- ‘Ouka Leele’ (Bárbara Allende Gil de Biedma), fotógrafa y artista española. 1979.- Alejo Sauras, actor español. 2003.- Jude Bellingham, futbolista británico. 1315.- Ramon Llull, teólogo, filósofo y escritor español. 1940.- Paul Klee, pintor suizo. 1975.- Dionisio Ridruejo, escritor y político español. 1979.- Blas de Otero, poeta español. 1982.- Pierre Balmain, diseñador francés. 1995.- Lana Turner, actriz estadounidense. 2000.- Vittorio Gassman, actor italiano. 2003.- Katharine Hepburn, actriz estadounidense. 2019.- Guillermo Mordillo, humorista gráfico argentino. 2020.- Carl Reiner, cómico estadounidense. 2021.- Delia Fiallo, escritora y guionista cubana. 2022.- María Rosa de Madariaga, historiadora española. - Ralph ‘Sonny’ Barger, fundador del club de moteros Los Ángeles del Infierno. 2025.- José Luis Fontela, escritor, político y pintor español.",
-          "url": "https://elcomercio.pe/mundo/actualidad/efemerides-del-29-de-junio-que-paso-en-el-mundo-un-dia-como-hoy-islas-seychelles-reino-unido-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6U2IFLUS65ANHDRFM2XC5LBSRI.jpg?auth=396289493dedddb8356470b615419b96c8061c6c77103dcde6ce71997f417c2c&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-29T23:35:23Z",
-          "embed_url": "https://elcomercio.pe/mundo/actualidad/efemerides-del-29-de-junio-que-paso-en-el-mundo-un-dia-como-hoy-islas-seychelles-reino-unido-ultimas-noticia/",
+          "title": "Terremotos en Venezuela EN VIVO: cifra de muertos, heridos y últimas noticias tras sismos del 24 de junio",
+          "summary": "Terremotos en Venezuela EN VIVO: cifra de muertos, heridos y últimas noticias tras sismos del 24 de junio",
+          "body_text": "Terremotos en Venezuela EN VIVO: cifra de muertos, heridos y últimas noticias tras sismos del 24 de junio",
+          "url": "https://elcomercio.pe/mundo/venezuela/terremotos-en-venezuela-en-vivo-cifra-de-muertos-heridos-tareas-de-rescate-y-ultimas-noticias-tras-sismos-que-dejan-mas-de-mil-fallecidos-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ILDB4MDUEFBKHN2A5QDUAGBIEU.jpg?auth=e2dbe2c15ec18b420bfb940cb9f257917533896ac4570b9f2f927a69907f264f&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-30T00:52:30Z",
+          "embed_url": "https://elcomercio.pe/mundo/venezuela/terremotos-en-venezuela-en-vivo-cifra-de-muertos-heridos-tareas-de-rescate-y-ultimas-noticias-tras-sismos-que-dejan-mas-de-mil-fallecidos-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Efemérides del 29 de junio, Independencia de Seychelles, Seychelles 1976, Historia de Seychelles, Reino Unido y Seychelles, Colonización británica, Qué pasó un 29 de junio, Acontecimientos históricos de junio",
-            "Actualidad",
+            "terremoto en venezuela, terremotos en venezuela en vivo, terremotos en venezuela hoy, Noticias de Venezuela, Noticias del terremoto en Venezuela, La Guaira",
+            "Venezuela",
             "Mundo",
             "El Comercio"
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "b60967e6c59c",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Horóscopo de hoy, 29 de junio: Lee las predicciones más exactas para tu signo",
+          "summary": "Consulta tu horóscopo de hoy, lunes 29 de junio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, lunes 29 de junio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: se darán las condiciones para dejar atrás las trabas y avanzar con las tareas. Amor: necesitará moderar sus impulsos si desea concretar un encuentro romántico. Trabajo y negocios: momento para estar alerta, revisar posibles fallas y evitar algún altibajo. Amor: descubrirá que posee una intensa afinidad con la persona más inesperada. Trabajo y negocios: resolverá un desacuerdo con el entorno y la cooperación comenzará a crecer. Amor: su encanto se destacará en un encuentro y todo le llevará hacia un romance. Trabajo y negocios: tomará una decisión que está injustamente postergada y las trabas cederán. Amor: los gestos más que las palabras crearán una reconciliación o un romance. Trabajo y negocios: se avecinan cambios de cierta complejidad, pero tendrán resultado positivo. Amor: algunas cosas resueltas o bien hechas darán optimismo y armonía a la pareja. Trabajo y negocios: su intuición se pondrá en alerta ante una propuesta que no es confiable. Amor: las cosas en la pareja estarán en calma, pero un cambio será inevitable. Trabajo y negocios: si mantiene un férreo control, pronto llegará un beneficio inesperado. Amor: las diferencias en la pareja crearán inquietud pero un gesto amoroso las vencerá. Trabajo y negocios: descubrirá la falta de avance en el trabajo y tomará duras iniciativas. Amor: su fuerte encanto generará situaciones incómodas en el entorno pero lo disfrutará. Trabajo y negocios: surgirá propuesta que solo asegura esfuerzo y poco beneficio. Amor: la expresión del afecto será crucial para recuperar la calidez y vencer la indiferencia. Trabajo y negocios: se dirá que un proyecto es genial pero será algo decepcionante. Amor: sin razones, germinará la idea según la cual su posición en la pareja es insegura. Trabajo y negocios: necesitará poner orden y alejará a gente poco idónea que no ayuda. Amor: en la pareja se debatirán los impulsos por disponer de espacios propios y acordarán. Trabajo y negocios: una propuesta será del agrado del entorno que decidirá cooperar en todo. Amor: surgirán dulces vivencias que fortalecerán a la pareja y permitirán un nuevo comienzo. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: ROMÁNTICA E INCLINADA A EMBELLECER LA VIDA ÍNTIMA. NO LE GUSTA DISCUTIR.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-29-de-junio-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-29T23:35:09Z",
+          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
+            "Vida social",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "4f67030d2980",
@@ -3149,7 +3175,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "df6eac14188b",
@@ -3175,7 +3201,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "36ca32710275",
@@ -3197,32 +3223,6 @@
           "tags": [
             "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
             "Venezuela",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "4d54aab09596",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Horóscopo de hoy, 28 de junio: estas son las predicciones más exactas",
-          "summary": "Consulta tu horóscopo de hoy, domingo 28 de junio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, domingo 28 de junio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Amor: dejará de lado compromisos y se gratificará en una cita con la persona que desea conocer. Salud: una dolencia tendrá alivio. Sorpresa: encuentro divertido. Amor: se relacionará sin la timidez habitual, mostrará su encanto y una situación romántica surgirá. Salud: optimismo y buen ánimo. Sorpresa: conflicto resuelto. Amor: momento de intensa vibración en la pareja, la intimidad estará plena de dulces vivencias. Salud: un ejercicio será relajante. Sorpresa: curiosa revelación. Amor: sin despegar los pies de la tierra, se sumergirá en una relación que resultará inolvidable. Salud: un pequeño cambio ayudará. Sorpresa: idea controversial. Amor: se disiparán las dudas y temores y el clima de la relación ayudará a recuperar la calidez. Salud: un estudio será oportuno. Sorpresa: error subsanado. Amor: por actuar con cierta ansiedad, podría impedirle el disfrute de un momento hermoso. Salud: un cambio de dieta ayudará. Sorpresa: lección aprendida. Amor: la fuerte calidez en la pareja despertará estímulos nunca antes experimentados. Salud: un tratamiento será exitoso. Sorpresa: convocatoria inesperada. Amor: su fuerte encanto impactará en una persona y de inmediato, llamará su atención. Salud: una rutina será desechada. Sorpresa: una ayuda llegará a tiempo. Amor: sentirá que aún conserva afinidad con alguien de un pasado compartido. Salud: las caminatas harán bien. Sorpresa: alguien se enojará. Amor: parecerá que su pareja se empeña en gastar pero tendrá una razón. Salud: un chequeo será oportuno. Sorpresa: recupera algo extraviado. Amor: si hay mayor o menor compromiso será una discusión que crece día a día en la pareja. Salud: un dolor tendrá alivio. Sorpresa: esfuerzo recompensado. Amor: el intercambio amoroso crecerá y permitirá que cada momento de la pareja sea feliz. Salud: mejorará la calidad del sueño. Sorpresa: alguien sensible se acercará. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: BENEVOLENTE Y CON ALMA DE ARTISTA. A VECES ELUDE LOS COMPROMISOS FORMALES.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-28-de-junio-las-predicciones-mas-precisas-para-tu-signo-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-28T20:11:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
-            "Vida social",
             "Mundo",
             "El Comercio"
           ],
@@ -3377,6 +3377,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "b60967e6c59c",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Horóscopo de hoy, 29 de junio: Lee las predicciones más exactas para tu signo",
+          "summary": "Consulta tu horóscopo de hoy, lunes 29 de junio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, lunes 29 de junio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: se darán las condiciones para dejar atrás las trabas y avanzar con las tareas. Amor: necesitará moderar sus impulsos si desea concretar un encuentro romántico. Trabajo y negocios: momento para estar alerta, revisar posibles fallas y evitar algún altibajo. Amor: descubrirá que posee una intensa afinidad con la persona más inesperada. Trabajo y negocios: resolverá un desacuerdo con el entorno y la cooperación comenzará a crecer. Amor: su encanto se destacará en un encuentro y todo le llevará hacia un romance. Trabajo y negocios: tomará una decisión que está injustamente postergada y las trabas cederán. Amor: los gestos más que las palabras crearán una reconciliación o un romance. Trabajo y negocios: se avecinan cambios de cierta complejidad, pero tendrán resultado positivo. Amor: algunas cosas resueltas o bien hechas darán optimismo y armonía a la pareja. Trabajo y negocios: su intuición se pondrá en alerta ante una propuesta que no es confiable. Amor: las cosas en la pareja estarán en calma, pero un cambio será inevitable. Trabajo y negocios: si mantiene un férreo control, pronto llegará un beneficio inesperado. Amor: las diferencias en la pareja crearán inquietud pero un gesto amoroso las vencerá. Trabajo y negocios: descubrirá la falta de avance en el trabajo y tomará duras iniciativas. Amor: su fuerte encanto generará situaciones incómodas en el entorno pero lo disfrutará. Trabajo y negocios: surgirá propuesta que solo asegura esfuerzo y poco beneficio. Amor: la expresión del afecto será crucial para recuperar la calidez y vencer la indiferencia. Trabajo y negocios: se dirá que un proyecto es genial pero será algo decepcionante. Amor: sin razones, germinará la idea según la cual su posición en la pareja es insegura. Trabajo y negocios: necesitará poner orden y alejará a gente poco idónea que no ayuda. Amor: en la pareja se debatirán los impulsos por disponer de espacios propios y acordarán. Trabajo y negocios: una propuesta será del agrado del entorno que decidirá cooperar en todo. Amor: surgirán dulces vivencias que fortalecerán a la pareja y permitirán un nuevo comienzo. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: ROMÁNTICA E INCLINADA A EMBELLECER LA VIDA ÍNTIMA. NO LE GUSTA DISCUTIR.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-29-de-junio-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-06-29T23:35:09Z",
+          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
+            "Vida social",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "4f67030d2980",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3400,7 +3426,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "889a297bbfb4",
@@ -3426,7 +3452,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "df6eac14188b",
@@ -3452,7 +3478,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "36ca32710275",
@@ -3474,32 +3500,6 @@
           "tags": [
             "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
             "Venezuela",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "4d54aab09596",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Horóscopo de hoy, 28 de junio: estas son las predicciones más exactas",
-          "summary": "Consulta tu horóscopo de hoy, domingo 28 de junio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, domingo 28 de junio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Amor: dejará de lado compromisos y se gratificará en una cita con la persona que desea conocer. Salud: una dolencia tendrá alivio. Sorpresa: encuentro divertido. Amor: se relacionará sin la timidez habitual, mostrará su encanto y una situación romántica surgirá. Salud: optimismo y buen ánimo. Sorpresa: conflicto resuelto. Amor: momento de intensa vibración en la pareja, la intimidad estará plena de dulces vivencias. Salud: un ejercicio será relajante. Sorpresa: curiosa revelación. Amor: sin despegar los pies de la tierra, se sumergirá en una relación que resultará inolvidable. Salud: un pequeño cambio ayudará. Sorpresa: idea controversial. Amor: se disiparán las dudas y temores y el clima de la relación ayudará a recuperar la calidez. Salud: un estudio será oportuno. Sorpresa: error subsanado. Amor: por actuar con cierta ansiedad, podría impedirle el disfrute de un momento hermoso. Salud: un cambio de dieta ayudará. Sorpresa: lección aprendida. Amor: la fuerte calidez en la pareja despertará estímulos nunca antes experimentados. Salud: un tratamiento será exitoso. Sorpresa: convocatoria inesperada. Amor: su fuerte encanto impactará en una persona y de inmediato, llamará su atención. Salud: una rutina será desechada. Sorpresa: una ayuda llegará a tiempo. Amor: sentirá que aún conserva afinidad con alguien de un pasado compartido. Salud: las caminatas harán bien. Sorpresa: alguien se enojará. Amor: parecerá que su pareja se empeña en gastar pero tendrá una razón. Salud: un chequeo será oportuno. Sorpresa: recupera algo extraviado. Amor: si hay mayor o menor compromiso será una discusión que crece día a día en la pareja. Salud: un dolor tendrá alivio. Sorpresa: esfuerzo recompensado. Amor: el intercambio amoroso crecerá y permitirá que cada momento de la pareja sea feliz. Salud: mejorará la calidad del sueño. Sorpresa: alguien sensible se acercará. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: BENEVOLENTE Y CON ALMA DE ARTISTA. A VECES ELUDE LOS COMPROMISOS FORMALES.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-28-de-junio-las-predicciones-mas-precisas-para-tu-signo-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-06-28T20:11:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
-            "Vida social",
             "Peru",
             "El Comercio"
           ],
@@ -4308,6 +4308,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d02bfcbe979e",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Trumps triumf – ”den största på hundra år”",
+          "summary": "Högsta domstolen kullkastar ett prejudikat från 1935. Trump kallar domen ”historisk”, ”monumental” och ”den största ökningen av presidentmakt på 100 år”.",
+          "body_text": "Högsta domstolen kullkastar ett prejudikat från 1935 vilket innebär ”en betydande seger” för president Trump, enligt CNN . Trump kallar domen ”historisk” och ”monumental”. ”Den största ökningen av presidentmakt på 100 år”, skriver Trump. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Högsta domstolen avkunnade två domar samtidigt på måndagen om avskedandet av regeringstjänstemän, varav en var en vinst för Trump och den andra en förlust. Den ”mest betydelsefulla” domen enligt CNN kretsade kring Rebecca Kelly Slaughter som president Donald Trump avskedade från Federal Trade Commission förra året trots en federal lag som kräver att presidenter måste redovisa skäl – såsom tjänstefel – innan de avskedar kommissionärer. Trump hade hävdat att han som president borde ha makten att kontrollera ledarna för oberoende myndigheter inom den federala regeringen och att lagen bröt mot principerna om maktdelning. Överdomare John Roberts, som skrev för majoriteten, höll i stort sett med – siffrorna blev 6–3 i Trumps favör, vilket innebar att man upphävde ett prejudikat från Högsta domstolen från 1935. ”Underordnade som utövar presidentens makt kan avsättas av honom. Då, och endast då, kan de förbli ansvariga inför presidenten, och presidenten inför folket”, skriver Roberts. Trump kallar det för ett ”historiskt beslut”. ”Den största ökningen av presidentmakt på 100 år. Ett monumentalt beslut vid en så viktig tidpunkt!”, skriver Trump på Truth Social. Samtidigt slog Högsta domstolen att federal lag krävde att Trump skulle ge Lisa Cook, chef för USA:s centralbank, en tillräcklig rättsprocess innan han avskedade henne.",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-triumf-den-storsta--pa-hundra-ar/",
+          "image_url": "https://static.bonniernews.se/images/65/94/6594ff8261374c82a595b90291883987/16x9/original.jpg",
+          "published_at": "2026-06-29T23:49:05Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-triumf-den-storsta--pa-hundra-ar/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "328a57d4fce3",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4329,7 +4353,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "787b70051b2e",
@@ -4353,7 +4377,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "69892c3fdd6d",
@@ -4377,7 +4401,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "619f3372f978",
@@ -4401,7 +4425,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "69045dcc6099",
@@ -4425,7 +4449,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "fe868c9332a6",
@@ -4449,7 +4473,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "0c4216473bfb",
@@ -4473,7 +4497,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "57110eeada9c",
@@ -4497,7 +4521,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "8b4c514dd550",
@@ -4507,12 +4531,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige I går 19.09 Emilia fick influensa i Thailand – blev aldrig frisk",
-          "summary": "",
-          "body_text": "",
+          "title": "Emilia, 21, blev aldrig frisk efter semestern",
+          "summary": "Emilia Nilsson, 21, fick influensa efter Thailandsresan. Men blev aldrig frisk. Har ME och POTS.",
+          "body_text": "Emilia Nilsson, 21, fick influensa efter Thailandsresan. – Jag har haft feber varje dag i sex år, säger hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Då gjorde hon allt möjligt. Hon umgicks med vänner, gymmade fem dagar i veckan och åkte längdskidor, slalom och cross. Och fiskade. Och hon hade precis tagit jägarexamen. Livet fick en vändning efter familjens Thailandsresa i januari 2020. Så fort de kom tillbaka till hemmet i norrbottniska Råneå blev de sjuka. Hos vårdcentralen testade hela familjen positivt för influensa B. Och en efter en kom de på benen. – Mina föräldrar blev oroliga när jag fortfarande hade feber efter tio dagar, så vi åkte tillbaka till vårdcentralen, säger hon. Emilia blev remitterad till sjukhus. Utredningen konstaterade att hon inte hade någon autoimmun sjukdom. – Om man tänker sig tröttheten och alla smärtor man har i kroppen när man är sjuk i en svårare influensa, ungefär så känns det för mig varje dag. Jag har haft feber varje dag i sex år, säger hon. Trötthet och yrsel försvårade hennes gymnasietid. De första åren var på distans på grund av covid 19, vilket underlättade. Men när pandemin var över fick hon kämpa. – Tack vare min tjurskallighet så lyckades jag ändå ta gymnasieexamen, även om jag fick förlänga vissa kurser. Men jag har fått kompensera, allt jag gjorde var att vara i skolan och sova. Så jag har tappat alla mina vänner. Hennes symtom förvärrades och hon klarade inte av ett heltidsjobb efter studenten. Samtidigt har hon varit i en ständig kamp med vården – under otaliga sjukhusbesök.",
           "url": "https://www.expressen.se/nyheter/sverige/emilia-fick-influensa-i-thailand-blev-aldrig-frisk/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/38/a9/38a94e8bb8a64e229ebc2d37e009f2dd/16x9/original.png",
+          "published_at": "2026-06-29T17:09:20Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/emilia-fick-influensa-i-thailand-blev-aldrig-frisk/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4520,31 +4544,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "f21da5549bca",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sverige I går 18.00 Föräldrarnas upptäckt: Sonen missade årskurs 5 – utan deras vetskap: ”Illamående”",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/foraldrarnas-upptackt-sonen-missade-arskurs-5-utan-deras-vetskap-illamaende/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/foraldrarnas-upptackt-sonen-missade-arskurs-5-utan-deras-vetskap-illamaende/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4560,11 +4560,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "USA:s särskilde sändebud Steve Witkoff har lämnat landet för tisdagens samtal med Iran i Qatars huvudstad Doha, uppger flera källor för CNN. Uppgifterna från två amerikanska tjänstemän kommer efter det att Iran sagt att en förhandlingsdelegation kommer att skickas till Doha. Dessförinnan hävdade USA:s president Donald Trump att Iran begärt ett möte i den qatariska huvudstaden – något som landet först tillbakavisade innan man gav besked om delegationen. Efter flera attacker från både Iran och USA under helgen rapporterade flera medier på söndagen om att vapenvilan mellan parterna återigen gäller ”för närvarande”. Guo Wengui, en kinesisk affärsmagnat och dollarmiljardär i självvald exil, har dömts till 30 års fängelse i USA för omfattande ekonomiskt bedrägeri. Guo lämnade Kina för USA för cirka tio år sedan och är en uttalad kritiker av det kinesiska kommunistpartiet. Åklagarna har kallat hans bedrägeriupplägg för ”häpnadsväckande” och anklagat honom för att ha förstört hundratals människors liv mellan åren 2018 och 2023. Antalet bekräftade ebolafall fortsätter att växa i Kongo-Kinshasa. Sammanlagt har 1 307 personer konstaterats smittade, varav 377 har avlidit, uppger myndigheter i landet. Det aktuella ebolautbrottet har orsakats av den så kallade bundibugyo-varianten, mot vilken vaccin och specifik behandling saknas. Kliniska prövningar av ett möjligt vaccin inleds kommande dagar, enligt WHO. En explosion har inträffat i ett bostadshus i Monaco nära gränsen till Frankrike, rapporterar lokala medier. Tre uppges vara skadade, varav två livshotande. Den misstänkte gärningsmannen sågs lägga en ryggsäck framför ingången till huset innan han flydde platsen, enligt CCTV . Ingen är gripen.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
