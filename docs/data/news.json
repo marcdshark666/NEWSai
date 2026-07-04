@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T07:40:23Z",
+  "generated_at": "2026-07-04T09:52:06Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "1a8cc42d2ec7",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Svensk kaféjätte i konkurs",
+          "summary": "Nyheter från TV4: Svensk kaféjätte i konkurs",
+          "body_text": "Den svenska kafékedjan Wayne’s Coffee har gått i konkurs. Bakom konkursen ligger växande hyresskulder, rapporterar Di . Det är franchisegivaren Wayne’s Coffee Sweden AB som försatts i konkurs. När flera kaféer inte har kunnat betala sina hyror har franchisegivaren tagit på sig kostnader och skulder, förklarar bolagets största ägare, Henrik Mattsson, för tidningen. –Det rör sig om tre enheter som inte har kunnat hantera hyran och kostnaderna helt enkelt, säger han. Enligt konkursförvaltaren uppgår skulderna till minst 10 miljoner kronor. Ett annat bolag kommer att driva verksamheten vidare, uppger Henrik Mattsson. –Det kommer inte att påverka varumärket eller franchisetagarna. Mattsson framhåller att köpkraften gått ner samtidigt som alla kostnader gått upp i samband med inflationen. I Sverige har varumärket 58 kaféer.",
+          "url": "https://www.tv4.se/artikel/tt-260704-waynes1-15038531/svensk-kafejatte-i-konkurs",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlnvCYj1EuEw8/496deccd7c12bc9bdc494df46678e841/En_kaffe_latte._Arkivbild.",
+          "published_at": "2026-07-04T09:12:28Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260704-waynes1-15038531/svensk-kafejatte-i-konkurs",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "311f145b43a7",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "2d4d76edce5e",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "2f47d0065568",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "3161cce7ab71",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlN6RNoz2nZCo/192befb2b1c8bdd600ee2be3bff99f56/Byggnaden_blir_den_andra_som_uppfors_pa_omradet__enligt_Skanska._Arkivbild.",
           "published_at": "2026-07-03T07:23:17Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260703-datacenter1-fc2c5586/skanska-bygger-datacenter-i-usa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "c0e71578ecc7",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Börsen stiger inför helgen",
-          "summary": "Nyheter från TV4: Börsen stiger inför helgen",
-          "body_text": "Stockholmsbörsen fortsätter uppåt inför helgen. Vid 13.20-tiden är börsens breda OMXS-index upp 0,7 procent. På storbolagslistan OMXS30 handlas Sandvik i toppen med en uppgång på drygt 3 procent. Verkstadsbolaget har fått en order på gruvutrustning från en mexikansk entreprenör. Även Skanska lyfter knappt 3 procent. Byggjätten har under morgonen meddelat att man ska bygga ett datacenter i USA samt att man sålt en kontorsbyggnad i Polen. I botten av storbolagslistan faller läkemedelstillverkaren Astra Zeneca 2 procent. På råvarumarknaden handlas oljepriset stillsamt. Ett fat Nordsjöolja kostar knappt 72 dollar.",
-          "url": "https://www.tv4.se/artikel/tt-260703-marknaden1-c790aedd/borsen-stiger-infor-helgen",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlKtufzJue2tc/480213b8d41ad3485937a9a92f45c8d1/Stockholmsborsen_har_oppnat._Arkivbild._",
-          "published_at": "2026-07-03T07:09:10Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260703-marknaden1-c790aedd/borsen-stiger-infor-helgen",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1217,7 +1217,7 @@
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
           "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KAMMELV/morgonstudion/igar-07-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53655334/1768482968?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54456017/1783153046?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-03T05:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KAMMELV/morgonstudion/igar-07-00",
           "play_mode": "page_iframe",
@@ -2022,20 +2022,20 @@
           "sort_order": 13
         },
         {
-          "id": "9ce082d167c8",
+          "id": "5b6edaa3f488",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Jesse Watters Primetime - Friday, July 3 | Fox News Video",
-          "summary": "Fourth of July, State Fair, America 250, Heat Wave",
-          "body_text": "Fourth of July, State Fair, America 250, Heat Wave Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-          "url": "https://www.foxnews.com/video/6400178332112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/23508896-c80f-4eaa-a618-deaa92dbcd31/db1ca431-a252-4891-ba2f-1a995bc74bd7/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-07-04T05:50:08Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400178332112",
+          "title": "The Ingraham Angle - Friday, July 3 | Fox News Video",
+          "summary": "250 years of freedom , 4th of july , trump",
+          "body_text": "250 years of freedom , 4th of july , trump Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.",
+          "url": "https://www.foxnews.com/video/6400187102112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/93e7f52e-8407-45f7-870d-ec09de1b7ae9/d0f07025-5ef1-4e2a-9e6f-5f8f09d8e5c0/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-07-04T08:56:28Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400187102112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2047,20 +2047,20 @@
           "sort_order": 14
         },
         {
-          "id": "ce2646bb8202",
+          "id": "b67fc306d6d7",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "The Story With Martha MacCallum - Friday, July 3 | Fox News Video",
-          "summary": "America 250, NYC Ships, National Mall, Heat Wave, Taylor Swift",
-          "body_text": "America 250, NYC Ships, National Mall, Heat Wave, Taylor Swift Martha MacCallum brings the story of the times with her tough but fair interviews.",
-          "url": "https://www.foxnews.com/video/6400162742112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/02be08f3-9f81-4028-8d49-1cbe58211402/afdf656f-2464-4575-bbdb-f2bd9161f0f9/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-07-04T02:34:31Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400162742112",
+          "title": "Fox News at Night - Friday, July 3 | Fox News Video",
+          "summary": "Trace Gallagher, Mount Rushmore, Donald Trump, America 250, Communism, Mamdani,",
+          "body_text": "Trace Gallagher, Mount Rushmore, Donald Trump, America 250, Communism, Mamdani, Sean Hannity interviews political figures and newsmakers and offers his own perspective.",
+          "url": "https://www.foxnews.com/video/6400184101112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/99549cc7-9992-478d-a4c4-772f5c826751/8da572d5-ec35-435c-9027-5faac9aba9ad/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-07-04T08:04:27Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400184101112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2089,6 +2089,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "5690edd6640d",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Keiko Fujimori declared winner of Peru presidential election weeks after vote",
+          "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+          "body_text": "Right-wing candidate Keiko Fujimori has been declared the winner of Peru's tight presidential election, nearly a month after the vote took place. The 51-year-old won 50.135% of voters' support in the runoff, held on 7 June, to 49.865% for left-wing candidate Roberto Sánchez - a margin of less than 50,000 votes, figures certified by Peru's electoral court show. It is the fourth time the daughter of disgraced former President Alberto Fujimori has sought the South American nation's presidency, promising this time to oversee a crackdown on organised crime. Her election, coinciding with the election of Abelardo de la Espriella in Colombia, marks a shift towards the right in Latin American politics. Fujimori said she would assume the role of president \"with responsibility, humility and a deep sense of duty\". \"Each day of this transition process is an opportunity to listen, engage in dialogue and arrive prepared at the start of the new government,\" she added, with what appeared to be a nod to her thin mandate. Sánchez, 57, has alleged the runoff election had been \"seriously compromised\" and threatened legal action, arguing that strong support for Fujimori among Peruvian voters abroad was a sign of irregularities. After the result was declared on Friday, his party appealed against the electoral court's proclamation, calling for the vote to be nullified. While Sánchez, a former foreign trade minister, stood on a platform of broad economic reforms, Fujimori benefited from concerns over crime and political instability dominating the race. Throughout the campaign, she leant on the controversial legacy of her father, promising a military crackdown on organised crime, in particular extortion incidents that have soared in recent years. Alberto Fujimori was eventually jailed for crimes against humanity over extra-judicial killings and forced sterilisations undertaken during his increasingly authoritarian leadership. Keiko also pledged to attract private investment to promote economic growth and to immediately expel any undocumented immigrants found to be committing crimes in Peru.",
+          "url": "https://www.bbc.com/news/articles/cr5jpvv06e1o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
+          "published_at": "2026-07-04T07:52:55Z",
+          "embed_url": "https://www.bbc.com/news/articles/cr5jpvv06e1o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "d39ab75c7898",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2097,8 +2121,8 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "Taylor Swift and Travis Kelce marry at Madison Square Garden",
-          "summary": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.",
-          "body_text": "Pop superstar Taylor Swift and American football player Travis Kelce have officially tied the knot in a star-studded ceremony officiated by comedian Adam Sandler. The pair both wore Christian Dior, according to Swift's longtime publicist, and elected not to have bridesmaids and groomsmen. Instead, Swift's brother Austin Swift served as her man of honour, and retired American footballer Jason Kelce was the groom's best man. The event at Madison Square Garden shuttered one of Manhattan's busiest corridors and brought out Hollywood's A-list for what was likely the bash of the century. Actors Hugh Grant and Jason Sudeikis, singer Benson Boone and model Gigi Hadid were among those spotted. Hordes of fans huddled outside throughout the day on Friday, some singing Swift tunes and donning concert merch, while others climbed scaffolding hoping to catch a better view of the festivities. The celebration at the arena kicked off on Thursday with a much smaller event, where a reported 100 people were thought to attend. A permit filed with New York City officials called the event a \"pre-party\". On Friday, a much larger event led to a tent being erected outside the arena that doubled in size. A stream of blacked-out SUVs pulled through the structure, allowing many guests to shield their arrival while streets in Midtown Manhattan were closed to traffic. Crews at the sport arena set up curtains and gazebos for the massive event. Swift's longtime publicist Tree Paine confirmed to the BBC that the two wed on Friday in New York City and offered details from the ceremony. Around the same time, Madison Square Garden lit up massive signs around the complex reading \"JUST&T MARRIED\" - a nod to both Taylor and Travis's names. Paine said Swift and Kelce wore wedding ceremony looks designed by Jonathan Anderson, creative director of Dior's women's, men's and haute couture collections, in close collaboration with the bride and groom. \"This is the designer's first couture wedding dress for a world-renowned celebrity,\" Paine said in a statement, adding that their shoes were custom made by Christian Louboutin and the bride wore Cartier jewellery.",
+          "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
+          "body_text": "Taylor Swift and Travis Kelce have officially tied the knot at New York's Madison Square Garden, in a star-studded ceremony officiated by actor Adam Sandler. The pair wore Christian Dior, Swift's publicist said, and did not have bridesmaids and groomsmen. Swift's brother, Austin Swift, served as her man of honour, and Jason Kelce, Travis's brother, was his best man. The event shuttered one of Manhattan's busiest corridors and brought out Hollywood A-list stars, such as actors Hugh Grant and Jason Sudeikis, singer Benson Boone and model Gigi Hadid. Fans huddled outside the venue throughout the day, with some onlookers climbing scaffolding to try catch a better view. The wedding celebrations began on Thursday with a much smaller \"'pre-party\" event, according to permit filed with New York City officials. The ceremony on Friday was much a larger event, with a stream of blacked-out SUVs seen driving through a pop-up tent erected outside the stadium to shield guests' arrival. Some celebrity guests were still spotted upon their arrival, including model Gigi Hadid, her actor boyfriend Bradley Cooper, actress Dakota Johnson, and members of Kelce's football team, the Kansas City Chiefs. As Swift's publicist, Tree Paine, said confirmed the pair had officially wed, an announcement appeared on a display outside Madison Square Garden that read \"JUST&T MARRIED\" - a play on Taylor and Travis's names. Jonathan Anderson, a creative director at Dior, designed Swift and Kelce's outfits, Paine said. \"This is the designer's first couture wedding dress for a world-renowned celebrity,\" Paine said in a statement. Their shoes were custom made by Christian Louboutin, she added, and Swift wore Cartier jewellery. The New York City Police (NYPD) closed the streets around the arena midday, closing them off to vehicles and pedestrian traffic.",
           "url": "https://www.bbc.com/news/articles/c982ry2pen3o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/87fd/live/91ddb5d0-7763-11f1-a627-714adb4eed6e.jpg",
           "published_at": "2026-07-04T02:12:42Z",
@@ -2110,7 +2134,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "86698447a874",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "c3bf7b96a7c3",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "523a9622f251",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "646355470ec4",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "e09df768b56b",
@@ -2223,30 +2247,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg",
           "published_at": "2026-07-03T16:41:00Z",
           "embed_url": "https://www.bbc.com/news/articles/cj0gp88q4l4o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "99140e1e2c06",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Jacob Zuma showing South Africa 'middle finger' by meeting Ajay Gupta - minister",
-          "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
-          "body_text": "Former President Jacob Zuma is \"showing the middle finger\" to South Africa, a minister in the country has said after it emerged Zuma had met one of the Indian businessmen allegedly at the heart of a huge corruption scandal. A photograph of Zuma and Ajay Gupta in an Indian temple was shared by Indian media this week. Around a decade ago, the Gupta brothers were accused of profiting from their close links to then-President Zuma and influencing South African policy. Both parties denied wrongdoing, while the family left South Africa in 2018 after a judicial commission began investigating allegations they were involved in massive fraud, known as \"state capture\". South African authorities cancelled their arrest warrant for Ajay Gupta the following year. The two younger Gupta brothers, Atul and Rajesh, went to the United Arab Emirates where a court in 2023 turned down a South African request to extradite them. In a press briefing on Friday, cabinet minister Khumbudzo Ntshavheni said it was \"very disturbing that a former state president openly and unapologetically shows the middle finger to South Africans who have lost a lot of money through the Gupta brothers' shenanigans\". Zuma, a long-standing member of the African National Congress (ANC), was forced out of office in 2018 following a string of corruption allegations concerning the Guptas. He has always denied any wrongdoing. In 2022, a commission investigating state capture concluded that Zuma had hired and fired ministers central to the running of the country's economy at the behest of the Gupta family. In particular it describes the 2015 sacking of Finance Minister Nhlanhla Nene because he would not comply with the Guptas' wishes, and the appointment of two subsequent ministers - Des van Rooyen, and Malusi Gigaba - who were friendly to the family's interests. The commission also detailed a web of corruption at the state electricity utility Eskom, culminating in key members of the company's executive being put in place by the Guptas. After meeting Ajay Gupta at the temple in India, Zuma, who now heads the uMkhonto weSizwe (MK) party, reportedly said he would stand for re-election in South Africa's next elections.",
-          "url": "https://www.bbc.com/news/articles/cvge0gd6lnqo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/00b9/live/f1a6c370-76f1-11f1-a627-714adb4eed6e.jpg",
-          "published_at": "2026-07-03T15:35:07Z",
-          "embed_url": "https://www.bbc.com/news/articles/cvge0gd6lnqo",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2548,6 +2548,32 @@
           "sort_order": 0
         },
         {
+          "id": "056aad483a6b",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Oficial, becas de US$10,000 para futuros maestros en California desde el 1 de julio: cómo acceder al programa STSP y quiénes son elegibles",
+          "summary": "Desde el 1 de julio de 2026, las agencias educativas locales podrán solicitar fondos para este programa, que otorgará becas de 10 000 dólares a los candidatos a la certificación docente durante el año escolar en el que realicen sus prácticas.",
+          "body_text": "Desde el 1 de julio de 2026 está en marcha en California un nuevo apoyo económico de US$10,000 para quienes están formándose como maestros, a través del programa Student Teacher Stipend (STSP). Se trata de una ayuda pensada para aliviar los gastos de vida y estudio durante la práctica docente, en un contexto en el que muchos futuros profesores deben enseñar sin recibir salario mientras completan su credencial. En esta nota te explicamos cómo acceder y quiénes son elegibles. El programa STSP de California ofrece estipendios de US$10,000 a estudiantes de magisterio que están haciendo su práctica docente no remunerada. La solicitud no la hace el mismo estudiante directamente, sino su programa y el distrito escolar (LEA). “El Programa de Estipendios para Estudiantes de Magisterio es un programa de subvenciones no competitivo. A diferencia de otros programas de subvenciones administrados por la Comisión de Acreditación Docente, la legislación que lo autoriza establece que los fondos se distribuirán por orden de llegada. Por lo tanto, no habrá un proceso de Solicitud de Propuestas (RFA)”, se lee en el sitio web de CTC. Para acceder al STSP, que es administrado por la California Commission on Teacher Credentialing (CTC), debes tomar en cuenta los siguientes puntos: Por lo tanto, debe quedarte claro que si eres futuro maestro NO llenas tú un formulario directo del STSP. Y ojo: la CTC aclara que los student teachers no aplican personalmente y deben contactar a su programa de credencial sobre el proceso. Entonces, tu paso clave es hablar con: Según la información proporcionada por CTC, son elegibles para el programa Student Teacher Stipend quienes cumplan los siguientes requisitos: Si quieres recibir la beca de US$10,000 debes hacerlo siguiente: 1. Confirmar tu programa Debes asegurarte de estar admitido o matriculado en un programa de credencial docente aprobado por la CTC en California. 2. Hablar con tu facultad de educación Pregunta en la oficina de tu programa de credencial (director, coordinación de fieldwork o práctica docente) si están participando en el Student Teacher Stipend Program y cómo identificarte como candidato. 3. Verificar con la LEA donde harás la práctica 4. Cumplir condiciones durante tu práctica 5. Mantener contacto para el pago Una vez que tu LEA y programa gestionan la solicitud, ellos coordinarán el desembolso del estipendio durante el año escolar correspondiente. ¡Mantente al tanto de los temas que importan en Estados Unidos 🇺🇸! Únete a nuestro canal de WhatsApp. 👉 Sé parte de nuestra comunidad. ¡Te esperamos!",
+          "url": "https://elcomercio.pe/mag/usa/local-us/oficial-becas-de-10000-para-futuros-maestros-en-california-desde-el-1-de-julio-como-acceder-al-programa-stsp-y-quienes-son-elegibles-nnda-nnlt-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/SPQDL7GVNFFJDBGDOUA6U446WU.jpg?auth=560368f423a2bfc618f2cb87286869e298a012388579ab3dbecafda049205f8a&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-04T07:45:07Z",
+          "embed_url": "https://elcomercio.pe/mag/usa/local-us/oficial-becas-de-10000-para-futuros-maestros-en-california-desde-el-1-de-julio-como-acceder-al-programa-stsp-y-quienes-son-elegibles-nnda-nnlt-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "California, Estados Unidos, USA",
+            "Local US",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "4697307e8e27",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2567,32 +2593,6 @@
           "tags": [
             "Marruecos vs. Canadá, Selección de Marruecos, Selección de Canadá, Partidos de hoy, Fútbol en vivo, Mundial 2026, Copa del Mundo, Copa Mundial de Fútbol",
             "Fútbol mundial",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "592ebcf65476",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Temblor en Venezuela hoy, sábado 4 de julio: ver epicentro y magnitud del último sismo",
-          "summary": "Temblor en Venezuela HOY EN VIVO: último sismo de julio, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (Funvisis).",
-          "body_text": "Temblor en Venezuela HOY EN VIVO: último sismo de julio, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (Funvisis).",
-          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-hoy-en-venezuela-en-vivo-ultimo-sismo-de-julio-cual-fue-el-epicentro-y-magnitud-segun-el-funvisis-proteccion-civil-caracas-la-guaira-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/ZN3VXICMWZFDZL3SYPNPMB5S2Y.png?auth=81cf774ff2c62880c5c6f46710c758650404a92ad9828d7f9e621b849b697b34&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-04T07:01:12Z",
-          "embed_url": "https://elcomercio.pe/respuestas/venezuela/temblor-hoy-en-venezuela-en-vivo-ultimo-sismo-de-julio-cual-fue-el-epicentro-y-magnitud-segun-el-funvisis-proteccion-civil-caracas-la-guaira-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "temblor en venezuela, sismos en venezuela, sismo en venezuela, terremoto en venezuela, Funsivis, terremoto en Venezuela, terremoto en La Guaira, terremoto en Macuto, terremoto Maiquetia, falla de Venezuela, falla del Caribe, temblor Caracas, terremoto Caracas, FUNVISIS, rescates en La Guaira, último terremoto Venezuela, terremotos de Venezuela",
-            "Venezuela",
             "Senaste",
             "El Comercio"
           ],
@@ -4139,6 +4139,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "c757b1164d71",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Mammans mardröm – sonen blev kriminell",
+          "summary": "Svenska kommuner satsar miljoner på att få unga att lämna gängen – med intensiv familjeterapi. Expressen har träffat en mamma som gått genom programmet, och tackar det för att hennes son lever. – Jag var alltid livrädd att få det där samtalet, att polisen skulle knacka på och säga: ”han är död”, säger hon.",
+          "body_text": "Svenska kommuner satsar miljoner på att få unga att lämna gängen – med intensiv familjeterapi. Expressen har träffat en mamma som gått genom programmet, och tackar det för att hennes son lever. – Jag var alltid livrädd att få det där samtalet, att polisen skulle knacka på och säga: ”han är död”, säger hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Mamman knäpper händerna och lägger pannan mot bänkraden framför. Det var här, i kyrkan, hon hämtade kraft när det var som värst. Hon blinkar fukten ur ögonen, och säger: – Jag blir väldigt berörd, det väcker så många minnen. Jag gick hit för att be, det var det sista halmstrået. Gud, låt honom leva. Av hänsyn till sonen och risken för att han ska utsättas för våld vill hon vara anonym. Hon minns hur det kändes då, när oron alltid var närvarande. När känslan av skam och skuld gnagde inombords. Som alla föräldrar funderade hon på om det var hennes fel. Hur kunde han hamna så snett, trots att han vuxit upp i en kärleksfull familj? – Det är fruktansvärt att ha ett barn som missbrukar och är kriminell. Det påverkar inte bara ytligt, det påverkar hela livet, ända djupt in i själen, säger hon.",
+          "url": "https://www.expressen.se/nyheter/politik/sonen-blev-gangkriminell--mamman-om-miljonsatsningen/",
+          "image_url": "https://static.bonniernews.se/images/bc/ab/bcab1f64655644c7be660823e40379af/16x9/original.png",
+          "published_at": "2026-07-04T09:24:38Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/sonen-blev-gangkriminell--mamman-om-miljonsatsningen/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "3d6584104a49",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Efter våldtäkten mot Meya – FN ändrar regler om utvisning",
+          "summary": "Mannen som våldtog Meya dömdes till fängelse – men inte till utvisning. Nu ändrar FN sina riktlinjer efter påtryckningar från Sveriges migrationsminister, rapporterar SVT.",
+          "body_text": "Mannen som våldtog Meya dömdes till fängelse – men inte till utvisning. Nu ändrar FN sina riktlinjer efter påtryckningar från Sveriges migrationsminister, rapporterar SVT. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I september 2024 överfölls och våldtogs Meya i en gångtunnel i Skellefteå. Hon var 16 år gammal vid tillfället. – Det har påverkat mig väldigt mycket. Jag har väldigt svårt att gå ut på stan fortfarande, även fast det gått två år, säger Meya till SVT. Åklagaren yrkade på att den då 18-årige gärningsmannen, som inte var svensk medborgare, skulle dömas till både fängelse och utvisning. Det slutade i tre års fängelse efter hovrättens dom. Däremot blev det ingen utvisning eftersom våldtäkten inte bedömdes som grov. Nu kommer en omsvängning från FN:s flyktingorgan UNHCR . Riktlinjerna ändras till att våldtäkt ska ses som ett synnerligen grovt brott, vilket kan leda till utvisningar även av personer med flyktingstatus. Migrationsminister Johan Forssell (M) som drivit frågan under våren ser ändringen som ett framsteg. – Nu har vi faktiskt lyckats samla ett stöd bland många medlemsstater och fått UNHCR att ändra tillämpningen av konventionen. Det tycker jag känns viktigt, säger Johan Forssell till SVT. Enligt svensk lag får utvisning ske när en gärningsperson utan svenskt medborgarskap döms till minst sex månaders fängelse. I fallet om Meya menade hovrätten att brottet inte var tillräckligt grovt för att ligga till grund för utvisning. Man hänvisade även till FN:s flyktingskonvention. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/sverige/efter-valdtakten-mot-meya-fn-andrar-regler-om-utvisning/",
+          "image_url": "https://static.bonniernews.se/images/fd/76/fd764e24693c413cb1d34f00ebd26dff/16x9/original.png",
+          "published_at": "2026-07-04T09:12:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/efter-valdtakten-mot-meya-fn-andrar-regler-om-utvisning/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "17def4ee2df5",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Krisen ökar pressen: ”Putin är väldigt orolig”",
+          "summary": "Krim pressas nu mer än tidigare under kriget, skriver SVT. Det blir allt svårare för Ryssland att nå Krim – och missnöjet bland befolkningen ökar. – Jag tror att Putin och regimen är väldigt oroliga, säger Johan Norberg, forskare vid Totalförsvarets forskningsinstitut, till SVT.",
+          "body_text": "Krim pressas nu mer än tidigare under kriget, skriver SVT. Det blir allt svårare för Ryssland att nå Krim – och missnöjet bland befolkningen ökar. – Jag tror att Putin och regimen är väldigt oroliga, säger Johan Norberg, forskare vid Totalförsvarets forskningsinstitut, till SVT. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Krim har varit måltavla för Ukrainska attacker i över fyra år, men aldrig tidigare har de varit så intensiva som nu. Bränslet på Krim är till stor del reserverat för samhällsviktiga funktioner som räddningstjänst och polis eftersom bristen är omfattande, rapporterar BBC . Det råder också stor brist på vissa livsmedel. Detta efter att Ukrainas drönarattacker mot logistik och infrastruktur på halvön intensifierats. – Det har aldrig varit i samma omfattning, inte så systematiskt under så lång tid och inte med så stora effekter, säger Johan Norberg, Rysslands kännare och säkerhetspolitisk analytiker vid Totalförsvarets forskningsinstitut till SVT. Situationen på Krim påverkar hela det ryska samhället. Halvön är inte bara en viktig knutpunkt för att försörja de ryska trupperna vid fronten, utan har även en stark politisk påverkan på Ryssland. Det pressade läget i Ryssland och det växande missnöjet sätter stor press på Putin. De ryska myndigheterna har länge förnekat problem, men nu blir krigets konsekvenser allt svårare att dölja. På ryska sociala medier syns ett växande missnöje. – Jag tror att det finns en symbolisk och politisk laddning som är stor i det här, säger Johan Norberg till SVT. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/pressen-pa-putin-okar-krim-isoleras-allt-mer-/",
+          "image_url": "https://static.bonniernews.se/images/60/22/6022ea90184b43fea4ba38043c834026/16x9/original.png",
+          "published_at": "2026-07-04T08:38:39Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/pressen-pa-putin-okar-krim-isoleras-allt-mer-/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "fca9c899c5a8",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4160,7 +4232,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "fe4b725dc041",
@@ -4172,7 +4244,7 @@
           "source_kind": "story",
           "title": "Hemliga affären: Ingen får prata om lyxhuset",
           "summary": "Försäljningen av villa Baidara har varit en av de stora snackisarna på Marstrand. Spotify-miljardären Felix Hagnö har hemlighålligt vad han betalat – men Expressens granskning visar säljarnas mångmiljonvinster. Nu totalrenoverar Hagnö huset. – Vi har skrivit på sekretessavtal och kan inte säga något, säger en hantverkare.",
-          "body_text": "Försäljningen av villa Baidara har varit en av de stora snackisarna på Marstrand. Spotify-miljardären Felix Hagnö har hemlighålligt vad han betalat – men Expressens granskning visar säljarnas mångmiljonvinster. – Vi har skrivit på sekretessavtal och kan inte säga något, säger en hantverkare. Från sjösidan i norr tornar Villa Baidara upp sig – en av Marstrands största och mest exklusiva villor. Den pampiga fastigheten byggdes 1887 som sommarresidens åt kung Oscar II:s livläkare, doktor Helleday. Sedan 1960-talet har villan ägts av familjen Söderberg och under senare år av systrarna Wanja Söderberg och Hannah Kos, via ett handelsbolag. Villa Baidara har aldrig officiellt varit till salu. Trots det har flera intressenter under åren kontaktat ägarna i hopp om att få köpa villan. 2023 valde systrarna att sälja Villa Baidara till Felix Hagnö. Felix Hagnö blev förmögen efter försäljningen av sina aktier i internetbolaget Tradedoubler, som han var med och grundade 1999. Han gick därefter in som en av de första investerarna i Spotify och satsade tio miljoner kronor – och blev miljardär när Spotify börsnoterades. Hagnö har tillbringat många somrar på Marstrand där både hans föräldrar och syskon äger hus. Men det var just Villa Baidara som lockade miljardären. Via jurister upprättades ett hemligt avtal där Felix Hagnö köpte systrarnas handelsbolag, som senare ombildades till Kommanditbolaget Villa Baidara. Upplägget gjorde att köpesumman inte blev offentlig. Hagnö slapp också betala lagfartsavgifter eftersom fastigheten inte formellt bytte ägare.",
+          "body_text": "Försäljningen av villa Baidara har varit en av de stora snackisarna på Marstrand. Spotify-miljardären Felix Hagnö har hemlighålligt vad han betalat – men Expressens granskning visar säljarnas mångmiljonvinster. – Vi har skrivit på sekretessavtal och kan inte säga något, säger en hantverkare. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. Profilens VM-kaos • Nya kärleken • Tuffa operationen Finns flera olika knep • Kan leda till ekonomiska förluster Inifrån storseansen i Västerås • Tjänar miljoner på andevärlden Familjens svåra beslut • ”Ville inte se honom lida, men inte heller dö” Västkustens eget Saint-Tropez – här vill rika bo bland rika Extrema g-krafter, höga höjder och isande temperaturer",
           "url": "https://www.expressen.se/nyheter/sverige/hagnos-hemliga-affar-avslojad-villa-for-120-miljoner/",
           "image_url": "https://static.bonniernews.se/images/ca/20/ca2024cae93c47aab53b583fac5a1701/16x9/original.jpg",
           "published_at": "2026-07-04T03:00:00Z",
@@ -4184,7 +4256,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "266bb945b916",
@@ -4208,7 +4280,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "8144bc03ebb6",
@@ -4232,7 +4304,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "5cd62e49a218",
@@ -4256,7 +4328,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "143150d939ec",
@@ -4280,7 +4352,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "fd8a1ce08e26",
@@ -4297,78 +4369,6 @@
           "image_url": "https://static.bonniernews.se/images/8b/5f/8b5ffb000fd04644a3289fc1539e5adf/16x9/original.png",
           "published_at": "2026-07-03T18:53:46Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/rektor-valdtog-16-aring-fangelse-for-50-valdtakter/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "b698375950ee",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Flera insamlingar till Christian Zedigs familj",
-          "summary": "Flera insamlingar har startats till Christian Zedigs familj. Nu är de uppe i flera hundra tusen.",
-          "body_text": "Flera insamlingar har startats till polisen Christian Zedigs familj. – Det minsta jag kan göra är en insamling så familjen kan få pengar och inte behöver oroa sig ekonomiskt, Oskar Persson, initiativtagare. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. 19-årige Oskar Persson från Nässjö säger att han blev illa berörd av misshandeln av Christian Zedig i Köpenhamn i veckan. – Jag blev otroligt ledsen när jag fick läsa det först, säger han. Det fick honom att starta insamlingen. Tidigt på fredagskvällen hade insamlingen uppgått till över 500 000. – Jag hade ju 50 000 som mål först. Och bara det tycker jag skulle vara sjukt kul ifall man nådde, men det här är otroligt. – Jag vet inte vad jag ska säga för jag är så glad att folk engagerar sig. Även opinionsbildaren och polisen Mustafa Panshiri har startat en insamling till förmån för Christian Zedigs familj. Den kommer att ligga ute under en vecka och kommer presentera den totalt insamlade summan då. Hittills har engagemanget varit stort. – Det kommer underlätta för familjen. Ett tag framöver hoppas jag. Mustafa Panshiri har hållit i liknande insamlingar tidigare. Dådet i Köpenhamn ägde rum, på dagen, fem år efter att polismannen Andreas Danman sköts till döds i tjänsten i Göteborg. – Så jag tänkte mycket på det. Och så hände det här och det bara kändes tomt. Man ser en ilska på sociala medier av olika anledningar och jag tror att många vill göra nånting och då blir det här kanske ett sätt att göra någonting.",
-          "url": "https://www.expressen.se/nyheter/sverige/flera-insamlingar-till-christian-zedigs-familj/",
-          "image_url": "https://static.bonniernews.se/images/8e/c7/8ec7f3d9acc24f08b086ba6caefb73b4/16x9/original.png",
-          "published_at": "2026-07-03T18:13:29Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/flera-insamlingar-till-christian-zedigs-familj/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "56b7f9bb6fb4",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "11-åring väckt av fladdermus – veckor senare var han död",
-          "summary": "En 11-åring i Kanada insjuknade efter en natt i en stuga och avled senare efter vård på sjukhus",
-          "body_text": "En 11-årig pojke vaknade upp med en fladdermus i ansiktet. En och en halv månad senare var han död. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Är du 18–25 år? Nu kan du läsa Expressen gratis i ett år – avslutas automatiskt. Klicka här! 11-åringen vaknade med en fladdermus över näsa och mun – familjen sökte inte vård eftersom han inte verkade biten. Veckor senare kom symtomen. Diagnosen rabies dröjde. Det var sommaren 2024 som en kanadensisk pojke befann sig i en stuga i norra Ontario tillsammans med sin familj när han plötsligt vaknade av en fladdermus i ansiktet, rapporterar kanadensiska CBC . Han slog undan fladdermusen, som låg över hans näsa och mun, och pappan fångade den sedan i en kastrull och släppte ut den. Familjen valde att inte uppsöka vård direkt eftersom pojken inte verkade biten. Men cirka tre veckor senare började han få domningar i ansiktet, något som även har DN skrivit om. Fyra dagar efter att de första symtomen hade framträtt fick han behandling mot misstänkt herpes på en lokal akutmottagning och skickades därefter hem, enligt CNN. Då hade pojken även fått minskad aptit och svullnad i ansiktet. Ytterligare dagar senare hade han drabbats av kräkningar och smärta i svalget, och familjen uppsökte akuten i Ontario. Där hittade man bland annat sår i tandköttet.",
-          "url": "https://www.expressen.se/nyheter/varlden/pojke-fick-fladdermus-i-ansiktet-dog-av-otacka-sjukdomen/",
-          "image_url": "https://static.bonniernews.se/images/27/3c/273cff2397304594bc387ee6be0d71bf/16x9/original.jpg",
-          "published_at": "2026-07-03T15:39:09Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/pojke-fick-fladdermus-i-ansiktet-dog-av-otacka-sjukdomen/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "b1c7dfd35cc2",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Uppgifter: Slaget fångades på film",
-          "summary": "Svenska Christian Zedig utsattes för ett hårt knytnävsslag mot halsen eller käken och föll till marken. Slaget uppges ha fångats på film.",
-          "body_text": "Svenska Christian Zedig utsattes för ett hårt knytnävsslag mot halsen eller käken och föll till marken. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Bråket ska, enligt uppgifter ur polisutredningen, ha uppstått efter att Norge gjorde sitt andra mål i sextondelsfinalen mot Elfenbenskusten. Enligt uppgifterna uppstod tumultet när öl skvättes eller kastades – och träffade bland annat den misstänkta gärningsmannen. Han ska då ha utdelat ett kraftigt slag mot Christian Zedigs hals eller käke. Vem som kastade ölen är okänt. När polisen kom till platsen hittades den svenska 32-åringen på marken. Han fördes till Rigshospitalet med livshotande skador. På fredagen har hans poliskollegor hållit en tyst minut för honom, statsminister Ulf Kristersson har uttryckt sin sorg och rikspolischefen Petra Lundh har uppmärksammat Christian Zedig. Enligt den danska åklagaren som leder förundersökningen, är Christian Zedig inte ännu formellt dödförklarad, enligt TT. Den misstänkta gärningsmannen efterlystes av dansk polis. Och på fredagsmorgonen överlämnade han sig själv till polisen. Under dagen hölls häktningsförhandling mot honom i Köpenhamns tingsrätt. Han nekar till brott och ville under förhandlingen inte ge någon version av händelsen. Som bevisning mot honom finns, enligt uppgifter inifrån polisutredningen, en film som visar knytnävsslaget. Bara en person är misstänkt för brott – även om det förekommer uppgifter om att fler ska vara inblandade. Ett vittne berättade följande för Ekstrabladet i samband med händelsen: – En av de unga männen – en stor kille – svingade en knytnäve mot huvudet på en man i en svensk landslagströja, som omedelbart föll till golvet. Efter det sprang flera av de andra unga pojkarna över och sparkade honom medan han låg på marken, innan flera av pojkarna slutligen flydde och sprang ut från torget. Varken åklagare eller polis har bekräftat att det var flera personer som misshandlade Zedig.",
-          "url": "https://www.expressen.se/nyheter/varlden/uppgifter-knytnavsslaget-mot-svensken-fangades-pa-film/",
-          "image_url": "https://static.bonniernews.se/images/f1/a7/f1a77ec7f8034780ba3ea789824a74ee/16x9/original.png",
-          "published_at": "2026-07-03T15:06:33Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/uppgifter-knytnavsslaget-mot-svensken-fangades-pa-film/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4405,7 +4405,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "En man i 50-årsåldern fördes till sjukhus efter att ha skadats i ett bråk i Storvik, Sandviken natten mot fredag, enligt polisen. En annan man i 50-årsåldern greps misstänkt för brottet. Skadeläget är enligt polisen oklart. Den initiala brottsrubriceringen är försök till mord. En man i 40-årsåldern har gripits, misstänkt för mordförsök i Gislaved efter att ha skadat och jagat en annan man med ett vasst föremål. Polisen larmades till platsen efter uppgifter om gap och skrik. Målsägaren misstänks i sin tur för narkotikainnehav. Det brinner på en förskola i Skärholmen, Stockholm. Räddningstjänsten larmades till branden vid sjutiden i morse och arbetar nu med att släcka den. Det ska inte finnas någon spridningsrisk men det är en kraftig rökspridning, enligt Åsa Sköld på Stockholms brandförsvar. Hur branden startat är ännu oklart. Ingen person ska ha befunnit sig i byggnaden och det finns inga uppgifter om skadade, enligt polisen. Boende i närområdet uppmanas hålla fönster stängda. Polisen har inlett en förundersökning gällande allmänfarlig vårdslöshet. En kvinna i 25-årsåldern ska ha våldtagits i centrala Uppsala under fredagsnatten. Det skriver polisen på sin hemsida. Polisen har påbörjat en förundersökning och spårsäkrat brottsplatsen. Det internationella schackförbundet har beslutat att stänga av den tidigare världsmästaren Vladimir Kramnik sedan han riktat fuskanklagelser mot andra spelare. Ryske Kramnik har bland annat anklagat stormästaren Daniel Naroditsky för att ha fuskat. Förbundet uppger att det tar fusk på allvar, men att Kramnik inte presenterat ”tillräckliga bevis” och att hans agerande strider mot förbundets regler mot nätmobbning. Kramnik skriver till nyhetsbyrån AP att han planerar att överklaga avstängningen, som gäller minst i ett år.",
+          "body_text": "En svensk volontär har blivit skadad i en drönarattack i Ukraina, rapporterar P4 Sörmland . Gruppen har varit i Ukraina för att ge förnödenheter till behövande. Personen skadades lindrigt men fick splitterskador av attacken. Två motorcyklister kolliderade på lördagsförmiddagen i Tived, Laxå. Enligt SOS Alarm ska olyckan ha inträffat i samband med en inbromsning i korsningen mellan länsväg 503 och länsväg 575. En av förarna upplever smärta i ett skulderblad, men båda är vakna och talbara. Det finns ingen misstanke om brott. Den svenska kafékedjan Wayne’s Coffee har gått i konkurs. Bakom konkursen ligger växande hyresskulder, rapporterar Di. När flera kaféer inte har kunnat betala sina hyror har franchisegivaren tagit på sig kostnader och skulder, förklarar bolagets största ägare, Henrik Mattsson, för tidningen. –Det rör sig om tre enheter som inte har kunnat hantera hyran och kostnaderna helt enkelt, säger han. Enligt konkursförvaltaren uppgår skulderna till minst 10 miljoner kronor. Ett annat bolag kommer att driva verksamheten vidare, uppger Henrik Mattsson. Varumärket eller franchisetagarna ska dock inte påverkas. En hund ska ha bitit en okänd man på en promenadstig i ett friluftsområde utanför Kinna. Det bitne mannen blev efter händelsen aggressiv och attackerade både hunden och hundägaren med sparkar. Han ska också ha tagit fram en kniv. Hundägaren slog larm och polis ryckte ut till platsen. Polisen har upprättat anmälningar om brott mot lagen om tillsyn över hund och vållande till kroppsskada rikts mot hundägaren, medan olaga hot, misshandel, skadegörelse och brott mot knivlagen riktas mot den andre mannen. Ett flygplan som färdades mot Amsterdam från Linköping kolliderade med fåglar vid starten – och fick landa på Landvetter i Göteborg, skriver Corren . Flygplanet avgick vid sextiden på lördagsmorgonen från Linköpings flygplats med 122 passagerare ombord. Enligt Corren ska ingen person ha skadats i samband med händelsen.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
