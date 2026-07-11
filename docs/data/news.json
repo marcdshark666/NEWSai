@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T10:11:46Z",
+  "generated_at": "2026-07-11T11:27:25Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Bad om hjälp – ingen tog ansvar • ”Hur sjuk ska man vara för att få hjälp?” Sorgen efter makens självmord: ”Varför är det så tyst om det?” TV4: ”Det viktigaste är att alla våra deltagare och medarbetare är oskadda” Så håller de vattenförbrukningen nere: ”Något som är självklart” Risk för vattenbrist ökar – forskare: ”Behöver höja priset”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Bad om hjälp – ingen tog ansvar • ”Hur sjuk ska man vara för att få hjälp?” Sorgen efter makens självmord: ”Varför är det så tyst om det?” Ombads lämna av personal: ”Inte några småkillar” • TV4 höjer säkerheten på plats Förväntningarna höga inför Norge-England • ”Utan honom hade inte Norge varit här” Hysteri i Norge inför VM-kvartsfinalen: ”Allt är slut” Spanien till VM-semifinal efter seger mot Belgien",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1950,6 +1950,31 @@
           "sort_order": 13
         },
         {
+          "id": "fe700a832d61",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "The Ingraham Angle - Friday, July 10 | Fox News Video",
+          "summary": "Tyler Robinson , Charlie Kirk , Iran",
+          "body_text": "Cutting through the Washington chatter to speak directly with people who are impacted by the news.",
+          "url": "https://www.foxnews.com/video/6400873067112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/6eb2a39b-b72b-4626-a4c2-b37cdaa1bb9e/f3307e54-9a02-41f1-ae82-0701e2fa1d59/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-07-11T08:58:38Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400873067112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "1e863412b60f",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1964,31 +1989,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/7b339c0e-526c-43cb-9c14-f3a8710c39f8/e5cf183a-335d-4a24-a0ce-3b0b44ea221b/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-07-11T08:38:32Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400874108112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "280dc8dc1b83",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Jesse Watters Primetime - Friday, July 10 | Fox News Video",
-          "summary": "Platner, UFO, Charlie Kirk, Trump, Iran",
-          "body_text": "Jesse Watters speaks with newsmakers from across the U.S.",
-          "url": "https://www.foxnews.com/video/6400869086112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/612d7e9c-8deb-4bc7-95de-ae0d84307ed7/5eae4e03-5f7b-4465-a5bf-3def3cf26642/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-07-11T06:38:18Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400869086112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2450,25 +2450,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "8ecb398e2bfc",
+          "id": "21dec54c4a4c",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Mayella Lloclla: “Mi mayor defecto es que todo lo quiero para ayer”",
-          "summary": "La actriz protagonizará junto a Milena Alva la obra \"Baila Luna Báilame\", del 27 de junio al 26 de julio en el Teatro Julieta. Entradas a la venta en Joinnus.",
-          "body_text": "El test de Proust es un cuestionario creado por el novelista francés Marcel Proust. Se trata de un modelo en el que el entrevistado contesta a un formulario que se asemeja a un test psicológico, cuyas preguntas están diseñadas para revelar su personalidad. Esta semana presentamos a Mayella Lloclla. ― ¿Cuál es tu pasatiempo favorito? El mejor pasatiempo es viajar. ― ¿Qué sería, para ti, la felicidad perfecta? Vivir en la naturaleza, con vegetación y playa. ― ¿Cuál es el rasgo que más te define? La perseverancia. ― ¿Cuál consideras tu peor defecto? Todo lo quiero para ayer. ― ¿Qué podría sumirte en la más profunda miseria? No tener sueños. ― ¿Cuál es tu mayor extravagancia? Mi forma de vestir. ― ¿Cuál es el peor defecto que otros pueden tener? La ociosidad. ― ¿Cuáles son las frases o palabras que utilizas con mayor frecuencia? ¡¿En conclusión?! ― ¿Cuál ha sido tu mayor logro? Tener mi familia unida. ― ¿En qué ocasiones mientes? Cuando trabajo (soy actriz). ― ¿Cuándo y dónde has sido absolutamente feliz? Tengo muchos momentos. Cuando nació mi hijo, cuando estuve en el mar del Caribe cristalino viendo el ‘sunset’, cuando estuve en el amanecer del lago Titicaca. También al ver reír a mi familia o los logros de los que me rodean. Son momentos que me llenan de felicidad. ― ¿Cuál crees que ha sido tu mayor inversión? Todo el tiempo que le pongo a mis sueños. ― ¿Qué objeto personal es el que más valor tiene para ti? Por la naturaleza de mi carrera en estos tiempos, sería mi celular. ― ¿Cuál es la cualidad que más admiras en una persona? La inteligencia en todos los sentidos. ― ¿Con qué personaje de la historia es con quien más te identificas? Con la Dama de Cao por ser una líder. ― ¿Cómo te gustaría morir? Rodeada de mi familia y a una avanzada edad. ― Si murieras y se te permitiera volver convertido en otra persona o cosa, ¿cuál crees que sería? En un colibrí. ― ¿Qué talento especial te gustaría tener? Quisiera poder teletransportarme. ― ¿Cuáles son tus escritores favoritos? Robert McKee, Edgar Allan Poe, y otros. ― ¿Qué persona viva te parece despreciable? Los violadores. //",
-          "url": "https://elcomercio.pe/somos/test-de-proust/mayella-lloclla-mi-mayor-defecto-es-que-todo-lo-quiero-para-ayer-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/3OXMA5IIHNEFTN5F3CDRDBCVIQ.jpg?auth=7d37d5b8b4c87ad2098534f8a0afac371b8ed6c90f7e14a4f39bab6b71119b65&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-11T10:00:00Z",
-          "embed_url": "https://elcomercio.pe/somos/test-de-proust/mayella-lloclla-mi-mayor-defecto-es-que-todo-lo-quiero-para-ayer-noticia/",
+          "title": "La influencia de Pedro Castillo en las bancadas del Congreso bicameral: La interna de Juntos por el Perú",
+          "summary": "Desde el penal de Barbadillo, Pedro Castillo logró colocar a su hermano como vocero de la bancada en el Senado, y a su cuñada como portavoz en el grupo de diputados.",
+          "body_text": "Desde el penal de Barbadillo, el preso expresidente Pedro Castillo ya empezó a tomar el control de las bancadas que tendrá Juntos por el Perú (JP) en el nuevo Congreso bicameral. Sus primeros pedidos fueron colocar a su hermano José Castillo (senador) y a su cuñada Yenifer Paredes (diputada) como voceros de los respectivos grupos que tendrá el partido izquierdista. Los congresistas electos de ambas bancadas esperaban debatir sobre la conformación de las vocerías, con el fin de escuchar propuestas y tomar una decisión según la ternas de candidatos que obtengan mayor respaldo en una votación. Sin embargo, el ex postulante presidencial y líder del partido, Roberto Sánchez, llegó a la reunión con una consigna distinta. “El profesor ha dicho que sea su hermano”. Esa es la frase que dijo Sánchez en la reunión, según las fuentes consultadas. Tras la frase, según las mismas fuentes, no se permitió debate. La orden de Pedro Castillo, dada desde Barbadillo, fue acatada y dejó en el aire algunos consensos alcanzados previamente, como el del congresista reelecto Jaime Quito, quien postulaba a ser vocero de la bancada de senadores de JP apelando a su “experiencia”. Sánchez también informó a los congresistas electos que en diputados había llegado a un acuerdo para que el vocero titular sea Ernesto Zunini -secretario general del partido y hombre de su confianza- y la alterna sería Yenifer Paredes, cuñada de Pedro Castillo. Otras fuentes explicaron que el ‘castillismo’ cuenta con mayor peso numérico en la bancada de senadores, lo cual explicaría la razón por la cual Sánchez cedió la vocería. Mientras que Castillo cuenta con ocho senadores (seis profesores y dos que se han acoplado al grupo), Sánchez solo cuenta con seis parlamentarios que puede considerar como “leales”. En diputados, la balanza se encuentra más a favor del ala partidaria, con 16 partidarios de Sánchez, 10 profesores y seis considerados “independientes”. Fuentes del entorno de Juntos por el Perú alegan que la estrategia de Roberto Sánchez -en ceder espacio legislativo a Castillo- apunta a mantener el apoyo de sus bases con miras a las elecciones presidenciales 2031, donde buscará postular por segunda vez a la presidencia de la República. “El análisis de Sánchez es que, al haber ganado Keiko Fujimori, Castillo seguirá preso un tiempo”, relataron las fuentes. A esto se suma de que Sánchez cuenta con la marca partidaria, mientras que el partido de Castillo, Todos con el Pueblo, no logró inscribir las listas suficientes para las elecciones subnacionales de octubre, por lo que perderá su membrete legal. Pero antes de llegar a las elecciones, en la interna de las bancadas de Juntos por el Perú ha surgido la duda sobre cómo será la convivencia entre el bloque de Sánchez y Castillo, sobre todo cuando se definan la repartición de espacios de poder, como la de las presidencias de comisiones ordinarias. Para Jeffrey Radzinky, director de GFP Consultores, queda claro que la facción castillista de Juntos por el Perú llega con una agenda marcada respecto a la liberación del expresidente recluido en Barbadillo. “Roberto Sánchez está procurando mantener ese liderazgo opositor, pero le va a ser complicado porque ni siquiera queda claro que tenga liderazgo en su propia bancada, que sería el punto de partido para luego posicionarse”, dijo en una entrevista en Tenemos que Hablar, el videopodcast de El Comercio. El analista también advirtió que representa una complicación adicional el hecho de que Sánchez no haya logrado una curul en el Congreso.",
+          "url": "https://elcomercio.pe/politica/congreso/la-influencia-de-pedro-castillo-en-las-bancadas-para-el-congreso-bicameral-la-interna-de-juntos-por-el-peru-la-influencia-de-pedro-castillo-en-las-bancadas-para-el-congreso-bicameral-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/GKXQ3OULYFA5TO6KSFHOL57WSA.jpeg?auth=04636b4704c5fd06305e600ea0eff7916d48b36a7a6a9fc1e289d0a150e10bd5&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-11T11:25:18Z",
+          "embed_url": "https://elcomercio.pe/politica/congreso/la-influencia-de-pedro-castillo-en-las-bancadas-para-el-congreso-bicameral-la-interna-de-juntos-por-el-peru-la-influencia-de-pedro-castillo-en-las-bancadas-para-el-congreso-bicameral-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Test de Proust, Entrevistas, Somos, Revista Somos, Diario El Comercio, Mayella Lloclla",
-            "Test de Proust",
+            "Roberto Sanchez, Pedro Castillo, Juntos por el Peru, Congreso, bicameralidad, senadores, diputados, Congreso bicameral",
+            "Congreso",
             "Senaste",
             "El Comercio"
           ],
@@ -2476,25 +2476,25 @@
           "sort_order": 0
         },
         {
-          "id": "8ddda361eedb",
+          "id": "5facf0fc9671",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Noruega vs Inglaterra gratis: hora del partido, canales TV y cómo ver por los cuartos de final del Mundial 2026",
-          "summary": "Transmisión oficial del partido de Noruega vs Inglaterra ONLINE por televisión y streaming por cuartos de final del Mundial 2026 desde Miami.",
-          "body_text": "Noruega vs. Inglaterra por los cuartos de final del Mundial 2026 desde el estadio Miami. El partido arrancará a las 4 de la tarde (horario peruano) este sábado 11 de julio del 2026. ¿Dónde ver partido EN VIVO? En Perú, la transmisión del partido va por DirecTV, DGO y Paramount+. Mientras que en México, la transmisión va a través de Canal 5, Azteca 7, ViX Premium. En España, lo televisa DAZN y Movistar Plus. Además, podrás seguir la transmisión en directo a través de la web de El Comercio.",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/video-noruega-vs-inglaterra-en-vivo-gratis-online-por-mundial-2026-via-directv-paramount-canal-5-azteca-7-y-futbol-libre-tv-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/RXYYITTDVFEMHICVX3QJ2R3CBU.png?auth=9b499c8258495ca0b2dd67303d1051d466c4aec8c9e427689913d1443104642c&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-11T10:00:00Z",
-          "embed_url": "https://cdn.jwplayer.com/videos/CBN2kQId-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
+          "title": "1926: Barranco y la pintura",
+          "summary": "¿Qué se comentaba en el Diario El Comercio un día como hoy hace 100 años?",
+          "body_text": "Un aviso publicado en los diarios de Lima hace saber que, de conformidad con lo dispuesto por el Concejo Distrital de San José de Surco, los propietarios de las fincas situadas en el balneario de Barranco deben pintarlas con colores que en ese aviso se especifican para cada barrio. Sin duda ha querido el municipio propender a una cierta armonía colorista, pero hay que reconocer que no sería dable aducir razón convincente alguna bastante para justificar lo de los diferentes colores para los diversos barrios. Esperemos que la finalidad esencial que se busca no derive en un bolcheviquismo cromático.",
+          "url": "https://elcomercio.pe/opinion/efemerides/1926-barranco-y-la-pintura-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/AHPODHRRH5EAZDHFUFB5HFJJWU.jpg?auth=5c1f0c0ab852c88f051242a49e1b303504fe451dda07319a1f8c9ad5b421eaa7&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-11T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/opinion/efemerides/1926-barranco-y-la-pintura-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
           "tags": [
-            "ESPN, ESPN en vivo, ESPN en directo, ESPN online, ESPN gratis, ESPN hoy, ESPN por internet, ESPN por streaming, ver ESPN, donde ver ESPN, como ver ESPN, donde pasan ESPN, donde transmiten ESPN, señal ESPN, mira ESPN, programacion ESPN, transmision ESPN, canal ESPN, en que canal ver ESPN, en que canal pasan ESPN, en que canal transmiten ESPN, que canal pasa ESPN, que canal transmite ESPN, por que canal pasan ESPN, por que canal ver ESPN, por que canal transmiten ESPN, quien pasa ESPN, quien transmite ESPN, que canal es ESPN, Disney Plus, Disney Plus en vivo, Disney Plus en directo, Disney Plus online, ver Disney Plus, donde ver Disney Plus, como ver Disney Plus, mira Disney Plus, señal Disney Plus, programacion Disney Plus, transmision Disney Plus, en que canal ver Disney Plus, en que canal pasan Disney Plus, en que canal transmiten Disney Plus, quien pasa Disney Plus, quien transmite Disney Plus, que canal pasa Disney Plus, que canal transmite Disney Plus, Mundial 2026, Mundial FIFA, Copa del Mundo 2026, Partidos de hoy, Fútbol en vivo",
-            "Fútbol mundial",
+            "Día como hoy, Hace 100 años",
+            "Efemérides",
             "Senaste",
             "El Comercio"
           ],
@@ -2502,25 +2502,25 @@
           "sort_order": 1
         },
         {
-          "id": "d5749f7c8ad7",
+          "id": "cccafe4e2964",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora se juega el partido de Noruega vs Inglaterra hoy: canales TV que pasan los cuartos de final del Mundial 2026?",
-          "summary": "Revisa la hora del partido entre Noruega e Inglaterra desde el Estadio Miami, este sábado 11 de julio por los cuartos de final del Mundial 2026.",
-          "body_text": "Noruega vs Inglaterra se verán las caras este sábado 11 de julio en el estadio Miami por los cuartos de final del Mundial 2026. El equipo noruego llega a este compromiso tras dejar en el camino a Brasil con un doblete de Erling Haaland, quien ya suma 7 anotaciones en lo que va la Copa del Mundo y quiere seguir marcando más goles en este certamen. Sin embargo, al frente estará el favorito Inglaterra, que superó 3-2 a México en octavos y tiene como líder a Harry Kane. El combinado inglés llega con todo su arsenal y buscará dar el paso hacia las semifinales. ¿A qué hora juega Noruega vs Inglaterra HOY? Revisa los horarios del partido de Noruega vs Inglaterra. El partido Noruega vs Inglaterra por los cuartos de final del Mundial 2026 comienza a la 4:00 PM (hora peruana) y 6:00 PM (hora argentina). Te dejamos todos los horarios, según país. El Noruega vs Inglaterra por los cuartos de final del Mundial 2026 será transmitido a través de DGO, DirecTV y Paramount+ en Perú por cable y streaming. Mientras que en el resto de Sudamérica, el partido de Francia será televisado por DGO, DirecTV y Paramount+. Por otro lado, en México el partido será transmitido a través de Canal 5, TUDN, Azteca 7 y ViX. En España, el partido de la selección de Francia vs. Marruecos se podrá ver por televisión en DAZN y Movistar+. Posteriormente, para países como: Panamá, Puerto Rico, Guatemala, Nicaragua, Honduras, Costa Rica, República Dominicana y El Salvador, el partido va por Tigo Sports y otros canales locales, según el país. Y en Estados Unidos, lo transmite FOX Network, fuboTV, Telemundo, Tubi, FOX One, SiriusXM FC y Futbol de Primera Radio. La partido entre Noruega vs Inglaterra será transmitido ONLINE por DGO y Paramount+. Todas están disponibles en streaming para que lo veas desde tu PC, SmarTV, celular, tablet, etc.",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/a-que-hora-juega-noruega-vs-inglaterra-hoy-horario-canal-tv-y-donde-ver-partido-por-cuartos-de-final-del-mundial-2026-con-erling-haaland-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/LWPFQMSCUVA3JDR3KJ6AZ44DWA.png?auth=8f05c72c757984615fee4345ece7aba22e48acbf06126eaa5407fe1e08c845aa&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-11T10:00:00Z",
-          "embed_url": "https://cdn.jwplayer.com/videos/CBN2kQId-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
+          "title": "Más ambición y claridad",
+          "summary": "Keiko Fujimori no podrá cumplir sus principales promesas si no reconstruye la capacidad del Estado de ejecutar obras y brindar servicios eficientes. Eso debe comenzar desde el primer día con los equipos de transferencia, que no deben limitarse a hacer un diagnóstico de cada sector para ver por dónde empezar. Deben ser más ambiciosos: identificar gastos y programas inútiles o redundantes o que no corresponden a un Estado subsidiario, a fin de generar ahorros que se van a necesitar para financiar necesidades urgentes y muy costosas como los trabajos de prevención de El Niño, la compra de equipos y tecnología para la PNP, las unidades de flagrancia, la construcción inmediata de cárceles, la formalización de mineros informales para no tener que renovar el Reinfo y el plan de 100 días para el sur del Perú.",
+          "body_text": "Keiko Fujimori no podrá cumplir sus principales promesas si no reconstruye la capacidad del Estado de ejecutar obras y brindar servicios eficientes. Eso debe comenzar desde el primer día con los equipos de transferencia, que no deben limitarse a hacer un diagnóstico de cada sector para ver por dónde empezar. Deben ser más ambiciosos: identificar gastos y programas inútiles o redundantes o que no corresponden a un Estado subsidiario, a fin de generar ahorros que se van a necesitar para financiar necesidades urgentes y muy costosas como los trabajos de prevención de El Niño, la compra de equipos y tecnología para la PNP, las unidades de flagrancia, la construcción inmediata de cárceles, la formalización de mineros informales para no tener que renovar el Reinfo y el plan de 100 días para el sur del Perú. Produce, por poner un ejemplo, destina mucho presupuesto y consultorías a programas y subsidios para “promover” empresas, cuando la mejor manera de promoverlas es eliminar regulaciones y trabas. Hay allí mucho gasto que se podría suprimir o reducir. Si no comenzamos desde el inicio con esa mirada, nos quedaremos con un Estado paquidérmico e inútil. Las señales tienen que ser claras desde el principio. Anunciar, por ejemplo, que solo se ingresará al Estado por mérito, o por concurso, y que los tarjetazos quedan proscritos. Disciplina absoluta en eso. No puede ocurrir lo que pasó –hablando de El Niño– con la Autoridad para la Reconstrucción con Cambios (ARCC), creada en el 2017, que elaboró un plan de prevención financiado por el BID para acondicionar las cuencas de 13 regiones para que los ríos no trajeran un caudal excesivo: forestación en las partes altas y reservorios en las partes medias para retener e infiltrar el agua. Y drenajes pluviales en las ciudades. Por fin aprendíamos la lección. Pero nada se hizo. Apenas unas defensas ribereñas en las partes bajas, que se desmoronaron a la primera crecida de los ríos en el 2024. ¿Qué pasó? La mencionada autoridad fue asaltada por políticos y recomendados del entorno de Pedro Castillo. Se convirtió en un botín presupuestal más. Sería bueno que el nuevo Congreso investigue ese caso y vea qué lecciones extraer, porque en el 2023 la ARCC fue reemplazada por la Autoridad Nacional de Infraestructura (ANIN), que tampoco ha ejecutado las obras de fondo. Ahora solo queda descolmatar y enrocar puntos críticos a toda velocidad, difundir cultivos hidropónicos y pastos cultivados en la sierra sur contra la sequía, y rezar a Dios. Sísifo ya debe estar agotado. Por ello, la meritocracia en el Estado a todo nivel debe ser una obsesión del nuevo gobierno. Eso y una desregulación profunda son la única manera de luchar contra la corrupción. Las obras comienzan y no terminan, el presupuesto de Salud se ha multiplicado por ocho en términos reales en los últimos 25 años y el servicio no mejora… El robo se ha normalizado. Con este Estado poco podrá hacer. Keiko Fujimori tiene que explicar claramente la necesidad de las reformas de segunda generación para que la opinión pública la apoye porque acá lo único que importa es que los servicios públicos atiendan bien a la gente.",
+          "url": "https://elcomercio.pe/opinion/columnistas/mas-ambicion-y-claridad-por-jaime-de-althaus-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/EDPN2D2A2FEV3PQA75SPO5VYJ4.png?auth=4a11194fd8465ec9121e0eafab5fd3edd4a85cb75af5befacda78f65853ed0ec&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-11T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/opinion/columnistas/mas-ambicion-y-claridad-por-jaime-de-althaus-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
           "tags": [
-            "Noruega vs Inglaterra, Noruega vs Inglaterra en vivo, Noruega vs Inglaterra en directo, Noruega vs Inglaterra hoy, Noruega vs Inglaterra online, Noruega vs Inglaterra gratis, Noruega vs Inglaterra por internet, Noruega vs Inglaterra por streaming, hora Noruega vs Inglaterra, horarios Noruega vs Inglaterra, a que hora juega Noruega vs Inglaterra, cuando juega Noruega vs Inglaterra, donde juega Noruega vs Inglaterra, hora del partido Noruega vs Inglaterra, horarios del partido Noruega vs Inglaterra, a que hora inicia Noruega vs Inglaterra, a que hora comienza Noruega vs Inglaterra, a que hora empieza Noruega vs Inglaterra, a que hora juegan Noruega vs Inglaterra, a que hora juega Noruega vs Inglaterra hoy, a que hora van a jugar Noruega vs Inglaterra, a que hora jugara Noruega vs Inglaterra, canal Noruega vs Inglaterra, canales Noruega vs Inglaterra, en que canal ver Noruega vs Inglaterra, en que canal pasan Noruega vs Inglaterra, en que canal transmiten Noruega vs Inglaterra, en que canales pasan Noruega vs Inglaterra, en que canales transmiten Noruega vs Inglaterra, en que canales ver Noruega vs Inglaterra, canales TV Noruega vs Inglaterra, canales TV que pasan Noruega vs Inglaterra, canales TV que transmiten Noruega vs Inglaterra, Mundial 2026, Copa del Mundo 2026, Copa Mundial FIFA 2026, Partidos de hoy, Fútbol en vivo, DirecTV, DirecTV Sports, DGO, DSports, Paramount",
-            "Fútbol mundial",
+            "Keiko Fujimori",
+            "Columnistas",
             "Senaste",
             "El Comercio"
           ],
@@ -4071,6 +4071,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "675078202f31",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Lovar hämnd för fadern",
+          "summary": "Mojtaba Khamenei, son till Irans dödade ayatolla Ali Khamenei, lovar att hämnas sin fars död.",
+          "body_text": "Mojtaba Khamenei, son till Irans dödade ayatolla Ali Khamenei, lovar att hämnas sin fars död. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Hämnd för den forne ayatollan är ”nationens krav”, enligt ett skriftligt uttalande som påstås komma från Mojtaba Khamenei. ”Vi lovar att hämnas ditt oskyldiga blod och alla martyrers blod i dessa krig från de kriminella och vanärande mördarna. Denna hämnd är vår nations vilja och måste verkställas”, lyder skrivelsen enligt statsstyrda Fars. Khamenei den yngre, som efterträtt sin far som högste ledare, har inte synts till i offentligheten sedan attacken som dödade Ali Khamenei i slutet av februari. Inte heller under veckans begravningsceremonier för fadern dök han upp, och enligt mångfaldiga rapporter är han sannolikt skadad eller vanställd. Iranska statliga medier har vid flera tillfällen släppt skriftliga uttalanden som påstås komma från den nye ayatollan. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/khamenei-den-yngre-lovar-hamnd-for-fadern/",
+          "image_url": "https://static.bonniernews.se/images/c2/7b/c27b01044dd44bc49c8e04e5ee044223/16x9/original.jpg",
+          "published_at": "2026-07-11T11:13:48Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/khamenei-den-yngre-lovar-hamnd-for-fadern/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "35077d6004e0",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Trump stämmer reportrar",
+          "summary": "Flera journalister på The New York Times stäms av Donald Trumps regering. Det sker sedan tidningen rapporterat om säkerhetsproblem med presidentens nya flygplan.",
+          "body_text": "Flera journalister på The New York Times stäms av Donald Trumps regering. Det sker sedan tidningen rapporterat om säkerhetsproblem med presidentens nya flygplan. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. När president Trump åkte hem från Natomötet i Ankara i veckan reste han med ett äldre Air Force One-plan, inte det skänkta flygplan från Qatar som han kom dit med. Enligt The New York Times, som hänvisade till källor nära presidenten, berodde bytet på säkerhetsbrister hos det nya planet. Vita huset förnekade uppgifterna och på fredagen stämdes reportrarna. ”Att federala agenter dyker upp på nyhetsreportrars tröskel borde chockera alla amerikaner som tror på konstitutionen och pressfriheten som den skyddar”, skriver tidningens advokat David McCraw i ett uttalande. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/reportrar-stams-skrev-om-brister-pa-trumps-lyxplan/",
+          "image_url": "https://static.bonniernews.se/images/d0/ca/d0ca2f1ef68d466ca95be09350d7cbb6/16x9/original.jpg",
+          "published_at": "2026-07-11T10:29:04Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/reportrar-stams-skrev-om-brister-pa-trumps-lyxplan/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "065c44f401a1",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4092,7 +4140,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "5a5137c17c34",
@@ -4116,7 +4164,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "1b000993d937",
@@ -4140,7 +4188,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "a740304deff5",
@@ -4164,7 +4212,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "778034654f44",
@@ -4188,7 +4236,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "1ff007e8ec0d",
@@ -4212,7 +4260,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "6b7a01bf63a3",
@@ -4222,12 +4270,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Ella, 24, var hemlös – sov bakom elskåp",
-          "summary": "Hon har sovit bakom elskåp och på T-centralen. Nu har Ella, 24, äntligen en lägenhet. – När det var som kallast tog jag lån hos Klarna för att kunna ta in på enklare hotell då och då, säger hon.",
-          "body_text": "Hon har sovit bakom elskåp och på T-centralen. – När det var som kallast tog jag lån hos Klarna för att kunna ta in på enklare hotell då och då, säger hon. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. Stjärnskottet Valter Nilsson om sonen: ”Måste säga åt folk” Soldaten Ivan såg aldrig ultraljudsbilden DOKUMENTÄR: Kvinnan såldes till över 100 män Dyra kurser och seanser: ”Tystnadskultur” Carina: ”Behandlas som drottning” • Affärer för miljarder Historien bakom Bajen: ”Står inte nedskrivet”",
+          "title": "Premium Sverige I dag 05.00 Ella, 24, var hemlös – sov bakom elskåp",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/ella-24-var-hemlos-sov-bakom-elskap/",
-          "image_url": "https://static.bonniernews.se/images/83/94/83947caa4eac4f6fa4ee6ede270f9fdf/16x9/original.jpg",
-          "published_at": "2026-07-11T03:00:00Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/ella-24-var-hemlos-sov-bakom-elskap/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4235,8 +4283,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 6
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "088f6a93a843",
@@ -4246,12 +4294,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Hemlösa kvinnor dör tidigare – i sämre skick",
-          "summary": "Kvinnor i hemlöshet utsätts ofta för diskriminering i vården och dör i förtid. – Könsnormer och fördomar gör att de söker hjälp senare än män och många har flytt partnervåld, säger forskaren Åsa Kneck. ✓ Kunskapsglappet: Insatserna utgår från manliga perspektiv. ✓ Vanligt att sakna legitimation och inte vara listad på vårdcentral.",
-          "body_text": "Premium Kvinnor i hemlöshet utsätts ofta för diskriminering i vården och dör i förtid. – Könsnormer och fördomar gör att de söker hjälp senare än män och många har flytt partnervåld, säger forskaren Åsa Kneck. Kunskapsglappet: Insatserna utgår från manliga perspektiv. Vanligt att sakna legitimation och inte vara listad på vårdcentral. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. Mystiska inlägget blev viralt: ”Bedrägeri”",
+          "title": "Premium Sverige I dag 05.00 Hemlösa kvinnor dör tidigare – i sämre skick",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/hemlosa-kvinnor-dor-tidigare-i-samre-skick/",
-          "image_url": "https://static.bonniernews.se/images/87/31/873162c0dde345768a0c9480c74c1c76/16x9/original.jpg",
-          "published_at": "2026-07-11T03:00:00Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/hemlosa-kvinnor-dor-tidigare-i-samre-skick/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4259,55 +4307,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "46283f8514ae",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Kung Charles möter barnbarnen för första gången på fyra år",
-          "summary": "Kung Charles möter barnbarnen för första gången på fyra år",
-          "body_text": "Kung Charles fick träffa sina barnbarn för första gången på fyra år. Prins Harry, hans fru Meghan Markle och deras två barn besökte på fredagen det brittiska kungaparet för första gången sedan 2022. Det var in i det sista oklart – av säkerhetsskäl – om Meghan och barnen skulle komma till Storbritannien. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kung Charles och drottning Camilla tog på fredagen emot prins Harry, Meghan Markle och deras barn, prins Archie, 7, och prinsessan Lilibet, 5, meddelar det brittiska hovet. Mötet ägde rum på Highgrove House, kungens privata lantegendom i Glouecestershire i sydvästra England. Det var länge oklart om återföreningen skulle bli av eftersom brittiska myndigheter sade nej till Harrys begäran om polisskydd för familjen. Det var första gången på fyra år kungen träffade sina barnbarn. Senast möttes de i juni 2022 när Harry med familj reste till Storbritannien för att delta när drottning Elizabeth firade sina 75 år på tronen. – Det var ett fantastiskt besök. Kronprinsen (Charles) var mycket glad över att träffa sin sonson och se sin sondotter för första gången, sade en kunglig källa den gången. Inga bilder och kommentarer väntas bli offentliggjorda från fredagens möte som betecknas privat. Nu var familjen på semester i Frankrike när Harry den 6 juli reste till Storbritannien för att delta i en rad möten. Sedan Harry lämnade det kungliga arbetet har han och hans familj fått sitt polisskydd nedgraderat – och på grund av kontroversen om säkerhetsvakter vara det osäkert om Meghan och barnen skulle följa med honom. – Prinsen fortsätter att undersöka varje tillgänglig möjlighet att genomföra besöket säkert och ge hans barn möjligheten att njuta av Storbritannien, sade en representant för prinsparet förra veckan. Harry och Megan flyttade till Kalifornien sedan de 2020 upphört att vara ”arbetande medlemmar” av den kungliga familjen. Sedan dess har deras relationer med familjen varit spänt, bland annat på grund av deras kontroversiella framträdanden i medier.",
-          "url": "https://www.expressen.se/nyheter/varlden/moter-barnbarnen-for-forsta-gangen-pa-fyra-ar/",
-          "image_url": "https://static.bonniernews.se/images/9f/8d/9f8d5da7386e4c2fb4bb2a362770dc5d/16x9/original.jpg",
-          "published_at": "2026-07-10T22:13:58Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/moter-barnbarnen-for-forsta-gangen-pa-fyra-ar/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "937fdf3f7e09",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Trump plan efter Irans mordplan: 1 000 robotar",
-          "summary": "Donald Trump säger att han lämnat instruktioner om Iran skulle lyckas med en mordplan mot honom.",
-          "body_text": "Iran har planer på att mörda Donald Trump. Nu säger Trump att han lämnat instruktioner för en eventuell hämnd – om Iran skulle lyckas. – Bokstavligen bomba dem på nivåer som de aldrig tidigare har skådat, säger Trump till New York Post. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Donald Trump säger att han lämnat instruktioner om Iran skulle lyckas mörda honom, rapporterar New York Post. Samtidigt skärps säkerheten vid Vita huset efter uppgifter om en iransk mordplan. Trump säger att Iran bett om att återuppta förhandlingarna. Israeliska underrättelsekällor uppgav att Iran har planer på att mörda Donald Trump, vilket som även Trump bekräftade kort innan han lämnade Nato-mötet i Ankara, rapporterar Wall Street Journal . Tidningens uppgifter tyder på att hotet är dagsaktuellt, vilket Trump inte ville kommentera. Nu har Trump lämnat en plan för en eventuell hämnd om Iran skulle lyckas med sin mordkomplott, skriver New York Post. – Det enda är att jag har lämnat instruktioner – om något händer, att bokstavligen bomba dem på nivåer som de aldrig tidigare har skådat, säger Trump till New York Post. Tidigt på lördagsmorgonen utvecklar Trump sitt resonemang och skickar direkta hot mot Iran på Truth Social. ”1 000 robotar är laddade och riktade mot Islamiska republiken Iran, och tusentals fler kommer omedelbart att följa, om den iranska regeringen verkställer sitt hot – som uttalats på många håll runtom i världen – att mörda, eller försöka mörda, USA:s sittande president, i det här fallet MIG!”, skriver presidenten på plattformen och menar att det skulle ”fullständigt decimera” Iran.",
-          "url": "https://www.expressen.se/nyheter/varlden/efter-mordplanen-lamnat-instruktioner-for-hamnd/",
-          "image_url": "https://static.bonniernews.se/images/01/ae/01ae651c47c842e691d20b9c16a289f5/16x9/original.png",
-          "published_at": "2026-07-10T21:43:03Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/efter-mordplanen-lamnat-instruktioner-for-hamnd/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4323,35 +4323,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Två bilar har kolliderat på E6:an i Kungsbacka, enligt polisen. Den ena har kört in i den andra bakifrån, säger polisens presstalesperson Emelie Lundqvist. – Det verkar inte vara någon som direkt är skadad, men någon klagar på lite smärta, säger hon. Trafikpåverkan bedöms vara mycket stor, skriver Trafikverket. Ett körfält är avstängt på platsen. Natten till fredagen larmades polisen till Björkfors söder om Linköping. Flera personer på fyrhjulingar ska ha uppträtt störande utanför en fastighet. I samband med att personerna konfronterades, ska en av dem dragit ett vapenliknande föremål och avlossat det mot en hage med djur. Ingen skadades vid händelsen men nu berättar Aftonbladet att alltsammans hände nära huset där TV4:s ”Farmen” spelas in. – Det stämmer att det var en incident vid inspelningen natten till igår. Vår personal på plats agerade enligt våra rutiner och polis larmades och var snabbt på plats. Det viktigaste är att alla våra deltagare och medarbetare är oskadda och nu vill vi se till att alla får en så bra upplevelse av fortsatta inspelningen av Farmen som möjligt, säger Joel Bendrik, producent för TV4, till tidningen. Ingen är gripen för brottet, som rubriceras som olaga hot. Polis och räddningstjänst har kallats till ett flerbostadshus på Kungsholmen i Stockholm med anledning av en misstänkt explosion. – Man misstänker att det är ett batteri som exploderat. Minst en person är skadad och har förts med ambulans till sjukhus, säger polisens presstalesperson Per Fahlström. I samband med händelsen uppstod en mindre brand som räddningstjänsten har hanterat. – Vi ska framöver utreda om det är någon form av brott som har begåtts eller om det var en olycka, säger Per Fahlström.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
