@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:28:21Z",
+  "generated_at": "2026-07-12T23:33:26Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "36e1aadaf7be",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Oljepriset stiger efter attacker",
+          "summary": "Nyheter från TV4: Oljepriset stiger efter attacker",
+          "body_text": "Oljepriset fortsätter att stiga. Arkivbild på en oljepump i Bahrain. Råoljepriserna klättrar när handeln öppnar för en ny vecka. Uppgångarna kommer efter ännu en helg av attacker mellan USA och Iran kring Hormuzsundet. Cirka en timme in i handeln hade Brentoljans septembertermin stigit med 3,1 procent till 78,39 dollar per fat, enligt CNBC .",
+          "url": "https://www.tv4.se/artikel/tt-260713-oljepris1-37efd60e/oljepriset-stiger-efter-attacker",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlBnNwg6qdqMg/2951632d13e92ea88ffd2c12d3ea9e82/Oljepriset_fortsatter_att_stiga._Arkivbild_pa_en_oljepump_i_Bahrain.",
+          "published_at": "2026-07-12T23:00:02Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260713-oljepris1-37efd60e/oljepriset-stiger-efter-attacker",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "2d5a953aae62",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "400ffd6ef812",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "7e414b195d60",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "834d3b948b91",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlR3vZpvvM_BI/b9e5a88e05fca9c52723d002f4864a31/B_rspilarna_pekar_upp__verallt_f_r_n_rvarande._Arkivbild.",
           "published_at": "2026-07-11T18:04:22Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260711-fondspar1-1daa3a32/svenskarna-har-mer-an-10-000-miljarder-i-fonder",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "f04ed80e6de2",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Reportrar stäms – skrev om brister på Trumps lyxplan",
-          "summary": "Nyheter från TV4: Reportrar stäms – skrev om brister på Trumps lyxplan",
-          "body_text": "Nya Air Force One, som Trump har fått i gåva från Qatar, ska ha renoverats för omkring 3,8 miljarder kronor. Gåvan har väckt etiska och säkerhetsmässiga farhågor. Reportrar stäms – skrev om brister på Trumps lyxplan I lördags 12:06 ・ Uppdaterad: I lördags 12:06 Flera journalister på The New York Times stäms av Donald Trumps regering. Det sker sedan tidningen rapporterat om säkerhetsproblem med presidentens nya flygplan. När president Trump åkte hem från Natomötet i Ankara i veckan reste han med ett äldre Air Force One-plan, inte det skänkta flygplan från Qatar som han kom dit med. Enligt The New York Times, som hänvisade till källor nära presidenten, berodde bytet på säkerhetsbrister hos det nya planet. Vita huset förnekade uppgifterna och på fredagen stämdes reportrarna. ”Att federala agenter dyker upp på nyhetsreportrars tröskel borde chockera alla amerikaner som tror på konstitutionen och pressfriheten som den skyddar”, skriver tidningens advokat David McCraw i ett uttalande.",
-          "url": "https://www.tv4.se/artikel/tt-260711-usatrumpplan1-ff4184b9/reportrar-stams-skrev-om-brister-pa-trumps-lyxplan",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlqEc2NJDNt8Q/e9b2aecfe5d7b9646b99c1697626e1b7/Nya_Air_Force_One__som_Trump_har_fatt_i_gava_fran_Qatar__ska_ha_renoverats_for_omkring_3_8_miljarder_kronor._Gavan_har_vackt_et.",
-          "published_at": "2026-07-11T10:06:45Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260711-usatrumpplan1-ff4184b9/reportrar-stams-skrev-om-brister-pa-trumps-lyxplan",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -339,20 +339,20 @@
           "sort_order": 0
         },
         {
-          "id": "5b4d35e8d3e1",
+          "id": "ef7abd86b38f",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Idag 16:00",
+          "title": "Rapport – Igår 23:05",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Publicerades: Igår 23:05 Igår 23:05 • 5 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/86dd7pX/rapport/idag-16-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54503402/1783865656?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-12T16:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/86dd7pX/rapport/idag-16-00?video=visa",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/KPBB5mA/rapport/igar-23-05?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54505079/1783891346?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-12T21:05:00Z",
+          "embed_url": "https://www.svtplay.se/video/KPBB5mA/rapport/igar-23-05?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -363,20 +363,20 @@
           "sort_order": 1
         },
         {
-          "id": "463f81200277",
+          "id": "5b4d35e8d3e1",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Ikväll 23:05",
+          "title": "Rapport – Idag 16:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Publicerades: Igår 23:05 Igår 23:05 • 5 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/KPBB5mA/rapport/ikvall-23-05?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54505079/1783891346?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-12T07:02:00Z",
-          "embed_url": "https://www.svtplay.se/video/KPBB5mA/rapport/ikvall-23-05?video=visa",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/86dd7pX/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54503402/1783865656?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-12T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/86dd7pX/rapport/idag-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -516,7 +516,7 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 21:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Publicerades: Igår 23:05 Igår 23:05 • 5 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jGVVMwq/rapport/ikvall-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54504995/1783884201?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-12T07:02:00Z",
@@ -540,7 +540,7 @@
           "source_kind": "video",
           "title": "Rapport – Igår 21:45",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Publicerades: Igår 23:05 Igår 23:05 • 5 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KrQQmrn/rapport/igar-21-45?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54502214/1783800106?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-11T21:45:00Z",
@@ -588,7 +588,7 @@
           "source_kind": "video",
           "title": "Rapport – Igår 16:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Publicerades: Igår 23:05 Igår 23:05 • 5 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 15 sek Publicerades: Lör 11 jul 21:45 Lör 11 jul • 4 min 54 sek Publicerades: Lör 11 jul 16:00 Lör 11 jul • 3 min 2 sek Publicerades: Fre 10 jul 23:30 4 min 44 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jN33zxM/rapport/igar-16-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54501650/1783779136?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-11T16:00:00Z",
@@ -1625,6 +1625,81 @@
           "sort_order": 0
         },
         {
+          "id": "b5c69e20da59",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "US forces hit about 140 targets in Iran Saturday night | Fox News Video",
+          "summary": "‘The Big Weekend Show’ co-hosts discuss U.S. forces striking about 140 Iranian military targets Saturday night, bringing CENTCOM’s three-night total to more than 300 targets.",
+          "body_text": "‘The Big Weekend Show’ co-hosts discuss U.S. forces striking about 140 Iranian military targets Saturday night, bringing CENTCOM’s three-night total to more than 300 targets.",
+          "url": "https://www.foxnews.com/video/6400987287112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c97e7100-cf18-4a47-92af-42ff64b95a1c/1ae8ceb7-9723-464e-ad32-0105f48bd745/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-12T23:00:25Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400987287112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "6bb7edae341f",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Convicted sex offender deported after Walz pardon | Fox News Video",
+          "summary": "‘Fox News @ Night’ panelists discuss Minnesota Gov. Tim Walz's decision to pardon a convicted sex offender and an investigation into a fatal I.C.E. shooting in Texas.",
+          "body_text": "‘Fox News @ Night’ panelists discuss Minnesota Gov. Tim Walz's decision to pardon a convicted sex offender and an investigation into a fatal I.C.E. shooting in Texas.",
+          "url": "https://www.foxnews.com/video/6400986647112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28b8833d-ed7a-44ee-b36a-77137d606d81/ef1a89c8-0b31-419c-8a96-589a380ecb8a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-12T22:32:31Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400986647112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "6b3596ce7d20",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Medical examiner releases preliminary findings in Lindsey Graham's death | Fox News Video",
+          "summary": "Fox News correspondent Mark Meredith reports on the latest in the death of Sen. Lindsey Graham, R-S.C., as the Washington, D.C., medical examiner releases preliminary findings on ‘The Big Weekend Show.’",
+          "body_text": "Fox News correspondent Mark Meredith reports on the latest in the death of Sen. Lindsey Graham, R-S.C., as the Washington, D.C., medical examiner releases preliminary findings on ‘The Big Weekend Show.’",
+          "url": "https://www.foxnews.com/video/6400985530112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20e3148a-85e0-4a54-8cc4-7058e50b09f8/135c271f-bf34-48e4-8049-781fdd710e78/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-12T22:19:39Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400985530112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
           "id": "9c1f9b57e2e9",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1647,7 +1722,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "c4a1d5a418a3",
@@ -1672,7 +1747,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "9feb7f7b3030",
@@ -1697,7 +1772,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "b9f05c70eb5b",
@@ -1722,7 +1797,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "f5f32fa0dbee",
@@ -1747,7 +1822,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "8ffd9b5b0026",
@@ -1772,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "b6dd5fb4d274",
@@ -1789,81 +1864,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8d7fc6a-c781-4477-a794-3876a2cc6c93/d6a30015-90f3-4740-a3b9-57a094aab889/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-07-12T20:52:45Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400981859112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "9a5b9d500748",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "9/11 Legacy Foundation keeps its promise to 'Never Forget' | Fox News Video",
-          "summary": "9/11 Legacy Foundation founder and CEO Dr. Chris Meek discusses the organization's mission to educate younger generations about the September 11th attacks on 'Fox News Live.'",
-          "body_text": "9/11 Legacy Foundation founder and CEO Dr. Chris Meek discusses the organization's mission to educate younger generations about the September 11th attacks on 'Fox News Live.' 9/11 Legacy Foundation founder and CEO Dr. Chris Meek emphasizes the critical mission to educate over 100 million Americans born after September 11th, 2001. Meek advocates for an active and engaging curriculum beyond textbooks that fosters patriotism, honor, remembrance and unity, which he says is crucial for the nation's next 250 years.",
-          "url": "https://www.foxnews.com/video/6400979748112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a3263da1-413b-41f6-b531-2b716aedd3dc/4b887382-f0f4-46e7-9035-489b067077f4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-12T20:44:14Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400979748112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "80b3a84b531d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "CENTCOM strikes Iran after Trump deadline expires | Fox News Video",
-          "summary": "Fox News senior correspondent Mike Tobin reports on CENTCOM strikes against Iran following the expiration of President Donald Trump's deadline, as explosions are reported near the Strait of Hormuz on ‘Fox Report.’",
-          "body_text": "Fox News senior correspondent Mike Tobin reports on CENTCOM strikes against Iran following the expiration of President Donald Trump's deadline, as explosions are reported near the Strait of Hormuz on ‘Fox Report.’",
-          "url": "https://www.foxnews.com/video/6400978055112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a2212eb-e770-49b3-a65b-78d22120a506/02325eb3-8285-470a-b49a-3320037df701/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-12T20:36:58Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400978055112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "cdeecddf5a93",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Capitol Hill mourns Sen. Lindsey Graham's death, succession race begins | Fox News Video",
-          "summary": "Fox News chief congressional correspondent Chad Pergram reports on Capitol Hill's sorrow over Senator Lindsey Graham's death, highlighting his humor and political effectiveness. South Carolina's Pete Ricketts praises Graham's direct approach.",
-          "body_text": "Fox News chief congressional correspondent Chad Pergram reports on Capitol Hill's sorrow over Senator Lindsey Graham's death, highlighting his humor and political effectiveness. South Carolina's Pete Ricketts praises Graham's direct approach. Fox News chief congressional correspondent Chad Pergram details Capitol Hill's tributes to Sen. Lindsey Graham, R-S.C., with Nebraska Senator Pete Ricketts praising Graham's charming humor. Pergram discusses the significant political vacuum left by Graham's death, emphasizing the impending special election and potential candidates like Russell Fry and Nancy Mace. South Carolina's Governor will appoint an interim successor.",
-          "url": "https://www.foxnews.com/video/6400976890112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aef17062-a360-474b-bca3-e0b0cfecd84a/9babf511-1f99-48bc-b6e1-d6352f2e437f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-12T20:29:49Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6400976890112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2025,10 +2025,10 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "At least 27 killed in Bangkok bar fire",
-          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
+          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
           "body_text": "At least 27 people have been killed in a fire that tore through a bar in Bangkok, Thailand's prime minister has said. Firefighters were called to the scene just after midnight on Monday, and discovered patrons fleeing through the flame-enveloped front door of the venue. Footage posted on X shows flames blasting out of the bar as people run out, some screaming, and some falling over. At least two people appear to be on fire. Prime Minister Anutin Charnvirakul told media at the scene that 27 bodies have been recovered, and others have been taken to hospital. The cause of the fire is still under investigation, he said. Firefighters were reportedly able to bring the flames under control in about half an hour, but the result was already devastating. Local reports said that nine men and 18 women make up the 27 who were killed. More than 60 people are being treated in hospital. A number of people are still missing, Thai outlet Thairath reported . The prime minister told reporters that he asked a musician, who was performing when the fire started, what happened. \"He said that there was a fire at the cut-out switch, and after that things happened very quickly. There was blasting and everybody tried to flee from the smoke and flames. \"Many of them were not able to make their way out because they went to the back of the building and tried to hide themselves from the smoke and flames in the toilet, and that's where we found most of the bodies.\" The bar - named locally as Rong Beer Na Lat Phrao - is located in the Chatuchak district of Bangkok. It is a popular restaurant and entertainment venue in the area, Thai outlet the Daily News reported . Confronting pictures taken after the fire had been brought under control show many body bags lined up outside the bar, and a large cordon around the area.",
           "url": "https://www.bbc.com/news/articles/c24yev53q06o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/51a3/live/23c24750-7e34-11f1-b976-0b9c15b0ccfc.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9b80/live/97127080-7e44-11f1-b976-0b9c15b0ccfc.jpg",
           "published_at": "2026-07-12T19:45:05Z",
           "embed_url": "https://www.bbc.com/news/articles/c24yev53q06o",
           "play_mode": "page_iframe",
@@ -2169,7 +2169,7 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "US senator and Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-          "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+          "summary": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
           "body_text": "Republican Senator Lindsey Graham, a close ally of US President Donald Trump, has died at the age of 71. He died on Saturday evening following a \"brief and sudden illness\", according to his office. Elected to the Senate in 2002, the South Carolina politician was one of Washington's most influential voices on foreign policy, often pushing for US military intervention overseas. Donald Trump said Graham was a \"true American Patriot\" who would be \"greatly missed\". Preliminary findings from the medical examiner suggest Graham's death was caused by a rupture of his aorta, a key artery in the heart, his spokesman said in a statement. Graham had just returned from Kyiv, where he met Ukrainian President Volodymyr Zelensky on Friday. There were no known health concerns ahead of his trip. Trump told NBC News that he had spoken with Graham hours before his death and the senator \"sounded great\" but a little tired. Graham was previously a vocal critic of Donald Trump, calling him a \"race-baiting, xenophobic, religious bigot\" in 2015. The next year, ahead of the 2016 presidential election, he said: \"If we nominate Trump, we will get destroyed... and we will deserve it.\" After the US Capitol riots in 2021, Graham told the Senate: \"Trump and I, we've had a hell of a journey. I hate it to end this way. \"All I can say is a count me out. Enough is enough.\" But over time his tone towards the president softened. He voted against convicting Trump in the 2021 impeachment trial, and supported his election in 2024. Graham cited Trump's record on the US southern border, the killing of Iran's powerful military commander Qasem Soleimani and the appointment of conservative judges.",
           "url": "https://www.bbc.com/news/articles/cvgj25j6nmeo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
@@ -2450,25 +2450,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "d04c97e49f9a",
+          "id": "71c83f03f52f",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Temblor en Venezuela hoy, domingo 12 de julio: sigue los reportes de los sismos",
-          "summary": "Temblor en Venezuela HOY EN VIVO: último sismo de julio, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (Funvisis).",
-          "body_text": "Temblor en Venezuela HOY EN VIVO: último sismo de julio, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (Funvisis).",
-          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-segun-el-finvisis-y-ultimos-sismos-del-11-y-12-de-julio-de-2026-proteccion-civil-caracas-la-guaira-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/XFU3ITYETFDDTMC5BB4TDW4DAQ.png?auth=123f2c3aa98253061997e5a568a45dbc744a11a000d5cc126e07f1c97803e356&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-12T22:27:28Z",
-          "embed_url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-segun-el-finvisis-y-ultimos-sismos-del-11-y-12-de-julio-de-2026-proteccion-civil-caracas-la-guaira-lbposting-noticia/",
+          "title": "Pokémon Go Fest 2026: Miles de personas participaron del evento en Barranco",
+          "summary": "Una masiva concurrencia de fanáticos se registró en los exteriores del Museo de Arte Contemporáneo en Barranco por el Pokémon Go Fest 2026, evento que celebra en conmemoración de los diez años del videojuego.",
+          "body_text": "Una masiva concurrencia de fanáticos se registró en los exteriores del Museo de Arte Contemporáneo en Barranco por el Pokémon Go Fest 2026, evento que celebra en conmemoración de los diez años del videojuego. Según informó Latina Noticias, durante la jornada, que se extendió hasta las 6:00 p.m., delegaciones de varias regiones del país participaron en combates grupales e incursiones. La meta principal de los entrenadores es capturar a la exclusiva versión de un Pokémon legendario, en una actividad que evidencia cómo la franquicia continúa conectando a múltiples generaciones. La actividad formó parte de las celebraciones comunitarias organizadas con motivo del Pokémon Go Fest 2026 y estuvo dirigido tanto a jugadores habituales como a personas que recién comienzan o regresan al juego móvil Pokémon GO después de un tiempo. Cabe indicar que al celebrar la primera década del videojuego, se celebrarán otras 22 Celebraciones Comunitarias en Norteamérica, Europa, Asia y el Pacífico. Así, hubo un arranque simbólico en Times Square, en Nueva York, donde cientos de jugadores participaron el último sábado en una incursión multitudinaria contra Mewtwo. Pokémon Go, lanzado en 2016 y actualmente propiedad de Scopely tras la compra del negocio de videojuegos de Niantic, sigue manteniendo una comunidad activa diez años después.",
+          "url": "https://elcomercio.pe/lima/sucesos/pokemon-go-fest-2026-miles-de-personas-participaron-del-evento-en-barranco-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/CV7U7VI6TZCSBKSOBXD74OCRUI.jpg?auth=74f016fd48b643d9151d06447fa4bed6c6ad61b5bf9f542a9efedafc78b79912&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-12T23:31:08Z",
+          "embed_url": "https://elcomercio.pe/lima/sucesos/pokemon-go-fest-2026-miles-de-personas-participaron-del-evento-en-barranco-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "temblor en venezuela, sismos en venezuela, sismo en venezuela, terremoto en venezuela, Funsivis, terremoto en Venezuela, terremoto en La Guaira, terremoto en Macuto, terremoto Maiquetia, falla de Venezuela, falla del Caribe, temblor Caracas, terremoto Caracas, FUNVISIS, rescates en La Guaira, último terremoto Venezuela, terremotos de Venezuela",
-            "Venezuela",
+            "Pokémon Go Fest 2026, Barranco, Pokémon",
+            "Sucesos",
             "Senaste",
             "El Comercio"
           ],
@@ -2476,25 +2476,25 @@
           "sort_order": 0
         },
         {
-          "id": "da8f2070ca7a",
+          "id": "0cbf80eb06a1",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "En qué consiste la estrategia “Vive Lima” para posicionar Lima como un gran destino urbano en Latinoamérica",
-          "summary": "Mincetur presentó esta estrategia como una iniciativa orientada a consolidar a la capital peruana como uno de los principales destinos urbanos de América Latina.",
-          "body_text": "El Ministerio de Comercio Exterior y Turismo (Mincetur) estima que la estrategia “Vive Lima” permitirá incrementar en un 6 % la llegada de visitantes internacionales durante su primer año de ejecución. La campaña iniciará su promoción en Chile, Argentina, Ecuador, Colombia y Brasil, países que concentran cerca del 44 % del turismo receptivo que arriba al Perú. Con esta iniciativa, el sector busca fortalecer la presencia de Lima como un destino urbano de referencia en la región. Además del aumento en el flujo de turistas, el Mincetur prevé que la implementación de la estrategia genere un importante impacto económico para el país. Las proyecciones oficiales apuntan a que, en los primeros doce meses, se obtengan más de US$30 millones adicionales en divisas gracias al crecimiento de visitantes provenientes de estos cinco mercados. De esta manera, el Gobierno espera impulsar la actividad turística y dinamizar diversos sectores vinculados a esta industria. La estrategia “Vive Lima”, impulsada por PromPerú, propone una nueva visión para la promoción internacional de la capital peruana, con el propósito de posicionarla como un destino urbano moderno, competitivo y de nivel mundial. La iniciativa busca fortalecer la imagen de Lima en los principales mercados turísticos, resaltando su oferta cultural, gastronómica y de entretenimiento como principales atractivos para los visitantes extranjeros. Durante la presentación realizada en el Estadio Nacional, el ministro Berthin Gómez señaló que esta propuesta representa un cambio en la forma de proyectar a Lima ante el mundo. El titular del sector explicó que la ciudad dejará de ser promocionada únicamente como el punto de partida hacia otros destinos del país y pasará a consolidarse como un lugar con identidad propia, capaz de motivar por sí solo la decisión de viajar al Perú. El ministro Berthin Gómez afirmó que Lima busca dejar atrás su papel como una ciudad de paso hacia otros atractivos turísticos del país para consolidarse como un destino con identidad propia. Según señaló, la capital peruana aspira a captar el interés de los viajeros internacionales por sus múltiples atractivos, convirtiéndose en el principal motivo de su visita y no únicamente en un punto de conexión hacia la Amazonía, Cusco u otras regiones. Asimismo, el titular del sector explicó que la estrategia “Vive Lima” reúne una amplia oferta de experiencias que incluyen gastronomía, cultura, litoral, eventos, compras y fútbol. El objetivo es incentivar a los turistas extranjeros a extender su permanencia entre tres y cinco días, impulsando así la actividad económica de la ciudad. Con ello, se espera generar mayores oportunidades para emprendedores, empresas y trabajadores vinculados al sector turístico. Como parte de la estrategia “Vive Lima”, PromPerú viene coordinando esfuerzos con diversos actores vinculados al sector turístico para fortalecer la oferta de la capital. Entre los aliados figuran productoras de espectáculos, empresas de venta de entradas, operadores turísticos, asociaciones empresariales, organizaciones y clubes de fútbol. La finalidad es construir una propuesta urbana integral con capacidad para atraer a un mayor número de visitantes internacionales. Asimismo, la iniciativa contempla la puesta en marcha de la plataforma digital “Vive Lima”, un espacio que concentrará información sobre experiencias turísticas y la oferta comercial de los distintos operadores del sector. Esta herramienta permitirá a los viajeros planificar con mayor facilidad su estadía en la ciudad, al tiempo que contribuirá a reforzar el posicionamiento de Lima como uno de los principales destinos urbanos de América Latina.",
-          "url": "https://elcomercio.pe/respuestas/que/en-que-consiste-la-estrategia-vive-lima-para-posicionar-lima-como-un-gran-destino-urbano-en-latinoamerica-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/LYPYJVZTZRE6RGY3GJZAEBWHYM.jpg?auth=f7184dae43ea0006e4dd8f1b8c6b77383e2bf3a11cd8e9c75839ec42424a7f1e&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-12T22:24:50Z",
-          "embed_url": "https://elcomercio.pe/respuestas/que/en-que-consiste-la-estrategia-vive-lima-para-posicionar-lima-como-un-gran-destino-urbano-en-latinoamerica-tdpe-noticia/",
+          "title": "Laura Spoya dio detalles de su salida de Al Sexto Día en Panamericana: “El último día será la fecha de mi cumpleaños”",
+          "summary": "Laura Spoya dio detalles de su salida de Al Sexto Día en Panamericana: “El último día será la fecha de mi cumpleaños”. En medio de las especulaciones surgidas en redes sociales, Laura Spoya explicó los motivos que la llevaron a confirmar su salida en la conducción de ‘Al Sexto Día’, programa de Panamericana TV que permaneció más de 16 años al aire. Todos los detalles, en esta nota.",
+          "body_text": "Laura Spoya, una de las figuras más mediáticas de la farándula peruana, alcanzó gran popularidad gracias a su trayectoria como modelo y a su participación en diversos programas de televisión, tanto como concursante como conductora. De hecho, en los últimos años incursionó en el ámbito digital y el streaming, consolidándose como una de las influencers más influyentes y comentadas en las redes sociales. Sin embargo, recientemente la creadora de contenidos ha llamado la atención de los medios de espectáculos y seguidores por anunciar su inesperada salida de la conducción de ‘Al sexto día’. Frente a esta noticia, surgieron diversos rumores sobre el posible fin del programa de Panamericana TV, luego de más de 16 años al aire. En el desarrollo de esta nota, te contamos mayores detalles al respecto. En medio de especulaciones sobre el final de ‘Al sexto día’ en redes sociales y medios, Laura Spoya, quien es la conductora del programa, aprovechó unos minutos del podcast ‘La Manada’ para referirse acerca del polémico tema. De acuerdo con la modelo peruana, la noticia la sorprendió en un momento complicado de su vida personal, lo que la llevó a reflexionar sobre el cierre de distintas etapas y que justamente el programa de Panamericana TV guarda un significado especial dentro de ese proceso. Así, la presentadora reveló que el último programa se emitirá el día de su cumpleaños, es decir, el 25 de julio. Además, aseguró que esta salida no guarda relación con un supuesto despido, sino una decisión de otra naturaleza que explicará este sábado en el mismo programa. “¿Sabes qué ha pasado? El último día de ‘Al sexto...’ para mí, va a ser el día de mi cumpleaños. El mismo día, no es como están diciendo por ahí que mañana, no, no todavía falta. Acá a nosotros no nos votaron, nos fuimos, eso es muy distinto. Tengo un sinsabor, no tanto por mí, o sea me tengo sentimientos encontrados, por mi gente, no tanto por mí, por mi equipo de trabajo... Como ustedes saben, yo soy una personas de soluciones y hay soluciones para el equipo de trabajo (No se van a quedar sin comer) No, jamás, ya tenía el plan B solo que he tenido que meterle 80 cambios”, contó Spoya. Durante el podcast ‘La manada galáctica’, Laura Spoya se pronunció de manera pública tras las declaraciones de su aún esposo, Brian Rullan, y fue tajante al defender su rol como madre y rechazó cualquier intento de ponerlo en duda. De acuerdo con la modelo, en diversas ocasiones ha optado por guardar silencio, aunque dejó claro que existen límites que no está dispuesta a tolerar. En ese contexto, el empresario mexicano volvió a referirse a la madre de sus hijos para el programa ‘Show.pe’, donde lamentó la situación mediática que vive actualmente, dejando en claro que no puede tocar más el tema por respeto a su familia. “Me da pena, por la familia más que nada. Me mandaron imágenes, pero no tiene nada que ver conmigo, es la vida de ella y ella puede hacer lo que quiera. Me da lástima todo en general. Todo lo que quiero decir no te lo puedo decir por respeto a ella y a mi familia”, expresó Rullan. Por su parte, el reportero del medio aprovechó para preguntarle si le daba el visto bueno a Laura respecto a una nueva relación que tenga más adelante, ante lo cual el cocinero azteca le deseó lo mejor con quien decida estar. “Claro, que le vaya bien con sus parejas, o sea, con los que esté en un futuro”, sostuvo.",
+          "url": "https://elcomercio.pe/respuestas/farandula/laura-spoya-dio-detalles-de-su-salida-de-al-sexto-dia-en-panamericana-el-ultimo-dia-sera-la-fecha-de-mi-cumpleanos-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/JHA4BQ6G2VCO3PDS6OTWMUSTLY.jpg?auth=e61b7e731119c31031973591efd082f929262b65a3d49f014e0443afb3f1725c&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-12T23:30:12Z",
+          "embed_url": "https://elcomercio.pe/respuestas/farandula/laura-spoya-dio-detalles-de-su-salida-de-al-sexto-dia-en-panamericana-el-ultimo-dia-sera-la-fecha-de-mi-cumpleanos-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Mincetur, Turismo, Proyecto, PromPerú",
-            "Qué",
+            "laura spoya, al sexto día, panamericana tv, farándula peruana, espectáculos",
+            "Farándula",
             "Senaste",
             "El Comercio"
           ],
@@ -2502,25 +2502,25 @@
           "sort_order": 1
         },
         {
-          "id": "1520ae5a1c7f",
+          "id": "d742cbeaf37f",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Temblor en México: hora, lugar y magnitud del último sismo de hoy, domingo 12 de julio",
-          "summary": "Temblor en México EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Servicio Sismológico Nacional (SSN).",
-          "body_text": "En el contexto de la Tectónica de Placas, México está ubicado en el llamado Cinturón de Fuego, donde se registra gran parte de los movimientos telúricos a nivel mundial. El país se ubica en la Placa Norteamericana, limitado en su porción sur y oeste, con las placas de Cocos, Rivera y del Pacífico. México es uno de los países del mundo con mayor actividad telúrica, ya que, según estadísticas, se registran más de 90 sismos por año con magnitud superior a 4 grados en la escala de Richter, lo que equivale a un 60% de todos los movimientos telúricos que se registran en el mundo. Con base en el registro estadístico, los estados con mayor riesgo y donde ocurren sismos de gran magnitud que pueden afectar a la Ciudad de México son: Jalisco, Colima, Michoacán, Guerrero, Oaxaca, Puebla, Estado de México y Veracruz.",
-          "url": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-del-11-y-12-de-julio-via-el-ssn-y-ultimos-sismos-epicentro-magnitud-y-hora-servicio-sismologico-nacional-mexico-cdmx-mx-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/FC2QOJZ7V5EA3EA7G4DKB2UV2A.png?auth=81e92e7236e48a7e714ead91a434a7210bb8e51ea479c167929ffb53d619d03b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-12T22:24:38Z",
-          "embed_url": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-del-11-y-12-de-julio-via-el-ssn-y-ultimos-sismos-epicentro-magnitud-y-hora-servicio-sismologico-nacional-mexico-cdmx-mx-lbposting-noticia/",
+          "title": "¿Cuándo se realizará la Noche Dorada 2 del Zein? Esta es la fecha confirmada",
+          "summary": "¿Cuándo se realizará la Noche Dorada 2 del Zein? Esta es la fecha confirmada. ElZeein anunció por todo lo alto la segunda edición de ‘La noche dorada’, un evento que reunirá a destacados creadores de contenido nacionales e internacionales en el Coliseo Eduardo Dibós. Todos los detalles, en esta nota.",
+          "body_text": "En Perú, ‘La noche dorada’ se ha convertido en uno de los eventos más llamativos y esperados por muchos jóvenes, al combinar espectáculos digitales con combates de boxeo amateur. De hecho, esta actividad, que es organizada por el Zein, reúne a varios conocidos streamers y creadores de contenido en un box de ring, inspirado probablemente en ‘La Velada del Año’ del español Ibai Llanos. Así, para esta segunda edición, se dio a conocer la cartelera completa de los combates que protagonizarán populares streamers peruanos, cuya principal atracción de la velada será la participación de Cañita frente a JH de la Cruz de Colombia. Esto ha llamado la atención de los internautas en las redes sociales, quienes se han cuestionado sobre la fecha y precios de las entradas para este espectáculo en el Coliseo Eduardo Dibós. En el desarrollo de esta nota, te contamos mayores detalles al respecto. Organizado por el creador de contenido Andy Merino, más conocido como Zein, ‘La noche dorada 2′ se llevará a cabo el próximo sábado 5 de septiembre y reunirá a destacadas figuras nacionales e internacionales del mundo digital, quienes encabezarán una cartelera especialmente diseñada para la ocasión. Entre los enfrentamientos más esperados resalta el del exchico reality y streamer de Kick, Piero Arenas, quien se enfrentará al influencer chileno Shelao. Asimismo, Zully protagonizará un combate frente a la creadora de contenido colombiana May Osorio. Eso no es todo, pues el estelar de la noche lo tendrá el tiktoker Cañita contra el experimentado streamer JH de la Cruz, lo cual promete generar una serie de reacciones en las redes sociales. A continuación, te presentamos el listado de las siguientes peleas para esta velada: ‘La noche dorada 2′, que se desarrollará en el Coliseo Eduardo Dibós, acaparará la atención de miles de jóvenes en las redes sociales por los llamativos combates entre los populares streamers. Para adquirir una de las entradas, los interesados deberán tener en cuenta que la venta estará a cargo de Ticketmaster y se realizará a través de sus plataformas oficiales (LINK) desde el 11 de julio, con precios especiales de preventa:",
+          "url": "https://elcomercio.pe/respuestas/cuando/cuando-se-realizara-la-noche-dorada-2-del-zein-esta-es-la-fecha-confirmada-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/5OK4CLMN3RAXLHOFHJALBOJQQ4.jpg?auth=2b8c5bd86954706cb5df67af9cb57d7dd7991850cf36c76ccc469328a86aad82&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-12T23:29:50Z",
+          "embed_url": "https://elcomercio.pe/respuestas/cuando/cuando-se-realizara-la-noche-dorada-2-del-zein-esta-es-la-fecha-confirmada-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Temblor en México, Temblor en México hoy, Temblor en México hoy en vivo, Temblor en México en vivo, Sismo en México, Sismológico Nacional, Reporte Sismológico Nacional, Epicentro de hoy, último temblor en méxico, Servicio Sismologico Nacional, sismo hoy cdmx, sismo hoy, terremoto sismo temblor hoy, terremoto sismo temblor hoy méxico, Sismológico Nacional MX, temblor en méxico hoy 2023 última hora, Sismo en México junio, temblor hoy México junio, México, Sismo en México hoy, Sismo en México en vivo, Sismo en México en vivo hoy, Último temblor en México hoy, SSN, SSN México, Mexico temblor, temblor México julio, terremoto México julio, temblor CMDX julio, terremoto CMDX julio",
-            "Mexico",
+            "la noche dorada 2, la noche dorada, zein, coliseo eduardo dibós, boxeo, streamers peruanos",
+            "Cuándo",
             "Senaste",
             "El Comercio"
           ],
@@ -3004,6 +3004,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "457dd1a97202",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Chile: Gobierno de Kast reporta 1.174 extranjeros expulsados tras séptimo vuelo con deportados",
+          "summary": "El Gobierno del presidente José Antonio Kast informó que 1.174 extranjeros han sido expulsados de Chile este año, tras la salida este domingo de un vuelo con 40 deportados hacia Bolivia, Ecuador y Colombia, el séptimo desde el inicio de la administración en marzo pasado.",
+          "body_text": "El Gobierno del presidente José Antonio Kast informó que 1.174 extranjeros han sido expulsados de Chile este año, tras la salida este domingo de un vuelo con 40 deportados hacia Bolivia, Ecuador y Colombia, el séptimo desde el inicio de la administración en marzo pasado. Según reportaron las autoridades, el operativo aéreo se realizó con una aeronave de la Fuerza Aérea de Chile en la que trasladaron a 28 personas expulsadas por vía administrativa y 12 por casos judiciales. En el caso de los deportados por delitos, estaban procesados por “robo con violencia, robo con intimidación, tenencia de armas, ley de drogas y también abuso sexual”, explicó el director de Migraciones, Frank Sauerbaum. Del total de deportados, 20 son ciudadanos colombianos, 12 bolivianos y ocho ecuatorianos. El subsecretario del Interior, Máximo Pavez, detalló que con este vuelo la suma ascendió a 1.174 casos, tras el reporte entregado el pasado jueves, en el que se indicó que se habían materializado 1.134 expulsiones en 2026, de las cuales 1.009 responden a causas administrativas y 125 a judiciales. “En apenas cuatro meses ya hemos realizado siete vuelos de expulsión, lo que representa un tercio de todos los vuelos ejecutados durante los cuatro años del gobierno anterior”, declaró a la prensa Pavez. En 2025, último año completo de mandato del expresidente Gabriel Boric, un total de 1.117 extranjeros fueron expulsados. En Chile, hay actualmente más de 330.000 extranjeros en situación irregular, según el Instituto Nacional de Estadísticas (INE). Migraciones también notificó que se han concretado 6.384 salidas voluntarias de inmigrantes irregulares que abandonaron el país y que, 911, se produjeron luego del doble terremoto ocurrido en Venezuela el pasado 24 de junio. Cerca del 77 % de quienes han salido por decisión propia desde enero pasado (unas 4.896 personas), corresponde a ciudadanos venezolanos, según un comunicado del ministerio del Interior. Diversos reportes estiman que más de 75.000 órdenes de expulsión siguen pendientes de ejecución, de las cuales cerca de la mitad corresponden a ciudadanos venezolanos, debido a la ruptura de relaciones entre ambos países. Desde Caracas se ordenó el cierre de manera indefinida de la Embajada de Venezuela en Santiago, el 24 de julio de 2024, cuando el entonces presidente de Venezuela, Nicolás Maduro, decidió el retiro de todo el personal diplomático del país. En ese sentido, y tras el envío de Chile de ayuda humanitaria a Venezuela a raíz de los sismos, el propio Pavez que viajó al país caribeño en esa misión dijo que ven una “oportunidad” para “aprovechar de manera respetuosa” y mejorar las relaciones. Kast, el primer mandatario de ultraderecha en llegar al poder desde el retorno a la democracia en Chile, prometió en campaña mano dura contra la delincuencia, el crimen organizado y la migración irregular y se encuentra construyendo una franja en el desierto de Atacama, en la frontera con Perú y Bolivia. El llamado ‘Plan Escudo Fronterizo’ del líder del Partido Republicano chileno incluye también la aprobación de un proyecto de ley en trámite para tipificar la migración irregular como delito.",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/chile-gobierno-de-jose-antonio-kast-reporta-1174-extranjeros-expulsados-tras-septimo-vuelo-con-deportados-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/U3GZWV5SVJD7PPHKZI6UXLLKBE.jpg?auth=2531a9a219b8a483f745c9947f3ef10bc198ad6a271de0bf1ddae8f25260452e&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-12T22:50:10Z",
+          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/chile-gobierno-de-jose-antonio-kast-reporta-1174-extranjeros-expulsados-tras-septimo-vuelo-con-deportados-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Chile, José Antonio Kast, Bolivia, Ecuador, Colombia",
+            "Latinoamérica",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "35ce96735f58",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3027,7 +3053,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "962c0fec8671",
@@ -3048,32 +3074,6 @@
           "article_type": "text",
           "tags": [
             "Mariano Rajoy, Philippe Diallo, Federación Francesa de Fútbol, selección de Francia, Kylian Mbappé, racismo en el fútbol, polémica Rajoy, Laurent Nuñez, Bleus, Francia España",
-            "Europa",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "9163c50be759",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Francia mantiene 37 departamentos en alerta roja por calor extremo este lunes",
-          "summary": "Francia mantendrá 37 departamentos en alerta roja por la ola de calor, con temperaturas de hasta 41 °C y riesgo de incendios.",
-          "body_text": "Francia mantendrá este lunes 37 del centenar de sus departamentos en alerta roja, el nivel máximo de vigilancia por calor, incluidos París y su región, según informó este domingo el instituto meteorológico oficial Météo-France. El instituto meteorológico nacional prevé en los departamentos afectados -que también estuvieron este domingo en alerta roja- temperaturas máximas de entre 37 y 41 grados centígrados, en un episodio de calor intenso que continúa afectando a buena parte del país y que supone ya la tercera canícula desde finales de mayo. El calor extremo también se mantendrá en los departamentos bajo alerta naranja -la segunda en la escala- con valores que podrán alcanzar entre 38 y 41 grados en el suroeste, entre otras zonas. Météo-France señala que únicamente los departamentos de la costa del Canal de la Mancha, Altos de France y una parte del Gran Este permanecerán por debajo de los 35 grados. El episodio de ola de calor continúa marcado por temperaturas excepcionalmente elevadas, con noches muy calurosas y un riesgo reforzado para la población vulnerable, así como para incendios en las zonas más afectadas por la sequía persistente. El calor extremo afecta también al funcionamiento de las centrales nucleares. EDF ha anunciado que tres reactores nucleares permanecen actualmente fuera de servicio en Francia debido a las condiciones meteorológicas y al impacto de las altas temperaturas sobre la gestión de los recursos hídricos, mientras que otros ocho funcionan con potencia reducida. Otra consecuencia del calor son las muertes por ahogamiento: Al menos 139 personas han muerto ahogadas en Francia desde el 19 de junio, un 18 % más que en el mismo periodo de 2025, según informó este domingo el ministro del Interior, Laurent Nuñez. El ministro advirtió además de una temporada de incendios especialmente grave: unas 17.000 hectáreas han ardido desde comienzos de año y la cifra podría alcanzar las 25.000. Recordó que nueve de cada diez incendios tienen origen humano. Sobre el incendio de Trévillach, en los Pirineos Orientales, anunció que ha quedado estabilizado tras arrasar cerca de 4.900 hectáreas y agradeció la movilización de unos 800 bomberos y la ayuda de equipos nacionales y europeos. Ante la ola de calor, Nuñez defendió la cancelación de algunas actividades al aire libre y pidió evaluar las celebraciones con fuegos artificiales de la Fiesta Nacional del 14 de julio para reducir riesgos de incendios y evitar la saturación sanitaria. Según La Chaîne Météo, la ola de calor podría prolongarse al menos hasta el 16 de julio. La llegada de aire oceánico procedente del Atlántico podría aportar un alivio progresivo a partir de los días 17 o 18.",
-          "url": "https://elcomercio.pe/mundo/europa/ola-de-calor-en-europa-francia-mantiene-37-departamentos-en-alerta-roja-por-calor-extremo-este-lunes-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NVRV2BKUBVD4ZDK5BXEQ6BXMEM.jpg?auth=82da7d3724c9c660d10507d09f1f38f1ea3d3469fbe1170ccae086be2f0abe57&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-12T20:12:58Z",
-          "embed_url": "https://elcomercio.pe/mundo/europa/ola-de-calor-en-europa-francia-mantiene-37-departamentos-en-alerta-roja-por-calor-extremo-este-lunes-ultimas-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "ola de calor en Francia, alerta roja Francia, Météo-France, altas temperaturas, París, incendios forestales Francia, calor extremo Europa, Laurent Nuñez, temperaturas de 41 grados, clima en Francia",
             "Europa",
             "Mundo",
             "El Comercio"
@@ -3648,7 +3648,7 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "This slushie machine was a lifesaver during NYC's heat wave | TechCrunch",
-          "summary": "Last weekend's brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven",
+          "summary": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
           "body_text": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja’s latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade. Instead of a single mixing chamber, the Slushi Twist has two 48-ounce vessels that can make two completely different frozen drinks at the same time. Beyond classic slushies, it can also make frappés, milkshakes, frozen coffees, and smoothies — and because the two sides work independently, you can even keep one alcohol-free for mocktails while the other side mixes up cocktails. For entertaining, this machine solves a real problem. Instead of making multiple batches or asking everyone to agree on one flavor, both chambers run simultaneously, making enough frozen drinks for a crowd. Ninja says it can make more than 10 drinks per batch — plenty for summer parties or family gatherings. The standout feature is what Ninja calls “Dual SlushAssist” technology. In plain terms, the machine senses what’s in each chamber and adjusts the freezing temperature for that side on its own. That means a creamy milkshake can stay smooth on one side while a fruit slush freezes to the perfect icy consistency on the other. My favorite feature, though, is the twist dispenser. You can pour each drink separately or turn the dial on the drip tray to swirl both flavors together into one glass, which is great for making layered drinks that look way more impressive than the effort they take. Cleaning is easy, too. Just hit the rinse button and keep adding warm water until it runs clear. There are two things to keep in mind before buying. The Slushi Twist is noticeably larger than the original model, so you’ll want to make sure you have enough counter or storage space. At $399.99, it’s also a significant investment. If you only make the occasional frozen drink, it may be more machine than you need. But for larger households or anyone who loves hosting, the dual-vessel design makes a strong case for itself. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Lauren covers media, streaming, apps and platforms at TechCrunch. You can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal. Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . Apple sues OpenAI over alleged trade secret theft",
           "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Ninja-Slushi-Twist.jpg?w=1200",
@@ -4012,7 +4012,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Streama FIFA Fotbolls-VM och Allsvenskan med TV4 Play Sport Fotboll. Halva priset hela sommaren – 224,50 kr/mån i 3 månader.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Reorna är här – tips på butiker med rabatter:",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://www.aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4037,7 +4037,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Reorna är här – tips på butiker med rabatter:",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://www.aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4070,6 +4070,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "8f66f4e83f5a",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Trumps vän – dog plötsligt",
+          "summary": "Senator Lindsey Graham dog plötsligt av brusten kroppspulsåder.",
+          "body_text": "Den inflytelserike amerikanske politikern Lindsey Graham dog av brusten kroppspulsåder, enligt rättsläkare. Han var nära politisk vän till Donald Trump och avled på lördagskvällen. – Han var en sann amerikansk patriot, sade presidenten efter det hastiga dödsfallet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Senator Lindsey Graham, 71, hade inga kända sjukdomar. Därför kom det som en överraskning när han hastigt dog på lördagskvällen strax efter det att han kommit hem från Ukraina, där han mött president Volodymyr Zelenskyj på fredagen. Nu meddelar Grahams kontor att han dog av hjärt- och kärlsjukdom, skriver Politico på söndagen. Dödsorsaken är brusten kroppspulsålder vållad av förhårdnade artärer, enligt rättsläkarens preliminära rapport. Lindsey Graham representerade South Carolina som republikansk senator sedan 2002 och var en av USA mest inflytelserika politiker när det gäller utrikesfrågor. Han var tidigare en av Donald Trumps skarpaste kritiker, men kom att stå presidenten mycket nära. – Han var en hårding på många sätt. Han kunde vara mycket tuff om han ville få något, om han ansåg att han hade rätt och hade folk emot sig. Men han var en god människa, sade Trump efter dödsfallet. Presidenten sade att han hade talat med Graham några timmar innan denne dog och att senatorn lät bra men lite trött. ”Med Grahams död förlorar Trump en av sina mest effektiva operatörer i kongressen – och lämnar senatens republikaner utan en av sina starkaste kopplingar till Vita huset”, skriver Politico. Graham var ordförande i senatens budgetutskott och en av Republikanernas ledande utrikes- och försvarspolitiker. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-van-dog-av-brusten-kroppspulsader/",
+          "image_url": "https://static.bonniernews.se/images/f7/3e/f73ea09cf1b94b08be46945a90428292/16x9/original.jpg",
+          "published_at": "2026-07-12T22:33:18Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-van-dog-av-brusten-kroppspulsader/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "f5895d868cef",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4091,7 +4115,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "e767b92c3414",
@@ -4115,7 +4139,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "3617b2df7f4d",
@@ -4139,7 +4163,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "9dc6e78b6185",
@@ -4149,9 +4173,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "JUST NU: Minst 30 döda i enorm brand i Bangkok",
+          "title": "Minst 30 döda – efter våldsam brand på pub",
           "summary": "Minst 30 människor har dött i en våldsam brand i en fullsatt ölhall i Bangkok. Bilder visar hur människor försöker fly samtidigt som stora eldslågor slår ut genom dörröppningen. Döda människor ligger övertäckta i en lång rad utanför den eldhärjade puben.",
-          "body_text": "Minst 30 människor har dött i en våldsam brand i en fullsatt ölhall i Bangkok. Bilder visar hur människor försöker fly samtidigt som stora eldslågor slår ut genom dörröppningen. Döda människor ligger övertäckta i en lång rad utanför den eldhärjade puben. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En häftig brand flammade upp i ölhallen Rong Beer Na Ladprao i Thailands huvudstad Bangkok vid midnatt natten till måndagen lokal tid, rapporterar Thai PBS. Minst 30 människor har omkommit sade premiärminister Anutin Charnvirakul till journalister på plats utanför ölhallen som ligger i området Chatuchak. Flera har förts till sjukhus. En musiker som uppträdde i puben sade till Anutin att han såg rök komma ut ur ett elsäkringsskåp intill scenen. Därefter blev det mörkt – och strax därefter hördes en explosion och tjock rök fyllde snabbt lokalen. Polisen har hittills identifierat 17 kvinnor och åtta män bland de döda. Bargäster flydde i panik till toaletterna där många av dödsoffren hittades, enligt premiärministern. Det tog ungefär en halvtimme för brandmän att få branden under kontroll. Brandorsaken är ännu oklar. UD säger att man i nuläget inte har någon kännedom om att några svenskar skulle finnas med bland de skadade eller omkomna. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "Minst 30 människor har dött i en våldsam brand i en fullsatt ölhall i Bangkok. Bilder visar hur människor försöker fly samtidigt som stora eldslågor slår ut genom dörröppningen. Döda människor ligger övertäckta i en lång rad utanför den eldhärjade puben. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En häftig brand flammade upp i ölhallen Rong Beer Na Ladprao i Thailands huvudstad Bangkok vid midnatt natten till måndagen lokal tid, rapporterar Thai PBS. Minst 30 människor har omkommit sade premiärminister Anutin Charnvirakul till journalister på plats utanför ölhallen som ligger i området Chatuchak. 63 människor skadades. En musiker som uppträdde i puben sade till medier att han såg rök komma ut ur ett elsäkringsskåp intill scenen. Därefter blev det mörkt – och strax därefter hördes en explosion och tjock rök fyllde snabbt lokalen. – Efter explosionen såg jag ingen som försökte springa. De flesta låg på golvet och bad om hjälp. Jag sprang från scenen mot dörren, ungefär fem meter. Det var mörker och rök, inget syre, sade musikern som hade ett stort bandage om huvudet. Polisen har hittills identifierat 17 kvinnor och åtta män bland de döda. Bargäster flydde i panik till toaletterna där många av dödsoffren hittades, enligt premiärministern. Det tog ungefär en halvtimme för brandmän att få branden under kontroll. Brandorsaken är ännu oklar. UD säger att man i nuläget inte har någon kännedom om att några svenskar skulle finnas med bland de skadade eller omkomna.",
           "url": "https://www.expressen.se/nyheter/varlden/minst-27-doda-i-krogbrand-i-bangkok/",
           "image_url": "https://static.bonniernews.se/images/5e/6b/5e6bcac0206b4b58a049c457ca93ce45/16x9/original.png",
           "published_at": "2026-07-12T19:30:51Z",
@@ -4163,7 +4187,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "369cf7123d76",
@@ -4187,7 +4211,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "10ddcae5278c",
@@ -4211,7 +4235,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "e9d428bc92e5",
@@ -4235,7 +4259,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "0a496ae340c1",
@@ -4259,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "c28f3b108881",
@@ -4269,12 +4293,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen I går 18.06 Analys: Putins dilemma – kan inte avsluta kriget",
-          "summary": "",
-          "body_text": "",
+          "title": "Analys: Putins dilemma – kan inte avsluta kriget",
+          "summary": "Putin har inte råd att avsluta kriget i Ukraina – då kommer folket vända sig emot honom. Det hävdar finansmannen Bill Browder.",
+          "body_text": "Putin har inte råd att avsluta kriget i Ukraina – då kommer folket att vända sig emot honom. – Om en miljon människor marscherar mot Röda torget är han slut, och det förstår han, säger han till The Independent. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det går allt sämre för Ryssland i kriget mot Ukraina. Avancemangen vid fronten har bromsat in och förlusterna är stora, samtidigt som Ukraina blivit bättre på att försvara sig, rapporterar The Wall Street Journal. Ukrainas attacker mot ryska oljeanläggningar har också orsakat en bränslekris i landet. Trots det kommer Putin inte att avsluta kriget, enligt finansmannen och antikorruptionsaktivisten Bill Browder. – Om han sluter fred kommer han att förlora makten. Om han förlorar makten kommer han att hängas upp i en lyktstolpe, säger han till The Independent. Finansmannen Bill Browder är vd och grundare av det Londonbaserade kapitalförvaltningsbolaget Hermitage Capital Management – som i början av 2000-talet var den största internationella investeraren i Ryssland. Den nu 62-årige Browder – född amerikan, men numera brittisk medborgare – portades från Ryssland 2005. Han beskrevs då som ett hot mot Rysslands säkerhet. Bill Browders revisor, advokat Sergej Magnitskij, avslöjade efter detta mångmiljardförskingring bland högt uppsatta ryska statstjänstemän. Han greps dock själv och avled 37 år gammal – enligt Browder mördad – i det ökända Butyrkafängelset i Moskva. Browder har sedan Magnitskijs död vigt sitt liv åt att hämnas sin vän och revisor. Han anklagar Vladimir Putin för att ligga bakom det misstänkta mordet. Hans arbete har bland annat fått USA, EU och Storbritannien att stifta lagar som öppnar för så kallade Magnitskijsanktioner, som kan riktas mot personer som gör sig skyldiga till brott mot mänskliga rättigheter och korruption i andra länder.",
           "url": "https://www.expressen.se/nyheter/varlden/analys-putins-dilemma-kan-inte-avsluta-kriget-/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/0c/3b/0c3b6e02235949f785ce9eb033318d99/16x9/original.png",
+          "published_at": "2026-07-12T16:06:54Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/analys-putins-dilemma-kan-inte-avsluta-kriget-/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4282,31 +4306,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "100dc3171bf8",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen I går 17.01 Ukrainska Innas råd: Så överlever du i krig",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/ukrainska-innas-rad-sa-overlever-du-i-krig/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/ukrainska-innas-rad-sa-overlever-du-i-krig/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4322,11 +4322,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "Råoljepriserna klättrar när handeln öppnar för en ny vecka. Uppgångarna kommer efter ännu en helg av attacker mellan USA och Iran kring Hormuzsundet. Cirka en timme in i handeln hade Brentoljans septembertermin stigit med 3,1 procent till 78,39 dollar per fat, enligt CNBC. En svensk har hittats död i fjällen i Nordland i norra Norge efter att ha anmälts saknad under söndagskvällen, rapporterar nyhetsbyrån NTB. Polisen larmades först av en person på den svenska sidan av gränsen.” Någon timme senare hittade en vän personen som var död. Den omkomna har sannolikt fallit och dött av fallet”, skriver polisen i Nordland på sin sajt. Den omkomna var i 50-årsåldern. Polisen inleder en utredning i samband med dödsfallet. Under söndagskvällen vid 20.50 larmades räddningstjänsten och sjöräddningssällskapet till Grötvik i Halmstad efter att vittnen hade sett en båt kantra. Enligt vittnesuppgifterna ska det ha funnits tre eller fyra personer i båten som ska ha kantrat ett par hundra meter från land. – Vi har ett antal båtar från sjöräddningssällskapet och vi har kommunal räddningstjänst med båt och drönare som är ute och letar. Än så länge har vi inte hittat någonting som kan tyda på någon olycka, säger Sebastian Wigmo, på sjö– och flygräddningscentralen. – Vi har inte gjort några fynd fynd än så länge, Sebastian Wigmo. På platsen finns fortsatt flera båtar och drönare. Även polisen är på plats. – Vi kommer nog inte att söka jättelänge till, innan vi avfärdar det som att området är tillräckligt väl avsökt, Sebastian Wigmo.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
