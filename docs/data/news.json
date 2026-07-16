@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T09:32:44Z",
+  "generated_at": "2026-07-16T11:20:53Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -13,11 +13,10 @@
       "surface": "video",
       "source_kind": "video",
       "live_section": false,
-      "status": "error",
+      "status": "pending",
       "article_count": 0,
       "priority_split": 0,
-      "articles": [],
-      "error": "HTTPSConnectionPool(host='www.tv4play.se', port=443): Read timed out. (read timeout=30)"
+      "articles": []
     },
     {
       "id": "tv4-ekonomi",
@@ -30,11 +29,275 @@
       "surface": "video",
       "source_kind": "video",
       "live_section": false,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 11,
       "priority_split": 0,
-      "articles": [],
-      "error": "504 Server Error: Gateway Time-out for url: https://www.tv4.se/ekonomi"
+      "articles": [
+        {
+          "id": "226f8c335bb7",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "GE Aerospace höjer prognosen – aktien stiger",
+          "summary": "Nyheter från TV4: GE Aerospace höjer prognosen – aktien stiger",
+          "body_text": "Kvartalsrapport från General Electric (GE). Arkivbild GE Aerospace höjer prognosen – aktien stiger Amerikanska GE Aerospace höjer helårsprognosen i en delårsrapport som visar att världens största tillverkare av jetmotorer gick bättre än väntat i andra kvartalet. Bolaget – som tidigare var en del av konglomeratet General Electric (GE) – räknar med en justerad vinst på 7,65–7,85 dollar per aktie i år, vilket kan jämföras med en tidigare prognos på upp till 7,40 dollar per aktie. För andra kvartalet redovisar GE Aerospace en vinst per aktie på 2,02 dollar, vilket kan jämföras med en snittprognos på 1,86 dollar per aktie enligt Bloomberg. Intäkterna ökade enligt ett justerat mått 24 procent till 12,6 miljarder dollar. Bolagets aktie steg i terminshandeln inför torsdagens börsöppning på Wall Street efter rapporten. Rättelse: I en tidigare version användes ett felaktigt namn på bolaget.",
+          "url": "https://www.tv4.se/artikel/tt-260716-usageneralelectric1-9cd120c0/ge-aerospace-hojer-prognosen-aktien-stiger",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdl884JA-GozlY/971b6b8d6e99e7cbbf8138c4c0d1e7f7/Kvartalsrapport_fran_General_Electric__GE_._Arkivbild",
+          "published_at": "2026-07-16T10:37:27Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260716-usageneralelectric1-9cd120c0/ge-aerospace-hojer-prognosen-aktien-stiger",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "34eb5bfe1d52",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Brevras och paketlyft för Postnord",
+          "summary": "Nyheter från TV4: Brevras och paketlyft för Postnord",
+          "body_text": "De Postnordkunder som vet med sig att de inte har beställt någonting från Kina kan ignorera den avisering som de just fått. Arkivbild. Paketleveranserna ökar och brevvolymerna rasar för den svensk-danska brev- och paketleverantören Postnord, visar en delårsrapport för andra kvartalet. Rörelsevinsten krymper till 189 miljoner kronor, ned från 262 miljoner under motsvarande kvartal i fjol. Nettoomsättningen steg till 9,2 miljarder, från 8,8 miljarder. För paketen ökade volymerna under kvartalet med 9 procent, medan brevvolymerna föll 18 procent.",
+          "url": "https://www.tv4.se/artikel/tt-260716-postnordkvartal1-13115141/brevras-och-paketlyft-for-postnord",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlpy87I4Zh7QI/2b841ea7db2f8d324aa4285e19c7b880/De_Postnordkunder_som_vet_med_sig_att_de_inte_har_bestallt_nagonting_fran_Kina_kan_ignorera_den_avisering_som_de_just_fatt._Ark.",
+          "published_at": "2026-07-16T10:08:03Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260716-postnordkvartal1-13115141/brevras-och-paketlyft-for-postnord",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "0ec8d8be3ffa",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Ny stor tysk miljardorder för Saab",
+          "summary": "Nyheter från TV4: Ny stor tysk miljardorder för Saab",
+          "body_text": "Saab har fått en order värd omkring 8,7 miljarder kronor på att utrusta fyra nya fregatter för den tyska marinen. Saab har tecknat ett kontrakt med det tyska marinförsvarsbolaget TKMS och tagit emot en order som gäller leveranser och integration av bland annat ledningssystem och sensorer på fyra av den tyska marinens nya fregatter, meddelar försvarskoncernen i ett pressmeddelande. Leveranserna kommer att ske under 2029–2032 och ordervärdet ligger på omkring 8,7 miljarder kronor. ”Det är med stolthet vi fortsätter vår långa och starka relation med Tyskland”, säger Saabs vd och koncernchef Micael Johansson i pressmeddelandet. ”Leveranserna kommer att öka marinens förmåga betydligt inom luft- ubåts- och ytförsvar”, säger han. Fregatterna ska byggas i Tyskland och kontraktet innebär också en option för Saab att utrusta fler fregatter i den tyska marinen framöver.",
+          "url": "https://www.tv4.se/artikel/tt-260716-nysaaborder1-6d8d5118/ny-stor-tysk-miljardorder-for-saab",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdltdwvv7o2uoY/b7cd50ec4b773f9d13d692e55a77e44b/Saabs_vd_Micael_Johansson._Arkivbild.",
+          "published_at": "2026-07-16T10:02:41Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260716-nysaaborder1-6d8d5118/ny-stor-tysk-miljardorder-for-saab",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "2454d5d3f424",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Atlas Copco rusar – halvledarlyft i orderboken",
+          "summary": "Nyheter från TV4: Atlas Copco rusar – halvledarlyft i orderboken",
+          "body_text": "Atlas Copco rusar – halvledarlyft i orderboken Verkstadskoncernen Atlas Copco går bättre än väntat. Och orderingången – inte minst från halvledarindustrin – lyfter rejält i andra kvartalet. Atlas Copcos aktie rusar uppåt med drygt 6 procent efter kvartalssiffrorna. ”Efterfrågan på Atlas Copco Groups utrustning och service förbättrades noterbart och orderingången i kvartalet var bättre än förväntat. Den starka ordertillväxten var primärt driven av ökad efterfrågan på produkter till halvledarindustrin, även om de flesta andra industrisegment också genererade god tillväxt”, skriver Atlas Copco i sin delårsrapport för kvartalet. Geografiskt kommer den ökade efterfrågan på koncernen produkter i första hand från Nordamerika, upp 49 procent, och Asien/Oceanien, upp 47 procent. Affärsområdet Vakuumteknik – där halvledarindustrin spelar en avgörande roll – hade en ökning på 60 procent i orderingång och ett vinstlyft på 30 procent. För hela koncernen redovisar Atlas Copco en vinst före skatt på 9,1 miljarder kronor. Det kan jämföras med vinsten på 8,4 miljarder under motsvarande kvartal i fjol. Det justerade rörelseresultatet lyfte till 9,4 miljarder, från 8,4 miljarder, enligt delårsrapporten för andra kvartalet från bolaget. Det var bättre än väntat. Snittprognosen låg på 9,2 miljarder enligt Bloomberg. Orderingången i kvartalet lyfte 27 procent till nästan 51 miljarder, medan intäkterna steg 9 procent till 45 miljarder.",
+          "url": "https://www.tv4.se/artikel/tt-260716-atlascopcodelar1-f12b6d17/atlas-copco-rusar-halvledarlyft-i-orderboken",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlHEYP7MAigcc/33515d0cef28df26e9effbcf630498d0/Atlas_Copco_visar_korten._Arkivbild.",
+          "published_at": "2026-07-16T09:06:14Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260716-atlascopcodelar1-f12b6d17/atlas-copco-rusar-halvledarlyft-i-orderboken",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "8fe29a67186a",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Japan satsar på egen AI-modell för robotar",
+          "summary": "Nyheter från TV4: Japan satsar på egen AI-modell för robotar",
+          "body_text": "Robot poserar på mässa i Tokyo i maj 2026. Arkivbild Japan satsar på egen AI-modell för robotar Japan planerar att köpa 27 500 så kallade Rubin-chip från amerikanska Nvidia för att bygga upp en egen AI-modell för robotar. Uppdraget har gått till det nystartade bolaget Noetra, som fått en startplåt från den japanska regeringen på 387,3 miljarder yen (cirka 23 miljarder kronor). Noetra ska bland annat bygga ett storskaligt datacenter. Bakom Noetra finns en rad japanska storföretag som Softbank, Toyotas Preferred Networks och NEC. Siktet är inställt på en egen AI-modell i mars 2027. Vårt mål är att bygga ett genuint tredje alternativ – ett som Japan och andra kan välja, säger Noetras vd Hironobu Tamb i en intervju. Japan är sedan tidigare en framstående tillverkare av robotsystem.",
+          "url": "https://www.tv4.se/artikel/tt-260716-japannvidia1-375acd18/japan-satsar-pa-egen-ai-modell-for-robotar",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlDuNu2PlBUCQ/c2e8493f2ffd8dff76467f1a4e3e4360/Robot_poserar_pa_massa_i_Tokyo_i_maj_2026._Arkivbild",
+          "published_at": "2026-07-16T08:12:27Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260716-japannvidia1-375acd18/japan-satsar-pa-egen-ai-modell-for-robotar",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "4a03b8a22313",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Hur kontaktar jag TV4?",
+          "summary": "Nyheter från TV4: Hur kontaktar jag TV4?",
+          "body_text": "9 januari 2024 ・ Uppdaterad: 10 februari 2026 Vill du kontakta TV4 Plays kundtjänst? Klicka här för att komma till vår supportsida och välj sedan \"Kontakta oss\". TV4 Medias visselblåsarkanal, klicka här . Om du är missnöjd med en publicering är du välkommen att höra av dig till oss på nyheterna@tv4.se . Du kan också göra en anmälan till Granskningsnämnden eller Medieombudsmannen . Registreringsnummer för mervärdesskatt: SE556242715201 Ägare: TV4 Media AB organisationsnummer 556802-5646, en del av Schibsted Tillsyn Tillsynsmyndigheter: Mediemyndigheten, Konsumentverket. TV4 är medlem i det medieetiska systemet, Medieombudsmannen.",
+          "url": "https://www.tv4.se/artikel/21S40PKdrQZDCEJllEPwRj/hur-kontaktar-jag-tv4",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:57:12Z",
+          "embed_url": "https://www.tv4.se/artikel/21S40PKdrQZDCEJllEPwRj/hur-kontaktar-jag-tv4",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "7fd576969d7c",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Ansvariga utgivare för innehåll på TV4 Play och tv4.se",
+          "summary": "Nyheter från TV4: Ansvariga utgivare för innehåll på TV4",
+          "body_text": "9 januari 2024 ・ Uppdaterad: 17 april 2026 TV4 Nyheterna (inkl sportnyheter, ekonomi, väder), tv4.se, Nyheterna Story och Kalla fakta Nyhetsmorgon, Nyhetsdagen, Efter fem, tillkommande samhällsprogram som tex val, dokumentärer. Färdigproducerade filmer och serier som inte producerats eller beställts av TV4 samt återköp av produktioner Beställda produktioner, manusbaserade filmer och serier (sk drama) inkl äldre säsonger av pågående produktioner Beställda produktioner, underhållning (ej drama) Trailers (dock inte trailers för program inom nyheter och samhälle)",
+          "url": "https://www.tv4.se/artikel/4FASkwNxMHxSiSi8XBG6mf/ansvariga-utgivare-foer-innehall-pa-tv4-play-och-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:56:05Z",
+          "embed_url": "https://www.tv4.se/artikel/4FASkwNxMHxSiSi8XBG6mf/ansvariga-utgivare-foer-innehall-pa-tv4-play-och-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "6acd39c55860",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Publicistiska grunden för journalistik på TV4",
+          "summary": "Nyheter från TV4: Hur fungerar den publicistiska grunden för nyhets- och samhällsjournalistik på TV4?",
+          "body_text": "Hur fungerar den publicistiska grunden för nyhets- och samhällsjournalistik på TV4? 9 januari 2024 ・ Uppdaterad: 15 augusti 2025 TV4:s nyhets- och samhällsbevakning ska vara i ögonhöjd med tittarna. Vi vill vara nära, personliga och inkluderande. För alla i hela Sverige. Vi ska vara trovärdiga och relevanta. Vi testar nya visuella former och utvecklar det rörliga berättandet. Vi är både snabba, och fördjupande. Vi ger plats för både humor och allvar. Vi påverkar och berör. Vi avslöjar maktmissbruk, och värnar pressfrihet och yttrandefrihet. Vi producerar Nyhetsmorgon, Nyhetsdagen, Efter fem och kvällsnyheter. Vi nyhetsrapporterar på tv4.se och fördjupar i kortdokumentärerna Nyheterna Story. Vår mångfaldigt prisbelönta redaktion Kalla Fakta granskar makt och missförhållanden. TV4:s nyhets- och samhällsbevakning sker ur ett riksperspektiv, med hela Sverige och världen som bevakningsområde. Vi har 17 rikskorrar på sex orter i Sverige. De finns i Luleå, Umeå, Östersund, Skövde, Göteborg och Malmö. Vi bevakar världen via utrikesreportrar, korrar och stringers. Vår journalistik vilar på respekt för alla människors lika värde, oavsett politisk åskådning, religion eller sexuell läggning. Det innebär att vi låter många röster komma till tals, även de som bär åsikter som inte nödvändigtvis delas av medarbetarna på redaktionen eller TV4. Men det kan också innebära att vi tar bort artikelkommentarer som kränker, eller till exempel avstår gäster i direktsändning där vi bedömer att risken är stor för missbruk av öppenheten. TV4:s nyhets- och samhällsjournalistik är oberoende och obunden. Den står fri från politiska partier, organisationer, och näringsliv. Vi har ingen ledarsida eller politisk färg. Innehållet på våra plattformar bedöms och värderas av redaktörer, producenter och av ansvarig utgivare före publicering. Vi följer grundlagen och skyddar våra källor när de önskar anonymitet. Om vi refererar uppgifter från andra medier redovisar vi vilka medier eller andra informationskällor det handlar om. Annars berättar vi hur vi själva tagit reda på informationen, dock alltid med största respekt för källskydd.",
+          "url": "https://www.tv4.se/artikel/4Qhj6KAd8hwaL4HZwg2uBL/hur-fungerar-den-publicistiska-grunden-foer-nyhets-och-samhaellsjournalistik",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2024-01-09T10:53:10Z",
+          "embed_url": "https://www.tv4.se/artikel/4Qhj6KAd8hwaL4HZwg2uBL/hur-fungerar-den-publicistiska-grunden-foer-nyhets-och-samhaellsjournalistik",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": true,
+          "sort_order": 7
+        },
+        {
+          "id": "2494532aeba0",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Annonsera - TV4.se",
+          "summary": "Nyheter från TV4: Annonsera",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Tropisk natt på flera håll – fler att vänta Vrede och protester efter beskedet • ”Lever i två olika världar” Ryska attacker mot Kiev i natt – flera döda och skadade VM kan ställas in • Hemliga överenskommelser Iran: Kommer slå mot ”all infrastruktur” Trumps varning: ”Nästa vecka blir det riktigt illa för dem”",
+          "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2023-04-27T12:24:20Z",
+          "embed_url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "bab9eba08c1f",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Cookiepolicy - www.tv4.se",
+          "summary": "Nyheter från TV4: Cookie-policy",
+          "body_text": "25 maj 2018 ・ Uppdaterad: 9 januari 2024 Vissa tjänsteleverantörer, t.ex. Google och Adform, tillhandahåller även egna verktyg som möjliggör för dig att avsäga dig fortsatt marknadsföring. När detta är fallet länkar vi till dessa verktyg i den informationen om våra tredjepartsleverantörer ovan.",
+          "url": "https://www.tv4.se/artikel/5b07c2b424bc62a7002b524d/cookiepolicy-www-tv4-se",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2018-05-25T08:00:52Z",
+          "embed_url": "https://www.tv4.se/artikel/5b07c2b424bc62a7002b524d/cookiepolicy-www-tv4-se",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 9
+        },
+        {
+          "id": "4cb1b263ef11",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Allmänna användarvillkor för TV4:s tjänster",
+          "summary": "Allmänna användarvillkor för tv4.se Uppdaterade februari 2025",
+          "body_text": "Allmänna användarvillkor för TV4:s tjänster Allmänna användarvillkor för tv4.se Uppdaterade februari 2025 Tv4.se ägs och tillhandahålls av TV4 AB (org nr 556242-7152), (”TV4”). Genom att använda Tv4.se bekräftar du att du accepterar dessa villkor för användningen av det innehåll som tillgängliggörs via Tv4.se. TV4 har rätt att när som helst ändra dessa Användarvillkor. Sådan ändring kommuniceras endast genom att en uppdaterad version av villkoren publiceras här. Vi rekommenderar därför att du regelbundet tar del av Användarvillkoren. Användarvillkoren gäller oavsett hur du tar del av tv4.se och inkluderar därmed även användning som t.ex. sker via appar. För TV4:s övriga tjänster - tv4play.se, Köket.se samt Fotbollskanalen.se – gäller särskilda villkor som tillhandahålls i respektive tjänst. Tv4.se innehåller material som skyddas enligt Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk. Detta innebär bland annat att du inte har rätt att sprida (göra tillgängligt) eller kopiera hela eller delar av Tv4.se till allmänheten eller på annat sätt använda Tv4.se för kommersiellt bruk. Du får inte heller kringgå eller försöka kringgå tekniska åtgärder mot kopiering. TV4.s material får inte användas i sammanhang som syftar till att undergräva respekten för mänskliga rättigheter eller diskriminerar någon på grund av etnisk tillhörighet kön, religiös uppfattning, sexuell läggning, nationalitet eller liknande. Vi förbehåller oss rätten att vidta åtgärder i syfte att begränsa sådan användning om vi anser detta nödvändigt. Kopiering för privat bruk får ske enligt vissa förutsättningar i enlighet med tillämplig lag. Du får endast använda Tv4.se för eget och privat bruk och i enlighet med vad som i övrigt gäller enligt tillämplig lag. Brott mot vad som nämnts i denna bestämmelse ska alltid anses som ett väsentligt avtalsbrott och medföra rätt för TV4 att utan förvarning omedelbart stänga av dig från att använda Tv4.se. Brott mot denna bestämmelse kan även medföra skadeståndsskyldighet. TV4 förbehåller sig även rätten att, vid upprepade avtalsbrott, blockera relevant IP-nr och/eller kontokort från fortsatt användning av Tv4.se TV4 bär utgivaransvaret för Tv4.se vilket innebär att merparten av innehåll som återfinns i Tv4.se omfattas av detta ansvar. En del av det innehåll som finns på Tv4.se kommer dock från våra användare, så kallat användargenererat innehåll – t.ex. kommentarer och bilder som användare själva lagt upp/publicerat. TV4 ansvarar inte för sådant innehåll vilket betyder att det är användaren som lagt upp innehållet som bär det fulla ansvaret. TV4 är skyldiga att i efterhand granska och ta bort sådant användargenererat innehåll som är i strid med lag, detta i enlighet med den sk BBS lagen (Lag (1998:112) om ansvar för elektroniska anslagstavlor). Därutöver förbehåller sig TV4 rätten att ta bort användargenererat innehåll som TV4 bedömer som olämpligt eller opassande. I syfte att tydliggöra för dig som användare vad som faller inom TV4:s utgivaransvar så markeras detta alltid i vår layout eller genom text.",
+          "url": "https://www.tv4.se/artikel/5742a60ffca38f120d00046b/allmanna-anvandarvillkor-for-tv4-s-tjanster",
+          "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
+          "published_at": "2016-05-23T06:41:19Z",
+          "embed_url": "https://www.tv4.se/artikel/5742a60ffca38f120d00046b/allmanna-anvandarvillkor-for-tv4-s-tjanster",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        }
+      ]
     },
     {
       "id": "svt-rapport",
@@ -1687,6 +1950,31 @@
           "sort_order": 13
         },
         {
+          "id": "97ce448cbe77",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Gutfeld! - Wedneday, July 15 | Fox News Video",
+          "summary": "Taxes, Billionaires, Fraud",
+          "body_text": "Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+          "url": "https://www.foxnews.com/video/6401295554112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/5a775799-8005-47c6-89ad-9c925a31072f/2753adf3-71e7-4ea1-beca-c4cafc1f961d/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-07-16T10:19:45Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401295554112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "1eebd119503a",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1701,31 +1989,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/c529d1b0-bb90-48d7-8a04-52485795b923/886c7b64-ee06-4d93-ad15-1ab0b18278c5/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-07-16T09:09:02Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401291909112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "5758c222f547",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "The Ingraham Angle - Wednesday, July 15 | Fox News Video",
-          "summary": "ICE, Trump ,Jack Smith",
-          "body_text": "Cutting through the Washington chatter to speak directly with people who are impacted by the news.",
-          "url": "https://www.foxnews.com/video/6401285062112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/9f66cd45-19f6-48d1-bd3d-f033b636f1eb/62a37301-c95e-4c4a-8134-c52c1f8383e5/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-07-16T07:44:45Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401285062112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1754,6 +2017,102 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "168b08b86f23",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "TSMC pledges another $100bn to expand US production in Arizona",
+          "summary": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
+          "body_text": "Taiwanese chipmaker TSMC will invest another $100bn (£74bn) in Arizona as it expands its production in the US, a move the Commerce Department said will create tens of thousands of American jobs. TSMC makes the most advanced chips designed by companies such as Nvidia and Apple, and the news is a boost for President Donald Trump's drive to bring more advanced manufacturing to the US. It raises the company's total commitment to the US to $265bn, with chief executive CC Wei saying the increase will likely see four new plants built in Arizona. The announcement came as the firm announced a 77% jump in second-quarter net profits. Profit from April to June jumped to $22bn, from $12.4bn in the same three months a year earlier. Memory chip makers have seen demand boom in recent years as their products power AI data centres and smart devices. Strong demand for TSMC's chips has helped to make it Asia's most valuable company. Its share price has jumped by more than 55% this year to give it a stock market valuation of around $2 trillion. Wei did not give a timeline of when the new plants were likely to be built, saying only that it would depend on the \"market situation\". The new plants would add to the eight already being built or planned. \"We believe this investment will help to further foster the development of the US semiconductor ecosystem, strengthen the supply chain, and support an increasing number of high-tech, high-paying jobs in the United States,\" Wei said. President Trump wants to boost US production of semiconductor chips, which are found in machines ranging from cars to smartphones, and has been a priority for the US since shortages during the Covid-19 pandemic exposed supply chain risks. He has previously attributed a decision by TSMC last year to expand its investments in the US to his threats of tariffs on Taiwan and on the global semiconductor business.",
+          "url": "https://www.bbc.com/news/articles/c62x8ldxr7eo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0874/live/d7c92fe0-80ad-11f1-ba1f-795e92f7cb6e.jpg",
+          "published_at": "2026-07-16T10:23:00Z",
+          "embed_url": "https://www.bbc.com/news/articles/c62x8ldxr7eo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "e3804273b135",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Watch: Moment US Navy Blue Angels jet stuns packed beach with low flypast",
+          "summary": "A US Navy Blue Angels jet sent some beach items up in the air as it flew at a low altitude over a crowd in Pensacola Beach, Florida.",
+          "body_text": "Beachgoers have captured the moment a US Navy Blue Angels jet flew strikingly close to a crowd in Pensacola Beach, Florida at an air show on Wednesday. Video shared on social media showed the moment the jet performed the flyby, sending beach umbrellas and other items flying as people cheered. Officials from the elite Blue Angels flight demonstration squadron said they're conducting a review after \"an aircraft flew lower than standard profiles, resulting in a disturbance on the beach that affected civilian chairs and umbrellas\", according to US media reports. No injuries were reported as a result of the incident, with one beachgoer telling US media it was an \"amazing\" experience. CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario. The 84-year-old Republican hasn't been seen in public for weeks and says he is recovering from a fall. Protesters echoed mounting demands for an independent inquiry into the shooting of Lorenzo Salgado Araujo, 52, a Mexican national. Scientists are the first to capture the wreck of the ship on which Shackleton, a leading figure of the Heroic Age of Antarctic Exploration, died in 1922. The BBC's Nardine Saad spoke to soccer fans about the sport's growing popularity in the United States. Roger Lieb and Bonnie Taff tell the BBC what it was like to have their wedding on 4 July 1976, America's bicentennial. The couple tied the knot in a star-studded ceremony officiated by comedian Adam Sandler at Madison Square Garden. The BBC's Nada Tawfik reports from the scene, bringing us the atmosphere outside Madison Square Garden.",
+          "url": "https://www.bbc.com/news/videos/cx27ljkngxmo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6837/live/84f46450-8103-11f1-b976-0b9c15b0ccfc.jpg",
+          "published_at": "2026-07-16T10:13:40Z",
+          "embed_url": "https://www.bbc.com/news/videos/cx27ljkngxmo",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "e6062b7bd00e",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister Fedorov",
+          "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+          "body_text": "Protests have been taking place in several Ukrainian cities against President Volodymyr Zelensky's surprise dismissal of popular Defence Minister Mykhailo Fedorov. A crowd of people - mostly young - gathered in Kyiv, holding up signs reading \"Hands off Fedorov\" and \"Stop sabotaging victory!\" and chanting \"Shame!\". Zelensky has not yet explained his decision, which is causing significant upset among commentators and the military as well as parts of civil society. Fedorov, 35, was appointed only in January but has been credited with energising the ministry, heading a drive against corruption and using data to analyse and try to improve performance on the front line. MPs were due to vote on Thursday on the proposed replacement as defence minister, Ihor Klymenko, who currently heads the interior ministry. As part of Zelensky's reshuffle, parliament approved the appointment of state oil and gas boss Serhiy Koretsky as prime minister, after Yuliia Svyrydenko resigned earlier this week. There had been rumours that Mykhailo Fedorov's dismissal was linked to tensions between him and Commander-in-Chief Oleksandr Syrskyi. At a press conference on Thursday, Fedorov all but confirmed that, saying he had suggested to Zelensky that Syrskyi and Chief of the General Staff Andrii Hnatov should be replaced. \"When the president said he did not plan to replace Syrskyi, I... said I would learn to work with him,\" Fedorov said. But \"all the initiatives we proposed were blocked,\" he added. \"Instead of finding a way of defeating Russia asymmetrically - which is the commander-in-chief's job - he's found a way of splitting our country,\" Fedorov said of Syrskiy. Fedorov also revealed that Zelensky offered him to stay on his team as an adviser, but that he refused. He was not seeking to antagonise the president, he explained, saying he was \"confident\" that Zelensky \"hears the Ukrainian people, knows what to do, and the situation will be 100% resolved\".",
+          "url": "https://www.bbc.com/news/articles/cdx76069n3do",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/aa3c/live/879986f0-80f3-11f1-8edb-6f86e45a0f45.jpg",
+          "published_at": "2026-07-16T09:29:28Z",
+          "embed_url": "https://www.bbc.com/news/articles/cdx76069n3do",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "1399441928cb",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Pakistan resists UK attempts to deport grooming gang leader Shabir Ahmed",
+          "summary": "The government of Pakistan says it has \"no connection whatsoever\" with the case of Shabir Ahmed.",
+          "body_text": "Pakistan is resisting attempts by the UK government to deport a freed ringleader of a Rochdale grooming gang. Tahir Andrabi, a spokesman for Pakistan's Ministry of Foreign Affairs, told the BBC that Shabir Ahmed must be dealt with in accordance with UK laws and the government of Pakistan has \"no connection whatsoever with this matter\". Calls have mounted for Ahmed's deportation but legislation from 1971 bars it. Ahmed's removal depends on Pakistan accepting him despite the UK government proposing to change the law . Ahmed had dual British-Pakistani citizenship before being stripped of his UK passport following his 2012 conviction for multiple counts of rape and sexual offences against girls. Ahmed, who came to the UK in the late 1960s, was one of nine men from Rochdale and Oldham found guilty of exploiting girls as young as 13 at two takeaway restaurants. Andrabi said Ahmed's \"heinous crimes demand serious introspection rather than the quest to search for extraneous causes\". He said: \"The matter in question is entirely an internal matter of the United Kingdom. \"The individual concerned is a British national who spent his entire adult life in the UK and was duly convicted by a British court for reprehensible offences committed on British soil. \"Any decision regarding his release, supervision of usual legal status, falls exclusively within the jurisdiction of the competent British authorities and must be dealt with in accordance with the laws of the United Kingdom. \"Regardless of where he was born, the onus lies on where he grew up, was raised, groomed, and unfortunately spoiled.\" He added: \"The government of Pakistan has no connection whatsoever with this matter. \"We cannot be associated with any decisions relating to the individual's release or subsequent treatment under the British law.\"",
+          "url": "https://www.bbc.com/news/articles/clyxnvjy706o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a105/live/4d7551d0-7486-11f1-8e1d-bbbb1017d210.jpg",
+          "published_at": "2026-07-16T08:38:06Z",
+          "embed_url": "https://www.bbc.com/news/articles/clyxnvjy706o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
           "id": "7f2a46457edc",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -1775,7 +2134,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 4
         },
         {
           "id": "5e9f30fea050",
@@ -1787,7 +2146,7 @@
           "source_kind": "mixed",
           "title": "Iran targets military bases as US launches wave of strikes",
           "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-          "body_text": "Tehran has launched fresh attacks on US military bases in neighbouring Gulf states, while Washington continued to strike sites across Iran overnight. Tehran said it had struck targets in the region, including in Jordan, Kuwait and Bahrain, as a sixth day of renewed hostilities strained their preliminary deal to end the war. Meanwhile, the US military said it inflicted a six-hour wave of strikes in multiple locations to \"degrade Iran's ability to threaten innocent mariners\" in the Strait of Hormuz. The latest exchanges came after US President Donald Trump warned Iran it had \"better behave\" or face further military action should Iran not return to negotiations. On Tuesday, Trump threatened to target Iran's energy infrastructure if Tehran failed to return to talks. Iran's top negotiator, Mohammad Bagher Ghalibaf, told state media Tehran had \"no reason\" to abide by any agreement that did not benefit the country. He added that Iran's national security depended on maintaining what he described as \"Iranian arrangements\" in the Strait of Hormuz. In the latest attacks, the US targeted command centres, air defence sites, and coastal surveillance facilities across Iran - including in the port city of Bandar Abbas and Greater Tunb Island - US Central Command (Centcom) said. Explosions were heard across Iran and air defences were triggered in Tehran, Iranian state media reported. Shortly after, US allies in the Gulf reported attacks. Kuwait's military said it intercepted drone attacks, while Bahrain's interior ministry told citizens to remain calm and head to the nearest safe place. The Iranian military also said it targeted US communication systems and fuel storage facilities in Jordan in its latest round of strikes. As tensions intensify, the Strait of Hormuz - a critical waterway off Iran's coast that Tehran effectively blocked in response to US-Israeli strikes - remains closed.",
+          "body_text": "Tehran has launched fresh attacks on US military bases in neighbouring Gulf states, while Washington continued to strike sites across Iran overnight. Tehran said it had struck targets in the region, including in Jordan, Kuwait and Bahrain, as a sixth day of renewed hostilities strained their preliminary deal to end the war. Meanwhile, the US military said it inflicted a six-hour wave of strikes in multiple locations to \"degrade Iran's ability to threaten innocent mariners\" in the Strait of Hormuz. The latest exchanges came after US President Donald Trump warned Iran it had \"better behave\" or face further military action should Iran not return to negotiations. On Tuesday, Trump threatened to target Iran's energy infrastructure if Tehran failed to return to talks. Iran's top negotiator, Mohammad Bagher Ghalibaf, told state media Tehran had \"no reason\" to abide by any agreement that did not benefit the country. He added that Iran's national security depended on maintaining what he described as \"Iranian arrangements\" in the Strait of Hormuz. In the latest attacks, the US targeted command centres, air defence sites, and coastal surveillance facilities across Iran - including in the port city of Bandar Abbas and Greater Tunb Island - US Central Command (Centcom) said. Explosions were heard across Iran and air defences were triggered in Tehran, Iranian state media reported. Iran's foreign ministry spokesman Esmaeil Baqaei said a children's cancer treatment centre in the western city of Ahvaz had been evacuated after strikes on a nearby location. Shortly after, US allies in the Gulf reported attacks. Kuwait's military said it intercepted drone attacks, while Bahrain's interior ministry told citizens to remain calm and head to the nearest safe place. The Iranian military also said it targeted US communication systems and fuel storage facilities in Jordan in its latest round of strikes.",
           "url": "https://www.bbc.com/news/articles/c2lq1ed28jxo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg",
           "published_at": "2026-07-16T07:06:38Z",
@@ -1799,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 5
         },
         {
           "id": "6e10f46d4c49",
@@ -1823,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "f147fb2d376a",
@@ -1847,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 7
         },
         {
           "id": "2175684b6311",
@@ -1871,7 +2230,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 8
         },
         {
           "id": "149148be7f62",
@@ -1895,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 9
         },
         {
           "id": "68304d82c0ec",
@@ -1919,7 +2278,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 10
         },
         {
           "id": "fbc174d6f863",
@@ -1943,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 11
         },
         {
           "id": "326040417586",
@@ -1967,31 +2326,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "1d156e083677",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "French MPs approve assisted-dying law with strict rules after years of argument",
-          "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-          "body_text": "France's National Assembly has voted to create a right to assisted dying under strict conditions, after years of debate and changes to the proposals. MPs voted by 291 to 241 to back the bill, which had been rejected three times by the upper house of parliament, the Senate. Prime Minister Sébastien Lecornu is set to refer parts of the bill to France's Constitutional Council for examination before it can become law. It would allow assisted dying for French adults with a \"serious and incurable\" life-threatening illness \"in an advanced or terminal stage\". The illness would need to leave them in constant physical or psychological suffering that is unbearable or resistant to treatment. The patient would need to \"freely manifest his or her intention\" to a doctor, who would then make a decision after consultation within 15 days. After two days of reflection, the patient would have to administer a lethal substance themselves. If they were unable to do so, it could be done by a doctor or nurse. The patient's decision to go ahead with the procedure would have to be verified by the physician on the day. Wednesday's vote means France could join several other European countries that have decriminalised assisted dying in some form. A similarly lengthy debate has been taking place in the UK. A bill to legalise assisted dying in England and Wales stalled earlier this year and is set to return to Parliament in September . The Netherlands and Belgium legalised assisted dying in 2002 for people with unbearable suffering from incurable illness, allowing it to be administered by a physician. Several other European countries have since passed legislation, and Switzerland has long allowed assisted suicide if the person assisting acts unselfishly. In France, the issue has been highly contentious politically, drawing opposition from the Catholic Church and parts of the medical profession.",
-          "url": "https://www.bbc.com/news/articles/cvg7g2z4pv3o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg",
-          "published_at": "2026-07-15T17:29:26Z",
-          "embed_url": "https://www.bbc.com/news/articles/cvg7g2z4pv3o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 9
+          "sort_order": 12
         },
         {
           "id": "9eb15b04b1cb",
@@ -2008,78 +2343,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3c14/live/40b48570-801f-11f1-9317-f3c8d3f68726.jpg",
           "published_at": "2026-07-15T17:02:41Z",
           "embed_url": "https://www.bbc.com/news/articles/cd959q11g54o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "9cbc1f6eb33a",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Five arrested after raid on two Hong Kong independent bookshops",
-          "summary": "Officials say they are suspected of selling \"seditious\" books which incited \"hatred\" against authorities.",
-          "body_text": "Five people suspected of selling and displaying books deemed \"seditious\" in Hong Kong have been arrested after police raided two independent bookshops. Authorities said the publications incited \"hatred\" against the territory's government, judiciary and law enforcement agencies. Officers seized books from both shops, the government said in a statement. The group - two men aged 37 and 57, and three women aged between 30 and 59 - are suspected of violating national security legislation by \"acting with seditious intent\". They are currently being held for investigation. If convicted, they could face up to seven years in prison. Officials did not name the businesses raided by police. Reporters from the AFP news agency saw officers leading a woman in handcuffs the Have A Nice Stay bookshop into a van. The shop in the city's densely packed Mong Kok area was founded in 2022 by a group of former journalists, stocking literature on democracy, authoritarianism and media literacy. The raid came a day after it announced it would be shutting down in August, citing financial reasons and what it called an \"elusive 'red line'\" over what material is considered problematic. Local media reported the nearby Greenfield Book Store was also targeted. On its Facebook page, the shop says it stocks books from Hong Kong and Taiwan, covering \"literature, history, philosophy, art, sociology and self-improvement\". Neither business is attending this year's Hong Kong Book Fair, which opened on Wednesday. There have been two other raids on bookshops in Hong Kong in 2026. Two workers were arrested at the Hunter store in June, and a further four were arrested from Book Punch in March. Amnesty International said the raids indicated \"the chilling reality of what the city has become: a place where you can be criminalised simply for what's on your bookshelf\".",
-          "url": "https://www.bbc.com/news/articles/cq61660qpdpo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7a33/live/847ae010-806a-11f1-bf5f-a7a6eeea7412.jpg",
-          "published_at": "2026-07-15T16:51:07Z",
-          "embed_url": "https://www.bbc.com/news/articles/cq61660qpdpo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 11
-        },
-        {
-          "id": "219908b03db2",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "March and March's Andile Mvuyelwa Somgxada shot: Special South African police team to investigate killing of anti-migrant leader",
-          "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
-          "body_text": "A special police team has begun investigating the killing of a provincial leader of an anti-migrant group in South Africa. Police confirmed that Andile Mvuyelwa Somgxada, the Gauteng province leader of March and March, was shot outside his home east of Johannesburg earlier this month and died several days later in hospital. \"It's a retaliation,\" March and March spokesperson Sandile Dube told the BBC, explaining how the movement believed he was targeted because of its campaign to get undocumented migrants to leave the country. He said other leaders of March and March, which has been organising anti-migrant demonstrations across the country, had recently received warnings or death threats. \"This seems like an orchestrated hitman type of killing,\" Dube told the BBC's Newsday programme, urging the authorities to get to the bottom of the matter and the intimidation the organisation was facing. Acting police chief Lt Gen Puleng Dimpane has announced a multidisciplinary team to investigate the shooting, which he said underscored the seriousness with which the service was treating the case. \"We are committed to conducting a thorough investigation to establish the circumstances surrounding this murder and to ensure accountability,\" she said in statement on Tuesday evening. Immigration - especially undocumented migration - has become a highly contentious political issue in South Africa, with protesters accusing them of placing pressure on public services, as well as being involved in crime. March and March had set an unofficial deadline of 30 June for all migrants without papers to leave the country. Protesters have promised to stage weekly marches until their demands are met. The South African government has said more than 53,000 foreign nationals have been deported or repatriated since it launched a \"migration management\" campaign five weeks ago. Xenophobia has long been an issue in South Africa, which is Africa's wealthiest nation and has long attracted migrants searching for better economic opportunities. It has sometimes led to violence - and this current round of demonstrations has seen violence, intimidation and looting.",
-          "url": "https://www.bbc.com/news/articles/cm2d2qlgj71o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/233b/live/4e691b90-8056-11f1-bee8-53ce494e1abc.jpg",
-          "published_at": "2026-07-15T14:37:45Z",
-          "embed_url": "https://www.bbc.com/news/articles/cm2d2qlgj71o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 12
-        },
-        {
-          "id": "cbc94937f32e",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-          "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-          "body_text": "Fourteen people have been killed in Russian attacks across Ukraine overnight and on Wednesday, local officials say. In the Black Sea port of Odesa, three people were killed in a \"massive\" drone and missile strike, regional head Oleh Kiper said. It was the fifth day in which Russia has hit the region. Three people were killed the north-eastern city of Sumy, and another three in Zaporizhzhia in the south. Five casualties were also reported in three other south-eastern regions. Ukraine said its drones hit 20 Russian vessels, including 17 oil tankers, in the Black Sea overnight. Separately, a major government reshuffle is now under way in Ukraine, with the country's prime minister and defence minister both resigning. Earlier, the Russian ministry of defence confirmed it had attacked Odesa, saying it had deliberately targeted port infrastructure, \"used for the unloading of petroleum, oil, and lubricants\". Writing on Telegram, Kiper accused Russia of deliberately targeting the civilian population and said residents were killed and injured when a Russian missile struck a multi-storey residential building. He added that a non-residential building and a gas pipeline were also hit. In its report issued on Tuesday, the United Nations Human Rights Monitoring Mission in Ukraine said at least 293 civilians were killed and 1,990 injured in Ukraine in June. It said that long-range weapons - such as missiles and drones - \"remained the leading cause of civilian casualties\", accounting for 45% of deaths. \"Most casualties from these weapons occurred far from the front line in urban centres such as Kyiv and Dnipro,\" the UN monitors said. In its statement, Russia's military claimed to have targeted sites involved in the manufacture of military hardware, and the transport of cargo.",
-          "url": "https://www.bbc.com/news/articles/c8929jv8kdzo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
-          "published_at": "2026-07-15T10:17:38Z",
-          "embed_url": "https://www.bbc.com/news/articles/c8929jv8kdzo",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -3329,6 +3592,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "c8fe77bc30e3",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot | TechCrunch",
+          "summary": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
+          "body_text": "Meta announced on Thursday that it will now notify parents if their teen discusses suicide or self-harm with the company’s Meta AI chatbot. Meta says it’s also working on the ability to contact emergency services if someone’s conversations suggest they may be at risk of self-harm. These changes arrive as Meta and other tech companies face scrutiny from regulators and parents over how AI chatbots respond to users in crisis , particularly teenagers —a liability question that’s increasingly shaping how AI companies design and market their products. Meta says it has built a dedicated AI system to identify conversations where a teen makes a clear reference to hurting themselves. “We understand how distressing these alerts may be for a parent to receive,” Meta wrote in a blog post. “That’s why, as we continue to improve our detection, all chats flagged by our AI will be manually reviewed before an alert is sent. If a teen’s intent is ambiguous, we’ll err on the side of caution and alert the parent. While that means we may sometimes notify parents when there may not be real cause for concern, we feel this is the right starting point, and we’ll continue to monitor to help make sure we’re in the right place.” These alerts are now live for parents using Instagram Parental Supervision in the U.S., U.K., Australia, and Canada, and will roll out globally by the end of the year, Meta says. This update builds on the alerts that Meta already sends to parents when their teen repeatedly searches for suicide or self-harm terms on Instagram. It also builds on a feature that allows parents to see the topics their teen discussed with Meta AI over the past week. Meta also announced that its “ Limited Content ” setting—which lets parents place their teens in a more restrictive experience on Instagram—now applies to Meta AI as well. Meta AI is already trained to avoid sexual or romantic conversations or alcohol-related discussions with teens, and the Limited Content setting expands those safeguards by making the chatbot decline a broader range of prompts. Meta didn’t specify what those additional prompts include, but TechCrunch has asked for company for more information. Additionally, Meta says it will contact emergency services if someone’s conversation with Meta AI, whether the user is an adult or a teen, suggests someone is at risk of suicide. It’s worth noting that Meta already takes this step when someone posts something on Facebook or Instagram that suggests they are at risk, so this extends that same practice to conversations with its chatbot. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Aisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University. You can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal. Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT .",
+          "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+          "published_at": "2026-07-16T11:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "17dbb84dfdea",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Phone maker OnePlus says it won't release new phones in the U.S. and Europe | TechCrunch",
+          "summary": "OnePlus could also wind down its operations in India by 2027.",
+          "body_text": "Update July 16, 2026 (3:00 am PT): OnePlus said that the company won’t launch new products in Europe and North America. “After careful assessment, OnePlus will no longer launch new products in Europe and North America. All users’ rights and interests, including after-sales support and software updates, will remain fully guaranteed,” it said in a statement to TechCrunch. Amid rising consumer electronics prices and slow demand for new purchases, Android phone maker OnePlus plans to wind down its U.S. and Europe operations this week, according to a report from Bloomberg . The report cited a source saying that OnePlus’ shuttering of its U.S. and European shops is part of a corporate rejig at parent company Oppo. It also noted that OnePlus will wind down its operations in India, one of its biggest markets outside China. OnePlus was started by Pete Lau and Carl Pei in 2013 to make affordable Android phones for tech enthusiasts. Over time, the company expanded the range of offerings and that created global demand for its products. Pei left the company in 2020 to start Nothing . As the price of the company’s flagship phones increased, OnePlus also ventured into more affordable phones with its Nord series . Analytics firms like IDC and Counterpoint have predicted that smartphone shipments are going to decline by more than 13% in 2026 due to a limited supply of memory chips that’s been described as RAMageddon . Oppo faced a double-digit shipment decline year-over-year for the second quarter of 2026, according to a report by Counterpoint . It noted that the company faced “softness across most of its key markets” because of weak demand. The company plans to continue operating OnePlus in China and sell Realme phones abroad in areas like the Nordic region, where it has proved successful, according to the Bloomberg report. Counterpoint said that the company’s shipments to other companies have dwindled in the last year. The firm said that its shipment share to U.S. dropped below 1% last year. “OnePlus built its name as the “flagship killer” — high-end specs, mid-range price, and aggressive global expansion. That growth era’s over. The company is now doubling down on China and retreating from the rest of the world,” Counterpoint’s senior research analyst Maurice Klaehne told TechCrunch. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.",
+          "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg?w=960",
+          "published_at": "2026-07-16T09:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "862798aa8b44",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3350,31 +3661,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
-        },
-        {
-          "id": "2d626a13a678",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant | TechCrunch",
-          "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-          "body_text": "Applied Computing , a London-based startup that’s building a foundation AI model for the oil, gas, and petrochemical industry, has raised a $20 million Series A led by engineering giant KBR, with Databricks Ventures participating. Founded in 2023, the startup targets oil, gas, refining, and petrochemical systems, where a single facility can have thousands of sensors measuring everything from temperature and pressure to velocity and viscosity. While there’s a huge market for helping energy companies solve the data-tracking problem, the fragmentation presents a significant hurdle. Facilities consequently make operating decisions using less than 8% of the data available to them, says Applied Computing’s co-founder and CEO Callum Adamson (pictured above, right). Operators already collect much of this information, he said, but they struggle to combine the sensor readings, engineering documentation, and physics and chemistry quickly enough to analyze and make predictions. “It’s getting those three data sources to talk to each other in real time. That’s the real key,” he told TechCrunch. Unlike large language models, which predict the next word, Applied Computing says its foundation model, Orbital, combines a time series model, a physics-based model, and a language model to predict the state of a facility. It does this by analyzing sensor readings, keeping physics and chemistry in mind, and recognizing a facility’s equipment constraints and operator activity. It also allows technicians to run simulations of how a change in one part of a facility could affect the rest of its operations. Essentially, Applied Computing is pitching speed: It claims Orbital can flag anomalies, investigate what caused them, and model whether a proposed fix could create problems elsewhere in the facility, all within minutes. Adamson claims the product can compress investigations that previously took days or weeks into seconds, helping operators reduce energy use and maintain output. That promise of speed seems to have found believers. The startup says it has gone from stealth to double-digit millions in annual recurring revenue in under 18 months. Adamson said Orbital is in use at some “large, publicly listed” upstream oil and gas, downstream refining and petrochemicals companies, although he declined to mention how many customers it has. Its partners include Indian energy company Wipro, and KBR, which has integrated Orbital into its INSITE 3.0 digital platform for energy projects, and is using the product for ammonia production. Adamson said the startup is also working with a “major U.S. upstream operator” and plans to announce a partnership with a European oil major in the coming weeks. Still, Applied Computing is entering a market that has entrenched industrial software suppliers, as well as more focused AI startups. AspenTech sells simulation and AI-powered modeling software for upstream, refining, and chemical operations, while AVEVA offers physics-based process simulation, optimization, and “what-if” modeling for industrial plants. Cognite and Seeq target the data layer, helping facilities analyze industrial data, and apply AI to design workflows. Adamson argues that the company’s moat is not access to industrial data or process knowledge, but rather assembling AI researchers to build a model that can compete with Orbital. “It’s an AI problem. It’s not a data problem, and it’s not an energy problem,” he said. “If you’re a tier-one AI researcher, where are you going to work? … I don’t think Shell’s on that list.” Adamson also pointed to the data Orbital receives through its deployments. Operational data from refineries and other energy facilities is generally not available publicly, he said, while simulated data cannot fully reproduce what happens inside a working plant. The KBR partnership may help the company, too. Adamson said the partnership gives Applied Computing access to operational data and industry expertise, as well as introductions to more potential customers. Applied Computing plans to use the $20 million to expand internationally, hire for research and engineering roles, and explore deployments with energy clients. The company on Thursday said it’s also opened an office in Houston, adding to its headquarters in London and operational hub in Bengaluru. Adamson said the U.S. base puts the startup closer to two existing customers in North America, and an expansion into the Middle East is also in the works. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.",
-          "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Please-credit-Schmooly-Sam-left-Callum-right.jpg?resize=1200,800",
-          "published_at": "2026-07-16T04:00:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/07/Please-credit-Schmooly-Sam-left-Callum-right.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "54f73780a1de",
@@ -3386,7 +3673,7 @@
           "source_kind": "story",
           "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms | TechCrunch",
           "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-          "body_text": "The National Transportation Safety Board (NTSB) said Wednesday that the driver of a Tesla who crashed into a house in June had pressed the accelerator pedal to 100%, overriding the company’s Full Self-Driving (Supervised) software. Data recovered from the Tesla showed that the vehicle was traveling more than 70 miles per hour when it struck a house in Katy, Texas, killing 76-year-old resident Martha Avila, according to the NTSB. The family of the victim has since sued the alleged driver, 44-year-old Michael Butler, and Tesla, claiming negligence. Butler has also been charged with manslaughter. The safety board shared the information as part of a preliminary report on the progress of its investigation into the crash. The National Highway Traffic Safety Administration is also probing the incident. The data confirms Tesla’s account of the crash, which the company shared in the days after it happened in order to show that its advanced driver assistance system wasn’t to blame. “[T]his [allegation] makes no sense. FSD drives slowly through neighborhood streets and this was a high speed crash!” Tesla CEO Elon Musk wrote on X shortly after the crash. The NTSB said Wednesday that the 44-year-old driver was using Full Self-Driving (Supervised) on Rose Hollow Lane, a residential two-lane road with a speed limit of 30 miles per hour, prior to the crash. Security camera footage obtained by the safety board showed the car accelerating through an intersection, leaving the road, and hitting the house. The “weather was clear, the roadway was dry, and daylight conditions were present,” according to the NTSB. Tesla requires that drivers using Full Self-Driving (Supervised) pay attention to the road and be ready to take control at any moment. Butler allegedly told authorities that he had “passed out” and that he was using Tesla’s driver assistance system. Police reportedly discovered that his Google searches included the terms “Tesla FSD not aggressive enough 2026,” “Tesla not aggressive enough,” and “Tesla FSD too timid,” according to local ABC news affiliate station KTRK TV . When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Sean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal. Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . Anthropic’s newest ad is creeping people out Satya Nadella has issued a shocking warning to companies using AI",
+          "body_text": "The National Transportation Safety Board (NTSB) said Wednesday that the driver of a Tesla who crashed into a house in June had pressed the accelerator pedal to 100%, overriding the company’s Full Self-Driving (Supervised) software. Data recovered from the Tesla showed that the vehicle was traveling more than 70 miles per hour when it struck a house in Katy, Texas, killing 76-year-old resident Martha Avila, according to the NTSB. The family of the victim has since sued the alleged driver, 44-year-old Michael Butler, and Tesla, claiming negligence. Butler has also been charged with manslaughter. The safety board shared the information as part of a preliminary report on the progress of its investigation into the crash. The National Highway Traffic Safety Administration is also probing the incident. The data confirms Tesla’s account of the crash, which the company shared in the days after it happened in order to show that its advanced driver assistance system wasn’t to blame. “[T]his [allegation] makes no sense. FSD drives slowly through neighborhood streets and this was a high speed crash!” Tesla CEO Elon Musk wrote on X shortly after the crash. The NTSB said Wednesday that the 44-year-old driver was using Full Self-Driving (Supervised) on Rose Hollow Lane, a residential two-lane road with a speed limit of 30 miles per hour, prior to the crash. Security camera footage obtained by the safety board showed the car accelerating through an intersection, leaving the road, and hitting the house. The “weather was clear, the roadway was dry, and daylight conditions were present,” according to the NTSB. Tesla requires that drivers using Full Self-Driving (Supervised) pay attention to the road and be ready to take control at any moment. Butler allegedly told authorities that he had “passed out” and that he was using Tesla’s driver assistance system. Police reportedly discovered that his Google searches included the terms “Tesla FSD not aggressive enough 2026,” “Tesla not aggressive enough,” and “Tesla FSD too timid,” according to local ABC news affiliate station KTRK TV . When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Sean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal. Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . OpenAI’s first hardware device is reportedly a screenless speaker that can move Anthropic’s newest ad is creeping people out",
           "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/ntsb-tesla-texas.jpg?resize=1200,831",
           "published_at": "2026-07-15T20:22:52Z",
@@ -3398,7 +3685,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "bacbba8fee14",
@@ -3422,7 +3709,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "275141522901",
@@ -3446,30 +3733,6 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "ab75e30f23ab",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations | TechCrunch",
-          "summary": "OnePlus could also wind down its operations in India by 2027.",
-          "body_text": "Amid rising consumer electronics prices and slow demand for new purchases, Android phone maker OnePlus plans to wind down its U.S. and Europe operations this week, according to a report from Bloomberg . The report cited a source saying that OnePlus’ shuttering of its U.S. and European shops is part of a corporate rejig at parent company Oppo. It also noted that OnePlus will wind down its operations in India, one of its biggest markets outside China. OnePlus was started by Pete Lau and Carl Pei in 2013 to make affordable Android phones for tech enthusiasts. Over time, the company expanded the range of offerings and that created global demand for its products. Pei left the company in 2020 to start Nothing . As the price of the company’s flagship phones increased, OnePlus also ventured into more affordable phones with its Nord series . Analytics firms like IDC and Counterpoint have predicted that smartphone shipments are going to decline by more than 13% in 2026 due to a limited supply of memory chips that’s been described as RAMageddon . Oppo faced a double-digit shipment decline year-over-year for the second quarter of 2026, according to a report by Counterpoint . It noted that the company faced “softness across most of its key markets” because of weak demand. The company plans to continue operating OnePlus in China and sell Realme phones abroad in areas like the Nordic region, where it has proved successful, according to the Bloomberg report. Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
-          "url": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg?w=960",
-          "published_at": "2026-07-15T17:53:32Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
           "sort_order": 5
         },
         {
@@ -3701,7 +3964,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Streama FIFA Fotbolls-VM och Allsvenskan med TV4 Play Sport Fotboll. Halva priset hela sommaren – 224,50 kr/mån i 3 månader.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Reorna är här – tips på butiker med rabatter:",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://www.aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -3726,7 +3989,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Sommarrea hos Haglöfs – just nu upp till 40% på funktionsplagg!",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Reorna är här – tips på butiker med rabatter:",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://www.aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -3759,6 +4022,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "555b4a7d78f5",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Utvisades efter knivattack – kom tillbaka och gömde sig hos frun",
+          "summary": "En man dömdes till fängelse och utvisning efter en knivattack 2022. Trots det åkte han tillbaka till Sverige och gömde sig hos sin fru.",
+          "body_text": "En irakisk man dömdes till fängelse och utvisning efter en knivattack. Trots det kunde han komma tillbaka till Sverige. I förhör säger han att han inte stoppades vid någon gränskontroll. Han hittades hos sin fru och hennes barn. – Jag hade tänkt träffa dem lite för att sen åka tillbaka, säger han i förhör. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den 33-årige mannen knivhögg en annan man tre gånger i Lessebo våren 2022. Våldet orsakade allvarliga muskelskador och han utdelade även hugg mot ansikte och hals. Sommaren samma år dömdes han för grov misshandel till ett år och nio månaders fängelse och utvisning i fem år. Mannen, som kommer från Irak, hade ansökt om asyl i Sverige 2015. Två år senare fick han beskedet att varken uppehålls- eller arbetstillstånd hade beviljats – alltså skulle han lämna Sverige. 2019 vann beslutet laga kraft efter att ha överklagats. Efter det vistades han sig alltså illegalt i Sverige. Det var inte förrän efter misshandelsdomen som utvisningen genomfördes. I början av juni i år kom han tillbaka, och bodde hos sin fru och hennes barn. Innan utvisningen levde han med en kvinna som han refererar till som sin fru, men deras äktenskap är inte registretat. Han hade inte några biologiska barn, men en nära relation till kvinnans. Därför bedömdes anknytningen vara svag nog för utvisning.",
+          "url": "https://www.expressen.se/nyheter/sverige/utvisades-efter-knivattack-kom-tillbaka-och-gomde-sig-hos-frun/",
+          "image_url": "https://static.bonniernews.se/images/e6/26/e626e893c1ab44798ecd73d12602eaf0/16x9/original.png",
+          "published_at": "2026-07-16T10:59:46Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/utvisades-efter-knivattack-kom-tillbaka-och-gomde-sig-hos-frun/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "3780de16acce",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Demonstranter rasar mot Zelenskyjs beslut",
+          "summary": "Ukrainas president Volodymyr Zelenskyjs beslut att sparka landets försvarsminister Mychajlo Fedorov väcker kritik.",
+          "body_text": "Ukrainas president Volodymyr Zelenskyjs beslut att sparka landets försvarsminister Mychajlo Fedorov väcker kritik. Demonstranter har samlats runtom i landet i protest mot presidentens beslut, rapporterar Pravda . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ett hundratal personer har samlats i närheten av Ukrainas president Volodymyr Zelenskyjs kontor i Kiev på torsdagsförmiddagen. Demonstranterna håller upp skyltar med budskap som ”Ta tillbaka Fedorov” och ”Ändra inte något som fungerar”, enligt Pravdas reporter på plats. ”Skäms” och ”Fedorov är vår försvarsminister” skanderar de. Under onsdagen stod det klart att Ukrainas försvarsminister Mychajlo Fedorov fått sparken, efter bara ett halvår på posten. I ett inlägg på Telegram skrev Fedorov att det varit ”en stor ära” att tjäna det ukrainska folket. Zelenskyjs beslut att sparka Fedorov är en del av presidentens omorganisering av regeringen. Beslutet ska bero på konflikter mellan Fedorov och Ukrainas överbefälhavare Oleksandr Syrskyj, enligt källor till Kyiv Independent . Fedorov har gjort sig populär under sin korta tid i regeringen, bland annat efter att han fått Elon Musk att neka Ryssland tillgång till Starlinks kommunikationssystem. Hans insatser har hyllats av militära experter och beslutet om hans avgång väckte snabbt kritik hos soldater, krigsveteraner och företrädare för civilsamhället, skriver Kyiv Independent. Under torsdagen samlas demonstranter på flera håll i Ukraina för att protestera mot beslutet, enligt Pravda. Fedorov väntas blir ersatt av Ihor Klymenko, som fram tills nu varit Ukrainas inrikesminister, enligt källor till Kyiv Independent. Det är också oklart om Fedorov kommer att få en ny roll i Zelenskyjs regering. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/protester-efter-att-ukrainas-forsvarsminister-fatt-lamna/",
+          "image_url": "https://static.bonniernews.se/images/60/34/6034d5c4d6624cf5a6d59ecb9ae080dd/16x9/original.png",
+          "published_at": "2026-07-16T10:06:29Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/protester-efter-att-ukrainas-forsvarsminister-fatt-lamna/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "029f2a69f9f7",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tropisk natt på flera håll – fler att vänta",
+          "summary": "Värmen ligger kvar över Sverige och natten mot torsdagen har varit tropisk på flera håll.",
+          "body_text": "Värmen ligger kvar över Sverige och natten mot torsdagen har varit tropisk på flera håll. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Med en tropisk natt menas att temperaturen inte sjunker under 20 grader under natten. Natten mot torsdagen noterades som tropisk på flera håll, bland annat vid stationerna Kilsbergen-Suttarboda utanför Örebro, Kolmården-Strömsfors utanför Norrköping, Observatoriekullen i Stockholm och Vinga utanför Göteborg. Årets första tropiska nätter uppmättes dock redan under den varma perioden i slutet av juni. Och fler kan vänta, enligt SMHI . – Jag kan absolut tänka mig att det kan bli ytterligare en tropisk natt under den kommande natten i och med att vi har en ny omgång med riktigt varmt väder över landet, säger Christopher Greenland, meteorolog på SMHI. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här! Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister.",
+          "url": "https://www.expressen.se/nyheter/vader/tropisk-natt-pa-flera-hall-fler-att-vanta/",
+          "image_url": "https://static.bonniernews.se/images/ec/55/ec5557c94a624f0ca4dc895a7bce67f9/16x9/original.jpg",
+          "published_at": "2026-07-16T09:36:30Z",
+          "embed_url": "https://www.expressen.se/nyheter/vader/tropisk-natt-pa-flera-hall-fler-att-vanta/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "d77469af22e7",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -3766,11 +4101,11 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Allvarlig psykisk störning",
+          "title": "Misstänkt spion lider av psykisk störning",
           "summary": "Den 34-årige man som är åtalad för försök till spioneri för Rysslands räkning bedöms lida av en allvarlig psykisk störning.",
           "body_text": "Den 34-årige man som är åtalad för försök till spioneri för Rysslands räkning bedöms lida av en allvarlig psykisk störning. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det framgår av det rättspsykiatriska utlåtande som lämnats in till Stockholms tingsrätt. Utlåtandet innebär att mannen sannolikt kommer att dömas till rättspsykiatrisk vård, om han fälls. 34-åringen var tidigare anställd som it-konsult på Försvarsmakten mellan 2018 och 2022. I det arbetet tog han del av ”uppgifter med mycket högt skyddsvärde” som han försökte röja till Ryssland under hösten 2025, enligt åtalet. Mannen är även häktad misstänkt för stämpling till mord, ett brott som ska ha begåtts i december i fjol. Måltavlan var enligt åklagaren en person i Sverige, och mordet ska delvis ha planerats i Moskva. Utredningen i den delen fortsätter. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/allvarlig-psykisk-storning-hos-misstankt-spion/",
-          "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
+          "image_url": "https://static.bonniernews.se/images/e9/52/e952570309cf474fa142b7f1410513fc/16x9/original.png",
           "published_at": "2026-07-16T09:11:34Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/allvarlig-psykisk-storning-hos-misstankt-spion/",
           "play_mode": "page_iframe",
@@ -3780,7 +4115,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "67641c613672",
@@ -3804,7 +4139,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "3c488c061cf6",
@@ -3814,7 +4149,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "JUST NU: Det blir 24 ”utmanande” timmar i trafiken",
+          "title": "24 ”utmanande” timmar i trafiken",
           "summary": "Det forsätter vara varmt runtom i Sverige. Och värmen fortsätter ställa till det i sommartrafiken. – Vi har ett utmanade dygn framför oss, säger Trafikverkets presskommunikatör Peter Jonsson till TT.",
           "body_text": "Det forsätter vara varmt runtom i Sverige. Och värmen fortsätter ställa till det i sommartrafiken. – Vi har ett utmanade dygn framför oss, säger Trafikverkets presskommunikatör Peter Jonsson till TT. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ett mäktigt högtryck breder ut sig över i princip hela landet under torsdagen. – Det ger då högsommarvärme ända upp till landets nordligaste delar, säger Christopher Green, meteorolog på SMHI. I södra Sverige väntas temperaturen stiga till upp emot 30 grader, och högre upp i landet strax under 30-strecket. Under morgondagen slår vädret om i norra Sverige, men i stora delar av landet väntas värmen hålla i sig även under fredagen. I trafiken får värmeböljan konsekvenser, framför allt för järnvägstrafiken, där hettan orsakar problem med bränder och solkurvor. På onsdagen fick trafiken på den viktiga västra stambanan ställas in en kortare stund på grund av brand i spårområdet i Hallsberg. Risken för solkurvor är främst på de mindre banorna. – Vi har inte stängt av någon bana på grund av värmen. Det vi har gjort är att vi har tagit ner hastigheten. Sedan kan det ändå vara så att tågbolagen själva väljer att ställa in trafiken, säger Trafikverkets presskommunikatör Peter Jonsson till TT. Asfalt kan också ”börja blöda” i värmen, bindemedlet som håller ihop asfalten mjuknar och utvidgas och vägen kan då bli hal.",
           "url": "https://www.expressen.se/nyheter/sverige/trafikverket-ett-utmanade-dygn-framfor-oss/",
@@ -3828,7 +4163,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "38f5ccda26ec",
@@ -3852,7 +4187,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "e46a234615d0",
@@ -3876,7 +4211,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "a6f9894ac7c3",
@@ -3886,12 +4221,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Överfallsvåldtäkt i park – man gripen",
-          "summary": "En misstänkt överfallsvåldtäkt har ägt rum i Öresundsparken i Malmö under onsdagskvällen. En man i 35-årsåldern är gripen.",
-          "body_text": "En kvinna har utsatts för en misstänkt överfallsvåldtäkt i Öresundsparken i Malmö under onsdagskvällen. – Enligt de initiala uppgifterna så är den här mannen okänd för kvinnan, säger polisens presstalesperson Katarina Rusin. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Polis larmades till Öresundsparken i Malmö vid 23-tiden på onsdagskvällen med anledning av en misstänkt våldtäkt. – Det är allmänhet som larmar oss till platsen genom att man har hört någonting ifrån området, någon form av tumult eller liknande, säger polisens presstalesperson Katarina Rusin. På plats hittar polisen en man och en kvinna. Mannen grips, misstänkt för våldtäkt och kvinnan förs med ambulans till sjukhus för kontroll. – Enligt de initiala bedömningarna och uppgifterna så finns det ingenting som tyder på att de känner varandra, säger Katarina Rusin. Polisen spärrade av platsen och genomförde en teknisk undersökning, bland annat med hjälp av en specialsökhund. Vid 03-tiden hävde polisen avspärrningarna. Polisen kollar nu på om det finns någon videoövervakning och jobbar med att sammanställa eventuella vittnesuppgifter. – Sen är vi även intresserade av vittnesmål, så har man sett någonting eller har andra uppgifter att lämna så vill vi gärna att man hör av sig, säger Katarina Rusin. Mannen är i 35-årsåldern och är numera anhållen. Händelsen rubriceras av polisen som grov våldtäkt, och mannen misstänks också för ringa narkotikabrott och våldsamt motstånd.",
+          "title": "Sverige I dag 06.30 Överfallsvåldtäkt i park i Malmö – man gripen",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/overfallsvaldtakt-i-park-i-malmo-man-gripen/",
-          "image_url": "https://static.bonniernews.se/images/9b/20/9b2055e5a3534dfaa8a8bfa8665796e3/16x9/original.jpg",
-          "published_at": "2026-07-16T04:30:08Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/overfallsvaldtakt-i-park-i-malmo-man-gripen/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3899,8 +4234,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 5
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "6ca809ed1b03",
@@ -3910,12 +4245,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Så minskar du risken för att drabbas av badklåda",
-          "summary": "Med högsommarvärme och långa dagar på stranden kommer också rapporter om badare som fått kliande utslag. Det kan vara parasiter som varit i farten – men risken att få dem under skinnet går att minska.",
-          "body_text": "Med högsommarvärme och långa dagar på stranden kommer också rapporter om badare som fått kliande utslag. Det kan vara parasiter som varit i farten – men risken att få dem under skinnet går att minska. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Besvären kallas badklåda och orsakas av små, små parasiter – cerkarier. De för ögat osynliga parasiterna utvecklas i sötvattenssnäckor och parasiterar huvudsakligen på sjöfåglar. Men de kan också ta fel och angripa en badande människa genom att tränga in någon millimeter i huden. Spåren efter dem är kliande, röda utslag som påminner om myggbett. – Det blir en allergisk reaktion när de här parasiterna kryper in i skinnet. Det låter ju förskräckligt men de dör när de kommer in i huden, säger Therése Rödjemark-Andersson, sjuksköterska och t f verksamhetschef vid 1177 region Stockholm. Parasiterna gör sig mer påminda när det är riktigt varmt. Cerkarier utsöndras nämligen snabbare från snäckorna vid högre temperaturer, det vill säga när badplatserna är som mest besökta. Även om badklåda kan klia infernaliskt är den på det stora hela ofarlig, påpekar Therése Rödjemark-Andersson. – Man behöver inte vara orolig. Det är väldigt sällan någon blir sjuk av parasiterna. Det är vanligare att barn drabbas, eftersom snäckorna framför allt finns i grunt vatten. Men Therése Rödjemark-Andersson tycker inte att barnfamiljer behöver avstå från badutflykter bara för att vara på den säkra sidan. Riskerna går att mota. – Det som är viktigt är att duscha av sig, direkt på stranden eller när man kommer hem, att man torkar sig torr efter badet och byter badkläder. Drabbas man ändå av klåda kan man köpa receptfria preparat som kortisonkräm eller kylbalsam på apoteket. En blöt kall handduk kan också lindra. Hon uppmanar också dem som drabbas av badklåda att rapportera till kommunen, som kan varna brett och eventuellt stänga badplatsen temporärt.",
+          "title": "Sverige I dag 06.11 Så minskar du risken för att drabbas av badklåda",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/sa-minskar-du-risken-for-att-drabbas-av-badklada/",
-          "image_url": "https://static.bonniernews.se/images/fc/5c/fc5c5380624548ce81082ce8f057f013/16x9/original.png",
-          "published_at": "2026-07-16T04:11:33Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/sa-minskar-du-risken-for-att-drabbas-av-badklada/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3923,79 +4258,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "af480beee0f6",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Ljusglimten: Färre varslas i Sverige",
-          "summary": "Fler får jobb, färre skrivs in som arbetslösa och varslen om uppsägningar minskar. Förändringarna på jobbmarknaden är små men går åt det ljusare hållet.",
-          "body_text": "Fler får jobb, färre skrivs in som arbetslösa och varslen om uppsägningar minskar. Förändringarna på jobbmarknaden är små men går åt det ljusare hållet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. ”Den positiva utvecklingen gäller både för män och kvinnor, inrikes och utrikes födda, samt i alla län, även om det fortsatt finns stora variationer”, skriver Arbetsförmedlingen i en kommentar till den nya månadsstatistiken. Förändringarna de senaste månaderna är marginella, men på ett år är 22 000 färre inskrivna som arbetslösa, 344 000 i slutet av juni. I procent har andelen minskat från 6,9 till 6,4 procent av arbetskraften. Under månaden varslades 2 857 personer om uppsägning. Det är en stadig minskning under våren och klart färre än de 4 606 varslade i juni i fjol. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/sverige/arbetsformedlingen-farre-varslas-om-uppsagning/",
-          "image_url": "https://static.bonniernews.se/images/17/b1/17b117335848458cadd9761cb86f1660/16x9/original.jpg",
-          "published_at": "2026-07-16T04:05:01Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/arbetsformedlingen-farre-varslas-om-uppsagning/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "7e5e3d87e224",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Ryska spioner jagar vapenteknik i Japan",
-          "summary": "Ryska spioner som har utvisats från västvärlden har etablerat sig i Japan. Där har de kunnat komma över avancerad vapenteknik till kriget i Ukraina, skriver The New York Times.",
-          "body_text": "Ryska spioner som har utvisats från västvärlden har etablerat sig i Japan. Där har de kunnat komma över avancerad vapenteknik till kriget i Ukraina, skriver The New York Times. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Efter Rysslands fullskaliga invasion av Ukraina i februari 2022 kastade västerländska länder ut hundratals ryska spioner och svartlistade företag med kopplingar till Kreml. Syftet var att göra det svårare för Kreml att ägna sig åt industrispionage och köpa mikrochip och annan utrustning som används för att tillverka vapen. Sedan dess har dussintals av de utkastade spionerna dykt upp i Japan, rapporterar The New York Times . Landet har en svag lagstiftning mot spioneri samt en högteknologisk industri som har kommit att spela en avgörande roll i Rysslands krig. 90 procent av de ryska robotar och drönare som används i kriget innehåller japanska komponenter, enligt uppskattningar från den ukrainska regeringen. Kärnan i operationen i Tokyo utgörs enligt granskningen av en hemlig enhet inom den ryska militära underrättelsetjänsten GRU, känd som det 20:e direktoratet. Personerna i enheten utger sig för att vara affärsmän eller diplomater, men de arbetar för att köpa eller stjäla känslig japansk teknologi och smuggla in den i Ryssland. Mannen som leder direktoratets verksamhet är en veteran inom GRU och arbetar från en skyskrapa i Tokyo under täckmantel av att vara anställd av det statliga ryska flygbolaget Aeroflot. Effekterna av verksamheten märks på marken i Ukraina. I samband med att en rysk kryssningsrobot slog ner i ett höghus i Kiev och dödade minst 24 människor i maj kunde ukrainska utredare komma fram till att den hade styrts av japanska komponenter som är förbjudna att exporteras till Ryssland. Ukraina har uppmärksammat Japan på att landets teknik används i ryska attacker. Men trots sitt öppna och tydliga stöd för Ukraina har den japanska regeringen varit långsam med att agera. Japan har länge setts som sårbart för spioneri, delvis på grund av de begränsningar som infördes efter andra världskriget av krigets segrare, och som har hållit landets underrättelsetjänster svaga. Detta kan dock vara på väg att ändras. Japan har de senaste månaderna i det tysta vänt sig till partnerländer som USA, Tyskland och Australien för att få rådgivning om att bygga upp sin underrättelsetjänst för att möta hotet från Ryssland, Kina och Nordkorea, rapporterar The New York Times. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/ryska-spioner-jagar-vapenteknik-i-japan/",
-          "image_url": "https://static.bonniernews.se/images/84/c6/84c60f3fccbc42fb9150d9fdaae43ba4/16x9/original.png",
-          "published_at": "2026-07-16T03:49:29Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/ryska-spioner-jagar-vapenteknik-i-japan/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "c0e358056ca8",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "JD Vances erkännande om Epstein",
-          "summary": "USA:s vicepresident JD Vance anser att administrationens misskötte utredningen om sexbrottslingen Jeffrey Epstein.",
-          "body_text": "USA:s vicepresident JD Vance anser att administrationens misskötte utredningen om sexbrottslingen Jeffrey Epstein. – Vi klantade verkligen till kommunikationen kring det, säger han. Uttalandet är den tydligaste offentliga kritiken från Vita huset. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Fjolårets offentliggörande av de så kallade Epsteindokumenten väckte enorm uppmärksamhet. Men Trumpadministrationen mötte också en hel del kritik i samband med publiceringen. Det gällde framför allt att de upprepade gånger sköt upp offentliggörandet. Att flera delar i dokumenten dessutom redigerades bort ledde till en uppsjö av konspirationsteorier. Nu kommer det tydlig kritik mot hur utredningen hanterades från näst högsta ort inom Vita huset. I Joe Rogans podd ”The Joe Rogan experience” säger vicepresident JD Vance att administrationen misskötte Epstein-utredningen och släppet av dokumenten, skriver Axios. – Om folk vill säga att vi misskötte Epstein-släppet, så är vi skyldiga till det. Vi misskötte det, särskilt kommunikationen runt det, säger Vance på onsdagen. Han beskriver det som att de ”verkligen klantade till det”. Den tidigare justitieministern Pam Bondi avgick i april efter att mycket av kritiken mot utredningen riktats mot just henne. Även Vance lägger över en del av felhanteringen på Bondi. Ett uppmärksammat uttalande hon gjorde tidigt under Trumps mandatperiod var att hon hade dokumenten på sitt skrivbord. – Hon överdrev vad vi hade och vad vi inte hade, säger Vance. Samtidigt riktade han mycket kritik mot Epstein. Han beskriver det som att Epstein hade djupa kopplingar till både amerikansk och israelisk politik.",
-          "url": "https://www.expressen.se/nyheter/varlden/jd-vances-erkannande-om-epstein/",
-          "image_url": "https://static.bonniernews.se/images/15/73/1573fd9198c14d7ebe458b8a1d53647c/16x9/original.jpg",
-          "published_at": "2026-07-16T02:33:23Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/jd-vances-erkannande-om-epstein/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4011,35 +4274,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "En mindre hund har dödats av en större hund i samband med ett hundslagsmål i Gävle. Larmet kom in vid 08.41 på morgonen. Polisen utreder händelsen enligt lagen om tillsyn över hundar och katter och kommer rapportera händelsen till Länsstyrelsen. Vid 06.42 på torsdagsmorgonen fick polisen in samtal om att en man kört in en båt under en brygga på Resarö utanför Stockholm. Mannen verkade både berusad och \"väldigt mån\" om att komma loss från bryggan, därför ryckte polisen ut. Väl där kunde man hjälpa båtföraren loss. Då han var påverkad av alkohol blev han misstänkt för sjöfylleri. Han behövde även föras till sjukhus då han slagit sig. Ett enormt isberg – nästan sex kilometer långt och fyra kilometer brett – driver just nu längs Grönlands östra kust, enligt Danmarks meteorologiske institut (DMI). Isberget har tillryggalagt en sträcka på omkring 120 mil och är enligt DMI på väg in i en ny fas. – Vi kan förvänta oss att det bryts upp i mindre isberg medan det fortsätter att driva söderut, säger Hans Henrik Light, isanalytiker vid DMI, i ett pressmeddelande. Stora, platåformade isberg driver med packisen längs Grönlands östra kust under vintern och våren och når södra Grönland under sommaren. Då brukar de mäta i sammanhanget blygsamma 200–500 meter. – Isberg på tre till sex kilometer, som det här, ser vi bara vartannat eller vart tredje år, säger Hans Henrik Light. Två kvinnor har blivit misshandlade på en pizzeria i Växjö under natten, skriver polisen på sin hemsida. En man misstänks för misshandeln, han hade lämnat platsen när polisen kom dit. En anmälan om grov misshandel har upprättats. Polisen i Bergen larmades under morgonen om ett livlöst spädbarn på en adress i den norska staden. Barnets liv gick inte att rädda, rapporterar Dagbladet.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
