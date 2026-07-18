@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T12:08:48Z",
+  "generated_at": "2026-07-18T13:53:05Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Jätteökning av beslagtaget testosteron • ”Kan vara gjort i ett garage i cementblandare” Så påverkas vi av testosteron – ”Lite samma som med östrogen” Vårdföretag sprider falska myter om testosteronbrist hos män Bostadsområdet i ruiner • ”Helt fruktansvärt” Motstridiga besked om branden i Drammen är under kontroll Såg dotterns hus brinna upp: ”Chockupplevelse”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Efter sju nätters attacker • ”Kommer att bli ett ramaskri i USA” Nya attacker mellan USA och Iran – sjunde natten i rad Trumps varning: ”Nästa vecka blir det riktigt illa för dem” Jätteökning av beslagtaget testosteron • ”Kan vara gjort i ett garage i cementblandare” Så påverkas vi av testosteron – ”Lite samma som med östrogen” Vårdföretag sprider falska myter om testosteronbrist hos män",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -2017,6 +2017,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "04481aee7e24",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+          "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+          "body_text": "Eight people have been killed and 62 injured after Ukrainian drones struck two warehouses belonging to Russia's biggest online retailer, Wildberries, according to Russian officials. Seven deaths and 25 injuries occurred at a warehouse in the city of Tambov, roughly 295 miles (475km) south-east of Moscow. One death and 37 injuries occurred at another Wildberries warehouse in Elektrostal in the Moscow region. Ukrainian President Volodymyr Zelensky said the attacks had struck \"major logistics facilities\" which had been used to \"supply sanctioned components for drone production and navigation equipment\". He added that Ukraine had also struck targets in the Sea of Azov, the Black Sea, and Russian-annexed Crimea. Unverified images from the scene of one of the warehouse strikes showed flames and huge plumes of black smoke rising from a vast logistics building, with dozens of workers running into a car park area. The attacks appear to have started at night, with some videos showing terrified and injured staff attempting to flee as explosions continue. Another clip appears to show the walls of a warehouse disintegrating as they are engulfed by flames. Zelensky said Ukraine's operations were in response to \"Russian strikes on our civilian infrastructure and on our cities and communities\". Overnight into Wednesday, 14 people were killed in Russian attacks across Ukraine. Wildberries is often described as the Russian equivalent of Amazon. The merged RWB group, which combines Wildberries with advertising company Russ, was valued at about $12.6bn (£9.3bn) by Forbes Russia in 2026. Serhii Kuzan, chairman of the Ukrainian Security and Cooperation Centre, told the BBC that Wildberries was a \"vital component\" of Russian logistics, and that its website had been used by Russian volunteers to purchase military equipment including walkie-talkies, body armour and drone components. \"The primary rationale for striking Wildberries' warehouses is to disrupt Russian logistics and the supply of dual-use goods, critical electronics, sanctioned goods and the like to the Russian army and Russian arms manufacturers,\" he said. \"The collateral damage from such strikes could also have a serious impact on the Russian economy, as well as a psychological effect on Russian society and, likely, on continued support for the war.\" Russia has targeted similar facilities in Ukraine since the start of the war, including its postal service and some electronics distributors.",
+          "url": "https://www.bbc.com/news/articles/clyxlm877p2o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg",
+          "published_at": "2026-07-18T10:22:46Z",
+          "embed_url": "https://www.bbc.com/news/articles/clyxlm877p2o",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "c4c629cc9837",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2038,7 +2062,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "dbf74fe20181",
@@ -2062,7 +2086,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "a711de499d65",
@@ -2086,7 +2110,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "983c314fac03",
@@ -2110,7 +2134,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "ce954dbe3070",
@@ -2124,7 +2148,7 @@
           "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
           "body_text": "What if launching a satellite was as easy as calling a cab? That's the vision behind an Indian private rocket company that achieved its first orbital launch on Saturday. Skyroot Aerospace, which recently became India's first space tech unicorn after reaching $1.1bn valuation, launched Vikram-1 from the Indian Space Research Organisation's (Isro) launch facility in Sriharikota in southern India. The seven-storey rocket lifted off at 12:05 India time [06:35 GMT] and travelled 280 miles (450km) to reach the Low Earth Orbit in a 16-minute flight. Skyroot is the first Indian private company to launch a rocket into orbit, making India only the third country, after the US and China, with a private company capable of orbital launches. \"Vikram-1 Test Flight-1 has reached orbit... History is made,\" the company posted on X. The successful Vikram-1 launch will take Skyroot closer to its goal of offering what it calls a \"cab service to space\", where companies can hire a rocket \"to ride to a unique location in the orbit to place a satellite or visit a space station\". The rocket - named after Vikram Sarabhai, who is called the father of India's space programme - is small and has the capacity to carry payloads of up to 350kg, Skyroot co-founder and CEO Pawan Kumar Chandana told the BBC before the launch. Chandana says today, access to space remains \"a major bottleneck, with satellite operators often waiting for months or even years for a launch opportunity\" and that their venture expects to change that. He says Skyroot aims to cut long waits for satellite launches by offering dedicated missions for small payloads. Instead of sharing space on large rockets that fly on fixed schedules, customers can book a launch tailored to their satellite and its required orbit - much like taking a taxi instead of waiting for a train. \"If you want to just go to a friend's house, you don't need a train, you book a cab, an Uber. What we are offering is a cab service to space, which can be used to ride to a unique location in the orbit to place a satellite or visit a station.\"",
           "url": "https://www.bbc.com/news/articles/clyekv7rld3o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d67c/live/812402b0-81c4-11f1-926f-c90d1bcfbc84.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/56eb/live/beb0cb10-82a8-11f1-84ea-29e7008b1ad8.png",
           "published_at": "2026-07-18T00:39:18Z",
           "embed_url": "https://www.bbc.com/news/articles/clyekv7rld3o",
           "play_mode": "page_iframe",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "465618371157",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "4f24ed1bebf1",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "5fdff81831c2",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "24c5031eece7",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "6dfaa28fe3dd",
@@ -2247,30 +2271,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9bda/live/48708610-8204-11f1-a09e-7710dfe15161.jpg",
           "published_at": "2026-07-17T17:52:06Z",
           "embed_url": "https://www.bbc.com/news/articles/ckgv0zd497zo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "565b9674aea6",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Somali pirates blamed for seizure of second tanker in three months near Yemen",
-          "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
-          "body_text": "Pirates have hijacked a tanker in the Gulf of Aden off the coast of Yemen, according to a UK maritime safety organisation (UKMTO) and Somali security officials. The UKMTO said a \"vessel was boarded by unauthorised personnel\" as it sailed east, adding that other ships were \"advised to transit with caution\". Officials from Somalia's semi-autonomous Puntland region said the attackers were Somali. This is the second hijacking of a vessel off the coast of Yemen since May, when the MT Eureka was seized near the port of Qana . Two other ships were boarded by pirates in the Indian Ocean in April. There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback. Until three years ago these kinds of incidents had almost disappeared in this area once notorious for hijackings, following a concerted security operation involving several navies. Speaking to the BBC, three Puntland security officials separately identified the craft hijacked on Friday as a tanker named MT Asana. They added that it was seized by seven gunmen who had set off from a remote area near the Puntland port town of Garacad before making their way to the Gulf of Aden. The MT Asana, sailing under a Tanzanian flag, was en route to the port of Bosaso in Puntland, when it was boarded 65 nautical miles off Yemen. Whereas the Indian Ocean is heavily patrolled by the European Union Naval Force, which oversees anti-piracy operations in Somalia, the Gulf of Aden is more lightly protected. According to the Puntland officials, this could explain why it has now become an area of operation for the pirates. Go to BBCAfrica.com for more news from the African continent. Follow us on Twitter @BBCAfrica , on Facebook at BBC Africa or on Instagram at bbcafrica",
-          "url": "https://www.bbc.com/news/articles/c7vg6dml34vo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7c45/live/db409700-464f-11f1-891c-cf9f2bee9693.jpg",
-          "published_at": "2026-07-17T17:01:16Z",
-          "embed_url": "https://www.bbc.com/news/articles/c7vg6dml34vo",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2450,25 +2450,25 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "ef0adb105bcd",
+          "id": "2be70b674ccc",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Temblor en Chile HOY, 18 de julio: reportes de los sismos vía el CSN",
-          "summary": "Temblor en Chile EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Centro Sismológico Nacional (CSN).",
-          "body_text": "Sigue en vivo los reportes de los sismos en Chile, según el Centro Sismológico Nacional (CSN). También podrás consultar sobre noticias relacionadas, así como recomendaciones en este tipo de situaciones.",
-          "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-en-vivo-ultimos-sismos-17-y-18-de-julio-2026-magnitud-epicentro-profundidad-y-hora-reportados-centro-sismologico-nacional-santiago-socaire-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/QDTXM45QLZFB7OTJDWL3LSZ5IU.webp?auth=34eaa311906d36e9bd1f00cb1503b659c9df96691545f31b38a14341abb7afc4&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-18T12:00:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/hQ2UPLaf-AoJUfW3e.mp4",
-          "play_mode": "media",
-          "article_type": "video",
+          "title": "Resultados Lotería Medellín: número ganador del viernes 17 de julio",
+          "summary": "Revisa la Lotería Medellín EN VIVO HOY, viernes 17 de julio: aquí los resultados del sorteo chance de Colombia.",
+          "body_text": "La Lotería de Medellín es uno de los principales juegos de azar más tradicionales de Colombia que entrega miles de millones de pesos en premios. Cada semana, ofrece a sus apostadores la oportunidad de ganar uno de los 40 premios principales. Su sorteo ordinario se realiza cada viernes a las 11:00 p.m. y es transmitido en vivo por el canal regional Teleantioquia y a través de la página oficial de Facebook de la entidad. Para conocer los resultados de la lotería colombiana, a continuación podrás conocerlos. ¡Mucha suerte!. Esta lotería ha adquirido popularidad gracias al sorteo único donde, además de la máxima recompensa por aciertos, se otorgan otras retribuciones económicas. El próximo sorteo de la Lotería de Medellín se jugará el próximo viernes a las 11:00 p.m. Este sorteo se transmite en vivo por televisión y radio, y los resultados se pueden consultar en la página web de la Lotería de Medellín. Qué premios se lleva el ganador de la Lotería de Medellín: No debes olvidar que si eres uno de los afortunados que se lleve la lotería, puedes ganar uno de estos premios, los cuales los hemos clasificado de la siguiente manera: Las loterías en Colombia ofrecen la posibilidad de ganar premios millonarios en diferentes modalidades. Según la información brindada de manera oficial por dicha empresa estatal colombiana, estos son los lugares o medios mediante los cuales puedes acceder a la compra de uno o varios boletos compuesto por 3 fracciones: Canal tradicional de lotería física “Por medio de la red de distribución de agencias autorizadas y loteros del país. La lotería física llega a todo el territorio nacional”. Canal electrónico “A través de las terminales móviles que manejan los loteros o que se encuentran en los puntos de venta fijos (Gana, Baloto, Gane, Paga Todo Para Todo y Loticolombia) puedes adquirir tu lotería, escogiendo el número y serie que desees que se encuentre disponible para la venta”. Canal virtual Lottired.net “Desde la comodidad de tu hogar u oficina, puedes comprar la Lotería de Medellín por internet, pagando con tu tarjeta débito o crédito. Ingresa a www.lottired.net y escoge el número y serie que desees, siempre que estén disponibles para la venta en la plataforma”. Cabe resaltar con respecto al plan de premios que plantea y otorga la Lotería de Medellín, que junto a los hoy 16 mil millones de pesos colombianos por adivinar serie completa de 4 dígitos, también tienes la oportunidad de jugar por “2 Súper Secos” de $1,000 millones, y otros menores entre 10,000 y 700 mil.",
+          "url": "https://elcomercio.pe/respuestas/colombia/loteria-medellin-en-vivo-resultados-y-numero-ganador-del-viernes-17-de-julio-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/XBQYMTJR65CLHNZX6KREBEQ5MI.png?auth=727a77f8c7ea47e3897e6c5b534844015b6554615877c79464a24b870f1e95a4&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:49:13Z",
+          "embed_url": "https://elcomercio.pe/respuestas/colombia/loteria-medellin-en-vivo-resultados-y-numero-ganador-del-viernes-17-de-julio-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
           "tags": [
-            "sismo viña del mar, sismo hoy, onemi temblor, temblor hoy, temblor hoy santiago, terremotos más fuertes de la historia, epicentro del temblor de hoy hace unos minutos, epicentro del temblor reciente, sismología chile último sismo hoy, epicentro del temblor hoy, temblor ahora, últimos sismos en chile hoy día onemi, registro de temblores en chile, temblor hoy, chile 2022, Melinka, sismo reciente en Chile, sismo de ayer en Chile, sismo valparaiso ahora, último sismo valparaiso, sismo hoy serena, alerta de tsunami hoy, onemi, Oficina Nacional de Emergencia del Ministerio del Interior, temblor en Valparaíso, temblor en Viña, temblor en Santiago, temblor en Arica, temblor en Tarapacá, temblor en Concepción, Temblor en Lubu, terremoto sismo temblor hoy chile, sismo chile, temblor chile, sismo cl, temblor cl, sismo chile hoy, ultimo sismo chile, temblor en chile, temblores en chile, temblor Chile 2026, terremoto Chile 2026, temblor Chile julio, terremoto Chile julio, temblor Santiago julio, terremoto Santiago julio",
-            "Chile",
+            "Lotería de Medellín, Colombia, lotería, sorteo, juegos de azar",
+            "Colombia",
             "Senaste",
             "El Comercio"
           ],
@@ -2483,12 +2483,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Dólar BCV HOY, viernes 17 de julio: Tasa oficial y tipo de cambio en Venezuela",
+          "title": "¿Cuánto está el dólar BCV HOY, sábado 18 de julio? Revisa la tasa oficial en Venezuela",
           "summary": "Revisa el precio del dólar BCV y el tipo de cambio indicado por el Banco Central de Venezuela (BCV).",
-          "body_text": "Dólar BCV en Venezuela hoy, viernes 17 de julio de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 732,47 Bs según la tasa del Banco Central de Venezuela.",
+          "body_text": "Dólar BCV en Venezuela hoy, sábado 18 de julio de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 732,47 Bs según la tasa del Banco Central de Venezuela.",
           "url": "https://elcomercio.pe/respuestas/venezuela/tasa-dolar-bcv-hoy-revisa-el-tipo-de-cambio-en-venezuela-segun-el-banco-central-bitcoin-dolartoday-cotizacion-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/HSOHO6HDDFFQDA5FQUYU2G4MUQ.png?auth=0ef29b0072e73f5625a43817609208f0b4fd6f7178d85a8851ab92543a156f24&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-18T01:00:00Z",
+          "image_url": "https://elcomercio.pe/resizer/v2/QEMWKCL4WBERBHUFVED3CQ3OD4.png?auth=9dec68926e6fc9bc556cafca829ea5e3b565c879132dd4143a9fcae64ac2c0bc&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:46:30Z",
           "embed_url": "https://elcomercio.pe/respuestas/venezuela/tasa-dolar-bcv-hoy-revisa-el-tipo-de-cambio-en-venezuela-segun-el-banco-central-bitcoin-dolartoday-cotizacion-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2500,6 +2500,32 @@
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "6786cab15a1d",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Horóscopo de hoy, 18 de julio: revisa las predicciones más exactas para ti",
+          "summary": "Consulta tu horóscopo de hoy, sábado 18 de julio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, sábado 18 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: no habrá problema que no pueda resolver y le pedirán que actúe en otra área. Amor: un cambio positivo de ánimo generará momentos de intensa calidez en la pareja. Trabajo y negocios: una decisión a tiempo asegurará el éxito de un proyecto que está estancado. Amor: se darán las circunstancias como para comprometerse en una relación estable. Trabajo y negocios: otros se quejarán por metas que se ven altas pero esa queja no será su caso. Amor: llegará a su vida una persona interesante y atractiva de la que querrá enamorarse. Trabajo y negocios: iniciará acciones audaces y generará un proyecto que traerá beneficios. Amor: trabajará para no postergar una cita romántica y logrará momentos agradables. Trabajo y negocios: tomará una buena idea y resolverá problemas que implican demasiados gastos. Amor: un encuentro divertido generará momentos románticos plenos de calidez. Trabajo y negocios: un beneficio o ganancia demorada finalmente llegará y alivia los nervios. Amor: tomará iniciativas para mejorar en lo sentimental y la armonía resurgirá. Trabajo y negocios: el clima laboral mejora por su capacidad de persuasión para el éxito. Amor: un viaje bien planeado será ideal para fortalecer la pareja y aumentar la calidez. Trabajo y negocios: lo que parece una crisis será una oportunidad. Nuevo comienzo. Amor: una situación inestable en la pareja comenzará a resolverse si se decide a dialogar. Trabajo y negocios: la actividad crecerá y trae satisfacciones. Se avecina desafío. Amor: un familiar tendrá actitudes negativas, pero no afectarán a la pareja. Trabajo y negocios: ante una situación compleja alguien vendrá con ayuda muy útil. Amor: una serie de torpezas le convertirán en alguien encantador. Nuevo romance. Trabajo y negocios: cierta inestabilidad causará zozobra pero surgirá una nueva alternativa. Amor: un momento de discordia en la pareja no empañará tanta demostración amorosa. Trabajo y negocios: gente poco idónea será un obstáculo que superará si se concentra. Amor: un encuentro no será como lo espera pero si insiste, hallará una relación duradera. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: POCO CUIDADOSA CON SENTIMIENTOS DE OTROS. SUS IMPULSOS SON ARRASADORES.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-18-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:43:47Z",
+          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
+            "Vida social",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 2
         },
         {
           "id": "9ca2ba06860f",
@@ -2525,7 +2551,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "68d329ddc5a5",
@@ -2547,32 +2573,6 @@
           "tags": [
             "H5N1, Salud, influenza aviar, Perú, emergencia sanitaria, Lima",
             "Actualidad",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "21079db8729f",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Horóscopo de hoy, 17 de julio: Conoce las predicciones más exactas para tu signo",
-          "summary": "Consulta tu horóscopo de hoy, viernes 17 de julio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, viernes 17 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: no habrá problema que no pueda resolver y le pedirán que actúe en otra área. Amor: un cambio positivo de ánimo generará momentos de intensa calidez en la pareja. Trabajo y negocios: una decisión a tiempo asegurará el éxito de un proyecto que está estancado. Amor: se darán las circunstancias como para comprometerse en una relación estable. Trabajo y negocios: otros se quejarán por metas que se ven altas pero esa queja no será su caso. Amor: llegará a su vida una persona interesante y atractiva de la que querrá enamorarse. Trabajo y negocios: iniciará acciones audaces y generará un proyecto que traerá beneficios. Amor: trabajará para no postergar una cita romántica y logrará momentos agradables. Trabajo y negocios: tomará una buena idea y resolverá problemas que implican demasiados gastos. Amor: un encuentro divertido generará momentos románticos plenos de calidez. Trabajo y negocios: un beneficio o ganancia demorada finalmente llegará y alivia los nervios. Amor: tomará iniciativas para mejorar en lo sentimental y la armonía resurgirá. Trabajo y negocios: el clima laboral mejora por su capacidad de persuasión para el éxito. Amor: un viaje bien planeado será ideal para fortalecer la pareja y aumentar la calidez. Trabajo y negocios: lo que parece una crisis será una oportunidad. Nuevo comienzo. Amor: una situación inestable en la pareja comenzará a resolverse si se decide a dialogar. Trabajo y negocios: la actividad crecerá y trae satisfacciones. Se avecina desafío. Amor: un familiar tendrá actitudes negativas, pero no afectarán a la pareja. Trabajo y negocios: ante una situación compleja alguien vendrá con ayuda muy útil. Amor: una serie de torpezas le convertirán en alguien encantador. Nuevo romance. Trabajo y negocios: cierta inestabilidad causará zozobra pero surgirá una nueva alternativa. Amor: un momento de discordia en la pareja no empañará tanta demostración amorosa. Trabajo y negocios: gente poco idónea será un obstáculo que superará si se concentra. Amor: un encuentro no será como lo espera pero si insiste, hallará una relación duradera. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: POCO CUIDADOSA CON SENTIMIENTOS DE OTROS. SUS IMPULSOS SON ARRASADORES.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-17-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-17T15:37:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
-            "Vida social",
             "Senaste",
             "El Comercio"
           ],
@@ -2734,12 +2734,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Dólar BCV HOY, viernes 17 de julio: Tasa oficial y tipo de cambio en Venezuela",
+          "title": "¿Cuánto está el dólar BCV HOY, sábado 18 de julio? Revisa la tasa oficial en Venezuela",
           "summary": "Revisa el precio del dólar BCV y el tipo de cambio indicado por el Banco Central de Venezuela (BCV).",
-          "body_text": "Dólar BCV en Venezuela hoy, viernes 17 de julio de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 732,47 Bs según la tasa del Banco Central de Venezuela.",
+          "body_text": "Dólar BCV en Venezuela hoy, sábado 18 de julio de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 732,47 Bs según la tasa del Banco Central de Venezuela.",
           "url": "https://elcomercio.pe/respuestas/venezuela/tasa-dolar-bcv-hoy-revisa-el-tipo-de-cambio-en-venezuela-segun-el-banco-central-bitcoin-dolartoday-cotizacion-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/HSOHO6HDDFFQDA5FQUYU2G4MUQ.png?auth=0ef29b0072e73f5625a43817609208f0b4fd6f7178d85a8851ab92543a156f24&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-18T01:00:00Z",
+          "image_url": "https://elcomercio.pe/resizer/v2/QEMWKCL4WBERBHUFVED3CQ3OD4.png?auth=9dec68926e6fc9bc556cafca829ea5e3b565c879132dd4143a9fcae64ac2c0bc&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:46:30Z",
           "embed_url": "https://elcomercio.pe/respuestas/venezuela/tasa-dolar-bcv-hoy-revisa-el-tipo-de-cambio-en-venezuela-segun-el-banco-central-bitcoin-dolartoday-cotizacion-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2751,6 +2751,32 @@
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "6786cab15a1d",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Horóscopo de hoy, 18 de julio: revisa las predicciones más exactas para ti",
+          "summary": "Consulta tu horóscopo de hoy, sábado 18 de julio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, sábado 18 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: no habrá problema que no pueda resolver y le pedirán que actúe en otra área. Amor: un cambio positivo de ánimo generará momentos de intensa calidez en la pareja. Trabajo y negocios: una decisión a tiempo asegurará el éxito de un proyecto que está estancado. Amor: se darán las circunstancias como para comprometerse en una relación estable. Trabajo y negocios: otros se quejarán por metas que se ven altas pero esa queja no será su caso. Amor: llegará a su vida una persona interesante y atractiva de la que querrá enamorarse. Trabajo y negocios: iniciará acciones audaces y generará un proyecto que traerá beneficios. Amor: trabajará para no postergar una cita romántica y logrará momentos agradables. Trabajo y negocios: tomará una buena idea y resolverá problemas que implican demasiados gastos. Amor: un encuentro divertido generará momentos románticos plenos de calidez. Trabajo y negocios: un beneficio o ganancia demorada finalmente llegará y alivia los nervios. Amor: tomará iniciativas para mejorar en lo sentimental y la armonía resurgirá. Trabajo y negocios: el clima laboral mejora por su capacidad de persuasión para el éxito. Amor: un viaje bien planeado será ideal para fortalecer la pareja y aumentar la calidez. Trabajo y negocios: lo que parece una crisis será una oportunidad. Nuevo comienzo. Amor: una situación inestable en la pareja comenzará a resolverse si se decide a dialogar. Trabajo y negocios: la actividad crecerá y trae satisfacciones. Se avecina desafío. Amor: un familiar tendrá actitudes negativas, pero no afectarán a la pareja. Trabajo y negocios: ante una situación compleja alguien vendrá con ayuda muy útil. Amor: una serie de torpezas le convertirán en alguien encantador. Nuevo romance. Trabajo y negocios: cierta inestabilidad causará zozobra pero surgirá una nueva alternativa. Amor: un momento de discordia en la pareja no empañará tanta demostración amorosa. Trabajo y negocios: gente poco idónea será un obstáculo que superará si se concentra. Amor: un encuentro no será como lo espera pero si insiste, hallará una relación duradera. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: POCO CUIDADOSA CON SENTIMIENTOS DE OTROS. SUS IMPULSOS SON ARRASADORES.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-18-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:43:47Z",
+          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
+            "Vida social",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "ca178121e502",
@@ -2776,7 +2802,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "9ca2ba06860f",
@@ -2802,7 +2828,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "68d329ddc5a5",
@@ -2824,32 +2850,6 @@
           "tags": [
             "H5N1, Salud, influenza aviar, Perú, emergencia sanitaria, Lima",
             "Actualidad",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "21079db8729f",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Horóscopo de hoy, 17 de julio: Conoce las predicciones más exactas para tu signo",
-          "summary": "Consulta tu horóscopo de hoy, viernes 17 de julio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, viernes 17 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: no habrá problema que no pueda resolver y le pedirán que actúe en otra área. Amor: un cambio positivo de ánimo generará momentos de intensa calidez en la pareja. Trabajo y negocios: una decisión a tiempo asegurará el éxito de un proyecto que está estancado. Amor: se darán las circunstancias como para comprometerse en una relación estable. Trabajo y negocios: otros se quejarán por metas que se ven altas pero esa queja no será su caso. Amor: llegará a su vida una persona interesante y atractiva de la que querrá enamorarse. Trabajo y negocios: iniciará acciones audaces y generará un proyecto que traerá beneficios. Amor: trabajará para no postergar una cita romántica y logrará momentos agradables. Trabajo y negocios: tomará una buena idea y resolverá problemas que implican demasiados gastos. Amor: un encuentro divertido generará momentos románticos plenos de calidez. Trabajo y negocios: un beneficio o ganancia demorada finalmente llegará y alivia los nervios. Amor: tomará iniciativas para mejorar en lo sentimental y la armonía resurgirá. Trabajo y negocios: el clima laboral mejora por su capacidad de persuasión para el éxito. Amor: un viaje bien planeado será ideal para fortalecer la pareja y aumentar la calidez. Trabajo y negocios: lo que parece una crisis será una oportunidad. Nuevo comienzo. Amor: una situación inestable en la pareja comenzará a resolverse si se decide a dialogar. Trabajo y negocios: la actividad crecerá y trae satisfacciones. Se avecina desafío. Amor: un familiar tendrá actitudes negativas, pero no afectarán a la pareja. Trabajo y negocios: ante una situación compleja alguien vendrá con ayuda muy útil. Amor: una serie de torpezas le convertirán en alguien encantador. Nuevo romance. Trabajo y negocios: cierta inestabilidad causará zozobra pero surgirá una nueva alternativa. Amor: un momento de discordia en la pareja no empañará tanta demostración amorosa. Trabajo y negocios: gente poco idónea será un obstáculo que superará si se concentra. Amor: un encuentro no será como lo espera pero si insiste, hallará una relación duradera. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: POCO CUIDADOSA CON SENTIMIENTOS DE OTROS. SUS IMPULSOS SON ARRASADORES.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-17-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-17T15:37:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
-            "Vida social",
             "Economia",
             "El Comercio"
           ],
@@ -3011,12 +3011,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Dólar BCV HOY, viernes 17 de julio: Tasa oficial y tipo de cambio en Venezuela",
+          "title": "¿Cuánto está el dólar BCV HOY, sábado 18 de julio? Revisa la tasa oficial en Venezuela",
           "summary": "Revisa el precio del dólar BCV y el tipo de cambio indicado por el Banco Central de Venezuela (BCV).",
-          "body_text": "Dólar BCV en Venezuela hoy, viernes 17 de julio de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 732,47 Bs según la tasa del Banco Central de Venezuela.",
+          "body_text": "Dólar BCV en Venezuela hoy, sábado 18 de julio de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 732,47 Bs según la tasa del Banco Central de Venezuela.",
           "url": "https://elcomercio.pe/respuestas/venezuela/tasa-dolar-bcv-hoy-revisa-el-tipo-de-cambio-en-venezuela-segun-el-banco-central-bitcoin-dolartoday-cotizacion-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/HSOHO6HDDFFQDA5FQUYU2G4MUQ.png?auth=0ef29b0072e73f5625a43817609208f0b4fd6f7178d85a8851ab92543a156f24&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-18T01:00:00Z",
+          "image_url": "https://elcomercio.pe/resizer/v2/QEMWKCL4WBERBHUFVED3CQ3OD4.png?auth=9dec68926e6fc9bc556cafca829ea5e3b565c879132dd4143a9fcae64ac2c0bc&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:46:30Z",
           "embed_url": "https://elcomercio.pe/respuestas/venezuela/tasa-dolar-bcv-hoy-revisa-el-tipo-de-cambio-en-venezuela-segun-el-banco-central-bitcoin-dolartoday-cotizacion-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3028,6 +3028,32 @@
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "6786cab15a1d",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Horóscopo de hoy, 18 de julio: revisa las predicciones más exactas para ti",
+          "summary": "Consulta tu horóscopo de hoy, sábado 18 de julio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, sábado 18 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: no habrá problema que no pueda resolver y le pedirán que actúe en otra área. Amor: un cambio positivo de ánimo generará momentos de intensa calidez en la pareja. Trabajo y negocios: una decisión a tiempo asegurará el éxito de un proyecto que está estancado. Amor: se darán las circunstancias como para comprometerse en una relación estable. Trabajo y negocios: otros se quejarán por metas que se ven altas pero esa queja no será su caso. Amor: llegará a su vida una persona interesante y atractiva de la que querrá enamorarse. Trabajo y negocios: iniciará acciones audaces y generará un proyecto que traerá beneficios. Amor: trabajará para no postergar una cita romántica y logrará momentos agradables. Trabajo y negocios: tomará una buena idea y resolverá problemas que implican demasiados gastos. Amor: un encuentro divertido generará momentos románticos plenos de calidez. Trabajo y negocios: un beneficio o ganancia demorada finalmente llegará y alivia los nervios. Amor: tomará iniciativas para mejorar en lo sentimental y la armonía resurgirá. Trabajo y negocios: el clima laboral mejora por su capacidad de persuasión para el éxito. Amor: un viaje bien planeado será ideal para fortalecer la pareja y aumentar la calidez. Trabajo y negocios: lo que parece una crisis será una oportunidad. Nuevo comienzo. Amor: una situación inestable en la pareja comenzará a resolverse si se decide a dialogar. Trabajo y negocios: la actividad crecerá y trae satisfacciones. Se avecina desafío. Amor: un familiar tendrá actitudes negativas, pero no afectarán a la pareja. Trabajo y negocios: ante una situación compleja alguien vendrá con ayuda muy útil. Amor: una serie de torpezas le convertirán en alguien encantador. Nuevo romance. Trabajo y negocios: cierta inestabilidad causará zozobra pero surgirá una nueva alternativa. Amor: un momento de discordia en la pareja no empañará tanta demostración amorosa. Trabajo y negocios: gente poco idónea será un obstáculo que superará si se concentra. Amor: un encuentro no será como lo espera pero si insiste, hallará una relación duradera. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: POCO CUIDADOSA CON SENTIMIENTOS DE OTROS. SUS IMPULSOS SON ARRASADORES.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-18-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:43:47Z",
+          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
+            "Vida social",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "ca178121e502",
@@ -3053,7 +3079,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "9ca2ba06860f",
@@ -3079,7 +3105,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "68d329ddc5a5",
@@ -3101,32 +3127,6 @@
           "tags": [
             "H5N1, Salud, influenza aviar, Perú, emergencia sanitaria, Lima",
             "Actualidad",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "21079db8729f",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Horóscopo de hoy, 17 de julio: Conoce las predicciones más exactas para tu signo",
-          "summary": "Consulta tu horóscopo de hoy, viernes 17 de julio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, viernes 17 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: no habrá problema que no pueda resolver y le pedirán que actúe en otra área. Amor: un cambio positivo de ánimo generará momentos de intensa calidez en la pareja. Trabajo y negocios: una decisión a tiempo asegurará el éxito de un proyecto que está estancado. Amor: se darán las circunstancias como para comprometerse en una relación estable. Trabajo y negocios: otros se quejarán por metas que se ven altas pero esa queja no será su caso. Amor: llegará a su vida una persona interesante y atractiva de la que querrá enamorarse. Trabajo y negocios: iniciará acciones audaces y generará un proyecto que traerá beneficios. Amor: trabajará para no postergar una cita romántica y logrará momentos agradables. Trabajo y negocios: tomará una buena idea y resolverá problemas que implican demasiados gastos. Amor: un encuentro divertido generará momentos románticos plenos de calidez. Trabajo y negocios: un beneficio o ganancia demorada finalmente llegará y alivia los nervios. Amor: tomará iniciativas para mejorar en lo sentimental y la armonía resurgirá. Trabajo y negocios: el clima laboral mejora por su capacidad de persuasión para el éxito. Amor: un viaje bien planeado será ideal para fortalecer la pareja y aumentar la calidez. Trabajo y negocios: lo que parece una crisis será una oportunidad. Nuevo comienzo. Amor: una situación inestable en la pareja comenzará a resolverse si se decide a dialogar. Trabajo y negocios: la actividad crecerá y trae satisfacciones. Se avecina desafío. Amor: un familiar tendrá actitudes negativas, pero no afectarán a la pareja. Trabajo y negocios: ante una situación compleja alguien vendrá con ayuda muy útil. Amor: una serie de torpezas le convertirán en alguien encantador. Nuevo romance. Trabajo y negocios: cierta inestabilidad causará zozobra pero surgirá una nueva alternativa. Amor: un momento de discordia en la pareja no empañará tanta demostración amorosa. Trabajo y negocios: gente poco idónea será un obstáculo que superará si se concentra. Amor: un encuentro no será como lo espera pero si insiste, hallará una relación duradera. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: POCO CUIDADOSA CON SENTIMIENTOS DE OTROS. SUS IMPULSOS SON ARRASADORES.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-17-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-17T15:37:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
-            "Vida social",
             "Mundo",
             "El Comercio"
           ],
@@ -3288,12 +3288,12 @@
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Dólar BCV HOY, viernes 17 de julio: Tasa oficial y tipo de cambio en Venezuela",
+          "title": "¿Cuánto está el dólar BCV HOY, sábado 18 de julio? Revisa la tasa oficial en Venezuela",
           "summary": "Revisa el precio del dólar BCV y el tipo de cambio indicado por el Banco Central de Venezuela (BCV).",
-          "body_text": "Dólar BCV en Venezuela hoy, viernes 17 de julio de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 732,47 Bs según la tasa del Banco Central de Venezuela.",
+          "body_text": "Dólar BCV en Venezuela hoy, sábado 18 de julio de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 732,47 Bs según la tasa del Banco Central de Venezuela.",
           "url": "https://elcomercio.pe/respuestas/venezuela/tasa-dolar-bcv-hoy-revisa-el-tipo-de-cambio-en-venezuela-segun-el-banco-central-bitcoin-dolartoday-cotizacion-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/HSOHO6HDDFFQDA5FQUYU2G4MUQ.png?auth=0ef29b0072e73f5625a43817609208f0b4fd6f7178d85a8851ab92543a156f24&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-18T01:00:00Z",
+          "image_url": "https://elcomercio.pe/resizer/v2/QEMWKCL4WBERBHUFVED3CQ3OD4.png?auth=9dec68926e6fc9bc556cafca829ea5e3b565c879132dd4143a9fcae64ac2c0bc&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:46:30Z",
           "embed_url": "https://elcomercio.pe/respuestas/venezuela/tasa-dolar-bcv-hoy-revisa-el-tipo-de-cambio-en-venezuela-segun-el-banco-central-bitcoin-dolartoday-cotizacion-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3305,6 +3305,58 @@
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "6786cab15a1d",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Horóscopo de hoy, 18 de julio: revisa las predicciones más exactas para ti",
+          "summary": "Consulta tu horóscopo de hoy, sábado 18 de julio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, sábado 18 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: no habrá problema que no pueda resolver y le pedirán que actúe en otra área. Amor: un cambio positivo de ánimo generará momentos de intensa calidez en la pareja. Trabajo y negocios: una decisión a tiempo asegurará el éxito de un proyecto que está estancado. Amor: se darán las circunstancias como para comprometerse en una relación estable. Trabajo y negocios: otros se quejarán por metas que se ven altas pero esa queja no será su caso. Amor: llegará a su vida una persona interesante y atractiva de la que querrá enamorarse. Trabajo y negocios: iniciará acciones audaces y generará un proyecto que traerá beneficios. Amor: trabajará para no postergar una cita romántica y logrará momentos agradables. Trabajo y negocios: tomará una buena idea y resolverá problemas que implican demasiados gastos. Amor: un encuentro divertido generará momentos románticos plenos de calidez. Trabajo y negocios: un beneficio o ganancia demorada finalmente llegará y alivia los nervios. Amor: tomará iniciativas para mejorar en lo sentimental y la armonía resurgirá. Trabajo y negocios: el clima laboral mejora por su capacidad de persuasión para el éxito. Amor: un viaje bien planeado será ideal para fortalecer la pareja y aumentar la calidez. Trabajo y negocios: lo que parece una crisis será una oportunidad. Nuevo comienzo. Amor: una situación inestable en la pareja comenzará a resolverse si se decide a dialogar. Trabajo y negocios: la actividad crecerá y trae satisfacciones. Se avecina desafío. Amor: un familiar tendrá actitudes negativas, pero no afectarán a la pareja. Trabajo y negocios: ante una situación compleja alguien vendrá con ayuda muy útil. Amor: una serie de torpezas le convertirán en alguien encantador. Nuevo romance. Trabajo y negocios: cierta inestabilidad causará zozobra pero surgirá una nueva alternativa. Amor: un momento de discordia en la pareja no empañará tanta demostración amorosa. Trabajo y negocios: gente poco idónea será un obstáculo que superará si se concentra. Amor: un encuentro no será como lo espera pero si insiste, hallará una relación duradera. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: POCO CUIDADOSA CON SENTIMIENTOS DE OTROS. SUS IMPULSOS SON ARRASADORES.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-18-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:43:47Z",
+          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
+          "play_mode": "media",
+          "article_type": "video",
+          "tags": [
+            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
+            "Vida social",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "7ea34500cd3f",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Montañistas desaparecidos en el Huascarán: Reclaman por suspensión de labores de búsqueda",
+          "summary": "Lauro Salas, hermano de uno de los montañistas extraviados, denunció el abandono de las labores de búsqueda en el nevado Huascarán tras el retiro de las brigadas de auxilio en este sector de Áncash. El familiar manifestó su rechazo ante la falta de apoyo estatal continuo y detalló que las operaciones oficiales se detuvieron debido al agotamiento del personal y las condiciones climáticas adversas en la Cordillera Blanca.",
+          "body_text": "Lauro Salas, hermano de uno de los montañistas extraviados, denunció el abandono de las labores de búsqueda en el nevado Huascarán tras el retiro de las brigadas de auxilio en este sector de Áncash. El familiar manifestó su rechazo ante la falta de apoyo estatal continuo y detalló que las operaciones oficiales se detuvieron debido al agotamiento del personal y las condiciones climáticas adversas en la Cordillera Blanca. La suspensión de las acciones fue confirmada por representantes de Socorro Andino, quienes señalaron que los voluntarios están exhaustos tras trabajar por turnos ininterrumpidos. Ante la paralización, los parientes han decidido contratar guías especializados de manera particular y solicitan donaciones para financiar un equipo privado que intente alcanzar la zona crítica nuevamente. Esto se suma a los reclamos sobre deficiencias logísticas. El presidente de la asociación de guías, Beto Pinto, criticó que la Policía Nacional no cumpliera con el traslado aéreo de los rescatistas voluntarios, obligándolos a realizar un extenso descenso a pie tras sus jornadas en la montaña. Los esfuerzos de localización se han concentrado por encima de los 6,000 metros de altitud, donde el uso de drones permitió identificar huellas que podrían pertenecer al grupo. Sin embargo, la dificultad para que las naves oficiales aterricen en el refugio base ha limitado la capacidad de respuesta rápida y el recambio de especialistas técnicos en la zona. Alejandro Ugarte, Freddy Mendoza y Artidoro Salas Gaytán perdieron contacto el pasado martes 14 de julio durante el descenso del nevado Huascarán. El grupo, que formaba parte de una expedición de cinco personas, logró alcanzar la cima sur, pero una fuerte tormenta los desorientó, y los tres peruanos quedaron rezagados respecto a sus compañeros extranjeros en el sector de La Garganta. El último indicio directo fue un mensaje de WhatsApp enviado por Ugarte a su pareja, donde informaba escuetamente que estaban perdidos. Posteriormente, las patrullas hallaron sus carpas y equipo intactos en el Campo 1, lo que confirmó que el ascenso final lo realizaron únicamente con ropa de abrigo y sin sacos de dormir, factor de alto riesgo ante las temperaturas de hasta -30 °C. Actualmente, la incertidumbre prevalece entre los allegados, quienes exigen al Ejecutivo el envío de helicópteros con capacidad para operar a gran altitud. Mientras esperan una mejora en el clima, la familia Salas y los equipos de apoyo mantienen la esperanza de encontrar refugios naturales, insistiendo en que cada minuto es vital para rescatar a los montañistas con vida.",
+          "url": "https://elcomercio.pe/lima/sucesos/montanistas-desaparecidos-en-el-huascaran-reclaman-por-suspension-de-labores-de-busqueda-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/XS6QSTH7MRAR5NKXGP2JRGVNLQ.jpg?auth=518be4acde47bd4fedf1cf32a413a54338f7f4919fbcfa8e02228940c11706a7&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-18T13:39:17Z",
+          "embed_url": "https://elcomercio.pe/lima/sucesos/montanistas-desaparecidos-en-el-huascaran-reclaman-por-suspension-de-labores-de-busqueda-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Nevado Huascarán, Huascarán, Áncash, Montañistas",
+            "Sucesos",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 2
         },
         {
           "id": "9ca2ba06860f",
@@ -3330,7 +3382,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "68d329ddc5a5",
@@ -3352,58 +3404,6 @@
           "tags": [
             "H5N1, Salud, influenza aviar, Perú, emergencia sanitaria, Lima",
             "Actualidad",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "c223fa2cdb2b",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Pelícanos invaden terminal pesquero de Trujillo en búsqueda de alimento",
-          "summary": "La presencia masiva de aves marinas en el litoral alertó a pescadores y especialistas, quienes señalan que este suceso estaría relacionado con el fenómeno de El Niño.",
-          "body_text": "La presencia de decenas de pelícanos en el terminal pesquero de Trujillo ha encendido la alerta en la población, pescadores y especialistas. Este inusual acontecimiento estaría relacionado al fFenómeno El Niño, que en consecuencia estaría generando la escases de peces, el principal recurso de las aves marinas. De acuerdo con especialistas, la falta de anchoveta, principal fuente de alimento de los pelícanos, estaría obligando a estas aves a acercarse a zonas urbanas y pesqueras. El incremento de la temperatura del mar habría provocado que este recurso migre hacia aguas más profundas o frías, dificultando su acceso para la fauna marina. Esta situación ha generado que varios comerciantes del terminal opten por alimentar a los pelícanos con parte de los pocos pescados disponibles, con el objetivo de evitar que las aves mueran por inanición. La bióloga pesquera Lizbeth Martínez explicó que una situación de estas características no se observaba en el terminal pesquero desde 1977. Según indicó, el desplazamiento de la anchoveta debido al calentamiento del mar explica el comportamiento de los pelícanos, que ahora ingresan a la ciudad en busca de comida. “Siempre en el terminal pesquero se veía 1 o 2 pelicanos, pero ahora, como ya tenemos conocimiento que estamos viviendo el fenómeno El Niño, no hay anchoveta en el mar. Como sabemos la anchoveta busca aguas frías, ante esto, migran o se profundizan, lo que estos pelícanos por falta de alimento vienen a la ciudad. Primero aparecieron unos 10, ahora hay más de 100 pelícanos”, indicó la bióloga. Como se recuerda, fenómenos similares ocurrieron hace algunas semanas en Tumbes, donde se hallaron piqueros de patas azules sin vida; y en Pisco, donde aparecieron pelícanos muertos en el litoral. Estos fenómenos dan muestra de las complicaciones derivadas del Fenómeno El Niño.",
-          "url": "https://elcomercio.pe/peru/la-libertad/fenomeno-el-nino-trujillo-pelicanos-invaden-terminal-pesquero-en-busqueda-de-alimento-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/GQ2PYL6HEBCAJJOVM66KB3UESQ.jpg?auth=e4ae5d0bfa9e62b96fbaa1aca59ee0e908e61e8096c9bb0a48ef26db30e11583&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-17T18:36:25Z",
-          "embed_url": "https://elcomercio.pe/peru/la-libertad/fenomeno-el-nino-trujillo-pelicanos-invaden-terminal-pesquero-en-busqueda-de-alimento-ultimas-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Pelícanos, Pelícanos invaden terminal pesquero en Trujillo, Terminal pesquero en Trujillo, Fenómeno El Niño, Escasez de peces",
-            "La Libertad",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "21079db8729f",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Horóscopo de hoy, 17 de julio: Conoce las predicciones más exactas para tu signo",
-          "summary": "Consulta tu horóscopo de hoy, viernes 17 de julio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, viernes 17 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: no habrá problema que no pueda resolver y le pedirán que actúe en otra área. Amor: un cambio positivo de ánimo generará momentos de intensa calidez en la pareja. Trabajo y negocios: una decisión a tiempo asegurará el éxito de un proyecto que está estancado. Amor: se darán las circunstancias como para comprometerse en una relación estable. Trabajo y negocios: otros se quejarán por metas que se ven altas pero esa queja no será su caso. Amor: llegará a su vida una persona interesante y atractiva de la que querrá enamorarse. Trabajo y negocios: iniciará acciones audaces y generará un proyecto que traerá beneficios. Amor: trabajará para no postergar una cita romántica y logrará momentos agradables. Trabajo y negocios: tomará una buena idea y resolverá problemas que implican demasiados gastos. Amor: un encuentro divertido generará momentos románticos plenos de calidez. Trabajo y negocios: un beneficio o ganancia demorada finalmente llegará y alivia los nervios. Amor: tomará iniciativas para mejorar en lo sentimental y la armonía resurgirá. Trabajo y negocios: el clima laboral mejora por su capacidad de persuasión para el éxito. Amor: un viaje bien planeado será ideal para fortalecer la pareja y aumentar la calidez. Trabajo y negocios: lo que parece una crisis será una oportunidad. Nuevo comienzo. Amor: una situación inestable en la pareja comenzará a resolverse si se decide a dialogar. Trabajo y negocios: la actividad crecerá y trae satisfacciones. Se avecina desafío. Amor: un familiar tendrá actitudes negativas, pero no afectarán a la pareja. Trabajo y negocios: ante una situación compleja alguien vendrá con ayuda muy útil. Amor: una serie de torpezas le convertirán en alguien encantador. Nuevo romance. Trabajo y negocios: cierta inestabilidad causará zozobra pero surgirá una nueva alternativa. Amor: un momento de discordia en la pareja no empañará tanta demostración amorosa. Trabajo y negocios: gente poco idónea será un obstáculo que superará si se concentra. Amor: un encuentro no será como lo espera pero si insiste, hallará una relación duradera. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: POCO CUIDADOSA CON SENTIMIENTOS DE OTROS. SUS IMPULSOS SON ARRASADORES.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-17-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-17T15:37:00Z",
-          "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
-          "play_mode": "media",
-          "article_type": "video",
-          "tags": [
-            "horóscopo, signo zodiacal, tarot, aries, tauro, geminis, cancer, leo, virgo, libra, escorpio, sagitario, capricornio, acuario, piscis, enero",
-            "Vida social",
             "Peru",
             "El Comercio"
           ],
@@ -4085,7 +4085,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Streama FIFA Fotbolls-VM och Allsvenskan med TV4 Play Sport Fotboll. Halva priset hela sommaren – 224,50 kr/mån i 3 månader.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Reorna är här – tips på butiker med rabatter:",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://www.aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4143,6 +4143,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "7a46bba4d1e6",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Pappa och son gömde flera kilo kokain hemma",
+          "summary": "En pappa och hans son åtalas för narkotikabrott. Tillsammans misstänks de ha förvarat en stor mängd narkotika, bland annat gömd i mopeder i pappans garage.",
+          "body_text": "En pappa och hans son åtalas för narkotikabrott. Tillsammans misstänks de ha förvarat en stor mängd narkotika, bland annat gömd i mopeder i pappans garage. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I slutet av april gjorde polisen ett spontant besök vid en idrottsplats i Göteborg. På platsen satt en man i 50-årsåldern på en bänk med sin son i 20-årsåldern. Bredvid dem stod två väskor som visade sig innehålla narkotika. Det blev upptakten till ett betydligt större narkotikabeslag. Senare samma kväll genomförde polisen en husrannsakan på männens adresser. Hos sonens mamma hittades narkotika i sonens rum, bland annat i hans garderob och i nattduksbordet. Även i pappans garage hittade polisen bland annat cannabis, gömt i säten på mopeder. Tillsammans ska de ha förvarat närmare fem kilo kokain och cannabis samt 6 600 tramadoltabletter. Sonen berättar i förhör att han tidigare sålt narkotika. När han senare valde att sluta ska han ha blivit hotad av dem han arbetat för. Två år senare kontaktas han igen. Den här gången frågade han sin pappa om han ville hjälpa till. 50-åringen, som är förtidspensionär och skuldsatt, tackade ja.",
+          "url": "https://www.expressen.se/nyheter/sverige/pappa-och-son-atalas-for-knarkharva-/",
+          "image_url": "https://static.bonniernews.se/images/ce/3a/ce3ad3df332c4932add4e5e799beedb2/16x9/original.png",
+          "published_at": "2026-07-18T12:15:33Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/pappa-och-son-atalas-for-knarkharva-/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "5c65f129a6c0",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4164,7 +4188,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "91afd44fc2ef",
@@ -4188,7 +4212,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "56eb9a8f4fb2",
@@ -4212,7 +4236,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "1ee8dde00279",
@@ -4236,7 +4260,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "1789fb171cb9",
@@ -4260,7 +4284,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "324fd5021264",
@@ -4284,7 +4308,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "03b08f2f5733",
@@ -4294,37 +4318,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Polisens råd inför skyfallet",
+          "title": "15 000 blixtnedslag",
           "summary": "Snart vräker regnet ner. SMHI har utfärdat flera skyfallsvarningar – bland annat en orange i Östergötland.",
           "body_text": "SMHI har utfärdat flera skyfallsvarningar – bland annat en orange i Östergötland. Polisen uppmanar bilisterna i området att lämna bilen hemma. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den senaste veckans gassande sol och värmebölja är ett minne blott. Nu drar ett rejält lågtryck in över Sverige, som pressar ner temperaturerna och får himlen att öppna sig. Flera varningar för skyfall har utfärdats av SMHI , och gäller delar av södra Sverige. Kraftigast är varningen i inre och östra Östergötland, där varningen är uppe på orange nivå, den näst högsta. Där kan mellan 60 och 80 millimeter regn falla på kort tid, främst under eftermiddagen och kvällen. Det är dock svårt att slå fast var det kommer regna som allra mest, enligt Sandra Fyrstedt, meteorolog på SMHI. – Det är skurar det rör sig om och det kommer vara stora lokala variationer. Så på vissa håll kommer man inte få så stora mängder, men på andra håll kan det kan komma de här riktigt stora mängderna. När mycket regn faller på kort tid kan det innebära översvämningar på vägar och i fastigheter, enligt SMHI. Med anledning av det ska man ta höjd för att det kan vara svårt att ta sig fram i trafiken, och att kollektivtrafik kan försenas eller ställas in helt. Polisen uppmanar bilister i Östergötland att ta det lugnt, rapporterar Corren. – Lämna bilen hemma. När det kommer mycket regn på en gång är det stor risk för vattenplaning och det kan sluta väldigt illa, säger polisens presstalesperson Martina Gradian till tidningen. – Det som har blixtrat mest hittills i dag, det är ju i Västra Götalands län. Men som sagt, det åskar på många ställen, säger Sandra Frystedt. Åskovädret kommer hålla i sig nu under eftermiddagen och framåt kvällen, enligt henne.",
           "url": "https://www.expressen.se/nyheter/vader/regnovader-drar-in-smhi-varnar-for-skyfall/",
-          "image_url": "https://static.bonniernews.se/images/c0/e6/c0e611aefccc489ca3d7061eac4f6617/16x9/original.png",
+          "image_url": "https://static.bonniernews.se/images/ac/43/ac434a3d9ee84476acd5b11d810a0249/16x9/original.png",
           "published_at": "2026-07-18T06:23:26Z",
           "embed_url": "https://www.expressen.se/nyheter/vader/regnovader-drar-in-smhi-varnar-for-skyfall/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "447654f5c3ef",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Experten: Därför spred sig branden fort",
-          "summary": "Flera olyckliga förhållanden fick branden i norska Drammen att spridas snabbt, menar brandexperter.",
-          "body_text": "Några timmar efter det första larmet hade över hundra hem brunnit ned i norska Drammen. Flera olyckliga förhållanden fick elden att spridas snabbt, menar brandexperter. – Utomhus är förhållandena förmodligen de värsta tänkbara just nu, säger brandexperten Ruben Dobler Strand till VG . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det första larmet om branden kom 15:36. Sen spred sig branden fort. Vid 20-tiden meddelade polisen att över 100 bostäder brunnit ned. Senare på kvällen meddelade myndigheter att branden fortfarande inte var under kontroll. Vad som startade branden är ännu okänt, men det finns flera anledningar till att den spred sig så fort menar brandexperter som den norska tidningen VG talat med. Branden bröt ut i ett område som ligger i brant terräng. Eld, rök och värme rör sig uppåt, och därför har lågorna förmodligen snabbt nått högre upp i området. Dessutom blåste det kraftigt i området. Vid 18-tiden var det vindbyar på 10 meter per sekund, skriver VG, och det menar experterna fått brandspridningen att accelerera. – Att det dessutom blåser från söder är också en olycklig vindriktning i det området, säger brandexperten Ruben Dobler Strand. En tredje orsak är det varma vädret som rått i södra Norge de senaste dagarna. – Utomhus är förhållandena förmodligen de värsta tänkbara just nu, säger Dobler Strand. Han beskriver branden som en av de största i Norges historia.",
-          "url": "https://www.expressen.se/nyheter/varlden/experten-darfor-spred-sig-branden-sa-fort-i-drammen/",
-          "image_url": "https://static.bonniernews.se/images/e5/0b/e50b1e8d968440cab4a09f6a09082587/16x9/original.png",
-          "published_at": "2026-07-18T04:51:17Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/experten-darfor-spred-sig-branden-sa-fort-i-drammen/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4335,6 +4335,30 @@
           "sort_order": 7
         },
         {
+          "id": "447654f5c3ef",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Världen I dag 06.51 Experten: Därför spred sig branden så fort i Drammen",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/varlden/experten-darfor-spred-sig-branden-sa-fort-i-drammen/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/varlden/experten-darfor-spred-sig-branden-sa-fort-i-drammen/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
           "id": "965b87dda81a",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4342,12 +4366,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Ny våg av attacker – sjunde natten i rad",
-          "summary": "USA:s militär uppger att den attackerat iranska vapenlager och militär infrastruktur – Iran säger sig ha anfallit amerikanska baser. För sjunde natten i rad har länderna nu riktat anfall mot varandra.",
-          "body_text": "USA:s militär uppger att den attackerat iranska vapenlager och militär infrastruktur – Iran säger sig ha anfallit amerikanska baser. För sjunde natten i rad har länderna nu riktat anfall mot varandra. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA inledde under fredagskvällen en ny våg av attacker mot Iran. Explosioner har – likt tidigare i veckan – bland annat hörts i städerna Bandar Abbas och Ahvaz samt på ön Qeshm. Iranska statliga medier rapporterar att minst tre personer dödats och att åtta skadats till följd av attackerna. Revolutionsgardet i Iran uppger även att två tankfartyg stött ihop med minor i Hormuzsundet sent på fredagen. Uppgifter om den påstådda händelsen är fortfarande få – och det är oklart vilka eventuella skador fartygen fått – men Iran påstår att explosioner inträffat och att det uppstått bränder. USA:s militärkommando Centcom kallar å sin sida Irans påståenden om fartygen och explosionerna för ”falska”. ”För att skydda sina tillgångar och, framför allt, sina liv, bör besättningar inte låta sig vilseledas och ta sig in i minfältet”, uppger Revolutionsgardet i ett uttalande och påstår även att fyra fartyg stoppats från att passera sundet. De amerikanska attackerna slutfördes strax före klockan 4, svensk tid. Då hade iranska övervakningsanläggningar, logistikinfrastruktur och vapenlager träffats, enligt Centcom. Likt tidigare nätter har Iran riktat svarsattacker mot amerikanska baser runt om i Mellanöstern, och både Kuwait och Jordanien uppger att de aktiverat sina luftförsvarssystem under natten. Enligt den jordanska militären har tio iranska robotar skjutits ned i landets territorium, utan att varken människor eller byggnader skadats. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "title": "Världen I dag 06.28 Nya attacker mellan USA och Iran – sjunde natten",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/varlden/nya-attacker-mellan-usa-och-iran-sjunde-natten/",
-          "image_url": "https://static.bonniernews.se/images/68/7e/687efdd4da82408ebc2ee1418a0f1960/16x9/original.png",
-          "published_at": "2026-07-18T04:28:16Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/nya-attacker-mellan-usa-och-iran-sjunde-natten/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4355,31 +4379,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "bdb0dd737e81",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Patrick Ekwall om hatet: ”De värsta är kvinnorna”",
-          "summary": "Livet efter tv-karriären • Oväntade vänskapen i vildmarken",
-          "body_text": "Patrick Ekwall har gått från sportjournalist på TV4 till världsmästare i gåfotboll, deckarförfattare och spelmakare. Nu berättar han om livet efter tv-karriären, oväntade vänskaper i vildmarken – och varför han gärna skulle tacka ja till ”Förrädarna” om frågan äntligen kom. Och varför han just nu låter bli att prata om Hannah. – Lyssnar du på den där gubbpodden? Det kan du fan inte göra! Bara i enstaka fall, får jag erkänna. Särskilt nu när Patrick Ekwall och Mats Olsson har kommenterat ”Expedition vildmark” samt snackat upp vår intervju i sin ”Pådden”. Där har Olsson förklarat för sin gamle vapendragare att det som undertecknad skrev om Ekwalls bromance med Jesper Blomqvist i ”Expedition vildmark” i en text – det var inte hån, tvärtom. Jag har så jävla svårt att ta när folk skriver gott om mig – Jag har så jävla svårt att ta när folk skriver gott om mig. Jag blir generad. Patrick Ekwall är, om någon fortfarande tror det, inte längre sportjournalist på TV4 eller någon annanstans heller för den delen. Han skriver spänningsromaner och tillverkar spel. Tävlar som nämnt i ”Expedition vildmark” samt VM i gåfotboll. Medverkar i SVT:s ”Muren”. Häromdagen ställde Ekwall tydligen upp i ”något av det sjukaste” han gjort i tv-sammanhang, men det kan han tyvärr inte berätta mer om än. Bra betalt var det i alla fall. Inte som på SVT. Planen var att vi skulle sitta ute, men regnet förde oss till hans favoritbageri. Våra världar har hittills legat långt ifrån varandra. Sport och kultur är som repellerande magneter. – Finkultur och sport skär sig oftast som kaviar till apelsinjuice. Däremot så är det många finkulturella kolleger som skriver om sport, men inte så vanligt att sportjournalister skriver om Tjajkovskij , eller va fan det nu var. Ekwall syftar på sin första och enda insats som musikkritiker. Under ett handbollsmärsterskap i Polen skrev han en väldigt underhållande recension på sin blogg från en konsert med Lutoslawskis stråkkvartett.",
-          "url": "https://www.expressen.se/nyheter/sverige/patrick-ekwall-om-hatet-de-varsta-ar-kvinnorna/",
-          "image_url": "https://static.bonniernews.se/images/4e/f3/4ef375cdff304c369fc03567a6fa7c00/16x9/original.jpg",
-          "published_at": "2026-07-18T04:00:00Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/patrick-ekwall-om-hatet-de-varsta-ar-kvinnorna/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4395,35 +4395,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "En kropp har hittats i Tärendöälven, i Pajala kommun, rapporterar P4 Norrbotten . Larmet kom strax efter klockan 12 och enligt Räddningssamverkan Nord är kroppen ännu inte identifierad, rapporterar radiokanalen. Under natten har ett inbrott skett på en bilfirma i Värnamo. Någon eller några har stulit fyra uppsättningar hjul, vilket upptäcktes vid 11-tiden på lördagen. Både däcken och fälgarna saknas på fyra olika bilar. Det rör sig om dyra däck. En uppsättning kostar ungefär 50 000 kronor, uppger polisen. Nu vädjar polisen om att folk som kan ha sett något ska höra av sig. Branden startade i en närliggande byggnad och spred sig sedan till maskinhallen, rapporterar SVT Småland . Branden är fullt utvecklad och arbetet på plats väntas pågå i flera timmar. Tre män är gripna, misstänkta för allmänfarlig vårdslöshet, skriver nyhetskanalen. Ett överfallslarm utlöstes på en linjebuss i Rönninge. Under ett telefonsamtal har man kunnat överhöra rop och skrik ombord på bussen. Polis åkte ut på larmet och det visade sig vara en okänd passagerare som utlöst larmet då busschauffören lämnat bussen en kort stund, skriver polisen på sin hemsida. Den misstänkte 48-åriga gärningsmannen efter gårdagens skottlossning i danska Ålborg, där en person dödades, är nu i rättssalen och häktesförhandlingarna har påbörjats. Även en polis och den misstänkte blev skjutna i samband med händelsen. 48-åringen misstänks för mord och mordförsök. Han erkänner mord, och vissa omständigheter kring mordförsöket, rapporterar dansk media. Två personer vårdas på sjukhus med allvarliga skador efter en frontalkrock mellan två personbilar i Djurås, rapporterar SVT Dalarna . Olyckan skedde under fredagseftermiddagen. Ytterligare två personer skadades lindrigt i samband med händelsen och de har kunnat lämna sjukhuset, enligt nyhetskanalen. Det brinner i flera ladugårdar i Räddningstjänsten Fyrbodals bevakningsområde, rapporterar GP. – Det är högst sannolikt åskan som orsakat bränderna. Vi har mängder av blixtnedslag i hela området. Vi får också in många larm om översvämmade källare och liknande, men vi är så belastade att vi inte åker på det, säger Peter Gustafsson, vid ledningcentralen i Fyrbodal till tidningen. Två personer på elsparkcyklar har förts till sjukhus efter att de krockat med varandra, rapporterar SVT Västerbotten . Olyckan inträffade vid 02-tiden i natt. Förarna misstänks för grovt rattfylleri, vårdslöshet i trafiken och vållande till kroppsskada, skriver nyhetskanalen. Skadeläget är okänt. En del av ett tak har rasat in på köpcentret Torp i Uddevalla.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
