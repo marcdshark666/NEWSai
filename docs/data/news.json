@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T17:18:43Z",
+  "generated_at": "2026-07-19T18:12:25Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 SMHI varnar för nya skyfall • Populära resmålet hotat Spanska stjärnans pik mot Trump: ”Hoppas det går snabbt” Messi skickar ut budskap: ”Det bästa har inte varit titlarna” Då riskerar du att missa VM-finalens halvtidsshow: ”Vissa val” Blågult om finalens långa paus: ”Gynnar Argentina” Över 400 amerikanska soldater skadade • ”Svek mot ett av Trumps vallöften” Experten: Kriget kan knäcka Trump politiskt – ”Det finns en gräns” USA och Iran i nya anfall: ”Snabbt straff”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Spanska stjärnans pik mot Trump: ”Hoppas det går snabbt” Messi skickar ut budskap: ”Det bästa har inte varit titlarna” Då riskerar du att missa VM-finalens halvtidsshow: ”Vissa val” Blågult om finalens långa paus: ”Gynnar Argentina” SMHI varnar för nya skyfall • Populära resmålet hotat Över 400 amerikanska soldater skadade • ”Svek mot ett av Trumps vallöften” Experten: Kriget kan knäcka Trump politiskt – ”Det finns en gräns” USA och Iran i nya anfall: ”Snabbt straff”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -311,7 +311,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 12,
+      "article_count": 9,
       "priority_split": 0,
       "articles": [
         {
@@ -339,6 +339,54 @@
           "sort_order": 0
         },
         {
+          "id": "f1d44a9f9c91",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 21:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/jAMMW49/rapport/ikvall-21-00",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-19T19:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jAMMW49/rapport/ikvall-21-00",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "fb06ed987c59",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 19:30",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Helsingborg: Pojke misstänks för mordförsök • Ukrainska attacker: Ryssland begränsar sjöfarten • Tåg till utlandet: Allt mer populärt Mer om programmet USA-Iran: Intensiva luftangrepp • Värnplikt: Andelen kvinnor minskar • Danmark: Helveteslarven oroar - men inte alla Mer om programmet USA-Iran: Nya attacker • UV-strålning: Små barn bör ha solglasögon • Fotbolls-VM: Norges dröm är över Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/eJyyY5n/rapport/ikvall-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54546149/1784484246?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-18T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/eJyyY5n/rapport/ikvall-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "4c88c038b139",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -360,7 +408,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "f6c5f57071c0",
@@ -384,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "61b1c1a97a72",
@@ -408,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "89b2bd17ed19",
@@ -432,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "3c13eb4bd59d",
@@ -456,7 +504,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "cd95c6152b24",
@@ -480,127 +528,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "3f338d7c77b0",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ikväll 18:00",
-          "summary": "Ukraina: Massiva attacker mot Kiev • Drammen: Hennes hus brann ned • Spanien: Uppladdning inför VM-finalen",
-          "body_text": "Ukraina: Massiva attacker mot Kiev • Drammen: Hennes hus brann ned • Spanien: Uppladdning inför VM-finalen Mer om programmet Drammen: Största branden i Norges historia • Röda korset: Antalet hjälpsökande ökar • Rävar: Allt fler i stadsmiljön Mer om programmet Danmark: Polis skjuten i skottlossning • Utsläpp: Förslag om lättade regler • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Skogsbränder: Räddning från luften Mer om programmet Regeringens säkerhetsrådgivare: Anteckningar glömdes på möte • USA: Flera döda i ICE-insatser • Trollhättan: Flamingo ger svalka Mer om programmet Helsingborg: Pojke misstänks för mordförsök • Tåg till utlandet: Allt mer populärt • Sörbygdens bygdegård: Matlådor gör stor succé Mer om programmet USA-Iran: Intensiva luftangrepp • Värnplikt: Andelen kvinnor minskar • Sopsortering: Mycket hamnar fel Mer om programmet USA-Iran: Nya attacker • UV-strålning: Små barn bör ha solglasögon • Fotbolls-VM: Norges dröm är över Mer om programmet Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/jMyyEMn/rapport/ikvall-18-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54545300/1784476561?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-18T18:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jMyyEMn/rapport/ikvall-18-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "90d01383db3f",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Igår 18:00",
-          "summary": "Drammen: Största branden i Norges historia • Röda korset: Antalet hjälpsökande ökar • Rävar: Allt fler i stadsmiljön",
-          "body_text": "Ukraina: Massiva attacker mot Kiev • Drammen: Hennes hus brann ned • Spanien: Uppladdning inför VM-finalen Mer om programmet Drammen: Största branden i Norges historia • Röda korset: Antalet hjälpsökande ökar • Rävar: Allt fler i stadsmiljön Mer om programmet Danmark: Polis skjuten i skottlossning • Utsläpp: Förslag om lättade regler • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Skogsbränder: Räddning från luften Mer om programmet Regeringens säkerhetsrådgivare: Anteckningar glömdes på möte • USA: Flera döda i ICE-insatser • Trollhättan: Flamingo ger svalka Mer om programmet Helsingborg: Pojke misstänks för mordförsök • Tåg till utlandet: Allt mer populärt • Sörbygdens bygdegård: Matlådor gör stor succé Mer om programmet USA-Iran: Intensiva luftangrepp • Värnplikt: Andelen kvinnor minskar • Sopsortering: Mycket hamnar fel Mer om programmet USA-Iran: Nya attacker • UV-strålning: Små barn bör ha solglasögon • Fotbolls-VM: Norges dröm är över Mer om programmet Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/8z77D5G/rapport/igar-18-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54543503/1784390064?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-18T18:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8z77D5G/rapport/igar-18-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
           "sort_order": 8
-        },
-        {
-          "id": "5f4fc1aa3eff",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Fre 17 jul 18:00",
-          "summary": "Danmark: Polis skjuten i skottlossning • Utsläpp: Förslag om lättade regler • Väder: Omslag på väg",
-          "body_text": "Ukraina: Massiva attacker mot Kiev • Drammen: Hennes hus brann ned • Spanien: Uppladdning inför VM-finalen Mer om programmet Drammen: Största branden i Norges historia • Röda korset: Antalet hjälpsökande ökar • Rävar: Allt fler i stadsmiljön Mer om programmet Danmark: Polis skjuten i skottlossning • Utsläpp: Förslag om lättade regler • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Skogsbränder: Räddning från luften Mer om programmet Regeringens säkerhetsrådgivare: Anteckningar glömdes på möte • USA: Flera döda i ICE-insatser • Trollhättan: Flamingo ger svalka Mer om programmet Helsingborg: Pojke misstänks för mordförsök • Tåg till utlandet: Allt mer populärt • Sörbygdens bygdegård: Matlådor gör stor succé Mer om programmet USA-Iran: Intensiva luftangrepp • Värnplikt: Andelen kvinnor minskar • Sopsortering: Mycket hamnar fel Mer om programmet USA-Iran: Nya attacker • UV-strålning: Små barn bör ha solglasögon • Fotbolls-VM: Norges dröm är över Mer om programmet Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/eakkZrk/rapport/fre-17-jul-18-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54540626/1784303761?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-18T18:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/eakkZrk/rapport/fre-17-jul-18-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "cd86a10627bb",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Tor 16 jul 18:00",
-          "summary": "Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Skogsbränder: Räddning från luften",
-          "body_text": "Ukraina: Massiva attacker mot Kiev • Drammen: Hennes hus brann ned • Spanien: Uppladdning inför VM-finalen Mer om programmet Drammen: Största branden i Norges historia • Röda korset: Antalet hjälpsökande ökar • Rävar: Allt fler i stadsmiljön Mer om programmet Danmark: Polis skjuten i skottlossning • Utsläpp: Förslag om lättade regler • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Skogsbränder: Räddning från luften Mer om programmet Regeringens säkerhetsrådgivare: Anteckningar glömdes på möte • USA: Flera döda i ICE-insatser • Trollhättan: Flamingo ger svalka Mer om programmet Helsingborg: Pojke misstänks för mordförsök • Tåg till utlandet: Allt mer populärt • Sörbygdens bygdegård: Matlådor gör stor succé Mer om programmet USA-Iran: Intensiva luftangrepp • Värnplikt: Andelen kvinnor minskar • Sopsortering: Mycket hamnar fel Mer om programmet USA-Iran: Nya attacker • UV-strålning: Små barn bör ha solglasögon • Fotbolls-VM: Norges dröm är över Mer om programmet Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/e3ddJDG/rapport/tor-16-jul-18-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54532793/1784217260?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-18T18:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/e3ddJDG/rapport/tor-16-jul-18-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "2c051f6c2179",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ons 15 jul 18:00",
-          "summary": "Regeringens säkerhetsrådgivare: Anteckningar glömdes på möte • USA: Flera döda i ICE-insatser • Trollhättan: Flamingo ger svalka",
-          "body_text": "Ukraina: Massiva attacker mot Kiev • Drammen: Hennes hus brann ned • Spanien: Uppladdning inför VM-finalen Mer om programmet Drammen: Största branden i Norges historia • Röda korset: Antalet hjälpsökande ökar • Rävar: Allt fler i stadsmiljön Mer om programmet Danmark: Polis skjuten i skottlossning • Utsläpp: Förslag om lättade regler • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Skogsbränder: Räddning från luften Mer om programmet Regeringens säkerhetsrådgivare: Anteckningar glömdes på möte • USA: Flera döda i ICE-insatser • Trollhättan: Flamingo ger svalka Mer om programmet Helsingborg: Pojke misstänks för mordförsök • Tåg till utlandet: Allt mer populärt • Sörbygdens bygdegård: Matlådor gör stor succé Mer om programmet USA-Iran: Intensiva luftangrepp • Värnplikt: Andelen kvinnor minskar • Sopsortering: Mycket hamnar fel Mer om programmet USA-Iran: Nya attacker • UV-strålning: Små barn bör ha solglasögon • Fotbolls-VM: Norges dröm är över Mer om programmet Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/jR553pZ/rapport/ons-15-jul-18-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54524957/1784130899?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-18T18:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jR553pZ/rapport/ons-15-jul-18-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 11
         }
       ]
     },
@@ -1601,6 +1529,206 @@
           "sort_order": 0
         },
         {
+          "id": "8921a6e65ef1",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Tom Homan criticizes NYC mayor over 'sanctuary city' pride | Fox News Video",
+          "summary": "Border czar Tom Homan blasts NYC Mayor Mamdani for expressing pride in New York's sanctuary city status. Homan argues these policies hinder law enforcement and cites criminal cases like Laken Riley.",
+          "body_text": "Border czar Tom Homan blasts NYC Mayor Mamdani for expressing pride in New York's sanctuary city status. Homan argues these policies hinder law enforcement and cites criminal cases like Laken Riley. Border czar Tom Homan criticizes NYC Mayor Mamdani, a Democratic socialist, for his 'pride' in New York being a sanctuary city. Homan argues that these policies prevent cooperation with federal immigration enforcement, potentially leading to tragic consequences, exemplified by the Laken Riley case. He emphasizes the importance of law and order.",
+          "url": "https://www.foxnews.com/video/6401563217112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79ee5634-5e29-40f8-ae99-defa6685b0e2/210e02c5-5c63-4821-a059-0ac09b6793fa/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-19T17:49:05Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401563217112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "297ff93c25e4",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Colorado Gov Jared Polis warns against socialist agenda within Democratic Party | Fox News Video",
+          "summary": "Gov. Jared Polis addresses the rise of Democratic socialists winning primaries in Colorado.",
+          "body_text": "Gov. Jared Polis addresses the rise of Democratic socialists winning primaries in Colorado. Colorado Gov. Jared Polis highlights the dangers of socialism gaining traction in the Democratic Party. He criticizes the notion of government ownership of companies, stating it concentrates economic and political power. Polis warns that socialism leads to less prosperity and has historically failed in every country that has attempted it.",
+          "url": "https://www.foxnews.com/video/6401568668112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b15a0fa-83e0-4d43-84ad-628ac0dec373/8b9990e9-e517-4bd2-bddd-2b20ccb1d1c6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-19T17:44:27Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401568668112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "4863bea56a47",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rep Ro Khanna says Netanyahu ‘defies’ US presidents | Fox News Video",
+          "summary": "Rep. Ro Khanna, D-Calif., discusses House Democrats' vote on Israel aid, highlighting a significant shift in the party's stance on ‘The Sunday Briefing.’",
+          "body_text": "Rep. Ro Khanna, D-Calif., discusses House Democrats' vote on Israel aid, highlighting a significant shift in the party's stance on ‘The Sunday Briefing.’",
+          "url": "https://www.foxnews.com/video/6401568096112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec80fcd-1ea3-4abb-bd39-f487e16d98f5/bbe4c6ba-8205-454c-8a4d-979a2bff3f8f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-19T17:27:52Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401568096112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "b0c01618fde9",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Analyzing Democratic divide over Israel after key House vote | Fox News Video",
+          "summary": "Fox News chief congressional correspondent Chad Pergram reports on the growing divide within the Democratic Party over continued U.S. aid to Israel on 'Fox News Live.'",
+          "body_text": "Fox News chief congressional correspondent Chad Pergram reports on the growing divide within the Democratic Party over continued U.S. aid to Israel on 'Fox News Live.'",
+          "url": "https://www.foxnews.com/video/6401569195112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1dfe21fa-b164-425a-9f91-29455b9ff08d/96ff7c1e-731a-456d-afc7-71e35c1fa7f1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-19T17:25:22Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401569195112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 4
+        },
+        {
+          "id": "46ac403a97d1",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Democrats divided over Israel as midterms approach | Fox News Video",
+          "summary": "Trump 2024 deputy communications director Caroline Sunshine and Former Bernie Sanders strategist Corbin Trent debate the Democratic Party's internal divisions regarding aid to Israel on ‘Fox News Live.’",
+          "body_text": "Trump 2024 deputy communications director Caroline Sunshine and Former Bernie Sanders strategist Corbin Trent debate the Democratic Party's internal divisions regarding aid to Israel on ‘Fox News Live.’",
+          "url": "https://www.foxnews.com/video/6401567513112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe3943f7-6b0e-4669-bb1b-a4e61eb84400/f8420ad7-beff-4c4a-825c-33463d5351e5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-19T17:23:08Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401567513112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 5
+        },
+        {
+          "id": "87764ebca7f6",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "General Jack Keane analyzes US strikes on Iranian military targets | Fox News Video",
+          "summary": "General Jack Keane discusses the U.S. retaliatory strikes on Iranian military targets. He explains Iran's historical pattern of negotiating in bad faith and breaking agreements, emphasizing the current administration's stance against bad deals.",
+          "body_text": "General Jack Keane discusses the U.S. retaliatory strikes on Iranian military targets. He explains Iran's historical pattern of negotiating in bad faith and breaking agreements, emphasizing the current administration's stance against bad deals. General Jack Keane provides military analysis of the U.S. strikes against Iranian military targets following the deaths of U.S. service members. He highlights Iran's long history of destabilizing behavior and broken negotiation promises, asserting that the current administration will not accept a 'bad deal' that undermines U.S. security interests.",
+          "url": "https://www.foxnews.com/video/6401568289112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/433a7bf9-9c10-47b0-a04a-47cb546c5d23/61cd24fe-ed4d-4c3d-a5a8-7549f5f2c168/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-19T17:16:47Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401568289112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 6
+        },
+        {
+          "id": "afcce0ff88f5",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Gen Jack Keane assesses US retaliatory strikes against Iran, discusses regional stability | Fox News Video",
+          "summary": "General Jack Keane, Fox News senior strategic analyst, analyzes U.S. military strikes on Iranian targets following attacks that killed two U.S. service members.",
+          "body_text": "General Jack Keane, Fox News senior strategic analyst, analyzes U.S. military strikes on Iranian targets following attacks that killed two U.S. service members. Fox News senior strategic analyst General Jack Keane assesses U.S. retaliatory strikes against Iranian military targets. Keane highlights the long history of Iranian aggression and the failure of diplomacy, emphasizing the need for strong U.S. action. He discusses the strategic significance of the Strait of Hormuz and the goal of weakening the Iranian regime.",
+          "url": "https://www.foxnews.com/video/6401567999112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ba81119-7aef-496d-9cf4-d135b7aa5917/7d0dc7ba-cb3a-4497-8a79-5f04cd092403/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-19T17:09:54Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401567999112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "2f56c9e885a2",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rep James Comer defends latest US strikes on Iran after US troops killed | Fox News Video",
+          "summary": "Rep. James Comer, R-Ky., discusses the U.S. strikes on Iranian targets after two American service members were killed, efforts to pass the SAVE America Act and more on ‘The Sunday Briefing.’",
+          "body_text": "Rep. James Comer, R-Ky., discusses the U.S. strikes on Iranian targets after two American service members were killed, efforts to pass the SAVE America Act and more on ‘The Sunday Briefing.’ House Oversight Committee Chair Rep. James Comer, R-Ky., reacts to recent U.S. military strikes against Iranian targets and the tragic deaths of two U.S. service members. Comer discusses the New York Times' warnings of a potential 'forever war' and emphasizes the need for a strong American response to Iranian aggression.",
+          "url": "https://www.foxnews.com/video/6401564119112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b7d079b-fb45-48a1-8517-d68ca9f718aa/6c0fe37e-440b-4c24-98da-64fa1ce91b33/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-19T17:03:49Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401564119112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
           "id": "0c3d060b8c48",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1623,7 +1751,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 9
         },
         {
           "id": "282eb455bf42",
@@ -1640,206 +1768,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/761ccc3a-c4a3-4367-ae57-5fdbe54079ec/89cd2a82-b8db-48d2-8003-210d6f4223b6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-07-19T16:43:42Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401564909112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "3eccc39ef0da",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sen Blackburn warns of ‘axis of evil’ with China, Russia and Iran | Fox News Video",
-          "summary": "Sen. Marsha Blackburn, R-Tenn., discusses the alliances between China, Russia and Iran, dubbing them an ‘axis of evil.’",
-          "body_text": "Sen. Marsha Blackburn, R-Tenn., discusses the alliances between China, Russia and Iran, dubbing them an ‘axis of evil.’ Sen. Marsha Blackburn, R-Tenn., highlights the growing 'axis of evil' formed by China, Russia and Iran. She warns about intelligence sharing that enables precision strikes against U.S. assets, particularly in the Middle East. Blackburn stresses the importance of economic pressure on Cuba and curbing China's global dominance.",
-          "url": "https://www.foxnews.com/video/6401562516112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0103ee41-c3ed-4031-8bae-184af06c939a/d4f977ad-53b5-4c0f-b76e-bcd53f763a86/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-19T16:29:40Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401562516112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "b4a65accbf3d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rep Tenney slams Canadian moratorium on US spirits as 'petty' | Fox News Video",
-          "summary": "Rep. Claudia Tenney, R-N.Y., joins 'Sunday Morning Futures' to discuss some Canadian provinces' ban on U.S. liquor, NYC Mayor Zohran Mamdani's remarks on Israeli Prime Minister Benjamin Netanyahu and more.",
-          "body_text": "Rep. Claudia Tenney, R-N.Y., joins 'Sunday Morning Futures' to discuss some Canadian provinces' ban on U.S. liquor, NYC Mayor Zohran Mamdani's remarks on Israeli Prime Minister Benjamin Netanyahu and more. Rep. Claudia Tenney, R-N.Y., joins 'Sunday Morning Futures' to discuss some Canadian provinces' ban U.S. liquor, urging officials to 'come to the table' to negotiate. She also addresses NYC Mayor Zohran Mamdani's remarks on Israeli Prime Minister Benjamin Netanyahu and more.",
-          "url": "https://www.foxnews.com/video/6401563886112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/533a4fa6-10ac-4b88-9645-ddbe5f1c0cd7/30710f34-3d3a-4334-8885-002e35b50a2d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-19T16:07:04Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401563886112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "475394d97070",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Democrats face backlash after voting to end military aid to Israel | Fox News Video",
-          "summary": "Rep. Ro Khanna, D-Calif., weighs in on the Democratic Party’s internal debate over U.S. aid to Israel and more during ‘The Sunday Briefing.’",
-          "body_text": "Rep. Ro Khanna, D-Calif., weighs in on the Democratic Party’s internal debate over U.S. aid to Israel and more during ‘The Sunday Briefing.’",
-          "url": "https://www.foxnews.com/video/6401563559112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf39d020-4a87-4452-84d6-2afbd2e7738e/c12c415b-d645-4534-b138-9861b0278839/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-19T15:57:31Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401563559112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "cd43fa225686",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sen Blackburn analyzes Cuba’s deepening alliances with China, Iran and Russia | Fox News Video",
-          "summary": "Sen. Marsha Blackburn, R-Tenn., joins ‘Sunday Morning Futures’ to discuss Cuba’s ties with U.S. adversaries, Iran’s escalating attacks in the Middle East and a viral list of worst places to live in America.",
-          "body_text": "Sen. Marsha Blackburn, R-Tenn., joins ‘Sunday Morning Futures’ to discuss Cuba’s ties with U.S. adversaries, Iran’s escalating attacks in the Middle East and a viral list of worst places to live in America. Sen. Marsha Blackburn, R-Tenn., discusses escalating threats from Cuba's alliances with China, Iran and Russia, stressing the need for robust U.S. defense spending and military modernization. She addresses the reconciliation bill for government funding and defends Tennessee's economic standing, promoting local job creation through data center projects.",
-          "url": "https://www.foxnews.com/video/6401561430112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/929fe48c-5d06-461a-8d2b-ddcf64e0685e/9f1b264d-4fcb-450e-8bb7-7837869c72c4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-19T15:43:42Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401561430112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "953b5e1d651a",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Fetterman says he would 're-evaluate' affiliation with Dems over anti-Israel policy | Fox News Video",
-          "summary": "Sen. John Fetterman, D-Pa., expresses concern over the Democratic Party's changing stance on Israel on 'Sunday Morning Futures.'",
-          "body_text": "Sen. John Fetterman, D-Pa., expresses concern over the Democratic Party's changing stance on Israel on 'Sunday Morning Futures.'",
-          "url": "https://www.foxnews.com/video/6401562336112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abf628be-f2ea-4168-b706-3fd3a3eedc60/f1dc36cd-577d-451c-a444-fc519f30b0c7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-19T15:29:06Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401562336112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "1935291594a0",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Tom Homan slams Mamdani over sanctuary city policies, ICE criticism | Fox News Video",
-          "summary": "Border czar Tom Homan joins ‘Fox & Friends Weekend’ to discuss New York City sanctuary city policies after Mayor Zohran Mamdani doubled down on non-cooperation with the federal government.",
-          "body_text": "Border czar Tom Homan joins ‘Fox & Friends Weekend’ to discuss New York City sanctuary city policies after Mayor Zohran Mamdani doubled down on non-cooperation with the federal government. Border czar Tom Homan blasts New York City's sanctuary policies and Mayor Zohran Mamdani's refusal to cooperate with federal immigration enforcement. Homan argues this stance endangers citizens and prevents the removal of criminal aliens, citing thousands of arrests. He also reacts to New York Gov. Kathy Hochul's legislation and the Memphis pizzeria controversy.",
-          "url": "https://www.foxnews.com/video/6401560708112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a109f20d-ea9f-46c4-b020-41ae7da0d847/4e03b7e6-45da-499c-b492-f3ee17a7597d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-19T15:12:28Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401560708112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "b28bd11299f9",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Iran targeting regional neighbors could be a 'benefit' for the US, expert says | Fox News Video",
-          "summary": "Former Deputy National Security Advisor Victoria Coates analyzes the escalating conflict between the U.S. and Iran, the regime's military capabilities and its attacks across the region on ‘Sunday Morning Futures.’",
-          "body_text": "Former Deputy National Security Advisor Victoria Coates analyzes the escalating conflict between the U.S. and Iran, the regime's military capabilities and its attacks across the region on ‘Sunday Morning Futures.’",
-          "url": "https://www.foxnews.com/video/6401561429112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55604a6-5ce6-4f74-8e97-ddeb3490c2e5/765fd9ff-edb9-47b1-a905-32dc922b89e6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-19T15:04:19Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401561429112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "4290e526cd56",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Fetterman says he would ‘re-evaluate’ stance in Democratic Party over anti-Israel platform | Fox News Video",
-          "summary": "Sen. John Fetterman, D-Pa., expresses deep concern over the Democratic Party's changing stance on Israel and the recent U.S.-Iran strikes on ‘Sunday Morning Futures.’",
-          "body_text": "Sen. John Fetterman, D-Pa., expresses deep concern over the Democratic Party's changing stance on Israel and the recent U.S.-Iran strikes on ‘Sunday Morning Futures.’",
-          "url": "https://www.foxnews.com/video/6401560616112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e5e6372-acc6-4d30-8c8b-bc1d47d54b60/ad9055d5-f740-4b90-9ff8-d183c5991f66/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-19T14:51:22Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401560616112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2096,9 +2024,9 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Russia launches major ballistic-missile attack on Kyiv and Kharkiv",
-          "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
-          "body_text": "Russia has carried out a wave of ballistic missile strikes on Ukrainian cities, killing five people and wounding at least 35, officials say. Four people were killed and 19 injured in the northeastern city of Kharkiv, while one person died and 16 were hurt in the capital Kyiv. Ukrainian President Volodymyr Zelensky described the raid on Kyiv as \"one of the most massive ballistic attacks\" on the capital since the start of Russia's full-scale invasion in 2022. Meanwhile Ukraine has continued its assault on Russian sites. Three Russian oil tankers in the Black Sea were hit, as well as facilities in the southwestern Stavropol region, Zelensky said. A number of areas in the Kyiv region were hit overnight. The Ukrainian military said air defences in the capital had shot down 18 out of 41 missiles. The systems also intercepted 108 drones. Kharkiv regional head Oleh Syniehubov said a postal terminal in the city suburbs had been attacked, with four men aged between 24 and 62 killed. Several of the injured were in a serious condition. In a Telegram message, Zelensky said in the past week Russia had \"used about 1,450 strike drones, more than 1,640 guided bombs and 99 missiles of various types against Ukraine\". Zelensky also posted on Telegram about Ukrainian strikes. \"SBU [security service] units hit three oil depots in the Stavropol region simultaneously, while units of our Armed Forces struck another fuel-sector facility in the same region,\" he said. \"Precise hits on three Russian 'shadow fleet' tankers were recorded in the Black Sea. I thank every one of our units that is helping to spread the realisation within Russia that this war must be brought to an end.\" The Caspian Pipeline Consortium, which carries Kazakhstan's Caspian oil to Russia's Black Sea port of Novorossiysk, said its terminal had been hit. It said two tankers were damaged, prompting oil loading operations to be suspended. There were no injuries or oil spills.",
+          "title": "Russia launches major ballistic-missile attack on Ukrainian cities",
+          "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+          "body_text": "Russia has carried out a wave of ballistic missile and drone strikes on Ukraine, killing at least eight people and injuring dozens, officials say. Four people were killed in the north-eastern city of Kharkiv, and an elderly woman died in the capital Kyiv. There were two more fatalities in Zaporizhzhia in the south and one in Sumy in the north-east. Ukrainian President Volodymyr Zelensky said the raid on Kyiv was \"one of the most massive ballistic attacks\" since Russia launched a full-scale invasion in 2022. Ukraine said it had hit three Russian oil tankers in the Black Sea, and three oil depots in the southern Stavropol region. Zelensky said they were targets that \"finance Russian aggression\". A number of areas in the Kyiv region were hit overnight. The Ukrainian military said air defences in the capital had shot down 18 out of 41 missiles. The systems also intercepted 108 drones. Kharkiv regional head Oleh Syniehubov said a postal terminal in the city suburbs had been attacked, with four men aged between 24 and 62 killed. Several of the injured were in a serious condition. In a Telegram message, Zelensky said in the past week Russia had \"used about 1,450 strike drones, more than 1,640 guided bombs and 99 missiles of various types against Ukraine\". Zelensky also posted on Telegram about Ukrainian strikes. \"SBU [security service] units hit three oil depots in the Stavropol region simultaneously, while units of our Armed Forces struck another fuel-sector facility in the same region,\" he said. \"Precise hits on three Russian 'shadow fleet' tankers were recorded in the Black Sea. I thank every one of our units that is helping to spread the realisation within Russia that this war must be brought to an end.\" The Caspian Pipeline Consortium, which carries Kazakhstan's Caspian oil to Russia's Black Sea port of Novorossiysk, said its terminal had been hit. It said two tankers were damaged, prompting oil loading operations to be suspended. There were no injuries or oil spills.",
           "url": "https://www.bbc.com/news/articles/c2el7xpnzrpo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
           "published_at": "2026-07-19T08:37:48Z",
@@ -2170,7 +2098,7 @@
           "source_kind": "mixed",
           "title": "US and Iran trade fire after two US soldiers killed in Jordan",
           "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
-          "body_text": "The US and Iran have exchanged strikes for an eighth consecutive day after an Iranian attack on a base in Jordan killed two US soldiers and left another missing. Iranian media reported that an under-construction nuclear power plant in the south-western city of Darkhoveyn had been struck overnight, as well as Qeshm Island. In Kuwait, an electricity and water plant was hit for a second time, local officials said. Later on Sunday, three Iranian missiles were shot down by Jordan's military and a fourth fell in a remote area, Jordan's state news agency reported. It followed a US warning that the Jordanian port of Aqaba could be targeted. The US and Iran have ramped up attacks against each other in recent days, with both sides accused of striking critical infrastructure. Washington has also reimposed its blockade of Iranian ports and Tehran has declared the Strait of Hormuz - a key oil shipping route - closed, with their preliminary ceasefire collapsing less than a month after it began. Israel's military said that \"several interceptors were launched toward missile debris in order to prevent debris impact within Israeli territory\" after projectiles were launched towards Jordan on Sunday. It said \"interceptor fragments\" were subsequently identified near the southern city of Eilat, near the countries' shared border, with no damage or injuries reported. Meanwhile, Iran's Islamic Revolutionary Guard Corps (IRGC) said two vessels had ignored Iranian warnings not to transit the Strait of Hormuz and were consequently involved in \"an accident\". It warned that all vessels \"influenced\" by the US and which used \"unsafe routes\" would \"certainly face accidents\". The US military said its eighth successive night of attacks on Iran had been \"designed to further degrade Iran's ability to threaten commercial shipping in the Strait of Hormuz\". It also said it sought to \"swiftly punish Islamic Revolutionary Guard Corps forces who launched attacks against American service members in Jordan\" on Friday.",
+          "body_text": "The US and Iran have exchanged strikes for an eighth consecutive day after an Iranian attack on a base in Jordan killed two US soldiers and left another missing. Iranian media reported that an under-construction nuclear power plant in the south-western city of Darkhoveyn had been struck overnight, as well as Qeshm Island. In Kuwait, an electricity and water plant was hit for a second time, local officials said. Later on Sunday, three Iranian missiles were shot down by Jordan's military and a fourth fell in a remote area, Jordan's state news agency reported. It followed a US warning that the Jordanian port of Aqaba could be targeted. Jordan summoned Iran's charges d'affaires in Amman to demand an immediate end to what the foreign ministry called \"unjustified and blatant Iranian attacks\", insisting that its security was \"a red line that cannot be crossed\". The US and Iran have ramped up attacks against each other in recent days, with both sides accused of striking critical infrastructure. Washington has also reimposed its blockade of Iranian ports and Tehran has declared the Strait of Hormuz closed and targeted US allies in the Gulf, with their preliminary ceasefire collapsing less than a month after it began. Israel's military said that \"several interceptors were launched toward missile debris in order to prevent debris impact within Israeli territory\" after projectiles were launched towards Jordan on Sunday. It said \"interceptor fragments\" were subsequently identified near the southern city of Eilat, near the countries' shared border, with no damage or injuries reported. Meanwhile, Iran's Islamic Revolutionary Guard Corps (IRGC) said two vessels had ignored Iranian warnings not to transit the Strait of Hormuz and were consequently involved in \"an accident\". It warned that all vessels \"influenced\" by the US and which used \"unsafe routes\" would \"certainly face accidents\". The UN's nuclear watchdog called for restraint after Iranian authorities said a nuclear plant under construction had been hit, while noting that the site was \"in the very early stages\" and contained no nuclear material during its last visit.",
           "url": "https://www.bbc.com/news/articles/cgk417jp83po",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
           "published_at": "2026-07-19T05:10:57Z",
@@ -2710,12 +2638,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora es el final del Mundial 2026 HOY, domingo 19 de julio: canal TV partido de Argentina vs. España?",
+          "title": "¿A qué hora va a comenzar HOY la final del Mundial 2026: dónde ver ONLINE Argentina-España EN VIVO?",
           "summary": "Revisa los horarios de la final del Mundial 2026 entre Argentina vs. España. También conoce los canales de TV y dónde ver ONLINE el partido.",
           "body_text": "La final del Mundial 2026 se jugará este domingo 19 de julio del 2026 en el Estadio Nueva York Nueva Jersey. Argentina y España medirán fuerzas en la gran final de la Copa del Mundo. La Albiceleste, actual campeona buscará repetir el plato de la mano de Lionel Messi, mientras que la selección española, de la mano de su joya, Lamine Yamal intentará dar el golpe en la mesa y lograr su segundo título mundial. ¿A qué hora es la final del Mundial 2026? Revisa los horarios de la final entre Argentina vs. España por la Copa Mundial FIFA 2026. La final del Mundial 2026 empieza a las 2:00 PM de Perú, 4:00 PM de Argentina y 21:00 horas de España. A continuación, te dejamos todos los horarios de la final de la Copa del Mundo. La final del Mundial 2026 será transmitida a través de América TV, DirecTV, Paramount+ y Disney+ Premium en Perú. Mientras que para España lo televisa DAZN Mundial, RTVE, La 1, Movistar+, fuboTV, TDP Play y La 2 Cat. Por otro lado, en Argentina, la transmisión va a través de Telefe, TV Pública, TyC Sports, DirecTV, Paramount+ y Disney+ Premium. En México, la final será transmitida a través de TUDN, Canal 5, TV Azteca 7 y ViX. En Estados Unidos la podrás ver por FOX Network, fuboTV, Telemundo, Tubi, FOX One, SiriusXM FC y Futbol de Primera Radio.",
           "url": "https://elcomercio.pe/deporte-total/futbol-mundial/a-que-hora-es-la-final-del-mundial-2026-canales-tv-para-ver-argentina-vs-espana-en-directo-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/URKENXAXQ5E2ZJ2EXGXW7AXSHQ.jpg?auth=932b731d8854f7bec505c2f205f80f306920d56bf56484bba259a30fb33a8de5&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-19T17:07:39Z",
+          "published_at": "2026-07-19T17:53:05Z",
           "embed_url": "https://cdn.jwplayer.com/videos/qPXg15dS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -2987,12 +2915,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "¿A qué hora es el final del Mundial 2026 HOY, domingo 19 de julio: canal TV partido de Argentina vs. España?",
+          "title": "¿A qué hora va a comenzar HOY la final del Mundial 2026: dónde ver ONLINE Argentina-España EN VIVO?",
           "summary": "Revisa los horarios de la final del Mundial 2026 entre Argentina vs. España. También conoce los canales de TV y dónde ver ONLINE el partido.",
           "body_text": "La final del Mundial 2026 se jugará este domingo 19 de julio del 2026 en el Estadio Nueva York Nueva Jersey. Argentina y España medirán fuerzas en la gran final de la Copa del Mundo. La Albiceleste, actual campeona buscará repetir el plato de la mano de Lionel Messi, mientras que la selección española, de la mano de su joya, Lamine Yamal intentará dar el golpe en la mesa y lograr su segundo título mundial. ¿A qué hora es la final del Mundial 2026? Revisa los horarios de la final entre Argentina vs. España por la Copa Mundial FIFA 2026. La final del Mundial 2026 empieza a las 2:00 PM de Perú, 4:00 PM de Argentina y 21:00 horas de España. A continuación, te dejamos todos los horarios de la final de la Copa del Mundo. La final del Mundial 2026 será transmitida a través de América TV, DirecTV, Paramount+ y Disney+ Premium en Perú. Mientras que para España lo televisa DAZN Mundial, RTVE, La 1, Movistar+, fuboTV, TDP Play y La 2 Cat. Por otro lado, en Argentina, la transmisión va a través de Telefe, TV Pública, TyC Sports, DirecTV, Paramount+ y Disney+ Premium. En México, la final será transmitida a través de TUDN, Canal 5, TV Azteca 7 y ViX. En Estados Unidos la podrás ver por FOX Network, fuboTV, Telemundo, Tubi, FOX One, SiriusXM FC y Futbol de Primera Radio.",
           "url": "https://elcomercio.pe/deporte-total/futbol-mundial/a-que-hora-es-la-final-del-mundial-2026-canales-tv-para-ver-argentina-vs-espana-en-directo-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/URKENXAXQ5E2ZJ2EXGXW7AXSHQ.jpg?auth=932b731d8854f7bec505c2f205f80f306920d56bf56484bba259a30fb33a8de5&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-19T17:07:39Z",
+          "published_at": "2026-07-19T17:53:05Z",
           "embed_url": "https://cdn.jwplayer.com/videos/qPXg15dS-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3821,7 +3749,7 @@
       "source_kind": "story",
       "live_section": false,
       "status": "ok",
-      "article_count": 9,
+      "article_count": 8,
       "priority_split": 0,
       "articles": [
         {
@@ -3921,30 +3849,6 @@
           "sort_order": 3
         },
         {
-          "id": "db292a2d7074",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit\\\"\\u003ein",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit\\\"\\u003ein",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit\\\"\\u003ein",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
           "id": "e6a550436c66",
           "source_id": "theverge-latest",
           "source_name": "The Verge",
@@ -3966,7 +3870,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 4
         },
         {
           "id": "a72fc1641ef8",
@@ -3990,7 +3894,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 5
         },
         {
           "id": "0cbd9952a228",
@@ -4014,7 +3918,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 6
         },
         {
           "id": "31e4ce310649",
@@ -4038,7 +3942,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 7
         }
       ]
     },
@@ -4157,7 +4061,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Reorna är här – tips på butiker med rabatter:",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Streama FIFA Fotbolls-VM och Allsvenskan med TV4 Play Sport Fotboll. Halva priset hela sommaren – 224,50 kr/mån i 3 månader.",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://www.aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4215,6 +4119,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "fb48a01512ca",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Militärexperten Johan Huovinen: Rysslands jätteattack är ett försök att få USA:s uppmärksamhet",
+          "summary": "Militärexperten Johan Huovinen: Rysslands jätteattack är ett försök att få USA:s uppmärksamhet",
+          "body_text": "Ukraina slår tillbaka mot ryska oljedepåer efter Rysslands massiva robotattack tidigare på söndagen. Det var det största ryska anfallet med ballistiska robotar sedan kriget bröt ut. – Robotattacken kan vara ett ryskt försök att få USA:s uppmärksamhet och därmed kanske ett slut på kriget, säger militärexperten Johan Huovinen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ryska robotar regnade över Ukrainas huvudstad Kiev natten till söndagen. Det var den största attacken med ballistiska robotar – som till skillnad från kryssningsrobotar bara styrs i avfyrningsfasen och sedan följer en kastbana – sedan det fullskaliga kriget bröt ut för mer än fyra år sedan. Fem människor dödades och 35 skadades i Kiev, Charkiv och andra ukrainska städer. Ukraina svarade snabbt med attacker mot ryska oljedepåer och tankbåtar. Största ryska attacken med ballistiska robotar sedan kriget började. Ukraina svarar med attacker mot ryska oljedepåer och tankbåtar. ”Ryska attacken ett försök att få USA:s uppmärksamhet för att kunna avsluta kriget”, säger militärexperten Johan Huovinen. – Ryssland avfyrade 25 ballistiska robotar av typen Iskander av totalt 41 robotar. Den massiva attacken kan vara ett sätt att få USA att uppmärksamma Ukrainakriget. USA har lovat att jobba för en förhandlingslösning, men deras fokus har varit på Iran den senaste tiden, säger överstelöjtnant Johan Huovinen, lärare i militär strategi på Försvarshögskolan. – Ryssland vill ha USA:s och västvärldens uppmärksamhet för att få i gång förhandlingar och avsluta kriget. Det finns omfattande diskussioner i Moskva, också i toppskiktet, om att få ett slut på kriget och att skynda på utvecklingen, säger han. Men det finns ingen entydig förklaring till att Ryssland genomför en stor attack just nu, enligt Huovinen. Han säger att det också kan vara ett sätt att testa den ukrainska försvarsförmågan efter uppgifter om att landet skulle ha ont om luftvärn.",
+          "url": "https://www.expressen.se/nyheter/varlden/massiv-attack-for-att-fa-usas-uppmarksamhet/",
+          "image_url": "https://static.bonniernews.se/images/b8/19/b819f82f5f1e44c6b4df42f791ef4374/16x9/original.png",
+          "published_at": "2026-07-19T17:50:41Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/massiv-attack-for-att-fa-usas-uppmarksamhet/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "c4df416af842",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4236,7 +4164,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "06c44239e1ce",
@@ -4260,7 +4188,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "45e4d1d35b9f",
@@ -4284,7 +4212,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "f1d566aaf365",
@@ -4308,7 +4236,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "6367ded9b334",
@@ -4332,7 +4260,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "5e461144f8be",
@@ -4356,7 +4284,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "6f36aef24ce5",
@@ -4380,7 +4308,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "ce586d05041c",
@@ -4390,12 +4318,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "SMHI: Kraftiga regnskurar och risk för översvämningar",
-          "summary": "SMHI har utfärdat gula varningar för skyfallsliknande regn i delar av södra Sverige under söndagen.",
-          "body_text": "Under söndagen har SMHI utfärdat gula varningar för skyfallsliknande regn i delar av södra Sverige. – Det kan vara av och till, det kan dyka upp de här kraftigare skurarna ända in på måndagen, säger Sandra Fyrstedt, meteorolog på SMHI. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Under lördagen blev det riktigt besvärligt med översvämningar, bland annat på en camping i Lidköping. Och det ostadiga vädret dröjer sig kvar, framför allt i södra Sverige under söndagen. – Från eftermiddagen och sen vidare också in under måndagen så kan det bli kraftiga skurar över ett område över södra Götaland, säger Sandra Fyrstedt, meteorolog på SMHI . SMHI har utfärdat gula vädervarningar för skyfallsliknande regn i delar av södra Sverige under dagen och fram tills på måndag. I varningsområdena väntas kraftiga regnskurar med en nederbörd på uppemot 40 millimeter. Också åska kan inträffa. – Man får ju tänka på att det då finns risk för översvämningar i samband med de här kraftiga skurarna. Så vet man med sig att man till exempel har en källare som är känslig för kraftigt regn, så kan man ju se över så att vattnet kan ledas bort, säger Sandra Fyrstedt. Hon uppmanar också till eftertänksamhet i trafiken. I norra Sverige ser det ut att vara lugnare väder. – För de som hoppas på sol så kommer man få se den över Norrland på många håll i dag, för där blir det soligt eller växlande molnighet fram på dagen, säger Sandra Fyrstedt. Men så värst värmande kommer inte solen vara. – Det allmänt är svalare väder i hela landet nu. Vi kommer väl som mest upp till 20 grader kanske någonstans i landet, men i allmänhet mellan 14 och 19 grader ligger det på i dag, säger Sandra Fyrstedt.",
+          "title": "Väder I dag 10.30 SMHI: Kraftiga regnskurar och risk för översvämningar",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/vader/smhi-kraftiga-regnskurar-och-risk-for-oversvamningar/",
-          "image_url": "https://static.bonniernews.se/images/71/e9/71e99658325047a2ab4facbd43aa9662/16x9/original.png",
-          "published_at": "2026-07-19T07:50:41Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/vader/smhi-kraftiga-regnskurar-och-risk-for-oversvamningar/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4403,8 +4331,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "9b7417d8828b",
@@ -4414,12 +4342,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Karin Thunberg är död",
-          "summary": "Journalisten Karin Thunberg, som i 30 år arbetade på Svenska Dagbladet, är död. Det skriver SvD.",
-          "body_text": "Journalisten Karin Thunberg, som i 30 år arbetade på Svenska Dagbladet, är död. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Karin Thunberg var anställd på Svenska Dagbladet i 30 år. Från 2012 och fram till nyligen har hon frilansat för samma tidning. Hon har genom sin karriär tilldelats flera priser, bland annat har hon utsetts till Årets stilist. Thunberg var även verksam som författare till både böcker och pjäser. Karin Thunberg gick bort under fredagskvällen efter en kort tids sjukdom, berättar hennes söner för SvD. Hon blev 76 år. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "title": "Sverige I dag 09.13 Journalisten Karin Thunberg är död",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/journalisten-karin-thunberg-ar-dod/",
-          "image_url": "https://static.bonniernews.se/images/1b/0b/1b0bc249fd404932a0e21ba4cc8f8a2c/16x9/original.jpg",
-          "published_at": "2026-07-19T07:13:24Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/journalisten-karin-thunberg-ar-dod/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4427,31 +4355,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "bbb968c35d71",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Massiv robotattack mot Kiev: ”Terror” • Ukrainas svar",
-          "summary": "Ryssland har genomfört den största attacken med ballistiska robotar sedan kriget i Ukraina började, skriver Ukrainas utrikesminister Andrij Sybiha på X. Minst en person har dödats och flera har skadats.",
-          "body_text": "Ryssland har genomfört den största attacken med ballistiska robotar sedan kriget i Ukraina började, skriver Ukrainas utrikesminister Andrij Sybiha på X. Minst en person har dödats och flera har skadats. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Under natten har Ryssland genomfört ett stort angrepp på Ukraina , främst mot huvudstaden Kiev. ”Ryssland avfyrade det största antalet ballistiska robotar sedan krigets början – omkring fyra dussin – i en brutal terroristattack mot den ukrainska huvudstaden, vilket ledde till att människor dödades och skadades”, skriver utrikesminister Andrij Sybiha på plattformen X. Han uppmanar till ”lämpliga och kraftfulla” svar på attacken, och menar att det behövs läggas ”förödande” press på Ryssland. Ukrainas president Volodymyr Zelenskyj beskriver nattens attacker mot Kiev som ”en av de största attackerna med ballistiska robotar”. Även han ber om omvärldens stöd, och betonar vikten av luftvärnssystem som kan skjuta ner robotar. ”Jag är tacksam för alla som tar våra överenskommelser på allvar och upprätthåller den antiballistiska försvarsförmågan” skriver han på X. Explosioner och flyglarm började höras i Kiev vid 01.30-tiden, skriver Kyiv Independent. Den mest intensiva attackfasen pågick i en dryg timme. Minst en person har dödats i attackerna, och minst 16 har skadats, enligt Zelenskyj. Flera bostadshus, bilar och kontorsbyggnader ska ha träffats, enligt Ukrainas statliga räddningstjänst. Sammanlagt träffade omkring 40 ryska robotar den ukrainska huvudstaden, rapporterar The Guardian. Ryssland ska även ha avfyrat 120 drönare mot Ukraina under natten. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/ukraina-storsta-robotangreppet-sedan-kriget-borjade/",
-          "image_url": "https://static.bonniernews.se/images/4e/b9/4eb93e6fa9a74c5e9014874930c4e3a1/16x9/original.png",
-          "published_at": "2026-07-19T06:32:12Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/ukraina-storsta-robotangreppet-sedan-kriget-borjade/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4467,35 +4371,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Ett jordskalv har krävt fem dödsoffer i centrala Peru natten till söndag, enligt landets civilförsvar. Jordskalvet hade en magnitud av 5,5 och inträffade i Anderna cirka 20 mil öster om huvudstaden Lima, enligt den europeiska jordbävningsövervakaren EMSC. Fem personer har omkommit, rapporterar AFP. Ytterligare tiotals har skadats i skalvet nära staden Chupaca i regionen Junín. Skalvet orsakade också skador på sjukhus och religiösa monument, enligt Euronews. Peru ligger i den så kallade Eldringen, ett område med intensiv seismisk och vulkanisk aktivitet runt Stilla havet. Minst en ICE-agent måste bära kroppskamera när de stoppar fordon, rapporterar Reuters. Anledningen är flertalet uppmärksammade dödsskjutningar i USA. Bara i juli sköts både Joan Sebastian Guerrero och Lorenzo Salgado Araujo ihjäl. Sedan januari 2025 har minst sju personer skjutits till döds i federala migrationsinsatser. Den norska kronprinsen Haakon ger ett nytt besked om makan Mette-Marits hälsa. – Det går lyckligtvis bättre. Det är början på en lång väg mot att må bättre, säger kronprinsen till reportrar efter att ha hållit pressträff om branden i Drammen, enligt DR . Förra veckan skrevs Mette-Marit ut från sjukhus. Där var hon efter en lungtransplantation förra månaden, som var en del av hennes behandling mot den kroniska sjukdomen lungfibros. En ung kvinna omkom på söndagen i en klättringsolycka i västra Norge, rapporterar norska medier. Kvinnan, som var i 20-årsåldern och från USA, klättrade tillsammans med en jämnårig norska som larmade räddningstjänsten. Båda kvinnorna beskrivs som erfarna klättrare.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
