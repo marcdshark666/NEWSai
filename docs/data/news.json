@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T23:52:44Z",
+  "generated_at": "2026-07-22T02:04:47Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "8822908066f5",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "AI-verktyg hackade konkurrent",
+          "summary": "Nyheter från TV4: AI-verktyg hackade konkurrent",
+          "body_text": "Open AI är det artificiella intelligensföretaget som gör Chat GPT. Arkivbild. Open AI:s eget AI-system hackade ett annat företag på eget bevåg, säger företagets vd Sam Altman. Det var i förra veckan som startup-företaget Hugging Face, som också sysslar med AI, lade märke till att deras system hackats. ”Vi misstänkte att attacken kom från en aktör i framkant, med tanke på hur sofistikerad den var”, säger Hugging face grundare och vd, Clément Delangue i ett uttalande. Delangue säger även att de har en dialog med Open AI. ”Vi är övertygade om att det inte fanns någon illvilja från deras sida”. Enligt Open AI var det under en utvärdering av två AI-modeller som händelsen skedde. ”Den viktigaste lärdomen av denna händelse är att säkerheten och skyddet kring modellerna måste hålla jämna steg med den snabba tekniska utvecklingen”, skriver företaget i ett uttalande.",
+          "url": "https://www.tv4.se/artikel/tt-260722-openaihack1-629c4d29/ai-verktyg-hackade-konkurrent",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlaVuUAvlfjVw/ddef230e5b4b860d67d338cec7595a39/Open_AI_ar_det_artificiella_intelligensforetaget_som_gor_Chat_GPT._Arkivbild.",
+          "published_at": "2026-07-22T00:31:20Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260722-openaihack1-629c4d29/ai-verktyg-hackade-konkurrent",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "54912e288cc8",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "578f8dc15128",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "983b48ce60e0",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "97c5f3a29554",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdl4Sa8K8w2d54/ac2b377b6217cffd281c14e59a70078d/Novo_Nordisk_stiger_tydligt_efter_gardagens_nedgang_pa_Kopenhamnsborsen.__",
           "published_at": "2026-07-21T12:11:04Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260721-novostamning1-227f2459/novo-nordisk-stammer-konkurrent",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "187d14301d3b",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Oljepriset över 90 dollar per fat igen",
-          "summary": "Nyheter från TV4: Oljepriset över 90 dollar per fat igen",
-          "body_text": "En oljetanker som ligger för ankar i Hormuzsundet. Oljepriset stiger 1,4 procent till 90,40 dollar per fat brentolja. Oron för störningar av produktion och leveranskedjor runt Persiska viken – efter tio dygns nyupptagna strider mellan USA och Iran – ligger bakom utvecklingen. Ett medlingsförsök, som fått en iransk minister att bege sig till Pakistan, skapade hopp och sänkte oljepriset något tidigare i veckan. Men hoten från den Iranstödda Huthirörelsen mot fartyg som lastar olja och gas i Saudiarabien oroar många. Priset på fossil gas pressas också uppåt av krigsutvecklingen, upp 1,6 procent till 59,71 euro per megawattimme på råvarubörsen i Amsterdam. Ett högre oljepris skapar ett tryck uppåt på priserna på diesel och bensin i Sverige, medan gaspriserna påverkar elpriserna för svenska företag och hushåll.",
-          "url": "https://www.tv4.se/artikel/tt-260721-oljepris1-de10fbf1/oljepriset-over-90-dollar-per-fat-igen",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlAcRVAr_Hu5k/ba91e6b8930aea42a7716b923015abea/En_oljetanker_som_ligger_for_ankar_i_Hormuzsundet.",
-          "published_at": "2026-07-21T11:47:06Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260721-oljepris1-de10fbf1/oljepriset-over-90-dollar-per-fat-igen",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -324,10 +324,10 @@
           "source_kind": "video",
           "title": "Rapport – Tor 16 jul 19:30",
           "summary": "Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska",
-          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Publicerades: Mån 20 jul 19:30 Mån 20 jul • 25 min Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/eb33nDx/rapport/tor-16-jul-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54533186/1784222708?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-22T23:59:00Z",
+          "published_at": "2026-07-23T23:59:00Z",
           "embed_url": "https://www.svtplay.se/video/eb33nDx/rapport/tor-16-jul-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -339,20 +339,20 @@
           "sort_order": 0
         },
         {
-          "id": "e4e7e5fde73c",
+          "id": "8511142df390",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Idag 09:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 5 min Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 5 min Publicerades: Igår 07:30 Igår 07:30 • 5 min Publicerades: Igår 07:02 Igår 07:02 • 3 min 8 sek Publicerades: Mån 20 jul 22:55 Mån 20 jul • 4 min 41 sek Publicerades: Mån 20 jul 09:30 Mån 20 jul • 5 min Publicerades: Mån 20 jul 09:00 Mån 20 jul • 4 min 54 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/eQrABAQ/rapport/idag-09-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54557156/1784619866?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T09:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/eQrABAQ/rapport/idag-09-30?video=visa",
+          "title": "Rapport – Mån 20 jul 19:30",
+          "summary": "Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen",
+          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/j1qqABd/rapport/man-20-jul-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54552707/1784568387?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-22T07:02:00Z",
+          "embed_url": "https://www.svtplay.se/video/j1qqABd/rapport/man-20-jul-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -361,102 +361,6 @@
           ],
           "is_live": false,
           "sort_order": 1
-        },
-        {
-          "id": "ef4b885eb888",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 09:00",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 5 min Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 5 min Publicerades: Igår 07:30 Igår 07:30 • 5 min Publicerades: Igår 07:02 Igår 07:02 • 3 min 8 sek Publicerades: Mån 20 jul 22:55 Mån 20 jul • 4 min 41 sek Publicerades: Mån 20 jul 09:30 Mån 20 jul • 5 min Publicerades: Mån 20 jul 09:00 Mån 20 jul • 4 min 54 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/j4ddRLZ/rapport/idag-09-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54556520/1784618066?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T09:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/j4ddRLZ/rapport/idag-09-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "c85c652f958b",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 08:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 5 min Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 5 min Publicerades: Igår 07:30 Igår 07:30 • 5 min Publicerades: Igår 07:02 Igår 07:02 • 3 min 8 sek Publicerades: Mån 20 jul 22:55 Mån 20 jul • 4 min 41 sek Publicerades: Mån 20 jul 09:30 Mån 20 jul • 5 min Publicerades: Mån 20 jul 09:00 Mån 20 jul • 4 min 54 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/8Dvvpx5/rapport/idag-08-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54555980/1784616256?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T08:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/8Dvvpx5/rapport/idag-08-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "55422a4d09c5",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 08:00",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 5 min Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 5 min Publicerades: Igår 07:30 Igår 07:30 • 5 min Publicerades: Igår 07:02 Igår 07:02 • 3 min 8 sek Publicerades: Mån 20 jul 22:55 Mån 20 jul • 4 min 41 sek Publicerades: Mån 20 jul 09:30 Mån 20 jul • 5 min Publicerades: Mån 20 jul 09:00 Mån 20 jul • 4 min 54 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/KPBB4MB/rapport/idag-08-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54555428/1784614451?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T08:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/KPBB4MB/rapport/idag-08-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "d0cb20fe3b3a",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 07:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 5 min Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 5 min Publicerades: Igår 07:30 Igår 07:30 • 5 min Publicerades: Igår 07:02 Igår 07:02 • 3 min 8 sek Publicerades: Mån 20 jul 22:55 Mån 20 jul • 4 min 41 sek Publicerades: Mån 20 jul 09:30 Mån 20 jul • 5 min Publicerades: Mån 20 jul 09:00 Mån 20 jul • 4 min 54 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/e6ddamV/rapport/idag-07-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54554864/1784612636?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T07:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/e6ddamV/rapport/idag-07-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 5
         },
         {
           "id": "82fb41dbe6d1",
@@ -468,10 +372,10 @@
           "source_kind": "video",
           "title": "Rapport – Sön 19 jul 19:30",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Publicerades: Mån 20 jul 19:30 Mån 20 jul • 25 min Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/eJyyY5n/rapport/son-19-jul-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54546149/1784484246?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T07:02:00Z",
+          "published_at": "2026-07-22T07:02:00Z",
           "embed_url": "https://www.svtplay.se/video/eJyyY5n/rapport/son-19-jul-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -480,7 +384,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 2
         },
         {
           "id": "b9987bfe5657",
@@ -492,10 +396,10 @@
           "source_kind": "video",
           "title": "Rapport – Lör 18 jul 19:30",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Publicerades: Mån 20 jul 19:30 Mån 20 jul • 25 min Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KXvv2Bq/rapport/lor-18-jul-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54543626/1784395470?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T07:02:00Z",
+          "published_at": "2026-07-22T07:02:00Z",
           "embed_url": "https://www.svtplay.se/video/KXvv2Bq/rapport/lor-18-jul-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -504,7 +408,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 3
         },
         {
           "id": "f6c5f57071c0",
@@ -516,10 +420,10 @@
           "source_kind": "video",
           "title": "Rapport – Fre 17 jul 19:30",
           "summary": "Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg",
-          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Publicerades: Mån 20 jul 19:30 Mån 20 jul • 25 min Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8orrQEQ/rapport/fre-17-jul-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54541067/1784309191?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T07:02:00Z",
+          "published_at": "2026-07-22T07:02:00Z",
           "embed_url": "https://www.svtplay.se/video/8orrQEQ/rapport/fre-17-jul-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -528,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 4
         },
         {
           "id": "89b2bd17ed19",
@@ -540,10 +444,10 @@
           "source_kind": "video",
           "title": "Rapport – Ons 15 jul 19:30",
           "summary": "Regeringens säkerhetsrådgivare: Anteckningar glömdes på möte • Våldsrekrytering: Ny lag ska få bort annonser • Trollhättan: Flamingo ger svalka",
-          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Publicerades: Mån 20 jul 19:30 Mån 20 jul • 25 min Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/eXvvLbo/rapport/ons-15-jul-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54525299/1784136298?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T07:02:00Z",
+          "published_at": "2026-07-22T07:02:00Z",
           "embed_url": "https://www.svtplay.se/video/eXvvLbo/rapport/ons-15-jul-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -552,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 5
         },
         {
           "id": "d53da8da590c",
@@ -564,10 +468,10 @@
           "source_kind": "video",
           "title": "Rapport – Igår 22:35",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 09:30 Igår 09:30 • 5 min Publicerades: Igår 09:00 Igår 09:00 • 5 min Publicerades: Igår 08:30 Igår 08:30 • 5 min Publicerades: Igår 08:00 Igår 08:00 • 5 min Publicerades: Igår 07:30 Igår 07:30 • 5 min Publicerades: Igår 07:02 Igår 07:02 • 3 min 8 sek Publicerades: Mån 20 jul 22:55 Mån 20 jul • 4 min 41 sek Publicerades: Mån 20 jul 09:30 Mån 20 jul • 5 min Publicerades: Mån 20 jul 09:00 Mån 20 jul • 4 min 54 sek Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Mån 20 jul 22:55 4 min 41 sek Publicerades: Mån 20 jul 09:00 4 min 54 sek Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8orrQ7B/rapport/igar-22-35?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54560636/1784667131?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-20T22:35:00Z",
+          "published_at": "2026-07-21T22:35:00Z",
           "embed_url": "https://www.svtplay.se/video/8orrQ7B/rapport/igar-22-35?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -576,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 6
         },
         {
           "id": "b98e02adb877",
@@ -588,11 +492,107 @@
           "source_kind": "video",
           "title": "Rapport – Igår 19:30",
           "summary": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter",
-          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Publicerades: Mån 20 jul 19:30 Mån 20 jul • 25 min Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Publiceras: Idag 07:02 Idag 07:02 • 3 min Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Finland: Misstänkt korruption • Beirut: Festande trots kriget • Kliniska tester: Bantningsmedel för katter Mer om programmet Storbritannien: Burnham ny premiärminister • Spanien: Hjältar hyllas på hemmaplan • Svamp: Fler samtal till Giftinformationscentralen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Utsläpp: Förslag om lättade regler • Tjeckien: Offensiv satsning på kärnkraft • Väder: Omslag på väg Mer om programmet Ny vindkraft: Ja från regeringen • Kriget USA-Iran: Även grannländerna drabbas • Värme: Viktigt med vätska Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jkAA4aG/rapport/igar-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54559799/1784654713?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-20T19:30:00Z",
+          "published_at": "2026-07-21T19:30:00Z",
           "embed_url": "https://www.svtplay.se/video/jkAA4aG/rapport/igar-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "4f9f6ac7a602",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Mån 20 jul 22:55 4 min 41 sek Publicerades: Mån 20 jul 09:00 4 min 54 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/eQrABAQ/rapport/igar-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54557156/1784619866?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-21T07:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/eQrABAQ/rapport/igar-09-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "7594ec626055",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 09:00",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Mån 20 jul 22:55 4 min 41 sek Publicerades: Mån 20 jul 09:00 4 min 54 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/j4ddRLZ/rapport/igar-09-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54556520/1784618066?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-21T07:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/j4ddRLZ/rapport/igar-09-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 9
+        },
+        {
+          "id": "707298087791",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 08:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Mån 20 jul 22:55 4 min 41 sek Publicerades: Mån 20 jul 09:00 4 min 54 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/8Dvvpx5/rapport/igar-08-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54555980/1784616256?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-21T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/8Dvvpx5/rapport/igar-08-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        },
+        {
+          "id": "ffcccf94fe57",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 08:00",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Mån 20 jul 22:55 4 min 41 sek Publicerades: Mån 20 jul 09:00 4 min 54 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/KPBB4MB/rapport/igar-08-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54555428/1784614451?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-21T06:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/KPBB4MB/rapport/igar-08-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -629,10 +629,10 @@
           "source_kind": "video",
           "title": "Aktuellt – Tor 16 jul 21:00",
           "summary": "Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt",
-          "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Publicerades: Mån 20 jul 21:00 Mån 20 jul • 24 min Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/jp5EPkq/aktuellt/tor-16-jul-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54533759/1784228070?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-22T23:59:00Z",
+          "published_at": "2026-07-23T23:59:00Z",
           "embed_url": "https://www.svtplay.se/video/jp5EPkq/aktuellt/tor-16-jul-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -644,20 +644,20 @@
           "sort_order": 0
         },
         {
-          "id": "29303276e0fd",
+          "id": "73d28ac95e75",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
           "provider": "SVT Play",
           "category": "Fordjupning",
           "surface": "video",
           "source_kind": "video",
-          "title": "Aktuellt – Imorgon 21:00",
+          "title": "Aktuellt – Ikväll 21:00",
           "summary": "SVT:s fördjupande nyhetsprogram.",
-          "body_text": "Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
-          "url": "https://www.svtplay.se/video/ewqMLVA/aktuellt/imorgon-21-00",
+          "body_text": "SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "url": "https://www.svtplay.se/video/ewqMLVA/aktuellt/ikvall-21-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/35812489/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-22T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/ewqMLVA/aktuellt/imorgon-21-00",
+          "embed_url": "https://www.svtplay.se/video/ewqMLVA/aktuellt/ikvall-21-00",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -668,20 +668,20 @@
           "sort_order": 1
         },
         {
-          "id": "b033e2ef4fdc",
+          "id": "dd89474846a6",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
           "provider": "SVT Play",
           "category": "Fordjupning",
           "surface": "video",
           "source_kind": "video",
-          "title": "Aktuellt – Ikväll 21:00",
+          "title": "Aktuellt – Igår 21:00",
           "summary": "Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja",
-          "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Publicerades: Mån 20 jul 21:00 Mån 20 jul • 24 min Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
-          "url": "https://www.svtplay.se/video/eQrwaG3/aktuellt/ikvall-21-00?video=visa",
+          "body_text": "Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "url": "https://www.svtplay.se/video/eQrwaG3/aktuellt/igar-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54560474/1784660067?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-20T21:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/eQrwaG3/aktuellt/ikvall-21-00?video=visa",
+          "published_at": "2026-07-21T21:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/eQrwaG3/aktuellt/igar-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -692,20 +692,20 @@
           "sort_order": 2
         },
         {
-          "id": "828a9701643b",
+          "id": "f62d5f60123c",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
           "provider": "SVT Play",
           "category": "Fordjupning",
           "surface": "video",
           "source_kind": "video",
-          "title": "Aktuellt – Igår 21:00",
+          "title": "Aktuellt – Mån 20 jul 21:00",
           "summary": "Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen?",
-          "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Publicerades: Mån 20 jul 21:00 Mån 20 jul • 24 min Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
-          "url": "https://www.svtplay.se/video/K5dbmPk/aktuellt/igar-21-00?video=visa",
+          "body_text": "Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "url": "https://www.svtplay.se/video/K5dbmPk/aktuellt/man-20-jul-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54553268/1784573637?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-20T21:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/K5dbmPk/aktuellt/igar-21-00?video=visa",
+          "published_at": "2026-07-21T21:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/K5dbmPk/aktuellt/man-20-jul-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -725,10 +725,10 @@
           "source_kind": "video",
           "title": "Aktuellt – Fre 17 jul 21:00",
           "summary": "Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag",
-          "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Publicerades: Mån 20 jul 21:00 Mån 20 jul • 24 min Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/84dnwPR/aktuellt/fre-17-jul-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54541736/1784314491?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-20T21:00:00Z",
+          "published_at": "2026-07-21T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/84dnwPR/aktuellt/fre-17-jul-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -749,10 +749,10 @@
           "source_kind": "video",
           "title": "Aktuellt – Ons 15 jul 21:00",
           "summary": "USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka",
-          "body_text": "Publicerades: Igår 21:00 Igår 21:00 • 24 min Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Publicerades: Mån 20 jul 21:00 Mån 20 jul • 24 min Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 25 min SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Fallet Elsa: Ansvarig politiker tar timeout • Husdjur: Bantningsmedel för katter • Spanien: Sommarens tredje värmebölja Mer om programmet Finland: Anklagelser om korruption • Ny migrationspakt: Frontex övervakar Medelhavet • VM i mål: Vart tar pengarna vägen? • VM i mål: Vart tar pengarna vägen? Mer om programmet Norge: Storbrand i Drammen • Utsläpp: Förslag om lättade regler • Tågresande: Debatt om nytt EU-förslag Mer om programmet Ukraina: Demonstrationer mot Zelenskyj • Vattennära: Debatt om strandskyddet • Höga temperaturer: Då kan det bli farligt Mer om programmet USA-Iran: Nya hot från Trump • Regeringens säkerhetsrådgivare: Glömde anteckningsbok på möte • Värmebölja: Giftiga algerna tillbaka Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/ey2mz44/aktuellt/ons-15-jul-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54525881/1784141674?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-20T21:00:00Z",
+          "published_at": "2026-07-21T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/ey2mz44/aktuellt/ons-15-jul-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -773,7 +773,7 @@
           "source_kind": "video",
           "title": "Sommarjazz: Brad Mehldau",
           "summary": "Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024)",
-          "body_text": "Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024) Brad Mehldau Trio at Nancy Jazz Pulsations 2024",
+          "body_text": "Konsert med den klassiska musikens mest kända verk Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024) Brad Mehldau Trio at Nancy Jazz Pulsations 2024",
           "url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
           "image_url": "https://www.svtstatic.se/image/custom/1144/52899126/1750165744?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2025-07-11T00:00:00Z",
@@ -853,20 +853,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "9db72e6e9c83",
+          "id": "3eada55fa103",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
           "category": "Sport",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sportnytt – Imorgon 18:19",
+          "title": "Sportnytt – Ikväll 18:19",
           "summary": "Senaste nytt i sportvärlden.",
-          "body_text": "Publiceras: Ikväll 18:19 Ikväll 18:19 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
-          "url": "https://www.svtplay.se/video/8Zxx9y6/sportnytt/imorgon-18-19",
+          "body_text": "Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/8Zxx9y6/sportnytt/ikvall-18-19",
           "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-22T16:19:00Z",
-          "embed_url": "https://www.svtplay.se/video/8Zxx9y6/sportnytt/imorgon-18-19",
+          "embed_url": "https://www.svtplay.se/video/8Zxx9y6/sportnytt/ikvall-18-19",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -877,31 +877,7 @@
           "sort_order": 0
         },
         {
-          "id": "0d503c1de200",
-          "source_id": "svt-sportnytt",
-          "source_name": "Sportnytt",
-          "provider": "SVT Play",
-          "category": "Sport",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sportnytt – Ikväll 21:25",
-          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
-          "url": "https://www.svtplay.se/video/K5ddynq/sportnytt/ikvall-21-25",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54560561/1784663586?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-21T19:25:00Z",
-          "embed_url": "https://www.svtplay.se/video/K5ddynq/sportnytt/ikvall-21-25",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Sport",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "7e7dc3669c2e",
+          "id": "88513eb7627a",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
           "provider": "SVT Play",
@@ -909,19 +885,43 @@
           "surface": "video",
           "source_kind": "video",
           "title": "Sportnytt – Igår 21:25",
-          "summary": "Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
-          "url": "https://www.svtplay.se/video/84ddZY9/sportnytt/igar-21-25",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54553382/1784577001?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-20T19:25:00Z",
-          "embed_url": "https://www.svtplay.se/video/84ddZY9/sportnytt/igar-21-25",
+          "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/K5ddynq/sportnytt/igar-21-25",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54560561/1784663586?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-21T19:25:00Z",
+          "embed_url": "https://www.svtplay.se/video/K5ddynq/sportnytt/igar-21-25",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "d0eaa4e9600b",
+          "source_id": "svt-sportnytt",
+          "source_name": "Sportnytt",
+          "provider": "SVT Play",
+          "category": "Sport",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Sportnytt – Mån 20 jul 21:25",
+          "summary": "Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/84ddZY9/sportnytt/man-20-jul-21-25",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54553382/1784577001?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-07-20T19:25:00Z",
+          "embed_url": "https://www.svtplay.se/video/84ddZY9/sportnytt/man-20-jul-21-25",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Sport",
+            "SVT Play"
+          ],
+          "is_live": true,
           "sort_order": 2
         },
         {
@@ -934,7 +934,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 18 jul 19:45",
           "summary": "Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/KvvvL1o/sportnytt/lor-18-jul-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54543848/1784404651?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-18T17:45:00Z",
@@ -945,7 +945,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 3
         },
         {
@@ -958,7 +958,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 17 jul 21:25",
           "summary": "Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jp55QZQ/sportnytt/fre-17-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54542696/1784369899?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-17T19:25:00Z",
@@ -969,7 +969,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 4
         },
         {
@@ -982,7 +982,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 16 jul 21:25",
           "summary": "Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/ey22Znz/sportnytt/tor-16-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54532808/1784217375?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-16T19:25:00Z",
@@ -993,7 +993,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 5
         },
         {
@@ -1006,7 +1006,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 15 jul 21:25",
           "summary": "Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/8z77ykp/sportnytt/ons-15-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54532784/1784217053?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-15T19:25:00Z",
@@ -1017,7 +1017,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 6
         },
         {
@@ -1030,7 +1030,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 14 jul 21:25",
           "summary": "Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/8LJJy6B/sportnytt/tis-14-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54519374/1784088943?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-14T19:25:00Z",
@@ -1041,7 +1041,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 7
         },
         {
@@ -1054,7 +1054,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 13 jul 21:25",
           "summary": "Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/8vvvLkY/sportnytt/man-13-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54519380/1784089058?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-13T19:25:00Z",
@@ -1065,7 +1065,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 8
         },
         {
@@ -1078,7 +1078,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 11 jul 19:45",
           "summary": "Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jwqqE13/sportnytt/lor-11-jul-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54502151/1783795891?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-11T17:45:00Z",
@@ -1089,7 +1089,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         },
         {
@@ -1102,7 +1102,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 10 jul 21:25",
           "summary": "Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England",
-          "body_text": "Publicerades: Igår 21:25 Igår 21:25 • 14 min De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Publicerades: Mån 20 jul 21:25 Mån 20 jul • 14 min Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet",
+          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Norska landslaget hyllades stort i Oslo • Djurgården körde över jumbon • Gustav Lundgren om framtiden Mer om programmet Norska fansen laddar för kvartsfinal i Miami • Nordfeldt tillbaka efter VM-äventyret • Ny svensk VM-medalj i orientering Mer om programmet Sinner besegrade Djokovic • Svenskt silver och brons • Norge laddar för match mot England Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/KwqqEnM/sportnytt/fre-10-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54502145/1783795706?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-10T19:25:00Z",
@@ -1113,7 +1113,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 10
         },
         {
@@ -1158,20 +1158,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "19267f241e8d",
+          "id": "97b502136bba",
           "source_id": "svt-morgonstudion",
           "source_name": "Morgonstudion",
           "provider": "SVT Play",
           "category": "Morgon",
           "surface": "video",
           "source_kind": "video",
-          "title": "Morgonstudion – Imorgon 07:00",
+          "title": "Morgonstudion – Idag 07:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
-          "body_text": "Publiceras: Idag 07:00 Idag 07:00 • 3 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
-          "url": "https://www.svtplay.se/video/84ddWRA/morgonstudion/imorgon-07-00",
+          "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "url": "https://www.svtplay.se/video/84ddWRA/morgonstudion/idag-07-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/53655334/1768482968?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-22T05:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/84ddWRA/morgonstudion/imorgon-07-00",
+          "embed_url": "https://www.svtplay.se/video/84ddWRA/morgonstudion/idag-07-00",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1182,20 +1182,20 @@
           "sort_order": 0
         },
         {
-          "id": "ffdfdb6a373d",
+          "id": "41dae875a2a9",
           "source_id": "svt-morgonstudion",
           "source_name": "Morgonstudion",
           "provider": "SVT Play",
           "category": "Morgon",
           "surface": "video",
           "source_kind": "video",
-          "title": "Morgonstudion – Idag 07:00",
+          "title": "Morgonstudion – Igår 07:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
-          "body_text": "Publicerades: Igår 07:00 Igår 07:00 • 3 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Publicerades: Mån 20 jul 07:00 Mån 20 jul • 3 tim Publiceras: Idag 07:00 Idag 07:00 • 3 tim Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
-          "url": "https://www.svtplay.se/video/jp55NRx/morgonstudion/idag-07-00",
+          "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "url": "https://www.svtplay.se/video/jp55NRx/morgonstudion/igar-07-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/53655334/1768482968?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-21T05:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jp55NRx/morgonstudion/idag-07-00",
+          "embed_url": "https://www.svtplay.se/video/jp55NRx/morgonstudion/igar-07-00",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1206,20 +1206,20 @@
           "sort_order": 1
         },
         {
-          "id": "c60f9df8086c",
+          "id": "0c929a06e0d4",
           "source_id": "svt-morgonstudion",
           "source_name": "Morgonstudion",
           "provider": "SVT Play",
           "category": "Morgon",
           "surface": "video",
           "source_kind": "video",
-          "title": "Morgonstudion – Igår 07:00",
+          "title": "Morgonstudion – Mån 20 jul 07:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
-          "body_text": "Publicerades: Igår 07:00 Igår 07:00 • 3 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Publicerades: Mån 20 jul 07:00 Mån 20 jul • 3 tim Publiceras: Idag 07:00 Idag 07:00 • 3 tim Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
-          "url": "https://www.svtplay.se/video/ey22M5Q/morgonstudion/igar-07-00",
+          "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "url": "https://www.svtplay.se/video/ey22M5Q/morgonstudion/man-20-jul-07-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54557483/1784622126?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-20T05:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/ey22M5Q/morgonstudion/igar-07-00",
+          "embed_url": "https://www.svtplay.se/video/ey22M5Q/morgonstudion/man-20-jul-07-00",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1239,7 +1239,7 @@
           "source_kind": "video",
           "title": "Morgonstudion – Fre 17 jul 07:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
-          "body_text": "Publicerades: Igår 07:00 Igår 07:00 • 3 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Publicerades: Mån 20 jul 07:00 Mån 20 jul • 3 tim Publiceras: Idag 07:00 Idag 07:00 • 3 tim Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/8z77wQy/morgonstudion/fre-17-jul-07-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54542471/1784363336?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-17T05:00:00Z",
@@ -1263,7 +1263,7 @@
           "source_kind": "video",
           "title": "Morgonstudion – Tor 16 jul 07:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
-          "body_text": "Publicerades: Igår 07:00 Igår 07:00 • 3 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Publicerades: Mån 20 jul 07:00 Mån 20 jul • 3 tim Publiceras: Idag 07:00 Idag 07:00 • 3 tim Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/8LJJ2V1/morgonstudion/tor-16-jul-07-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54538235/1784276906?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-16T05:00:00Z",
@@ -1287,7 +1287,7 @@
           "source_kind": "video",
           "title": "Morgonstudion – Ons 15 jul 07:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
-          "body_text": "Publicerades: Igår 07:00 Igår 07:00 • 3 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Publicerades: Mån 20 jul 07:00 Mån 20 jul • 3 tim Publiceras: Idag 07:00 Idag 07:00 • 3 tim Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/8vvv5Nz/morgonstudion/ons-15-jul-07-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54530447/1784190576?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-15T05:00:00Z",
@@ -1335,7 +1335,7 @@
           "source_kind": "video",
           "title": "På ett ögonblick",
           "summary": "Arne Bivrins stora passion är fågelfotografi. Han kliver in i en sagovärld och tar bilder som får folk att häpna, av ögonblick som bara existerar där och då. Efter en stor tragedi där hela livet förändrades på några sekunder överlevde han med hjälp av fotografin. Under ett år följer vi Arne när han tar sig an sitt livs största fotoprojekt. Naturfilm producerad av Emil Sergel.",
-          "body_text": "Svensk naturdokumentär om jordens mikroliv Arne Bivrins stora passion är fågelfotografi. Han kliver in i en sagovärld och tar bilder som får folk att häpna, av ögonblick som bara existerar där och då. Efter en stor tragedi där hela livet förändrades på några sekunder överlevde han med hjälp av fotografin. Under ett år följer vi Arne när han tar sig an sitt livs största fotoprojekt. Naturfilm producerad av Emil Sergel.",
+          "body_text": "Ett nära möte med den brittiske legendaren Världskänd biolog försöker rädda regnskogen",
           "url": "https://www.svtplay.se/video/KnDgzX3/pa-ett-ogonblick",
           "image_url": "https://www.svtstatic.se/image/custom/1144/53255678/1760429820?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": null,
@@ -1363,7 +1363,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 7,
+      "article_count": 9,
       "priority_split": 0,
       "articles": [
         {
@@ -1520,7 +1520,7 @@
           "source_kind": "video",
           "title": "Mette-Marit - från skandal till krona",
           "summary": "Det stormar kring Norges kungahus. \"Bonusprinsen\" Marius Borg Høiby ställs inför rätta samtidigt som det presenteras nya uppgifter om kronprinsessan Mette-Marits kontakt med Jeffrey Epstein. Storm och skandal kantade även Mette-Marits väg till kunglighet. Här är historien om hur en ensamstående mamma med ett vilt förflutet tog klivet in i Norges finaste finrum.",
-          "body_text": "Händelserna som ledde till prinsens fall USA-reportage med Stefan Åsberg inför valet",
+          "body_text": "USA-reportage med Stefan Åsberg inför valet Händelserna som ledde till prinsens fall",
           "url": "https://www.svtplay.se/video/KZmQG4m/mette-marit-fran-skandal-till-krona",
           "image_url": "https://www.svtstatic.se/image/custom/1144/53739037/1770134454?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": null,
@@ -1533,6 +1533,54 @@
           ],
           "is_live": true,
           "sort_order": 6
+        },
+        {
+          "id": "6f0c4a292bc5",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Epstein och de svenska barnflickorna",
+          "summary": "Tidigt 2000-tal håller Jeffrey Epsteins högra hand, Ghislaine Maxwell, intervjuer med unga kvinnor på ett lyxhotell i Göteborg. Men varför är hon just i Sverige? SVT:s reportrar följer spåren genom gamla tidningsannonser, mejltrådar och vittnesmål från svenska barnflickor.",
+          "body_text": "Händelserna som ledde till prinsens fall USA-reportage med Stefan Åsberg inför valet",
+          "url": "https://www.svtplay.se/video/KZmQWNa/epstein-och-de-svenska-barnflickorna",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/53927746/1773764971?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": null,
+          "embed_url": "https://www.svtplay.se/video/KZmQWNa/epstein-och-de-svenska-barnflickorna",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "eae04daca58b",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Death of a fantastic machine",
+          "summary": "Vem bestämmer vilken bild du får se av världen? En kortfilm om hur ekonomiska intressen genom historien påverkat hur vi använder kameran, från de första fotografierna till dagens algoritmer och AI. Denna visuella essä utvecklar teman från den hyllade dokumentären om kamerans historia och vår relation till den, \"And the king said, what a fantastic machine”. Dokumentärfilm från 2025 av regissörerna Axel Danielson och Maximilien Van Aertryck.",
+          "body_text": "USA-reportage med Stefan Åsberg inför valet Vem bestämmer vilken bild du får se av världen? En kortfilm om hur ekonomiska intressen genom historien påverkat hur vi använder kameran, från de första fotografierna till dagens algoritmer och AI. Denna visuella essä utvecklar teman från den hyllade dokumentären om kamerans historia och vår relation till den, \"And the king said, what a fantastic machine”. Dokumentärfilm från 2025 av regissörerna Axel Danielson och Maximilien Van Aertryck.",
+          "url": "https://www.svtplay.se/video/KnDAwWw/death-of-a-fantastic-machine",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/52877076/1749563162?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": null,
+          "embed_url": "https://www.svtplay.se/video/KnDAwWw/death-of-a-fantastic-machine",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
         }
       ]
     },
@@ -1577,6 +1625,56 @@
           "sort_order": 0
         },
         {
+          "id": "9340cd3757c8",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Smithsonian faces scrutiny over alleged ideological activism | Fox News Video",
+          "summary": "Fox News reporter Alexandria Hoff has the latest on House Republicans questioning Smithsonian officials over claims of political bias on ‘Special Report.’",
+          "body_text": "Fox News reporter Alexandria Hoff has the latest on House Republicans questioning Smithsonian officials over claims of political bias on ‘Special Report.’",
+          "url": "https://www.foxnews.com/video/6401775744112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9942fca-c1a6-4f65-a148-9f1d785f45c8/3a3c30a2-8794-417f-bd73-9bec62186a2c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-21T23:58:44Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401775744112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "040832f13b86",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Smithsonian's agenda is 'ruining' a great national institution: Sen Josh Hawley | Fox News Video",
+          "summary": "Sen. Josh Hawley, R-Mo., discusses a House Oversight Committee hearing over claims the Smithsonian's exhibits are politically biased on ‘The Ingraham Angle.’",
+          "body_text": "Sen. Josh Hawley, R-Mo., discusses a House Oversight Committee hearing over claims the Smithsonian's exhibits are politically biased on ‘The Ingraham Angle.’",
+          "url": "https://www.foxnews.com/video/6401775973112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3877634-e1ef-4cd4-b74a-c5472d963ade/534d2357-038d-48be-ab1a-ce8e5e74f2f2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-07-21T23:56:38Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401775973112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "f7a991030611",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1599,7 +1697,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "e1f8b5f4322f",
@@ -1624,7 +1722,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "a119f1309e85",
@@ -1649,7 +1747,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "bdaa19c7c73a",
@@ -1674,7 +1772,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "8a5091631076",
@@ -1699,7 +1797,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "2f3b4e6893fa",
@@ -1724,7 +1822,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "df8ebd3575d4",
@@ -1749,7 +1847,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "e065884d03ca",
@@ -1766,56 +1864,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3cd8a28-6eba-41b9-bef7-eeae5440af1d/b6b9a3ae-2079-4ce6-8851-f48be7aacd57/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-07-21T22:54:25Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401773905112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "5f6683e1e295",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Treasury Department stops $99M in payments to dead people | Fox News Video",
-          "summary": "FOX Business host Charles Payne evaluates the Treasury Department’s fraud-prevention efforts, including halting payments to deceased individuals, on ‘America Reports.’",
-          "body_text": "FOX Business host Charles Payne evaluates the Treasury Department’s fraud-prevention efforts, including halting payments to deceased individuals, on ‘America Reports.’",
-          "url": "https://www.foxnews.com/video/6401770994112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c7bdca1-341c-465c-ad0a-a76213a5989e/7231e5e4-060a-41d8-9bb4-d39ad366ea52/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-21T22:41:06Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401770994112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "444c8f5f1929",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Houthi threats give rise to fear of a second front opening in Iran conflict | Fox News Video",
-          "summary": "Fox News' Steve Harrigan reports on rhetoric between U.S. and Iranian leaders over the conflict in the Middle East on ‘Special Report.’",
-          "body_text": "Fox News' Steve Harrigan reports on rhetoric between U.S. and Iranian leaders over the conflict in the Middle East on ‘Special Report.’",
-          "url": "https://www.foxnews.com/video/6401770844112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad11c7ed-932e-4e91-bf67-b19d05db01a4/337d5c45-fc5f-4a7d-bd30-a8096e46270f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-07-21T22:37:35Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6401770844112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1978,7 +2026,7 @@
           "source_kind": "mixed",
           "title": "Russia-Ukraine war: Zelensky sacks top army commander after days of protests",
           "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-          "body_text": "Ukrainian President Volodymyr Zelensky has dismissed the country's army commander-in-chief, Oleksandr Syrskyi. It comes just days after the removal of popular Defence Minister Mykhailo Fedorov - a move that triggered street protests across the country. Initial rumours that the end of Fedorov's tenure was related to a conflict between him and Syrskyi were soon confirmed. Fedorov, 35, has been widely praised for energising the ministry and transforming the armed forces, as well as leading a drive against corruption. Syrskyi, 60, is seen by many in Ukraine as a Soviet-school commander reluctant to implement radical changes in the army. He was replaced by Mykhailo Drapatyi, 43, who is a popular, battle-hardened general. In a video post on social media late on Tuesday, Zelensky thanked Syrskyi for his military campaigns, including his role in successfully defending the capital Kyiv during the first days of Russia's full-scale invasion in 2022. Zelensky also revealed that earlier in the day, he met Fedorov and offered him a \"worthy position in power\", but did not say whether the offer had been accepted. Fedorov was last week replaced by Yevhenii Khmara, a former top official at Ukraine's Security Service (SBU). \"All decisions will be formalised tomorrow,\" Zelensky added in his post. Meanwhile, Fedorov congratulated Drapatyi with his new job, describing his appointment as a \"new hope in the fight of free people for freedom and justice\". He said it was \"the voice of change that could not be ignored\". Fedorov also revealed that he had called Syrskyi to thank him for the defence of the Kyiv region and other \"historic battles\".",
+          "body_text": "Ukrainian President Volodymyr Zelensky has dismissed the country's army commander-in-chief, Oleksandr Syrskyi. It comes just days after the removal of popular Defence Minister Mykhailo Fedorov - a move that triggered street protests across the country. Initial rumours that the end of Fedorov's tenure was related to a conflict between him and Syrskyi were soon confirmed. Fedorov, 35, has been widely praised for energising the ministry and transforming the armed forces, as well as leading a drive against corruption. Syrskyi, 60, is seen by many in Ukraine as a Soviet-school commander reluctant to implement radical changes in the army. He was replaced by Mykhailo Drapatyi, 43, who is a popular, battle-hardened general. \"I will work responsibly, with full focus, and with respect for the people who are defending our country today,\" Drapatyi said on Facebook. He also thanked Syrskyi \"for his consistent work to strengthen the Ukrainian army,\" adding: \"I grew up in it.\" In a video post on social media late on Tuesday, Zelensky thanked Syrskyi for his military campaigns, including his role in successfully defending the capital Kyiv during the first days of Russia's full-scale invasion in 2022. Zelensky also revealed that earlier in the day, he met Fedorov and offered him a \"worthy position in power\", but did not say whether the offer had been accepted. Fedorov was last week replaced by Yevhenii Khmara, a former top official at Ukraine's Security Service (SBU). \"All decisions will be formalised tomorrow,\" Zelensky added in his post. Meanwhile, Fedorov congratulated Drapatyi with his new job, describing his appointment as a \"new hope in the fight of free people for freedom and justice\".",
           "url": "https://www.bbc.com/news/articles/cyvl35z3917o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
           "published_at": "2026-07-21T19:43:43Z",
@@ -2402,19 +2450,19 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "f868dec74d3f",
+          "id": "4b91b3981ff6",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Horóscopo de hoy, 19 de julio: Revisa las predicciones más exactas para tu signo",
-          "summary": "Consulta tu horóscopo de hoy, domingo 19 de julio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, domingo 19 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Amor: momento propicio para concretar sueños, hacer cosas en común y dejar crecer la armonía. Salud: evitará los esfuerzos. Sorpresa: la buena fortuna llega. Amor: su fuerte encanto impactará en una persona que ansía conocerle y avanzar hacia un romance. Salud: un dolor se aliviará. Sorpresa: gastos en exceso. Amor: cierta persona le agradará pero una historia del pasado le hará dudar. No lo pasará por alto. Salud: una dieta sana será buena. Sorpresa: alguien estará triste. Amor: una falla de comunicación podría desgastar el compromiso pero habrá algo para resolver. Salud: las tensiones se disiparán. Sorpresa: una ausencia se notará. Amor: las afinidades serán un tesoro en la pareja y darán paso a una renovada intimidad y armonía. Salud: una consulta dará tranquilidad. Sorpresa: discusión tensa. Amor: conflictos que cree superados resurgen y crean zozobra pero la relación estará a salvo. Salud: se cuidará en las comidas. Sorpresa: secreto revelado. Amor: demandará una atención que cree no recibir y la respuesta le colmará de dicha. Salud: una dolencia se disipará. Sorpresa: una herida sanará. Amor: su fuerte encanto atraerá a la persona menos imaginada, pero se divertirá. Salud: un chequeo será oportuno. Sorpresa: un engaño quedará expuesto. Amor: se conjugarán bellos momentos que disfrutarán en pareja y serán inolvidables. Salud: molestias en las rodillas. Sorpresa: una solución no llegará. Amor: momento para acercarse a la persona que le atrae e invitarla a charlar. Salud: iniciará deportes o gimnasia. Sorpresa: llamado desconcertante. Amor: la rutina será un problema si no propone iniciativas para la intimidad en la pareja. Salud: disfrutará de gran bienestar. Sorpresa: una coincidencia no lo será. Amor: aunque haya roces y afecten la expresión de la calidez en la pareja, pronto los revertirá. Salud: se cuidará de los tropiezos. Sorpresa: opción acertada. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: INGENIOSA PERO CON CARÁCTER. SE RELACIONA MEJOR A PARTIR DE SU BUEN HUMOR.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-19-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "title": "Horóscopo de hoy, 21 de julio: Estas son las predicciones para cada signo",
+          "summary": "Consulta tu horóscopo de hoy, martes 21 de julio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, martes 21 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: un trabajo o proyecto superará trabas generadas por otros y tendrá éxito. Amor: alguien del entorno comenzará a resultarle irresistible y buscará el modo de acercarse. Trabajo y negocios: llega momento de buena fortuna y las actividades se multiplican favorablemente. Amor: reconocerá que su corazón vibra por la persona más impensada; posible romance. Trabajo y negocios: nueva información hará crecer su optimismo y resolverá problema financiero. Amor: surgirá cierta discordia, el afecto mutuo la disipará y también habrá confesiones. Trabajo y negocios: asuntos burocráticos se resuelven y aceleran los trabajos; los beneficios crecen. Amor: la vida en pareja se destacará por la armonía y la calidez que se intercambia. Trabajo y negocios: mostrará carácter para marcar las cosas que causan fallas y malos resultados. Amor: descubrirá que un gesto bastará para que una agradable persona quiera acercarse. Trabajo y negocios: su capacidad organizativa se destacará ante un entorno indiferente. Amor: un momento único y feliz renovará la intimidad y fortalecerá la relación. Trabajo y negocios: surgirán problemas que resolverá de modo sorprendente y con éxito. Amor: será mala idea repetir una actitud obstinada en la relación o habrá discordia. Trabajo y negocios: quienes causan errores serán los que lo reparen a conciencia. Amor: un conflicto del pasado resurgirá por una charla trivial pero lo superarán. Trabajo y negocios: recibirá una inesperada cooperación y los trabajos crecerán. Amor: un momento encantador hará renacer la calidez y generará mayor armonía. Trabajo y negocios: algún colega traerá propuestas que las considerará algo inusuales. Amor: un tema conflictivo dejará de afectar la intimidad y hará crecer la ternura. Trabajo y negocios: alcanzará las metas aún con un entorno poco amigable y será con éxito. Amor: la calidez mutua será el refugio placentero de la pareja para que la vida fluya feliz. Trabajo y negocios: momento para iniciar los arreglos postergados que faciliten los trabajos. Amor: no será buena idea tomar decisiones apuradas, sí dialogar para no arrepentirse. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: CONOCIDA POR PREFERIR LOS CAMBIOS RÁPIDOS. SU LIDERAZGO ES DESTACADO.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-21-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-19T18:28:00Z",
+          "published_at": "2026-07-21T23:55:00Z",
           "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -2679,19 +2727,19 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "f868dec74d3f",
+          "id": "4b91b3981ff6",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
           "provider": "El Comercio",
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Horóscopo de hoy, 19 de julio: Revisa las predicciones más exactas para tu signo",
-          "summary": "Consulta tu horóscopo de hoy, domingo 19 de julio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, domingo 19 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Amor: momento propicio para concretar sueños, hacer cosas en común y dejar crecer la armonía. Salud: evitará los esfuerzos. Sorpresa: la buena fortuna llega. Amor: su fuerte encanto impactará en una persona que ansía conocerle y avanzar hacia un romance. Salud: un dolor se aliviará. Sorpresa: gastos en exceso. Amor: cierta persona le agradará pero una historia del pasado le hará dudar. No lo pasará por alto. Salud: una dieta sana será buena. Sorpresa: alguien estará triste. Amor: una falla de comunicación podría desgastar el compromiso pero habrá algo para resolver. Salud: las tensiones se disiparán. Sorpresa: una ausencia se notará. Amor: las afinidades serán un tesoro en la pareja y darán paso a una renovada intimidad y armonía. Salud: una consulta dará tranquilidad. Sorpresa: discusión tensa. Amor: conflictos que cree superados resurgen y crean zozobra pero la relación estará a salvo. Salud: se cuidará en las comidas. Sorpresa: secreto revelado. Amor: demandará una atención que cree no recibir y la respuesta le colmará de dicha. Salud: una dolencia se disipará. Sorpresa: una herida sanará. Amor: su fuerte encanto atraerá a la persona menos imaginada, pero se divertirá. Salud: un chequeo será oportuno. Sorpresa: un engaño quedará expuesto. Amor: se conjugarán bellos momentos que disfrutarán en pareja y serán inolvidables. Salud: molestias en las rodillas. Sorpresa: una solución no llegará. Amor: momento para acercarse a la persona que le atrae e invitarla a charlar. Salud: iniciará deportes o gimnasia. Sorpresa: llamado desconcertante. Amor: la rutina será un problema si no propone iniciativas para la intimidad en la pareja. Salud: disfrutará de gran bienestar. Sorpresa: una coincidencia no lo será. Amor: aunque haya roces y afecten la expresión de la calidez en la pareja, pronto los revertirá. Salud: se cuidará de los tropiezos. Sorpresa: opción acertada. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: INGENIOSA PERO CON CARÁCTER. SE RELACIONA MEJOR A PARTIR DE SU BUEN HUMOR.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-19-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "title": "Horóscopo de hoy, 21 de julio: Estas son las predicciones para cada signo",
+          "summary": "Consulta tu horóscopo de hoy, martes 21 de julio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, martes 21 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: un trabajo o proyecto superará trabas generadas por otros y tendrá éxito. Amor: alguien del entorno comenzará a resultarle irresistible y buscará el modo de acercarse. Trabajo y negocios: llega momento de buena fortuna y las actividades se multiplican favorablemente. Amor: reconocerá que su corazón vibra por la persona más impensada; posible romance. Trabajo y negocios: nueva información hará crecer su optimismo y resolverá problema financiero. Amor: surgirá cierta discordia, el afecto mutuo la disipará y también habrá confesiones. Trabajo y negocios: asuntos burocráticos se resuelven y aceleran los trabajos; los beneficios crecen. Amor: la vida en pareja se destacará por la armonía y la calidez que se intercambia. Trabajo y negocios: mostrará carácter para marcar las cosas que causan fallas y malos resultados. Amor: descubrirá que un gesto bastará para que una agradable persona quiera acercarse. Trabajo y negocios: su capacidad organizativa se destacará ante un entorno indiferente. Amor: un momento único y feliz renovará la intimidad y fortalecerá la relación. Trabajo y negocios: surgirán problemas que resolverá de modo sorprendente y con éxito. Amor: será mala idea repetir una actitud obstinada en la relación o habrá discordia. Trabajo y negocios: quienes causan errores serán los que lo reparen a conciencia. Amor: un conflicto del pasado resurgirá por una charla trivial pero lo superarán. Trabajo y negocios: recibirá una inesperada cooperación y los trabajos crecerán. Amor: un momento encantador hará renacer la calidez y generará mayor armonía. Trabajo y negocios: algún colega traerá propuestas que las considerará algo inusuales. Amor: un tema conflictivo dejará de afectar la intimidad y hará crecer la ternura. Trabajo y negocios: alcanzará las metas aún con un entorno poco amigable y será con éxito. Amor: la calidez mutua será el refugio placentero de la pareja para que la vida fluya feliz. Trabajo y negocios: momento para iniciar los arreglos postergados que faciliten los trabajos. Amor: no será buena idea tomar decisiones apuradas, sí dialogar para no arrepentirse. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: CONOCIDA POR PREFERIR LOS CAMBIOS RÁPIDOS. SU LIDERAZGO ES DESTACADO.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-21-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-19T18:28:00Z",
+          "published_at": "2026-07-21T23:55:00Z",
           "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -2956,19 +3004,19 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "f868dec74d3f",
+          "id": "4b91b3981ff6",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Horóscopo de hoy, 19 de julio: Revisa las predicciones más exactas para tu signo",
-          "summary": "Consulta tu horóscopo de hoy, domingo 19 de julio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, domingo 19 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Amor: momento propicio para concretar sueños, hacer cosas en común y dejar crecer la armonía. Salud: evitará los esfuerzos. Sorpresa: la buena fortuna llega. Amor: su fuerte encanto impactará en una persona que ansía conocerle y avanzar hacia un romance. Salud: un dolor se aliviará. Sorpresa: gastos en exceso. Amor: cierta persona le agradará pero una historia del pasado le hará dudar. No lo pasará por alto. Salud: una dieta sana será buena. Sorpresa: alguien estará triste. Amor: una falla de comunicación podría desgastar el compromiso pero habrá algo para resolver. Salud: las tensiones se disiparán. Sorpresa: una ausencia se notará. Amor: las afinidades serán un tesoro en la pareja y darán paso a una renovada intimidad y armonía. Salud: una consulta dará tranquilidad. Sorpresa: discusión tensa. Amor: conflictos que cree superados resurgen y crean zozobra pero la relación estará a salvo. Salud: se cuidará en las comidas. Sorpresa: secreto revelado. Amor: demandará una atención que cree no recibir y la respuesta le colmará de dicha. Salud: una dolencia se disipará. Sorpresa: una herida sanará. Amor: su fuerte encanto atraerá a la persona menos imaginada, pero se divertirá. Salud: un chequeo será oportuno. Sorpresa: un engaño quedará expuesto. Amor: se conjugarán bellos momentos que disfrutarán en pareja y serán inolvidables. Salud: molestias en las rodillas. Sorpresa: una solución no llegará. Amor: momento para acercarse a la persona que le atrae e invitarla a charlar. Salud: iniciará deportes o gimnasia. Sorpresa: llamado desconcertante. Amor: la rutina será un problema si no propone iniciativas para la intimidad en la pareja. Salud: disfrutará de gran bienestar. Sorpresa: una coincidencia no lo será. Amor: aunque haya roces y afecten la expresión de la calidez en la pareja, pronto los revertirá. Salud: se cuidará de los tropiezos. Sorpresa: opción acertada. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: INGENIOSA PERO CON CARÁCTER. SE RELACIONA MEJOR A PARTIR DE SU BUEN HUMOR.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-19-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "title": "Horóscopo de hoy, 21 de julio: Estas son las predicciones para cada signo",
+          "summary": "Consulta tu horóscopo de hoy, martes 21 de julio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, martes 21 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: un trabajo o proyecto superará trabas generadas por otros y tendrá éxito. Amor: alguien del entorno comenzará a resultarle irresistible y buscará el modo de acercarse. Trabajo y negocios: llega momento de buena fortuna y las actividades se multiplican favorablemente. Amor: reconocerá que su corazón vibra por la persona más impensada; posible romance. Trabajo y negocios: nueva información hará crecer su optimismo y resolverá problema financiero. Amor: surgirá cierta discordia, el afecto mutuo la disipará y también habrá confesiones. Trabajo y negocios: asuntos burocráticos se resuelven y aceleran los trabajos; los beneficios crecen. Amor: la vida en pareja se destacará por la armonía y la calidez que se intercambia. Trabajo y negocios: mostrará carácter para marcar las cosas que causan fallas y malos resultados. Amor: descubrirá que un gesto bastará para que una agradable persona quiera acercarse. Trabajo y negocios: su capacidad organizativa se destacará ante un entorno indiferente. Amor: un momento único y feliz renovará la intimidad y fortalecerá la relación. Trabajo y negocios: surgirán problemas que resolverá de modo sorprendente y con éxito. Amor: será mala idea repetir una actitud obstinada en la relación o habrá discordia. Trabajo y negocios: quienes causan errores serán los que lo reparen a conciencia. Amor: un conflicto del pasado resurgirá por una charla trivial pero lo superarán. Trabajo y negocios: recibirá una inesperada cooperación y los trabajos crecerán. Amor: un momento encantador hará renacer la calidez y generará mayor armonía. Trabajo y negocios: algún colega traerá propuestas que las considerará algo inusuales. Amor: un tema conflictivo dejará de afectar la intimidad y hará crecer la ternura. Trabajo y negocios: alcanzará las metas aún con un entorno poco amigable y será con éxito. Amor: la calidez mutua será el refugio placentero de la pareja para que la vida fluya feliz. Trabajo y negocios: momento para iniciar los arreglos postergados que faciliten los trabajos. Amor: no será buena idea tomar decisiones apuradas, sí dialogar para no arrepentirse. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: CONOCIDA POR PREFERIR LOS CAMBIOS RÁPIDOS. SU LIDERAZGO ES DESTACADO.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-21-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-19T18:28:00Z",
+          "published_at": "2026-07-21T23:55:00Z",
           "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3233,19 +3281,19 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "f868dec74d3f",
+          "id": "4b91b3981ff6",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
           "provider": "El Comercio",
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Horóscopo de hoy, 19 de julio: Revisa las predicciones más exactas para tu signo",
-          "summary": "Consulta tu horóscopo de hoy, domingo 19 de julio del 2026. Predicciones para tu signo zodiacal.",
-          "body_text": "Horóscopo de HOY, domingo 19 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Amor: momento propicio para concretar sueños, hacer cosas en común y dejar crecer la armonía. Salud: evitará los esfuerzos. Sorpresa: la buena fortuna llega. Amor: su fuerte encanto impactará en una persona que ansía conocerle y avanzar hacia un romance. Salud: un dolor se aliviará. Sorpresa: gastos en exceso. Amor: cierta persona le agradará pero una historia del pasado le hará dudar. No lo pasará por alto. Salud: una dieta sana será buena. Sorpresa: alguien estará triste. Amor: una falla de comunicación podría desgastar el compromiso pero habrá algo para resolver. Salud: las tensiones se disiparán. Sorpresa: una ausencia se notará. Amor: las afinidades serán un tesoro en la pareja y darán paso a una renovada intimidad y armonía. Salud: una consulta dará tranquilidad. Sorpresa: discusión tensa. Amor: conflictos que cree superados resurgen y crean zozobra pero la relación estará a salvo. Salud: se cuidará en las comidas. Sorpresa: secreto revelado. Amor: demandará una atención que cree no recibir y la respuesta le colmará de dicha. Salud: una dolencia se disipará. Sorpresa: una herida sanará. Amor: su fuerte encanto atraerá a la persona menos imaginada, pero se divertirá. Salud: un chequeo será oportuno. Sorpresa: un engaño quedará expuesto. Amor: se conjugarán bellos momentos que disfrutarán en pareja y serán inolvidables. Salud: molestias en las rodillas. Sorpresa: una solución no llegará. Amor: momento para acercarse a la persona que le atrae e invitarla a charlar. Salud: iniciará deportes o gimnasia. Sorpresa: llamado desconcertante. Amor: la rutina será un problema si no propone iniciativas para la intimidad en la pareja. Salud: disfrutará de gran bienestar. Sorpresa: una coincidencia no lo será. Amor: aunque haya roces y afecten la expresión de la calidez en la pareja, pronto los revertirá. Salud: se cuidará de los tropiezos. Sorpresa: opción acertada. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: INGENIOSA PERO CON CARÁCTER. SE RELACIONA MEJOR A PARTIR DE SU BUEN HUMOR.",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-19-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
+          "title": "Horóscopo de hoy, 21 de julio: Estas son las predicciones para cada signo",
+          "summary": "Consulta tu horóscopo de hoy, martes 21 de julio del 2026. Predicciones para tu signo zodiacal.",
+          "body_text": "Horóscopo de HOY, martes 21 de julio del 2026. Conoce lo que te deparan las estrellas en el amor, dinero y el trabajo, según los signos del zodiaco. Como ya es habitual, compartimos a continuación el horóscopo de hoy para cada signo zodiacal: ARIES, TAURO, GÉMINIS, CÁNCER, LEO, VIRGO, LIBRA, ESCORPIO, SAGITARIO, CAPRICORNIO, ACUARIO, PISCIS. Trabajo y negocios: un trabajo o proyecto superará trabas generadas por otros y tendrá éxito. Amor: alguien del entorno comenzará a resultarle irresistible y buscará el modo de acercarse. Trabajo y negocios: llega momento de buena fortuna y las actividades se multiplican favorablemente. Amor: reconocerá que su corazón vibra por la persona más impensada; posible romance. Trabajo y negocios: nueva información hará crecer su optimismo y resolverá problema financiero. Amor: surgirá cierta discordia, el afecto mutuo la disipará y también habrá confesiones. Trabajo y negocios: asuntos burocráticos se resuelven y aceleran los trabajos; los beneficios crecen. Amor: la vida en pareja se destacará por la armonía y la calidez que se intercambia. Trabajo y negocios: mostrará carácter para marcar las cosas que causan fallas y malos resultados. Amor: descubrirá que un gesto bastará para que una agradable persona quiera acercarse. Trabajo y negocios: su capacidad organizativa se destacará ante un entorno indiferente. Amor: un momento único y feliz renovará la intimidad y fortalecerá la relación. Trabajo y negocios: surgirán problemas que resolverá de modo sorprendente y con éxito. Amor: será mala idea repetir una actitud obstinada en la relación o habrá discordia. Trabajo y negocios: quienes causan errores serán los que lo reparen a conciencia. Amor: un conflicto del pasado resurgirá por una charla trivial pero lo superarán. Trabajo y negocios: recibirá una inesperada cooperación y los trabajos crecerán. Amor: un momento encantador hará renacer la calidez y generará mayor armonía. Trabajo y negocios: algún colega traerá propuestas que las considerará algo inusuales. Amor: un tema conflictivo dejará de afectar la intimidad y hará crecer la ternura. Trabajo y negocios: alcanzará las metas aún con un entorno poco amigable y será con éxito. Amor: la calidez mutua será el refugio placentero de la pareja para que la vida fluya feliz. Trabajo y negocios: momento para iniciar los arreglos postergados que faciliten los trabajos. Amor: no será buena idea tomar decisiones apuradas, sí dialogar para no arrepentirse. __________________________________________________________________ SI USTED CUMPLE AÑOS HOY ES UNA PERSONA: CONOCIDA POR PREFERIR LOS CAMBIOS RÁPIDOS. SU LIDERAZGO ES DESTACADO.",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-21-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/6T5VR63ZIVHVHIZXGIZCSUVBCM.jpg?auth=e3ec2b28e055f91f45be8d8e4bf893d5326aa9164b3cf2e16f2d115254958787&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-19T18:28:00Z",
+          "published_at": "2026-07-21T23:55:00Z",
           "embed_url": "https://content.jwplatform.com/videos/68kxOa5o-JfDM4jL3.mp4",
           "play_mode": "media",
           "article_type": "video",
@@ -3544,41 +3592,65 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "41b116a35980",
+          "id": "9434469b1740",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "These are the countries moving to ban social media for children | TechCrunch",
-          "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-          "body_text": "Over the past months, many countries have announced plans to restrict social media access for children and teens. Australia became the first to implement such measures at the end of last year, setting a precedent that other countries are now closely watching. France is now the latest country to announce such a measure. The regulations and proposals being brought forth by governments around the world aim to reduce the pressures and risks that young users may face on social media, which include cyberbullying, addiction, mental health issues, and exposure to predators. We’ve compiled a list of countries that are considering or have already moved forward with bans on social media for young users. Australia became the world’s first country to ban social media for children under 16 in December 2025. The ban blocks children from using Facebook, Instagram, Snapchat, Threads, TikTok, X, YouTube, Reddit, Twitch, and Kick. It notably doesn’t include WhatsApp or YouTube Kids. The Australian government has said these social media companies must take steps to keep children off their services. Companies that fail to comply may face penalties of up to $49.5 million AUD ($34.4 million USD). The government says these platforms should use multiple verification methods to ensure that people using their services are older than 16. It also notes that they can’t rely on users simply entering their own age. Austria said in late March that it will ban social media for children up to the age of 14. Draft legislation for the ban is expected to be finalized by June. The Canadian government introduced a digital safety bill in early June that would ban social media for children under 16. Under the legislation, social media giants could sidestep the ban if they demonstrate they have policies to protect young users. Officials have said it could take a year for the bill to pass. Denmark is set to ban social media platforms for children under 15. The Danish government announced in November 2025 that it had secured support for the ban from three governing coalition parties and two opposition parties in parliament. The government’s plans could become law as soon as mid-2026, according to the Associated Press. The Danish digital affairs ministry is also launching a “digital evidence” app that includes age verification tools that may be used as part of the ban. France passed a law on July 21 banning access to social media for anyone under 15. The law could go into effect as soon as September 1. The law will also ban the use of cellphones in high schools, extending a ban already present in primary and middle schools. In early February, German Chancellor Friedrich Merz’s conservatives discussed a proposal to bar children under 16 from using social media, Reuters reported. However, there were signs that his center-left coalition partners were hesitant to support an outright ban.",
-          "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800",
-          "published_at": "2026-07-21T20:57:35Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg",
+          "title": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming | TechCrunch",
+          "summary": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+          "body_text": "While many newer VC firms are still struggling to raise fresh capital, Dimension Capital, founded in late 2022, has been raising increasingly larger funds in quick succession. On Tuesday, the New York firm — which invests at the intersection of science and compute — announced an $800 million fund, which is 60% larger than its $500 million second vehicle announced just 18 months ago. When Zavian Dar and Adam Goulburn — formerly partners at Lux Capital —teamed up with Obvious Ventures alum Nan Li to launch the firm four years ago, they bet that founders would increasingly want to build deep-tech companies that crossed the boundaries of biotech and software. Now, the three partners admit to being impressed by how quickly their thesis has played out. In 2024, they co-led a $30 million seed investment in Chai Discovery. The startup, which is developing open-source AI foundation models for drug development, announced last week that it raised $400 million at a $3.8 billion valuation. The firm also backed anti-aging startup New Limit at its Series A round in January 2025. Earlier this month, New Limit, co-founded by Coinbase CEO Brian Armstrong, completed a Series C at a $3.1 billion valuation. The firm’s other notable investments include inference company Modal Labs and Anthropic. Dimension received shares in the AI giant after Anthropic acquired its portfolio company, the drug discovery platform Coefficient Bio this spring for a reported $ 400 million . Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y! Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/MP_2381-2.jpg?resize=1200,800",
+          "published_at": "2026-07-22T01:27:58Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/12/MP_2381-2.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
             "Tech",
             "TechCrunch"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 0
         },
         {
-          "id": "fda08a4eab0e",
+          "id": "a74966828836",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
           "provider": "TechCrunch",
           "category": "Tech",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "OpenAI says Hugging Face was breached by its own pre-release models | TechCrunch",
+          "title": "Meta is testing an AI bedtime story app for people with no imagination | TechCrunch",
+          "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+          "body_text": "Meta is working on an AI storytelling app called StoryKit , which creates AI-generated children’s stories with custom characters, settings, lessons, and music. As the App Store listing assures parents, “You don’t need to write a single word.” At last, a tech company has found a way to outsource humanity’s oldest pastime: using our imaginations. StoryKit was first spotted in the App Store by 9to5Mac . Meta confirmed to TechCrunch that the company is piloting StoryKit in select countries to see how parents like it. A Meta spokesperson described StoryKit as a creative storytelling app used to craft personalized, imaginative storybooks for children and noted that it uses AI safety filters with no social features and is only available to users over the age of 18. To generate a story in the app, you first select a character, which you can create by “[snapping] a photo of their favorite toy or person to bring them to life,” according to the description in the App Store. Then you describe the world of your story and choose a lesson, so that you can “weave in values like kindness, courage, or empathy without it feeling like a lecture.” The good news about StoryKit is that it could be a lot worse. Meta regularly ships boneheaded ideas like Instagram deepfake generators and “ pervert glasses .” Comparatively, is it so bad to doom children to soulless bedtime stories? Should we have expected anything better from the company that promised us a utopian world of virtual reality work meetings ? Humans have their faults, but if we’re good at anything, it’s making stuff up. We’ve been telling stories for as long as we’ve existed. We don’t even have to spin up original tales of fairy princesses and dragon slayers. We have always drawn from mythology, fables, and other stories — the blockbuster movie of the summer is literally an ancient myth that originated from this same tradition of oral storytelling. Parents lead exhausting, busy lives, but it has always been possible to survive bedtime without using an inherently uncreative technology that calculates the most predictable response to a prompt. You could see how it might be tempting to pull up StoryKit when your kid rejects your bookcase full of children’s books and demands that you improvise an intergalactic tale about a turtle and a hedgehog who are best friends and solve space mysteries. But do we really want to reject a chance at whimsy and silliness and instead outsource these moments of connection to reading AI-generated scripts from our smartphones? Perhaps the moral of the story here is that we can choose not to live in a world where children are raised on bedtime stories written by large language models. Meta’s vision of the future may be antisocial and bleak, but we have the power to reject that reality. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos. You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.",
+          "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2248543137.jpg?resize=1200,840",
+          "published_at": "2026-07-21T23:55:10Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2248543137.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "8eac58381968",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "OpenAI says Hugging Face was breached by its pre-release models | TechCrunch",
           "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-          "body_text": "OpenAI admitted Tuesday that one of its AI models breached the systems of Hugging Face, the unaffiliated AI hosting platform, during an internal cybersecurity test that went awry. The models reportedly escaped their isolated testing environment and reached Hugging Face’s systems from there. Hugging Face initially attributed the breach to an “external AI agent.” In a blog post published Tuesday afternoon , OpenAI detailed the steps that led the models to compromise the service. “After investigating, we now know that this particular incident was driven by a combination of OpenAI models — including GPT‑5.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes — while being internally tested on a benchmark⁠ of cyber capabilities,” the post reads. In particular, the breach appears to have focused on ExploitGym , a publicly hosted benchmark measuring models’ ability to execute attacks based on existing vulnerabilities. Benchmarks like ExploitGym are commonly used in model training to refine specific skills, but this is the first known incident in which that testing resulted in an actual cyberattack. In this case, the model in question should not have even had internet access, outside of a specific tool that enabled models to install software packages they might need to complete their task. Instead, the model was able to find an undisclosed vulnerability in the package-installer program, which it used to access the broader internet at will. “The models were hyperfocused on finding a solution for ExploitGym, going to extreme lengths to achieve a rather narrow testing goal,” OpenAI’s post reads. “After gaining Internet access, the models inferred that Hugging Face potentially hosted models, datasets and solutions for ExploitGym. Knowing this, the model searched for and successfully found ways to gain access to secret information that it could use to cheat the evaluation.” Ultimately, the models found vulnerabilities in Hugging Face’s infrastructure that allowed them to “obtain test solutions directly from Hugging Face’s production database,” effectively providing the answers to the benchmark. For Hugging Face, the apparent result was a sophisticated and aggressive cyberattack, with “many thousands of individual actions across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services,” as the company stated in its initial disclosure. OpenAI has identified and reported the vulnerabilities in the package installer and is working with Hugging Face to investigate the incident further. The company also said it would implement new controls on both model testing and the related infrastructure, meant to prevent similar incidents in the future. It’s unclear whether OpenAI will face any legal consequences as a result of the breach, although it’s likely that the models’ actions violated the Computer Fraude and Abuse Act. Nevertheless, the result is an unusually vivid illustration of the power and dangers of frontier AI models operating on long time horizons. As OpenAI researcher Micah Carroll posted in response to the news , “If this doesn’t convince you that misalignment risks are going to be a key concern going forward, I don’t know what will.” When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.",
-          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+          "body_text": "OpenAI admitted Tuesday that one of its AI models breached the systems of Hugging Face, the unaffiliated AI hosting platform, during an internal cybersecurity test that went awry. The models reportedly escaped their isolated testing environment and reached Hugging Face’s systems from there. Hugging Face initially attributed the breach to an “external AI agent.” In a blog post published Tuesday afternoon , OpenAI detailed the steps that led the models to compromise the service. “After investigating, we now know that this particular incident was driven by a combination of OpenAI models — including GPT‑5.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes — while being internally tested on a benchmark⁠ of cyber capabilities,” the post reads. In particular, the breach appears to have focused on ExploitGym , a publicly hosted benchmark measuring models’ ability to execute attacks based on existing vulnerabilities. Benchmarks like ExploitGym are commonly used in model training to refine specific skills, but this is the first known incident in which that testing resulted in an actual cyberattack. In this case, the model in question should not have even had internet access, outside of a specific tool that enabled models to install software packages they might need to complete their task. Instead, the model was able to find an undisclosed vulnerability in the package-installer program, which it used to access the broader internet at will. “The models were hyperfocused on finding a solution for ExploitGym, going to extreme lengths to achieve a rather narrow testing goal,” OpenAI’s post reads. “After gaining Internet access, the models inferred that Hugging Face potentially hosted models, datasets and solutions for ExploitGym. Knowing this, the model searched for and successfully found ways to gain access to secret information that it could use to cheat the evaluation.” Ultimately, the models found vulnerabilities in Hugging Face’s infrastructure that allowed them to “obtain test solutions directly from Hugging Face’s production database,” effectively providing the answers to the benchmark. For Hugging Face, the apparent result was a sophisticated and aggressive cyberattack, with “many thousands of individual actions across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services,” as the company stated in its initial disclosure. OpenAI has identified and reported the vulnerabilities in the package installer and is working with Hugging Face to investigate the incident further. The company also said it would implement new controls on both model testing and the related infrastructure, meant to prevent similar incidents in the future. It’s unclear whether OpenAI will face any legal consequences as a result of the breach, although it’s likely that the models’ actions violated the Computer Fraud and Abuse Act. Nevertheless, the result is an unusually vivid illustration of the power and dangers of frontier AI models operating on long time horizons. As OpenAI researcher Micah Carroll posted in response to the news , “If this doesn’t convince you that misalignment risks are going to be a key concern going forward, I don’t know what will.” When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.",
+          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
           "published_at": "2026-07-21T20:56:55Z",
           "embed_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg",
@@ -3589,7 +3661,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "7fe22c4a2154",
@@ -3613,7 +3685,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "16d2a505a31f",
@@ -3625,7 +3697,7 @@
           "source_kind": "story",
           "title": "AI and the rise of the universal entertainment app | TechCrunch",
           "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-          "body_text": "All the big entertainment apps are starting to look the same, and that’s not an accident. For a decade, platforms fought over who would dominate a single format: music, video, podcasts, audiobooks. Now, powered by AI, they’re fighting over something bigger — becoming the app you default to whenever you have time to kill, no matter what form the content takes. There are several reasons why this is the case. The market for entertainment apps is reaching maturity, so growth has slowed, pushing companies to compete on time spent and revenue-per-user instead of new sign-ups. In addition, today’s creators often work across formats, so it makes sense to provide a home for all their content, not just one piece of it. AI adds a third reason. It makes it easier for a single company to build and run several formats well, and the wider the content mix, the more time users spend in the app, which in turn drives both ad revenue and subscriptions. Netflix is one clear example of this trend, as the service over the past several years has added gaming, live sports and other events, and, more recently, short video clips and podcasts. The idea is to capture more of users’ time, even when there’s not a TV or movie they want to watch, as well as to find a way into the smaller bits of free time that people usually fill with scrolling social media, playing casual games, or watching TikTok or Reels. Spotify has also been expanding its footprint beyond its original premise as a home for streaming music. After adding podcasts, the company added support for video podcasts, social features like Q&As and commenting, stories , and messaging , as well as different types of content like fitness classes , audiobooks , narrated magazines , and even physical book sales . Meanwhile, YouTube, originally the home to longer-form creator content, moved into short-form content to compete with TikTok, while also adding dedicated space for podcasts , gaming content, music, movies and TV, sports and news, shopping, and more. Now, you can watch free movies and TV , supported by ads, stream live content, or rent or buy TV and movies to add to your library. At this rate, folding YouTube TV and YouTube Music into YouTube proper — and selling tiered access to the whole bundle — looks like a matter of when, not if. Even TikTok, largely known for short videos, offers support for long-form content and other features, like travel planning , shopping , local exploration , buying tickets to live events, and more. It even has its own standalone app for microdramas and another called TikTok Pro Events for sporting events — like the FIFA World Cup — plus music festivals, and more. While there are still some differentiators between the services today, there’s an obvious trend toward convergence over a similar set of features focused on providing users with access to content to watch, listen, play, or shop. This is also where AI comes into play. With format no longer a differentiator, the value these apps offer comes down to how well they connect users with what they want next. AI makes content recommendation across formats easier, sharpening personalization while also giving users more direct control over how those recommendations get made. Spotify, for instance, is testing a tool that will let you edit your Taste Profile , its AI-built model of your preferences. It’s also building AI features that let users chat with AI directly about what they want or build playlists of things they like — and not just music. Netflix has made a similar case. Co-CEO Greg Peters told investors in the company’s first-quarter call that new model architectures are improving personalization and letting the team iterate faster.",
+          "body_text": "All the big entertainment apps are starting to look the same, and that’s not an accident. For a decade, platforms fought over who would dominate a single format: music, video, podcasts, audiobooks. Now, powered by AI, they’re fighting over something bigger — becoming the app you default to whenever you have time to kill, no matter what form the content takes. There are several reasons why this is the case. The market for entertainment apps is reaching maturity, so growth has slowed, pushing companies to compete on time spent and revenue-per-user instead of new sign-ups. In addition, today’s creators often work across formats, so it makes sense to provide a home for all their content, not just one piece of it. AI adds a third reason. It makes it easier for a single company to build and run several formats well, and the wider the content mix, the more time users spend in the app, which in turn drives both ad revenue and subscriptions. Netflix is one clear example of this trend, as the service over the past several years has added gaming, live sports and other events, and, more recently, short video clips and podcasts. The idea is to capture more of users’ time, even when there’s not a TV or movie they want to watch, as well as to find a way into the smaller bits of free time that people usually fill with scrolling social media, playing casual games, or watching TikTok or Reels. Spotify has also been expanding its footprint beyond its original premise as a home for streaming music. After adding podcasts, the company added support for video podcasts, social features like Q&As and commenting, stories , and messaging , as well as different types of content like fitness classes , audiobooks , narrated magazines , and even physical book sales . Meanwhile, YouTube, originally the home to longer-form creator content, moved into short-form content to compete with TikTok, while also adding dedicated space for podcasts , gaming content, music, movies and TV, sports and news, shopping, and more. Now you can watch free movies and TV , supported by ads; stream live content; or rent or buy TV and movies to add to your library. At this rate, folding YouTube TV and YouTube Music into YouTube proper — and selling tiered access to the whole bundle — looks like a matter of when, not if. Even TikTok, largely known for short videos, offers support for long-form content and other features, like travel planning , shopping , local exploration , buying tickets to live events, and more. It even has its own stand-alone app for microdramas and another called TikTok Pro Events for sporting events — like the FIFA World Cup — plus music festivals, and more. While there are still some differentiators between the services today, there’s an obvious trend toward convergence over a similar set of features focused on providing users with access to content to watch, listen, play, or shop. This is also where AI comes into play. With format no longer a differentiator, the value these apps offer comes down to how well they connect users with what they want next. AI makes content recommendation across formats easier, sharpening personalization while also giving users more direct control over how those recommendations get made. Spotify, for instance, is testing a tool that will let you edit your Taste Profile , its AI-built model of your preferences. It’s also building AI features that let users chat with AI directly about what they want or build playlists of things they like — and not just music . Netflix has made a similar case. Co-CEO Greg Peters told investors in the company’s first-quarter call that new model architectures are improving personalization and letting the team iterate faster.",
           "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/scrolling-tiktok-iphone-GettyImages-2284214141.jpg?w=1024",
           "published_at": "2026-07-21T19:39:30Z",
@@ -3637,30 +3709,6 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "d20ba8bf5860",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory | TechCrunch",
-          "summary": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
-          "body_text": "Battery materials startup Sila announced Tuesday that it raised $300 million to expand its factory in Washington state to produce enough anode material for more than 100,000 EVs. Sila ’s expansion arrives as electric vehicle demand in the U.S. has softened in the wake of the Trump administration’s efforts to hamstring the propulsion technology. While sales remain depressed in the U.S., down this year relative to 2025 when demand spiked before the sunset of tax credits, EVs are taking a bigger slice of the market elsewhere. According to Benchmark Minerals Intelligence, global sales are up 27% year over year. Sila previously announced deals to supply its anode material to Mercedes and Panasonic . It also sells to consumer electronics companies such as Whoop and to drone manufacturers and satellite companies. Most lithium-ion batteries today use graphite anodes, and Chinese companies control about three-quarters of the supply chain, according to Benchmark Minerals Intelligence. That has spurred automakers outside of China to search for alternatives that aren’t subject to tariffs. Sila’s anode material is one of the few alternatives that’s available in sufficient quantity. In addition to being an alternative to Chinese graphite, Sila’s anode material can store up to 40% more energy than traditional graphite anodes. It can also charge faster. Sila has been developing the material for the last 15 years. Its founder and CEO, Gene Berdichevsky, previously worked at Tesla, where he was the seventh employee. The startup began production at its Moses Lake, Washington, plant last September . The factory is capable of making up to 2 gigawatt-hours of silicon-carbon anode material. The expansion will allow the plant to produce tens of gigawatt-hours per year, enough to power more than 100,000 EVs. While EVs are the biggest user of lithium-ion batteries, energy storage systems have been taking a bigger piece of the market as demand for electricity grows. AI data centers have become major buyers of grid-scale batteries. The packs can serve as backup power sources, help trim peak demand charges, and allow for around-the-clock use of solar and wind power. The new round was led by Atreides Management and Sutter Hill Ventures with participation from 8VC, Bessemer Venture Partners, Matrix Partners, and funds and accounts advised by T. Rowe Price Associates Inc. Sila previously raised about $1.3 billion across previous rounds, according to PitchBook. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Tim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. De Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.",
-          "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/sila-moses-lake-oblique-close-up.jpeg?resize=1200,675",
-          "published_at": "2026-07-21T19:36:35Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/09/sila-moses-lake-oblique-close-up.jpeg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
           "sort_order": 4
         },
         {
