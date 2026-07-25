@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T10:14:05Z",
+  "generated_at": "2026-07-25T11:38:59Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -1117,30 +1117,6 @@
           "sort_order": 9
         },
         {
-          "id": "0cf721a74ac6",
-          "source_id": "svt-sportnytt",
-          "source_name": "Sportnytt",
-          "provider": "SVT Play",
-          "category": "Sport",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sportnytt – Tis 14 jul 21:25",
-          "summary": "Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest",
-          "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet 36 år senare – Gais fick smakstart i Europa • Daniel Ståhls tränare förklarar oväntade anledningen bakom framgångarna • Alpina talangen ser en framtid med fler discipliner Mer om programmet Förre landslagsspelaren tillbaka i Häcken • Det drar ihop sig i Tour de France • Vanessa Kamga får sällskap av lillasyster i landslaget Mer om programmet Mjällby skrev historia på Strandvallen • IFK Göteborg utbuat på Gamla Ullevi • Jim Gottfridsson vänder hem efter utlandskonflikten Mer om programmet Spanska VM-hjältarna har landat hemma för att hyllas • Dubbla kryss i för storlagen allsvenskan • Tove Alexandersson vann i comebacken Mer om programmet Armand Duplantis bröt tävling – veckor innan EM • AIK tog tredje raka segern • Ludvig Åberg har tätkänning inför sista dagen i The Open Mer om programmet Efterlängtad hemmaseger för IFK Göteborg • Åberg klättrade rejält i The Open • Svenska U20-herrarna klart för EM-final Mer om programmet Argentina till VM-final efter sen vändning • Stenson visar form tio år efter triumfen • Lundberg handplockades till klubb i USA Mer om programmet Därför är England-Argentina ett av fotbollsvärldens hetaste rivalmöten • Möte med Vasic efter första träningen med Gais • Förlorade sin pappa i kriget – drömmer om VM i boxning Mer om programmet Spanien sätter sina gulddrömmar till 19-årige Yamal • Möte med Leo Carlsson – om pressen som bäst betald någonsin • Duplantis vann i Budapest Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
-          "url": "https://www.svtplay.se/video/8LJJy6B/sportnytt/tis-14-jul-21-25",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54519374/1784088943?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-07-14T19:25:00Z",
-          "embed_url": "https://www.svtplay.se/video/8LJJy6B/sportnytt/tis-14-jul-21-25",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Sport",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 10
-        },
-        {
           "id": "43b0106647cc",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
@@ -1162,6 +1138,30 @@
             "SVT Play"
           ],
           "is_live": true,
+          "sort_order": 10
+        },
+        {
+          "id": "0cf721a74ac6",
+          "source_id": "svt-sportnytt",
+          "source_name": "Sportnytt",
+          "provider": "SVT Play",
+          "category": "Sport",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Tis 14 jul 21:25",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.svtplay.se/video/8LJJy6B/sportnytt/tis-14-jul-21-25",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.svtplay.se/video/8LJJy6B/sportnytt/tis-14-jul-21-25",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Sport",
+            "SVT Play"
+          ],
+          "is_live": false,
           "sort_order": 11
         }
       ]
@@ -1949,6 +1949,31 @@
           "sort_order": 12
         },
         {
+          "id": "da59ed301c71",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "The Ingraham Angle - Friday, July 24 | Fox News Video",
+          "summary": "WHCA dinner , Musk , Johnny Depp",
+          "body_text": "Cutting through the Washington chatter to speak directly with people who are impacted by the news.",
+          "url": "https://www.foxnews.com/video/6402089659112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/e076af34-8398-41ff-9c47-ebdbf1405b0a/7e9e2cc4-8355-4ed4-b7a3-919d919dd7ae/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-07-25T08:44:12Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6402089659112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 13
+        },
+        {
           "id": "8a946acb0cf9",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1971,7 +1996,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 13
+          "sort_order": 14
         },
         {
           "id": "76b859e2efd6",
@@ -1988,31 +2013,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/10b0aa96-a28e-42e2-a03c-85af8484d715/4b4f94c7-9caf-4579-8c5e-6118bc773c6c/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-07-25T02:37:55Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6402069239112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "9c0a5a32a4d8",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Special Report With Bret Baier - Friday, July 24 | Fox News Video",
-          "summary": "Space X, Hate Crimes, NYC, Strait Of Hormuz, Iran",
-          "body_text": "Space X, Hate Crimes, NYC, Strait Of Hormuz, Iran",
-          "url": "https://www.foxnews.com/video/6402069432112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a406e962-fde3-4458-94da-0f4afbf8d7bb/906aef23-111f-4d1f-a8ec-3b5fb09e1c38/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-07-25T02:37:31Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6402069432112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -4110,7 +4110,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Sommarrea hos Haglöfs – just nu upp till 40% på funktionsplagg!",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4143,6 +4143,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "2f5b5400edc1",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Wilma skulle på solsemester – hamnade på fel ö",
+          "summary": "Wilma Rippert och Antaris Vannar hade tänkt njuta av den grekiska solen. Och grekiskt blev det – men fel ö. Deras plan var på väg mot Karpathos, men kraftiga vindar gjorde att de landade på Rhodos i stället. – Det var så himla obehagligt när piloten avbröt landningen, säger Wilma Rippert.",
+          "body_text": "Wilma Rippert och Antaris Vannar hade tänkt njuta av den grekiska solen. Deras plan var på väg mot Karpathos, men kraftiga vindar gjorde att de landade på Rhodos i stället. – Det var så himla obehagligt när piloten avbröt landningen, säger Wilma Rippert. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Jokkmokksborna Wilma Rippert och Antaris Vannar hade länge sett fram emot semestern på den grekiska ön Karpathos. Det var under torsdagen som resan skulle bli verklighet. Semestermålet var inom räckhåll. De kom så långt som att påbörja landningen på Karpathos, när det visade sig blåsa alldeles för kraftigt. Därför avbröt piloten landningen. – Jag förstår att de måste tvärstegra planet, men det kändes som att man skulle göra en bakåtvolt. Någon landning på Karpathos blev det inte. De klev på flyget på Arlanda och klev av på Rhodos, vilket NSD också rapporterat. Eftersom det var sent kunde inget nytt plan flyga till Karpathos samma kväll. På Rhodos lämnades nästan 100 av de 200 resenärerna att hitta sina egna boenden för natten, berättar Wilma Rippert. – Vi fick höra att det inte finns några fler hotell till oss. Klockan var då nästan ett på natten. Som tur var lyckades Wilma Rippert ändå snabbt hitta ett hotell. När hon hörde sig för verkade de flesta ha hittat någonstans att sova. Men inte alla. – Jag tror att någon stackare övernattade på flygplatsen.",
+          "url": "https://www.expressen.se/nyheter/sverige/wilma-skulle-pa-solsemester-hamnade-pa-fel-o-/",
+          "image_url": "https://static.bonniernews.se/images/bf/c6/bfc6181b9dff4951917779da414103e8/16x9/original.png",
+          "published_at": "2026-07-25T11:30:59Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/wilma-skulle-pa-solsemester-hamnade-pa-fel-o-/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "8bc9de818c95",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Johanna, 39, fick köttallergi av fästingbett: ”Allt vändes upp och ned”",
+          "summary": "Johanna Cagner fick köttallergi av ett fästingbett.",
+          "body_text": "I flera år fick Johanna Cagner olika allergisymptom utan att veta varför. Till slut knäckte en specialistläkaren koden. – Över telefon säger han ”jag tror att du är köttallergiker”, varpå jag började asgarva för jag var ju vegetarian, säger Johanna Cagner. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det började med ett vanligt fästingbett, men det tog lång tid innan boven i dramat skulle uppdagas. I flera år fick Johanna Cagner, 39, i stället olika mystiska allergisymptom i tid och otid. – Det var nässelutslag, jag höll på att svimma, blodtrycksfall. Jag kunde knappt prata, jag bara satt och sluddrade, ont i magen, säger Johanna, som tidigare pratat med P4 Sjuhärad . Men varje gång hon åkte till akuten hade symptomen hunnit försvinna. Flera år senare, när en antibiotikakur gav Johanna nässelutslag, fick hon en remiss till en allergolog, en specialistläkare som utreder och behandlar allergiska sjukdomar. Sen gick det snabbt. – Över telefon säger han ”jag tror du är köttallergiker”, varpå jag börjar asgarva för jag var ju vegetarian, säger Johanna. Allergin hade uppstått i samband med det där fästingbettet hon fått flera år tidigare. – Och så sa han, ”du har troligtvis räddat livet på dig själv genom att vara vegetarian”, säger Johanna. Det är kolhydraten alfa-gal som Johanna är allergisk mot. Den finns i däggdjurskött, bland annat ko och gris, men även produkter som exempelvis gelatin och vissa mejeriprodukter kan ge allergiska reaktioner. – Det som har varit det jobbiga är ju det med kosten. Att lära sig vad man får äta, vad man inte får äta. Att inte kunna äta ute, att inte våga grilla mat på samma grill som någon annan. Allt vändes upp och ner, säger Johanna.",
+          "url": "https://www.expressen.se/nyheter/sverige/johanna-39-fick-kottallergi-av-fastingbett/",
+          "image_url": "https://static.bonniernews.se/images/1f/8b/1f8b3b0a8665443cbff5682ada9e5ed5/16x9/original.png",
+          "published_at": "2026-07-25T10:15:28Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/johanna-39-fick-kottallergi-av-fastingbett/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "b2ac029d2680",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4164,7 +4212,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "205af73d89d0",
@@ -4188,7 +4236,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "4698b96262ab",
@@ -4200,7 +4248,7 @@
           "source_kind": "story",
           "title": "Trumps skämtsamma besked: Ställer upp igen",
           "summary": "Donald Trump förnedrade journalister men hyllade också pressens förmåga att aldrig ge sig. En annan del av hans tal under korrespondensmiddag i Vita huset tog dock rubrikerna. Att han väntas ställa upp i kommande presidentval.",
-          "body_text": "Donald Trump förnedrade journalister men hyllade också pressens förmåga att aldrig ge sig. En annan del av hans tal under korrespondensmiddag i Vita huset tog dock rubrikerna. Att han väntas ställa upp i kommande presidentval. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA:s president Donald Trump höll under natten mot lördag, svensk tid, en dryg timme långt tal på korrespondensmiddagen i Vita huset. Den ordinarie middagen i Washington DC i april ställdes in efter att Trump utsatts för ett mordförsök . Trots att presidentfrun Melania inte kunde medverka under nattens middag – klarade Trump själv av att skapa stora rubriker. Talet som växlade mellan allvar, humor och återkommande angrepp inleddes med ett stort tack till Secret Service efter attentatet. – Det var som hela landet stod enat, säger han och riktade ett särskilt tack till agenten Victor Gonzales som hedrades under kvällen. Talet skiftade snabbt från hyllningskörer till angrepp mot journalister och meningsmotståndare. Orden ”fake news” yttrades och han hävdar att medias bevakning av honom har varit ”orättvis” och politiskt vinklad. Men han passade även på att hedra pressens förmåga att aldrig ge sig. Även välkända personer som Barack Obama, tv-profilen Jimmy Fallon och kongressledamoten Ilhan Omar fick sig en känga. Men talets slutskede stack ut allra mest. Presidenten tog då fram en keps med texten ”Trump 2028” och meddelade att han ställer upp i nästa presidentval också. – Jag är glad att kunna meddela att jag har för avsikt att kandidera för en fjärde mandatperiod som USA:s president, säger han. Trots att han redan är inne på sin andra mandatperiod – det högst tillåtna antalet – är han redo att sitta kvar.",
+          "body_text": "Donald Trump förnedrade journalister men hyllade också pressens förmåga att aldrig ge sig. En annan del av hans tal under korrespondentmiddagen i Vita huset tog dock rubrikerna. Att han väntas ställa upp i kommande presidentval. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. USA:s president Donald Trump höll under natten mot lördag, svensk tid, ett dryga timmen långt tal på korrespondentmiddagen i Vita huset. Den ordinarie middagen i Washington DC i april ställdes in efter att Trump utsatts för ett mordförsök . Trots att presidentfrun Melania inte kunde medverka under nattens middag – klarade Trump själv av att skapa stora rubriker. Talet som växlade mellan allvar, humor och återkommande angrepp inleddes med ett stort tack till Secret Service efter attentatet. – Det var som hela landet stod enat, säger han och riktade ett särskilt tack till agenten Victor Gonzales som hedrades under kvällen. Talet skiftade snabbt från hyllningskörer till angrepp mot journalister och meningsmotståndare. Orden ”fake news” yttrades och han hävdar att medias bevakning av honom har varit ”orättvis” och politiskt vinklad. Men han passade även på att hedra pressens förmåga att aldrig ge sig. Även välkända personer som Barack Obama, tv-profilen Jimmy Fallon och kongressledamoten Ilhan Omar fick sig en känga. Men talets slutskede stack ut allra mest. Presidenten tog då fram en keps med texten ”Trump 2028” och meddelade att han ställer upp i nästa presidentval också. – Jag är glad att kunna meddela att jag har för avsikt att kandidera för en fjärde mandatperiod som USA:s president, säger han. Trots att han redan är inne på sin andra mandatperiod – det högst tillåtna antalet – är han redo att sitta kvar.",
           "url": "https://www.expressen.se/nyheter/varlden/trumps-skamtsamma-besked-staller-upp-igen/",
           "image_url": "https://static.bonniernews.se/images/3f/dc/3fdc26b6855342b18d70a705f2b347ba/16x9/original.jpg",
           "published_at": "2026-07-25T07:06:10Z",
@@ -4212,7 +4260,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "f93d870a0a84",
@@ -4236,7 +4284,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "ae5f79801098",
@@ -4260,7 +4308,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "a4e468d0fbd0",
@@ -4284,7 +4332,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "ae782a47faa8",
@@ -4308,7 +4356,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "7c56db1a83c3",
@@ -4325,54 +4373,6 @@
           "image_url": "https://static.bonniernews.se/images/a1/b1/a1b18f2528a1498e8c274844021f3acb/16x9/original.png",
           "published_at": "2026-07-25T00:06:13Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/barron-kan-tvingas-vittna-om-tatebroder/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "4349a6e92b88",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Trump inställd på hämnd: ”Avskum”",
-          "summary": "Trumps tålamod tryter. Irankriget tar inte slut och missnöjet växer i USA. Nu är han i stället inställd på hämnd.",
-          "body_text": "Kriget mot Iran tar inte slut och missnöjet växer i USA. Nu är han i stället inställd på hämnd, enligt källor till Wall Street Journal . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. När USA och Israel inledde sina attacker mot Iran den 28 februari sa Trump att kriget skulle vara slut inom ett par veckor. Lika länge har Trump försökt avveckla kriget. Och han börjar bli allt mer frustrerad över att det inte finns något krigsslut i sikte, enligt källor till Wall Street Journal. I veckan ska presidenten ha inlett ett möte i Ovala rummet med en harang om de iranska ledarna, där han kallade dem ”avskum” och ”galningar” följt av en rad svordomar. De senaste dagarna har Trump varit skeptisk till att förhandlingar med Iran kan leda till varaktig fred, enligt källorna. I stället ska han ha sagt att ”det enda Iran förstår är militär makt” och tillagt att han var ”i hämndläge mot Teheran”. Enligt källorna ser Trump inga andra bra alternativ än att fortsätta attackerna. I juni meddelade presidenten att USA och Iran kommit överens om ett samförståndsavtal för att återöppna Hormuzsundet. Men det varade inte länge. Vapenvilan sprack och de senaste två veckorna har konflikten trappats upp genom nya attacker. På onsdagen anföll Houthi-militanter två saudiska tankfartyg i Röda havet. Oljepriserna sköt i höjden och Trump hotade med ”en massiv attack” mot Iran om anfallen inte upphörde.",
-          "url": "https://www.expressen.se/nyheter/varlden/trump-i-hamndlage-tappat-talamodet-pa-iran/",
-          "image_url": "https://static.bonniernews.se/images/cc/46/cc469783b02d4ca2812cf96330627f55/16x9/original.jpg",
-          "published_at": "2026-07-24T21:21:33Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/trump-i-hamndlage-tappat-talamodet-pa-iran/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "6f5539f8e923",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Våldtog barn fem gånger – vill bli sjuksköterska igen",
-          "summary": "En man i 60-årsåldern på Gotland våldtog barn fem gånger och dömdes för hundratals sexualbrott mot barn. Nu ansöker han om att få tillbaka sin sjuksköterskelegitimation – igen.",
-          "body_text": "En man i 60-årsåldern på Gotland våldtog barn fem gånger och dömdes för hundratals sexualbrott mot barn. Nu ansöker han om att få tillbaka sin sjuksköterskelegitimation – igen. ”Alla kan må dåligt och göra fel i sina liv”, skriver han i ansökan. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Mannen dömdes vid Gotlands tingsrätt under sommaren 2018 för en grov våldtäkt mot barn, fyra fall av våldtäkt mot barn och hundratals andra sexualbrott mot barn. Efter överklagan skärpte Svea hovrätt mannens straff till åtta års fängelse. Ett år senare återkallade Hälso- och sjukvårdens ansvarsnämnd (HSAN) mannens legitimation för att det ansågs vara ”oförenligt med rollen sjuksköterska” och att brotten ansågs ”påverka både myndigheten och allmänhetens förtroende” för honom. Nu ansöker mannen för andra gången, inom loppet av några år, om att få tillbaka sin legitimation, rapporterar nyhetsbyrån Siren. ”Jag börjar gå mot slutet av mitt yrkesliv och hoppas kunna få jobba några år med bra lön och få en bra ålderdom”, skriver han i sin ansökan till HSAN. Redan innan mannen anhölls för sexualbrotten hade han avtjänat ett straff för grov kvinnofridskränkning och grov fridskränkning. I motiveringen till varför han ska få tillbaka sjuksköterskelegitimationen lyfter mannen att hans villkorliga dom för sexualbrotten har löpt ut. ”Det har nu gått 10 år sen allt hände och jag fick ett långt straff. Efter så lång tid som gått så önskar jag att ni kan återge mig min sjuksköterskelegitimation så att jag kan få ett bra liv de sista 8 åren av mitt yrkesliv”, skriver mannen. När han fick nej på sin första ansökan motiverades det med att han ”tog fel beslut när han satte sig på internet och pratade med fel människor”. Nu uppger mannen återigen att alla kan göra fel.",
-          "url": "https://www.expressen.se/nyheter/sverige/valdtog-barn-fem-ganger-vill-bli-sjukskoterska-igen/",
-          "image_url": "https://static.bonniernews.se/images/a1/e8/a1e8028cf257485d8b4e7e9a3f01d85a/16x9/original.jpg",
-          "published_at": "2026-07-24T19:17:26Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/valdtog-barn-fem-ganger-vill-bli-sjukskoterska-igen/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4409,7 +4409,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "SOS fick larm om en trafikolycka på våg 47 i Målilla på lördagen, rapporterar Vimmerby Tidning . Tre fordon ska vara inblandade i olycka och totalt handlar det om nio inblandade personer. Skadeläget är ännu oklart, men enligt tidigare uppgifter ska samtliga nio drabbade personer vara vakna. Olyckan ska ha stor påverkan på trafiken och enligt Trafikverkets prognos väntas störningen vara över vid 12.39, skriver tidningen. En man i 25-årsåldern på motorcykel körde av väg 702 i Linköping under förmiddagen. Mannen hade inte rätt att framföra fordonet och var påverkad, uppger polisen. Han klarade sig utan några allvarliga skador och misstänks nu för grov olovlig körning och rattfylleri. Det är strul för OpenAI, som bland annat ligger bakom AI-tjänsten ChatGPT. På sajten Downdetector har över 600 personer rapporterat problem. En drönare med hjärtstartare han före ambulansen vid ett hjärtstopp i Borås, och den drabbades hjärta kunde startas igen, rapporterar Borås Tidning . I söndags fick larmades SOS om ett förmodat hjärtstopp, 15 sekunder senare lyfte en hjärtdrönare. Två frivilliga livräddare som fanns i närheten av den drabbade tog emot hjärtstartaren som firades ner från drönare och kopplade upp den. Räddningstjänst och ambulans anlände kort efteråt och den drabbade fördes till sjukhus. Det var första skarpa testet i Västra Götalandsregionens drönarprojekt, som ska korta tiden till hjälp när ambulans dröjer, enligt P4 Sjuhärad . – De snabba insatserna räddade sannolikt hans liv. I en sådan här situation är varje minut viktig, säger Magnus Kristiansson, som är innovationsledare för drönarprojektet till Borås Tidning. Indiens utbildningsminsiter Dharmendra Pradhan avgår, rapporterar Al Jazeera. Studentrörelsen \"kackerlackspatiet\" har de senaste veckorna satt hårdpress på regeringen, och har haft som krav att ministern ska avgå. De vill också att skolsystemet i Indien ska reformeras och protesterna har pågått en längre tid. Kackerlackspartiet grundades i maj efter att en indisk domare vid ett tillfälle liknat unga arbetslösa människor som sökt sig till aktivism vid kackerlackor. Rumäniens försvarsminister Radu Miruta. Foto: Virginia Mayo/AP/TT. Rumänien sköt på lördagen ned ytterligare en drönare i sitt luftrum, uppger landets försvarsminister på Facebook. Även under fredagen sköts en drönare ned, vilket var första gången sedan Ryssland inledde sin fullskaliga invasion av Ukraina. Drönarintrång har upptäckts i Rumänien vid flera tillfällen sedan kriget startade, men rumänska styrkor hade fram till i går inte skjutit ned någon drönare. 2025 antog dock det rumänska parlamentet en lag som möjliggör att landet kan skjuta ned drönare som kränker luftrummet. Drönaren upptäcktes av försvarets radarsystem och sköts ned fem minuter senare av ett rumänskt F-16-flygplan, skriver Rumäniens försvarsminister Radu Miruta på Facebook. Återigen varnar polisen för bullbedragare mot äldre, rapporterar P4 Jönköping . På fredagen utsattes en äldre kvinna för ett rån i sitt hem i Vetlanda, i nuläget finns ingen misstänkt. I våras skedde en våg av stölder och bedrägerier mot äldre med ett specifikt tillvägagångssätt, en kvinna knackade på med en påse bakverk och försökte ta sig in i bostaden, enligt radiokanalen. Nu varnar polisen för att tillvägagångssättet kan vara tillbaka.",
+          "body_text": "En kvinna har attackerat en man i 70-årsåldern med ett vasst tillhygge på ett vårdboende i Göteborg. Kvinnan stal mannens telefon och sprang sen från platsen. Mannen har en sårskada men mår bra i övrigt, enligt polisen. Kvinnan i 40-årsåldern hittades i närområdet och har gripits misstänkt för grov misshandel och grov stöld. En kvinna som flytt till en granne i Gotland uppger att hon blivit misshandlad av sin pojkvän. Polisen åker till bostaden för att hålla förhör med kvinnan och i samband med detta kommer mannen hem, berusad i en bil. Han grips och är misstänkt för rattfylleri och misshandel, alternativt kvinnofridskränkning, skriver polisen på sin hemsida. SOS fick larm om en trafikolycka på våg 47 i Målilla på lördagen, rapporterar Vimmerby Tidning . Tre fordon ska vara inblandade i olycka och totalt handlar det om nio inblandade personer. Skadeläget är ännu oklart, men enligt tidigare uppgifter ska samtliga nio drabbade personer vara vakna, skriver tidningen. Olyckan ska ha stor påverkan på trafiken och enligt Trafikverkets prognos väntas störningen vara över vid 12.30. En man i 25-årsåldern på motorcykel körde av väg 702 i Linköping under förmiddagen. Mannen hade inte rätt att framföra fordonet och var påverkad, uppger polisen. Han klarade sig utan några allvarliga skador och misstänks men har förts till sjukhus med smärta i huvudet och kroppen. Han misstänks för grov olovlig körning och rattfylleri. Det är strul för OpenAI, som bland annat ligger bakom AI-tjänsten ChatGPT. På sajten Downdetector har över 600 personer rapporterat problem. En drönare med hjärtstartare han före ambulansen vid ett hjärtstopp i Borås, och den drabbades hjärta kunde startas igen, rapporterar Borås Tidning . I söndags fick larmades SOS om ett förmodat hjärtstopp, 15 sekunder senare lyfte en hjärtdrönare. Två frivilliga livräddare som fanns i närheten av den drabbade tog emot hjärtstartaren som firades ner från drönare och kopplade upp den. Räddningstjänst och ambulans anlände kort efteråt och den drabbade fördes till sjukhus. Det var första skarpa testet i Västra Götalandsregionens drönarprojekt, som ska korta tiden till hjälp när ambulans dröjer, enligt P4 Sjuhärad . – De snabba insatserna räddade sannolikt hans liv. I en sådan här situation är varje minut viktig, säger Magnus Kristiansson, som är innovationsledare för drönarprojektet till Borås Tidning. Indiens utbildningsminsiter Dharmendra Pradhan avgår, rapporterar Al Jazeera. Studentrörelsen \"kackerlackspatiet\" har de senaste veckorna satt hårdpress på regeringen, och har haft som krav att ministern ska avgå. De vill också att skolsystemet i Indien ska reformeras och protesterna har pågått en längre tid. Kackerlackspartiet grundades i maj efter att en indisk domare vid ett tillfälle liknat unga arbetslösa människor som sökt sig till aktivism vid kackerlackor. Rumäniens försvarsminister Radu Miruta. Foto: Virginia Mayo/AP/TT. Rumänien sköt på lördagen ned ytterligare en drönare i sitt luftrum, uppger landets försvarsminister på Facebook. Även under fredagen sköts en drönare ned, vilket var första gången sedan Ryssland inledde sin fullskaliga invasion av Ukraina. Drönarintrång har upptäckts i Rumänien vid flera tillfällen sedan kriget startade, men rumänska styrkor hade fram till i går inte skjutit ned någon drönare. 2025 antog dock det rumänska parlamentet en lag som möjliggör att landet kan skjuta ned drönare som kränker luftrummet.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
