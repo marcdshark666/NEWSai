@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:12:21Z",
+  "generated_at": "2026-08-01T11:36:48Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Fifa-bossens tvärvändning – skrotar kritiserade VM-planen Låg på 20-30 meters djup • Ska undersökas vidare Befälhavaren anhållen efter dödliga båtolyckan",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Fifa-bossens tvärvändning – skrotar kritiserade VM-planen Låg på 20-30 meters djup • Ska undersökas vidare Befälhavaren anhållen efter dödliga båtolyckan Fler prover väntas när insamlingen startar tidigare",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -2041,6 +2041,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "a936d0eba92d",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+          "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+          "body_text": "Spain has condemned the \"selfish, polarising and unlawful\" reaction of some EU countries to the influx of about 60,000 migrants from Morocco to Ceuta. Officials say almost all those who reached the enclave on 30 July have returned, while Spain's Interior Minister Fernando Grande-Marlaska said on Saturday that the death toll had risen to at least 67. It comes after Italy temporarily suspended the EU's border-free Schengen arrangement with Spain, as Prime Minister Giorgia Meloni called the scenes \"shocking\". Finland and Denmark backed Italy's move, while Czech Prime Minister Andrej Babiš urged a temporary suspension of Spain's Schengen membership. In a letter to European Commission President Ursula von der Leyen, Spanish Prime Minister Pedro Sánchez said he had \"serious concerns\" about some European governments. He said the Spanish government had fully restored control over the border and prevented any \"unauthorised onward movement towards continental Europe\" in less than 48 hours. While most had shown \"support and solidarity\", Sanchez said other European governments had chosen to attack Spain, \"driven by prejudice, fake news, ignorance, or political interest\", and pointed out that Ceuta was not part of the Schengen area. \"The European Union cannot afford this kind of selfish, polarising and unlawful reaction,\" he said. The Spanish leader called for an urgent meeting with EU interior ministers to \"reaffirm that the security of our external borders is a shared responsibility of all Member States\". Meanwhile, 22 of the EU's 27 countries also called for emergency talks in an open letter, citing \"serious concerns\" regarding the developments in Ceuta. The nations \"welcome that Spain and Morocco are cooperating closely to ensure the swift return of migrants\", but said a video conference of EU interior ministers would help reach agreement on mobilising EU instruments and support for Spain to restore \"effective control\" of the border and prevent further uncontrolled crossings. There were chaotic scenes on Thursday in Ceuta as border controls in the North African enclave apparently broke down.",
+          "url": "https://www.bbc.com/news/articles/cx2v91xn1z9o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
+          "published_at": "2026-08-01T10:11:39Z",
+          "embed_url": "https://www.bbc.com/news/articles/cx2v91xn1z9o",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "6a4794d387f0",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2062,7 +2086,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "6b3302aa47d8",
@@ -2086,7 +2110,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "2c8e483eccfb",
@@ -2110,7 +2134,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "a19f27786361",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "54a985d59fca",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "6e76dbce3e21",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "f3568d357d25",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "7391e3f4e3f8",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "e83dfd9265bd",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "95b75ef8ea42",
@@ -2273,30 +2297,6 @@
           "embed_url": "https://www.bbc.com/news/articles/cx2j9nj88rro",
           "play_mode": "page_iframe",
           "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "de2bdf2d51bb",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-          "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-          "body_text": "Spain's prime minister has blamed trafficking gangs after about 60,000 migrants crossed into the Spanish North African enclave of Ceuta from Morocco. At least 57 people died during the surge, according to local media. Pedro Sánchez called the incident a \"violation of Spain's territorial integrity\". Italy has responded by suspending the EU's border-free Schengen arrangements with Spain. The influx comes after Spain's Supreme Court ruled that migrants stopped at sea while trying to reach Ceuta or Melilla, another Spanish enclave, cannot be summarily returned to Morocco. As of Friday evening, more than 48,000 people had voluntarily returned to Morocco, Spanish officials said. One man told Reuters news agency he was going back, adding: \"It's not good at all, and it's not fun either. I mean, people are dying here. I beg you, please, if you haven't come yet, don't come. Don't do it.\" Ceuta on the North African coast is separated from mainland Spain by the Strait of Gibraltar. It has long been a focal point for migrants attempting to reach Europe. During the summer months there is often a big push to reach Ceuta, typically organised over social media. Coveted by Morocco, Ceuta and another Spanish enclave Melilla have long been a flashpoint in diplomatic relations between the two countries. They form the European Union's only land borders with Africa. Local officials had appealed to Madrid for help after a recent rise in attempted crossings, but there were chaotic scenes on Thursday as border controls apparently broke down. Carmen Gonzalez Bermudez who was in the city to see her parents told the BBC that the past day had been \"very overwhelming\". She said she saw \"thousands and thousands of people in swimming costumes and all wet, just coming from the sea\", adding that \"I know most of them are nice people just looking for a better future for themselves. But we cannot give that to them\". Víctor Ortiz Sotomayor told the BBC he had \"never seen anything like it\", describing the city as \"packed with immigrants, in every square and street, mainly looking for food\". \"There were only a few stores open, but in the end the police advised them to close because of the overwhelming influx of people,\" he added.",
-          "url": "https://www.bbc.com/news/articles/cx2kp639yx4o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2b29/live/f8112010-8d09-11f1-a7ab-8b30adf0800a.jpg",
-          "published_at": "2026-07-31T08:16:06Z",
-          "embed_url": "https://www.bbc.com/news/articles/cx2kp639yx4o",
-          "play_mode": "iframe",
-          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -2481,12 +2481,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Keiko Fujimori EN VIVO: últimas noticias de sus actividades como presidenta HOY, viernes 31 de julio",
+          "title": "Keiko Fujimori EN VIVO: actividades, reuniones y últimas noticias de sus actividades como presidenta",
           "summary": "Keiko Fujimori EN VIVO: últimas noticias y actividades en sus primeros días como presidenta del Perú",
           "body_text": "Keiko Fujimori EN VIVO: últimas noticias y actividades en sus primeros días como presidenta del Perú",
           "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-vivo-ultimas-noticias-y-actividades-en-sus-primeros-dias-como-presidenta-del-peru-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/B7QVBDDYC5GWJCBLMBYSGRXMQM.jpg?auth=6a53a257161c8f5cab6ff54890f42d04e359fe6957915f05ecd7b101239c7f5b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-01T01:13:57Z",
+          "published_at": "2026-08-01T11:00:01Z",
           "embed_url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-vivo-ultimas-noticias-y-actividades-en-sus-primeros-dias-como-presidenta-del-peru-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2758,12 +2758,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Keiko Fujimori EN VIVO: últimas noticias de sus actividades como presidenta HOY, viernes 31 de julio",
+          "title": "Keiko Fujimori EN VIVO: actividades, reuniones y últimas noticias de sus actividades como presidenta",
           "summary": "Keiko Fujimori EN VIVO: últimas noticias y actividades en sus primeros días como presidenta del Perú",
           "body_text": "Keiko Fujimori EN VIVO: últimas noticias y actividades en sus primeros días como presidenta del Perú",
           "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-vivo-ultimas-noticias-y-actividades-en-sus-primeros-dias-como-presidenta-del-peru-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/B7QVBDDYC5GWJCBLMBYSGRXMQM.jpg?auth=6a53a257161c8f5cab6ff54890f42d04e359fe6957915f05ecd7b101239c7f5b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-01T01:13:57Z",
+          "published_at": "2026-08-01T11:00:01Z",
           "embed_url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-vivo-ultimas-noticias-y-actividades-en-sus-primeros-dias-como-presidenta-del-peru-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3035,12 +3035,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Keiko Fujimori EN VIVO: últimas noticias de sus actividades como presidenta HOY, viernes 31 de julio",
+          "title": "Keiko Fujimori EN VIVO: actividades, reuniones y últimas noticias de sus actividades como presidenta",
           "summary": "Keiko Fujimori EN VIVO: últimas noticias y actividades en sus primeros días como presidenta del Perú",
           "body_text": "Keiko Fujimori EN VIVO: últimas noticias y actividades en sus primeros días como presidenta del Perú",
           "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-vivo-ultimas-noticias-y-actividades-en-sus-primeros-dias-como-presidenta-del-peru-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/B7QVBDDYC5GWJCBLMBYSGRXMQM.jpg?auth=6a53a257161c8f5cab6ff54890f42d04e359fe6957915f05ecd7b101239c7f5b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-01T01:13:57Z",
+          "published_at": "2026-08-01T11:00:01Z",
           "embed_url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-vivo-ultimas-noticias-y-actividades-en-sus-primeros-dias-como-presidenta-del-peru-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3312,12 +3312,12 @@
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Keiko Fujimori EN VIVO: últimas noticias de sus actividades como presidenta HOY, viernes 31 de julio",
+          "title": "Keiko Fujimori EN VIVO: actividades, reuniones y últimas noticias de sus actividades como presidenta",
           "summary": "Keiko Fujimori EN VIVO: últimas noticias y actividades en sus primeros días como presidenta del Perú",
           "body_text": "Keiko Fujimori EN VIVO: últimas noticias y actividades en sus primeros días como presidenta del Perú",
           "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-vivo-ultimas-noticias-y-actividades-en-sus-primeros-dias-como-presidenta-del-peru-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/B7QVBDDYC5GWJCBLMBYSGRXMQM.jpg?auth=6a53a257161c8f5cab6ff54890f42d04e359fe6957915f05ecd7b101239c7f5b&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-01T01:13:57Z",
+          "published_at": "2026-08-01T11:00:01Z",
           "embed_url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-vivo-ultimas-noticias-y-actividades-en-sus-primeros-dias-como-presidenta-del-peru-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4095,6 +4095,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "b7acc61f7c1b",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Miljonregn – vet inte vad bolaget köper",
+          "summary": "Kungabarnens eget investmentbolag gör miljonvinst – igen. Förra året bröt de mot traditionen och plockade ut vinst. Nu är ordningen återställd.",
+          "body_text": "Kungabarnens eget investmentbolag gör miljonvinst – igen. Förra året bröt de mot traditionen och plockade ut vinst. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kungabarnens investmentbolag Gluonen AB bildades 1989 och förvaltar deras värdepapper. Bolaget har funnits i 37 år, men inte förrän 2025 plockade de ut en del av sin vinst . Vad de användes till – eller hur de fördelades – ville kungahuset inte kommentera då. Nu säger Jan Lindman, hovets ekonomichef och vd i Gluonen, att det inte var kungabarnen som låg bakom. – Vi fann, på basis av den långsiktiga utvecklingen, att det var lämpligt. Styrelsen tyckte det. Två miljoner är inte så stor andel av förmögenheten, säger han. I år är ordningen återställd. Miljonvinsten går tillbaka till verksamheten. Under 2025 uppgick resultatet efter finansiella poster till 3 818 330 kronor. Det är nästan exakt samma som för 2024 då resultat var 3 820 731 kronor. Resultatet efter skatt blev dryga tre miljoner. Jan Lindman berättar att han och styrelsen köper och säljer utan att informera kungabarnen. Skälet: Annars riskerar de att begå brott.",
+          "url": "https://www.expressen.se/nyheter/kungligt/kungabarnens-miljonregn-vet-inte-vad-bolaget-koper/",
+          "image_url": "https://static.bonniernews.se/images/ec/38/ec38c9b4ab6b4a389361d7937d937a60/16x9/original.png",
+          "published_at": "2026-08-01T11:19:13Z",
+          "embed_url": "https://www.expressen.se/nyheter/kungligt/kungabarnens-miljonregn-vet-inte-vad-bolaget-koper/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "188f10d94434",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Slagsmål på idrottsplats",
+          "summary": "Två män har hamnat i slagsmål på en idrottsplats i södra Stockholm. Båda har förhörts till sjukhus – och gripits.",
+          "body_text": "Två män har hamnat i slagsmål på en idrottsplats i södra Stockholm. Båda har förhörts till sjukhus – och gripits. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vid lunchtid utbröt slagsmålet mellan två män på Sätra idrottsplats i södra Stockholm. Båda hade blivit skadade med ett vasst föremål, enligt polisen som ryckte ut till platsen. Inledningsvis ses båda männen som brottsmisstänkta. Också en ambulanshelikopter har ryckt ut till platsen. Männen har förts till sjukhus. Händelsen utreds som mord- eller dråpförsök och båda männen är gripna. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/sverige/slagsmal-pa-satra-ip-i-stockholm-tva-gripna/",
+          "image_url": "https://static.bonniernews.se/images/c3/92/c3925a0f7f1b46a5a88b624df088d1bc/16x9/original.jpg",
+          "published_at": "2026-08-01T11:14:25Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/slagsmal-pa-satra-ip-i-stockholm-tva-gripna/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "f746d7796b0d",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Flygplan i krasch",
+          "summary": "Ett mindre flygplan har börjat brinna efter en misstänkt krasch på flygplatsen i Karlstad. En person färdades i planet. – Flygplanet är helt utbrunnet, säger Ilona Lindholm, teamledare på SOS Alarm.",
+          "body_text": "Ett mindre flygplan har börjat brinna efter en misstänkt krasch på flygplatsen i Karlstad. – Flygplanet är helt utbrunnet, säger Ilona Lindholm, teamledare på SOS Alarm. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vid lunchtid under lördagen kom larm om att ett mindre flygplan kraschat vid landningsbanan på Karlstads flygplats. En person ska ha befunnit sig i planet, enligt SOS Alarm. – Polis och räddningstjänst är på väg till platsen, sa Mats Öhman, presstalesperson på polisen. Ambulanshelikopter var först på plats och arbetade initialt med att försöka släcka branden med de brandsläckare som fanns att tillgå. Klockan 12:18 meddelade räddningstjänsten att flygplanet var helt utbrunnet. – Det rör sig om ett mindre plan. Räddningstjänsten är på plats tillsammans med ambulans, polis och flygplatsens eget brandförsvar, säger Ilona Lindholm på SOS Alarm. • Kontakta Expressen på tipsa@expressen.se eller skicka SMS/MMS till 0790-643 643 • Här kan du läsa mer om hur du tipsar Expressen Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/sverige/mindre-flygplan-i-brand-i-karlstad/",
+          "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
+          "published_at": "2026-08-01T10:26:50Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/mindre-flygplan-i-brand-i-karlstad/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "c8ebea06a59a",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4104,7 +4176,7 @@
           "source_kind": "story",
           "title": "Handslaget som väckte stora ilskan",
           "summary": "Migrantanstormningen till den spanska exklaven Ceuta skapades medvetet av Marocko. Det menar Carl Bildt – som pekar på ett känsligt möte. Toppdiplomaten Jan Eliasson är inne på samma linje. ”En fabrikation”, skriver han på X.",
-          "body_text": "Migrantanstormningen till den spanska exklaven Ceuta skapades medvetet av Marocko. Det menar Carl Bildt – som pekar på ett känsligt möte. Toppdiplomaten Jan Eliasson är inne på samma linje. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På torsdagen tog sig 50 000 marockanska migranter över gränsen till den spanska enklaven Ceuta , som gränsar till Marocko. Nu tyder allt mer på att migrantkrisen är fabricerad. Det menar toppdiplomaten och tidigare utrikesministern Jan Eliasson (S) i ett inlägg på X. De allra flesta av de tiotusentals som tog sig till Ceuta har redan återvänt till Marocko, konstaterar han. ”Ceuta ingår för övrigt inte i Schengen”, skriver Eliasson. Han tror att Spaniens närmande till Marockos ärkefiende Algeriet har upprört landet. ”Spaniens syn på migration och Israel göder också manipulation av opinion. Keep cool”, avslutar han. Också tidigare stats- och utrikesministern Carl Bildt (M) är inne på spåret att det kan ha varit en planerad aktion från Marocko. – Det finns rätt mycket som tyder på att de marockanska myndigheterna har skjutsat folk till gränsen och att de marockanska gränsvakterna har tagit bort sina delar av gränshindren för att möjliggöra detta, säger han till Ekot .",
+          "body_text": "Migrantanstormningen till den spanska exklaven Ceuta skapades medvetet av Marocko. Det menar Carl Bildt – som pekar på ett känsligt möte. Toppdiplomaten Jan Eliasson är inne på samma linje. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På torsdagen tog sig 50 000 marockanska migranter över gränsen till den spanska enklaven Ceuta , som gränsar till Marocko. Nu tyder allt mer på att migrantkrisen är fabricerad. Det menar toppdiplomaten och tidigare utrikesministern Jan Eliasson (S) i ett inlägg på X. Nu har de flesta migranter återvänt till Marocko, enligt den spanske inrikesministern. – Så gott som alla har redan lämnat Ceuta, säger Fernando Grande-Marlaska vid en presskonferens, enligt AFP. ”Ceuta ingår för övrigt inte i Schengen”, skriver Eliasson. Han tror att Spaniens närmande till Marockos ärkefiende Algeriet har upprört landet. ”Spaniens syn på migration och Israel göder också manipulation av opinion. Keep cool”, avslutar han. Också tidigare stats- och utrikesministern Carl Bildt (M) är inne på spåret att det kan ha varit en planerad aktion från Marocko.",
           "url": "https://www.expressen.se/nyheter/varlden/bildt-medvetet-migranttryck-av-marocko/",
           "image_url": "https://static.bonniernews.se/images/dc/ed/dced112c6192430190370dfc3628c59c/16x9/original.png",
           "published_at": "2026-08-01T09:00:18Z",
@@ -4116,7 +4188,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "bdf90232c441",
@@ -4140,7 +4212,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "11f13135bf20",
@@ -4150,11 +4222,11 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Kräver krismöte efter kaoset",
+          "title": "Kräver krismöte med EU: ”Akut”",
           "summary": "Statsminister Ulf Kristersson har tillsammans med 14 andra europeiska ledare signerat ett brev till EU, med anledning av migrantkrisen i spanska Ceuta. Ledarna uppmanar till krismöte. ”De senaste dagarnas händelser kräver en omedelbar och samordnad europeisk insats”, står det i brevet.",
           "body_text": "Statsminister Ulf Kristersson har tillsammans med 14 andra europeiska ledare signerat ett brev till EU, med anledning av migrantkrisen i spanska Ceuta. ”De senaste dagarnas händelser kräver en omedelbar och samordnad europeisk insats”, står det i brevet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Under torsdagen stormade tiotusentals människor gränsen till den spanska exklaven Ceuta. Flera av migranterna tog sig förbi gränsen till Marocko genom att simma – och händelsen har väckt starka reaktioner världen över. Nu har 15 stats- och regeringschefer i Europa, däribland Ulf Kristersson , signerat ett gemensamt brev till EU – med krav på en omedelbar insats. Brevet skickas till Europeiska rådets ordförande António Costa, EU-kommissionens ordförande Ursula von der Leyen och det irländska ordförandeskapet i EU:s ministerråd. ”Vi förväntar oss att den nuvarande situationen, med stöd av Europeiska unionen, kommer att bringas under full kontroll”, står det i brevet. Ledarna uttrycker en ”djup oro” över utvecklingen vid EU:s yttre gräns och säger att människosmugglare försöker utnyttja läget för att undergräva gränskontrollen. De menar också att den senaste tidens händelser riskerar att skapa en bild av att olaglig inresa i EU kan leda till laglig vistelse i förlängningen. De europeiska ledarna kräver nu ett extrainsatt krismöte bland inrikesministrarna. ”Mot bakgrund av situationens allvar vill vi be det irländska ordförandeskapet i Europeiska unionens råd att omgående sammankalla ett extra videomöte med inrikesministrarna”. ”Detta möte bör möjliggöra en gemensam bedömning av situationen och en överenskommelse om en samordnad europeisk insats, innehållande en snabb mobilisering av tillgängliga EU-instrument samt nödvändiga stödet till Spanien för att återupprätta en effektiv kontroll av unionens yttre gräns och förhindra ytterligare okontrollerade gränsövergångar. Ministrarna bör särskilt överväga ett utökat stöd till Frontex och effektiviteten i EU:s samarbete med Marocko”, står det i brevet. Bland undertecknarna finns Italiens premiärminister Giorgia Meloni, Polens premiärminister Donald Tusk, Danmarks statsminister Mette Frederiksen, Finlands statsminister Petteri Orpo och Sveriges statsminister Ulf Kristersson.",
           "url": "https://www.expressen.se/nyheter/sverige/kristersson-i-gemensamt-brev-till-eu-kraver-akut-mote/",
-          "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
+          "image_url": "https://static.bonniernews.se/images/13/f4/13f4ca969d3540e1bc8cdc9b622c7e4a/16x9/original.jpg",
           "published_at": "2026-08-01T08:38:12Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/kristersson-i-gemensamt-brev-till-eu-kraver-akut-mote/",
           "play_mode": "page_iframe",
@@ -4164,7 +4236,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "89af00b5ef12",
@@ -4188,7 +4260,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "8f56d3a03194",
@@ -4212,7 +4284,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "a7653ad4239f",
@@ -4222,85 +4294,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Här bärgas båten efter dödsolyckan – insatsen i natt",
-          "summary": "Kustbevakningen har nu bärgat fritidsbåten vid Tjörn. Båten plockades upp natten mot lördagen, på 20 till 30 meters djup.",
-          "body_text": "Kustbevakningen har nu bärgat fritidsbåten vid Tjörn. Båten plockades upp natten mot lördagen, från 20 till 30 meters djup. – Vi har använt oss av undervattensfarkost, säger Pontus Ekström, vakthavande befäl på Kustbevakningen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det har nu gått fyra dagar sedan båtolyckan utanför Tjörn , där en liten fritidsbåt kolliderade med ett handelsfartyg vid Tjörn. En mamma och hennes dotter dog, medan pappan och sonen fördes till sjukhus. Skadeläget för dem beskrevs på fredagen som stabilt. Nu har kustbevakningen bärgat familjens fritidsbåt ur vattnet. – Vi har bistått polis och åklagare och hjälpt till att bärga båten under natten, säger Pontus Ekström, vakthavande befäl på Kustbevakningen. Det var kustbevakningens fartyg KBV 001 Poseidon som kallades in från Göteborg och bärgade båten. På bilder syns insatsen som skedde natten till lördagen. – Vi resursförstärkte med dykare på båten. Normalt sett har vi tre stycken dykare på KBV 001, men nu har vi haft fem stycken – varav en dykningsledare, säger Pontus Ekström. Efter bärgningen fördes båten till Göteborg där den ska fortsätta undersökas av polisen, skriver NyheterSTO som rapporterat om bärgningen. Efter olyckan i tisdags kväll drog en stor sökinsats i gång efter den saknade mamman och dottern.",
-          "url": "https://www.expressen.se/nyheter/sverige/har-bargas-baten-efter-olyckan-utanfor-tjorn/",
-          "image_url": "https://static.bonniernews.se/images/6d/4e/6d4ee11313b146ed9a0e3d6f6e701e7b/16x9/original.png",
-          "published_at": "2026-08-01T06:44:44Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/har-bargas-baten-efter-olyckan-utanfor-tjorn/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "34ea640802e8",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Efter nya lagen – så många vill byta kön",
-          "summary": "Nära 2 000 personer har ansökt om att ändra juridiskt kön sedan den nya könstillhörighetslagen trädde i kraft för drygt ett år sedan, rapporterar SVT.",
-          "body_text": "Nära 2 000 personer har ansökt om att ändra juridiskt kön sedan den nya könstillhörighetslagen trädde i kraft för drygt ett år sedan, rapporterar SVT. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Lagen, som gjort det lättare att byta juridiskt kön utan krav på exempelvis medicinsk diagnos, trädde i kraft 1 juli i fjol. Sedan dess och till och med den 31 maj 2026 har Socialstyrelsen fått in 1 979 ansökningar. Den nya lagen inbegriper möjlighet att byta juridiskt kön redan från 16 års ålder och 271 av ansökningarna kommer från personer som är under 18 år. Av det totala antalet ansökningar har omkring 89 procent bifallits och 3 procent fått avslag. Innan lagen trädde i kraft brukade Socialstyrelsen få in runt 300–600 ansökningar om byte av juridiskt kön. Den gamla lagstiftningen inkluderade även tillstånd för kirurgiska ingrepp. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/sverige/sa-manga-har-ansokt-om-konsbyte/",
-          "image_url": "https://static.bonniernews.se/images/52/0e/520e8764ae2449ea9079ab655e8d6c3d/16x9/original.jpg",
-          "published_at": "2026-08-01T06:18:27Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/sa-manga-har-ansokt-om-konsbyte/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "2a899b531f64",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Straffen dubblas – trots kritiken",
-          "summary": "Från och med nu ska Sveriges domstolar döma ut dubbla straff för gängkriminella – trots hård kritik från flera instanser. Samtidigt blir ett 50-tal straffskalor hårdare.",
-          "body_text": "Från och med nu ska Sveriges domstolar döma ut dubbla straff för gängkriminella – trots hård kritik från flera instanser. Samtidigt blir ett 50-tal straffskalor hårdare. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En gängkriminell som grips med ett skjutvapen riskerar i dag fängelse i åtta år. I går var det fyra. De dubbla straffen ska även gälla minderåriga. Det finns dock ett tak på 18 år för hur långt ett dubblerat straff kan bli. Regeringen har också föreslagit straffrabatter för ungdomar. I lagändringarna ingår även skärpningar av ett 50-tal straffskalor, bland annat för vålds- och sexbrott. Upprepade grova våldtäkter ska dessutom kunna ge livstids fängelse. Regeringen har gång på gång upprepat att förändringarna innebär den största straffreformen sedan brottsbalken infördes 1965. – Farliga kriminella ska sitta inne, så att skötsamma människor kan känna sig trygga i sina hem och våga vara ute, sade justitieminister Gunnar Strömmer (M) när förslagen lanserades i våras. Förslagen har fått hård kritik från flera håll – bland annat av Lagrådet, som har dömt ut reformerna som ”hastverk”, förberedda på ett undermåligt sätt och där regeringen inte har tagit hänsyn till remissinstansernas kritik. ”Inte förutsättningar att bli ny lag”, är rådets sammantagna bedömning. Danmark har haft dubbla straff för gängkriminella i flera år och regeringen har haft grannlandet som förebild. Samtidigt pekar forskare på flera studier som visar att de förlängda straffen är ineffektiva eller till och med kontraproduktiva. – För mig är det svårt att förstå. Man har solida bevis för vad som fungerar och inte fungerar för att minska brottsligheten. Ändå insisterar man på att använda svenska skattepengar till något som inte är effektivt, sade kriminologen David Sausdal till TT i våras.",
-          "url": "https://www.expressen.se/nyheter/politik/dubbla-straff-for-gangkriminella-trots-kritik/",
-          "image_url": "https://static.bonniernews.se/images/49/e5/49e539ad46a04ac1b417c32890f70be6/16x9/original.jpg",
-          "published_at": "2026-08-01T06:13:49Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/dubbla-straff-for-gangkriminella-trots-kritik/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "426b920b271c",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen I dag 09.36 Planerar massiv bombning av Iran",
+          "title": "Sverige I dag 08.44 Här bärgas båten efter olyckan utanför Tjörn",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
+          "url": "https://www.expressen.se/nyheter/sverige/har-bargas-baten-efter-olyckan-utanfor-tjorn/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/har-bargas-baten-efter-olyckan-utanfor-tjorn/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4311,20 +4311,20 @@
           "sort_order": 8
         },
         {
-          "id": "7e221a7b71da",
+          "id": "34ea640802e8",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Politik I dag 06.51 Liberalernas krisplan: Stödröster från SD",
+          "title": "Sverige I dag 08.18 Så många har ansökt om könsbyte",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/liberalernas-krisplan-stodroster-fran-sd/",
+          "url": "https://www.expressen.se/nyheter/sverige/sa-manga-har-ansokt-om-konsbyte/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/liberalernas-krisplan-stodroster-fran-sd/",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/sa-manga-har-ansokt-om-konsbyte/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
