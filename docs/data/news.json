@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T18:14:45Z",
+  "generated_at": "2026-08-02T19:38:07Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "988cbbd69ca1",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Konkurserna ökar igen",
+          "summary": "Nyheter från TV4: Konkurserna ökar igen",
+          "body_text": "Konkurserna minskade i november. Arkivbild. Företagskonkurserna ökar igen – efter sju månaders nedgång, visar statistik från kreditupplysningsföretaget Syna. Sammantaget gick 532 aktiebolag i konkurs under juli i år, skriver Dagens industri . Storstadsregionerna hör till de hårdast drabbade. I Skåne ökade konkurserna med 39 procent jämfört med föregående år, och för Stockholm är motsvarande siffra 17 procent. Ackumulerat sedan årsskiftet har konkurserna minskat med sex procent sedan årsskiftet. ”Rädslan är ju att det här trendbrottet innebär en ny ökning igen”, uppger Stefan Sandgren, statistikansvarig på Syna, för Di.",
+          "url": "https://www.tv4.se/artikel/tt-260802-konkurser1-41e5ffea/konkurserna-okar-igen",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdljPCkGZNEBG4/39a9aa97d225909869d13ff9f446327f/Konkurserna_minskade_i_november._Arkivbild.",
+          "published_at": "2026-08-02T18:15:36Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260802-konkurser1-41e5ffea/konkurserna-okar-igen",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "25a69a87e205",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "62b349dc2868",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "a3b99b7452e4",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "ef6f5e5a35e0",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdljdDa_eNG0qs/90a4ac073aedf7586938a720587a3a56/Bostadspriserna_rasar_som_mest_i_norra_Sverige_och_i_Storstockholm._Arkivbild._",
           "published_at": "2026-08-02T04:00:12Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260802-bostadspriser1-fc0f8d92/prisras-pa-lagenheter-i-juli-sticker-ut",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "e38f89269f7d",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Extremväder driver upp kopparpriset",
-          "summary": "Nyheter från TV4: Extremväder driver upp kopparpriset",
-          "body_text": "Koppar används bland annat i mobiltelefoner, elbilar och hushållsapparater. Arkivbild. Snöfall, stormar och översvämningar i Chiles bergsregioner har tvingat flera gruvbolag i området att stoppa sin kopparproduktion. Något som driver kopparpriset mot nya rekordnivåer, rapporterar nyhetskanalen CNBC. Broar som täcks av snömassor och personal som evakuerats från anläggningar. Den senaste tidens extremväder, som hittills krävt 13 människoliv i Chile, har slagit ut kraftledningar och fått flera gruvbolag att avbryta sin produktion. Berörda bolag flaggar för än värre följder om extremvädret fortsätter och strateger varnar för att störningarna kan höja kopparpriserna ytterligare. Chile står för runt en femtedel av världens kopparproduktion. Råvaran är avgörande för att bygga upp AI-industrin. Kopparpriserna har stigit på senare år och nådde i juni rekordnivån på 13 643 dollar (nära 130 000 kronor) per ton. I fredags låg kopparpriset på 13 581 dollar per ton.",
-          "url": "https://www.tv4.se/artikel/tt-260801-extremvaderkopparpris1-f2477cae/extremvader-driver-upp-kopparpriset",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlq63OReQKzTY/154d775609652ab6d16f0a11ef948fc0/Koppar_anvands_bland_annat_i_mobiltelefoner__elbilar_och_hushallsapparater._Arkivbild.",
-          "published_at": "2026-08-01T08:57:20Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260801-extremvaderkopparpris1-f2477cae/extremvader-driver-upp-kopparpriset",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -311,7 +311,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 9,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -339,7 +339,7 @@
           "sort_order": 0
         },
         {
-          "id": "cc2c058acb83",
+          "id": "846d3f58408e",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
@@ -348,11 +348,11 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 21:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/ed66QY2/rapport/ikvall-21-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-02T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/ed66QY2/rapport/ikvall-21-00",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 31 jul 22:30 4 min 41 sek Publicerades: Fre 31 jul 08:30 4 min 57 sek Publicerades: Fre 31 jul 08:00 4 min 57 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/ed66QY2/rapport/ikvall-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54628592/1785698531?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-02T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/ed66QY2/rapport/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -361,6 +361,54 @@
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "302003bacc70",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 31 jul 22:30 4 min 41 sek Publicerades: Fre 31 jul 08:30 4 min 57 sek Publicerades: Fre 31 jul 08:00 4 min 57 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/KqPPXJD/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54627047/1785679936?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-02T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/KqPPXJD/rapport/idag-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "a49c2df014f4",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 22:30",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 31 jul 22:30 4 min 41 sek Publicerades: Fre 31 jul 08:30 4 min 57 sek Publicerades: Fre 31 jul 08:00 4 min 57 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/85ddAmb/rapport/igar-22-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54626381/1785616926?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-01T22:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/85ddAmb/rapport/igar-22-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "9646c151c580",
@@ -384,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "ee56742e8369",
@@ -408,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "997f4c61f56a",
@@ -432,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "3c55453fda14",
@@ -456,7 +504,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "dcb8f618c232",
@@ -480,7 +528,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "d33fd22b8130",
@@ -504,7 +552,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "9239d12b6c27",
@@ -528,7 +576,31 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 10
+        },
+        {
+          "id": "9b781c5bd64f",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 31 jul 22:30 4 min 41 sek Publicerades: Fre 31 jul 08:30 4 min 57 sek Publicerades: Fre 31 jul 08:00 4 min 57 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/emyyZbn/rapport/igar-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54625955/1785593706?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-01T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/emyyZbn/rapport/igar-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 11
         }
       ]
     },
@@ -1902,20 +1974,20 @@
           "sort_order": 13
         },
         {
-          "id": "6f0aca4d6599",
+          "id": "b67b5811cdf2",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "My View With Lara Trump - Saturday, August 1 | Fox News Video",
-          "summary": "Iran, Trump, Ukraine, Russia, China",
-          "body_text": "Presenting in-depth analysis of the issues and stories that matter most to Americans.",
-          "url": "https://www.foxnews.com/video/6402624241112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/8e65881d-bc22-4f65-ab1a-7ec69bf372cd/0f3fc6da-8e9e-4345-971b-b7f2fd88cc94/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-02T16:22:51Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6402624241112",
+          "title": "The Sunday Briefing - Sunday, August 2 | Fox News Video",
+          "summary": "The Sunday Briefing, Jacqui Heinrich, President Trump, Iran, JD Vance, James Carville",
+          "body_text": "The Sunday Briefing, Jacqui Heinrich, President Trump, Iran, JD Vance, James Carville Jacqui Heinrich features newsmakers and expert analysis on the week's top stories.",
+          "url": "https://www.foxnews.com/video/6402645394112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/b6b7ed12-55ab-4c36-806a-459a8bb18ce6/ad6edffd-6e77-472c-94ab-48c308983012/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-02T18:03:38Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6402645394112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1927,20 +1999,20 @@
           "sort_order": 14
         },
         {
-          "id": "48f5357d2df7",
+          "id": "325f9757f439",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Life, Liberty, and Levin - Saturday, August 2 | Fox News Video",
-          "summary": "Oil, Iran , Mamdani",
-          "body_text": "Life, Liberty & Levin explores the fundamental values and principles undergirding America.",
-          "url": "https://www.foxnews.com/video/6402623589112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/30ac6d33-51ae-4ba6-896c-0f6af8a5756d/8f4ef2b2-daf0-46d6-9aed-e01238547ef3/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-02T07:05:18Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6402623589112",
+          "title": "Sunday Morning Futures With Maria Bartiromo - Sunday, August 2 | Fox News Video",
+          "summary": "Sunday Morning Futures, Maria Bartiromo, President Trump, Iran, Save America Act, Anthony Fauci",
+          "body_text": "Sunday Morning Futures, Maria Bartiromo, President Trump, Iran, Save America Act, Anthony Fauci Analysis of recent economic developments and interviews with business leaders and newsmakers.",
+          "url": "https://www.foxnews.com/video/6402645961112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/fcf0e5ba-5748-46c1-8519-e18685b2b7e8/fe97321e-4cbe-4163-b923-0efd0356c8b1/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-02T18:00:17Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6402645961112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3999,6 +4071,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "1dd34ce84eca",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Olof K Gustafsson efter domen: Jag ångrar ingenting",
+          "summary": "Olof K Gustafsson efter domen: Jag ångrar ingenting",
+          "body_text": "Affärsmannen Olof K Gustafsson har just dömts i USA till fyra års fängelse för bedrägeri, men har redan stora planer för framtiden. Han drömmer om en storfilm och en 1 000 sidor lång självbiografi. – Snart kommer jag ut och då blir det Hollywoodfilm, säger han – och lovar att aldrig mer begå brott. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En domstol i Los Angeles dömde i fredags Olof K Gustafsson, 33, till fyra års fängelse för bedrägeri – och till att betala motsvarande över tolv miljoner kronor till människor han lurat genom att sälja varor som inte fanns. Men han räknar med att bli fri redan i maj nästa år efter straffrabatt. Han berättar nu på mejl inifrån fängelset i Kalifornien om sina tankar och planer efter domen. – Jag ångrar ingenting, jag är affärsman och det finns risk i alla affärer. Jag sitter min tid för de brott jag var tvungen att erkänna för att undvika ett längre straff, säger Olof K Gustafsson. – En sak är säker, jag kommer aldrig mer att göra några som helst brott eller vad som kan anses som skumma affärer. Jag har lärt min läxa genom att inte kunna träffa min familj, min fru och min dotter halva hennes liv, säger han. Gustafsson hävdar att han har betalat motsvarande 3,8 miljoner kronor av totalt motsvarande 12,4 miljoner kronor som han ska betala tillbaka till sina offer. Därmed har alla amerikanska offer fått betalt, enligt Gustafsson. Han säger att han ägde två fastigheter i Kalifornien som de amerikanska myndigheterna nu ska auktionera ut för att få in pengar för att täcka den resterande skulden. Och han hoppas att det ska räcka till övriga ”offer från hela världen”. – Nu måste jag göra det bästa av situationen. Snart kommer jag ut och då blir det Hollywoodfilm. Och jag ska lansera en bok om mitt liv, den lär bli 1 000 sidor när jag är klar, säger han hoppfullt och preciserar sina drömmar om succé genom att nämna två storfilmer från Hollywood: – Det blir en otrolig filmupplevelse. Tänk dig War Dogs möter Wolf of Wall Street.",
+          "url": "https://www.expressen.se/nyheter/sverige/olof-k-gustafsson-jag-angrar-ingenting/",
+          "image_url": "https://static.bonniernews.se/images/6f/13/6f132a5beea1424c8af3f786bb553cbd/16x9/original.jpg",
+          "published_at": "2026-08-02T19:02:23Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/olof-k-gustafsson-jag-angrar-ingenting/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "481c1119ebc8",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Trumps osannolika golfvinst: ”Jag har TALANG”",
+          "summary": "USA:s president Donald Trump har gjort det igen. På söndagen vann han ännu en golftävling – trots sparsamt med träning. ”Det kallas TALANG, och jag har det, medan de andra inte har det,” skriver han.",
+          "body_text": "USA:s president Donald Trump har gjort det igen. På söndagen vann han ännu en golftävling – trots sparsamt med träning. ”Det kallas TALANG, och jag har det, medan de andra inte har det,” skriver han. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Under söndagen spelade han Bedminster Club Championship – en golfturnering i New Jersey på sin egen golfbana. På hans egna sociala medieplattform skriver presidenten att han vann på 70 slag. ”Jag känner mig verkligen hedrad över att jag, till skillnad från de övriga deltagarna, har väldigt lite tid att träna eftersom jag är upptagen med många andra saker.” ”Det kallas TALANG, och jag har det, medan de andra inte har det!” Men Trumps resultat har väckt frågetecken. Paret på golfklubben är 72, vilket betyder att presidentens påstådda resultat slutade två under par, skriver The Mirror . Enligt tidningens uppgifter har Trump vunnit sitt egna mästerskap 40 gånger och förra året påstods han ha slutat på 69 slag. Presidentens golfkunskaper har ifrågasatt, bland annat av sportjournalisten Rick Reilly. ”När det gäller fusk är han en 11:a på en skala från ett till tio”, har Reilly sagt en gång, enligt The Mirror.",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-osannolika-golfvinst-jag-har-talang/",
+          "image_url": "https://static.bonniernews.se/images/97/a1/97a1e2faa3394990af5f8ebcefb628ec/16x9/original.jpg",
+          "published_at": "2026-08-02T18:56:48Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-osannolika-golfvinst-jag-har-talang/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "2852db5f44da",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Fick nog av oväsen – vill ha ett förbud",
+          "summary": "Förbud mot gräsklippning på söndagar: ”Nu har jag fått nog”",
+          "body_text": "Gräsklippning på söndagar borde stoppas. Norrmannen Bernt Aage Lindsjö, 69, hyllar förslaget. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ett medborgarförslag i Torsby vill stoppa gräsklippning på söndagar, rapporterar P4 Värmland. Bernt Aage Lindsjö, 69, i Karlstad håller med. Han är ursprungligen från Norge där söndagar går under lagen för helgdagsfrid: Inget otillbörligt oväsen eller oljud. – Man får inte spika upp staket eller klippa gräset. Söndagen är en dag för vila och frid, säger Bernt Aage Lindsjö, 69, som just nu befinner sig på promenad i Norge. – Jag går runt här och allt är stängt. Det är ingen som gör något störande på en söndag, utan man är respektfull. Det är lag på det, säger han. Kvinnan som skrev medborgarförslaget har bott i sin lägenhet i Torsby i över 20 år och har nu tröttnat på sina störiga grannar. I förra veckan fick hon nog. Droppen var när en granne drog i gång gräsklipparen på söndag förmiddag. – Klart vi ska stå ut med olika ljud runt. Någon dag skulle det vara skönt att sitta utan gräsklippare, och sen kommer röjsågen efteråt. Jag tycker att det finns ju gränser, säger hon till radion. Men hon har inga vidare förhoppningar om att förslaget ska bli verklighet. – Ärligt talat så tror jag inte att det händer någonting. Bernt Aage Lindsjö minns tillbaka till uppväxten i Norge, präglad av lugna och fridfulla söndagar.",
+          "url": "https://www.expressen.se/nyheter/sverige/forbud-mot-grasklippning-pa-sondagar-finns-ju-granser/",
+          "image_url": "https://static.bonniernews.se/images/02/63/0263621389594c62912a4745642a920a/16x9/original.png",
+          "published_at": "2026-08-02T18:31:37Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/forbud-mot-grasklippning-pa-sondagar-finns-ju-granser/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "6c17b17ae7af",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4008,7 +4152,7 @@
           "source_kind": "story",
           "title": "Bilden som hotar Trump: ”Svikit oss”",
           "summary": "De var tidigare högljudda, profilerade Trump-anhängare – men har alla hamnat i fejd med presidenten. Nu verkar de också bli konkurrenter till Trump. ”Han har svikit oss alla”, skriver Marjorie Taylor Greene på X.",
-          "body_text": "De var tidigare högljudda, profilerade Trump-anhängare – men har alla hamnat i fejd med presidenten. Nu verkar de också bli konkurrenter till Trump. ”Han har svikit oss alla”, skriver Marjorie Taylor Greene på X . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Flera tidigare Maga-profiler har brutit med Donald Trump efter konflikter om kriget mot Iran och Epstein-utredningen. Marjorie Taylor Greene och Tucker Carlson pekas ut som centrala namn i en möjlig ny politisk rörelse. Enligt Mediaite och Dagbladet kan bilden på sällskapet vara ett första tecken på en ny rörelse bort från Trump. En efter en har de tidigare Maga-profilerna lämnat Trumps sida och kritiserat kriget mot Iran samt administrationens hantering av Epstein-filerna. Den amerikanska tidningen Mediaite menar att bilden visar att den tidigare Fox-programledaren och opinionsbildaren Tucker Carlson och Marjorie Taylor Greene menar allvar med att starta ett nytt parti. ”Vi sa nej till fler utländska krig, och vi menade det. Vi stöttade Donald Trump eftersom han gav det löftet. Men han har svikit oss alla”, skriver Greene på X , som tidigare i år självmant lämnade kongressen efter en fejd med Trump. Den tidigare Fox-ankaren menar att amerikansk politik i dag är alldeles för fokuserad på utrikesfrågor. Carlson har tidigare sagt att Trump ”styrs av Israel” och även sagt att han ångrade sitt stöd till Trumps kampanj . Greene var tidigare en av Trumps största anhängare, men kriget mot Iran blev droppen för den tidigare kongressledamoten. Efter Trumps hot om ”utplåna en hel civilisation” mot Iran ville hon få presidenten avsatt .",
+          "body_text": "De var tidigare högljudda, profilerade Trump-anhängare – men har alla hamnat i fejd med presidenten. Nu verkar de också bli konkurrenter till Trump. ”Han har svikit oss alla”, skriver Marjorie Taylor Greene på X . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Flera tidigare Maga-profiler har brutit med Donald Trump efter konflikter om kriget mot Iran och Epstein-utredningen. Marjorie Taylor Greene och Tucker Carlson pekas ut som centrala namn i en möjlig ny politisk rörelse. Enligt Mediaite och Dagbladet kan bilden på sällskapet vara ett första tecken på en ny rörelse bort från Trump. En efter en har de tidigare Maga-profilerna lämnat Trumps sida och kritiserat kriget mot Iran samt administrationens hantering av Epstein-filerna. Den amerikanska tidningen Mediaite menar att bilden visar att den tidigare Fox-programledaren och opinionsbildaren Tucker Carlson och Marjorie Taylor Greene menar allvar med att starta ett nytt parti. ”Vi sa nej till fler utländska krig, och vi menade det. Vi stöttade Donald Trump eftersom han gav det löftet. Men han har svikit oss alla”, skriver Greene på X , som tidigare i år självmant lämnade kongressen efter en fejd med Trump. Det tidigare Fox-ankaret menar att amerikansk politik i dag är alldeles för fokuserad på utrikesfrågor. Carlson har tidigare sagt att Trump ”styrs av Israel” och även sagt att han ångrade sitt stöd till Trumps kampanj . Greene var tidigare en av Trumps största anhängare, men kriget mot Iran blev droppen för den tidigare kongressledamoten. Efter Trumps hot om ”utplåna en hel civilisation” mot Iran ville hon få presidenten avsatt .",
           "url": "https://www.expressen.se/nyheter/varlden/tidigare-maga-profilerna-startar-ny-rorelse/",
           "image_url": "https://static.bonniernews.se/images/2a/e7/2ae72e701b41466aa89d8b34ed7e5617/16x9/original.png",
           "published_at": "2026-08-02T17:42:29Z",
@@ -4020,7 +4164,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "6ed19a247b3d",
@@ -4044,7 +4188,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "1e65c4edd7c5",
@@ -4068,7 +4212,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "a612e870d6e4",
@@ -4092,7 +4236,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "f67a94b06154",
@@ -4116,7 +4260,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "b54b234a1dae",
@@ -4140,7 +4284,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "d069fb301732",
@@ -4157,78 +4301,6 @@
           "image_url": "https://static.bonniernews.se/images/42/c0/42c05b59d6e04bc7aecec69872e3ff47/16x9/original.png",
           "published_at": "2026-08-02T11:58:12Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/extrem-skogsbrandsrisk-men-regnet-ger-nya-hot/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "065701f35937",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Klubbens sorg efter dödliga flygkraschen",
-          "summary": "Mannen i 60-årsåldern som dog i flygkraschen var pilot, instruktör och lärare – känd i Flyg-Sverige. Tomrummet efter honom är påtagligt. – Det är tunga dagar just nu, säger Jan Hasslid, 64, i Segelflygklubben i Karlstad.",
-          "body_text": "Mannen i 60-årsåldern som dog i flygkraschen var pilot, instruktör och lärare – känd i Flyg-Sverige. – Det är tunga dagar just nu, säger Jan Hasslid, 64, i Segelflygklubben i Karlstad. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var när ett bogserplan skulle dra upp ett segelflygplan på lördagen som olyckan skedde. Planet av Piper-modell var ”tipp-topp” – i stället tros turbulens ha orsakat kraschen. – Man måste alltid vara på alerten när man flyger. Turbulens kan påverka flygningen även om man har kontroll, säger Jan Hasslid som själv flög det för någon dag sedan. – Men det var fjärde flygningen, och det var en vanlig flygdag så vi är förvånade över att det hände. Många var på Karlstad flygplats när bogserplanet släppte av segelflygplanet i luften – och därefter störtade och fattade eld. – De flesta var i chock. Några sprang fram, men det gick inte att göra något eftersom det brann, säger Jan Hasslid. Räddningstjänst var ”blixtsnabbt” på plats, berättar han, och efteråt kom kommunens stödgrupp. Elever i flygskolan, deras föräldrar och äldre medlemmar fick stöd. – Alla fick prata av sig och sedan togs de yngre till sidan och de pratade enskilt med dem. Jättebra stöd, tur att de finns, för vi är inte i detta så ofta, säger Jan Hasslid. – Det hände något med vindarna som påverkade utgången. Fler detaljer än så vill jag inte ge ännu, säger vakthavande polisbefäl Mats Öhman på söndagen.",
-          "url": "https://www.expressen.se/nyheter/sverige/sorgen-i-segelklubben/",
-          "image_url": "https://static.bonniernews.se/images/1a/eb/1aebee2390944489b740794bed612aa4/16x9/original.png",
-          "published_at": "2026-08-02T09:37:53Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/sorgen-i-segelklubben/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "ea9fdcd2c856",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Uppgifter: Bar på en bomb – utan att veta",
-          "summary": "En hemgjord bomb detonerade på en privat fest på lyxrestaurangen Balzi Rossi i Moskva. Kvinnan som tog in den i lokalen sa att det var en ”present” – och kanske trodde hon det själv. I ryska medier släpps nu uppgiften att en rysk general var målet.",
-          "body_text": "En hemgjord bomb detonerade på en privat fest på lyxrestaurangen Balzi Rossi i Moskva. Kvinnan som tog in den i lokalen sa att det var en ”present” – och kanske trodde hon det själv. I ryska medier släpps nu uppgiften att en rysk general var målet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Tre personer dödades och 21 skadades i ett bombdåd mot restaurangen Balzi Rossi i Moskva . Målet ska ha varit en högt uppsatt general som firade sin födelsedag på restaurangens terrass, uppger den statligt kontrollerade ryska affärstidningen Kommersant enligt TT. Det var vid 18-tiden på lördagen som en kvinna försökte gå in med en sprängladdning. Hon sa att det var en ”gåva”, men blev stoppad av en säkerhetsvakt som visiterade henne. Då exploderade bomben och både kvinnan och vakten dödades, tillsammans med en av gästerna. Utredare tror nu att bomben fjärrutlöstes och att den oidentifierade kvinnan inte ens visste vad kartongen innehöll, skriver CNN och ryska Kommersant. Bomben, som var ett hemmabygge, innehöll cirka ett kilo av sprängämnet TNT och metallkulor som skulle göra skadorna värre. Lyxrestaurangen ligger vid Kudrinskajatorget. Under lördagsnatten pågick en stor räddnings- och polisinsats vid torget. Den Kremltrogna tidningen Izvestija bekräftar inte uppgifterna om generalens närvaro utan skriver, enligt TT, att det pågick en bröllopsfest i lokalen. Restaurangens kökschef Carmine Aliferi tonade inledningsvis ner händelsen, skriver TT.",
-          "url": "https://www.expressen.se/nyheter/varlden/uppgifter-kvinnan-visste-inte-att-hon-bar-en-bomb/",
-          "image_url": "https://static.bonniernews.se/images/ac/12/ac120679856d43a79289b4bc0b34a917/16x9/original.png",
-          "published_at": "2026-08-02T08:51:04Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/uppgifter-kvinnan-visste-inte-att-hon-bar-en-bomb/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "940017cb3141",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Uppgifter: Virala klipp låg bakom migrantkaoset i Ceuta",
-          "summary": "Bilder och klipp på sociala medier om att ”Europa öppnat portarna” misstänks ha varit en av anledningarna till att tiotusentals migranter tog sig över gränsen till Spanien, enligt uppgifter till flera medier. – Det var vår livs chans, säger 23-årige Ziad Bousad till Le Monde.",
-          "body_text": "Bilder och klipp på sociala medier om att ”Europa öppnat portarna” misstänks ha varit en av anledningarna till att tiotusentals migranter tog sig över gränsen till Spanien, enligt uppgifter till flera medier. – Det var vår livs chans, säger 23-årige Ziad Bousad till Le Monde. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På bara ett dygn ska runt 60 000 människor ha korsat gränsen till den spanska exklaven Ceuta , enligt Spaniens inrikesdepartement. Virala klipp och bilder ska ha varit den drivande faktorn. Det uppger flera migranter till bland annat Reuters, Le Monde och Sveriges radio. – Jag såg videor på Instagram och Tiktok av människor som korsat gränsen och som sa att de hade öppnat portarna, säger 23-årige Ziad Bousad som kommer från ett arbetarklassområde i Casablanca till Le Monde. Abdulahdi Emziln, 30, också från Casablanca, pratade med Expressen i veckan. Han vaknade till ett Facebook-flöde översvämmat av klipp, på simmande migranter över gränsen till Spanien. – Jag tackade Gud. Jag trodde att allt lidande var över och att nu börjar den lyckliga framtiden – drömmen om Europa blev verklig, säger han till Expressen. På Facebook, TikTok och Instagram spreds bilder och videoklipp som signalerade att migranter till sjöss inte omedelbart kunde avvisas, enligt ett beslut från den spanska högsta domstolen tidigare i juli. På ett Instagramkonto står texten ”Om du simmar kan de inte skicka tillbaka dig” i flera inlägg. På ett annat konto ser man en man simma på rygg i vattnet med en selfie-stick. Budskapet om att Europas ”gräns var öppen” ska ha inspirerat, framför allt unga människor, till den massiva anstormningen. – Migration handlar om att förbättra våra liv. Vi kom överens om att prova idén att korsa, och lita på Allah”, sa 16-årige El Abyad till Reuters.",
-          "url": "https://www.expressen.se/nyheter/varlden/uppgifter-virala-klipp-lag-bakom-migrantstormen/",
-          "image_url": "https://static.bonniernews.se/images/08/7c/087cf7a159aa4b06b6867d3eaeb25655/16x9/original.png",
-          "published_at": "2026-08-02T08:43:27Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/uppgifter-virala-klipp-lag-bakom-migrantstormen/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4265,7 +4337,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Polisen larmades under eftermiddagen till sjön Trummen i centrala Växjö då en kropp hittats i vattnet. Då omständigheterna kring dödsfallet är oklara har en utredning gällande dråp inletts, skriver polisen. Platsen har spärrats av och tekniker skickats till platsen. Personen är inte identifierad. Två pojkar i 15-årsåldern på en elsparkcykel kolliderade med en polisbuss i Nybro på söndagen, meddelar polisen. Båda pojkarna skadades allvarligt och är inlagda på IVA, meddelar region Kalmar, enligt Barometern. Kollisionen inträffade när polisen skulle kontrollera elsparkcyklisten. – Polisen skulle genomföra en kontroll. Jag har inte information om omständighetena. Vi kontrollerar fordon dagligen, bland annat trafiksäkerheten, säger Filip Annas, presstalesperson på polisregion Syd. Polisens enhet för särskilda utredningar utreder ärendet eftersom olyckan inträffade i samband med en kontroll. E6 i höjd med Väröbacka i Varberg är helt avstängd efter en trafikolycka, rapporterar SVT Nyheter Halland på söndagseftermiddagen. Tre personbilar kolliderade och skadeläget är oklart. Räddningstjänst och ambulans har anlänt till platsen. Två brandbekämpningshelikoptrar har kolliderat i samband med släckningsarbetet vid skogs- och terrängbränderna i Grekland. Det uppger den grekiska räddningstjänsten. Två personer har dött i kraschen, skriver tidningen Protothema . Den ungerska Ozorafestivalen avslutas i förtid, sedan en kvinna i publiken fått en hjärtattack och avlidit – troligen på grund av hettan. En kraftig värmebölja sveper just nu över Centraleuropa. Temperaturen har de senaste dagarna legat strax under 40 grader i Ungern och den nationella vädertjänsten har varnat för extrema temperaturer. Musikfestivalen beskrivs som en av världens största för psykedelisk trance och lockar tiotusentals besökare varje år. Musikgenren utvecklades under 1990-talet och har sina rötter i Goa-scenen i Indien. Festivalen skulle enligt programmet ha avslutats under måndagsmorgonen.",
+          "body_text": "En man i 55-års åldern har avlidit efter en krock mellan två personbilar i Katrineholm. Olyckan inträffade på riksväg 56 i Bie utanför Katrineholm vid 15-tiden på söndagen, skriver Katrineholms-Kuriren. En person skadades allvarligt och fick föras till sjukhus med ambulanshelikopter. Ytterligare tre personer fördes till sjukhus med lindriga skador, medan en femte person klarade sig utan skador. Senare under kvällen meddelade Mälarsjukhuset att den svårt skadade mannen har avlidit. Polisen larmades under eftermiddagen till sjön Trummen i centrala Växjö då en kropp hittats i vattnet. Då omständigheterna kring dödsfallet är oklara har en utredning gällande dråp inletts, skriver polisen. Platsen har spärrats av och tekniker skickats till platsen. Personen är inte identifierad. Två pojkar i 15-årsåldern på en elsparkcykel kolliderade med en polisbuss i Nybro på söndagen, meddelar polisen. Båda pojkarna skadades allvarligt och är inlagda på IVA, meddelar region Kalmar, enligt Barometern. Kollisionen inträffade när polisen skulle kontrollera elsparkcyklisten. – Polisen skulle genomföra en kontroll. Jag har inte information om omständighetena. Vi kontrollerar fordon dagligen, bland annat trafiksäkerheten, säger Filip Annas, presstalesperson på polisregion Syd. Polisens enhet för särskilda utredningar utreder ärendet eftersom olyckan inträffade i samband med en kontroll. E6 i höjd med Väröbacka i Varberg är helt avstängd efter en trafikolycka, rapporterar SVT Nyheter Halland på söndagseftermiddagen. Tre personbilar kolliderade och skadeläget är oklart.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
