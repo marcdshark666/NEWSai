@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:34:33Z",
+  "generated_at": "2026-08-07T07:55:05Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "ac1213706a17",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Stockholmsbörsen inleder i moll",
+          "summary": "Nyheter från TV4: Stockholmsbörsen inleder i moll",
+          "body_text": "Ringer in med fallande index. Arkivbild. Stockholmsbörsen inleder fredagen i moll. Några minuter efter öppning är börsens breda OMXS-index ner 0,1 procent. Clas Ohlsons aktie lyfter 2 procent. Prylkedjan meddelade under morgonen att försäljningen steg med 15 procent i juli. På storbolagslistan OMXS30 tar Saab täten med ett lyft på 2 procent. I andra änden faller värmepumpstillverkaren Nibe drygt 1 procent. På råvarumarknaden stiger oljepriset. Ett fat Nordsjöolja kostar drygt 83 dollar.",
+          "url": "https://www.tv4.se/artikel/tt-260807-marknaden1-7e952d91/stockholmsborsen-inleder-i-moll",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdluBerYqSqn30/a2175ca48f61c5caba4dae860ae658f2/Ringer_in_med_fallande_index._Arkivbild.",
+          "published_at": "2026-08-07T07:12:29Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260807-marknaden1-7e952d91/stockholmsborsen-inleder-i-moll",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "4d99a7f03c08",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "6a426ecb225b",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "83c6fd6b59d8",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "e065798e495f",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdl17YGD4Xtrpk/544d8a6e71777a6a3cceeff95925c3b1/Sma_rorelser_praglar_borserna_i_Asien.",
           "published_at": "2026-08-07T03:17:40Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260807-asienbors1-69b32a24/sma-borsrorelser-i-asien",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "e168c734c7fd",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Meta döms till ny miljardsmäll",
-          "summary": "Nyheter från TV4: Meta döms till ny miljardsmäll",
-          "body_text": "En domare i New Mexico i USA har dömt techjätten Meta att betala motsvarande över fem miljarder kronor i en ny stämning. Företaget, som äger bland annat Facebook och Instagram, döms för att vara en ”allmän olägenhet”, något som kan öppna för att företaget måste göra förändringar i sina appar, skriver CNBC . Till grund för domen ligger anklagelser om att Meta bidragit till en ”kris av psykisk ohälsa” bland delstatens unga. Pengarna ska betalas till en fond som ska användas till att stötta personer som lidit skada av Metas appar, samt till förebyggande åtgärder. I mars dömdes Meta till att betala motsvarande drygt 3,5 miljarder kronor i skadestånd till New Mexico för att ha utsatt barn i delstaten för risker. Meta skriver i ett uttalande till nyhetsbyrån AFP att företaget kommer att överklaga domen.",
-          "url": "https://www.tv4.se/artikel/tt-260807-metadom1-d71ac785/meta-doms-till-ny-miljardsmall",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdllJN58q3jRDc/c87e9a66e06600932f02b922a882044b/Metas_vd_Mark_Zuckerberg._Arkivbild.",
-          "published_at": "2026-08-07T02:20:41Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260807-metadom1-d71ac785/meta-doms-till-ny-miljardsmall",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 S-föreningen vill beskatta miljardärer hårdare • ”Jättestor skatteklyfta” MP och V kräver miljardärskatt – men sågas av expert Trump: ”USA har enorma mängder krigsmateriel” Uppgifter: Trump skällde ut Hegseth – kände sig vilseledd",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Använt dna-släktforskning • ”Bevisläget är gott” GW tveksam: ”Jag får inte honom att stämma med gärningen” Bjöds in av artisten själv • Nekades transport – då tog familjen saken i egna händer",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -339,20 +339,20 @@
           "sort_order": 0
         },
         {
-          "id": "7016b09e75fa",
+          "id": "b9a91905f99e",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Ons 5 aug 19:30",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/Kz77DVq/rapport/ons-5-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54650342/1785953176?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-07T09:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/Kz77DVq/rapport/ons-5-aug-19-30?video=visa",
+          "title": "Rapport – Idag 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/egWPQP4/rapport/idag-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54662414/1786088746?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-07T09:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/egWPQP4/rapport/idag-09-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -363,20 +363,20 @@
           "sort_order": 1
         },
         {
-          "id": "381ffadd8d71",
+          "id": "8a7a14a9574f",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Tis 4 aug 19:30",
-          "summary": "Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt",
-          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/KLJJAdg/rapport/tis-4-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54642053/1785864845?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "title": "Rapport – Idag 09:00",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/jvvvNNZ/rapport/idag-09-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54661754/1786086946?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-07T09:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/KLJJAdg/rapport/tis-4-aug-19-30?video=visa",
+          "embed_url": "https://www.svtplay.se/video/jvvvNNZ/rapport/idag-09-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -387,20 +387,20 @@
           "sort_order": 2
         },
         {
-          "id": "8e7ddfe78c35",
+          "id": "119fa2de888d",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Mån 3 aug 19:30",
-          "summary": "Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många",
-          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/KvvvE14/rapport/man-3-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54634421/1785777962?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-07T09:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/KvvvE14/rapport/man-3-aug-19-30?video=visa",
+          "title": "Rapport – Idag 08:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/j4ddRvX/rapport/idag-08-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54661154/1786085146?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-07T08:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/j4ddRvX/rapport/idag-08-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -409,54 +409,6 @@
           ],
           "is_live": false,
           "sort_order": 3
-        },
-        {
-          "id": "4064674f957d",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Sön 2 aug 19:30",
-          "summary": "Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler",
-          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/jwqqz1a/rapport/son-2-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54627914/1785691514?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-07T09:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jwqqz1a/rapport/son-2-aug-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "997f4c61f56a",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Fre 31 jul 19:30",
-          "summary": "Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll?",
-          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/jQrrP7Q/rapport/fre-31-jul-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54624356/1785518636?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-07T09:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jQrrP7Q/rapport/fre-31-jul-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 5
         },
         {
           "id": "52bd40fee388",
@@ -480,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 4
         },
         {
           "id": "af59cbd7a45a",
@@ -504,79 +456,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "7c5c8b49a5c2",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 07:02",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/e5ddEA6/rapport/idag-07-02?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54659456/1786079711?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-07T07:02:00Z",
-          "embed_url": "https://www.svtplay.se/video/e5ddEA6/rapport/idag-07-02?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "119fa2de888d",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 08:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/j4ddRvX/rapport/idag-08-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-07T06:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/j4ddRvX/rapport/idag-08-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "ff342b9a9e0b",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Igår 22:50",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/Kz77DZy/rapport/igar-22-50?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54659087/1786050301?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-06T22:50:00Z",
-          "embed_url": "https://www.svtplay.se/video/Kz77DZy/rapport/igar-22-50?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 10
+          "sort_order": 5
         },
         {
           "id": "a81436b6f00a",
@@ -593,6 +473,126 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54657749/1786037087?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-06T19:30:00Z",
           "embed_url": "https://www.svtplay.se/video/8y22yV6/rapport/igar-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "7016b09e75fa",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ons 5 aug 19:30",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/Kz77DVq/rapport/ons-5-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54650342/1785953176?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-06T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/Kz77DVq/rapport/ons-5-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "381ffadd8d71",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Tis 4 aug 19:30",
+          "summary": "Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt",
+          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/KLJJAdg/rapport/tis-4-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54642053/1785864845?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-06T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/KLJJAdg/rapport/tis-4-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "8e7ddfe78c35",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Mån 3 aug 19:30",
+          "summary": "Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många",
+          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/KvvvE14/rapport/man-3-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54634421/1785777962?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-06T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/KvvvE14/rapport/man-3-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 9
+        },
+        {
+          "id": "4064674f957d",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Sön 2 aug 19:30",
+          "summary": "Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler",
+          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/jwqqz1a/rapport/son-2-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54627914/1785691514?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-06T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jwqqz1a/rapport/son-2-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        },
+        {
+          "id": "997f4c61f56a",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Fre 31 jul 19:30",
+          "summary": "Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll?",
+          "body_text": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Estland: Oro över svenska fångar • Tjörnolyckan: Befälhavaren häktad • USA: Cowboykulturen lockar allt fler Mer om programmet Ceuta: Många migranter åter i Marocko • Stockholm Pride: Tåget samlade tiotusentals • Gårdsförsäljning: Alla verkar nöjda Mer om programmet Stormning av Ceuta: Orsakar politisk turbulens • Skogsbränder: Väckarklocka för skogsbruk • Fotbollsbråk: Vem äger framtidens fotboll? Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/jQrrP7Q/rapport/fre-31-jul-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54624356/1785518636?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-06T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jQrrP7Q/rapport/fre-31-jul-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -2340,7 +2340,7 @@
           "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
           "body_text": "President Donald Trump has denied reports that the US is suffering a munitions shortage and vowed in a social media post to seek \"long term jail sentences\" for those suspected of leaking information. \"The U.S. has massive amounts of 'munitions,' especially of certain types,\" Trump posted on Thursday morning. \"Additionally, large amounts are being manufactured and shipped to the US as needed.\" Trump and the Pentagon face mounting questions about the state of the military's arsenal, with the war now in its sixth month and a peace deal remaining elusive. Iran responded to reports of shrinking US supplies by saying its locally produced weapons gave it the ability to respond to \"any threat\". \"Each day, the signs of the enemy's diminishing capabilities become more apparent,\" Defence Minister Majid Ibn-e-Reza posted on X. \"But our Armed Forces - backed by the nation's defence industry - are fully equipped to respond to any threat.\" He added that \"those who are now seeking to buy security and military superiority through imported systems will soon realise that Iran's indigenous technology is superior to any system in the region\". After the US spent vast quantities of difficult-to-manufacture weapons during the combat operation known as Operation Epic Fury and the tit-for-tat strikes since, the Trump administration has sought to assure Americans that the country's missile stockpiles remain robust. CBS News, the BBC's US partner, reported the US has gone through much of its global stockpile of long-range precision missiles during the war, citing two unnamed sources with direct knowledge of the subject. Meanwhile, the Washington Post reported on Wednesday evening that Trump had confronted Defence Secretary Pete Hegseth last week over a possible weapons shortfall, also citing unnamed sources. The BBC has not confirmed the report. \"The 'leakers' of these treasonous statements are being hunted down,\" Trump said in the post on Truth Social. \"Long term jail sentences will be sought!\" He directly addressed the Washington Post's story in a later post, saying: \"I really believe their fake 'reporting' is treasonous!\" \"I am extremely happy with the job that Pete Hegseth is doing,\" he also posted.",
           "url": "https://www.bbc.com/news/articles/cy8mjd19xm7o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7895/live/b9cd13f0-922b-11f1-a7ab-8b30adf0800a.jpg",
           "published_at": "2026-08-06T14:30:43Z",
           "embed_url": "https://www.bbc.com/news/articles/cy8mjd19xm7o",
           "play_mode": "page_iframe",
@@ -3769,7 +3769,7 @@
           "source_kind": "story",
           "title": "ChatGPT brings unlimited text chats to free users | TechCrunch",
           "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-          "body_text": "OpenAI is removing limits on text-based chats for all users on ChatGPT, which recently crossed the 1 billion weekly user mark , the company announced today. The new GPT-5.6 Luna model will power this experience and will be the default model for Free and Go users, replacing GPT-5.5. Both users will also get a new “Think” button that lets them select higher reasoning power for complex questions. OpenAI said that there will still be separate limits for files, images, voice, and image generation. The update brings changes for Plus and Pro users as well. They’ll gain access to an upgraded GPT-5.6 Sol model that’s better for quick tasks such as questions, web research, advice, planning, writing, and making decisions. The company noted that this new model will give more compact and robust answers. (Notably, this is a separate version from GPT-5.6 Sol used for Codex and Work, which is unchanged.) ChatGPT Plus and Pro users are also getting a thinking slider to adjust “how much” thought the model puts into an answer. They can tune the thinking slider based on complexity and steps involved in solving a query. OpenAI said an internal evaluation found that, compared to GPT-5.5-Instant, factual errors were 62% less common for GPT-5.6 Luna and 68% less common for GPT-5.6 Sol. The updated version of GPT-5.6 Sol is available to Plus and Pro users today, while the other changes for Free and Go users are arriving this week. Next week, users will gain access to unlimited text chats and the new Think button for harder questions. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web. You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y! Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "body_text": "OpenAI is removing limits on text-based chats for all users on ChatGPT, which recently crossed the 1 billion weekly user mark , the company announced today. The new GPT-5.6 Luna model will power this experience and will be the default model for Free and Go users, replacing GPT-5.5. Both users will also get a new “Think” button that lets them select higher reasoning power for complex questions. OpenAI said that there will still be separate limits for files, images, voice, and image generation. The update brings changes for Plus and Pro users as well. They’ll gain access to an upgraded GPT-5.6 Sol model that’s better for quick tasks such as questions, web research, advice, planning, writing, and making decisions. The company noted that this new model will give more compact and robust answers. (Notably, this is a separate version from GPT-5.6 Sol used for Codex and Work, which is unchanged.) ChatGPT Plus and Pro users are also getting a thinking slider to adjust “how much” thought the model puts into an answer. They can tune the thinking slider based on complexity and steps involved in solving a query. OpenAI said an internal evaluation found that, compared to GPT-5.5-Instant, factual errors were 62% less common for GPT-5.6 Luna and 68% less common for GPT-5.6 Sol. The updated version of GPT-5.6 Sol is available to Plus and Pro users today, while the other changes for Free and Go users are arriving this week. Next week, users will gain access to unlimited text chats and the new Think button for harder questions. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web. You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y! Ford’s new electric truck, ‘Fathom,’ starts at $28,350",
           "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
           "published_at": "2026-08-06T17:34:42Z",
@@ -4222,9 +4222,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Åtalas efter 21 år",
+          "title": "JUST NU: Man åtalas – 21 år efter morden",
           "summary": "Mordet har gäckat polisen i nästan två decennier. Nu åtalas en man i 45-årsåldern för det 21 år gamla dubbelmordet i Brattås i Härnösand 2005. – Min bedömning är att bevisläget är gott, säger åklagare Hanna Flordal.",
-          "body_text": "Mordet har gäckat polisen i nästan två decennier. Nu åtalas en man i 45-årsåldern för det 21 år gamla dubbelmordet i Brattås i Härnösand 2005. – Min bedömning är att bevisläget är gott, säger åklagare Hanna Flordal. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Mannen greps i våras efter att polisen fått en DNA-match – 21 år efter att morden begicks. Sedan i april har han suttit häktad, misstänkt för att ha mördat pensionärsparet Tor Öberg och Gerd Wiklund på deras gård utanför Härnösand. Trots en omfattande utredning förblev mordet ett olöst kallt fall i nästan två decennier. – Efter slutförd förundersökning anser jag det finns tillräckliga skäl för att väcka åtal för två fall av mord och min bedömning är att bevisläget är gott, säger senior åklagare Hanna Flordal i ett pressmeddelande. Mannen åtalas för att ”själv eller tillsammans och i samförstånd med annan person/er” ha mördat de båda. I nuläget vill Flordal inte kommentera ärendet vidare. I augusti 2025 fattade åklagaren beslut om att använda släktforskningsdatabas i förundersökningen. Polisen lyckades då matcha hans DNA med spår som säkrats på Gerd Wiklunds kropp. Därmed kunde den nu åtalade mannen frihetsberövas i april i år. Mannens försvarsadvokat har tidigare sagt till Expressen att hans klient lämnat en förklaring till varför hans DNA fanns på brottsplatsen. Han har dock inte velat gå in på vad förklaringen består i. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "Mordet har gäckat polisen i nästan två decennier. Nu åtalas en man i 45-årsåldern för det 21 år gamla dubbelmordet i Brattås i Härnösand 2005. – Min bedömning är att bevisläget är gott, säger åklagare Hanna Flordal. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Mannen greps i våras efter att polisen fått en DNA-match – 21 år efter att morden begicks. Sedan i april har han suttit häktad, misstänkt för att ha mördat pensionärsparet Tor Öberg och Gerd Wiklund på deras gård utanför Härnösand. Trots en omfattande utredning förblev mordet ett olöst kallt fall i nästan två decennier. – Efter slutförd förundersökning anser jag det finns tillräckliga skäl för att väcka åtal för två fall av mord och min bedömning är att bevisläget är gott, säger senior åklagare Hanna Flordal i ett pressmeddelande. Mannen misstänks själv, eller i samförstånd med andra, ha mördat paret genom flera slag mot deras huvuden någon gång mellan 31 maj och den andra juni 2005. I nuläget vill Flordal inte kommentera ärendet vidare. I augusti 2025 fattade åklagaren beslut om att använda släktforskningsdatabas i förundersökningen. Polisen lyckades då matcha hans DNA med spår som säkrats på Gerd Wiklunds kropp. Därmed kunde den nu åtalade mannen frihetsberövas i april i år. Mannens försvarsadvokat har tidigare sagt till Expressen att hans klient lämnat en förklaring till varför hans DNA fanns på brottsplatsen. Han har dock inte velat gå in på vad förklaringen består i. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/efter-dubbelmordet-i-harnosand-nu-vacks-atal/",
           "image_url": "https://static.bonniernews.se/images/d1/bc/d1bc31b74f614013a0c436279a751c84/16x9/original.jpg",
           "published_at": "2026-08-07T06:07:41Z",
@@ -4270,7 +4270,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sågar V: Hade varit hårda ord om det var SD",
+          "title": "Kristersson: Hårda ord – om det var SD",
           "summary": "V-ledaren Nooshi Dadgostar måste agera efter avslöjandena om stödbrev som skickats från V-toppar till dömda terrorister. Det menar statsminister Ulf Kristersson (M). – Det är klart att man inte kan fly sitt ansvar, säger han.",
           "body_text": "V-ledaren Nooshi Dadgostar måste agera efter avslöjandena om stödbrev som skickats från V-toppar till dömda terrorister. Det menar statsminister Ulf Kristersson (M). – Det är klart att man inte kan fly sitt ansvar, säger han. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Värre och värre. Det är statsminister Ulf Kristerssons ord om Vänsterpartiet och vad han menar är en ”besvärande” utveckling i partiet. – Det går i precis den riktning som jag tycker att ganska många har varnat för under en tid. Jag brukar normalt använda begreppet terrorromantik. Men det finns mer aktivism i detta och det de gör närmar sig terrorhyllningar. Moderatledaren kräver att Nooshi Dadgostar, som högst ansvarig, går till botten med vad som gått fel, och vad han kallar för ”antisemitiska drag” i partiet. Bakgrunden är att riksdagsledamöterna Samuel Gonzalez Westling och Ilona Szatmári Waldau skickat hyllningsbrev till fängslade terrorister, något V-topparna sedan dess tagit avstånd ifrån. Det blev ”fel i faktagranskningen” säger Vänsterpartiet och hänvisar till Palestinska riksförbundet som tillhandahöll uppgifterna om fångarna. – Det är klart att man inte kan fly sitt ansvar genom att säga att det är ett tekniskt misstag. På Ulf Kristerssons sida av politiken har Sverigedemokraterna en lång historia av kandidatrelaterade skandaler och extremism. – Jag tycker att det finns en märklig tolerans när det gäller Vänsterpartiet. Hade det här uppdagats i Sverigedemokraterna hade vi fått höra väldigt, väldigt hårda ord från både Vänsterpartiet och Socialdemokraterna.",
           "url": "https://www.expressen.se/nyheter/politik/kristerssons-kritik-mot-v-kan-inte-fly-ansvar/",
@@ -4481,7 +4481,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "En pojke i 10-årsåldern som färdats på en elsparkcykel har blivit påkörd av en bil i Abborrberget norr om Strängnäs, skriver polisen på sin hemsida. Pojken är vaken och talbar. Både ambulans och polis är på plats. En 14-årig pojke misshandlades av flera ungdomar på Kronoparken i Karlstad under torsdagskvällen, rapporterar P4 Värmland. Enligt polisen ska det handlat om ett slagsmål mellan sex till åtta ungdomar. Pojken fördes till sjukhus med huvudskador. Än så länge har ingen misstänkt gripits. Det är långa köer på E4 norr om Jönköping efter att en lastbil av okänd anledning stannat i norrgående riktning vid trafikplats Gyllene Uttern. På grund av vägarbete är vägen tillfälligt enfilig vilket ställt till det. Enligt uppgifter från platsen har vissa vänt sina bilar, korsat heldragen linje och vänt om. \"Polisen understryker att detta är trafikfarligt och uppmanar till tålamod och försiktighet\", skriver man på sin hemsida. Den 15-åriga flickan som försvann från sitt hem på Jylland i Danmark tidigare i veckan har hittats vid liv i Ungern, skriver Tv4. Flickan efterlystes internationellt under onsdagen, en dag efter försvinnandet och har uppmärksammats stort i danska medier. Polisen utreder nu om det begåtts något brott i samband med försvinnandet. Minst sju personer, inklusive tre lärare, har dött och 15 personer skadats i samband med en skolskjutning norr om Bangkok på fredagen, uppger Thailändska myndigheter till flera medier. Skjutningen ska ha ägt rum på en gymnasieskola i Bang Kruai-distriktet i Nonthaburi-provinsen, rapporterar Reuters. Skytten, som enligt polisen var en elev, ska ha tagit sitt liv. Hundratusentals människor har beordrats evakuera sina hem i sydvästra Japan till följd av tyfonen Dolphin som rör sig mot landet, rapporterar Reuters.",
+          "body_text": "Räddningstjänst och ambulans har larmats till en lägenhet i Borås på fredagsmorgonen efter uppgifter om en fastklämd person. – Det är någon som fastnat med benet under ett badkar, säger Konstantina Sarigiannidou, teamledare på SOS Alarm. Enligt Borås Tidning ska räddningstjänsten ha klättrat genom ett fönster för att ta sig in i lägenheten. Skadeläget är än så länge okänt. Den man i 55-årsåldern som misstänks för mordet i Stockholms skärgård begärs nu häktad på sannolika skäl misstänkt för mord. Det var i tisdags som en kvinna hittades död i en fastighet på en skärgårdsö i Värmdö kommun. Mannen och kvinnan hade en parrelation, enligt åklagaren Emma Olsson. Den häktade mannen hittades i vattnet utanför en närliggande ö i samband med en stor sökinsats. SMHI har utfärdat en gul regnvarning i delar östra Norrbottens län under fredagen. Det handlar om långvarigt och tidvis kraftigt regn med risk för lokala översvämningsproblem som följd, enligt SMHI. Både vägar och viadukter kan översvämmas. Varningen gäller fram till på lördag klockan 12. En man i 20-årsåldern som färdats på en elsparkcykel har blivit påkörd av en bil i Abborrberget norr om Strängnäs, skriver polisen på sin hemsida. Enligt initiala uppgifter handlade det om en tioårig pojke – något som sedan dess har korrigerats av polis. Mannen var vaken och talbar vid tiden för olyckan. Både ambulans och polis var på plats och mannen har nu förts till sjukhus. Skadeläget är okänt. En 14-årig pojke misshandlades av flera ungdomar på Kronoparken i Karlstad under torsdagskvällen, rapporterar P4 Värmland. Enligt polisen ska det handlat om ett slagsmål mellan sex till åtta ungdomar. Pojken fördes till sjukhus med huvudskador. Än så länge har ingen misstänkt gripits. Det är långa köer på E4 norr om Jönköping efter att en lastbil av okänd anledning stannat i norrgående riktning vid trafikplats Gyllene Uttern. På grund av vägarbete är vägen tillfälligt enfilig vilket ställt till det. Enligt uppgifter från platsen har vissa vänt sina bilar, korsat heldragen linje och vänt om.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
