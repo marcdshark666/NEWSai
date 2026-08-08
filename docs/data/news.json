@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T14:12:14Z",
+  "generated_at": "2026-08-08T14:51:45Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Blickarna riktas mot kriminella ekonomin Släpper ytterligare 41 tidigare hemligstämplade filer • Vittnesmål om lysande objekt",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Spekulationerna ökar • Tror på ny presidentkampanj Interna missnöjet med Trump: ”Vill att han åker någon annanstans” Släpper ytterligare 41 filer med mystiska observationer Blickarna riktas mot kriminella ekonomin",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -350,7 +350,7 @@
           "summary": "Nyheter från Sverige och världen.",
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 6 aug 22:50 4 min 38 sek Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/eEqqPxn/rapport/idag-16-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54667730/1786198381?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-08T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/eEqqPxn/rapport/idag-16-00?video=visa",
           "play_mode": "page_iframe",
@@ -1649,6 +1649,56 @@
           "sort_order": 0
         },
         {
+          "id": "2767e121aaa7",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kayleigh McEnany blasts 'woke' Smithsonian displays and reacts to failing reading scores | Fox News Video",
+          "summary": "'Saturday in America' host Kayleigh McEnany joins 'Fox & Friends Weekend' to react to Republican lawmakers' threats to pull Smithsonian funding over 'woke' exhibits and analyze failing reading scores among New York City elementary students.",
+          "body_text": "'Saturday in America' host Kayleigh McEnany joins 'Fox & Friends Weekend' to react to Republican lawmakers' threats to pull Smithsonian funding over 'woke' exhibits and analyze failing reading scores among New York City elementary students.",
+          "url": "https://www.foxnews.com/video/6403054494112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22e02cc6-13bd-48d0-92e9-9e9d9163fdfd/7c337a92-ffdd-4d0d-a953-c2923b588dff/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-08T14:42:35Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403054494112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "4b97084e9506",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kid Rock call out Abdul El-Sayed for resurfaced comments on Michigan town | Fox News Video",
+          "summary": "Music legend and Michigan native Kid Rock slams Democratic Senate nominee Abdul El-Sayed after a resurfaced video shows him saying he 'hates' Mackinac Island.",
+          "body_text": "Music legend and Michigan native Kid Rock slams Democratic Senate nominee Abdul El-Sayed after a resurfaced video shows him saying he 'hates' Mackinac Island.",
+          "url": "https://www.foxnews.com/video/6403053431112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ff9f192-ceef-4ddc-8773-3404934b4082/d4cc369d-ca32-4a78-9af6-908c87c206fd/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-08T14:42:20Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403053431112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "88c5213d34cc",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1671,7 +1721,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "fbed5a625601",
@@ -1696,7 +1746,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "43d71f76e526",
@@ -1721,7 +1771,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "cb842f132dce",
@@ -1746,7 +1796,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "0c23191b2b0d",
@@ -1771,7 +1821,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "d537f6ae9fde",
@@ -1796,7 +1846,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "b02afcdaa9b7",
@@ -1821,7 +1871,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "8845e711b2a2",
@@ -1838,56 +1888,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/496cd203-735d-439e-aada-d79bf93e5d6f/8bafadd6-8807-4dd0-b2ca-a8ee321ad79b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-08T12:04:18Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403048659112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "a2b6732348cf",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Psychotherapist reveals appeal of Democratic socialism | Fox News Video",
-          "summary": "Psychotherapist Jonathan Alpert joins 'Fox & Friends Weekend' to analyze why Democratic socialism appeals to younger generations.",
-          "body_text": "Psychotherapist Jonathan Alpert joins 'Fox & Friends Weekend' to analyze why Democratic socialism appeals to younger generations. Psychotherapist Jonathan Alpert breaks down the psychological appeal of democratic socialism on 'Fox & Friends Weekend' following an August 6 Wall Street Journal op-ed. Alpert explains how the ideology markets itself on good intentions, empathy, and fairness while masking the historical realities and economic consequences of socialist governance. The panel discusses the rise of these beliefs among younger Americans.",
-          "url": "https://www.foxnews.com/video/6403047797112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3386c972-7a52-4c62-866e-0f50896e48fe/40cf1515-b49c-4af3-b004-31742a838bf6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-08T11:38:54Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403047797112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "59f7597ccf30",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "This is Iran's last chance': Military expert talks Iran strategy | Fox News Video",
-          "summary": "Former U.S. Navy Lt. Commander Tom Sauer analyzes President Donald Trump's comments on the Strait of Hormuz.",
-          "body_text": "Former U.S. Navy Lt. Commander Tom Sauer analyzes President Donald Trump's comments on the Strait of Hormuz. Former U.S. Navy Lt. Commander Tom Sauer analyzes President Donald Trump's comments on the Strait of Hormuz. Sauer discusses the strategic importance of the shipping lane, U.S. military readiness, and potential blockade lines.",
-          "url": "https://www.foxnews.com/video/6403049354112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014b110f-93e7-4836-8f99-f1ee4a6350e9/99b588d0-ef6a-4e98-9c96-3fea89ae65ec/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-08T11:31:17Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403049354112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2338,9 +2338,9 @@
           "source_kind": "mixed",
           "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
           "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
-          "body_text": "Spain has imposed border controls on all air and sea travel from Italy as a row between the two EU countries intensifies. The measures - which started at midnight (22:00 GMT) and will last for a month - come a week after Italy introduced similar restrictions following an influx of about 78,000 migrants from Morocco into the Spanish exclave of Ceuta. On Friday, Spain demanded Italy reverse its checks by Sunday. Rome said they would stay until at least 15 August - when, it said, Spain \"expects a new wave of migration\" to hit Ceuta. The crisis has pitted Spain's socialist leader Pedro Sanchez against Italy's conservative leader Giorgia Meloni - who has long called for stricter EU migration rules. Italy does not share a land border with Spain. Its government said last week that decision to temporarily suspend the ​border-free Schengen arrangement was to prevent any of the migrants who had entered Ceuta from travelling on to Italy. Madrid dismissed this position, saying it was based on \"spurious arguments\" that lacked any basis in fact because the migrants who entered Ceuta had no way of entering the Schengen area. In its response to the Spanish threat earlier on Friday, Italy's government said it would not accept \"ultimatums\". It added that it did not intend \"under any circumstances to reconsider the decision to suspend the application of the Schengen Agreement for third-country nationals arriving from Spain, at least until August 15th and in any case until security and terrorist risks for Italy have been completely eliminated\". Italian officials have said local authorities carrying out checks do \"everything possible\" to ensure maximum comfort for both Spanish and other European citizens arriving in Italy from Spain. Rome has also reiterated that Spanish citizens are exempt from additional checks when arriving in Italy, with these extra steps only for non-EU residents. However, El Pais reported that several airport terminals have seen long queues and waiting times in recent days, with passengers arriving from Spain directed to a specific line for checks. The counter-measures Madrid decided to impose on Friday would include passport, nationality and visa checks for Italian passengers and visitors from other countries arriving from Italy \"amid the persistent irregular migratory pressure\" the country was experiencing, a statement from Spain's government said. Checks would stay in place until 7 September \"unless a change in the circumstances that led to its adoption warrants modifying that period\".",
+          "body_text": "Spain has imposed border controls on all air and sea travel from Italy as a row between the two EU countries intensifies. The measures - which started at midnight (22:00 GMT) and will last for a month - come a week after Italy introduced similar restrictions following an influx of about 78,000 migrants from Morocco into the Spanish exclave of Ceuta. Spanish officials said the documents of 5%-10% of passengers were being checked before they were allowed to disembark planes. Italy has also said its border controls are random. The crisis has pitted Spain's socialist leader Pedro Sanchez against Italy's conservative leader Giorgia Meloni - who has long called for stricter EU migration rules. Italy does not share a land border with Spain. Its government said last week that decision to temporarily suspend the ​border-free Schengen arrangement was to prevent any of the migrants who had entered Ceuta from travelling on to Italy. Madrid dismissed this position, saying it was based on \"spurious arguments\" that lacked any basis in fact because the migrants who entered Ceuta had no way of entering the Schengen area. On Friday, Spain demanded Italy reverse its checks by Sunday. Rome said they would stay until at least 15 August - when, it said, Spain \"expects a new wave of migration\" to hit Ceuta. Italy has said that Spanish and EU citizens are exempt from additional checks when arriving in Italy, with these extra steps only for non-EU residents. However, it is not clear how border officials were meant to distinguish between EU and non-EU travellers and El Pais has reported that several Italian airport terminals have seen long queues and waiting times in recent days, with passengers arriving from Spain directed to a specific line for checks. As for Spanish controls, the authorities insists the immigration checks are random. However, a passenger arriving in Madrid on Saturday told national broadcaster RTVE that all passengers on her flight had had to show their passports. \"They told us we couldn't get off the plane without showing our documents,\" Elisa said. Another passenger said \"we were stopped and asked for identification, which the police seemed to approve of\".",
           "url": "https://www.bbc.com/news/articles/c5yv5l6yr5ko",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/918c/live/9be54310-9331-11f1-8c55-af7610e137d7.jpg",
           "published_at": "2026-08-07T15:25:42Z",
           "embed_url": "https://www.bbc.com/news/articles/c5yv5l6yr5ko",
           "play_mode": "iframe",
@@ -2763,7 +2763,7 @@
           "body_text": "Jorge Messi falleció a los 68 años el viernes 7 de agosto de 2026 en un sanatorio de Rosario, Argentina, tras luchar contra una prolongada enfermedad.",
           "url": "https://elcomercio.pe/deporte-total/futbol-mundial/muerte-de-jorge-messi-hoy-ultimas-noticias-del-fallecimiento-del-papa-de-lionel-messi-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/ZNDUBJULFNBT7IW5T2OAWQ4NNM.jpg?auth=bba939b960e73e0de755092ec82349dc608be7aec1b3feb86e563dfdc9f1c7d2&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-08T13:48:04Z",
+          "published_at": "2026-08-08T14:26:00Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-mundial/muerte-de-jorge-messi-hoy-ultimas-noticias-del-fallecimiento-del-papa-de-lionel-messi-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3040,7 +3040,7 @@
           "body_text": "Jorge Messi falleció a los 68 años el viernes 7 de agosto de 2026 en un sanatorio de Rosario, Argentina, tras luchar contra una prolongada enfermedad.",
           "url": "https://elcomercio.pe/deporte-total/futbol-mundial/muerte-de-jorge-messi-hoy-ultimas-noticias-del-fallecimiento-del-papa-de-lionel-messi-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/ZNDUBJULFNBT7IW5T2OAWQ4NNM.jpg?auth=bba939b960e73e0de755092ec82349dc608be7aec1b3feb86e563dfdc9f1c7d2&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-08T13:48:04Z",
+          "published_at": "2026-08-08T14:26:00Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-mundial/muerte-de-jorge-messi-hoy-ultimas-noticias-del-fallecimiento-del-papa-de-lionel-messi-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4158,7 +4158,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Sommarrea hos Haglöfs – just nu upp till 40% på funktionsplagg!",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4390,12 +4390,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Politik I dag 09.11 Åkesson: Samebyarnas inflytande ett jätteproblem",
-          "summary": "",
-          "body_text": "",
+          "title": "Det är Åkessons deadline för L: ”Börjar fundera”",
+          "summary": "Jimmie Åkesson hoppas vända Tidökrisen genom att locka S-väljare med frågor om jakt och fiske på samebyars mark. Han har ännu inte gett upp hoppet om L – men utesluter inte att det kan ändras.",
+          "body_text": "Jimmie Åkesson hoppas vända Tidökrisen genom att locka S-väljare med frågor om jakt och fiske på samebyars mark. Han har ännu inte gett upp hoppet om L – men utesluter inte att det kan ändras. – Om ett par veckor så kanske det inte är lika hypotetiskt längre. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Runt Sverigedemokraternas bord på Noliamässan i Piteå trängs småpojkar, många ur samma hockeylag, för att komma över en SD-keps och andra profilprodukter. När Jimmie Åkesson kommer gående på mässområde går ett sus genom gruppen. – Kolla på honom! Han är så ståtlig, säger en av dem beundrande. En annan erkänner att han egentligen inte får vara där. Mamma och pappa avskyr SD och partiets rötter i rasistiska och nazistiska rörelser. När Jimmie Åkesson är på valturné i Norrbotten blir det tydligt att SD i dag är största parti bland unga killar i Sverige. Men bland röstberättigade har Norrbotten varit lite av den sista bastionen mot SD. Partiet har haft svårt att övertyga i det klassiskt röda länet och tidigare SD-uttalanden har skakat om, däribland om Jokkmokk som en tärande kommun och samer som ickesvenskar. I Piteå fick SD 16 procent 2022, klart under resultatet på riksplanet. Medan huvudmotståndaren Socialdemokraterna i stället överträffade det nationella planet med 48 procent i Piteå, en siffra som Magdalena Andersson annars bara kan drömma om.",
           "url": "https://www.expressen.se/nyheter/politik/akesson-samebyarnas-inflytande-ett-jatteproblem/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/f0/b8/f0b85133ade5413d80097834d1c22147/16x9/original.jpg",
+          "published_at": "2026-08-08T07:11:28Z",
           "embed_url": "https://www.expressen.se/nyheter/politik/akesson-samebyarnas-inflytande-ett-jatteproblem/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4403,7 +4403,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 8
         },
         {
@@ -4414,12 +4414,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Väder I dag 09.10 Femte värmebölja på väg mot Storbritannien",
-          "summary": "",
-          "body_text": "",
+          "title": "Femte värmebölja mot Storbritannien",
+          "summary": "Brittiska myndigheter varnar för fortsatt hetta när temperaturerna stiger och flera områden riskerar extremt torra förhållanden",
+          "body_text": "Efter en redan ovanligt varm och torr sommar väntar fortsatt brittisk värme. Nu laddar landet för ännu en rejäl värmeknock – och nästa vecka kan den femte värmeböljan för året vara ett faktum. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Från söndag väntas nämligen värmen ta fart och i sydöstra England kan temperaturerna stiga över 30 grader, det rapporterar BBC . Temperaturerna väntas ligga flera grader över det normala i stora delar av England och Wales. I centrala och sydöstra England kan vissa prognoser nå upp mot 35 grader. Värmen väntas dessutom hålla i sig tillräckligt länge för att flera områden ska uppfylla kriterierna för en värmebölja. Myndigheterna har redan utfärdat gula värmevarningar för stora delar av England. Varningarna gäller bland annat ökad belastning på vård och omsorg och en förhöjd risk för utsatta personer. Hittills i år har temperaturer över 30 grader uppmätts under 33 dagar någonstans i Storbritannien. Rekordet från 1995, då temperaturen passerade 30 grader under 34 dagar, kan därmed slås redan nästa vecka. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här! Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister.",
           "url": "https://www.expressen.se/nyheter/vader/femte-varmebolja-pa-vag-mot-storbritannien/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/b3/96/b396efccbf4f4d5c9b783af958087095/16x9/original.jpg",
+          "published_at": "2026-08-08T06:57:52Z",
           "embed_url": "https://www.expressen.se/nyheter/vader/femte-varmebolja-pa-vag-mot-storbritannien/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4427,7 +4427,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4443,11 +4443,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "Det brinner kraftigt på en ö i Askersunds kommun, skriver NA . Enligt räddningstjänsten ska det brinna med öppna lågor och man har skickat ut fler enheter. Brandens omfattning beskrivs som stor. En a-traktor har blivit påkörd bakifrån på E4 norr om Luleå. Enligt Trafikverket har olyckan inträffat i södergående riktning i höjd med korsningen Sundom. Sex personer är inblandade i olyckan, enligt SOS Alarm. – Vi är framme med räddningstjänst, ambulans och polis, säger Konstantina Sarigiannidou, teamledare vid SOS Alarm. – Inte än, men ambulansen står fortfarande framme. Trafikverket skriver att det är mycket stor påverkan på trafiken, att vägen stängts av. En bil ligger uppochned mitt i en rondell efter en trafikolycka på Boråsvägen/Säterivägen i Mölnlycke. En man har tagit sig ut ur bilen med hjälp och har förts med ambulans till sjukhus. Han var vaken och talbar, men det är oklart hur allvarligt skadad han är skriver polisen på sin hemsida. Bilen behöver bärgas från rondellen och polis är på plats för att dirigera trafiken. Räddningstjänst och ambulans har också arbetat på platsen. En drönare har exploderat på ett solrosfält i nordöstra Bulgarien, nära gränsen till Rumänien, uppger premiärminister Rumen Radev enligt Reuters. Drönaren ska ha tagit sig in i bulgariskt luftrum under lördagsmorgonen. Platsen ligger omkring en kilometer från en gasledning, enligt AFP. Det finns inga uppgifter om personskador eller skador på infrastrukturen. Flera katter har upptäckts i en bur i Umeå, skriver polisen på sin hemsida.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
