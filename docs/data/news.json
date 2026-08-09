@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:50:29Z",
+  "generated_at": "2026-08-09T20:26:05Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Kan spridas via insekter som inte tidigare funnits i landet ”Först på valdagen som valet avgörs” • Då kan Tidö komma ikapp S lovar extra barnbidrag inför jul- och sommarlov Polisen: Vi misstänker uppgörelse inom den kriminella miljön",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Attacken har engagerat en hel värld • Pressar Kina att införa djurrättslagar Kan spridas via insekter som inte tidigare funnits i landet ”Först på valdagen som valet avgörs” • Då kan Tidö komma ikapp S lovar extra barnbidrag inför jul- och sommarlov",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -2041,6 +2041,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "60d4b9e073a5",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Nigerian army says it rescued 33 people kidnapped by gunmen",
+          "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+          "body_text": "Nigeria's army has said it safely rescued 33 people after they were kidnapped by armed men while travelling through the country's north-western Zamfara state. The army said its troops mobilised alongside the police immediately after hearing about the abduction, in the Tsafe area of Zamfara on Saturday afternoon. The military found the kidnappers in the process of moving the hostages to an unknown location, the army said, and the gunmen fled into the nearby bush after coming under fire. Kidnappings by armed groups who hold people for ransom are common in parts of north-western Nigeria and major roads have become targets for attacks. Analysts say ransom payments by desperate families, intermediaries or, in some cases, Nigerian authorities have fuelled the abductions. Nigerian army spokesman Lt-Col Aliyu Danja said it was unclear where the abductors were moving their hostages when troops intercepted them, adding that the army was now attempting to track the kidnappers. \"The troops engaged the terrorists with effective fire, forcing them to abandon the victims and flee into adjoining bushes,\" he said, noting that all the hostages had been recovered without any casualties. Danja warned members of the public in the region to remain vigilant and pass on relevant information to security forces. Nigeria's security forces have recorded a recent success in rescuing kidnapped victims. On Thursday, the country's presidency said that more than 300 people abducted in separate attacks in Nigeria had been rescued. Those freed included 163 people abducted in an attack in February on the Woro and Nuku communities in Kwara state, where scores were killed. At least 145 others had been taken in Niger state. The rescue came weeks after 44 pupils and teachers abducted during a raid on a school in Oyo state were freed after more than 50 days in captivity.",
+          "url": "https://www.bbc.com/news/articles/c89nkkvx2veo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
+          "published_at": "2026-08-09T19:57:28Z",
+          "embed_url": "https://www.bbc.com/news/articles/c89nkkvx2veo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "efdb01e9f90d",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2062,7 +2086,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "1c7cc1c116b5",
@@ -2086,7 +2110,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "46c5d4f9516b",
@@ -2110,7 +2134,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "ef796183d179",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "08779e81e5fe",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "3482b1663c58",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "7d8cdf62ec21",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "5b3d8c2104d0",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "c7e0d51db14b",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "1bff503c7a44",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "cfd85128a145",
@@ -2302,30 +2326,6 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 10
-        },
-        {
-          "id": "fe6305b0e79d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-          "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-          "body_text": "Oman has said positive talks have been taking place with Iran over an agreement to secure a shipping route through the Strait of Hormuz, as Tehran warned that any deal would not see an immediate reopening of the vital waterway. Both sides suggested on Saturday that discussions were progressing, but a timeline on any deal being finalised remained unclear. Oman's foreign ministry warned against attacks on shipping that could hamper that. Iranian Foreign Minister Abbas Araghchi said talks were in their final stages but the reopening of the strait remained \"subject to other conditions\". Tehran has effectively blockaded the waterway, through which around a fifth of the world's oil and natural gas usually flows, since the US and Israel began attacking it in February. Talks in recent days have focused on the possibility of a deal between Iran and Oman on a new route through the strait, which they would both have responsibility for and is hoped would lead to progress in resuming shipping traffic. But Araghchi said a full reopening of the typically busy maritime route depended on other conditions being met, of which he provided a cursory appraisal. He said the conditions included Iran receiving compensation from the US for what Tehran described as violations of the deal both sides signed in June to cease fighting and advance talks to end the war. That deal - called a Memorandum of Understanding (MoU) - quickly fell through, as did diplomatic talks, with tit-for-tat attacks resuming just days after it was signed. Separately, Mohammad Baqer Zolqadr, Iran's security chief, told the semi-official news agency Tasnim that the Strait of Hormuz would not reopen until the US \"corrects\" its behaviour. He said the US needed to meet six Iranian demands, including a halt to threats against Iran, removal of its naval blockade of Iranian ports and release of Iran's frozen assets. Another blockade, on Saudi Arabia's ports in the Red Sea, had been imposed by Yemen's Iran-backed Houthis since 20 July. Earlier this week, US President Donald Trump said a deal with Iran \"could be soon\", but Vice-President JD Vance appeared to be more sceptical on Saturday, telling Fox News that work remained to be done even if progress was being made.",
-          "url": "https://www.bbc.com/news/articles/c934j5y2lq9o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
-          "published_at": "2026-08-08T19:18:57Z",
-          "embed_url": "https://www.bbc.com/news/articles/c934j5y2lq9o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
           "sort_order": 11
         },
         {
@@ -3616,6 +3616,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "944255352fed",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Anthropic is turning Claude Code’s auto mode on by default | TechCrunch",
+          "summary": "Programming with Claude Code will soon require even less human oversight.",
+          "body_text": "Programming with Claude Code will soon require even less human oversight, as Anthropic says it’s making auto mode the default for Pro, Max, and Team accounts, starting on August 14. The company first unveiled a test version of auto mode in March , pitching it as a way to balance speed and control. As Anthropic explained in its announcement on Friday , when Claude Code is in auto mode, instead of presenting prompts asking for human approval at each step, it will proceed unless an action is determined to be “irreversible, destructive, or aimed outside your environment.” Anthropic also said that in testing, auto mode proved safer than manual review — in a study with 1,053 paid testers, auto mode caught 89% of harmful actions, while human review only caught 13.6%. (Perhaps that’s because “manual review can become habitual: users approve 97% of permission prompts in Claude Code.”) In a post on X , Claude Code Head Boris Cherny said, “The team and I use Auto mode exclusively, and have been for many months. I couldn’t imagine going back to permission prompts!” The company also said it’s been adding new safety features like prompt injection screening and customizable hard deny rules to prevent things like data exfiltration. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y! Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+          "published_at": "2026-08-09T19:20:32Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "c7fe0574fd53",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire | TechCrunch",
+          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+          "body_text": "In just a few days, Amazon-owned Zoox will start charging for robotaxi rides . This might not seem like a big deal; the company’s custom-built robotaxis are already giving rides to passengers in Las Vegas and San Francisco, after all. And it’s opening up an early rider program in Miami and Austin too. None of this matters — in a business sense — until the company can operate commercially. And now it can, starting August 10, thanks to an exemption issued by the National Highway Traffic Safety Administration (NHTSA). Because Zoox vehicles lack many of the traditional controls required under federal law, such as a steering wheel and pedals, it needed an exemption from federal motor vehicle standards in order to operate. It had an exemption that allowed it to demonstrate the technology; this one allows Zoox to operate a fleet of up to 2,500 vehicles commercially for two years. The exemption is a win for Zoox, but it also paves the way for any other autonomous vehicle developer that wants to launch a robotaxi that lacks a steering wheel, pedals, or other requirements that might not be needed in a vehicle with no human driver. For instance, a robotaxi really doesn’t need a rearview mirror; it already achieves that kind of visibility with sensors on the exterior of the vehicle. Tesla is the obvious beneficiary here since it is developing its two-seater Cybercab. But there will be others as well. In other news, you might have missed my comprehensive assessment of Uber’s autonomous vehicle empire . Check it out; it offers a complete rundown of every company that Uber has partnered with (and in some cases invested in). And I hear more are coming. You might recall that the Financial Times did its own calculus of how much Uber was investing in AVs. The outlet determined it was about $10 billion. And what do you know? That is exactly the number Uber CEO Dara Khosrowshahi shared during the company’s earnings call. He said the company would commit $10 billion “over the coming years” to deploy 120,000 driverless vehicles. Moove started out as an African fintech company that provided vehicle financing for app drivers. While Moove remains in the mobility sector, it has evolved into a mega ride-hail fleet owner (42,000 vehicles and growing) across 13 countries. It has also added a new business division focused on autonomous vehicles. Moove got an early win and is now the fleet operator for Waymo in Phoenix, Miami, and Las Vegas, and in the future, London. But co-CEO Ladi Delano clearly has grander ambitions for Moove — and now he has the fresh capital to try. The startup, now based in Dubai, raised $250 million in a Series C round led by Mubadala Investment Company with Woven Capital and Ion Pacific as co-leads. Moove, which is now valued at $2.1 billion, plans to use the funds to scale its autonomous vehicle fleet management business, including hiring about 350 people. One interesting item of note: Moove plans to buy Waymo robotaxis and already owns the robotaxi assets of another unnamed company. Other deals that got my attention this week …",
+          "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas.jpg?resize=1200,676",
+          "published_at": "2026-08-09T16:05:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "9d1b3cc68de3",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3637,7 +3685,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "3f7c800bfd24",
@@ -3661,7 +3709,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "7b665f29e0ce",
@@ -3685,7 +3733,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "2b6c4338169a",
@@ -3709,31 +3757,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "c9329978009e",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "OpenAI acquires presentation startup NextSlide | TechCrunch",
-          "summary": "NextSlide says its team members are now working on ChatGPT.",
-          "body_text": "NextSlide recently announced that it’s joining OpenAI, with the presentation startup’s team members now working on ChatGPT. The NextSlide website currently displays a note from founder Ahmed Beshry describing the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.” The ultimate goal, Beshry said, was “to make visual communication more accessible and help more people express their ideas clearly.” So by joining OpenAI, the team will “continue pursuing that same mission: building AI products that help people create, communicate, and turn their ideas into meaningful work.” The financial terms of the deal were not disclosed. In a note on LinkedIn , Beshry said the announcement is coming “a few months late,” as the acquisition took place “earlier this year.” Beshry was previously a co-founder at Caper AI, a smart cart/cashier-less checkout startup acquired by Instacart in 2021. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y! Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
-          "published_at": "2026-08-08T19:41:13Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "43cda8333a95",
@@ -3757,7 +3781,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "f092b94bca90",
@@ -3774,30 +3798,6 @@
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/kindle-scribe-colorsoft.jpg?resize=1200,900",
           "published_at": "2026-08-08T16:00:00Z",
           "embed_url": "https://techcrunch.com/wp-content/uploads/2026/08/kindle-scribe-colorsoft.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "5655a593c8d3",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "OpenAI says it slowed Astra model development over security concerns | TechCrunch",
-          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-          "body_text": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities. OpenAI said in a blog post Friday that this model, which is still in development, reached its “critical cybersecurity threshold,” meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. Under the company’s “Preparedness Framework,” which it created in 2023, this triggered additional safeguards. “While we continue to benchmark and assess this model, our preliminary evaluations indicate strong enough performance that we cannot rule out Critical capability level at this time,” OpenAI wrote. “Astra is an upcoming model, and was not involved in exploiting Hugging Face.” The disclosure highlights an unusual moment in the topsy-turvy and still nascent frontier AI labs sector. Companies across every industry hold back products over potential risks, including for safety and cybersecurity concerns. But they rarely announce those decisions publicly when it’s a product that is still under development. In this case, OpenAI is already under scrutiny after a different unreleased model breached Hugging Face’s systems during internal testing — the first verifiable incident of an AI lab losing control of its model. Since then, OpenAI and AI labs such as Anthropic have disclosed other incidents in which AI models breached their sandboxes and posed threats during cybersecurity tests. The string of cases — seems like a new disclosure every day now — has triggered varying reactions from cybersecurity experts, lawmakers, and the AI labs themselves. Some express fear and call for stricter oversight. But there’s also a bit of flexing. In certain circles, any AI lab with a model that has that kind of capability will be seen as an impressive advancement. OpenAI said it was sharing this information because it believes “it’s important to be transparent with the public and the safety and security communities about this potential shift in capabilities.” The AI lab said it’s also taking action, including enacting stricter security controls and pausing internal activities involving Astra that don’t meet these beefed guardrails. OpenAI said it is working with relevant government agencies and “select AI safety organizations” to test the capabilities for this model. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y! ChatGPT brings unlimited text chats to free users Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-          "published_at": "2026-08-07T22:48:24Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -4293,12 +4293,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen I dag 17.13 Hotar ta försäkringen från bil med Jesusbudskap",
-          "summary": "",
-          "body_text": "",
+          "title": "Försäkringsbolaget hotar att upphäva försäkringen för bil med Jesusbudskap",
+          "summary": "Försäkringsbolaget hotar att upphäva försäkringen för bil med Jesusbudskap",
+          "body_text": "Bilägaren klistrade stora dekaler med texten ”Jesus älskar dig” på sin Nissan Pixo. Då hotar det brittiska försäkringsbolaget att upphäva hans försäkring. ”Vi kräver att dekalen avlägsnas för att policyn ska fortsätta att gälla”, skriver bolaget till honom. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Simeon Chandra, 35, från brittiska Birmingham hamnade i konflikt med sitt försäkringsbolag. Detta sedan han klistrat stora dekaler med kristna budskap på sin bil. På den ena sidan ”Jesus älskar dig”, på den andra ”Jesus älskar dig mycket”. Det blev för mycket för försäkringsbolaget GoSkippy som hotade att upphäva försäkringen av hans Nissan Pixo, årsmodell 2009, rapporterar brittiska medier. ”Vi kräver att dekalerna avlägsnas från fordonet för att policyn ska fortsätta att gälla och bilen ska vara försäkrad. Skicka bilder med datum när dekalerna är borttagna”; skrev försäkringsbolaget i ett meddelande till bilägaren. Simeon Chandra tog motvilligt bort dekalerna och söker nu hjälp av en kristen juristgrupp för att överklaga bolagets beslut. – Jag är chockad, överraskad och upprörd. Meddelande är varken kränkande, politiskt, hatiskt eller kommersiellt. Det är ett hoppfullt budskap, säger han till brittiska medier. Andrea Williams, chef på den kristna juristgruppen Christian Legal Centre, kommenterar: – Det här handlar inte om en teknisk modifiering av bilen. Det handlar om huruvida kristna har frihet att uttrycka sin tro offentligt utan att utestängas från nödvändig service. Det borde oroa alla som bryr sig om trosfrihet och yttrandefrihet.",
           "url": "https://www.expressen.se/nyheter/varlden/hotar-ta-forsakringen-fran-bil-med-jesusbudskap/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/06/1d/061d58c152a4442f978c0824448ee3b0/16x9/original.png",
+          "published_at": "2026-08-09T15:13:08Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/hotar-ta-forsakringen-fran-bil-med-jesusbudskap/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4306,7 +4306,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 8
         },
         {
@@ -4317,12 +4317,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige I dag 16.03 Kyrkan håller öppet efter dödsolyckan: ”Jättetragiskt”",
-          "summary": "",
-          "body_text": "",
+          "title": "Sorgen efter traktorolyckan",
+          "summary": "Under lördagen dog ett ett litet barn i en traktorolycka i Svenljunga kommun. Nu öppnar kyrkan i bygden för stöd till sörjande. – Det är jättetragiskt, säger prästen Hans Leander.",
+          "body_text": "Under lördagen dog ett ett litet barn i en traktorolycka i Svenljunga kommun. Nu öppnar kyrkan i bygden för stöd till sörjande. – Det är jättetragiskt, säger prästen Hans Leander. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I lördags omkom en litet barn i en traktorolycka i en liten by i Svenljunga i Västergötland. Barnet fördes med ambulanshelikopter till sjukhus, men omkom av sina skador. Polisen är knapphändig med vad som hänt. – Det är en tragisk olycka, sa Adam Isaksson Samara vid polisen tidigare till Expressen. Nu håller kyrkan öppet i den lilla byn, vilket Aftonbladet var först med att rapportera. – Oavsett om det kommer många eller inte tycker vi att viktigt att tala om att kyrkan är öppen och att det finns någonstans att söka stöd, säger Leander. Ikväll kommer det att hållas en musikgudstjänst i kyrkan som varit planerad sedan tidigare. – Vi kommer ta upp det som hänt i vår förbön, säger Leander. Polisen utreder ärendet som vårdslöshet i trafik och vållande till annans död, men rubriceringen kan komma att ändras. Ingen person är i nuläget misstänkt.",
           "url": "https://www.expressen.se/nyheter/sverige/kyrkan-haller-oppet-efter-dodsolyckan-jattetragiskt/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/a2/5a/a25ab43aa0ef4abb9eb461811d422b00/16x9/original.png",
+          "published_at": "2026-08-09T14:03:54Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/kyrkan-haller-oppet-efter-dodsolyckan-jattetragiskt/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4330,7 +4330,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4346,11 +4346,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "Kosovo tar ner ukrainska flaggor efter president Volodymir Zelenskyjs ord på en pressträff tillsammans med sin serbiske motsvarighet, rapporterar Omni med hänvisning till Ukrainska Pravda. Zelenskyj ska ha sagt att han står fast vid att inte erkänna Kosovo som självständig stat. ”Vi har alltid solidaritet med de som drabbas av krig, våld och förföljelse [...] men ingen ska förolämpa vår stat och vårt folks uppoffringar”, skriver Pristinas borgmästare Përparim Rama på Facebook. Donald Trump säger att han delvis har bytt taktik mot Iran och att USA nu använder sig av en ”dämpad” taktik. Bara drygt en vecka sedan han hotat Iran med ”den största attacken sedan andra världskriget” säger han till nyhetssajten Axios att USA nu bara ”delvis förhandlar” och snarare än aktiv krigföring försöker vänta ut Iran. Vi bara tittar på deras höga inflation och det faktum att de inte har några pengar, säger han. Om det höga oljepriset säger han sig inte vara oroad och hävdar att konsumenterna inte längre känner av det lika mycket. Det kommer att lösa sig. Det löser sig alltid, det är som ett parti schack, säger han. Två ungdomar har klättrat upp i en mast och är cirka 40 meter ovanför mark, rapporterar TV4 Nyheterna. – De ska ha klättrat ner igen och kom och gick tillsammans med poliserna sade mina kolleger, säger Fredrik Hilmersson, ledningsoperatör vid Storstockholms brandförsvar till Expressen. En bil brinner på E4 utanför Linköping. Bilen står intill vägen i södergående riktning. – Det är fullt utvecklad bilbrand. Det är en personbil som har börjat brinna under färd av okänd anledning, Christian Lind, vakthavande befäl vid räddningstjänsten.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
