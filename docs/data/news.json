@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:02:26Z",
+  "generated_at": "2026-08-09T19:04:31Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 ”Först på valdagen som valet avgörs” • Då kan Tidö komma ikapp S lovar extra barnbidrag inför jul- och sommarlov Skar upp fingrarna • Mamman kritisk: ”Aldrig hänt något liknande” • Badhuset utreder olyckan",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 ”Först på valdagen som valet avgörs” • Då kan Tidö komma ikapp S lovar extra barnbidrag inför jul- och sommarlov Polisen: Vi misstänker uppgörelse inom den kriminella miljön",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -311,7 +311,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 10,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -339,7 +339,7 @@
           "sort_order": 0
         },
         {
-          "id": "cdb8928dae16",
+          "id": "cbfecdff6e26",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
@@ -348,11 +348,11 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 21:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/89ddogP/rapport/ikvall-21-00",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 7 aug 22:30 4 min 32 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/89ddogP/rapport/ikvall-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-09T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/89ddogP/rapport/ikvall-21-00",
+          "published_at": "2026-08-09T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/89ddogP/rapport/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -361,6 +361,54 @@
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "0951f2d5414d",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 7 aug 22:30 4 min 32 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/8ZxxR41/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54669638/1786284781?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-09T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8ZxxR41/rapport/idag-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "54472ce3178e",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 22:35",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 7 aug 22:30 4 min 32 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/ep55MPx/rapport/igar-22-35?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54668417/1786222361?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-08T22:35:00Z",
+          "embed_url": "https://www.svtplay.se/video/ep55MPx/rapport/igar-22-35?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "b03ca612e11e",
@@ -384,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "d74900cc775b",
@@ -408,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "bf08d6f837e0",
@@ -432,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "96f27d942361",
@@ -456,7 +504,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "7016b09e75fa",
@@ -480,7 +528,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "381ffadd8d71",
@@ -504,7 +552,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "4064674f957d",
@@ -528,23 +576,23 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 10
         },
         {
-          "id": "55f34127a308",
+          "id": "2e9416c7077b",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sommarjazz: Brad Mehldau",
-          "summary": "Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024)",
-          "body_text": "Konsert med den klassiska musikens mest kända verk Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024) Brad Mehldau Trio at Nancy Jazz Pulsations 2024",
-          "url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52899126/1750165744?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-07-11T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
+          "title": "Rapport – Igår 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 7 aug 22:30 4 min 32 sek Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/eEqqPxn/rapport/igar-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54667730/1786198381?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-08T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/eEqqPxn/rapport/igar-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -552,7 +600,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 11
         }
       ]
     },
@@ -1601,6 +1649,131 @@
           "sort_order": 0
         },
         {
+          "id": "10155e97872e",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Todd Blanche faces pressure to prosecute Anthony Fauci after criminal referral | Fox News Video",
+          "summary": "Newly confirmed Attorney General Todd Blanche faces a decision on whether to prosecute Dr. Anthony Fauci following a Senate criminal referral. Legal expert Cully Stimson analyzes the legal hurdles and the impact of Joe Biden's pardon.",
+          "body_text": "Newly confirmed Attorney General Todd Blanche faces a decision on whether to prosecute Dr. Anthony Fauci following a Senate criminal referral. Legal expert Cully Stimson analyzes the legal hurdles and the impact of Joe Biden's pardon. Attorney General Todd Blanche inherits a Senate criminal referral against Dr. Anthony Fauci. Legal expert Cully Stimson joins Mike Emanuel to explain the complex legal mechanics of a congressional contempt charge in Washington D.C. Stimson details why President Joe Biden's pre-emptive pardon does not negate Fauci's Fifth Amendment rights amidst ongoing state-level investigations.",
+          "url": "https://www.foxnews.com/video/6403115320112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbf0b9ba-5a86-4582-a420-39e0e280c707/063a9ae0-eb9d-40d9-abdd-208afa8a899b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-09T18:36:39Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403115320112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "a51d82dc10d8",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Health expert sounds alarm over rising outbreaks | Fox News Video",
+          "summary": "NYU Langone gastroenterologist Dr. David Bernstein analyzes the Cyclospora and Salmonella outbreaks linked to contaminated produce. He details key symptoms, infection sources and essential food safety tips.",
+          "body_text": "NYU Langone gastroenterologist Dr. David Bernstein analyzes the Cyclospora and Salmonella outbreaks linked to contaminated produce. He details key symptoms, infection sources and essential food safety tips. NYU Langone gastroenterologist Dr. David Bernstein analyzes the Cyclospora and Salmonella outbreaks linked to contaminated produce. He details key symptoms, infection sources and essential food safety tips. The health alert follows reports of multiple deaths and hundreds of infections nationwide.",
+          "url": "https://www.foxnews.com/video/6403119424112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10faa02e-8a06-407d-901b-c4405f7d9959/28dcaf07-2310-4e46-9d2f-2733a1c6c292/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-09T18:36:05Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403119424112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "2e0617a1a171",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Floridians still have a lot of questions about Fauci, state AG says | Fox News Video",
+          "summary": "Florida Attorney General James Uthmeier criticizes former President Joe Biden's pardon of Dr. Anthony Fauci.",
+          "body_text": "Florida Attorney General James Uthmeier criticizes former President Joe Biden's pardon of Dr. Anthony Fauci.",
+          "url": "https://www.foxnews.com/video/6403109983112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95cbc8c8-e3c9-48aa-b959-f1b77518c4fd/19e18057-5161-4c58-a167-64714d894fa7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-09T18:16:34Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403109983112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "a4f21acc4e33",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "GOP mayor Glenn Jacobs blocks Flock safety cameras over privacy concerns | Fox News Video",
+          "summary": "Knox County Mayor Glenn Jacobs speaks on his decision to block Flock surveillance cameras.",
+          "body_text": "Knox County Mayor Glenn Jacobs speaks on his decision to block Flock surveillance cameras.",
+          "url": "https://www.foxnews.com/video/6403111409112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fce886c0-208a-4510-bb1d-65efcb4d8ee6/aed4173c-afdb-4326-86c4-473331d022c3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-09T18:15:46Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403111409112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "c39a7c8ab30a",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Smithsonian funding threatened by House GOP over ‘woke’ exhibits | Fox News Video",
+          "summary": "Historian Dr. Jody Edward Ginn joins ‘Fox News Live’ to discuss the Trump administration and House’s push to rid the Smithsonian museums of ‘woke’ exhibits.",
+          "body_text": "Historian Dr. Jody Edward Ginn joins ‘Fox News Live’ to discuss the Trump administration and House’s push to rid the Smithsonian museums of ‘woke’ exhibits. Smithsonian Institution federal funding is under threat as House Republicans demand accountability for controversial exhibits. Historian Dr. Jody Edward Ginn joins Mike Emanuel to discuss Rep. Tim Burchett's, R-Tenn., accusations that the museum has strayed from its core mission. Lawmakers suggest slashing the institution's budget to below $1 billion for fiscal years 2026 and 2027 unless reforms are implemented.",
+          "url": "https://www.foxnews.com/video/6403116023112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1421a57-ff84-4dde-ad2e-241ce22abd00/26c6966e-43c6-4161-8a72-c917f7fade9a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-09T17:55:09Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403116023112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 5
+        },
+        {
           "id": "a6df03098e79",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1623,7 +1796,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 6
         },
         {
           "id": "5c6a92fb739a",
@@ -1648,7 +1821,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 7
         },
         {
           "id": "dac6c25f6180",
@@ -1673,7 +1846,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 8
         },
         {
           "id": "88a20a826f94",
@@ -1690,131 +1863,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b0cfe77-d275-468b-98b3-1b89e42d50b6/e21cd705-5965-4580-b7af-8706b086fc48/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-09T17:38:25Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403116700112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "6973e90d90b3",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Russia launches massive wave of drone and missile strikes across Ukraine | Fox News Video",
-          "summary": "Correspondent Stephanie Bennett reports on Russia's massive overnight assault on Ukraine, launching over 200 drones and missiles. The strikes damaged key civilian and healthcare infrastructure, drawing international condemnation.",
-          "body_text": "Correspondent Stephanie Bennett reports on Russia's massive overnight assault on Ukraine, launching over 200 drones and missiles. The strikes damaged key civilian and healthcare infrastructure, drawing international condemnation. Correspondent Stephanie Bennett reports on Russia launching more than 200 drones and missiles at Ukraine. The devastating overnight strikes targeted key civilian locations, destroying a World Health Organization warehouse and causing multiple casualties. Meanwhile, Russian officials report several casualties from a Ukrainian drone attack in Belgorod, escalating tensions on both sides.",
-          "url": "https://www.foxnews.com/video/6403114346112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d59ba0d-3570-4ca1-bc3d-096ab2189a74/0cd9869f-036a-43a0-8b52-c0e40d98a1c6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-09T17:04:43Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403114346112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "24830c3d5a86",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Iran demands concessions as Strait of Hormuz tensions escalate | Fox News Video",
-          "summary": "Fox News' Alex Hogan reports the latest from the White House. Dr. Rebecca Grant also joined 'Fox News Live' to analyze rising tensions as Iran issues demands on the Strait of Hormuz and Israel rejects the Trump-backed Gaza peace plan.",
-          "body_text": "Fox News' Alex Hogan reports the latest from the White House. Dr. Rebecca Grant also joined 'Fox News Live' to analyze rising tensions as Iran issues demands on the Strait of Hormuz and Israel rejects the Trump-backed Gaza peace plan. Iran demands U.S. concessions as Strait of Hormuz tensions escalate. With 53 vessels redirected since the naval blockade resumed, national security analyst Dr. Rebecca Grant breaks down the crucial geopolitical stakes, which also include Israel's rejection of President Donald Trump's 15-point peace plan for Gaza.",
-          "url": "https://www.foxnews.com/video/6403112247112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8dd694e-7c37-4772-902f-a1495d7181bc/0b3be148-7cfa-4e07-b585-0b1647c3cbe0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-09T16:59:29Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403112247112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "9193e1cbbb88",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "American cities reject Flock cameras due to privacy concerns | Fox News Video",
-          "summary": "Knox County Mayor Glenn Jacobs joins ‘The Sunday Briefing’ to discuss why he blocked a $1 million deal for Flock Safety surveillance cameras.",
-          "body_text": "Knox County Mayor Glenn Jacobs joins ‘The Sunday Briefing’ to discuss why he blocked a $1 million deal for Flock Safety surveillance cameras.",
-          "url": "https://www.foxnews.com/video/6403114695112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a89fb2d0-3962-4121-a3a3-fd5f898c2e30/e56195e4-c326-4404-9a72-bd950accc0cb/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-09T16:54:30Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403114695112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "b5a2b0e052fd",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sen Rick Scott demands accountability for Fauci, slams Senate recess | Fox News Video",
-          "summary": "Sen. Rick Scott, R-Fla., discusses the Senate’s decision to recess without passing the SAVE Act, Dr. Anthony Fauci’s COVID-era phone records and more on ‘The Sunday Briefing.’",
-          "body_text": "Sen. Rick Scott, R-Fla., discusses the Senate’s decision to recess without passing the SAVE Act, Dr. Anthony Fauci’s COVID-era phone records and more on ‘The Sunday Briefing.’ Sen. Rick Scott, R-Fla., calls to hold the Senate accountable. Scott criticizes the Senate for going on recess without passing the SAVE Act and urges the newly confirmed Attorney General Todd Blanche to prosecute Dr. Anthony Fauci. Scott also addresses Fauci's newly released phone records.",
-          "url": "https://www.foxnews.com/video/6403114678112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7474c6af-411a-4419-9fa1-63b502798a04/3c48d184-d136-4b57-be82-64ebc96d60ca/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-09T16:50:08Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403114678112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "b846876318f4",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Dem speaks on the rise of socialist candidates ahead of primaries | Fox News Video",
-          "summary": "Rep. Jake Auchincloss joins 'The Sunday Briefing' to discuss the rise of Democratic socialism in swing states. He also shares his predictions for the 2028 Democratic nomination and reacts to Iran negotiations.",
-          "body_text": "Rep. Jake Auchincloss joins 'The Sunday Briefing' to discuss the rise of Democratic socialism in swing states. He also shares his predictions for the 2028 Democratic nomination and reacts to Iran negotiations.",
-          "url": "https://www.foxnews.com/video/6403112912112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/250f9c19-2a89-462d-bafb-afb4819eef23/03966781-759c-4e7e-9c4b-9f8f6ba29183/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-09T16:40:11Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403112912112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1901,6 +1949,31 @@
           "sort_order": 12
         },
         {
+          "id": "a143337b967e",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Sunday Morning Futures with Maria Bartiromo - Sunday, August 9 | Fox News Video",
+          "summary": "FNC, Fauci, Mamdani, senate, voting, russia",
+          "body_text": "FNC, Fauci, Mamdani, senate, voting, russia",
+          "url": "https://www.foxnews.com/video/6403116159112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/c5e9af11-d7a1-4500-b40a-c0b9d3e5bec9/f2c443a7-e99d-426a-b5f5-0fdbd56cccba/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-09T18:12:58Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403116159112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 13
+        },
+        {
           "id": "cbedcac95a0b",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1923,7 +1996,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 13
+          "sort_order": 14
         },
         {
           "id": "52039d886165",
@@ -1940,31 +2013,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/d419dde5-e64a-4399-b961-13a2c97ebe8a/b04ea982-df0d-4bd1-be20-32c5444da940/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-08-09T11:33:40Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403104792112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "45efd24a8d95",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "My View With Lara Trump - Saturday, August 8 | Fox News Video",
-          "summary": "Francesca Hong, Senate, Smithsonian, Markwayne Mullin",
-          "body_text": "Francesca Hong, Senate, Smithsonian, Markwayne Mullin in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together",
-          "url": "https://www.foxnews.com/video/6403096365112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/209f59a7-864a-4115-97f3-b12477cf933e/005aa0ba-2897-426c-a694-257590e83c13/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-09T08:35:47Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403096365112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2313,8 +2361,8 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
-          "body_text": "A state of emergency has been declared after thousands of people were forced to flee their homes as a fast-moving wildfire in a remote part of western Canada spread rapidly, doubling in size since it was first detected on Friday. The Bald Range fire now occupies more than 39 sq miles (103 sq km) across the Summerland, Peachland and other districts of British Columbia, according to the BC Wildfire Service. \"We have to brace ourselves for the worst,\" Summerland Mayor Doug Holmes told Reuters. Officials said the flames were so high that they had created their own weather systems , which creates lightning. British Columbia Premier David Eby told a news conference on Saturday that one fire official had likened the fire to \"a bomb going off\". \"Homes have been lost, and properties have been destroyed. Some people became trapped as conditions changed very quickly, and needed to be rescued,\" the premier said. A state of emergency allows the provincial government access to special powers including travel restrictions and supply protections to prevent price gouging, and extra resources to coordinate rescue work. Summerland has a population of about 12,000 people, according to the 2021 census, and Peachland is home to about 6,500 residents. The Bald Range wildfires triggered the largest evacuation event this summer and more than 20,000 people across British Columbia have evacuated their homes, officials say. \"A lot of farms have been affected. We don't know how many structures have been lost. They're still busy fighting the fire,\" Summerland Mayor Doug Holmes said. Hundreds of residents living in Summerland care facilities, including senior housing, were being relocated to safer areas, according to Interior Health, a publicly funded health authority in BC. It was not yet clear how many structures had been destroyed in the blaze.",
+          "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+          "body_text": "A state of emergency has been declared after thousands of people were forced to flee their homes as a fast-moving wildfire spread rapidly in western Canada, doubling in size since it was first detected on Friday. The Bald Range fire now occupies more than 53 sq miles (136 sq km) across Summerland, Peachland and other areas of British Columbia, according to the BC Wildfire Service. \"We have to brace ourselves for the worst,\" Summerland Mayor Doug Holmes told Reuters. Officials said the flames were so high that they had created their own weather systems , which creates lightning. British Columbia Premier David Eby told a news conference on Saturday that one fire official had likened the fire to \"a bomb going off\". \"Homes have been lost, and properties have been destroyed. Some people became trapped as conditions changed very quickly, and needed to be rescued,\" the premier said. A state of emergency allows the provincial government access to special powers including travel restrictions and supply protections to prevent price gouging, and extra resources to coordinate rescue work. Summerland has a population of about 12,000 people, according to the 2021 census, and Peachland is home to about 6,500 residents. The Bald Range wildfires triggered the largest evacuation event this summer and more than 20,000 people across British Columbia have evacuated their homes, officials say. \"A lot of farms have been affected. We don't know how many structures have been lost. They're still busy fighting the fire,\" Summerland Mayor Doug Holmes said. Hundreds of residents living in Summerland care facilities, including senior housing, were being relocated to safer areas, according to Interior Health, a publicly funded health authority in BC. It was not yet clear how many structures had been destroyed in the blaze.",
           "url": "https://www.bbc.com/news/articles/cx25dkwk3e3o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
           "published_at": "2026-08-08T18:13:49Z",
@@ -2426,6 +2474,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "0704527173bd",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Incremento del sueldo mínimo 2026: Qué dijo el MEF sobre el pago en escalas",
+          "summary": "El sueldo mínimo en Perú tendrá un incremento en el 2026. Consulta el nuevo monto y qué anunció el MEF sobre el pago de la Remuneración Mínima Vital (RMV) y su aumento progresivo.",
+          "body_text": "Durante su Mensaje a la Nación tras asumir la juramentación como Presidenta del Perú, Keiko Fujimori anunció una serie de medidas económicas orientadas a dinamizar el mercado laboral y brindar mayor estabilidad a los hogares peruanos. Entre los anuncios más destacados figura el incremento de la Remuneración Mínima Vital (RMV) y el establecimiento de mecanismos de apoyo para el sector empresarial. En el marco de su primer Mensaje a la Nación, la presidenta Keiko Fujimori señaló que una de las prioridades de su gestión será la reactivación de los motores generadores de ingresos para los hogares peruanos. Como parte de las acciones concretas para mejorar las percepciones de la masa laboral, la mandataria anunció que se elevará la remuneración mínima vital (RMV) hasta los S/1,300. Cabe recordar que el sueldo mínimo actual se encontraba en S/1,130 (monto que regía a partir del 1 de enero de 2025 tras un incremento de S/105 establecido por el Decreto Supremo N° 006-2024-TR). “Para mejorar los ingresos de los trabajadores, elevaremos la remuneración mínima vital a 1,300 soles. Queremos mejores salarios, pero también empresas sostenibles y más empleos formales”. El ministro de Economía y Finanzas, Elmer Cuba, informó que el incremento del sueldo mínimo, anunciado por Keiko Fujimori durante su Mensaje a la Nación del 28 de julio, se aplicará de manera progresiva. La medida contempla elevar el monto en dos etapas hasta alcanzar los S/1.300. El Gobierno plantea este mecanismo para evitar un impacto brusco en la inflación. Asimismo, busca reducir las posibles dificultades que el aumento podría generar en las micro y pequeñas empresas. De acuerdo con lo explicado por Cuba, el incremento se realizará en dos etapas, el primer aumento será de S/100, mientras que el segundo ascenderá a S/70. Con el propósito de amortiguar el impacto financiero que la medida representa para el sector empresarial de menor escala, el incremento salarial contará con un respaldo específico. “Este incremento estará acompañado de un bono compensatorio por única vez para las micro y pequeñas empresas, con el fin de que las ayude a incorporar trabajadores a la formalidad y afrontar responsablemente el mayor costo laboral”. La jefa de Estado enfatizó que el objetivo de esta política económica no es aislado, sino que apunta a lograr un ecosistema donde coexistan mejores salarios, empresas sostenibles y una mayor cantidad de empleos formales en todo el territorio nacional. Finalmente, la Presidenta ratificó su compromiso de ofrecer estabilidad, seguridad jurídica y reglas claras a los inversores tanto nacionales como extranjeros. En esa línea, se adelantó que se reducirán las trabas burocráticas innecesarias y se devolverá la predictibilidad a las decisiones estatales, bajo la premisa de que a mayor multiplicación de la inversión, mayor creación de empresas, empleo y crecimiento para el país.",
+          "url": "https://elcomercio.pe/respuestas/cuanto/aumento-de-sueldo-minimo-2026-en-peru-nuevo-monto-y-que-anuncio-el-mef-sobre-la-rmv-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ITENMJEQCJF4ROWU3LJ4XSJQ6A.png?auth=e181ca72e5640ca92a47320c12dec90923b3414461a0980d4a8b757d1fc1fdd7&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-09T17:01:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/cuanto/aumento-de-sueldo-minimo-2026-en-peru-nuevo-monto-y-que-anuncio-el-mef-sobre-la-rmv-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Aumento del sueldo mínimo 2026, Aumento del sueldo mínimo 2026 perú, Keiko Fujimori",
+            "Cuanto",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "ae6ec9d10301",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2449,7 +2523,7 @@
             "El Comercio"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "3a8b4eab3a11",
@@ -2471,32 +2545,6 @@
           "tags": [
             "Tabla de posiciones Liga 1 2026, Tabla de posiciones Torneo Clausura, Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Clausura, Tabla del Torneo Clausura, Tabla Torneo Clausura, partidos de hoy, futbol en vivo, alianza lima, universitario, universitario de deportes, sporting cristal, sport boys, cienciano, los chankas, melgar, tabla del acumulado, tabla de posiciones del acumulado",
             "Fútbol peruano",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "5f7fd820b356",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sueldo mínimo 2026 en Perú: qué se sabe del aumento de la nueva RMV",
-          "summary": "El sueldo mínimo en Perú tendrá un incremento en 2026. Conoce cuál será el nuevo monto de la Remuneración Mínima Vital (RMV) y a quiénes beneficiará la medida anunciada por Keiko Fujimori.",
-          "body_text": "Durante su Mensaje a la Nación tras asumir la juramentación como Presidenta del Perú, Keiko Fujimori anunció una serie de medidas económicas orientadas a dinamizar el mercado laboral y brindar mayor estabilidad a los hogares peruanos. Entre los anuncios más destacados figura el incremento de la Remuneración Mínima Vital (RMV) y el establecimiento de mecanismos de apoyo para el sector empresarial. En el marco de su primer Mensaje a la Nación, la presidenta Keiko Fujimori señaló que una de las prioridades de su gestión será la reactivación de los motores generadores de ingresos para los hogares peruanos. Como parte de las acciones concretas para mejorar las percepciones de la masa laboral, la mandataria anunció que se elevará la remuneración mínima vital (RMV) hasta los S/1,300. Cabe recordar que el sueldo mínimo actual se encontraba en S/1,130 (monto que regía a partir del 1 de enero de 2025 tras un incremento de S/105 establecido por el Decreto Supremo N° 006-2024-TR). “Para mejorar los ingresos de los trabajadores, elevaremos la remuneración mínima vital a 1,300 soles. Queremos mejores salarios, pero también empresas sostenibles y más empleos formales”. Con el propósito de amortiguar el impacto financiero que la medida representa para el sector empresarial de menor escala, el incremento salarial contará con un respaldo específico. “Este incremento estará acompañado de un bono compensatorio por única vez para las micro y pequeñas empresas, con el fin de que las ayude a incorporar trabajadores a la formalidad y afrontar responsablemente el mayor costo laboral”. La jefa de Estado enfatizó que el objetivo de esta política económica no es aislado, sino que apunta a lograr un ecosistema donde coexistan mejores salarios, empresas sostenibles y una mayor cantidad de empleos formales en todo el territorio nacional. Finalmente, la Presidenta ratificó su compromiso de ofrecer estabilidad, seguridad jurídica y reglas claras a los inversores tanto nacionales como extranjeros. En esa línea, se adelantó que se reducirán las trabas burocráticas innecesarias y se devolverá la predictibilidad a las decisiones estatales, bajo la premisa de que a mayor multiplicación de la inversión, mayor creación de empresas, empleo y crecimiento para el país.",
-          "url": "https://elcomercio.pe/respuestas/cuanto/aumento-del-sueldo-minimo-2026-conoce-el-nuevo-monto-y-desde-cuando-regira-la-rmv-anunciada-por-keiko-fujimori-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NOMCNA7QN5G6HC5OHL4GJ2NV5I.png?auth=e3e4a2fcbb5898dc2e8515ca819c873888eaef4f736c3300459f741a90d45972&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-08T20:14:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/cuanto/aumento-del-sueldo-minimo-2026-conoce-el-nuevo-monto-y-desde-cuando-regira-la-rmv-anunciada-por-keiko-fujimori-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Aumento del sueldo mínimo 2026, Aumento del sueldo mínimo 2026 perú, Keiko Fujimori",
-            "Cuanto",
             "Senaste",
             "El Comercio"
           ],
@@ -2582,32 +2630,6 @@
           "sort_order": 5
         },
         {
-          "id": "eda43e77c655",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Hoy es feriado en Perú: conoce qué días de descanso quedan en agosto de 2026",
-          "summary": "Agosto de 2026 tendrá días de descanso oficial en Perú. Revisa el calendario de feriados, las fechas establecidas y conoce cuándo podrás disfrutar de un día libre.",
-          "body_text": "Tras culminar las celebraciones por Fiestas Patrias, muchos trabajadores y estudiantes ya empiezan a revisar el calendario para conocer cuál será el siguiente descanso oficial del año. Los feriados representan una oportunidad para planificar viajes, compartir tiempo en familia o simplemente hacer una pausa en la rutina, por lo que existe un gran interés en conocer las próximas fechas establecidas por ley. Además de permitir un espacio para el descanso, estas jornadas suelen generar un importante movimiento en sectores como el turismo, el comercio, la gastronomía y el transporte, debido al incremento de personas que aprovechan los días libres para salir de la ciudad o realizar diversas actividades. Del mismo modo, muchas empresas y entidades organizan con anticipación sus operaciones para adecuarse al calendario oficial, mientras que las familias aprovechan estas fechas para programar reuniones, escapadas de fin de semana o visitas a distintos destinos del país. Por ello, conocer con anticipación cuándo será el próximo feriado resulta clave para organizar la agenda personal y laboral, evitar contratiempos y sacar el máximo provecho a los días de descanso que aún quedan en el 2026. A continuación, te contaremos todo lo que debes saber sobre esta situación. Luego de los feriados nacionales del 28 y 29 de julio, tanto en el sector público como en el privado, la atención se centra en los siguientes días festivos contemplados en el calendario oficial de 2026. Si quieres saber cuándo será el próximo feriado y qué fechas aún quedan por disfrutar este año, aquí te contamos todos los detalles. Los feriados son fechas establecidas por ley en las que los trabajadores tienen derecho a suspender sus labores sin que ello afecte su remuneración. Durante estas jornadas, el descanso es obligatorio tanto para el sector público como para el privado, salvo en aquellas actividades que, por su naturaleza, deben continuar operando. Si un trabajador presta servicios durante un feriado y no recibe un día de descanso compensatorio, la legislación laboral establece que le corresponde una remuneración adicional por haber laborado en esa fecha, conforme a las disposiciones vigentes. A diferencia del feriado, el día no laborable no constituye un descanso obligatorio para todos los trabajadores. Generalmente, esta medida se aplica al sector público con el objetivo de extender periodos de descanso o promover actividades como el turismo interno. En el caso de las entidades públicas, las horas que no se trabajan deben recuperarse posteriormente, dentro del plazo fijado por la normativa o según lo disponga cada institución. Para el sector privado, la aplicación de un día no laborable depende de un acuerdo entre empleador y trabajadores. Si no existe consenso sobre la recuperación de las horas, será el empleador quien determine la forma en que estas deberán compensarse.",
-          "url": "https://elcomercio.pe/respuestas/cuando/cuantos-feriados-habra-en-agosto-2026-conoce-los-dias-libres-del-calendario-oficial-en-peru-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/SH65ZAXUUJEVFCJNE2BPUZRN5Q.png?auth=98bd7cd709f2aac65aa51be1e064bfeb928af12da7afa9f78c948b4b705d80b3&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-06T20:21:58Z",
-          "embed_url": "https://elcomercio.pe/respuestas/cuando/cuantos-feriados-habra-en-agosto-2026-conoce-los-dias-libres-del-calendario-oficial-en-peru-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Fiestas Patrias, Fiestas Patrias 2026, feriado de julio, feriados 2026, próximo feriado, feriados en Perú, Fiestas Patrias viral",
-            "Cuándo",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
           "id": "a8c719882cf1",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2631,33 +2653,33 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 6
         },
         {
-          "id": "51ac9b5fb021",
+          "id": "90c82a4757ff",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Comisiones bicamerales: Así sería el cuadro de comisiones y la repartición de presidencias en Senado y Diputados",
-          "summary": "Bloque busca imponerse en la definición de presidencias con los 74 votos con las que ganaron la Mesa Directiva. Fujimorismo pugna por liderar el grupo de Constitución en el Senado.",
-          "body_text": "Con la confianza de los 74 votos que le permitieron ganar la Mesa Directiva en la Cámara de Diputados, el bloque de izquierda –junto con su aliado, el Partido del Buen Gobierno– ahora buscará imponerse en la repartición de las presidencias de comisiones, donde su mira está puesta en tres grupos de estudio en particular: Constitución, Economía y Energía y Minas. Un resignado bloque de derecha, con el oficialista Fuerza Popular a la cabeza, buscará contrarrestar desde las comisiones del Senado para poder filtrar las fórmulas legislativas que sean enviadas desde la Cámara Baja. Lo primero a tener en cuenta es que cada cámara tendrá sus propias comisiones: son 16 para la Cámara de Diputados y siete para el Senado. Las presidencias de las comisiones se repartirán proporcionalmente. Para la Cámara Baja, el bloque de izquierda que ganó la Mesa Directiva propondrá su cuadro de comisiones para someterlo a votación en el pleno, donde cuentan con la mayoría para aprobarlo. Incluso, en el bloque de derecha son conscientes de este escenario, tal como reconoció una fuente: “A todos nos queda claro que nos van a dar lo que quede, a Fuerza Popular y Renovación Popular. El cuadro se da por votos y ellos tienen 74”. Y lo mismo piensan en el bloque de izquierda, en el que señalaron: “Es hasta poético, considerando que su mayoría [la de Fuerza Popular, en el 2016] era de 73”. Fuentes de la izquierda acotaron que son cuatro las comisiones que evalúan dejar para la derecha: Defensa del Consumidor, Inclusión Social, Medio Ambiente y Ciencia. Entre las bancadas del bloque de oposición –Juntos por el Perú, Ahora Nación, Obras y Partido del Buen Gobierno– se viene discutiendo la repartición de los grupos de su interés. La presidencia de Constitución está pedida por Juntos por el Perú y el Partido del Buen Gobierno. Mientras que la titularidad de Economía es tentada por Ahora Nación y también por el partido de Jorge Nieto. Otros grupos en los que JP busca tener el control son Energía y Minas (desde donde buscan impulsar la ampliación del Reinfo), Salud y Educación. Este último es tentado por la facción castillista. Consultado anteriormente por la agenda legislativa que impulsará su bancada, Ernesto Zunini, diputado y vocero de JP, indicó que buscarán restablecer la iniciativa de referéndum para cambios constitucionales, así como la creación de un fondo para cerrar brechas de acceso al agua “con un porcentaje de los tributos que pagan las agroexportadoras”. El abogado especialista en asuntos parlamentarios Martín Cabrera advirtió que el bloque de izquierda podría abrir “la puerta a nuevas propuestas populistas como el noveno retiro de fondos de pensiones”. En el bloque de derecha, la diputada de Renovación Popular Roxana Rocha indicó que su bancada –a la que le toca presidir dos comisiones– tiene puesto el foco en Modernización de la Gestión del Estado; Justicia; Infraestructura, Vivienda y Transportes; y Educación. Ante el escenario adverso en Diputados, la proyección de Fuerza Popular es conseguir la presidencia de Constitución y Economía en el Senado. “Si no tenemos la presidencia abajo, de todas maneras la tendremos arriba, para poder revisar los intentos de reformas constitucionales y evitar, por ejemplo, un intento de constituyente. Además de la revisión de la delegación de facultades”, dijo una fuente fujimorista. Tal como se vio en la elección de la Mesa Directiva de la Cámara Alta, el bloque de la derecha y el de izquierda están empatados con 30 votos para cada uno. Para el bloque de derecha, el empate se puede romper: o con el voto dirimente de la presidencia (en manos de Miguel Torres de Fuerza Popular) o convenciendo al Partido del Buen Gobierno a inclinar la balanza. “Un gesto decente de Buen Gobierno es que dicha comisión la presida Fuerza Popular”, indicaron. Otro tema por definir es la presidencia del grupo de Presupuesto que tiene una condición especial, debido a que el reglamento la constituye como una “comisión bicameral” integrada por miembros de ambas cámaras. El mismo reglamento estipula que, al inicio del período parlamentario, asume la presidencia un integrante del Senado. Fuerza Popular también espera lograr el consenso para el control del grupo que definirá la ley de presupuesto 2027.",
-          "url": "https://elcomercio.pe/politica/congreso/comisiones-bicamerales-asi-seria-el-cuadro-de-comisiones-y-la-reparticion-de-presidencias-en-senado-y-diputados-fuerza-popular-juntos-por-el-peru-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/PNKR5BV7WRA4JJM6AHATCFJ744.png?auth=32380a0dfb6a4043ce6b542c40e23a63a3eeb8aceb5737133ff89f440cf0a20d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-04T12:16:29Z",
-          "embed_url": "https://elcomercio.pe/politica/congreso/comisiones-bicamerales-asi-seria-el-cuadro-de-comisiones-y-la-reparticion-de-presidencias-en-senado-y-diputados-fuerza-popular-juntos-por-el-peru-noticia/",
+          "title": "¡Reventó la Kábala! mira los números ganadores del sábado 11 de julio",
+          "summary": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 11 de julio, que tiene un pozo acumulado de S/3′646,620. Además, puedes seguir el sorteo de Chau Chamba.",
+          "body_text": "Mira a continuación los resultados del sorteo de Kábala del sábado 11 de julio También consulta la combinación de Chau Chamba.",
+          "url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/JDQZGCPFAFG3FH6RGNACCZMHAE.png?auth=1b292019c8371d2cfba55627bb27924e4428829444cd64b1bf32491e89772217&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-12T15:19:09Z",
+          "embed_url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Congreso, Congreso bicameral, Senado, Diputados, comisiones, Comision de Constitucion, Comision de Economia, Comision de Energia y Minas, Comision de Presupuesto, Fuerza Popular, Partido del Buen Gobierno, Juntos por el Peru, Ahora Nacion, Comisiones bicamerales congreso 2026",
-            "Política",
+            "resultados de la kábala, kabala, Cabala, kabala resultados, resultados de la kabala, tinka resultados, resultado de la kabala, resultados de la tinka, resultado de la kábala, premios de la kabala, tinka, sorteo de la kábala de hoy en vivo, kábala premios, la kabala resultados hoy, resultado de la kábala ayer perú, Intralot, la kabala hoy, kabala en vivo, kabala hoy, la kabala resultados, kábala sorteo, kábala horario, kábala, Kábala resultados, Kábala sorteo hoy, kábala sí o sí, kábala pozo hoy, kábala resultados hoy, la kábala ayer, kábala hoy, La kábala ganador, La Kábala sábado 11 de julio, La Cábala sábado 11 de julio, Kabala sabado 11, Cabala sabado 11, resultados Kábala sábado 11, resultados Cábala sábado 11, Kábala números 11 de julio, Cábala números 11 de julio, último sorteo Kábala sábado 11, último sorteo Cábala sábado 11, Kábala 11 de julio, Cábala 11 de julio, Kábala 11 julio del 2026, Cábala 11 julio del 2026",
+            "Loterias",
             "Senaste",
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 7
         },
         {
           "id": "5d436aa392ea",
@@ -2679,6 +2701,32 @@
           "tags": [
             "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
             "Cómo",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "95ccdbc5fc0a",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Así puedes configurar Google Discover para seguir a El Comercio y recibir nuestras noticias en tu celular",
+          "summary": "Personaliza Google Discover y sigue a El Comercio para recibir en tu móvil las noticias más relevantes de Perú y el mundo.",
+          "body_text": "Google Discover se ha convertido en una de las formas más rápidas de mantenerse informado. Este feed de la app de Google, disponible tanto en Android como en iPhone, muestra noticias y contenidos adaptados a cada usuario según sus intereses. Con la última actualización, ahora también es posible seguir a medios de comunicación específicos, como El Comercio, para que la información más relevante del Perú y el mundo llegue directo a tu pantalla sin necesidad de buscarla. En Discover puede aparecer todo el contenido que está en el índice de Google y cumple las políticas de contenido de Discover. Para activar esta función, solo debes ingresar a Discover desde la app de Google, escribir “El Comercio” en la barra de búsqueda y seleccionar la opción de seguir. De inmediato tendrás acceso a un espacio dedicado con todas nuestras publicaciones actualizadas. También puedes hacerlo ingresando aquí. Al configurar tu feed con medios de confianza, podrás ahorrar tiempo y acceder en un solo lugar a noticias de política, economía, deportes, tecnología y cultura. Además, recibirás recomendaciones personalizadas que se ajustan a tus búsquedas y a los temas que consultas con frecuencia. En la mayoría de celulares Android, basta con deslizar hacia la izquierda en la pantalla principal para abrir Discover. En iPhone, el acceso está en la app de Google, disponible en la App Store. En ambos casos, basta con iniciar sesión con tu cuenta para empezar a personalizar tu experiencia. Así, con unos pocos pasos, puedes asegurarte de que la cobertura de El Comercio esté siempre disponible en tu feed de Discover.",
+          "url": "https://elcomercio.pe/tecnologia/actualidad/sigue-a-el-comercio-en-google-discover-asi-puedes-configurar-y-recibir-nuestras-noticias-del-peru-y-del-mundo-en-tu-celular-moviles-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/3I7GTI2KFFGDXF3Y3CSPNSUU3U.png?auth=251f132c42ce989c6c693e22a1a9ea7c9d871464199b40f2bc54035e4d747c66&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-03-16T20:19:09Z",
+          "embed_url": "https://elcomercio.pe/tecnologia/actualidad/sigue-a-el-comercio-en-google-discover-asi-puedes-configurar-y-recibir-nuestras-noticias-del-peru-y-del-mundo-en-tu-celular-moviles-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Google, Google Discover, El Comercio, app, móviles",
+            "Actualidad",
             "Senaste",
             "El Comercio"
           ],
@@ -2703,6 +2751,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "0704527173bd",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Incremento del sueldo mínimo 2026: Qué dijo el MEF sobre el pago en escalas",
+          "summary": "El sueldo mínimo en Perú tendrá un incremento en el 2026. Consulta el nuevo monto y qué anunció el MEF sobre el pago de la Remuneración Mínima Vital (RMV) y su aumento progresivo.",
+          "body_text": "Durante su Mensaje a la Nación tras asumir la juramentación como Presidenta del Perú, Keiko Fujimori anunció una serie de medidas económicas orientadas a dinamizar el mercado laboral y brindar mayor estabilidad a los hogares peruanos. Entre los anuncios más destacados figura el incremento de la Remuneración Mínima Vital (RMV) y el establecimiento de mecanismos de apoyo para el sector empresarial. En el marco de su primer Mensaje a la Nación, la presidenta Keiko Fujimori señaló que una de las prioridades de su gestión será la reactivación de los motores generadores de ingresos para los hogares peruanos. Como parte de las acciones concretas para mejorar las percepciones de la masa laboral, la mandataria anunció que se elevará la remuneración mínima vital (RMV) hasta los S/1,300. Cabe recordar que el sueldo mínimo actual se encontraba en S/1,130 (monto que regía a partir del 1 de enero de 2025 tras un incremento de S/105 establecido por el Decreto Supremo N° 006-2024-TR). “Para mejorar los ingresos de los trabajadores, elevaremos la remuneración mínima vital a 1,300 soles. Queremos mejores salarios, pero también empresas sostenibles y más empleos formales”. El ministro de Economía y Finanzas, Elmer Cuba, informó que el incremento del sueldo mínimo, anunciado por Keiko Fujimori durante su Mensaje a la Nación del 28 de julio, se aplicará de manera progresiva. La medida contempla elevar el monto en dos etapas hasta alcanzar los S/1.300. El Gobierno plantea este mecanismo para evitar un impacto brusco en la inflación. Asimismo, busca reducir las posibles dificultades que el aumento podría generar en las micro y pequeñas empresas. De acuerdo con lo explicado por Cuba, el incremento se realizará en dos etapas, el primer aumento será de S/100, mientras que el segundo ascenderá a S/70. Con el propósito de amortiguar el impacto financiero que la medida representa para el sector empresarial de menor escala, el incremento salarial contará con un respaldo específico. “Este incremento estará acompañado de un bono compensatorio por única vez para las micro y pequeñas empresas, con el fin de que las ayude a incorporar trabajadores a la formalidad y afrontar responsablemente el mayor costo laboral”. La jefa de Estado enfatizó que el objetivo de esta política económica no es aislado, sino que apunta a lograr un ecosistema donde coexistan mejores salarios, empresas sostenibles y una mayor cantidad de empleos formales en todo el territorio nacional. Finalmente, la Presidenta ratificó su compromiso de ofrecer estabilidad, seguridad jurídica y reglas claras a los inversores tanto nacionales como extranjeros. En esa línea, se adelantó que se reducirán las trabas burocráticas innecesarias y se devolverá la predictibilidad a las decisiones estatales, bajo la premisa de que a mayor multiplicación de la inversión, mayor creación de empresas, empleo y crecimiento para el país.",
+          "url": "https://elcomercio.pe/respuestas/cuanto/aumento-de-sueldo-minimo-2026-en-peru-nuevo-monto-y-que-anuncio-el-mef-sobre-la-rmv-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ITENMJEQCJF4ROWU3LJ4XSJQ6A.png?auth=e181ca72e5640ca92a47320c12dec90923b3414461a0980d4a8b757d1fc1fdd7&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-09T17:01:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/cuanto/aumento-de-sueldo-minimo-2026-en-peru-nuevo-monto-y-que-anuncio-el-mef-sobre-la-rmv-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Aumento del sueldo mínimo 2026, Aumento del sueldo mínimo 2026 perú, Keiko Fujimori",
+            "Cuanto",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "ae6ec9d10301",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2726,7 +2800,7 @@
             "El Comercio"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "3a8b4eab3a11",
@@ -2748,32 +2822,6 @@
           "tags": [
             "Tabla de posiciones Liga 1 2026, Tabla de posiciones Torneo Clausura, Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Clausura, Tabla del Torneo Clausura, Tabla Torneo Clausura, partidos de hoy, futbol en vivo, alianza lima, universitario, universitario de deportes, sporting cristal, sport boys, cienciano, los chankas, melgar, tabla del acumulado, tabla de posiciones del acumulado",
             "Fútbol peruano",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "5f7fd820b356",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sueldo mínimo 2026 en Perú: qué se sabe del aumento de la nueva RMV",
-          "summary": "El sueldo mínimo en Perú tendrá un incremento en 2026. Conoce cuál será el nuevo monto de la Remuneración Mínima Vital (RMV) y a quiénes beneficiará la medida anunciada por Keiko Fujimori.",
-          "body_text": "Durante su Mensaje a la Nación tras asumir la juramentación como Presidenta del Perú, Keiko Fujimori anunció una serie de medidas económicas orientadas a dinamizar el mercado laboral y brindar mayor estabilidad a los hogares peruanos. Entre los anuncios más destacados figura el incremento de la Remuneración Mínima Vital (RMV) y el establecimiento de mecanismos de apoyo para el sector empresarial. En el marco de su primer Mensaje a la Nación, la presidenta Keiko Fujimori señaló que una de las prioridades de su gestión será la reactivación de los motores generadores de ingresos para los hogares peruanos. Como parte de las acciones concretas para mejorar las percepciones de la masa laboral, la mandataria anunció que se elevará la remuneración mínima vital (RMV) hasta los S/1,300. Cabe recordar que el sueldo mínimo actual se encontraba en S/1,130 (monto que regía a partir del 1 de enero de 2025 tras un incremento de S/105 establecido por el Decreto Supremo N° 006-2024-TR). “Para mejorar los ingresos de los trabajadores, elevaremos la remuneración mínima vital a 1,300 soles. Queremos mejores salarios, pero también empresas sostenibles y más empleos formales”. Con el propósito de amortiguar el impacto financiero que la medida representa para el sector empresarial de menor escala, el incremento salarial contará con un respaldo específico. “Este incremento estará acompañado de un bono compensatorio por única vez para las micro y pequeñas empresas, con el fin de que las ayude a incorporar trabajadores a la formalidad y afrontar responsablemente el mayor costo laboral”. La jefa de Estado enfatizó que el objetivo de esta política económica no es aislado, sino que apunta a lograr un ecosistema donde coexistan mejores salarios, empresas sostenibles y una mayor cantidad de empleos formales en todo el territorio nacional. Finalmente, la Presidenta ratificó su compromiso de ofrecer estabilidad, seguridad jurídica y reglas claras a los inversores tanto nacionales como extranjeros. En esa línea, se adelantó que se reducirán las trabas burocráticas innecesarias y se devolverá la predictibilidad a las decisiones estatales, bajo la premisa de que a mayor multiplicación de la inversión, mayor creación de empresas, empleo y crecimiento para el país.",
-          "url": "https://elcomercio.pe/respuestas/cuanto/aumento-del-sueldo-minimo-2026-conoce-el-nuevo-monto-y-desde-cuando-regira-la-rmv-anunciada-por-keiko-fujimori-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NOMCNA7QN5G6HC5OHL4GJ2NV5I.png?auth=e3e4a2fcbb5898dc2e8515ca819c873888eaef4f736c3300459f741a90d45972&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-08T20:14:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/cuanto/aumento-del-sueldo-minimo-2026-conoce-el-nuevo-monto-y-desde-cuando-regira-la-rmv-anunciada-por-keiko-fujimori-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Aumento del sueldo mínimo 2026, Aumento del sueldo mínimo 2026 perú, Keiko Fujimori",
-            "Cuanto",
             "Economia",
             "El Comercio"
           ],
@@ -2885,32 +2933,6 @@
           "sort_order": 6
         },
         {
-          "id": "eda43e77c655",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Hoy es feriado en Perú: conoce qué días de descanso quedan en agosto de 2026",
-          "summary": "Agosto de 2026 tendrá días de descanso oficial en Perú. Revisa el calendario de feriados, las fechas establecidas y conoce cuándo podrás disfrutar de un día libre.",
-          "body_text": "Tras culminar las celebraciones por Fiestas Patrias, muchos trabajadores y estudiantes ya empiezan a revisar el calendario para conocer cuál será el siguiente descanso oficial del año. Los feriados representan una oportunidad para planificar viajes, compartir tiempo en familia o simplemente hacer una pausa en la rutina, por lo que existe un gran interés en conocer las próximas fechas establecidas por ley. Además de permitir un espacio para el descanso, estas jornadas suelen generar un importante movimiento en sectores como el turismo, el comercio, la gastronomía y el transporte, debido al incremento de personas que aprovechan los días libres para salir de la ciudad o realizar diversas actividades. Del mismo modo, muchas empresas y entidades organizan con anticipación sus operaciones para adecuarse al calendario oficial, mientras que las familias aprovechan estas fechas para programar reuniones, escapadas de fin de semana o visitas a distintos destinos del país. Por ello, conocer con anticipación cuándo será el próximo feriado resulta clave para organizar la agenda personal y laboral, evitar contratiempos y sacar el máximo provecho a los días de descanso que aún quedan en el 2026. A continuación, te contaremos todo lo que debes saber sobre esta situación. Luego de los feriados nacionales del 28 y 29 de julio, tanto en el sector público como en el privado, la atención se centra en los siguientes días festivos contemplados en el calendario oficial de 2026. Si quieres saber cuándo será el próximo feriado y qué fechas aún quedan por disfrutar este año, aquí te contamos todos los detalles. Los feriados son fechas establecidas por ley en las que los trabajadores tienen derecho a suspender sus labores sin que ello afecte su remuneración. Durante estas jornadas, el descanso es obligatorio tanto para el sector público como para el privado, salvo en aquellas actividades que, por su naturaleza, deben continuar operando. Si un trabajador presta servicios durante un feriado y no recibe un día de descanso compensatorio, la legislación laboral establece que le corresponde una remuneración adicional por haber laborado en esa fecha, conforme a las disposiciones vigentes. A diferencia del feriado, el día no laborable no constituye un descanso obligatorio para todos los trabajadores. Generalmente, esta medida se aplica al sector público con el objetivo de extender periodos de descanso o promover actividades como el turismo interno. En el caso de las entidades públicas, las horas que no se trabajan deben recuperarse posteriormente, dentro del plazo fijado por la normativa o según lo disponga cada institución. Para el sector privado, la aplicación de un día no laborable depende de un acuerdo entre empleador y trabajadores. Si no existe consenso sobre la recuperación de las horas, será el empleador quien determine la forma en que estas deberán compensarse.",
-          "url": "https://elcomercio.pe/respuestas/cuando/cuantos-feriados-habra-en-agosto-2026-conoce-los-dias-libres-del-calendario-oficial-en-peru-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/SH65ZAXUUJEVFCJNE2BPUZRN5Q.png?auth=98bd7cd709f2aac65aa51be1e064bfeb928af12da7afa9f78c948b4b705d80b3&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-06T20:21:58Z",
-          "embed_url": "https://elcomercio.pe/respuestas/cuando/cuantos-feriados-habra-en-agosto-2026-conoce-los-dias-libres-del-calendario-oficial-en-peru-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Fiestas Patrias, Fiestas Patrias 2026, feriado de julio, feriados 2026, próximo feriado, feriados en Perú, Fiestas Patrias viral",
-            "Cuándo",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
           "id": "a8c719882cf1",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2934,28 +2956,54 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 7
         },
         {
-          "id": "51ac9b5fb021",
+          "id": "5d436aa392ea",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
           "provider": "El Comercio",
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Comisiones bicamerales: Así sería el cuadro de comisiones y la repartición de presidencias en Senado y Diputados",
-          "summary": "Bloque busca imponerse en la definición de presidencias con los 74 votos con las que ganaron la Mesa Directiva. Fujimorismo pugna por liderar el grupo de Constitución en el Senado.",
-          "body_text": "Con la confianza de los 74 votos que le permitieron ganar la Mesa Directiva en la Cámara de Diputados, el bloque de izquierda –junto con su aliado, el Partido del Buen Gobierno– ahora buscará imponerse en la repartición de las presidencias de comisiones, donde su mira está puesta en tres grupos de estudio en particular: Constitución, Economía y Energía y Minas. Un resignado bloque de derecha, con el oficialista Fuerza Popular a la cabeza, buscará contrarrestar desde las comisiones del Senado para poder filtrar las fórmulas legislativas que sean enviadas desde la Cámara Baja. Lo primero a tener en cuenta es que cada cámara tendrá sus propias comisiones: son 16 para la Cámara de Diputados y siete para el Senado. Las presidencias de las comisiones se repartirán proporcionalmente. Para la Cámara Baja, el bloque de izquierda que ganó la Mesa Directiva propondrá su cuadro de comisiones para someterlo a votación en el pleno, donde cuentan con la mayoría para aprobarlo. Incluso, en el bloque de derecha son conscientes de este escenario, tal como reconoció una fuente: “A todos nos queda claro que nos van a dar lo que quede, a Fuerza Popular y Renovación Popular. El cuadro se da por votos y ellos tienen 74”. Y lo mismo piensan en el bloque de izquierda, en el que señalaron: “Es hasta poético, considerando que su mayoría [la de Fuerza Popular, en el 2016] era de 73”. Fuentes de la izquierda acotaron que son cuatro las comisiones que evalúan dejar para la derecha: Defensa del Consumidor, Inclusión Social, Medio Ambiente y Ciencia. Entre las bancadas del bloque de oposición –Juntos por el Perú, Ahora Nación, Obras y Partido del Buen Gobierno– se viene discutiendo la repartición de los grupos de su interés. La presidencia de Constitución está pedida por Juntos por el Perú y el Partido del Buen Gobierno. Mientras que la titularidad de Economía es tentada por Ahora Nación y también por el partido de Jorge Nieto. Otros grupos en los que JP busca tener el control son Energía y Minas (desde donde buscan impulsar la ampliación del Reinfo), Salud y Educación. Este último es tentado por la facción castillista. Consultado anteriormente por la agenda legislativa que impulsará su bancada, Ernesto Zunini, diputado y vocero de JP, indicó que buscarán restablecer la iniciativa de referéndum para cambios constitucionales, así como la creación de un fondo para cerrar brechas de acceso al agua “con un porcentaje de los tributos que pagan las agroexportadoras”. El abogado especialista en asuntos parlamentarios Martín Cabrera advirtió que el bloque de izquierda podría abrir “la puerta a nuevas propuestas populistas como el noveno retiro de fondos de pensiones”. En el bloque de derecha, la diputada de Renovación Popular Roxana Rocha indicó que su bancada –a la que le toca presidir dos comisiones– tiene puesto el foco en Modernización de la Gestión del Estado; Justicia; Infraestructura, Vivienda y Transportes; y Educación. Ante el escenario adverso en Diputados, la proyección de Fuerza Popular es conseguir la presidencia de Constitución y Economía en el Senado. “Si no tenemos la presidencia abajo, de todas maneras la tendremos arriba, para poder revisar los intentos de reformas constitucionales y evitar, por ejemplo, un intento de constituyente. Además de la revisión de la delegación de facultades”, dijo una fuente fujimorista. Tal como se vio en la elección de la Mesa Directiva de la Cámara Alta, el bloque de la derecha y el de izquierda están empatados con 30 votos para cada uno. Para el bloque de derecha, el empate se puede romper: o con el voto dirimente de la presidencia (en manos de Miguel Torres de Fuerza Popular) o convenciendo al Partido del Buen Gobierno a inclinar la balanza. “Un gesto decente de Buen Gobierno es que dicha comisión la presida Fuerza Popular”, indicaron. Otro tema por definir es la presidencia del grupo de Presupuesto que tiene una condición especial, debido a que el reglamento la constituye como una “comisión bicameral” integrada por miembros de ambas cámaras. El mismo reglamento estipula que, al inicio del período parlamentario, asume la presidencia un integrante del Senado. Fuerza Popular también espera lograr el consenso para el control del grupo que definirá la ley de presupuesto 2027.",
-          "url": "https://elcomercio.pe/politica/congreso/comisiones-bicamerales-asi-seria-el-cuadro-de-comisiones-y-la-reparticion-de-presidencias-en-senado-y-diputados-fuerza-popular-juntos-por-el-peru-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/PNKR5BV7WRA4JJM6AHATCFJ744.png?auth=32380a0dfb6a4043ce6b542c40e23a63a3eeb8aceb5737133ff89f440cf0a20d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-04T12:16:29Z",
-          "embed_url": "https://elcomercio.pe/politica/congreso/comisiones-bicamerales-asi-seria-el-cuadro-de-comisiones-y-la-reparticion-de-presidencias-en-senado-y-diputados-fuerza-popular-juntos-por-el-peru-noticia/",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T16:27:15Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Congreso, Congreso bicameral, Senado, Diputados, comisiones, Comision de Constitucion, Comision de Economia, Comision de Energia y Minas, Comision de Presupuesto, Fuerza Popular, Partido del Buen Gobierno, Juntos por el Peru, Ahora Nacion, Comisiones bicamerales congreso 2026",
-            "Política",
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "95ccdbc5fc0a",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Así puedes configurar Google Discover para seguir a El Comercio y recibir nuestras noticias en tu celular",
+          "summary": "Personaliza Google Discover y sigue a El Comercio para recibir en tu móvil las noticias más relevantes de Perú y el mundo.",
+          "body_text": "Google Discover se ha convertido en una de las formas más rápidas de mantenerse informado. Este feed de la app de Google, disponible tanto en Android como en iPhone, muestra noticias y contenidos adaptados a cada usuario según sus intereses. Con la última actualización, ahora también es posible seguir a medios de comunicación específicos, como El Comercio, para que la información más relevante del Perú y el mundo llegue directo a tu pantalla sin necesidad de buscarla. En Discover puede aparecer todo el contenido que está en el índice de Google y cumple las políticas de contenido de Discover. Para activar esta función, solo debes ingresar a Discover desde la app de Google, escribir “El Comercio” en la barra de búsqueda y seleccionar la opción de seguir. De inmediato tendrás acceso a un espacio dedicado con todas nuestras publicaciones actualizadas. También puedes hacerlo ingresando aquí. Al configurar tu feed con medios de confianza, podrás ahorrar tiempo y acceder en un solo lugar a noticias de política, economía, deportes, tecnología y cultura. Además, recibirás recomendaciones personalizadas que se ajustan a tus búsquedas y a los temas que consultas con frecuencia. En la mayoría de celulares Android, basta con deslizar hacia la izquierda en la pantalla principal para abrir Discover. En iPhone, el acceso está en la app de Google, disponible en la App Store. En ambos casos, basta con iniciar sesión con tu cuenta para empezar a personalizar tu experiencia. Así, con unos pocos pasos, puedes asegurarte de que la cobertura de El Comercio esté siempre disponible en tu feed de Discover.",
+          "url": "https://elcomercio.pe/tecnologia/actualidad/sigue-a-el-comercio-en-google-discover-asi-puedes-configurar-y-recibir-nuestras-noticias-del-peru-y-del-mundo-en-tu-celular-moviles-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/3I7GTI2KFFGDXF3Y3CSPNSUU3U.png?auth=251f132c42ce989c6c693e22a1a9ea7c9d871464199b40f2bc54035e4d747c66&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-03-16T20:19:09Z",
+          "embed_url": "https://elcomercio.pe/tecnologia/actualidad/sigue-a-el-comercio-en-google-discover-asi-puedes-configurar-y-recibir-nuestras-noticias-del-peru-y-del-mundo-en-tu-celular-moviles-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Google, Google Discover, El Comercio, app, móviles",
+            "Actualidad",
             "Economia",
             "El Comercio"
           ],
@@ -2980,6 +3028,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "0704527173bd",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Incremento del sueldo mínimo 2026: Qué dijo el MEF sobre el pago en escalas",
+          "summary": "El sueldo mínimo en Perú tendrá un incremento en el 2026. Consulta el nuevo monto y qué anunció el MEF sobre el pago de la Remuneración Mínima Vital (RMV) y su aumento progresivo.",
+          "body_text": "Durante su Mensaje a la Nación tras asumir la juramentación como Presidenta del Perú, Keiko Fujimori anunció una serie de medidas económicas orientadas a dinamizar el mercado laboral y brindar mayor estabilidad a los hogares peruanos. Entre los anuncios más destacados figura el incremento de la Remuneración Mínima Vital (RMV) y el establecimiento de mecanismos de apoyo para el sector empresarial. En el marco de su primer Mensaje a la Nación, la presidenta Keiko Fujimori señaló que una de las prioridades de su gestión será la reactivación de los motores generadores de ingresos para los hogares peruanos. Como parte de las acciones concretas para mejorar las percepciones de la masa laboral, la mandataria anunció que se elevará la remuneración mínima vital (RMV) hasta los S/1,300. Cabe recordar que el sueldo mínimo actual se encontraba en S/1,130 (monto que regía a partir del 1 de enero de 2025 tras un incremento de S/105 establecido por el Decreto Supremo N° 006-2024-TR). “Para mejorar los ingresos de los trabajadores, elevaremos la remuneración mínima vital a 1,300 soles. Queremos mejores salarios, pero también empresas sostenibles y más empleos formales”. El ministro de Economía y Finanzas, Elmer Cuba, informó que el incremento del sueldo mínimo, anunciado por Keiko Fujimori durante su Mensaje a la Nación del 28 de julio, se aplicará de manera progresiva. La medida contempla elevar el monto en dos etapas hasta alcanzar los S/1.300. El Gobierno plantea este mecanismo para evitar un impacto brusco en la inflación. Asimismo, busca reducir las posibles dificultades que el aumento podría generar en las micro y pequeñas empresas. De acuerdo con lo explicado por Cuba, el incremento se realizará en dos etapas, el primer aumento será de S/100, mientras que el segundo ascenderá a S/70. Con el propósito de amortiguar el impacto financiero que la medida representa para el sector empresarial de menor escala, el incremento salarial contará con un respaldo específico. “Este incremento estará acompañado de un bono compensatorio por única vez para las micro y pequeñas empresas, con el fin de que las ayude a incorporar trabajadores a la formalidad y afrontar responsablemente el mayor costo laboral”. La jefa de Estado enfatizó que el objetivo de esta política económica no es aislado, sino que apunta a lograr un ecosistema donde coexistan mejores salarios, empresas sostenibles y una mayor cantidad de empleos formales en todo el territorio nacional. Finalmente, la Presidenta ratificó su compromiso de ofrecer estabilidad, seguridad jurídica y reglas claras a los inversores tanto nacionales como extranjeros. En esa línea, se adelantó que se reducirán las trabas burocráticas innecesarias y se devolverá la predictibilidad a las decisiones estatales, bajo la premisa de que a mayor multiplicación de la inversión, mayor creación de empresas, empleo y crecimiento para el país.",
+          "url": "https://elcomercio.pe/respuestas/cuanto/aumento-de-sueldo-minimo-2026-en-peru-nuevo-monto-y-que-anuncio-el-mef-sobre-la-rmv-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ITENMJEQCJF4ROWU3LJ4XSJQ6A.png?auth=e181ca72e5640ca92a47320c12dec90923b3414461a0980d4a8b757d1fc1fdd7&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-09T17:01:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/cuanto/aumento-de-sueldo-minimo-2026-en-peru-nuevo-monto-y-que-anuncio-el-mef-sobre-la-rmv-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Aumento del sueldo mínimo 2026, Aumento del sueldo mínimo 2026 perú, Keiko Fujimori",
+            "Cuanto",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "ae6ec9d10301",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3003,7 +3077,7 @@
             "El Comercio"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "3a8b4eab3a11",
@@ -3025,32 +3099,6 @@
           "tags": [
             "Tabla de posiciones Liga 1 2026, Tabla de posiciones Torneo Clausura, Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Clausura, Tabla del Torneo Clausura, Tabla Torneo Clausura, partidos de hoy, futbol en vivo, alianza lima, universitario, universitario de deportes, sporting cristal, sport boys, cienciano, los chankas, melgar, tabla del acumulado, tabla de posiciones del acumulado",
             "Fútbol peruano",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "5f7fd820b356",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sueldo mínimo 2026 en Perú: qué se sabe del aumento de la nueva RMV",
-          "summary": "El sueldo mínimo en Perú tendrá un incremento en 2026. Conoce cuál será el nuevo monto de la Remuneración Mínima Vital (RMV) y a quiénes beneficiará la medida anunciada por Keiko Fujimori.",
-          "body_text": "Durante su Mensaje a la Nación tras asumir la juramentación como Presidenta del Perú, Keiko Fujimori anunció una serie de medidas económicas orientadas a dinamizar el mercado laboral y brindar mayor estabilidad a los hogares peruanos. Entre los anuncios más destacados figura el incremento de la Remuneración Mínima Vital (RMV) y el establecimiento de mecanismos de apoyo para el sector empresarial. En el marco de su primer Mensaje a la Nación, la presidenta Keiko Fujimori señaló que una de las prioridades de su gestión será la reactivación de los motores generadores de ingresos para los hogares peruanos. Como parte de las acciones concretas para mejorar las percepciones de la masa laboral, la mandataria anunció que se elevará la remuneración mínima vital (RMV) hasta los S/1,300. Cabe recordar que el sueldo mínimo actual se encontraba en S/1,130 (monto que regía a partir del 1 de enero de 2025 tras un incremento de S/105 establecido por el Decreto Supremo N° 006-2024-TR). “Para mejorar los ingresos de los trabajadores, elevaremos la remuneración mínima vital a 1,300 soles. Queremos mejores salarios, pero también empresas sostenibles y más empleos formales”. Con el propósito de amortiguar el impacto financiero que la medida representa para el sector empresarial de menor escala, el incremento salarial contará con un respaldo específico. “Este incremento estará acompañado de un bono compensatorio por única vez para las micro y pequeñas empresas, con el fin de que las ayude a incorporar trabajadores a la formalidad y afrontar responsablemente el mayor costo laboral”. La jefa de Estado enfatizó que el objetivo de esta política económica no es aislado, sino que apunta a lograr un ecosistema donde coexistan mejores salarios, empresas sostenibles y una mayor cantidad de empleos formales en todo el territorio nacional. Finalmente, la Presidenta ratificó su compromiso de ofrecer estabilidad, seguridad jurídica y reglas claras a los inversores tanto nacionales como extranjeros. En esa línea, se adelantó que se reducirán las trabas burocráticas innecesarias y se devolverá la predictibilidad a las decisiones estatales, bajo la premisa de que a mayor multiplicación de la inversión, mayor creación de empresas, empleo y crecimiento para el país.",
-          "url": "https://elcomercio.pe/respuestas/cuanto/aumento-del-sueldo-minimo-2026-conoce-el-nuevo-monto-y-desde-cuando-regira-la-rmv-anunciada-por-keiko-fujimori-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NOMCNA7QN5G6HC5OHL4GJ2NV5I.png?auth=e3e4a2fcbb5898dc2e8515ca819c873888eaef4f736c3300459f741a90d45972&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-08T20:14:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/cuanto/aumento-del-sueldo-minimo-2026-conoce-el-nuevo-monto-y-desde-cuando-regira-la-rmv-anunciada-por-keiko-fujimori-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Aumento del sueldo mínimo 2026, Aumento del sueldo mínimo 2026 perú, Keiko Fujimori",
-            "Cuanto",
             "Mundo",
             "El Comercio"
           ],
@@ -3162,32 +3210,6 @@
           "sort_order": 6
         },
         {
-          "id": "eda43e77c655",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Hoy es feriado en Perú: conoce qué días de descanso quedan en agosto de 2026",
-          "summary": "Agosto de 2026 tendrá días de descanso oficial en Perú. Revisa el calendario de feriados, las fechas establecidas y conoce cuándo podrás disfrutar de un día libre.",
-          "body_text": "Tras culminar las celebraciones por Fiestas Patrias, muchos trabajadores y estudiantes ya empiezan a revisar el calendario para conocer cuál será el siguiente descanso oficial del año. Los feriados representan una oportunidad para planificar viajes, compartir tiempo en familia o simplemente hacer una pausa en la rutina, por lo que existe un gran interés en conocer las próximas fechas establecidas por ley. Además de permitir un espacio para el descanso, estas jornadas suelen generar un importante movimiento en sectores como el turismo, el comercio, la gastronomía y el transporte, debido al incremento de personas que aprovechan los días libres para salir de la ciudad o realizar diversas actividades. Del mismo modo, muchas empresas y entidades organizan con anticipación sus operaciones para adecuarse al calendario oficial, mientras que las familias aprovechan estas fechas para programar reuniones, escapadas de fin de semana o visitas a distintos destinos del país. Por ello, conocer con anticipación cuándo será el próximo feriado resulta clave para organizar la agenda personal y laboral, evitar contratiempos y sacar el máximo provecho a los días de descanso que aún quedan en el 2026. A continuación, te contaremos todo lo que debes saber sobre esta situación. Luego de los feriados nacionales del 28 y 29 de julio, tanto en el sector público como en el privado, la atención se centra en los siguientes días festivos contemplados en el calendario oficial de 2026. Si quieres saber cuándo será el próximo feriado y qué fechas aún quedan por disfrutar este año, aquí te contamos todos los detalles. Los feriados son fechas establecidas por ley en las que los trabajadores tienen derecho a suspender sus labores sin que ello afecte su remuneración. Durante estas jornadas, el descanso es obligatorio tanto para el sector público como para el privado, salvo en aquellas actividades que, por su naturaleza, deben continuar operando. Si un trabajador presta servicios durante un feriado y no recibe un día de descanso compensatorio, la legislación laboral establece que le corresponde una remuneración adicional por haber laborado en esa fecha, conforme a las disposiciones vigentes. A diferencia del feriado, el día no laborable no constituye un descanso obligatorio para todos los trabajadores. Generalmente, esta medida se aplica al sector público con el objetivo de extender periodos de descanso o promover actividades como el turismo interno. En el caso de las entidades públicas, las horas que no se trabajan deben recuperarse posteriormente, dentro del plazo fijado por la normativa o según lo disponga cada institución. Para el sector privado, la aplicación de un día no laborable depende de un acuerdo entre empleador y trabajadores. Si no existe consenso sobre la recuperación de las horas, será el empleador quien determine la forma en que estas deberán compensarse.",
-          "url": "https://elcomercio.pe/respuestas/cuando/cuantos-feriados-habra-en-agosto-2026-conoce-los-dias-libres-del-calendario-oficial-en-peru-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/SH65ZAXUUJEVFCJNE2BPUZRN5Q.png?auth=98bd7cd709f2aac65aa51be1e064bfeb928af12da7afa9f78c948b4b705d80b3&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-06T20:21:58Z",
-          "embed_url": "https://elcomercio.pe/respuestas/cuando/cuantos-feriados-habra-en-agosto-2026-conoce-los-dias-libres-del-calendario-oficial-en-peru-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Fiestas Patrias, Fiestas Patrias 2026, feriado de julio, feriados 2026, próximo feriado, feriados en Perú, Fiestas Patrias viral",
-            "Cuándo",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
           "id": "a8c719882cf1",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3211,28 +3233,54 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 7
         },
         {
-          "id": "51ac9b5fb021",
+          "id": "5d436aa392ea",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Comisiones bicamerales: Así sería el cuadro de comisiones y la repartición de presidencias en Senado y Diputados",
-          "summary": "Bloque busca imponerse en la definición de presidencias con los 74 votos con las que ganaron la Mesa Directiva. Fujimorismo pugna por liderar el grupo de Constitución en el Senado.",
-          "body_text": "Con la confianza de los 74 votos que le permitieron ganar la Mesa Directiva en la Cámara de Diputados, el bloque de izquierda –junto con su aliado, el Partido del Buen Gobierno– ahora buscará imponerse en la repartición de las presidencias de comisiones, donde su mira está puesta en tres grupos de estudio en particular: Constitución, Economía y Energía y Minas. Un resignado bloque de derecha, con el oficialista Fuerza Popular a la cabeza, buscará contrarrestar desde las comisiones del Senado para poder filtrar las fórmulas legislativas que sean enviadas desde la Cámara Baja. Lo primero a tener en cuenta es que cada cámara tendrá sus propias comisiones: son 16 para la Cámara de Diputados y siete para el Senado. Las presidencias de las comisiones se repartirán proporcionalmente. Para la Cámara Baja, el bloque de izquierda que ganó la Mesa Directiva propondrá su cuadro de comisiones para someterlo a votación en el pleno, donde cuentan con la mayoría para aprobarlo. Incluso, en el bloque de derecha son conscientes de este escenario, tal como reconoció una fuente: “A todos nos queda claro que nos van a dar lo que quede, a Fuerza Popular y Renovación Popular. El cuadro se da por votos y ellos tienen 74”. Y lo mismo piensan en el bloque de izquierda, en el que señalaron: “Es hasta poético, considerando que su mayoría [la de Fuerza Popular, en el 2016] era de 73”. Fuentes de la izquierda acotaron que son cuatro las comisiones que evalúan dejar para la derecha: Defensa del Consumidor, Inclusión Social, Medio Ambiente y Ciencia. Entre las bancadas del bloque de oposición –Juntos por el Perú, Ahora Nación, Obras y Partido del Buen Gobierno– se viene discutiendo la repartición de los grupos de su interés. La presidencia de Constitución está pedida por Juntos por el Perú y el Partido del Buen Gobierno. Mientras que la titularidad de Economía es tentada por Ahora Nación y también por el partido de Jorge Nieto. Otros grupos en los que JP busca tener el control son Energía y Minas (desde donde buscan impulsar la ampliación del Reinfo), Salud y Educación. Este último es tentado por la facción castillista. Consultado anteriormente por la agenda legislativa que impulsará su bancada, Ernesto Zunini, diputado y vocero de JP, indicó que buscarán restablecer la iniciativa de referéndum para cambios constitucionales, así como la creación de un fondo para cerrar brechas de acceso al agua “con un porcentaje de los tributos que pagan las agroexportadoras”. El abogado especialista en asuntos parlamentarios Martín Cabrera advirtió que el bloque de izquierda podría abrir “la puerta a nuevas propuestas populistas como el noveno retiro de fondos de pensiones”. En el bloque de derecha, la diputada de Renovación Popular Roxana Rocha indicó que su bancada –a la que le toca presidir dos comisiones– tiene puesto el foco en Modernización de la Gestión del Estado; Justicia; Infraestructura, Vivienda y Transportes; y Educación. Ante el escenario adverso en Diputados, la proyección de Fuerza Popular es conseguir la presidencia de Constitución y Economía en el Senado. “Si no tenemos la presidencia abajo, de todas maneras la tendremos arriba, para poder revisar los intentos de reformas constitucionales y evitar, por ejemplo, un intento de constituyente. Además de la revisión de la delegación de facultades”, dijo una fuente fujimorista. Tal como se vio en la elección de la Mesa Directiva de la Cámara Alta, el bloque de la derecha y el de izquierda están empatados con 30 votos para cada uno. Para el bloque de derecha, el empate se puede romper: o con el voto dirimente de la presidencia (en manos de Miguel Torres de Fuerza Popular) o convenciendo al Partido del Buen Gobierno a inclinar la balanza. “Un gesto decente de Buen Gobierno es que dicha comisión la presida Fuerza Popular”, indicaron. Otro tema por definir es la presidencia del grupo de Presupuesto que tiene una condición especial, debido a que el reglamento la constituye como una “comisión bicameral” integrada por miembros de ambas cámaras. El mismo reglamento estipula que, al inicio del período parlamentario, asume la presidencia un integrante del Senado. Fuerza Popular también espera lograr el consenso para el control del grupo que definirá la ley de presupuesto 2027.",
-          "url": "https://elcomercio.pe/politica/congreso/comisiones-bicamerales-asi-seria-el-cuadro-de-comisiones-y-la-reparticion-de-presidencias-en-senado-y-diputados-fuerza-popular-juntos-por-el-peru-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/PNKR5BV7WRA4JJM6AHATCFJ744.png?auth=32380a0dfb6a4043ce6b542c40e23a63a3eeb8aceb5737133ff89f440cf0a20d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-04T12:16:29Z",
-          "embed_url": "https://elcomercio.pe/politica/congreso/comisiones-bicamerales-asi-seria-el-cuadro-de-comisiones-y-la-reparticion-de-presidencias-en-senado-y-diputados-fuerza-popular-juntos-por-el-peru-noticia/",
+          "title": "Cómo hacer para que El Comercio aparezca primero en tus búsquedas de Google",
+          "summary": "En esta nota te contaremos qué pasos debes seguir para poner a El Comercio dentro de tus búsquedas preferidas. De esta manera, podrás enterarte antes que otros de las noticias sobre lo que sucede en nuestro país y el mundo de la manera más profesional",
+          "body_text": "La plataforma de búsquedas de Google incorporó una nueva herramienta de personalización informativa que ya se encuentra disponible en distintos países y para todos los idiomas. Se trata de “Fuentes Preferidas”, una opción que permite a cada usuario decidir qué medios tendrán mayor presencia dentro del espacio dedicado a noticias relevantes. Con esta función, el sistema adapta los contenidos destacados según las preferencias seleccionadas por cada persona, otorgando mayor visibilidad a los portales elegidos durante las consultas realizadas en el buscador. Entre las alternativas disponibles, los usuarios pueden configurar a El Comercio como uno de sus medios prioritarios para acceder con mayor frecuencia a sus publicaciones informativas. A continuación, te contaremos todos los detalles que debes conocer sobre esta situación. La reciente herramienta implementada por Google busca que cada usuario tenga una experiencia informativa más personalizada, facilitando el acceso prioritario a los medios digitales que considera de mayor interés y credibilidad. En ese contexto, El Comercio se posiciona como una de las plataformas informativas que ofrece contenidos centrados en actualidad, análisis y cobertura periodística con enfoque riguroso, permitiendo a sus lectores mantenerse informados a través de su portal web. El primer paso consiste en ingresar al buscador de Google y realizar una consulta relacionada con un tema de actualidad o de interés informativo. Luego, dentro del bloque de Noticias Destacadas, deberás ubicar el ícono de estrella que aparece junto a las publicaciones disponibles. Desde esa opción podrás añadir medios de comunicación a tu lista personalizada, incluyendo a El Comercio, para que sus contenidos tengan mayor presencia en futuras búsquedas.",
+          "url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/B7T4U3PETZGSDL3O2OYS3BYF4I.jpg?auth=adf96eacd00f4fc0f8f833415ddf5a44df760e3321b4234160e4bbfa25b6d258&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-05-20T16:27:15Z",
+          "embed_url": "https://elcomercio.pe/respuestas/como/atencion-usuarios-de-google-asi-puedes-hacer-que-el-comercio-aparezca-primero-en-tus-busquedas-tdpe-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Congreso, Congreso bicameral, Senado, Diputados, comisiones, Comision de Constitucion, Comision de Economia, Comision de Energia y Minas, Comision de Presupuesto, Fuerza Popular, Partido del Buen Gobierno, Juntos por el Peru, Ahora Nacion, Comisiones bicamerales congreso 2026",
-            "Política",
+            "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
+            "Cómo",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "95ccdbc5fc0a",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Así puedes configurar Google Discover para seguir a El Comercio y recibir nuestras noticias en tu celular",
+          "summary": "Personaliza Google Discover y sigue a El Comercio para recibir en tu móvil las noticias más relevantes de Perú y el mundo.",
+          "body_text": "Google Discover se ha convertido en una de las formas más rápidas de mantenerse informado. Este feed de la app de Google, disponible tanto en Android como en iPhone, muestra noticias y contenidos adaptados a cada usuario según sus intereses. Con la última actualización, ahora también es posible seguir a medios de comunicación específicos, como El Comercio, para que la información más relevante del Perú y el mundo llegue directo a tu pantalla sin necesidad de buscarla. En Discover puede aparecer todo el contenido que está en el índice de Google y cumple las políticas de contenido de Discover. Para activar esta función, solo debes ingresar a Discover desde la app de Google, escribir “El Comercio” en la barra de búsqueda y seleccionar la opción de seguir. De inmediato tendrás acceso a un espacio dedicado con todas nuestras publicaciones actualizadas. También puedes hacerlo ingresando aquí. Al configurar tu feed con medios de confianza, podrás ahorrar tiempo y acceder en un solo lugar a noticias de política, economía, deportes, tecnología y cultura. Además, recibirás recomendaciones personalizadas que se ajustan a tus búsquedas y a los temas que consultas con frecuencia. En la mayoría de celulares Android, basta con deslizar hacia la izquierda en la pantalla principal para abrir Discover. En iPhone, el acceso está en la app de Google, disponible en la App Store. En ambos casos, basta con iniciar sesión con tu cuenta para empezar a personalizar tu experiencia. Así, con unos pocos pasos, puedes asegurarte de que la cobertura de El Comercio esté siempre disponible en tu feed de Discover.",
+          "url": "https://elcomercio.pe/tecnologia/actualidad/sigue-a-el-comercio-en-google-discover-asi-puedes-configurar-y-recibir-nuestras-noticias-del-peru-y-del-mundo-en-tu-celular-moviles-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/3I7GTI2KFFGDXF3Y3CSPNSUU3U.png?auth=251f132c42ce989c6c693e22a1a9ea7c9d871464199b40f2bc54035e4d747c66&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-03-16T20:19:09Z",
+          "embed_url": "https://elcomercio.pe/tecnologia/actualidad/sigue-a-el-comercio-en-google-discover-asi-puedes-configurar-y-recibir-nuestras-noticias-del-peru-y-del-mundo-en-tu-celular-moviles-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Google, Google Discover, El Comercio, app, móviles",
+            "Actualidad",
             "Mundo",
             "El Comercio"
           ],
@@ -3257,6 +3305,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "0704527173bd",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Incremento del sueldo mínimo 2026: Qué dijo el MEF sobre el pago en escalas",
+          "summary": "El sueldo mínimo en Perú tendrá un incremento en el 2026. Consulta el nuevo monto y qué anunció el MEF sobre el pago de la Remuneración Mínima Vital (RMV) y su aumento progresivo.",
+          "body_text": "Durante su Mensaje a la Nación tras asumir la juramentación como Presidenta del Perú, Keiko Fujimori anunció una serie de medidas económicas orientadas a dinamizar el mercado laboral y brindar mayor estabilidad a los hogares peruanos. Entre los anuncios más destacados figura el incremento de la Remuneración Mínima Vital (RMV) y el establecimiento de mecanismos de apoyo para el sector empresarial. En el marco de su primer Mensaje a la Nación, la presidenta Keiko Fujimori señaló que una de las prioridades de su gestión será la reactivación de los motores generadores de ingresos para los hogares peruanos. Como parte de las acciones concretas para mejorar las percepciones de la masa laboral, la mandataria anunció que se elevará la remuneración mínima vital (RMV) hasta los S/1,300. Cabe recordar que el sueldo mínimo actual se encontraba en S/1,130 (monto que regía a partir del 1 de enero de 2025 tras un incremento de S/105 establecido por el Decreto Supremo N° 006-2024-TR). “Para mejorar los ingresos de los trabajadores, elevaremos la remuneración mínima vital a 1,300 soles. Queremos mejores salarios, pero también empresas sostenibles y más empleos formales”. El ministro de Economía y Finanzas, Elmer Cuba, informó que el incremento del sueldo mínimo, anunciado por Keiko Fujimori durante su Mensaje a la Nación del 28 de julio, se aplicará de manera progresiva. La medida contempla elevar el monto en dos etapas hasta alcanzar los S/1.300. El Gobierno plantea este mecanismo para evitar un impacto brusco en la inflación. Asimismo, busca reducir las posibles dificultades que el aumento podría generar en las micro y pequeñas empresas. De acuerdo con lo explicado por Cuba, el incremento se realizará en dos etapas, el primer aumento será de S/100, mientras que el segundo ascenderá a S/70. Con el propósito de amortiguar el impacto financiero que la medida representa para el sector empresarial de menor escala, el incremento salarial contará con un respaldo específico. “Este incremento estará acompañado de un bono compensatorio por única vez para las micro y pequeñas empresas, con el fin de que las ayude a incorporar trabajadores a la formalidad y afrontar responsablemente el mayor costo laboral”. La jefa de Estado enfatizó que el objetivo de esta política económica no es aislado, sino que apunta a lograr un ecosistema donde coexistan mejores salarios, empresas sostenibles y una mayor cantidad de empleos formales en todo el territorio nacional. Finalmente, la Presidenta ratificó su compromiso de ofrecer estabilidad, seguridad jurídica y reglas claras a los inversores tanto nacionales como extranjeros. En esa línea, se adelantó que se reducirán las trabas burocráticas innecesarias y se devolverá la predictibilidad a las decisiones estatales, bajo la premisa de que a mayor multiplicación de la inversión, mayor creación de empresas, empleo y crecimiento para el país.",
+          "url": "https://elcomercio.pe/respuestas/cuanto/aumento-de-sueldo-minimo-2026-en-peru-nuevo-monto-y-que-anuncio-el-mef-sobre-la-rmv-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ITENMJEQCJF4ROWU3LJ4XSJQ6A.png?auth=e181ca72e5640ca92a47320c12dec90923b3414461a0980d4a8b757d1fc1fdd7&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-09T17:01:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/cuanto/aumento-de-sueldo-minimo-2026-en-peru-nuevo-monto-y-que-anuncio-el-mef-sobre-la-rmv-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Aumento del sueldo mínimo 2026, Aumento del sueldo mínimo 2026 perú, Keiko Fujimori",
+            "Cuanto",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "ae6ec9d10301",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3280,7 +3354,7 @@
             "El Comercio"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "3a8b4eab3a11",
@@ -3302,32 +3376,6 @@
           "tags": [
             "Tabla de posiciones Liga 1 2026, Tabla de posiciones Torneo Clausura, Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Clausura, Tabla del Torneo Clausura, Tabla Torneo Clausura, partidos de hoy, futbol en vivo, alianza lima, universitario, universitario de deportes, sporting cristal, sport boys, cienciano, los chankas, melgar, tabla del acumulado, tabla de posiciones del acumulado",
             "Fútbol peruano",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "5f7fd820b356",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sueldo mínimo 2026 en Perú: qué se sabe del aumento de la nueva RMV",
-          "summary": "El sueldo mínimo en Perú tendrá un incremento en 2026. Conoce cuál será el nuevo monto de la Remuneración Mínima Vital (RMV) y a quiénes beneficiará la medida anunciada por Keiko Fujimori.",
-          "body_text": "Durante su Mensaje a la Nación tras asumir la juramentación como Presidenta del Perú, Keiko Fujimori anunció una serie de medidas económicas orientadas a dinamizar el mercado laboral y brindar mayor estabilidad a los hogares peruanos. Entre los anuncios más destacados figura el incremento de la Remuneración Mínima Vital (RMV) y el establecimiento de mecanismos de apoyo para el sector empresarial. En el marco de su primer Mensaje a la Nación, la presidenta Keiko Fujimori señaló que una de las prioridades de su gestión será la reactivación de los motores generadores de ingresos para los hogares peruanos. Como parte de las acciones concretas para mejorar las percepciones de la masa laboral, la mandataria anunció que se elevará la remuneración mínima vital (RMV) hasta los S/1,300. Cabe recordar que el sueldo mínimo actual se encontraba en S/1,130 (monto que regía a partir del 1 de enero de 2025 tras un incremento de S/105 establecido por el Decreto Supremo N° 006-2024-TR). “Para mejorar los ingresos de los trabajadores, elevaremos la remuneración mínima vital a 1,300 soles. Queremos mejores salarios, pero también empresas sostenibles y más empleos formales”. Con el propósito de amortiguar el impacto financiero que la medida representa para el sector empresarial de menor escala, el incremento salarial contará con un respaldo específico. “Este incremento estará acompañado de un bono compensatorio por única vez para las micro y pequeñas empresas, con el fin de que las ayude a incorporar trabajadores a la formalidad y afrontar responsablemente el mayor costo laboral”. La jefa de Estado enfatizó que el objetivo de esta política económica no es aislado, sino que apunta a lograr un ecosistema donde coexistan mejores salarios, empresas sostenibles y una mayor cantidad de empleos formales en todo el territorio nacional. Finalmente, la Presidenta ratificó su compromiso de ofrecer estabilidad, seguridad jurídica y reglas claras a los inversores tanto nacionales como extranjeros. En esa línea, se adelantó que se reducirán las trabas burocráticas innecesarias y se devolverá la predictibilidad a las decisiones estatales, bajo la premisa de que a mayor multiplicación de la inversión, mayor creación de empresas, empleo y crecimiento para el país.",
-          "url": "https://elcomercio.pe/respuestas/cuanto/aumento-del-sueldo-minimo-2026-conoce-el-nuevo-monto-y-desde-cuando-regira-la-rmv-anunciada-por-keiko-fujimori-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/NOMCNA7QN5G6HC5OHL4GJ2NV5I.png?auth=e3e4a2fcbb5898dc2e8515ca819c873888eaef4f736c3300459f741a90d45972&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-08T20:14:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/cuanto/aumento-del-sueldo-minimo-2026-conoce-el-nuevo-monto-y-desde-cuando-regira-la-rmv-anunciada-por-keiko-fujimori-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Aumento del sueldo mínimo 2026, Aumento del sueldo mínimo 2026 perú, Keiko Fujimori",
-            "Cuanto",
             "Peru",
             "El Comercio"
           ],
@@ -3413,32 +3461,6 @@
           "sort_order": 5
         },
         {
-          "id": "eda43e77c655",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Hoy es feriado en Perú: conoce qué días de descanso quedan en agosto de 2026",
-          "summary": "Agosto de 2026 tendrá días de descanso oficial en Perú. Revisa el calendario de feriados, las fechas establecidas y conoce cuándo podrás disfrutar de un día libre.",
-          "body_text": "Tras culminar las celebraciones por Fiestas Patrias, muchos trabajadores y estudiantes ya empiezan a revisar el calendario para conocer cuál será el siguiente descanso oficial del año. Los feriados representan una oportunidad para planificar viajes, compartir tiempo en familia o simplemente hacer una pausa en la rutina, por lo que existe un gran interés en conocer las próximas fechas establecidas por ley. Además de permitir un espacio para el descanso, estas jornadas suelen generar un importante movimiento en sectores como el turismo, el comercio, la gastronomía y el transporte, debido al incremento de personas que aprovechan los días libres para salir de la ciudad o realizar diversas actividades. Del mismo modo, muchas empresas y entidades organizan con anticipación sus operaciones para adecuarse al calendario oficial, mientras que las familias aprovechan estas fechas para programar reuniones, escapadas de fin de semana o visitas a distintos destinos del país. Por ello, conocer con anticipación cuándo será el próximo feriado resulta clave para organizar la agenda personal y laboral, evitar contratiempos y sacar el máximo provecho a los días de descanso que aún quedan en el 2026. A continuación, te contaremos todo lo que debes saber sobre esta situación. Luego de los feriados nacionales del 28 y 29 de julio, tanto en el sector público como en el privado, la atención se centra en los siguientes días festivos contemplados en el calendario oficial de 2026. Si quieres saber cuándo será el próximo feriado y qué fechas aún quedan por disfrutar este año, aquí te contamos todos los detalles. Los feriados son fechas establecidas por ley en las que los trabajadores tienen derecho a suspender sus labores sin que ello afecte su remuneración. Durante estas jornadas, el descanso es obligatorio tanto para el sector público como para el privado, salvo en aquellas actividades que, por su naturaleza, deben continuar operando. Si un trabajador presta servicios durante un feriado y no recibe un día de descanso compensatorio, la legislación laboral establece que le corresponde una remuneración adicional por haber laborado en esa fecha, conforme a las disposiciones vigentes. A diferencia del feriado, el día no laborable no constituye un descanso obligatorio para todos los trabajadores. Generalmente, esta medida se aplica al sector público con el objetivo de extender periodos de descanso o promover actividades como el turismo interno. En el caso de las entidades públicas, las horas que no se trabajan deben recuperarse posteriormente, dentro del plazo fijado por la normativa o según lo disponga cada institución. Para el sector privado, la aplicación de un día no laborable depende de un acuerdo entre empleador y trabajadores. Si no existe consenso sobre la recuperación de las horas, será el empleador quien determine la forma en que estas deberán compensarse.",
-          "url": "https://elcomercio.pe/respuestas/cuando/cuantos-feriados-habra-en-agosto-2026-conoce-los-dias-libres-del-calendario-oficial-en-peru-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/SH65ZAXUUJEVFCJNE2BPUZRN5Q.png?auth=98bd7cd709f2aac65aa51be1e064bfeb928af12da7afa9f78c948b4b705d80b3&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-06T20:21:58Z",
-          "embed_url": "https://elcomercio.pe/respuestas/cuando/cuantos-feriados-habra-en-agosto-2026-conoce-los-dias-libres-del-calendario-oficial-en-peru-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Fiestas Patrias, Fiestas Patrias 2026, feriado de julio, feriados 2026, próximo feriado, feriados en Perú, Fiestas Patrias viral",
-            "Cuándo",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
           "id": "a8c719882cf1",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3462,33 +3484,33 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 6
         },
         {
-          "id": "51ac9b5fb021",
+          "id": "90c82a4757ff",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
           "provider": "El Comercio",
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Comisiones bicamerales: Así sería el cuadro de comisiones y la repartición de presidencias en Senado y Diputados",
-          "summary": "Bloque busca imponerse en la definición de presidencias con los 74 votos con las que ganaron la Mesa Directiva. Fujimorismo pugna por liderar el grupo de Constitución en el Senado.",
-          "body_text": "Con la confianza de los 74 votos que le permitieron ganar la Mesa Directiva en la Cámara de Diputados, el bloque de izquierda –junto con su aliado, el Partido del Buen Gobierno– ahora buscará imponerse en la repartición de las presidencias de comisiones, donde su mira está puesta en tres grupos de estudio en particular: Constitución, Economía y Energía y Minas. Un resignado bloque de derecha, con el oficialista Fuerza Popular a la cabeza, buscará contrarrestar desde las comisiones del Senado para poder filtrar las fórmulas legislativas que sean enviadas desde la Cámara Baja. Lo primero a tener en cuenta es que cada cámara tendrá sus propias comisiones: son 16 para la Cámara de Diputados y siete para el Senado. Las presidencias de las comisiones se repartirán proporcionalmente. Para la Cámara Baja, el bloque de izquierda que ganó la Mesa Directiva propondrá su cuadro de comisiones para someterlo a votación en el pleno, donde cuentan con la mayoría para aprobarlo. Incluso, en el bloque de derecha son conscientes de este escenario, tal como reconoció una fuente: “A todos nos queda claro que nos van a dar lo que quede, a Fuerza Popular y Renovación Popular. El cuadro se da por votos y ellos tienen 74”. Y lo mismo piensan en el bloque de izquierda, en el que señalaron: “Es hasta poético, considerando que su mayoría [la de Fuerza Popular, en el 2016] era de 73”. Fuentes de la izquierda acotaron que son cuatro las comisiones que evalúan dejar para la derecha: Defensa del Consumidor, Inclusión Social, Medio Ambiente y Ciencia. Entre las bancadas del bloque de oposición –Juntos por el Perú, Ahora Nación, Obras y Partido del Buen Gobierno– se viene discutiendo la repartición de los grupos de su interés. La presidencia de Constitución está pedida por Juntos por el Perú y el Partido del Buen Gobierno. Mientras que la titularidad de Economía es tentada por Ahora Nación y también por el partido de Jorge Nieto. Otros grupos en los que JP busca tener el control son Energía y Minas (desde donde buscan impulsar la ampliación del Reinfo), Salud y Educación. Este último es tentado por la facción castillista. Consultado anteriormente por la agenda legislativa que impulsará su bancada, Ernesto Zunini, diputado y vocero de JP, indicó que buscarán restablecer la iniciativa de referéndum para cambios constitucionales, así como la creación de un fondo para cerrar brechas de acceso al agua “con un porcentaje de los tributos que pagan las agroexportadoras”. El abogado especialista en asuntos parlamentarios Martín Cabrera advirtió que el bloque de izquierda podría abrir “la puerta a nuevas propuestas populistas como el noveno retiro de fondos de pensiones”. En el bloque de derecha, la diputada de Renovación Popular Roxana Rocha indicó que su bancada –a la que le toca presidir dos comisiones– tiene puesto el foco en Modernización de la Gestión del Estado; Justicia; Infraestructura, Vivienda y Transportes; y Educación. Ante el escenario adverso en Diputados, la proyección de Fuerza Popular es conseguir la presidencia de Constitución y Economía en el Senado. “Si no tenemos la presidencia abajo, de todas maneras la tendremos arriba, para poder revisar los intentos de reformas constitucionales y evitar, por ejemplo, un intento de constituyente. Además de la revisión de la delegación de facultades”, dijo una fuente fujimorista. Tal como se vio en la elección de la Mesa Directiva de la Cámara Alta, el bloque de la derecha y el de izquierda están empatados con 30 votos para cada uno. Para el bloque de derecha, el empate se puede romper: o con el voto dirimente de la presidencia (en manos de Miguel Torres de Fuerza Popular) o convenciendo al Partido del Buen Gobierno a inclinar la balanza. “Un gesto decente de Buen Gobierno es que dicha comisión la presida Fuerza Popular”, indicaron. Otro tema por definir es la presidencia del grupo de Presupuesto que tiene una condición especial, debido a que el reglamento la constituye como una “comisión bicameral” integrada por miembros de ambas cámaras. El mismo reglamento estipula que, al inicio del período parlamentario, asume la presidencia un integrante del Senado. Fuerza Popular también espera lograr el consenso para el control del grupo que definirá la ley de presupuesto 2027.",
-          "url": "https://elcomercio.pe/politica/congreso/comisiones-bicamerales-asi-seria-el-cuadro-de-comisiones-y-la-reparticion-de-presidencias-en-senado-y-diputados-fuerza-popular-juntos-por-el-peru-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/PNKR5BV7WRA4JJM6AHATCFJ744.png?auth=32380a0dfb6a4043ce6b542c40e23a63a3eeb8aceb5737133ff89f440cf0a20d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-04T12:16:29Z",
-          "embed_url": "https://elcomercio.pe/politica/congreso/comisiones-bicamerales-asi-seria-el-cuadro-de-comisiones-y-la-reparticion-de-presidencias-en-senado-y-diputados-fuerza-popular-juntos-por-el-peru-noticia/",
+          "title": "¡Reventó la Kábala! mira los números ganadores del sábado 11 de julio",
+          "summary": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 11 de julio, que tiene un pozo acumulado de S/3′646,620. Además, puedes seguir el sorteo de Chau Chamba.",
+          "body_text": "Mira a continuación los resultados del sorteo de Kábala del sábado 11 de julio También consulta la combinación de Chau Chamba.",
+          "url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/JDQZGCPFAFG3FH6RGNACCZMHAE.png?auth=1b292019c8371d2cfba55627bb27924e4428829444cd64b1bf32491e89772217&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-07-12T15:19:09Z",
+          "embed_url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Congreso, Congreso bicameral, Senado, Diputados, comisiones, Comision de Constitucion, Comision de Economia, Comision de Energia y Minas, Comision de Presupuesto, Fuerza Popular, Partido del Buen Gobierno, Juntos por el Peru, Ahora Nacion, Comisiones bicamerales congreso 2026",
-            "Política",
+            "resultados de la kábala, kabala, Cabala, kabala resultados, resultados de la kabala, tinka resultados, resultado de la kabala, resultados de la tinka, resultado de la kábala, premios de la kabala, tinka, sorteo de la kábala de hoy en vivo, kábala premios, la kabala resultados hoy, resultado de la kábala ayer perú, Intralot, la kabala hoy, kabala en vivo, kabala hoy, la kabala resultados, kábala sorteo, kábala horario, kábala, Kábala resultados, Kábala sorteo hoy, kábala sí o sí, kábala pozo hoy, kábala resultados hoy, la kábala ayer, kábala hoy, La kábala ganador, La Kábala sábado 11 de julio, La Cábala sábado 11 de julio, Kabala sabado 11, Cabala sabado 11, resultados Kábala sábado 11, resultados Cábala sábado 11, Kábala números 11 de julio, Cábala números 11 de julio, último sorteo Kábala sábado 11, último sorteo Cábala sábado 11, Kábala 11 de julio, Cábala 11 de julio, Kábala 11 julio del 2026, Cábala 11 julio del 2026",
+            "Loterias",
             "Peru",
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 7
         },
         {
           "id": "5d436aa392ea",
@@ -3510,6 +3532,32 @@
           "tags": [
             "El Comercio, El Comercio noticias, viral, tendencia, viral Perú, tendencia Perú, Google, búsquedas en Google",
             "Cómo",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "95ccdbc5fc0a",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Así puedes configurar Google Discover para seguir a El Comercio y recibir nuestras noticias en tu celular",
+          "summary": "Personaliza Google Discover y sigue a El Comercio para recibir en tu móvil las noticias más relevantes de Perú y el mundo.",
+          "body_text": "Google Discover se ha convertido en una de las formas más rápidas de mantenerse informado. Este feed de la app de Google, disponible tanto en Android como en iPhone, muestra noticias y contenidos adaptados a cada usuario según sus intereses. Con la última actualización, ahora también es posible seguir a medios de comunicación específicos, como El Comercio, para que la información más relevante del Perú y el mundo llegue directo a tu pantalla sin necesidad de buscarla. En Discover puede aparecer todo el contenido que está en el índice de Google y cumple las políticas de contenido de Discover. Para activar esta función, solo debes ingresar a Discover desde la app de Google, escribir “El Comercio” en la barra de búsqueda y seleccionar la opción de seguir. De inmediato tendrás acceso a un espacio dedicado con todas nuestras publicaciones actualizadas. También puedes hacerlo ingresando aquí. Al configurar tu feed con medios de confianza, podrás ahorrar tiempo y acceder en un solo lugar a noticias de política, economía, deportes, tecnología y cultura. Además, recibirás recomendaciones personalizadas que se ajustan a tus búsquedas y a los temas que consultas con frecuencia. En la mayoría de celulares Android, basta con deslizar hacia la izquierda en la pantalla principal para abrir Discover. En iPhone, el acceso está en la app de Google, disponible en la App Store. En ambos casos, basta con iniciar sesión con tu cuenta para empezar a personalizar tu experiencia. Así, con unos pocos pasos, puedes asegurarte de que la cobertura de El Comercio esté siempre disponible en tu feed de Discover.",
+          "url": "https://elcomercio.pe/tecnologia/actualidad/sigue-a-el-comercio-en-google-discover-asi-puedes-configurar-y-recibir-nuestras-noticias-del-peru-y-del-mundo-en-tu-celular-moviles-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/3I7GTI2KFFGDXF3Y3CSPNSUU3U.png?auth=251f132c42ce989c6c693e22a1a9ea7c9d871464199b40f2bc54035e4d747c66&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-03-16T20:19:09Z",
+          "embed_url": "https://elcomercio.pe/tecnologia/actualidad/sigue-a-el-comercio-en-google-discover-asi-puedes-configurar-y-recibir-nuestras-noticias-del-peru-y-del-mundo-en-tu-celular-moviles-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Google, Google Discover, El Comercio, app, móviles",
+            "Actualidad",
             "Peru",
             "El Comercio"
           ],
@@ -3577,7 +3625,7 @@
           "source_kind": "story",
           "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy | TechCrunch",
           "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-          "body_text": "In her upcoming book “The Rise and Fall of the Artificial State,” Jill Lepore warns that tech companies are increasingly replacing the functions of democratic government. This shift, she said, marks “a return to tyranny and mystification in the form of rule by algorithms, corporations, machines.” On the latest episode of TechCrunch’s Equity podcast , I spoke to Lepore — a Harvard historian and New Yorker staff writer who recently won a Pulitzer Prize for her history of the U.S. Constitution — about the evolution of what she described as “the idea that we should live under an artificial state or government by machines.” “I’m not anti-technologist,” Lepore insisted. Instead, she said, “My beef is the ways in which private corporations have increasingly taken on the functions of the state.” While Lepore’s book examines technocratic philosophies that go back centuries, she argued that many of Silicon Valley’s “charismatic or not-so-charismatic leaders” — especially Elon Musk — seem to be ushering in a future pulled from misread pulp science fiction and comic books. “But what’s funny about Musk is, the stuff he likes actually completely defeats and defies all of his political beliefs,” she said. Our conversation also covered Apple’s famous “1984” Macintosh ad, why it’s “bananas” to call Twitter a digital town hall, and the current data center backlash. Keep reading for highlights, edited for length and clarity. So you’ve probably had to do this a lot already, but can you explain what you mean by the “artificial state”? By the artificial state, I mean a kind of state that is replacing the liberal democratic nation-state in the United States and around the world. It’s both a real thing, a construct, but it’s also an idea. And so, in this book “The Rise and Fall of the Artificial State,” I trace the rise of the idea that we should live under an artificial state or government by machines. I also trace the notion that this is an inevitable failure, that the artificial state cannot survive, and I trace that idea through science fiction. At one point, you say the rise of the artificial state marks the end of centuries of democracy and equal rights, and it’s “a return to tyranny and mystification in the form of rule by algorithms, corporations, machines.” Can you just say a little bit more about why you see it in such stark terms? Yeah, I do have a pretty negative view of it, and I think it’s important to distinguish the artificial state from technology itself or modes of technology. I’m not an anti-technologist. I’m married to a computer scientist. I’m really excited about all kinds of intellectual revolutions that we’re in the midst of right now. That’s not my beef, right? My beef is the ways in which private corporations have increasingly taken on the functions of the state. No one consented to that. This has been a kind of gradual, largely accidental transformation of how many nation-states around the world work — it’s happened first in the United States.",
+          "body_text": "In her upcoming book “The Rise and Fall of the Artificial State,” Jill Lepore warns that tech companies are increasingly replacing the functions of democratic government. This shift, she said, marks “a return to tyranny and mystification in the form of rule by algorithms, corporations, machines.” On the latest episode of TechCrunch’s Equity podcast , I spoke to Lepore — a Harvard historian and New Yorker staff writer who recently won a Pulitzer Prize for her history of the U.S. Constitution — about the evolution of what she described as “the idea that we should live under an artificial state or government by machines.” “I’m not an anti-technologist,” Lepore insisted. Instead, she said, “My beef is the ways in which private corporations have increasingly taken on the functions of the state.” While Lepore’s book examines technocratic philosophies that go back centuries, she argued that many of Silicon Valley’s “charismatic or not-so-charismatic leaders” — especially Elon Musk — seem to be ushering in a future pulled from misread pulp science fiction and comic books. “But what’s funny about Musk is, the stuff he likes actually completely defeats and defies all of his political beliefs,” she said. Our conversation also covered Apple’s famous “1984” Macintosh ad, why it’s “bananas” to call Twitter a digital town hall, and the current data center backlash. Keep reading for highlights, edited for length and clarity. So you’ve probably had to do this a lot already, but can you explain what you mean by the “artificial state”? By the artificial state, I mean a kind of state that is replacing the liberal democratic nation-state in the United States and around the world. It’s both a real thing, a construct, but it’s also an idea. And so, in this book “The Rise and Fall of the Artificial State,” I trace the rise of the idea that we should live under an artificial state or government by machines. I also trace the notion that this is an inevitable failure, that the artificial state cannot survive, and I trace that idea through science fiction. At one point, you say the rise of the artificial state marks the end of centuries of democracy and equal rights, and it’s “a return to tyranny and mystification in the form of rule by algorithms, corporations, machines.” Can you just say a little bit more about why you see it in such stark terms? Yeah, I do have a pretty negative view of it, and I think it’s important to distinguish the artificial state from technology itself or modes of technology. I’m not an anti-technologist. I’m married to a computer scientist. I’m really excited about all kinds of intellectual revolutions that we’re in the midst of right now. That’s not my beef, right? My beef is the ways in which private corporations have increasingly taken on the functions of the state. No one consented to that. This has been a kind of gradual, largely accidental transformation of how many nation-states around the world work — it’s happened first in the United States.",
           "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
           "published_at": "2026-08-09T15:00:00Z",
@@ -4046,6 +4094,78 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "1daa5f92696c",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Misstänkta skärgårds- mördaren fåordig i förhör",
+          "summary": "Åklagaren uppger att den misstänkte mannen sagt lite om händelsen efter gripandet i Stockholms skärgård",
+          "body_text": "Efter mordet på Sollenkroka ö höll sig den misstänkta 57-åriga mannen undan i omkring 33 timmar. Men i förhör har mannen varit fåordig om flykten. ”Han har själv inte lämnat så mycket information ännu”, skriver åklagare Emma Olsson i ett mejl. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var på tisdagen som en 56-årig kvinna hittades död av en anhörig i sommarhuset på Sollenkroka ö i Stockholms skärgård . Kort därefter riktades misstankarna mot den 57-årige man som hade en relation med kvinnan. En omfattande polisinsats inleddes när mannen inte gick att hitta. Natten till torsdagen greps han efter att ha lokaliserats av polisens helikopter. Mannen befann sig då på en mindre båt och hoppade i vattnet när polisen närmade sig. Han hade då varit på flykt i omkring 33 timmar. Enligt åklagare Emma Olsson använde han först en kajak, som senare lämnades på en intilliggande ö. Därefter fortsatte han i en mindre båt. ”Han höll sig undan i princip ett och ett halvt dygn”, skriver Emma Olsson i ett mejl. Under hela tiden ska mannen ha befunnit sig utomhus. Polisen har, enligt åklagaren, inga uppgifter om att han tagit skydd i något uthus eller liknande. Varför han valde att stanna kvar i skärgården är däremot fortfarande oklart. Mannen har hittills sagt mycket lite om vad han gjorde under flykten.",
+          "url": "https://www.expressen.se/nyheter/sverige/misstankta-skargardsmordaren-faordig-i-forhor/",
+          "image_url": "https://static.bonniernews.se/images/6d/e4/6de4c5d5b3424cdca3a22f7832aa9df1/16x9/original.jpg",
+          "published_at": "2026-08-09T18:36:57Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/misstankta-skargardsmordaren-faordig-i-forhor/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "033fb7ff1e13",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tre skjutna i dansk skjutning: ”Hårdkokta kriminella”",
+          "summary": "Tre skjutna i dansk skjutning: ”Hårdkokta kriminella”",
+          "body_text": "En kriminell uppgörelse på öppen gata skakar den danska staden Holbæk. Tre personer skadades när en maskerad man öppnade eld på söndagen. – Jag är upprörd över att hårdkokta kriminella sätter andras säkerhet i fara, säger stadens borgmästare Christina Krzyrosiak Hansen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Tre personer skadades i skottlossning i den danska staden Holbæk på söndagseftermiddagen, rapporterar Politiken och andra danska medier. Deras skador är inte livshotande, enligt polisen. – Vi är helt övertygade om att skjutningen bottnar i en uppgörelse i kriminell miljö. Men vi kan inte säga närmare vad motivet är, säger polischefen Lars Krogsgaard i en uppdatering på den danska polisens hemsida. Larmet om skottlossningen, som ägde rum i stadsdelen Agervang, kom klockan 15.45 på söndagen. En större grupp män hade samlats där och hamnat i slagsmål med varandra före skjutningen, enligt polisen. Ett kvinnligt ögonvittne säger till Ekstra Bladet att 15–20 svartklädda män befann sig på en parkeringsplats och att de uppträder våldsamt mot varandra. – Plötsligt kommer en vit bil körande. En maskerad man hoppar ur bilden medan den fortfarande är i rörelse. Jag ser att han avlossar två skott och hör åtminstone ett till, säger hon. Hon säger att gruppen springer från platsen när mannen börjar skjuta mot dem. Den lilla vita bilen kör från platsen och blir jagad av en man i en annan bil, enligt polisen. Men förföljaren krockar med en tredje bil. – Han är nu anhållen. Men vi förmodar att han var en del av gruppen som blev beskjuten, säger polischefen Lars Krogsgaard till Politiken.",
+          "url": "https://www.expressen.se/nyheter/varlden/tre-skadade-i-skjutning-hardkokta-kriminella/",
+          "image_url": "https://static.bonniernews.se/images/5d/60/5d605a547a7c452e8843c17114fbe463/16x9/original.jpg",
+          "published_at": "2026-08-09T18:30:23Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/tre-skadade-i-skjutning-hardkokta-kriminella/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "686ebe7c7619",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "En tidigare arbetskamrat minns en lugn och omtänksam person och beskriver beskedet som svårt att ta in",
+          "summary": "SEB-kollegan om mordet på 56-åriga kvinnan",
+          "body_text": "I över ett decennium arbetade hon med den mördade 56-åriga kvinnan på banken SEB. De åt lunch ihop, umgicks och blev nära vänner. När beskedet nådde den tidigare kollegan hade hon svårt att ta in det. – Jag har varit helt chockad hela helgen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Beskedet om dödsfallet kom som en chock. – Jag ville helst inte tro att det var sant. Jag hoppades att det inte skulle vara hon, säger den tidigare kollegan. Till sist gick det inte längre att hålla fast vid hoppet. – Jag har varit helt chockad hela helgen faktiskt. Jag har gått och tänkt på familjen, vilken tragedi. Hon beskriver sin väninna som trygg, lugn och mycket sympatisk. – Hon var lugn, fin och älskade sina barn över allt annat, säger den tidigare kollegan. De båda kvinnorna blev under åren väl bekanta med varandras liv. Efter att kollegan slutat fanns vänskapen kvar, även om den med tiden blev något mer avlägsen. Expressen har varit i kontakt med flera kolleger och vänner till den avlidna kvinnan som alla uttrycker stor sorg och chock över det inträffade.",
+          "url": "https://www.expressen.se/nyheter/sverige/tidigare-kollegan-i-chock-efter--skargardsmordet-vilken-tragedi/",
+          "image_url": "https://static.bonniernews.se/images/b7/d2/b7d220a898d440c3951b70339b4ffb68/16x9/original.png",
+          "published_at": "2026-08-09T18:17:28Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/tidigare-kollegan-i-chock-efter--skargardsmordet-vilken-tragedi/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "87ba0a2331b3",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4067,7 +4187,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "04ff20b107b0",
@@ -4091,7 +4211,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "4041bb93becb",
@@ -4115,7 +4235,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "ed48e185349c",
@@ -4139,7 +4259,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "760404725bd2",
@@ -4163,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "a41573ddcfb1",
@@ -4187,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "d530c91e65d0",
@@ -4204,78 +4324,6 @@
           "image_url": "https://static.bonniernews.se/images/2d/48/2d48ce9b836e402eac07bd067993aeed/16x9/original.png",
           "published_at": "2026-08-09T13:42:20Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/varnar-trump-kopplade-bolaget-efter-oljeplanerna/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "0ced0bc2013b",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Anderssons löfte: Extra barnbidrag",
-          "summary": "Socialdemokraterna vill ge barnfamiljer dubbelt barn- och studiebidrag två gånger om året – inför jul- och sommarlov. För en tvåbarnsfamilj skulle det innebära 5 000 kronor mer om året.",
-          "body_text": "Socialdemokraterna vill ge barnfamiljer dubbelt barn- och studiebidrag två gånger om året – inför jul- och sommarlov. För en tvåbarnsfamilj skulle det innebära 5 000 kronor mer om året. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Partiledare Magdalena Andersson och ekonomisk-politisk talesperson Mikael Damberg meddelade nyheten under en pressträff vid Sofia skola på Södermalm i Stockholm. Ett ökat barnbidrag skulle innebära 5 000 kronor mer per år för en tvåbarnsfamilj. Barnbidraget är i dag 1 250 kronor. Socialdemokraternas vallöfte innebär att ett extra barnbidrag betalas ut två gånger per år, i december inför jullovet och i juni inför sommarlovet. – Kanske kan man då äntligen köpa den där julklappen som står högst upp på önskelistan, säger Magdalena Andersson. Andersson och Damberg pekar på att de senaste åren varit tuffa för barnfamiljer med skenande matpriser, höjda hyror och dyrare bolån. – Det har varit en tuff mandatperiod för barnfamiljer. Sverige har varit det enda land i Norden som valt att inte höja barnbidraget, säger Magdalena Andersson. Socialdemokraterna vill att det dubblerade barnbidraget införs permanent. – Det är dags att ta vanligt folks ekonomi på allvar, säger Mikael Damberg. Satsningen på ett höjt barnbidrag kommer att kosta närmare 6 miljarder.",
-          "url": "https://www.expressen.se/nyheter/politik/socialdemokraterna-presenterar-valloften-/",
-          "image_url": "https://static.bonniernews.se/images/ad/1e/ad1e8f8383c64baba165293e5217bee3/16x9/original.jpg",
-          "published_at": "2026-08-09T11:02:03Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/socialdemokraterna-presenterar-valloften-/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "7c3b201708b8",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Dödliga attacker",
-          "summary": "Ryska attacker dödade två personer och skadade ett tjugotal i Ukraina under natten till söndagen, samtidigt som en ukrainsk drönarattack dödade tre personer i den ryska Belgorodregionen.",
-          "body_text": "Ryska attacker dödade två personer och skadade ett tjugotal i Ukraina under natten till söndagen, samtidigt som en ukrainsk drönarattack dödade tre personer i den ryska Belgorodregionen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Fyra år efter det att Ryssland startade sin fullskaliga invasion i Ukraina trappar de två länderna upp sina långdistansattacker, vilket leder till ett växande antal civila dödsoffer. Två personer dödades i en rysk drönarattack i Charkiv, där fyra våningsplan i ett bostadshus också förstördes, enligt Ukrainas president Zelenskyj. Ytterligare 23 personer skadades, uppger regionens guvernör Oleh Synehubov. Enligt Zelenskyj skadades även åtta personer under natten i Odessa, där attacker skadade elnätet, hamnen och bostadshus. Ytterligare nio personer har skadats i en attack mot energiinfrastruktur nära ett köpcentrum i Pavlohrad i Dnipropetrovskregionen, enligt presidenten. Samtidigt har tre personer dödats och 25 skadats i en ukrainsk drönarattack mot den ryska gränsregionen Belgorod under natten till söndag, uppger lokala ryska myndigheter. Enligt regionens tillförordnade guvernör Aleksandr Sjovajev attackerades Belgorod under natten av 16 drönare, varav tre sköts ned. Rysslands försvarsdepartement uppger samtidigt att luftförsvaret under natten sköt ned 153 ukrainska drönare över 17 ryska regioner, Krimhalvön samt Svarta havet och Azovska sjön. Liknande attacker har pågått de senaste dygnen. Världshälsoorganisationen WHO uppger att ett av deras medicinlager i Dnipro i Ukraina förstördes i ryska anfall under fredagen. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/varlden/dodlig-natt-pa-bada-sidor-i-ukrainakriget/",
-          "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
-          "published_at": "2026-08-09T10:58:51Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/dodlig-natt-pa-bada-sidor-i-ukrainakriget/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "2f0161d7f1fb",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Kristerssons vädjan: ”Rösta med oss”",
-          "summary": "Snart ska riksdagen rösta om slopandet av den så kallade mängdrabatten. Nu vänder sig Ulf Kristersson direkt till S-ledaren Magdalena Andersson. – Det är viktigt att vi håller i och håller ihop, säger statsministern. Andersson själv tycker statsministern verkar ”lite desperat”.",
-          "body_text": "Snart ska riksdagen rösta om slopandet av den så kallade mängdrabatten. Nu vänder sig Ulf Kristersson direkt till S-ledaren Magdalena Andersson. – Det är viktigt att vi håller i och håller ihop, säger statsministern. Andersson själv tycker statsministern verkar ”lite desperat”. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Nästa vecka ska riksdagen rösta om att slopa den så kallade mängdrabatten för upprepad brottslighet. Debatten har stundtals varit hård. Socialdemokraterna menar att man är för att slopa mängdrabatten men att regeringens specifika förslag är ett luftslott i och med att Kriminalvården i dag saknar kapaciteten och reformen saknar nödvändig finansiering. Moderaterna har i sin tur anklagat oppositionspartierna för att vilja ha rabatt på brott som våldtäkter och rån, i och med att man motsätter sig reformen. Men inför omröstningen tycks regeringen vilja sänka tonläget. Och i ett ovanligt drag sträcker Ulf Kristersson nu ut handen över blockgränsen. Expressen har tagit del av en personlig vädjan från statsministern till Magdalena Andersson. Han uppmanar S att rösta med regeringen för att visa enad front mot de kriminella gängen. ”Vi har den senaste tiden fått många tecken på att gängkriminella är på väg att överge Sverige. I flera fall har de flytt hem till sina ursprungsländer. Det har helt enkelt blivit svårt att vara gängkriminell i Sverige”, skriver statsministern och fortsätter: ”Nu är det viktigt att vi håller i och håller ihop för att denna utveckling ska fortsätta. Och att vi sätter hårt mot hårt mot alla som livnär sig på kriminalitet i Sverige.”",
-          "url": "https://www.expressen.se/nyheter/politik/kristerssons-vadjan--till-s-rosta-med-oss/",
-          "image_url": "https://static.bonniernews.se/images/1d/95/1d95e84290fa4aeeab066c58a0deca59/16x9/original.jpg",
-          "published_at": "2026-08-09T10:07:14Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/kristerssons-vadjan--till-s-rosta-med-oss/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4312,7 +4360,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Flera personer har träffats av skott under en skjutning i danska Holbæk, uppger polisen i Danmark. Ett ögonvittne såg 15-20 svartklädda män på platsen, rapporterar Ekstrabladet. Larmet om skottlossningen kom klockan 15.45 på söndagen, enligt den danska polisen. \"Polisen förmodar att det handlar om en uppgörelse i den kriminella miljön”, skriver polisen på sin hemsida. Det är oklart hur många som har skadats. Polisen har heller ingen uppgift om deras skadeläge. Ett ögonvittne säger till Ekstra Bladet att en grupp med 15-20 svartklädda män kom till platsen och gjorde ett våldsamt intryck. På E4 har flera fordon krockat, skriver Trafikverket. Olyckan har skett utanför Linköping, mellan trafikplats Linköping väst och Linköping norr i riktning mot Nyköping. Olyckan får stor påverkan på trafiken. Prognosen är satt till 17:45. Det brinner på ön Höga Fladkläppen i Stockholms skärgård. Ett larm kom in vid strax efter 15 på eftermiddagen. Enligt räddningstjänsten rör det sig om en yta på runt 2 000 kvadratmeter. – Jag har inte fått något tydligt att det ska vara under kontroll, säger Thomas Skans på räddningstjänsten. Räddningstjänsten, polis och sjöräddning är på plats. En person hittades död i Malung på söndagen, meddelar polisen. – Det är ett oklart dödsfall. Vi har inlett en förundersökning gällande mord. Vi har ingen misstänk, säger Mats Thörn, vakthavande befäl på polisregion Bergslagen. Larmet om den döda kroppen inkom till SOS Alarm klockan 12:41 på söndagen. Under söndagseftermiddagen och kvällen har det brunnit i en skog vid Rudasjön i Haninge kommun söder om Stockholm.",
+          "body_text": "Tre personbilar är inblandade i en trafikolycka på E4 vid Kungens Kurva söder om Stockholm. Det ska röra sig om vänster körfält i riktning in mot Stockholm. – Det står fordon i både vänstra och högra körfältet, vilket gör att det till nu till och med är tillfälligtvis helt blockerat, enligt Ludwig Tejler, vakthavande befäl vid räddningstjänsten Södertörn. Det finns ännu inga uppgifter om skadeläge, enligt Tejler. Sedan migrantkrisen i Ceuta i förra veckan har minst fem flickor, ingen av dem äldre än 14 år, behövt vård efter misstänkta våldtäkter, rapporterar Euronews. Flickorna kom till staden i samband med migrantvågen. Minst tolv sexuella övergrepp har rapporterats, men mörkertalet tros vara högre. Flickorna är i en utsatt position då de bor på gatan eftersom de inte får plats på migrantboenden. – Det handlar inte om att ingen vill ta in dem, det finns helt enkelt inte plats för dem, säger akutläkaren Susana Ascaso till nyhetssajten. Flera personer har träffats av skott under en skjutning i danska Holbæk, uppger polisen i Danmark. Ett ögonvittne såg 15-20 svartklädda män på platsen, rapporterar Ekstrabladet. Larmet om skottlossningen kom klockan 15.45 på söndagen, enligt den danska polisen. \"Polisen förmodar att det handlar om en uppgörelse i den kriminella miljön”, skriver polisen på sin hemsida. Det är oklart hur många som har skadats. Polisen har heller ingen uppgift om deras skadeläge. Ett ögonvittne säger till Ekstra Bladet att en grupp med 15-20 svartklädda män kom till platsen och gjorde ett våldsamt intryck.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
