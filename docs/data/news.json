@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:10:01Z",
+  "generated_at": "2026-08-09T04:39:24Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Fenomenet uppges växa sig allt starkare • Monsunen i Indien hotad Varningen: El Niño tvingar hajar och ormar mot land FN-chefen: ”Klimatkrisen har gått in i ett nytt skede” Familjen berättar: ”Hon lever på detta” • Bjöds in av artisten själv Linn, 17, ska dö – nu ska hon på sin sista Håkan Hellström-konsert AI har skapat helt nya virus • Möjliggör ökad precision inom medicin Tidigare livstidsdömde: ”Kommer bara att förvärra dagens problematik”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Fenomenet uppges växa sig allt starkare • Monsunen i Indien hotad Varningen: El Niño tvingar hajar och ormar mot land FN-chefen: ”Klimatkrisen har gått in i ett nytt skede” Familjen berättar: ”Hon lever på detta” • Bjöds in av artisten själv Linn, 17, ska dö – nu ska hon på sin sista Håkan Hellström-konsert AI har skapat helt nya virus • Möjliggör ökad precision inom medicin",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1649,6 +1649,31 @@
           "sort_order": 0
         },
         {
+          "id": "8e8ccb786746",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Johnny Damon: I'm trying to bring MLB to Orlando | Fox News Video",
+          "summary": "Baseball legend Johnny Damon shares prospects for an Orlando MLB team and talks about who he roots for on 'Fox News Saturday Night.'",
+          "body_text": "Baseball legend Johnny Damon shares prospects for an Orlando MLB team and talks about who he roots for on 'Fox News Saturday Night.'",
+          "url": "https://www.foxnews.com/video/6403087035112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0754f32-7fb0-4c90-895b-421d18da3158/51fee469-472b-49b9-adbf-bbb44e0ea4a1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-09T03:03:10Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403087035112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "f7bff903e58e",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1671,7 +1696,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "16e98d57745e",
@@ -1696,7 +1721,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "21682a6562b0",
@@ -1721,7 +1746,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "ed34327e8cb1",
@@ -1746,7 +1771,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "154a20399617",
@@ -1771,7 +1796,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "6b1e0a0a9792",
@@ -1796,7 +1821,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "e92734f33dbf",
@@ -1821,7 +1846,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "b88a65e56b89",
@@ -1846,7 +1871,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "d58bfe6ff458",
@@ -1863,31 +1888,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56c62a7f-4204-4e09-9ab5-8b97804aa3e7/ff591eb6-c1df-4e84-a274-3b1b7efd46aa/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-09T00:50:56Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403080581112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "460cb61f59b4",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "REPEAT OFFENDER: Man arrested at least 9 times accused of attacking women | Fox News Video",
-          "summary": "WARNING: Graphic content—‘The Big Weekend Show’ scrutinizes Charlotte’s crime policies.",
-          "body_text": "WARNING: Graphic content—‘The Big Weekend Show’ scrutinizes Charlotte’s crime policies.",
-          "url": "https://www.foxnews.com/video/6403080184112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/417bfb4f-442b-4b12-a4cd-99137ea9898b/c150fae4-5d73-428a-b78d-f7b86e271bc2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-09T00:40:26Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403080184112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2486,7 +2486,7 @@
           "body_text": "Revisa qué canales pasan el partido de Alianza Lima vs. Sport Boys y los horarios para ver el compromiso por la fecha 4 del Torneo Clausura de la Liga 1.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-alianza-lima-vs-sport-boys-en-vivo-gratis-por-liga-1-a-que-hora-juegan-y-donde-ver-torneo-clausura-online-streaming-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/EWEHOU6V7RFWPJTYKQ246HDS6Y.jpeg?auth=77644ff8847e356ebb39652c394ede26d20a4390fa7ede4505e68a6f72e4794d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-09T03:06:37Z",
+          "published_at": "2026-08-09T03:30:27Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-alianza-lima-vs-sport-boys-en-vivo-gratis-por-liga-1-a-que-hora-juegan-y-donde-ver-torneo-clausura-online-streaming-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2763,7 +2763,7 @@
           "body_text": "Revisa qué canales pasan el partido de Alianza Lima vs. Sport Boys y los horarios para ver el compromiso por la fecha 4 del Torneo Clausura de la Liga 1.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-alianza-lima-vs-sport-boys-en-vivo-gratis-por-liga-1-a-que-hora-juegan-y-donde-ver-torneo-clausura-online-streaming-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/EWEHOU6V7RFWPJTYKQ246HDS6Y.jpeg?auth=77644ff8847e356ebb39652c394ede26d20a4390fa7ede4505e68a6f72e4794d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-09T03:06:37Z",
+          "published_at": "2026-08-09T03:30:27Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-alianza-lima-vs-sport-boys-en-vivo-gratis-por-liga-1-a-que-hora-juegan-y-donde-ver-torneo-clausura-online-streaming-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3040,7 +3040,7 @@
           "body_text": "Revisa qué canales pasan el partido de Alianza Lima vs. Sport Boys y los horarios para ver el compromiso por la fecha 4 del Torneo Clausura de la Liga 1.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-alianza-lima-vs-sport-boys-en-vivo-gratis-por-liga-1-a-que-hora-juegan-y-donde-ver-torneo-clausura-online-streaming-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/EWEHOU6V7RFWPJTYKQ246HDS6Y.jpeg?auth=77644ff8847e356ebb39652c394ede26d20a4390fa7ede4505e68a6f72e4794d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-09T03:06:37Z",
+          "published_at": "2026-08-09T03:30:27Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-alianza-lima-vs-sport-boys-en-vivo-gratis-por-liga-1-a-que-hora-juegan-y-donde-ver-torneo-clausura-online-streaming-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3317,7 +3317,7 @@
           "body_text": "Revisa qué canales pasan el partido de Alianza Lima vs. Sport Boys y los horarios para ver el compromiso por la fecha 4 del Torneo Clausura de la Liga 1.",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-alianza-lima-vs-sport-boys-en-vivo-gratis-por-liga-1-a-que-hora-juegan-y-donde-ver-torneo-clausura-online-streaming-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/EWEHOU6V7RFWPJTYKQ246HDS6Y.jpeg?auth=77644ff8847e356ebb39652c394ede26d20a4390fa7ede4505e68a6f72e4794d&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-09T03:06:37Z",
+          "published_at": "2026-08-09T03:30:27Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-alianza-lima-vs-sport-boys-en-vivo-gratis-por-liga-1-a-que-hora-juegan-y-donde-ver-torneo-clausura-online-streaming-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4061,7 +4061,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Sommarrea hos Haglöfs – just nu upp till 40% på funktionsplagg!",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4125,11 +4125,11 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sköt mot lägenhet",
+          "title": "JUST NU: Slog sig in och sköt – jagas i natt",
           "summary": "Skottlossning i Trångsund under natten. Flera personer var hemma i lägenheten, men ingen person kom till skada.",
-          "body_text": "Under natten till söndag sköts flera skott genom en lägenhetsdörr i södra Stockholm. Flera personer var hemma – men ingen skadades. Nu pågår en stor insats i jakten på den misstänkta gärningspersonen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Enligt polisen har en lägenhet i Trångsund, Huddinge , under natten beskjutits med flera skott. – Det var flera personer i lägenheten, men ingen blev skadad, säger Ola Österling, polisens presstalesperson i Stockholm. På bilder från platsen syns det hur ett glas till portdörren i flerfamiljshuset är krossat. Polisen misstänker att gärningsmannen slog sönder glaset med en sten och sedan tog sig in i fastigheten. Det har under natten pågått en stor insats i södra Stockholm. Polisen uppger strax innan klockan 04 att den håller på att trappas ner. – Vi håller på att avsluta den yttre insatsen. Det är ett omfattande utredningsmaterial vi har hämtat in. Den tekniska undersökningen pågår fortfarande. Vi har säkrat flera spår i trappuppgången och förhört vittnen, säger Ola Österling vid polisen. Under natten har man hämtat in flera filmer från övervakningskameror i närheten av skjutningen. Polisen vill i nuläget inte kommentera hur många skott som har avlossats mer än att det är flera. Man har inte gripit någon efter händelsen och jobbar i nuläget utifrån hypotesen att det rör sig om en misstänkt gärningsman. – Vi har inte låst oss, men det flesta iakttagelser gäller en person, säger Ola Österling.",
+          "body_text": "Under natten till söndag sköts flera skott genom en lägenhetsdörr i södra Stockholm. Flera personer var hemma – men ingen skadades. Nu pågår en stor insats i jakten på den misstänkta gärningspersonen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Enligt polisen har en lägenhet i Trångsund, Huddinge , under natten beskjutits med flera skott. – Det var flera personer i lägenheten, men ingen blev skadad, säger Ola Österling, polisens presstalesperson i Stockholm. På bilder från platsen syns det hur ett glas till portdörren i flerfamiljshuset är krossat. Polisen misstänker att gärningsmannen slog sönder glaset med en sten och sedan tog sig in i fastigheten. Det har under natten pågått en stor insats i södra Stockholm. Polisen uppger strax innan klockan 04 att den håller på att trappas ner. – Vi håller på att avsluta den yttre insatsen. Det är ett omfattande utredningsmaterial vi har hämtat in. Den tekniska undersökningen pågår fortfarande. Vi har säkrat flera spår i trappuppgången och förhört vittnen, säger Ola Österling vid polisen. Under natten har man hämtat in flera filmer från övervakningskameror i närheten av skjutningen. Polisen vill i nuläget inte kommentera hur många skott som har avlossats mer än att det är flera. Man har inte gripit någon efter händelsen och jobbar i nuläget utifrån hypotesen att det rör sig om en misstänkt gärningsman. – Vi har inte låst oss, men de flesta iakttagelser gäller en person, säger Ola Österling.",
           "url": "https://www.expressen.se/nyheter/sverige/skot-flera-skott-genom-dorr-stor-insats-i-stockholm/",
-          "image_url": "https://static.bonniernews.se/images/cf/cc/cfccead3de3f4129891fd18a880dcc65/16x9/original.jpg",
+          "image_url": "https://static.bonniernews.se/images/dc/09/dc0947a779e24a9d8d466e1c59da5e17/16x9/original.png",
           "published_at": "2026-08-09T00:33:17Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/skot-flera-skott-genom-dorr-stor-insats-i-stockholm/",
           "play_mode": "page_iframe",
@@ -4149,9 +4149,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Detaljerna som avslöjar Kamala Harris nya plan",
+          "title": "Kamala Harris nya plan: Inte långt ifrån",
           "summary": "Kamala Harris har inte stängt dörren för presidentvalet 2028. USA-experten Jan Hallenberg ser henne som en trolig kandidat till att försöka ta över makten från nuvarande president Donald Trump.",
-          "body_text": "Kamala Harris har inte stängt dörren för presidentvalet 2028. USA-experten Jan Hallenberg ser henne som en trolig kandidat till att försöka ta över makten från nuvarande president Donald Trump. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Officiellt har hon inte bestämt sig. Men hennes resemönster avslöjar att hon nog inte är långt från ett ja, enligt Hallenberg. – Hon reser runt i landet och har olika möten och träffar människor. Hon rekar både mot väljare och demokratiska aktivister och finansiärer, säger han och fortsätter: – Det är möjligheten att skaffa sig stöd, möjligheten att vinna nomineringen i första hand och vinna presidentvalet i andra hand. Och att se till så hon får sponsorer som stöder hennes kampanj. Både väljarstöd och ekonomiskt stöd är två viktiga faktorer. Ju högre stöd hon känner, desto större är sannolikheten att hon ställer upp. – Samtidigt vet hon hur fruktansvärt arbetsamt det är. Joe Biden avgick ju med runt hundra dagar innan valet. Nu får man hålla på i femhundra dagar. Det blir fruktansvärt jobbigt alltså. – De är relativt goda. Hon är en demokrati i mitten och fick ändå röster under presidentvalet. Hallenberg pekar vidare på att Demokraterna lagt upp primärvalen på ett sätt som gynnar Harris men missgynnar de kandidater som står mer åt vänster. – South Carolina är först och först där är 50-55 procent av de demokratiska väljarna svarta väljare. Det är en bra chans att få ganska mycket röster där. Men Kamala Harris har flera potentiella konkurrenter. Bland annat nämns Kaliforniens guvernör Gavin Newsom, Marylands guvernör Wes Moore och Kentuckys guvernör Andy Beshear.",
+          "body_text": "Kamala Harris har inte stängt dörren för presidentvalet 2028. USA-experten Jan Hallenberg ser henne som en trolig kandidat till att försöka ta över makten från nuvarande president Donald Trump. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Officiellt har hon inte bestämt sig. Men hennes resemönster avslöjar att hon nog inte är långt från ett ja, enligt Hallenberg. – Hon reser runt i landet och har olika möten och träffar människor. Hon rekar både mot väljare och demokratiska aktivister och finansiärer, säger han och fortsätter: – Det är möjligheten att skaffa sig stöd, möjligheten att vinna nomineringen i första hand och vinna presidentvalet i andra hand. Och att se till så hon får sponsorer som stöder hennes kampanj. Både väljarstöd och ekonomiskt stöd är två viktiga faktorer. Ju högre stöd hon känner, desto större är sannolikheten att hon ställer upp. – Samtidigt vet hon hur fruktansvärt arbetsamt det är. Joe Biden avgick ju med runt hundra dagar innan valet. Nu får man hålla på i femhundra dagar. Det blir fruktansvärt jobbigt alltså. – De är relativt goda. Hon är en demokrat i mitten och fick ändå röster under presidentvalet. Hallenberg pekar vidare på att Demokraterna lagt upp primärvalen på ett sätt som gynnar Harris men missgynnar de kandidater som står mer åt vänster. – South Carolina är först och först där är 50-55 procent av de demokratiska väljarna svarta väljare. Det är en bra chans att få ganska mycket röster där. Men Kamala Harris har flera potentiella konkurrenter. Bland annat nämns Kaliforniens guvernör Gavin Newsom, Marylands guvernör Wes Moore och Kentuckys guvernör Andy Beshear.",
           "url": "https://www.expressen.se/nyheter/varlden/expert-kamala-harris-trolig-presidentkandidat/",
           "image_url": "https://static.bonniernews.se/images/f2/9b/f29b371e76e641a58d3b13ae53036e46/16x9/original.png",
           "published_at": "2026-08-08T20:43:11Z",
@@ -4177,7 +4177,7 @@
           "summary": "Ett barn har dött efter en olycka med en traktor på en gård i Svenljunga kommun. Polisen utreder vårdslöshet i trafik och vållande till annans död. – Av allt att döma så är det ju en tragisk olycka, säger Adam Isaksson Samara, vid polisen.",
           "body_text": "Ett barn har dött efter en olycka med en traktor på en gård i Svenljunga kommun. Polisen utreder vårdslöshet i trafik och vållande till annans död. – Av allt att döma så är det ju en tragisk olycka, säger Adam Isaksson Samara, vid polisen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ett barn har avlidit efter en olycka med traktor i södra Svenljunga kommun. Händelsen ska ha inträffat på en gård. Exakt vad som hänt är oklart, enligt polisen. – Det är det för tidigt att uttala sig om, men någon form av olycka har det ju varit med ett väldigt ungt barn och en traktor där barnet skadas allvarligt och avförs i ambulanshelikopter men avlider av sina skador, säger Adam Isaksson Samara, presstalesperson vid polisen i Väst. Polisen utreder vårdslöshet i trafik och vållande till annans död, men rubriceringen kan komma att ändras. – Det kan komma att justeras beroende på vad som framkommer i utredningen. Ingen person är hittills misstänkt för brott. Traktorn är tagen i beslag för teknisk undersökning. Finns det vittnen som har sett när det hände? – Det vet jag inte, men det har funnits personer på plats som vi har hört i alla fall.",
           "url": "https://www.expressen.se/nyheter/sverige/barn-dott-efter-olycka-med-traktor-svenljunga/",
-          "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
+          "image_url": "https://static.bonniernews.se/images/46/f4/46f4017f8e524c56b25e05547fd25490/16x9/original.jpg",
           "published_at": "2026-08-08T19:44:57Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/barn-dott-efter-olycka-med-traktor-svenljunga/",
           "play_mode": "page_iframe",
@@ -4360,7 +4360,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Under natten till söndag har det inträffat en skottlossning i Trångsund i Huddinge, skriver polisen på sin hemsida. Enligt polisen har en gärningsperson skjutit flera skett genom en lägenhetsdörr i ett flerfamiljshus. – Det var flera personer i lägenheten, men ingen blev skadad, säger Ola Österling, polisens presstalesperson i Stockholm. Polisen har under natten en större insats i de södra delarna av Stockholm. Man har efter händelsen inlett en förundersökning gällande mordförsök och grovt vapenbrott. Ukrainas president Volodymyr Zelenskyj säger att upp till 50 000 Nordkoreaner är på väg till Ryssland för att delta i kriget. – Nordkoreaner dyker upp på ryskt territorium då och då. Vi ser det, vi vet det. Först talade vi om hundratals, sedan tusentals, och nu har ett beslut fattats om att 30 000 till 50 000 nordkoreaner ska placeras ut på ryskt territorium, säger presidenten i en intervju under lördagen. Zelenskyj säger att Ukraina tidigare har hittat nordkoreanska robotar på ukrainskt territorium. Presidenten menar att landet skaffar sig erfarenhet av modern krigsföring och att det i förlängningen kan öka hotet mot Sydkorea. – Det är helt tydligt att Nordkorea kommer att fortsätta bygga upp sin erfarenhet av modern krigföring, få licenser från Ryssland och få alla slags militära verktyg därifrån, fortsätter Zelenskyj. Under lördagskvällen har Ryssland attackerat flera platser i Ukraina, däribland stadskärnan av Pavlohrad i Dnipro. Minst nio personer har skadats, vara fyra är barn enligt guvenören. ”Bland dem finns fyra barn. Flickor i åldrarna tre månader och tre år samt pojkar i åldrarna 5 och 6 år”, skriver guvernör Oleksandr Hanzha på Telegram. Tidigare under lördagen ska två personer ha dödats och två personer ha skadats i ett anfall med över 40 drönare, enligt guvenören. Ett barn har avlidit efter en olycka med traktor i Svenljunga kommun. Händelsen ska ha inträffat på en gård. Exakt vad som hänt är oklart, enligt polisen.",
+          "body_text": "Under natten vid 03-tiden larmades räddningstjänsten om en villabrand i Mölnlycke. Räddningstjänst, polis och ambulans är tillkallades. Enligt uppgifter brann det i huskonstruktionen och på en vind, och klockan 04 pågick släckningsarbetet fortfarande. – Det var en granne som ringde in. Huset är tomt, säger Bosse Florell, larm- och ledningsoperatör på räddningstjänsten. Vid 05.30 beräknades branden vara under kontroll. Det är än så länge oklart vad som orsakat branden. Det brinner i ett gatukök i Kilafors, Bollnäs på söndagsmorgonen. Ambulans och räddningstjänst är på plats. – Det ska vara öppna lågor ur taket som man försöker släcka, säger ledningsoperatören på SOS Alarm. Det finns inga uppgifter om personskador. En förbipasserande ska ha larmat räddningstjänsten vid 05-tiden. Under natten till söndag har det inträffat en skottlossning i Trångsund i Huddinge, skriver polisen på sin hemsida. Enligt polisen har en gärningsperson skjutit flera skett genom en lägenhetsdörr i ett flerfamiljshus. – Det var flera personer i lägenheten, men ingen blev skadad, säger Ola Österling, polisens presstalesperson i Stockholm. Polisen har under natten en större insats i de södra delarna av Stockholm. Man har efter händelsen inlett en förundersökning gällande mordförsök och grovt vapenbrott. Ukrainas president Volodymyr Zelenskyj säger att upp till 50 000 Nordkoreaner är på väg till Ryssland för att delta i kriget. – Nordkoreaner dyker upp på ryskt territorium då och då. Vi ser det, vi vet det. Först talade vi om hundratals, sedan tusentals, och nu har ett beslut fattats om att 30 000 till 50 000 nordkoreaner ska placeras ut på ryskt territorium, säger presidenten i en intervju under lördagen. Zelenskyj säger att Ukraina tidigare har hittat nordkoreanska robotar på ukrainskt territorium. Presidenten menar att landet skaffar sig erfarenhet av modern krigsföring och att det i förlängningen kan öka hotet mot Sydkorea.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
