@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:49:45Z",
+  "generated_at": "2026-08-10T01:16:48Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "0107e0b9785b",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Oljepriset klättrar",
+          "summary": "Nyheter från TV4: Oljepriset klättrar",
+          "body_text": "Oljepriset inleder veckan med uppgångar. Trots att förhandlingar påstås pågå har ännu inget avtal presenterats om Hormuzsundet, och i helgen har minst en tanker beskjutits i området. Någon timme in i handeln har Brentoljans oktobertermin ökat med cirka 1 procent, och kostar 84,36 dollar per fat, enligt CNBC .",
+          "url": "https://www.tv4.se/artikel/tt-260810-oljepris1-41761398/oljepriset-klattrar",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdllP4WT-39rW4/e20617d1281dce6c8335c73e8c6e53dd/Oljepriset_stiger._Arkivbild.",
+          "published_at": "2026-08-10T01:13:19Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260810-oljepris1-41761398/oljepriset-klattrar",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "689cc1c9b6be",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "6876e7ccfa3c",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "8ce28ffbac8c",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "9744a52745f8",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlrLdk7qCqOzg/ca77e682c0dfcbe30058ef3d383d5f01/Amazon_investerar_ytterligare_fyra_miljarder_dollar_i_AI-f_retaget_Anthropic._Arkivbild.",
           "published_at": "2026-08-08T09:51:52Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260808-usaamazon1-61046a10/amazon-bakom-enorm-gasanlaggning-for-datacenter",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "6c6196f0fdd1",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Svaga jobbsiffror gav bränsle till USA-börsen",
-          "summary": "Nyheter från TV4: Svaga jobbsiffror gav bränsle till USA-börsen",
-          "body_text": "Svaga jobbsiffror gav bränsle till USA-börsen I fredags 22:05 ・ Uppdaterad: I fredags 22:05 Börserna i USA tickade uppåt under veckans sista handelsdag. Aktiehandeln gynnades av förhoppningar om att svaga amerikanska jobbsiffror kan hålla styrräntan i schack. Breda S&P500-indexet steg 0,6 procent till en ny rekordnivå, Dow Jones industriindex steg 0,3 procent och tekniktunga Nasdaqs kompositindex steg 1,3 procent. Fredagens siffror från det amerikanska arbetsmarknadsdepartementet visar att antalet arbetstillfällen utanför jordbrukssektorn i USA minskade med 23 000 i juli. Ett betydligt svagare utfall än väntat, som kan påverka ledamöterna i amerikanska centralbanken att skjuta på kommande höjningar av styrräntan.",
-          "url": "https://www.tv4.se/artikel/tt-260807-usabors1-49a1a07c/svaga-jobbsiffror-gav-bransle-till-usa-borsen",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlLs2KsP7TlBU/47f2bb7c4095a240a72bc2dc0ad202d1/Det_anrika_borshuset_i_New_York.",
-          "published_at": "2026-08-07T20:05:48Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260807-usabors1-49a1a07c/svaga-jobbsiffror-gav-bransle-till-usa-borsen",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -327,7 +327,7 @@
           "body_text": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Publicerades: Lör 8 aug 19:30 Lör 8 aug • 15 min Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KLJJAdg/rapport/tis-4-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54642053/1785864845?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-10T23:59:00Z",
+          "published_at": "2026-08-11T23:59:00Z",
           "embed_url": "https://www.svtplay.se/video/KLJJAdg/rapport/tis-4-aug-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -351,7 +351,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 2 sek Publicerades: Lör 8 aug 22:35 Lör 8 aug • 4 min 44 sek Publicerades: Lör 8 aug 16:00 Lör 8 aug • 3 min 2 sek Publicerades: Fre 7 aug 22:30 4 min 32 sek Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8ZxxR41/rapport/idag-16-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54669638/1786284781?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-09T16:00:00Z",
+          "published_at": "2026-08-10T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/8ZxxR41/rapport/idag-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -375,7 +375,7 @@
           "body_text": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Publicerades: Lör 8 aug 19:30 Lör 8 aug • 15 min Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/ep55M3L/rapport/fre-7-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54666332/1786123465?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-09T06:30:00Z",
+          "published_at": "2026-08-10T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/ep55M3L/rapport/fre-7-aug-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -399,7 +399,7 @@
           "body_text": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Publicerades: Lör 8 aug 19:30 Lör 8 aug • 15 min Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8y22yV6/rapport/tor-6-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54657749/1786037087?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-09T06:30:00Z",
+          "published_at": "2026-08-10T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/8y22yV6/rapport/tor-6-aug-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -423,7 +423,7 @@
           "body_text": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Publicerades: Lör 8 aug 19:30 Lör 8 aug • 15 min Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/Kz77DVq/rapport/ons-5-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54650342/1785953176?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-09T06:30:00Z",
+          "published_at": "2026-08-10T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/Kz77DVq/rapport/ons-5-aug-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -447,7 +447,7 @@
           "body_text": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Publicerades: Lör 8 aug 19:30 Lör 8 aug • 15 min Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/KvvvE14/rapport/man-3-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54634421/1785777962?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-09T06:30:00Z",
+          "published_at": "2026-08-10T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/KvvvE14/rapport/man-3-aug-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -471,7 +471,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 2 sek Publicerades: Lör 8 aug 22:35 Lör 8 aug • 4 min 44 sek Publicerades: Lör 8 aug 16:00 Lör 8 aug • 3 min 2 sek Publicerades: Fre 7 aug 22:30 4 min 32 sek Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/89ddogP/rapport/ikvall-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54671249/1786303566?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-09T06:30:00Z",
+          "published_at": "2026-08-10T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/89ddogP/rapport/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -495,7 +495,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 2 sek Publicerades: Lör 8 aug 22:35 Lör 8 aug • 4 min 44 sek Publicerades: Lör 8 aug 16:00 Lör 8 aug • 3 min 2 sek Publicerades: Fre 7 aug 22:30 4 min 32 sek Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/8y22yzQ/rapport/fre-7-aug-22-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54667046/1786135341?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-09T06:30:00Z",
+          "published_at": "2026-08-10T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/8y22yzQ/rapport/fre-7-aug-22-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -519,7 +519,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 2 sek Publicerades: Lör 8 aug 22:35 Lör 8 aug • 4 min 44 sek Publicerades: Lör 8 aug 16:00 Lör 8 aug • 3 min 2 sek Publicerades: Fre 7 aug 22:30 4 min 32 sek Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/j7ddAqA/rapport/igar-22-50?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54671291/1786309511?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-08T22:50:00Z",
+          "published_at": "2026-08-09T22:50:00Z",
           "embed_url": "https://www.svtplay.se/video/j7ddAqA/rapport/igar-22-50?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -543,7 +543,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 2 sek Publicerades: Lör 8 aug 22:35 Lör 8 aug • 4 min 44 sek Publicerades: Lör 8 aug 16:00 Lör 8 aug • 3 min 2 sek Publicerades: Fre 7 aug 22:30 4 min 32 sek Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/ep55MPx/rapport/igar-22-35?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54668417/1786222361?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-08T22:35:00Z",
+          "published_at": "2026-08-09T22:35:00Z",
           "embed_url": "https://www.svtplay.se/video/ep55MPx/rapport/igar-22-35?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -567,7 +567,7 @@
           "body_text": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Publicerades: Lör 8 aug 19:30 Lör 8 aug • 15 min Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet Indikator Opinion: Tvivel på klimatkoppling • Indikator Opinion: Tvivel på klimatkoppling • Gängkriminella: Livstids fängelse i Irak • Likweli-apan: Svensk bakom unik upptäckt Mer om programmet Tjörn: Nya uppgifter om båtolyckan • Ungern: Rekordlåga vattennivåer • Semesterslut: Ångestladdat för många Mer om programmet Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/j7ddA2X/rapport/igar-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54670613/1786296292?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-08T19:30:00Z",
+          "published_at": "2026-08-09T19:30:00Z",
           "embed_url": "https://www.svtplay.se/video/j7ddA2X/rapport/igar-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -591,7 +591,7 @@
           "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 2 sek Publicerades: Lör 8 aug 22:35 Lör 8 aug • 4 min 44 sek Publicerades: Lör 8 aug 16:00 Lör 8 aug • 3 min 2 sek Publicerades: Fre 7 aug 22:30 4 min 32 sek Publiceras: Idag 06:30 Idag 06:30 • 3 min Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/eEqqPxn/rapport/igar-16-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54667730/1786198381?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-08T16:00:00Z",
+          "published_at": "2026-08-09T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/eEqqPxn/rapport/igar-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -632,7 +632,7 @@
           "body_text": "USA FÖRSVAR: Lager med luftvärn sinar • AI: Nytt virus ökar krav på reglering • SPANIEN: Välkomnar ryska turister Mer om programmet Vänsterpartiets terroristhyllningar: Partisekreteraren svarar på kritiken • Allt fler överlever stroke: Halvering av dödsfallen Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet GÄNGKRIMINELLA: Livstids fängelse i Irak • POLITIK: • NY AP-ART UPPTÄCKT: Unika bilder av svensk fotograf Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 38 min Allt du inte visste att du behövde veta om svensk politik",
           "url": "https://www.svtplay.se/video/jR5mdVn/aktuellt/tis-4-aug-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54642641/1785869624?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-10T23:59:00Z",
+          "published_at": "2026-08-11T23:59:00Z",
           "embed_url": "https://www.svtplay.se/video/jR5mdVn/aktuellt/tis-4-aug-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -656,7 +656,7 @@
           "body_text": "USA FÖRSVAR: Lager med luftvärn sinar • AI: Nytt virus ökar krav på reglering • SPANIEN: Välkomnar ryska turister Mer om programmet Vänsterpartiets terroristhyllningar: Partisekreteraren svarar på kritiken • Allt fler överlever stroke: Halvering av dödsfallen Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet GÄNGKRIMINELLA: Livstids fängelse i Irak • POLITIK: • NY AP-ART UPPTÄCKT: Unika bilder av svensk fotograf Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 38 min Allt du inte visste att du behövde veta om svensk politik",
           "url": "https://www.svtplay.se/video/egW5Dp1/aktuellt/fre-7-aug-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54666944/1786128902?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-10T21:00:00Z",
+          "published_at": "2026-08-11T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/egW5Dp1/aktuellt/fre-7-aug-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -680,7 +680,7 @@
           "body_text": "USA FÖRSVAR: Lager med luftvärn sinar • AI: Nytt virus ökar krav på reglering • SPANIEN: Välkomnar ryska turister Mer om programmet Vänsterpartiets terroristhyllningar: Partisekreteraren svarar på kritiken • Allt fler överlever stroke: Halvering av dödsfallen Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet GÄNGKRIMINELLA: Livstids fängelse i Irak • POLITIK: • NY AP-ART UPPTÄCKT: Unika bilder av svensk fotograf Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 38 min Allt du inte visste att du behövde veta om svensk politik",
           "url": "https://www.svtplay.se/video/eakYqL3/aktuellt/tor-6-aug-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54663716/1786099397?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-10T21:00:00Z",
+          "published_at": "2026-08-11T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/eakYqL3/aktuellt/tor-6-aug-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -704,7 +704,7 @@
           "body_text": "USA FÖRSVAR: Lager med luftvärn sinar • AI: Nytt virus ökar krav på reglering • SPANIEN: Välkomnar ryska turister Mer om programmet Vänsterpartiets terroristhyllningar: Partisekreteraren svarar på kritiken • Allt fler överlever stroke: Halvering av dödsfallen Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet GÄNGKRIMINELLA: Livstids fängelse i Irak • POLITIK: • NY AP-ART UPPTÄCKT: Unika bilder av svensk fotograf Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 38 min Allt du inte visste att du behövde veta om svensk politik",
           "url": "https://www.svtplay.se/video/e3dbMr9/aktuellt/ons-5-aug-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54650765/1785958556?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-10T21:00:00Z",
+          "published_at": "2026-08-11T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/e3dbMr9/aktuellt/ons-5-aug-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -728,7 +728,7 @@
           "body_text": "USA FÖRSVAR: Lager med luftvärn sinar • AI: Nytt virus ökar krav på reglering • SPANIEN: Välkomnar ryska turister Mer om programmet Vänsterpartiets terroristhyllningar: Partisekreteraren svarar på kritiken • Allt fler överlever stroke: Halvering av dödsfallen Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet GÄNGKRIMINELLA: Livstids fängelse i Irak • POLITIK: • NY AP-ART UPPTÄCKT: Unika bilder av svensk fotograf Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 38 min Allt du inte visste att du behövde veta om svensk politik",
           "url": "https://www.svtplay.se/video/82dbQ4Q/aktuellt/man-3-aug-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54635087/1785785771?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-10T21:00:00Z",
+          "published_at": "2026-08-11T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/82dbQ4Q/aktuellt/man-3-aug-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -886,7 +886,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Idag 17:55",
           "summary": "Senaste nytt i sportvärlden.",
-          "body_text": "Publicerades: Igår 17:55 Igår 17:55 • 4 min 57 sek Senaste nytt i sportvärlden. Mer om programmet Publicerades: Lör 8 aug 17:55 Lör 8 aug • 5 min Publicerades: Sön 2 aug 17:55 4 min 54 sek Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 17:55 Igår 17:55 • 4 min 57 sek Senaste nytt i sportvärlden. Mer om programmet Publicerades: Lör 8 aug 17:55 Lör 8 aug • 5 min Publicerades: Sön 2 aug 17:55 4 min 54 sek Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/8vvv6Ak/sportnytt/idag-17-55",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54669986/1786291986?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-09T15:55:00Z",
@@ -910,7 +910,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Igår 19:45",
           "summary": "AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/8y22ZVk/sportnytt/igar-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54668822/1786263874?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-08T17:45:00Z",
@@ -934,7 +934,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Igår 17:55",
           "summary": "Senaste nytt i sportvärlden.",
-          "body_text": "Publicerades: Igår 17:55 Igår 17:55 • 4 min 57 sek Senaste nytt i sportvärlden. Mer om programmet Publicerades: Lör 8 aug 17:55 Lör 8 aug • 5 min Publicerades: Sön 2 aug 17:55 4 min 54 sek Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 17:55 Igår 17:55 • 4 min 57 sek Senaste nytt i sportvärlden. Mer om programmet Publicerades: Lör 8 aug 17:55 Lör 8 aug • 5 min Publicerades: Sön 2 aug 17:55 4 min 54 sek Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/Kwqq9xq/sportnytt/igar-17-55",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54668105/1786205496?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-08T15:55:00Z",
@@ -958,7 +958,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 7 aug 21:25",
           "summary": "Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/eakkGY6/sportnytt/fre-7-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54666959/1786130931?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-07T19:25:00Z",
@@ -982,7 +982,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 6 aug 21:25",
           "summary": "Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/e3ddzbd/sportnytt/tor-6-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54658547/1786045989?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-06T19:25:00Z",
@@ -1006,7 +1006,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 5 aug 21:25",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/jR55nmJ/sportnytt/ons-5-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54650810/1785959721?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-05T19:25:00Z",
@@ -1030,7 +1030,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 4 aug 21:25",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/82ddEbP/sportnytt/tis-4-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54642815/1785873151?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-04T19:25:00Z",
@@ -1054,7 +1054,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 3 aug 21:25",
           "summary": "Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/jn445qD/sportnytt/man-3-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54635162/1785786959?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-03T19:25:00Z",
@@ -1078,7 +1078,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 1 aug 19:45",
           "summary": "Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/Kz77yVA/sportnytt/lor-1-aug-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54626315/1785609119?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-01T17:45:00Z",
@@ -1102,7 +1102,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 31 jul 21:25",
           "summary": "Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/e7ddpVP/sportnytt/fre-31-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54625076/1785526676?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-31T19:25:00Z",
@@ -1126,7 +1126,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 30 jul 21:25",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/8p55QEV/sportnytt/tor-30-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54617018/1785441386?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-30T19:25:00Z",
@@ -1150,7 +1150,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 29 jul 21:25",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Lör 8 aug 19:45 Lör 8 aug • 13 min AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Fifa drar tillbaka förslaget om att sälja andelar i fotbolls-VM • Delad pott på Hisingen mellan Häcken och Kalmar • Svenskorna tappade under \"Moving day\" i Women's Open Mer om programmet Protesterna mot Gianni Infantinos planer att sälja delar av fotbolls-VM fortsätter • Så har nykomlingen Kalmar FF lyckats med sina rekryteringar • Svenska truppen till Friidrotts-EM uttagen Mer om programmet Publiceras: Idag 06:45 Idag 06:45 • 4 min Personliga möten med svenska idrottsstjärnor Sportreportern Bernt Lagergrens mest minnesvärda möten och historier från sina 32 år på SVT",
           "url": "https://www.svtplay.se/video/Ky22Znr/sportnytt/ons-29-jul-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54609101/1785354931?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-07-29T19:25:00Z",
@@ -1511,6 +1511,30 @@
           "sort_order": 4
         },
         {
+          "id": "e29f7d80fa40",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Europa under press - publikens frågor",
+          "summary": "Efter USA:s agerande mot Danmark om Grönland har trycket ökat på Europa och de nordiska länderna. Säkerhetskonferensen i München samlar stats- och regeringschefer i en tid när experter pekar på stora säkerhetsmässiga omvälvningar. SVT Nyheter special med samlad expertis i studion svarar på publikens frågor.",
+          "body_text": "Sveriges politiker som du aldrig har sett dem förut Istidslarmen, forskarbråken och en oväntad upptäckt Allt du inte visste att du behövde veta om svensk politik",
+          "url": "https://www.svtplay.se/video/KBMYQ1v/europa-under-press-publikens-fragor",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/53786288/1770971041?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-02-15T19:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/KBMYQ1v/europa-under-press-publikens-fragor",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
           "id": "55f34127a308",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
@@ -1532,7 +1556,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "98e8c109c790",
@@ -1556,7 +1580,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "288fa94aee7e",
@@ -1573,30 +1597,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/52675827/1744629817?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2025-05-05T18:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KzVBVEa/smartare-an-hjarnan-eftersnack",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "e29f7d80fa40",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Europa under press - publikens frågor",
-          "summary": "Efter USA:s agerande mot Danmark om Grönland har trycket ökat på Europa och de nordiska länderna. Säkerhetskonferensen i München samlar stats- och regeringschefer i en tid när experter pekar på stora säkerhetsmässiga omvälvningar. SVT Nyheter special med samlad expertis i studion svarar på publikens frågor.",
-          "body_text": "Sveriges politiker som du aldrig har sett dem förut Istidslarmen, forskarbråken och en oväntad upptäckt Allt du inte visste att du behövde veta om svensk politik",
-          "url": "https://www.svtplay.se/video/KBMYQ1v/europa-under-press-publikens-fragor",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53786288/1770971041?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": null,
-          "embed_url": "https://www.svtplay.se/video/KBMYQ1v/europa-under-press-publikens-fragor",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -2041,6 +2041,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "7632120c61fe",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Evidence that South African special forces murdered top detective shared with BBC",
+          "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+          "body_text": "Senior police detective Frans Mathipa had been fighting for four months to gain access to a crucial piece of information in the case he was working on. Finally, he was told, it was going to come his way. But he feared his pursuit of it could cost him his life. Two days later, his car was found overturned - he had been shot dead while driving. Now seven members of South Africa's special forces, and one military police officer, have been charged with murdering Lt Col Mathipa, a highly respected officer, in August 2023. They deny the charges. There has been no date scheduled for their trial, and there are concerns it will never go ahead, because three of the men charged with his murder have refused to comply with a court order revoking their bail. They are still working for the army's special forces, and one of them has been promoted. The BBC World Service has been given exclusive access to the prosecution case against all the men. The case has caused consternation in one of Africa's most robust democracies, with fears the country's military is significantly overreaching its mandate. We asked the South African army whether it was responsible for Mathipa's killing. It did not respond. Several hundred pages of secret police and court documents, shared with the BBC, set out the evidence suggesting special forces killed Mathipa - who worked for an elite police unit known as \"The Hawks\". We have also interviewed key sources in the police investigation - South Africa's former head of counter-terrorism in The Hawks; Mathipa's commanding officer; and Mathipa's family - to build the most comprehensive public account of the events leading up to the detective's death. It presents a compelling case that South Africa's special forces are responsible for his murder. In particular, police documents show that the vehicle that trailed Mathipa just before he was shot was registered to a front company for the special forces. And that tracking data found in that vehicle puts it at the scene of the shooting.",
+          "url": "https://www.bbc.com/news/articles/cly8djwgem0o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg",
+          "published_at": "2026-08-09T23:05:29Z",
+          "embed_url": "https://www.bbc.com/news/articles/cly8djwgem0o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "60d4b9e073a5",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2062,7 +2086,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "efdb01e9f90d",
@@ -2086,7 +2110,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "1c7cc1c116b5",
@@ -2110,7 +2134,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "46c5d4f9516b",
@@ -2127,30 +2151,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f4de/live/4cc53a50-9404-11f1-a10f-45ed743c6e4b.jpg",
           "published_at": "2026-08-09T15:34:04Z",
           "embed_url": "https://www.bbc.com/news/articles/cgjeznj6979o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "ef796183d179",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-          "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
-          "body_text": "The operator of a boat that overturned near the Statue of Liberty, killing a woman and a baby, has been arrested and charged with reckless endangerment, New York police said. Officials said a large search and rescue operation was launched after the incident near New York Harbour on Saturday night. Twelve people who were initially rescued from the water are all reported to be in stable condition. New York police divers later found a 27-year-old woman and a five-month-old girl, who were transported to a nearby hospital where they later died. The names of passengers and the specific cause of the incident have not been released by officials. Around 22:25 local time (03:25 BST), police received a 911 call reporting an overturned boat in the waters near Liberty Island, which houses the iconic statue. A nearby tour operator Sea the City saw the capsized boat and helped pull 11 people from the water, the company's founder Adam Schwartz said according to the BBC's US partner CBS News. The rescue involved two Coast Guard boats, four fire department boats, two police boats and a police helicopter, the USCG said. The investigation into the incident is ongoing, officials said. The boat's operator, a 46-year-old Manhattan resident, faces 13 counts of reckless endangerment, officials said. Coast Guard investigators are also determining whether the boat was illegally chartered. An illegal charter is any passenger-for-hire vessel operation that does not have required credentials, safety equipment, and certificate of inspection. \"We are extremely grateful for the heroic, swift actions of our partner agencies and Good Samaritan vessel who assisted in rescuing survivors from the water,\" said Capt Doreen McCarthy of the USCG.",
-          "url": "https://www.bbc.com/news/articles/c935w1d05d7o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg",
-          "published_at": "2026-08-09T15:19:03Z",
-          "embed_url": "https://www.bbc.com/news/articles/c935w1d05d7o",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -2362,9 +2362,9 @@
           "source_kind": "mixed",
           "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
           "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-          "body_text": "A state of emergency has been declared after thousands of people were forced to flee their homes as a fast-moving wildfire spread rapidly in western Canada, doubling in size since it was first detected on Friday. The Bald Range fire now occupies more than 53 sq miles (136 sq km) across Summerland, Peachland and other areas of British Columbia, according to the BC Wildfire Service. \"We have to brace ourselves for the worst,\" Summerland Mayor Doug Holmes told Reuters. The entire Summerland area has been forced to evacuate along with thousands of others in nearby areas. Officials said the flames were so high that they had created their own weather systems , which creates lightning. British Columbia Premier David Eby told a news conference on Saturday that one fire official had likened the fire to \"a bomb going off\". \"Homes have been lost, and properties have been destroyed. Some people became trapped as conditions changed very quickly, and needed to be rescued,\" the premier said. A state of emergency allows the provincial government access to special powers including travel restrictions and supply protections to prevent price gouging, and extra resources to coordinate rescue work. Summerland, which has a population of about 12,000 people, has been one of the hardest hit areas and forced to evacuate. So were residents in parts of Peachland, which is home to about 6,500 residents. \"We have been on evacuation alert many times,\" said Earl Kurz, a Peachland resident of 30 years. \"This is the first time we were actually evacuated.\" Kurz was on a boat with his wife in Okanagan Lake on Friday afternoon, when he saw clear blue skies rapidly turn hazy grey. By nightfall, dark clouds of smoke above a raging wildfire came into view. It was headed towards Kurz. \"We watched it from the lake,\" he said. \"It was unreal.\" Hours later, police knocked on his door and ordered him and his wife to evacuate.",
+          "body_text": "A state of emergency has been declared after thousands of people were forced to flee their homes as a fast-moving wildfire spread rapidly in western Canada, doubling in size since it was first detected on Friday. The Bald Range fire now occupies more than 53 sq miles (136 sq km) across Summerland, Peachland and other areas of British Columbia, according to the BC Wildfire Service. \"We have to brace ourselves for the worst,\" Summerland Mayor Doug Holmes told Reuters. The entire Summerland area has been forced to evacuate along with thousands of others in nearby communities. Officials said the flames were so high that they had created their own weather systems , which creates lightning. Keegan Radomski who lives in Summerland said she evacuated her home just moments before the fire reached her property. In a video she shared with the BBC, burning tree tops are seen just over the hill beyond the road where Radomski made her escape. \"This is right by our house,\" she said in the video, her voice trembling. Radomski said she has been unable to return since she fled with seven others on Friday. Now they're anxiously waiting on word whether they will still have a home to return to. She said some neighbours who stayed behind have reported many homes on their street burned down. \"There are homes that have been confirmed gone, and a lot are in the area near our home. So, we're pretty scared,\" she said. \"The uncertainty is scary.\" Residents that spoke to the BBC described the wildfire as one that intensified dramatically with little warning before it reached its current size of 13,618 hectares (33,650 acres). British Columbia Premier David Eby told a news conference on Saturday that one fire official had likened the fire to \"a bomb going off\". \"Homes have been lost, and properties have been destroyed. Some people became trapped as conditions changed very quickly, and needed to be rescued,\" the premier said.",
           "url": "https://www.bbc.com/news/articles/cx25dkwk3e3o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
           "published_at": "2026-08-08T18:13:49Z",
           "embed_url": "https://www.bbc.com/news/articles/cx25dkwk3e3o",
           "play_mode": "iframe",
@@ -2373,7 +2373,7 @@
             "World",
             "BBC"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 13
         }
       ]
@@ -4293,12 +4293,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Wilma, 19, drabbades av magsmärtor – tarmen dog: ”Som en feberdröm”",
-          "summary": "Wilma Marsell, 19, kom till sjukhuset med magsmärtor – fick ta bort en meter död tarm. Nu kritiserar hon vården för den sena diagnosen av tarmvred.",
-          "body_text": "Det som avfärdades som magsjuka slutade med att Wilma tvingades operera bort över en meter av sin tarm. – Det var som en feberdröm, säger 19-åringen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Är du 18–25 år? Nu kan du läsa Expressen gratis i ett år – avslutas automatiskt. Klicka här! I juni i år drabbades Wilma Marsell av plötsliga magsmärtor. 19-åringen var på väg från Filipstad till Karlskogafestivalen för att möta upp några kompisar, men tvingades stanna vid vägkanten. – Det liksom krampade i hela buken, men framför allt höger om naveln, säger Wilma. När smärtan blev värre ringde hon 112, något hon också berättat för NWT , som var först med att uppmärksamma händelsen. Wilma, 19, drabbades av svåra magsmärtor. Efter över ett dygn på sjukhuset upptäcktes ett svårt tarmvred. En meter av tarmen hade svartnat och fick opereras bort. Nu kräver hon svar – och sjukhuset vill utreda fallet. Precis när ambulansen kom kräktes Wilma. Sjukvårdspersonalen bedömde att det rörde sig om magsjuka. Men det skulle visa sig vara något betydligt allvarligare.",
+          "title": "Sverige I går 18.45 Wilma, 19, fick operera bort en meter av tarmen",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/wilma-19-fick-operera-bort-en-meter-av-tarmen-/",
-          "image_url": "https://static.bonniernews.se/images/2a/82/2a826de9706e4d788b34d65144c4a51d/16x9/original.png",
-          "published_at": "2026-08-09T16:45:47Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/wilma-19-fick-operera-bort-en-meter-av-tarmen-/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4306,7 +4306,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 8
         },
         {
@@ -4317,12 +4317,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Brand härjade på skärgårdsö",
-          "summary": "Det brinner på flera platser i landet. Risken nya skogsbränder är extremt stor, enligt SMHI. – Man låter bli och elda, säger Alexander Westerberg från Storstockholms brandförsvar.",
-          "body_text": "Risken nya skogsbränder är extremt stor, enligt SMHI. – Man låter bli och elda, säger Alexander Westerberg från Storstockholms brandförsvar. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Under söndagen brinner det på flera platser runtom i Sverige. I Stockholmsområdet kämpar räddningstjänsten på två platser. På skärgårdsön Höga Fladkläppen utanför Runmarö brinner ett område på 2 000 kvadratmeter, uppger Thomas Skans på räddningstjänsten. – Jag har inte fått något tydligt att det ska vara under kontroll, sa han vid 16.30-tiden. Branden har fått ”ordentlig rökutveckling som följd”, säger han. Polis är på plats och bistår räddningstjänsten, dirigerar bort båtar bland annat. Ön där det brinner ska vara obebodd och det finns inga rapporter om personskador. Hur branden uppstod är oklart. Tidigare under eftermiddagen startade en brand vid Rudasjön i Haninge kommun söder om Stockholm. Där brinner ett område på cirka 4 000 kvadratmeter. – Vi har flera resurser på plats och har fått förstärkning från myndigheten för civilt försvar i form av två helikoptrar som jobbar på platsen just nu, säger Ludwig Taylor, vakthavande befäl vid Södertörns brandförsvar, till TT. En polisanmälan om allmänfarlig vårdslöshet har upprättats med anledning av branden i Haninge, men man har ingen misstänkt gärningsman. SMHI bedömer att risken för skogsbrand i området runt Stockholm och söderut längs med östkusten är extremt stor. Det är stor risk att brand uppstår vid exempelvis eldning men även att branden sedan sprider sig snabbt, enligt SMHI. Och det är ”väldigt torrt” i skog och mark just nu, säger Alexander Westerberg från Storstockholms brandförsvar. – Brandrisken är extremt hög just nu, säger han.",
+          "title": "Sverige I går 17.27 Flera skogsbränder – ”extremt hög brandrisk”",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/flera-skogsbrander-extremt-hog-brandrisk/",
-          "image_url": "https://static.bonniernews.se/images/df/86/df86237559c34acda25c998489618cee/16x9/original.jpg",
-          "published_at": "2026-08-09T15:27:41Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/flera-skogsbrander-extremt-hog-brandrisk/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4330,7 +4330,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4346,35 +4346,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Den utpekade kartelledaren Daniel Kinahan har häktats, rapporterar the Guardian. Kinahan flydde Irland 2016 efter ett misslyckat mordförsök på honom. Han misstänks för att vara ledaren av landets största kriminella gäng Kinahan-Kartellen och för grov organiserad brottslighet. Kinahan greps i Dubai och anlände under söndagen till Dublin i den irländska regeringens privatjet. Kinahan är även boxningspromotor och har bland annat representerat Tyson Fury. Kanske kommer två kvinnliga demokrater kämpa om kandidaturen för demokraterna i 2028 års presidentval. Tecken finns att Kamla Harris förbereder sin kandidatur och nu gläntar även den amerikanska vänsterdemokraten Alexandria Ocasio-Cortez (AOC) på den dörren. Det rapporterar Axios. I delstaten New Hampshire har kongressledamoten det största stödet av samtliga demokrater om hon väljer att ställa upp i presidentvalet 2028, visar en oppinionsundersökning. – Jag fokuserar på att vinna mellanårsvalet (i november). Men jag har inte uteslutit möjligheten och är mycket tacksam för det stora stöd jag här därute, säger kongressledamoten Alexandria Ocasio-Cortez. Hon öppnar även för att försöka ersätta etablissemangsdemokraten Chuck Schumer för att bli en av delstaten New Yorks två senatorer.– Vid detta laget är allt möjligt. Vi ur generationen Millennials är inte snorungar längre. Vi är vuxna människor med bolån och barn, och vi kommer att bli avgörande i vallokalerna, säger hon. I en intervju med Dagens Nyheter säger Socialdemokraternas partiledare Magdalena Andersson att hon haft samtal med Vänsterpartiets ledare Nooshi Dadgostar efter veckans avslöjanden om Vänsterpartiets brevkampanj. Partiet \"behöver göra en rejäl resa\" om partiet fortsatt ska vara aktuellt för samarbete med Socialdemokraterna, säger Andersson. – Det är uppenbart att Vänsterpartiet inte har tillräcklig koll. Flera personbilar har krockat på E4 vid Fullerö utanför Uppsala, i riktning mot Stockholm. Räddningstjänsten är på plats och olyckan har stor påverkan på trafiken. Kosovo tar ner ukrainska flaggor efter president Volodymir Zelenskyjs ord på en pressträff tillsammans med sin serbiske motsvarighet, rapporterar Omni med hänvisning till Ukrainska Pravda. Zelenskyj ska ha sagt att han står fast vid att inte erkänna Kosovo som självständig stat.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
