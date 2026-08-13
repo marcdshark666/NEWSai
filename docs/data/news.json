@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:09:27Z",
+  "generated_at": "2026-08-13T21:06:53Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d811f14687af",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Nytt rekord på Wall Street",
+          "summary": "Nyheter från TV4: Nytt rekord på Wall Street",
+          "body_text": "Breda S&P 500-index slog nytt rekord vid stängning. Arkivbild. Ett ledande index på Wall Street nådda nya höjder under torsdagens börshandel. Börsens breda index, S&P 500, lyfte 0,7 procent till en ny rekordnivå vid stängning, enligt Bloomberg. Dow Jones industriindex och tekniktunga Nasdaqs kompositindex ökade 0,1 respektive 0,8 procent. Uppgången kommer i kölvattnet av nya inflationssiffror från USA:s arbetsmarknadsdepartement i form av producentpriserna, som i USA steg 4,7 procent i juli. Det var en lägre ökningstakt än i juni och under analytikernas snittförväntningar, som var att de skulle stiga med 4,9 procent. Oljepriset har sjunkit de senaste dagarna. Vid USA-börsens stängning kostade ett fat Nordsjöolja drygt 87 dollar, att jämföra med omkring 89 dollar för två dagar sedan.",
+          "url": "https://www.tv4.se/artikel/tt-260813-usabors1-478c142f/nytt-rekord-pa-wall-street",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlzGoDj_oxHxs/81df829de7cda4a113d7d220756a72a5/Breda_S_P500-index_slog_nytt_rekord_vid_stangning._Arkivbild.",
+          "published_at": "2026-08-13T20:13:23Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260813-usabors1-478c142f/nytt-rekord-pa-wall-street",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "3c884d6b74a1",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "7a25cf3f056e",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "b3499be89826",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "729c598f7aef",
@@ -120,30 +144,6 @@
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2026-08-13T12:48:52Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260813-nederlexplo1-b484441f/dodlig-explosion-pa-gunvor-anlaggning",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "0114b07436d9",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Oväntat låga producentpriser i USA",
-          "summary": "Nyheter från TV4: Oväntat låga producentpriser i USA",
-          "body_text": "USA:s arbetsmarknadsdepartement publicerar producentpriser för juli. Arkivbild. Producentpriserna i USA steg 4,7 procent i juli jämfört med motsvarande månad i fjol, visar månadssiffror från USA:s arbetsmarknadsdepartement. Det var en lägre ökningstakt än i juni, då producentpriserna steg 5,5 procent i årstakt. Analytikerna hade räknat med att producentpriserna skulle stiga med 4,9 procent i juli, enligt Bloombergs sammanställning av prognoser.",
-          "url": "https://www.tv4.se/artikel/tt-260813-producentpriserusa1-e3f1ee8c/ovantat-laga-producentpriser-i-usa",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlvuqxgfZ4Q9M/c00213e5862340ce48474c38dc8cc9b7/USA_s_arbetsmarknadsdepartement_publicerar_producentpriser_for_juli._Arkivbild.",
-          "published_at": "2026-08-13T12:46:32Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260813-producentpriserusa1-e3f1ee8c/ovantat-laga-producentpriser-i-usa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Fönsterruta krossades inifrån • Två dörrar stod vidöppna Pojkvännens egna ord: Tänker på hennes liv – som jag tog bort Oppositionen hoppas riva upp lagstiftning efter val Strömmer: ”En glädjens dag för brottsoffer”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Samtidigt har Ukraina befriat flera byar vid fronten: ”Genomförts med precision” Experten om unika attackerna: ”Flyttar kriget i rysk riktning” Säkerhetstjänsten varnar för ryska ”honungsfällor” i kriget Fönsterruta krossades inifrån • Två dörrar stod vidöppna Pojkvännens egna ord: Tänker på hennes liv – som jag tog bort",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -311,7 +311,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 11,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -339,30 +339,6 @@
           "sort_order": 0
         },
         {
-          "id": "983611352103",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ikväll 22:55",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
-          "url": "https://www.svtplay.se/video/j3ddAMr/rapport/ikvall-22-55",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-13T20:55:00Z",
-          "embed_url": "https://www.svtplay.se/video/j3ddAMr/rapport/ikvall-22-55",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
           "id": "d3fa5265ce22",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -375,7 +351,7 @@
           "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
           "url": "https://www.svtplay.se/video/j3ddAko/rapport/ikvall-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54705680/1786642002?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-12T19:30:00Z",
+          "published_at": "2026-08-14T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/j3ddAko/rapport/ikvall-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -384,7 +360,223 @@
             "SVT Play"
           ],
           "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "58d8db603ec4",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Tis 11 aug 19:30",
+          "summary": "Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike",
+          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
+          "url": "https://www.svtplay.se/video/e2ddAmy/rapport/tis-11-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54686864/1786469042?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/e2ddAmy/rapport/tis-11-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
           "sort_order": 2
+        },
+        {
+          "id": "2bacbcb8e05c",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Mån 10 aug 19:30",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
+          "url": "https://www.svtplay.se/video/Kn44PD3/rapport/man-10-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54678212/1786385061?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/Kn44PD3/rapport/man-10-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "cec1a62a7417",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Sön 9 aug 19:30",
+          "summary": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap",
+          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
+          "url": "https://www.svtplay.se/video/j7ddA2X/rapport/son-9-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54670613/1786296292?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/j7ddA2X/rapport/son-9-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "eda0c08d8739",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Lör 8 aug 19:30",
+          "summary": "Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar",
+          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
+          "url": "https://www.svtplay.se/video/jMyyEXp/rapport/lor-8-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54668198/1786209933?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jMyyEXp/rapport/lor-8-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "96f27d942361",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Tor 6 aug 19:30",
+          "summary": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar",
+          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
+          "url": "https://www.svtplay.se/video/8y22yV6/rapport/tor-6-aug-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54657749/1786037087?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/8y22yV6/rapport/tor-6-aug-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "3bdcdaff43e8",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 22:55",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/j3ddAMr/rapport/ikvall-22-55?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-13T20:55:00Z",
+          "embed_url": "https://www.svtplay.se/video/j3ddAMr/rapport/ikvall-22-55?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "3d6d528436b3",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/86dqmnE/rapport/idag-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54700517/1786606991?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-13T09:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/86dqmnE/rapport/idag-09-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "db3a06d11dc7",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 09:00",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/8p55RRX/rapport/idag-09-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54699875/1786605706?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-13T09:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8p55RRX/rapport/idag-09-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 9
+        },
+        {
+          "id": "e4f2e242a510",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 08:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/8vvvNxL/rapport/idag-08-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54699254/1786603511?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-13T08:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/8vvvNxL/rapport/idag-08-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 10
         },
         {
           "id": "313ea572b264",
@@ -408,175 +600,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "58d8db603ec4",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Tis 11 aug 19:30",
-          "summary": "Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike",
-          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
-          "url": "https://www.svtplay.se/video/e2ddAmy/rapport/tis-11-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54686864/1786469042?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-12T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/e2ddAmy/rapport/tis-11-aug-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "2bacbcb8e05c",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Mån 10 aug 19:30",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
-          "url": "https://www.svtplay.se/video/Kn44PD3/rapport/man-10-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54678212/1786385061?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-12T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/Kn44PD3/rapport/man-10-aug-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "cec1a62a7417",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Sön 9 aug 19:30",
-          "summary": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap",
-          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
-          "url": "https://www.svtplay.se/video/j7ddA2X/rapport/son-9-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54670613/1786296292?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-12T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/j7ddA2X/rapport/son-9-aug-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "eda0c08d8739",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Lör 8 aug 19:30",
-          "summary": "Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar",
-          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
-          "url": "https://www.svtplay.se/video/jMyyEXp/rapport/lor-8-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54668198/1786209933?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-12T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/jMyyEXp/rapport/lor-8-aug-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "96f27d942361",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Tor 6 aug 19:30",
-          "summary": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar",
-          "body_text": "Extrariksdag: Ja till omdiskuterade förslag • Tesla mot IF Metall: Strejken avbruten • Streaming: Kostnaderna ökar Mer om programmet Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
-          "url": "https://www.svtplay.se/video/8y22yV6/rapport/tor-6-aug-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54657749/1786037087?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-12T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/8y22yV6/rapport/tor-6-aug-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "55f34127a308",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sommarjazz: Brad Mehldau",
-          "summary": "Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024)",
-          "body_text": "Konsert med den klassiska musikens mest kända verk Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024) Brad Mehldau Trio at Nancy Jazz Pulsations 2024",
-          "url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52899126/1750165744?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-07-11T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "98e8c109c790",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Mozart: Jupitersymfonin",
-          "summary": "Mozarts sista symfoni, nr 41 i C-dur KV 551, den som ofta kallas för Jupitersymfonin i ett framförande av norska radioorkestern KORK, under ledning av den tjeckiske dirigenten Petr Popelka. (Norge, 2024)",
-          "body_text": "Konsert med den klassiska musikens mest kända verk Mozarts sista symfoni, nr 41 i C-dur KV 551, den som ofta kallas för Jupitersymfonin i ett framförande av norska radioorkestern KORK, under ledning av den tjeckiske dirigenten Petr Popelka. (Norge, 2024) Jupitersymfonien av Mozart med Petr Popelka",
-          "url": "https://www.svtplay.se/video/KnDAZ2Y/mozart-jupitersymfonin",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52752179/1746522711?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-05-09T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/KnDAZ2Y/mozart-jupitersymfonin",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 10
+          "sort_order": 11
         }
       ]
     },
@@ -620,6 +644,30 @@
           "sort_order": 0
         },
         {
+          "id": "dc6abb9f2c17",
+          "source_id": "svt-aktuellt",
+          "source_name": "Aktuellt",
+          "provider": "SVT Play",
+          "category": "Fordjupning",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Aktuellt – Ikväll 21:00",
+          "summary": "En månad till valet: Tidöförslagen vann • Kristersson och Andersson: Vem får bilda regering? • Nigel Farage: Omval mot soptunna • Vattenbrist och kärnkraft: Hur påverkar varmare klimat?",
+          "body_text": "En månad till valet: Tidöförslagen vann • Kristersson och Andersson: Vem får bilda regering? • Nigel Farage: Omval mot soptunna • Vattenbrist och kärnkraft: Hur påverkar varmare klimat? Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 38 min En månad till valet. Vem vinner och vem förlorar på Socialdemokraternas och Sverigedemokraternas ekonomiska politik? Debatt i Aktuellt mellan Mikael Damberg (S) och Oscar Sjöstedt (SD) Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Säpo:: Rysk spionoperation har stoppats • Ekonomisk politik: Dadgostar mot Svantesson • Ryssland: Antikrigsparti stoppas Mer om programmet USA FÖRSVAR: Lager med luftvärn sinar • AI: Nytt virus ökar krav på reglering • SPANIEN: Välkomnar ryska turister Mer om programmet Vänsterpartiets terroristhyllningar: Partisekreteraren svarar på kritiken • Allt fler överlever stroke: Halvering av dödsfallen Mer om programmet Allt du inte visste att du behövde veta om svensk politik",
+          "url": "https://www.svtplay.se/video/jqPPNg6/aktuellt/ikvall-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54706628/1786647253?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T21:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jqPPNg6/aktuellt/ikvall-21-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Fordjupning",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "a4565dfefeda",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
@@ -641,7 +689,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "408f3bb98b4a",
@@ -665,7 +713,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "2aa207fcf391",
@@ -689,7 +737,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "fdcbfb0d822e",
@@ -713,7 +761,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "d42be883be29",
@@ -730,30 +778,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/35812489/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-14T19:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KAMMEPZ/aktuellt/imorgon-21-00",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Fordjupning",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "dc6abb9f2c17",
-          "source_id": "svt-aktuellt",
-          "source_name": "Aktuellt",
-          "provider": "SVT Play",
-          "category": "Fordjupning",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Aktuellt – Ikväll 21:00",
-          "summary": "En månad till valet: Tidöförslagen vann • Kristersson och Andersson: Vem får bilda regering? • Nigel Farage: Omval mot soptunna • Vattenbrist och kärnkraft: Hur påverkar varmare klimat?",
-          "body_text": "En månad till valet: Tidöförslagen vann • Kristersson och Andersson: Vem får bilda regering? • Nigel Farage: Omval mot soptunna • Vattenbrist och kärnkraft: Hur påverkar varmare klimat? Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 38 min En månad till valet. Vem vinner och vem förlorar på Socialdemokraternas och Sverigedemokraternas ekonomiska politik? Debatt i Aktuellt mellan Mikael Damberg (S) och Oscar Sjöstedt (SD) Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Säpo:: Rysk spionoperation har stoppats • Ekonomisk politik: Dadgostar mot Svantesson • Ryssland: Antikrigsparti stoppas Mer om programmet USA FÖRSVAR: Lager med luftvärn sinar • AI: Nytt virus ökar krav på reglering • SPANIEN: Välkomnar ryska turister Mer om programmet Vänsterpartiets terroristhyllningar: Partisekreteraren svarar på kritiken • Allt fler överlever stroke: Halvering av dödsfallen Mer om programmet Allt du inte visste att du behövde veta om svensk politik",
-          "url": "https://www.svtplay.se/video/jqPPNg6/aktuellt/ikvall-21-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54706628/1786647253?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-13T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jqPPNg6/aktuellt/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -888,7 +912,7 @@
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
           "body_text": "De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Sverige stöttar inte Gianni Infantino vid omval • Experten pekar ut tre tänkbara kandidater – om Infantino avsätts • Kristian Lien stod för hattrick när Djurgården krossade Västerås Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jN33pPM/sportnytt/ikvall-21-46",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54707018/1786652056?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T19:46:00Z",
           "embed_url": "https://www.svtplay.se/video/jN33pPM/sportnytt/ikvall-21-46",
           "play_mode": "page_iframe",
@@ -1697,6 +1721,181 @@
           "sort_order": 0
         },
         {
+          "id": "f629cfb19e76",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Luigi Mangione expected to plead guilty to federal stalking charges | Fox News Video",
+          "summary": "Fox News national correspondent Brian Llenas reports on a potential Luigi Mangione federal plea deal. Former federal prosecutor Brett Tolman joins 'America Reports' to analyze how the plea could prevent a state murder trial.",
+          "body_text": "Fox News national correspondent Brian Llenas reports on a potential Luigi Mangione federal plea deal. Former federal prosecutor Brett Tolman joins 'America Reports' to analyze how the plea could prevent a state murder trial. Fox News national correspondent Brian Llenas reports on a potential Luigi Mangione federal plea deal on stalking charges Former federal prosecutor Brett Tolman joins 'America Reports' to analyze how the agreement could prevent Manhattan District Attorney Alvin Bragg from pursuing a state murder trial.",
+          "url": "https://www.foxnews.com/video/6403346015112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/994d141e-57c5-4d5b-b64a-4df6220cf3f0/0717eb1a-fac6-4e66-9690-406edc9fd342/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-13T18:13:48Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403346015112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "7cec7ea67042",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "'Outnumbered' panel blasts SPLC amid DOJ fraud charges | Fox News Video",
+          "summary": "The 'Outnumbered' panel reacts to the indictment of former Southern Poverty Law Center official Heidi Beirich on federal fraud charges.",
+          "body_text": "The 'Outnumbered' panel reacts to the indictment of former Southern Poverty Law Center official Heidi Beirich on federal fraud charges. SPLC former official Heidi Beirich faces federal conspiracy charges as the 'Outnumbered' panel reacts to allegations that the organization funneled over $3 million to extremist group informants. Panelists analyze the indictment, which alleges an employee was romantically involved with an informant. Defense attorneys claim the prosecution is politically motivated.",
+          "url": "https://www.foxnews.com/video/6403344557112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a676195f-cbce-49c8-8e26-fed313b2d16f/f7661459-6d16-4850-a3a4-e76fbdeddb31/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-13T17:31:53Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403344557112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "fb50400df6c0",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "DOJ accuses former SPLC executive of funding extremist group | Fox News Video",
+          "summary": "Fox News senior correspondent Claudia Cowan reports on DOJ allegations against former Southern Poverty Law Center executive Heidi Beirich.",
+          "body_text": "Fox News senior correspondent Claudia Cowan reports on DOJ allegations against former Southern Poverty Law Center executive Heidi Beirich. Former Southern Poverty Law Center executive Heidi Beirich faces federal charges of wire fraud and money laundering conspiracy. The Department of Justice alleges Beirich hid over $4 million in payments from SPLC donors to fund White supremacy.",
+          "url": "https://www.foxnews.com/video/6403343269112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/752a6f8a-e25a-4128-aca1-57a38455b198/008372eb-6643-4c59-b52b-a13a6224f323/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-13T17:07:33Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403343269112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "8bfa1ac3e944",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Karoline Leavitt bids emotional farewell to White House in 'bittersweet' departure | Fox News Video",
+          "summary": "The 'Outnumbered' panel discusses White House press secretary Karoline Leavitt's decision to step down from her role to focus on her family after receiving praise from President Donald Trump.",
+          "body_text": "The 'Outnumbered' panel discusses White House press secretary Karoline Leavitt's decision to step down from her role to focus on her family after receiving praise from President Donald Trump. As White House press secretary Karoline Leavitt decides to step down to focus on her family, the 'Outnumbered' panel discusses the intense demands of the job, celebrating Leavitt's choice to prioritize her young children while highlighting the supportive messages from colleagues.",
+          "url": "https://www.foxnews.com/video/6403341311112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a9390b4-4497-459c-8b4a-b954f1071d57/44473048-f6f2-4823-8972-27cd272fea37/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-13T17:05:19Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403341311112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "307fc248dafd",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Tom Tiffany calls out opponent Crowley, Dems for 'capitulating' to socialists | Fox News Video",
+          "summary": "Wisconsin gubernatorial candidate Rep. Tom Tiffany joins 'The Faulkner Focus' to analyze key midterm races in Maine, Michigan and Wisconsin as voters split over far-left candidates and progressive policies ahead of the elections.",
+          "body_text": "Wisconsin gubernatorial candidate Rep. Tom Tiffany joins 'The Faulkner Focus' to analyze key midterm races in Maine, Michigan and Wisconsin as voters split over far-left candidates and progressive policies ahead of the elections. Wisconsin gubernatorial candidate Rep. Tom Tiffany joins 'The Faulkner Focus' to evaluate the Wisconsin Democratic gubernatorial primary where David Crowley defeated Francesca Hong by fewer than 4,000 votes. Tiffany also breaks down midterm races in Maine and Michigan while detailing his campaign strategy focused on lowering property taxes and utility bills.",
+          "url": "https://www.foxnews.com/video/6403342944112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26567af5-b906-4a31-83ca-e97ba64351d9/b9df56fa-1f62-45b4-ac45-7c72e6c5a13f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-13T16:54:42Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403342944112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "15a90f71c211",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "New York double jeopardy law could prevent state prosecution if Mangione pleads guilty to federal charges: Attorney | Fox News Video",
+          "summary": "Criminal defense attorney Andrew Cherkasky breaks down the federal and state charges against Luigi Mangione, the suspect in the killing of UnitedHealthcare CEO Brian Thompson, on ‘The Story.’",
+          "body_text": "Criminal defense attorney Andrew Cherkasky breaks down the federal and state charges against Luigi Mangione, the suspect in the killing of UnitedHealthcare CEO Brian Thompson, on ‘The Story.’",
+          "url": "https://www.foxnews.com/video/6403351499112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345d7a0a-217b-4ea3-95d4-3af0edb4f79a/3a1f47da-ec15-49e6-8f28-85b59be363f5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-13T20:30:06Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403351499112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "580b72abf109",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Oil markets face pressure amid US, Iran standstill | Fox News Video",
+          "summary": "Retired Navy Captain Brent Sadler joins 'America Reports' to analyze the deadlock in U.S.-Iran negotiations over the Strait of Hormuz. Sadler also weighs in on the reported mental health concerns for crew members aboard the USS Abraham Lincoln.",
+          "body_text": "Retired Navy Captain Brent Sadler joins 'America Reports' to analyze the deadlock in U.S.-Iran negotiations over the Strait of Hormuz. Sadler also weighs in on the reported mental health concerns for crew members aboard the USS Abraham Lincoln. Retired Navy Captain Brent Sadler discusses the ongoing deadlock in U.S.-Iran negotiations over the vital Strait of Hormuz shipping lane on 'America Reports.' Sadler assesses the regional stability risks and oil flow impact while also addressing mental health struggles reported by families of sailors aboard the USS Abraham Lincoln.",
+          "url": "https://www.foxnews.com/video/6403346376112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e23d8b0-9406-4c11-8ae5-a8414b9045ab/a6771378-f1c5-4df2-9245-586ae000c615/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-13T18:09:18Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403346376112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
           "id": "44fd8a3125ba",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1719,57 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "010e6649fea1",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Surprise federal hearing in Luigi Mangione case fuels plea deal speculation | Fox News Video",
-          "summary": "Luigi Mangione, the suspect in the murder of UnitedHealthcare CEO Brian Thompson, faces a surprise federal hearing in New York City, sparking intense speculation over a potential plea deal that could upend the state trial.",
-          "body_text": "Luigi Mangione, the suspect in the murder of UnitedHealthcare CEO Brian Thompson, faces a surprise federal hearing in New York City, sparking intense speculation over a potential plea deal that could upend the state trial. A surprise federal court hearing for Luigi Mangione, the suspect accused of killing UnitedHealthcare CEO Brian Thompson, fuels speculation of a potential plea deal. National correspondent Bryan Llenas breaks down what this development means for both the federal and state prosecutions.",
-          "url": "https://www.foxnews.com/video/6403338960112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/69608a0e-f8b9-4913-abf4-b4b1fe9ca383/5c95d9c3-9932-432f-b904-963b7f58fd2b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-13T15:51:58Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403338960112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "92b38f61056b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "US, Iran negotiations 'deadlocked' as Trump claims 'total control' in Strait of Hormuz | Fox News Video",
-          "summary": "Chief foreign correspondent Trey Yingst reports the latest on the conflict between the U.S. and Iran as negotiations are 'deadlocked' over the Strait of Hormuz. 'Special Report' anchor Bret Baier weighs in.",
-          "body_text": "Chief foreign correspondent Trey Yingst reports the latest on the conflict between the U.S. and Iran as negotiations are 'deadlocked' over the Strait of Hormuz. 'Special Report' anchor Bret Baier weighs in. Strait of Hormuz tension peaks as U.S. and Iran negotiations remain deadlocked over maritime control. President Donald Trump claims the U.S. Navy has established a 'wall of steel' blockade, restricting traffic to under ten percent of pre-war levels. Iranian officials reject Trump's assertions of total control, warning of a prolonged conflict as international shipping routes face severe disruptions.",
-          "url": "https://www.foxnews.com/video/6403338905112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe3f372e-9674-4ddd-a573-9558077a338e/cc5416ce-237e-472f-96da-d32d21b26b7e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-13T15:40:52Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403338905112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 3
+          "sort_order": 8
         },
         {
           "id": "01ba2dfa04cc",
@@ -1794,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 9
         },
         {
           "id": "27d7fef0f517",
@@ -1819,131 +1968,6 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "b5f8cd7fa874",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "State Department scraps Biden-era diversity diplomacy guidelines | Fox News Video",
-          "summary": "The State Department is scrapping a Biden-era policy directing diplomatic personnel to promote DEI during foreign interactions. Rich Edson reports on the transition to Trump administration stage-setting.",
-          "body_text": "The State Department is scrapping a Biden-era policy directing diplomatic personnel to promote DEI during foreign interactions. Rich Edson reports on the transition to Trump administration stage-setting. Scrapping Biden-era guidelines, the State Department directs diplomatic personnel to advocate for national interests rather than woke dogmas. Correspondent Rich Edson reports on the policy shift.",
-          "url": "https://www.foxnews.com/video/6403337794112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f43d74b3-8875-4334-8871-c2694caff853/d400e707-4f24-493c-ab9e-abd355e6c9ef/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-13T15:13:25Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403337794112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "53de8cab986a",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Gen Z starts 'moneymaxxing' trend as credit card debt climbs | Fox News Video",
-          "summary": "Personal finance expert Rachel Cruze discusses the 'moneymaxxing' trend on TikTok as Americans look to cut costs. Cruze reacts to surging credit card debt and shares key strategies to save money and pay down balances.",
-          "body_text": "Personal finance expert Rachel Cruze discusses the 'moneymaxxing' trend on TikTok as Americans look to cut costs. Cruze reacts to surging credit card debt and shares key strategies to save money and pay down balances. Personal finance expert Rachel Cruze analyzes the viral 'moneymaxxing' TikTok trend on 'Fox & Friends' as U.S. credit card debt climbs. Cruze explains how inflation is driving consumers to adopt extreme savings habits to make ends meet. She emphasizes the importance of budgeting, building an emergency fund and cutting back on discretionary spending.",
-          "url": "https://www.foxnews.com/video/6403335805112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aef5b63f-45b0-4260-bd7a-0fd6372dcc58/6749bc97-378a-4e00-a949-4f873288f1f3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-13T14:30:22Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403335805112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "10aae3f91974",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Raul Lionel Vazquez escorted by sheriff deputies after allegedly shooting a man running away from him | Fox News Video",
-          "summary": "The Orange County Sheriff's Department said Vazquez, 26, fatally shot 56-year-old Daryl Alexander Hill on Tuesday after Hill intervened in a roadside argument between Vazquez and a woman. (Credit: Orange County Sheriff's Department)",
-          "body_text": "The Orange County Sheriff's Department said Vazquez, 26, fatally shot 56-year-old Daryl Alexander Hill on Tuesday after Hill intervened in a roadside argument between Vazquez and a woman. (Credit: Orange County Sheriff's Department)",
-          "url": "https://www.foxnews.com/video/6403277846112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f017465-a821-4bb6-ac9a-4af69d45f8d8/7a4e9edb-5496-4c37-9c9d-010ec3f391a1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-12T19:11:42Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403277846112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "14232ac2b486",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "NYPD says Mamdani’s wife will not get police escort to Middle East | Fox News Video",
-          "summary": "NYPD Detectives’ Endowment Association President Scott Munro joins ‘The Story’ to weigh in after the NYPD denied a police escort for New York City Mayor Zohran Mamdani’s wife for her trip to the Middle East.",
-          "body_text": "NYPD Detectives’ Endowment Association President Scott Munro joins ‘The Story’ to weigh in after the NYPD denied a police escort for New York City Mayor Zohran Mamdani’s wife for her trip to the Middle East. NYPD Detectives' Endowment Association President Scott Munro criticizes the reported attempted use of NYPD detectives to secure Mamdani's wife, Rama Duwaji, during her personal travel to Syria, a country currently under a Level 4 travel advisory.",
-          "url": "https://www.foxnews.com/video/6403292456112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/478aba84-fbe1-49a8-9c88-536fbd68382d/e848b1e4-adea-453f-a649-67c529a1597d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-12T20:50:29Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403292456112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "38d6b0ec7c3d",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Trump not surprised by Secret Service decision to switch planes amid alleged Iranian plot | Fox News Video",
-          "summary": "Fox News senior White House correspondent Jacqui Heinrich reports on Karoline Leavitt leaving her role as White House press secretary and President Donald Trump confirming a plane switch while returning from a NATO summit on ‘Special Report.’",
-          "body_text": "Fox News senior White House correspondent Jacqui Heinrich reports on Karoline Leavitt leaving her role as White House press secretary and President Donald Trump confirming a plane switch while returning from a NATO summit on ‘Special Report.’",
-          "url": "https://www.foxnews.com/video/6403302175112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b956ac6-cf22-4313-9341-0a31d63e4a1d/ed96a301-6b6a-41c4-98b1-1c03de1bbff2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-12T22:54:09Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403302175112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
           "sort_order": 10
         },
         {
@@ -2022,20 +2046,20 @@
           "sort_order": 13
         },
         {
-          "id": "503bec373a30",
+          "id": "4a0b1b3379e4",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Latest Breaking News Videos | Fox News Video",
-          "summary": "Discover the latest breaking news videos from Fox News. From politics to entertainment Fox News has the most up-to-date videos that you can watch now.",
-          "body_text": "24 Hours of Fair and Balanced news coverage.",
-          "url": "https://www.foxnews.com/video/6403350736112",
-          "image_url": "https://a57.foxnews.com/assets.foxnews.com/images/fox-news/og/1024/512/og-fox-news.png?ve=1&tl=1",
-          "published_at": null,
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403350736112",
+          "title": "The Faulkner Focus - Thursday, August 13 | Fox News Video",
+          "summary": "Piker, jews, karoline leavitt, SPLC, Luigi",
+          "body_text": "Piker, jews, karoline leavitt, SPLC, Luigi",
+          "url": "https://www.foxnews.com/video/6403350861112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/75cec5a7-6183-4952-8e25-f01e56c35120/23d51907-c310-44bf-af93-ef61484c80df/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-13T19:27:45Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403350861112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2043,7 +2067,7 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 14
         },
         {
@@ -2268,7 +2292,7 @@
           "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
           "body_text": "The departure of White House Press Secretary Karoline Leavitt will create a major opening in President Donald Trump's administration, and the guessing-game of who will replace her has already begun. So far, the White House has not announced who will succeed Leavitt, and sources within and close to the administration said no decision has yet been made. Leavitt has worked closely with Trump for years, and finding someone to take over could prove difficult. In announcing she would step down at the end of the month, Trump called Leavitt one of his \"most trusted aides\". When Leavitt was on leave earlier this year, a series of high-ranking figures, including Vice-President JD Vance and Secretary of State Marco Rubio, gave press briefings, instead of a temporary substitute from her office. Some expect the White House to return to that system, at least temporarily. But the complex job goes beyond the briefing room podium to include managing contentious relationships with the press, coordinating with other parts of the White House, and providing media advice to the president. The secretary also oversees an office that receives a significant amount of inquiries and requests on a daily basis. Perhaps most importantly, Leavitt's replacement will also be expected to live up to Trump's expectations. \"It's not easy,\" a source close to the administration told the BBC. \"That person will be very aware that he's watching every day.\" Here's a look at a few of the potential candidates for the job. Alina Habba was formerly President Trump's personal lawyer. In December, she resigned as the top federal prosecutor in New Jersey , after a court battle over her eligibility to serve as US attorney for the state. Trump selected Habba for the role of US attorney last year. When a district court rejected her nomination, Trump then installed her in a role allowing her to fill in on an acting basis. During Trump's first few months back at the White House, Habba served as the president's counsellor . In announcing her appointment, Trump described Habba as \"unwavering in her loyalty\" and a \"tireless advocate for justice\".",
           "url": "https://www.bbc.com/news/articles/c0l5273xjnlo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d661/live/e8ffb610-96b7-11f1-9940-357a1043e63e.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9596/live/0b835a70-9758-11f1-9240-c70a29f1c818.jpg",
           "published_at": "2026-08-13T14:56:19Z",
           "embed_url": "https://www.bbc.com/news/articles/c0l5273xjnlo",
           "play_mode": "page_iframe",
@@ -2338,7 +2362,7 @@
           "source_kind": "mixed",
           "title": "Israeli army tells Palestinians to leave homes in village where settlers besieged houses",
           "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-          "body_text": "About a dozen Palestinian households in a village in the occupied West Bank were told to leave their properties during an Israeli military operation to remove Israeli settlers. The settlers had besieged residents in three homes in the area since Sunday, cutting off their power and water supplies. Qusra Mayor, Abdel Azim Wadi, told the BBC that his village had been declared a closed military zone - and Israeli forces were using some of the vacated Palestinian houses as barracks. The Israeli military said the aim was \"to protect the residents\". An Israeli spokesman told the BBC the settlers' action was \"deplorable\" and \"unacceptable\" and the government would investigate and arrest those responsible. \"The Israeli army is acting against it, and we are investigating it and we will arrest those responsible and we will prosecute them,\" David Mencer said. Settlers have been emboldened by the rapid expansion of settlements under the current Israeli government – leading to a dramatic rise in settler violence as they try to drive Palestinians off their land. All settlements are illegal under international law. Of the besieged families' three homes in Qusra, which are made up of the Abu Ridi and Hassan families, the residents of two were told to leave on Thursday, they told the BBC. They said those told to leave had since moved into the third house. Elsewhere in the village, the residents of 11 other houses had also been told to leave by the army. One of those was Qaher Odeh, who said more than 20 soldiers had entered his house in the morning. They later left but then came back, telling him and his brother they were in a military post and that they needed to leave. \"We left and kept walking down towards the lower part of the neighbourhood. Shortly afterwards, they sealed off the entire area,\" Odeh said. \"There were people being forced out of their homes. A lot of people,\" he added.",
+          "body_text": "About a dozen Palestinian households in a village in the occupied West Bank were told to leave their properties during an Israeli military operation to remove Israeli settlers. The settlers had besieged residents in three homes in the area since Sunday, cutting off their power and water supplies. Qusra Mayor, Abdel Azim Wadi, told the BBC that his village had been declared a closed military zone - and Israeli forces were using some of the vacated Palestinian houses as barracks. The Israeli military said the aim was \"to protect the residents\". An Israeli spokesman told the BBC the settlers' action was \"deplorable\" and \"unacceptable\" and the government would investigate and arrest those responsible. \"The Israeli army is acting against it, and we are investigating it and we will arrest those responsible and we will prosecute them,\" David Mencer said. Settlers have been emboldened by the rapid expansion of settlements under the current Israeli government – leading to a dramatic rise in settler violence as they try to drive Palestinians off their land. All settlements are illegal under international law. Of the besieged families' three homes in Qusra, which are made up of the Abu Ridi and Hassan families, the residents of two were told to leave on Thursday, they told the BBC. They said those told to leave had since moved into the third house. Elsewhere in the village, the residents of 11 other houses had also been told to leave by the army. Earlier, videos shared from Qusra overnight into Thursday showed a dozen Israeli security vehicles – including a bulldozer. In later footage – filmed in the daylight – there was a long line of Israeli security forces on the road to the Palestinian village. The Israel Defense Forces (IDF) said they had \"dismantled two illegal outposts\".",
           "url": "https://www.bbc.com/news/articles/cj4kppdk2qwo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg",
           "published_at": "2026-08-13T08:12:53Z",
@@ -2811,7 +2835,7 @@
           "body_text": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
           "url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/GIJDPUZCV5GNXPNCCETYE7526Y.jpg?auth=8fbab8456ddccba8efd5ddb7960f4867af6e6724090bbe335ed7b828e6054dc2&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-13T19:10:52Z",
+          "published_at": "2026-08-13T20:36:11Z",
           "embed_url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3088,7 +3112,7 @@
           "body_text": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
           "url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/GIJDPUZCV5GNXPNCCETYE7526Y.jpg?auth=8fbab8456ddccba8efd5ddb7960f4867af6e6724090bbe335ed7b828e6054dc2&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-13T19:10:52Z",
+          "published_at": "2026-08-13T20:36:11Z",
           "embed_url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4190,6 +4214,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "b2110888efa7",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Hon sköts i Lissabon – kulan kvar: ”Inte arg”",
+          "summary": "Anna strosade i Lissabons turistkvarter när hon plötsligt blev skjuten rakt i bröstet. Nu har hon lämnat sjukhuset – men kulan sitter kvar. – De sade att jag hade änglar som vaktade mig, säger hon till TT.",
+          "body_text": "Anna strosade i Lissabons turistkvarter när hon plötsligt blev skjuten rakt i bröstet. Nu har hon lämnat sjukhuset – men kulan sitter kvar. – De sade att jag hade änglar som vaktade mig, säger hon till TT. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Händelsen inträffade mitt i det somriga folkvimlet. Efter en shoppingrunda närmade sig Anna, som egentligen heter något annat, och hennes vän en uteservering när hon såg en rörelse som kändes ”annorlunda”. Hon hann tänka att folk kanske försökte undvika en duva eller en råtta. – Det blev rädsla, panik och folk reser sig och springer. Jag hör ett högt pang och känner vad jag kan beskriva som en hård pingisboll som slår mot mitt bröst. Jag visste att jag blivit träffad av något, men jag trodde att det var en miniraket eller så, säger Anna. Även hon började springa, i tron att det kanske var ett pågående terrordåd. Först när de hade tagit skydd på en restaurang visade Anna såret för kompisen. – När jag tog bort handen såg jag paniken i hennes ansikte. Anna låter samlad när hon berättar, och även på restaurangen gick hon in i ett märkligt lugn. Genom sitt yrke har hon deltagit i en säkerhetsträning som hon hade nytta av. Hon bad en servitör att trycka hårt mot såret, hon sade åt dem att ge ett glas vatten till den chockade kompisen och att ringa en ambulans. – Jag tänkte att om jag hetsar upp mig kommer det att blöda mer, säger Anna och minns: – Jag ville lugna alla, för om de skulle få panik skulle jag också få det. – Det gjorde ont när jag blev träffad men det var så hastigt. Sedan började det bränna, ju mer adrenalinet försvann. Anna förstår att hon var chockad, på sjukhuset skojade och skämtade hon med personalen som förklarade att hon haft änglavakt. Kulan gick in i bröstet utan att trasa sönder några organ. Där sitter den än, standard är att inte ta ut den ”i onödan”.",
+          "url": "https://www.expressen.se/nyheter/varlden/svenskan-skots-i-lissabon-kulan-kvar-inte-arg/",
+          "image_url": "https://static.bonniernews.se/images/53/91/5391485575924f57b4c6fb31052fdc22/16x9/original.jpg",
+          "published_at": "2026-08-13T20:33:27Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/svenskan-skots-i-lissabon-kulan-kvar-inte-arg/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "d7d30a09f7ce",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Ryska parets resa i Sverige – polisens ord",
+          "summary": "De ville bara vara i skogen vid havet. I Furuvik klev det ryska paret av tåget, rörde sig planlöst mot vattnet och slog upp sitt tält. Det är deras egen berättelse om hur de hamnade vid huset där försvarsindustrikoncernen Saabs vd vistades. Polisen anser att förklaringen ”inte är trovärdig eftersom det inte är en naturlig plats att hamna på”.",
+          "body_text": "I Furuvik klev det ryska paret av tåget, rörde sig planlöst mot vattnet och slog upp sitt tält. Det är deras egen berättelse om hur de hamnade vid huset där försvarsindustrikoncernen Saabs vd vistades. Polisen anser att förklaringen ”inte är trovärdig eftersom det inte är en naturlig plats att hamna på”. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den 6 augusti tältade det ryska paret Semjon Rusanov och Tatjana Milenina i Furuvik söder om Gävle. I en närliggande sommarstuga vistades vid tillfället Saabs verkställande direktör Micael Johansson, som på grund av sin roll inom försvarsindustrin har skyddsvakter. Vakterna såg paret prata i radio med varandra och hörde dem tala med rysk brytning. De larmade polisen. Patrullen som skickades ut tyckte inte att paret kunde förklara sitt val av tältplats. Camparna greps och fördes till polisstationen i Gävle. I samtal med gränspolisen uppgav paret att de kommer från Ryssland men sedan fem år bor i Barcelona i Spanien, där Semjon Rusanov arbetar som spelprogrammerare medan Tatjana Milenina är lärare i en frivilligorganisation. Den 31 juli flög de till Sverige. Här ska de först ha bott tre nätter på ett boende i Bålsta och därefter tre nätter i tält i skogen. Planen var att åka vidare till Sundsvall och sen tillbaka söderut till Stockholm före återresan till Barcelona den 16 augusti. Enligt egen uppgift har de aldrig varit i Sverige förut. De reste hit eftersom Spanien är så varmt så här års och då norra Europa liknar Ryssland och har fin natur och trevliga människor, uppgav Semjon för gränspolisen. Tatjana sa att de kom hit för att turista, fiska och plocka bär. De ska ha rest med tåg norrut från Uppsala, hoppat av i Furuvik, rört sig planlöst mot vattnet och hamnat på den plats där de satte upp tältet. Polisen tog dem i förvar, i Märsta, och beslutade dagen därpå att avvisa dem från Sverige.",
+          "url": "https://www.expressen.se/nyheter/sverige/misstron-mot-ryska-paret-inte-en-naturlig-plats/",
+          "image_url": "https://static.bonniernews.se/images/5f/31/5f31a91f331d43168d0e8e388ecd2113/16x9/original.png",
+          "published_at": "2026-08-13T20:12:26Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/misstron-mot-ryska-paret-inte-en-naturlig-plats/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "e40984dc0b0f",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4199,7 +4271,7 @@
           "source_kind": "story",
           "title": "Misstänkt mord",
           "summary": "En man har dött efter ett våldsbrott i en bostad i Söderhamn – där det även hittades en skadad kvinna. En man har gripits.",
-          "body_text": "En man har dött efter ett våldsbrott i en bostad i Söderhamn – där det även hittades en skadad kvinna. – Vi har anledning att tro att dessa tre känner varandra sedan tidigare, säger Magnus Jansson Klarin vid polisen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Polisen larmades till en adress i norra delarna av Söderhamn vid 14-tiden. Då anträffades en livlös man i 45-årsåldern. Mannen fördes till sjukhus och dog sedan av sina skador. Anhöriga har underrättats. – Jag kan inte gå in på hur denna person har bragts om livet. Vi har en del vittnesförhör vi behöver ta, säger Magnus Jansson Klarin, polisens presstalesperson Mitt. På platsen hittades även en kvinna i 50-årsåldern med icke livshotande skador. Polisen grep en man i 55-årsåldern vid brottsplatsen. – Som vi känner till var det tre personer på plats och gripandet gick lugnt till. Vi har anledning att tro att dessa tre känner varandra sedan tidigare, säger Magnus Jansson Klarin. Mannen misstänks för mord och för misshandel av kvinnan. – Det är avspärrat på plats. Man ska göra tekniska undersökningar Vi har jobbat en del med dörrknackning och fortsätter med informationsinhämtning och tekniska bitar, säger Magnus Jansson Klarin. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "En man har dött efter ett våldsbrott i en bostad i Söderhamn – där det även hittades en skadad kvinna. – Vi har anledning att tro att dessa tre känner varandra sedan tidigare, säger Magnus Jansson Klarin vid polisen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Polisen larmades till en adress i norra delarna av Söderhamn vid 14-tiden. Då anträffades en livlös man i 45-årsåldern. Mannen fördes till sjukhus och dog sedan av sina skador. Anhöriga har underrättats. – Jag kan inte gå in på hur denna person har bragts om livet. Vi har en del vittnesförhör vi behöver ta, säger Magnus Jansson Klarin, polisens presstalesperson Mitt. På platsen hittades även en kvinna i 50-årsåldern med icke livshotande skador. Polisen grep en man i 55-årsåldern vid brottsplatsen. – Som vi känner till var det tre personer på plats och gripandet gick lugnt till. Vi har anledning att tro att dessa tre känner varandra sedan tidigare, säger Magnus Jansson Klarin. Mannen misstänks för mord och för misshandel av kvinnan. – Det är avspärrat på plats. Man ska göra tekniska undersökningar Vi har jobbat en del med dörrknackning och fortsätter med informationsinhämtning och tekniska bitar, säger Magnus Jansson Klarin. En man som bor i området berättar om oron som händelsen väcker, särskilt med tanke på att staden drabbats av flera mord de senaste åren. Senast förra vintern höggs en man till döds på en gångväg inte långt därifrån.",
           "url": "https://www.expressen.se/nyheter/sverige/misstankt-mord-i-soderhamn--man-gripen/",
           "image_url": "https://static.bonniernews.se/images/a0/fb/a0fb91b352aa4cb3b7ce88a5c6d6174c/16x9/original.png",
           "published_at": "2026-08-13T18:38:04Z",
@@ -4211,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "6a943e9c78f5",
@@ -4221,7 +4293,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "JUST NU: Pojke på moped död – påkörd av bil",
+          "title": "Pojke på moped död – påkörd av bil",
           "summary": "En pojke under 15 år på en moppe har dött efter att han blivit påkörd av en bil. Olyckan utreds nu som vållande till annans död.",
           "body_text": "En pojke under 15 år på en moppe har dött efter att han blivit påkörd av en bil. Olyckan utreds nu som vållande till annans död. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Strax efter 17 kom larm in om att en pojke i 15-årsåldern på en moped blivit påkörd av en bil på en grusväg utanför Eskilstuna . Räddningstjänst, polis och ambulans larmades till platsen och snabbt fördes pojken till sjukhus. Men hans skador var allvarliga och hans liv gick inte att rädda. Pojkens anhöriga har underrättats om dödsfallet. Olyckan ägde rum på väg 716 utanför Alberga. Föraren i bilen var en man i 20-årsåldern. Han är oskadd men ”chockad”, skriver polisen. Ärendet rubriceras nu som grovt vållande till annans död. – Vi har ett rättsläge och sen får vi se hur det blir med misstankar, säger Mats Pettersson på polisen i Öst och fortsätter: – Vi har lagt mycket kraft på att göra en gedigen undersökning av brottsplatsen. Vi har fotograferat och tagit fordon i beslag. Han säger att olyckan skett på en väldigt liten grusväg ute på landsbygden men att det är oklart i närmre detalj hur det gått till. – Vi är försiktiga att berätta för mycket. Vad som är klart är att pojken blivit påkörd, säger Pettersson. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/pojke-under-15-dod-efter-krock-i-eskilstuna/",
@@ -4235,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "3703e01f8c66",
@@ -4259,7 +4331,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "6b19ffcaaf24",
@@ -4283,7 +4355,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "066b4898ce7e",
@@ -4307,7 +4379,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "556d4af8cf55",
@@ -4331,7 +4403,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "2bb3948981c7",
@@ -4341,12 +4413,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Bråket innan mordet – egna orden i förhör",
-          "summary": "Den misstänkte skärgårdsmördaren berättar själv för polisen om bråket med flickvännen innan mordet. Konflikten handlade om han skulle vara kvar på Sollenkroka eller åka tillbaka till fastlandet. Nu arbetar polis och åklagare intensivt för att få bilden av vad som hänt. – Han är den viktigaste pusselbiten, säger åklagare Emma Olsson.",
-          "body_text": "Den misstänkte skärgårdsmördaren berättar själv för polisen om bråket med flickvännen innan mordet. Konflikten handlade om han skulle vara kvar på Sollenkroka eller åka tillbaka till fastlandet. Nu arbetar polis och åklagare intensivt för att få bilden av vad som hänt. – Han är den viktigaste pusselbiten, säger åklagare Emma Olsson. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Tisdagen den 4 augusti 2026 påträffar anhöriga kvinnan livlös i sommarhuset på Sollenkroka. Kroppen bär spår av stick- eller skärvåld. kajak men grips av polis på en båt vid Marholmen den 4 augusti 2026 efter en intensiv sökinsats. Han anhålls därefter misstänkt för mord. Under polisförhör medger mannen att ett gräl uppstod om huruvida han skulle åka hem eller stanna på ön. Han svarar inte på polisens fråga om han faktiskt erkänner mordet. Den mördade kvinnan skulle få besök av sin familj i sommarhuset på ön Sollenkroka. De ringer redan kvällen innan, måndagen den 3 augusti, utan att få svar vilket är ovanligt. En granne säger att han ser kvinnan och hennes nye pojkvän gå ner för att ta ett bad vid midnatt. När familjen inte får svar på tisdagsmorgonen stiger oron och de åker ut till ön där de hittar kvinnan inne i sommarhuset, död. Det tar inte mer än nio minuter innan pojkvännens namn larmas ut och sökandet efter honom inleds. Från början vet man inte om han är misstänkt eller brottsoffer.",
+          "title": "Krim I dag 17.37 Misstänkte mördaren om bråket innan skärgårdsmordet – egna orden",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/krim/misstankte-mordaren-om-braket-innan-skargardsmordet-egna-orden-/",
-          "image_url": "https://static.bonniernews.se/images/6e/c0/6ec0b7c732084890b219f0b7d8e53fb7/16x9/original.png",
-          "published_at": "2026-08-13T15:37:44Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/krim/misstankte-mordaren-om-braket-innan-skargardsmordet-egna-orden-/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4354,8 +4426,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 6
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "69cbdf2cc71f",
@@ -4365,12 +4437,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Stordalens förlust: Hundratals miljoner",
-          "summary": "Norska miljardären Petter Stordalen sålde i somras delar av sitt företag till Norwegian – och fick aktier i ersättning. Det visade sig vara dyrköpt. Hittills har han förlorat 270 miljoner kronor på affären, rapporterar Affärsvärlden.",
-          "body_text": "Norska miljardären Petter Stordalen sålde i somras delar av sitt företag till Norwegian – och fick aktier i ersättning. Hittills har han förlorat 270 miljoner kronor på affären, rapporterar Affärsvärlden . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Hotellmagnaten Petter Stordalen är god för runt 21 miljarder svenska kronor, enligt Forbes . Men efter sin senaste affär riskerar den siffran att minska. Den 16 juni blev det offentligt att norska flygbolaget Norwegian köpt Nordic Leisure Travel Group, NLTG. En av NLTG:s storägare är Petter Stordalens bolag Strawberry. Norwegian betalade åtta miljarder för NLTG, men 4,5 miljarder av dem åtta var i nyemitterade Norwegian-aktier. För Stordalens del innebar det ursprungligen 1,8 miljarder kronor i aktier. Men sedan uppköpet har det inte gått något vidare. Aktien har sjunkit och under de senaste två månaderna har han tappat 15 procent av den summan, rapporterar Affärsvärlden . Det är en värdeminskning på omkring 270 miljoner kronor. Stordalen själv är dock säker på sin affär. – Vi ska inte sälja en enda aktie. Om något ska vi öka den positionen, sa han till Affärsvärlden när uppköpet gick i lås. Strawberry är nu en av Norwegians allra största ägare med 8,9 procent av bolaget. Anledningen till den norska flygjättens tapp var en svag delårsrapport där de redovisade ett större vinsttapp än väntat med anledning av de stigande bränslekostnaderna, skriver tidningen. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "title": "Världen I dag 17.16 Stordalens förlust: Hundratals miljoner",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/varlden/stordalens-forlust-hundratals-miljoner/",
-          "image_url": "https://static.bonniernews.se/images/26/d8/26d8dffe279e47fd98fe2a6aa3f5ef4b/16x9/original.jpg",
-          "published_at": "2026-08-13T15:16:38Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/stordalens-forlust-hundratals-miljoner/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4378,55 +4450,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "14f2c965a01f",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tidö vinner rysaren – reglerna skärps",
-          "summary": "Rysaromröstningen är avgjord och voteringarna gick regeringens väg. Det innebär att reglerna för anhöriginvandring nu skärps, samtidigt som mängdrabatten vid upprepad brottslighet slopas. Men om det blir så i praktiken är fortfarande inte beslutat.",
-          "body_text": "Rysaromröstningen är avgjord och voteringarna gick regeringens väg. Det innebär att reglerna för anhöriginvandring nu skärps, samtidigt som mängdrabatten vid upprepad brottslighet slopas. Men om det blir så i praktiken är fortfarande inte beslutat. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Riksdagen har extrainkallats under sommaren för att ta ställning till regeringens prestigeförslag om att skärpa kraven för anhöriginvandring och slopa mängdrabatten vid upprepad brottslighet. Oppositionen har sagt nej till delar av skärpningarna i reglerna för anhöriginvandring. Det handlar om att den som har ett tidsbegränsat uppehållstillstånd måste vänta i minst två år innan man kan få tillstånd för anhöriginvandring. Det andra att myndigheterna ska pröva om försörjningskraven uppfylls varje gång ett tidsbegränsat uppehållstillstånd ska förändras. Men när omröstningen ägde rum på torsdagen gick regeringens förslag igenom. Också när det kom till mängdrabatten gick omröstningen regeringens och SD:s väg. De rödgröna har varit kritiska mot reformen – som de menar är för dyr på grund av det stora antal fängelseplatser som kommer behövas. Man menar också att den kommer ta alldeles för lång tid att genomföra.",
-          "url": "https://www.expressen.se/nyheter/politik/riksdagen-rostar-om-prestigeforslagen/",
-          "image_url": "https://static.bonniernews.se/images/1d/41/1d415f913e1747bbbd8c3410425bdefd/16x9/original.jpg",
-          "published_at": "2026-08-13T14:02:04Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/riksdagen-rostar-om-prestigeforslagen/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "2b0d8205c845",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Näringslivet kritiskt efter C:s nya besked",
-          "summary": "Centerns öppning för att stödja Socialdemokraternas förslag på ett slopat karensavdrag får Svenskt Näringsliv att reagera.",
-          "body_text": "Centerns öppning för att stödja Socialdemokraternas förslag på ett slopat karensavdrag får Svenskt Näringsliv att reagera. – Det är ett experiment vi har provat tidigare och det misslyckades, säger vd Jan-Olof Jacke. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Centerpartiets partiledare Elisabeth Thand Ringqvist har de senaste dagarna gett motstridiga besked om ett avskaffande av karensavdraget. Efter att först ha sagt att Centern går i opposition om Socialdemokraterna driver igenom sitt krav, var budskapet delvis annorlunda i Ekots partiledarutfrågning. – Är det så att hon (Magdalena Andersson) kan hitta en lösning som inte skadar företagen med den här kostnadschocken, då kan vi prata om hur vi ska lösa det, sade hon intervjun. Svenskt Näringsliv och dess vd Jan-Olof Jacke är dock kritiska och menar att det inte är möjligt utan djupa konsekvenser för svensk ekonomi. – Problematiken är att det är ett experiment vi har provat tidigare och det misslyckades, vi har väldigt dåliga erfarenheter. Försvinner karensavdraget så kommer sjukfrånvaron att öka, säger han och utvecklar: – När sjukfrånvaron ökar, då stiger företagets kostnader och det minskar möjligheten att få full fart på svensk ekonomi. Och det skulle inte vara aktuellt även om staten skulle ta hela kostnaden? – Det är inte riktigt seriöst att tro att man kan ha en modell som täcker upp konsekvenserna av ett slopat karensavdrag. Det är inte bara den omedelbara sjukkostnaden, utan det är beteendeförändringarna som kommer med det. Själva rättviseperspektivet i debatten, det vill säga att man inom vissa yrken inte kan jobba hemifrån om man känner sjukdomssymptom, har Jan-Olof Jacke förståelse för, men säger samtidigt: – Det framställs oftast som att det är en väldigt stor skillnad i hur mycket karensavdrag som man har i snitt inom tjänstemannakollektivet kontra vad man har inom LO-kollektivet. Det är inte korrekt. Det finns en skillnad, men den är inte väldigt stor, hävdar han.",
-          "url": "https://www.expressen.se/nyheter/politik/naringslivet-kritiskt-efter-cs-nya-besked/",
-          "image_url": "https://static.bonniernews.se/images/88/49/8849852a2a17494abee381c2447828d5/16x9/original.jpg",
-          "published_at": "2026-08-13T13:43:50Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/naringslivet-kritiskt-efter-cs-nya-besked/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4442,35 +4466,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Polisen i Lycksele kontaktades då en man setts ta tag i ett barn. Barnet ska ha blivit knuffat eller liknande, skriver polisen. Den misstänkte mannen hittades på en adress och en anmälan om misshandel har upprättats. En motorcyklist och mopedist har krockat i Bränninge i Habo. Ingen är allvarligt skadad enligt polisen, men mopedisten har förts till sjukhus med ambulans. MC-föraren har avvikit från platsen till fots och har inte hittats av polisen. Polisen utreder händelsen som rattfylleri och skriver att det kan komma att räknas som en smitning. Polisen larmades till en adress i norra delarna av Söderhamn vid 14-tiden. Då anträffades en skadad man i 45-årsåldern. Mannen fördes till sjukhus och dog sedan av sina skador, meddelar polisen vid 20-tiden. Anhöriga har underrättats. Även en kvinna i 50-årsåldern hittades med icke livshotande skador på adressen. \"Skadorna ska ha tillfogats av den man som greps på platsen\", skriver polisen. Händelsen utreds som mord och misshandel.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
