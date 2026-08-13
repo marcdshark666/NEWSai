@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:56:40Z",
+  "generated_at": "2026-08-13T09:08:09Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "a0b59a967320",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Norges Bank rör inte räntan",
+          "summary": "Nyheter från TV4: Norges Bank rör inte räntan",
+          "body_text": "Norges Banks centralbankschef Ida Wolden Bache. Arkivbild. Norges Bank lämnar styrräntan oförändrad på 4,25 procent. Beslutet var väntat, enligt Bloombergs sammanställning av estimat. ”Inflationen har dämpats och varit lägre än väntat i sommar. Lägre inflation är välkomna nyheter, men inflationen är fortfarande för hög, och det är för tidigt att dra slutsatsen att inflationsutsikterna har förändrats väsentligt”, säger centralbankschefen Ida Wolden Bache i ett pressmeddelande . \"Det kan därför fortfarande bli nödvändigt att höja styrräntan”, säger hon. Centralbanken kommer att presentera nya inflationsprognoser i september. ”Konflikten i Mellanöstern skapar fortfarande osäkerhet kring inflationsutsikterna\", skriver centralbanken.",
+          "url": "https://www.tv4.se/artikel/tt-260813-norgeranta1-30feea21/norges-bank-ror-inte-rantan",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlBolK8IMlQTw/0965628a04608887ede00a5d8b3df4a5/Norges_Banks_centralbankschef_Ida_Wolden_Bache._Arkivbild.",
+          "published_at": "2026-08-13T08:08:59Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260813-norgeranta1-30feea21/norges-bank-ror-inte-rantan",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "e5357506984e",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "0e7ef7ce2b33",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "b95c1195ff11",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "f125b0661ac6",
@@ -127,30 +151,6 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "0bc40e9bd253",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Inflationen rasar – lägre elpriser bakom fallet",
-          "summary": "Nyheter från TV4: Inflationen rasar – lägre elpriser bakom fallet",
-          "body_text": "Priset på bland annat kaffe har rusat i höjden senaste tiden. Nästa vecka hålls ett möte mellan regeringen och representanter för livsmedelsbranschen. Arkivbild. Inflationen rasar – lägre elpriser bakom fallet Inflationen enligt måttet KPIF sjönk till 0,7 procent i juli jämfört med 1,3 procent månaden före. Det visar definitiva siffror från SCB. Utfallet var i linje med de preliminära siffrorna som SCB publicerade förra veckan. ”Lägre el- och drivmedelspriser motverkades av bland annat säsongsnormala prisökningar inom paketresor och biluthyrning”, säger Mikael Nordin, prisstatistiker på SCB, i ett pressmeddelande. Riksbankens inflationsmål är 2,0 procent. Den ovanligt låga inflationen påverkas bland annat av den tillfälliga skattesänkningen på drivmedel och den statliga subventionen av månadskort till kollektivtrafiken som infördes 1 juli.",
-          "url": "https://www.tv4.se/artikel/tt-260813-inflation1-c0645335/inflationen-rasar-lagre-elpriser-bakom-fallet",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlfnHTkxYHr20/a33651ba25f76ed703d9a1d7b08bdd42/Priset_pa_bland_annat_kaffe_har_rusat_i_hojden_senaste_tiden._Nasta_vecka_halls_ett_mote_mellan_regeringen_och_representanter_f.",
-          "published_at": "2026-08-13T06:02:22Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260813-inflation1-c0645335/inflationen-rasar-lagre-elpriser-bakom-fallet",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
           "sort_order": 4
         },
         {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 5 000 på hangarfartyget • Klev inte i land på 250 dagar Så har kriget förändrats: ”Det är Irans vilja som styr just nu” Enskilda ledamöter kan avgöra • Frågan om mängdrabatt tas upp i Riksdagen S-kängan till Strömmer: ”Som en tågbiljett utan avgångstid” S uppmanar liberaler att rösta nej om straffrabatt",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Nu drar Way out west igång • Polisen varnar för bedragare TV4 sänder från Way Out West 2026 – alla artister och konserter",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -324,7 +324,7 @@
           "source_kind": "video",
           "title": "Rapport – Fre 7 aug 19:30",
           "summary": "Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen",
-          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
           "url": "https://www.svtplay.se/video/ep55M3L/rapport/fre-7-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54666332/1786123465?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-14T23:59:00Z",
@@ -348,7 +348,7 @@
           "source_kind": "video",
           "title": "Rapport – Idag 09:30",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
           "url": "https://www.svtplay.se/video/86dqmnE/rapport/idag-09-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54700517/1786606991?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T09:30:00Z",
@@ -372,7 +372,7 @@
           "source_kind": "video",
           "title": "Rapport – Idag 09:00",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
           "url": "https://www.svtplay.se/video/8p55RRX/rapport/idag-09-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54699875/1786605706?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T09:00:00Z",
@@ -396,7 +396,7 @@
           "source_kind": "video",
           "title": "Rapport – Idag 08:30",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
           "url": "https://www.svtplay.se/video/8vvvNxL/rapport/idag-08-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54699254/1786603511?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T08:30:00Z",
@@ -420,7 +420,7 @@
           "source_kind": "video",
           "title": "Rapport – Idag 08:00",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
           "url": "https://www.svtplay.se/video/ed664kr/rapport/idag-08-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54698714/1786602101?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T08:00:00Z",
@@ -444,7 +444,7 @@
           "source_kind": "video",
           "title": "Rapport – Idag 07:30",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
           "url": "https://www.svtplay.se/video/KZxxnZV/rapport/idag-07-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54698105/1786599901?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T07:30:00Z",
@@ -468,7 +468,7 @@
           "source_kind": "video",
           "title": "Rapport – Igår 19:30",
           "summary": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa",
-          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
           "url": "https://www.svtplay.se/video/KR55Bo1/rapport/igar-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54695327/1786555460?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T19:30:00Z",
@@ -492,7 +492,7 @@
           "source_kind": "video",
           "title": "Rapport – Tis 11 aug 19:30",
           "summary": "Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike",
-          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
           "url": "https://www.svtplay.se/video/e2ddAmy/rapport/tis-11-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54686864/1786469042?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T19:30:00Z",
@@ -516,7 +516,7 @@
           "source_kind": "video",
           "title": "Rapport – Mån 10 aug 19:30",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
           "url": "https://www.svtplay.se/video/Kn44PD3/rapport/man-10-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54678212/1786385061?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T19:30:00Z",
@@ -540,7 +540,7 @@
           "source_kind": "video",
           "title": "Rapport – Sön 9 aug 19:30",
           "summary": "S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap",
-          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
           "url": "https://www.svtplay.se/video/j7ddA2X/rapport/son-9-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54670613/1786296292?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T19:30:00Z",
@@ -564,7 +564,7 @@
           "source_kind": "video",
           "title": "Rapport – Lör 8 aug 19:30",
           "summary": "Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar",
-          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
           "url": "https://www.svtplay.se/video/jMyyEXp/rapport/lor-8-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54668198/1786209933?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T19:30:00Z",
@@ -588,7 +588,7 @@
           "source_kind": "video",
           "title": "Rapport – Tor 6 aug 19:30",
           "summary": "Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar",
-          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Putin: Hotar borda västfartyg • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Värmen i Europa: Matpriserna kan påverkas • Ukraina: Dödliga frontavsnittet i Ukraina • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Nyheter från Sverige och världen. Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Sverigedemokraterna: Väljare ska vinnas i norr • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Kräftpremiären: Importen från Kina minskar • Albanien: Unga albaner protesterar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Ryssland: Elva länder vill stoppa ryska turister • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Politik: Skarp kritik mot Vänsterpartiet • Medicin: Allt fler överlever stroke • Sverige: Inbrott och stölder minskar Mer om programmet",
           "url": "https://www.svtplay.se/video/8y22yV6/rapport/tor-6-aug-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54657749/1786037087?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T19:30:00Z",
@@ -877,30 +877,6 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "2e2da95288a0",
-          "source_id": "svt-sportnytt",
-          "source_name": "Sportnytt",
-          "provider": "SVT Play",
-          "category": "Sport",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sportnytt – Idag 08:45",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Senaste nytt i sportvärlden. Mer om programmet Publicerades: Sön 9 aug 17:55 4 min 57 sek Publicerades: Tis 11 aug 09:45 4 min 41 sek Publicerades: Tis 11 aug 08:45 4 min 38 sek Personliga möten med svenska idrottsstjärnor",
-          "url": "https://www.svtplay.se/video/KXvvWvo/sportnytt/idag-08-45",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54699572/1786604786?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-13T08:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/KXvvWvo/sportnytt/idag-08-45",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Sport",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        },
-        {
           "id": "cdbddc2f0224",
           "source_id": "svt-sportnytt",
           "source_name": "Sportnytt",
@@ -912,9 +888,33 @@
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "body_text": "Publicerades: Tis 11 aug 09:45 4 min 41 sek Publicerades: Tis 11 aug 08:45 4 min 38 sek Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jn44v5q/sportnytt/idag-09-45",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54700886/1786608206?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T07:45:00Z",
           "embed_url": "https://www.svtplay.se/video/jn44v5q/sportnytt/idag-09-45",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Sport",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "2e2da95288a0",
+          "source_id": "svt-sportnytt",
+          "source_name": "Sportnytt",
+          "provider": "SVT Play",
+          "category": "Sport",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Sportnytt – Idag 08:45",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Tis 11 aug 09:45 4 min 41 sek Publicerades: Tis 11 aug 08:45 4 min 38 sek Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/KXvvWvo/sportnytt/idag-08-45",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54699572/1786604786?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-13T06:45:00Z",
+          "embed_url": "https://www.svtplay.se/video/KXvvWvo/sportnytt/idag-08-45",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1241,7 +1241,7 @@
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
           "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/egWWyQR/morgonstudion/igar-06-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53655334/1768482968?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54701150/1786610801?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T04:00:00Z",
           "embed_url": "https://www.svtplay.se/video/egWWyQR/morgonstudion/igar-06-00",
           "play_mode": "page_iframe",
@@ -1402,7 +1402,7 @@
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "url": "https://www.svtplay.se/video/KPBa235/kulturnyheterna/idag-09-41?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52371355/1737553575?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54700877/1786608161?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T09:41:00Z",
           "embed_url": "https://www.svtplay.se/video/KPBa235/kulturnyheterna/idag-09-41?video=visa",
           "play_mode": "page_iframe",
@@ -2071,20 +2071,20 @@
           "sort_order": 14
         },
         {
-          "id": "0bcd53c3cff1",
+          "id": "6ffe1ccca5c7",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sunday Night in America with Trey Gowdy - Sunday, July 12 | Fox News Video",
-          "summary": "iran unleashes strikes, remembering lindsey graham, birthright citizen battle",
-          "body_text": "iran unleashes strikes, remembering lindsey graham, birthright citizen battle Trey Gowdy, the former South Carolina Congressman, breaks down the legal and political news.",
-          "url": "https://www.foxnews.com/video/6403317590112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/61fbd20e-5d17-4be8-a5a5-e836675ec002/95897044-a778-4680-89de-210db3107601/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-13T05:44:37Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403317590112",
+          "title": "Gutfeld! - Wednesday, August 12 | Fox News Video",
+          "summary": "FNC, Governor Francesca Hong, University of Michigan, Student Mental Health Crisis, Rosie O’Donnell, President Trump,",
+          "body_text": "FNC, Governor Francesca Hong, University of Michigan, Student Mental Health Crisis, Rosie O’Donnell, President Trump, Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+          "url": "https://www.foxnews.com/video/6403317848112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/50024a33-0a1d-487a-aa29-678b2af6f618/2c8f7c1e-b7ed-4ec0-af0a-65f859471842/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-13T06:53:59Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403317848112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "fedf4819814e",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+          "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+          "body_text": "The Israeli military says it will deploy additional troops to the occupied West Bank after failing to force away Israeli settlers who have trapped two Palestinian families in their homes since Sunday. The Abu Ridi and Hassan families - who live on the outskirts of the village of Qusra, south of Nablus - made appeals for help after their water and power supplies were cut off and their food stocks ran low. The case is the latest to draw attention to the relative impunity of settlers and how Israeli forces are struggling to deal with rising settler violence. Videos shared from Qusra overnight show a dozen Israeli security vehicles – including a bulldozer. In later footage – filmed in the daylight – there is a long line of Israeli security forces on the road to the Palestinian village, which remains a closed military zone. Local media reports say that a nearby Israeli settler outpost was demolished. Qusay Abu Ridi, who has been trapped by settlers in his home since Sunday with his water and power cut off, told the BBC that the house had been attacked again overnight and that a few settlers remained in the area, hiding from the army. His brother – who owns the property – is a Palestinian-American businessman who had complained to the US embassy. The US ambassador to Israel Mike Huckabee said his embassy had asked Israel to remove the settlers, describing them as \"Israeli terrorists\". \"Actions by those who carried out this horrific act of terror meant to intimidate and harass this family are disgusting. No excuse for such thuggish behavior,\" he posted on X. The situation in Qusra first began on Sunday when settlers blocked the road to the Palestinian families' gates and cut off their power and water supplies. The first Israeli soldiers who came to the site prayed with the settlers – an act for which the Israel military later said they would be disciplined. On Wednesday an attempt by Israeli security forces to dislodge the settlers led to confrontations with a bigger group – and ultimately failed.",
+          "url": "https://www.bbc.com/news/articles/cj4kppdk2qwo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
+          "published_at": "2026-08-13T08:12:53Z",
+          "embed_url": "https://www.bbc.com/news/articles/cj4kppdk2qwo",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "f4b3947797d7",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "d39b622b3172",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "61b3d7dc4b11",
@@ -2168,9 +2192,9 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Japan protests against Putin visit to disputed Kuril islands",
+          "title": "Japan PM Takaichi says Putin's visit to disputed Kuril islands 'absolutely unacceptable'",
           "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-          "body_text": "Japan said it \"strongly protests\" against Vladimir Putin's visit to the Kuril islands on Thursday, the first time the Russian president had visited the disputed island chain. Russian state media reported that Putin visited Iturup - known in Japan as Etorofu - one of four islands in the Kuril chain that are claimed by Russia and Japan. Japan's foreign minister Toshimitsu Motegi said the islands were \"inherently Japanese territory both historically and under international law, and the Government of Japan strongly protests this visit\". The countries have been locked in a dispute over the Kurils for decades, and it is the main reason Moscow and Tokyo did not sign a peace treaty after World War Two. The Kuril islands sit between Hokkaido in northern Japan and Russia's Kamchatka Peninsula. Four of the southernmost islands are claimed by Japan, which calls them the Northern Territories. They are administered by Russia. At the end of World War Two, the Soviet Union annexed the island chain and deported around 17,000 Japanese residents. During his visit, Putin sampled fish roe and spoke to island locals, Russian state media reported. Over the years, attempts to resolve the territorial dispute have made little progress. Bilateral ties have also remained frosty, with Japan imposing sanctions against Russia for its invasion of Ukraine in 2022. Japan has protested against previous visits by Russian officials to the disputed islands, including Russian Prime Minister Mikhail Mishustin and his predecessor Dmitry Medvedev. The Kuril islands are a strategic area for Russia, which has beefed up its military presence on the islands over the past decade. The island of Iturup is used as its primary military air base in the region. Last month, Chinese and Russian naval warships sailed through a strait in the Kuril islands during a joint patrol. Russia also holds regular military drills near the islands, drawing condemnation from Japan.",
+          "body_text": "Japan's Prime Minister Sanae Takaichi has criticised Vladimir Putin's first-ever visit to the disputed Kuril islands on Thursday as \"absolutely unacceptable\". Russian state media reported that Putin visited Iturup, known in Japan as Etorofu, one of four islands in the Kuril chain that are claimed by Russia and Japan. Putin's trip \"has worsened Japanese sentiment towards Russia,\" Takaichi told reporters, maintaining the island chain was \"a unique territory of [Japan] historically and under international law\". The countries have been locked in a dispute over the Kurils for decades, and it is the main reason Moscow and Tokyo did not sign a peace treaty after World War Two. The Kuril islands sit between Hokkaido in northern Japan and Russia's Kamchatka Peninsula. Four of the southernmost islands are claimed by Japan, which calls them the Northern Territories. They are administered by Russia. At the end of World War Two, the Soviet Union annexed the island chain and deported around 17,000 Japanese residents. During his visit, Putin sampled fish roe and spoke to island locals, Russian state media reported. Earlier on Thursday, Japan's foreign minister Toshimitsu Motegi said the islands were \"inherently Japanese territory both historically and under international law, and the Government of Japan strongly protests this visit\". Over the years, attempts to resolve the territorial dispute have made little progress. Bilateral ties have also remained frosty, with Japan imposing sanctions against Russia for its invasion of Ukraine in 2022. Japan has protested against previous visits by Russian officials to the disputed islands, including Russian Prime Minister Mikhail Mishustin and his predecessor Dmitry Medvedev. The Kuril islands are a strategic area for Russia, which has beefed up its military presence on the islands over the past decade. The island of Iturup is used as its primary military air base in the region. Last month, Chinese and Russian naval warships sailed through a strait in the Kuril islands during a joint patrol.",
           "url": "https://www.bbc.com/news/articles/cqx7ple0nxxo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/26a4/live/b1ea09c0-96dd-11f1-9b96-77d3dc534330.jpg",
           "published_at": "2026-08-13T04:46:09Z",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "985bd2c19ec1",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "d2a35359b5e7",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "72c082d449ba",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "c0a7005bf860",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "9da2aa3687a2",
@@ -2302,7 +2326,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "385e4d5c224d",
@@ -2326,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "5d4f1a271422",
@@ -2350,7 +2374,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "4b6e64ed419c",
@@ -2374,7 +2398,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 11
         },
         {
           "id": "93eaf650e977",
@@ -2388,7 +2412,7 @@
           "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
           "body_text": "It's been 16 years since three people were executed on the same day in the US, but on Thursday, three men convicted of murder in different US states will face the death penalty. The planned executions of inmates Anthony Darrell Hines, 66, Jeremy Williams, 41, and Carlos Cuesta-Rodriguez, 71, in Tennessee, Alabama and Oklahoma, respectively, are indicative of a steep rise in executions across the US. Last year, in 2025, there were more than four times as many people put to death as there were in 2021, even as juries, and the American public at large, became increasingly wary of its use. So what's driving the increase and are the US public in step with the trend? President Donald Trump has long been a major supporter of the death penalty, describing capital punishment as \"an essential tool for deterring and punishing those who would commit the most heinous crimes and acts of lethal violence against American citizens\". In 2020, during his first term, he ended a nearly two-decade moratorium on the federal death penalty, by ordering 13 executions over a six month period. While the moratorium returned under President Biden, on the first day of Trump's second term in 2025, he signed an executive order that re-instated the death penalty. No federal executions have been carried out since he signed it, however. In the US, both the federal government and local states authorities can order executions. Under Trump's administration, the Department of Justice has also expanded protocols to include additional manners of execution, such as by firing squad, and readopted lethal injections. The agency said in April that it has also streamlined internal processes to expedite death penalty cases. Trump's executive order also encouraged states to seek the death penalty for every federal crime when a law enforcement officer is killed, and instructed the attorney general to ensure that states have an ample supply of drugs for lethal injections, facilitating the states' ability to carry out capital punishment. But his true impact won't be known for several years, said Justin Mazzola, deputy director for research at Amnesty International USA, which opposes the death penalty. \"Because of the length it takes for the actual case to happen, and then also all the appeals that are built in once there is a conviction,\" he said. There were a total of 47 executions across 11 states in 2025, a marked increase from the 25 executions carried out in 2024.",
           "url": "https://www.bbc.com/news/articles/cn5n399n6zvo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5e27/live/7fc0af60-968f-11f1-870d-5d08c49babb2.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9aef/live/2bc6d5b0-96ee-11f1-bdf3-57bf9a99cb46.jpg",
           "published_at": "2026-08-12T16:33:20Z",
           "embed_url": "https://www.bbc.com/news/articles/cn5n399n6zvo",
           "play_mode": "page_iframe",
@@ -2398,7 +2422,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 11
+          "sort_order": 12
         },
         {
           "id": "cd484b8590f7",
@@ -2422,30 +2446,6 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 12
-        },
-        {
-          "id": "e25e34f94c57",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Israeli settlers besieging Palestinian families in West Bank village",
-          "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-          "body_text": "Israeli settlers have been besieging two Palestinian families in their homes in the occupied West Bank since Sunday, with the families saying their supplies were running out and rights groups urging the authorities to step in. On Wednesday Israeli security forces were reported to have withdrawn from the Jewish settler outpost in the village of Qusra near Nablus, following clashes with a crowd of extremist settlers. About a dozen settlers are said to remain at the site. After the Palestinian homeowners made their initial report to the Israeli army, the first soldiers who arrived at the scene were filmed praying with the settlers. The Abu Ridi and Hassan families have been posting on social media appealing for help after their water and power supplies were cut off and their food stocks ran low. It is not clear exactly what the settlers in Qusra want. In the past, settlers have forced Palestinians out of their homes and seized their properties. The stated aim of the settlers is to empty the area of its Palestinian residents. The latest developments come as a top UN official told the Security Council in New York on Tuesday that \"the West Bank is at breaking point\". All settlements are illegal under international law. Outposts are set up without official Israeli authorisation. Palestinian security camera footage shows settlers tearing down a wall outside the Abu Ridi family's home on Sunday evening and using the stones to block the road. This left seven people - including two young girls – unable to leave their homes while other Palestinians could not reach them. They live in what is known as Area B, part of the West Bank under Palestinian administrative control and Israeli security control. Posting on Facebook, Qusay Abu Ridi said the situation was critical, \"especially as we are completely isolated\". He wrote: \"We are living in our own home, on our own land, and we are asking for nothing more than the right to live safely and with dignity.\"",
-          "url": "https://www.bbc.com/news/articles/cn0npjkqrleo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
-          "published_at": "2026-08-12T12:16:22Z",
-          "embed_url": "https://www.bbc.com/news/articles/cn0npjkqrleo",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
           "sort_order": 13
         }
       ]
@@ -3793,7 +3793,7 @@
           "source_kind": "story",
           "title": "Lovable confirms new $13.3B valuation, raises another $400M | TechCrunch",
           "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-          "body_text": "Europe’s favorite vibe-coding startup Lovable has confirmed previously reported whispers that it was raising another mega round at a $13.3 billion valuation. Lovable said on Wednesday that it has raised $400 million in a Series C round led by Menlo Ventures and the Scaleup Europe Fund, with more than a dozen other investors participating. This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch . Its previous round, announced in December, brought in $330 million at a $6.6 billion valuation and was also led by Menlo Ventures, with CapitalG as co-lead. As the startup has grown — it now says it hosts 60 million projects that attract 900 million monthly visitors — so has its back-end needs and sophistication, the company says. Lovable, for instance, offers its own in-house trained AI model , as well as the usual frontier model options. In June, it signed a multiyear deal with Google Cloud, a fivefold increase in usage. Lovable has also backed other European startups , such as Danish startup Atech , which is building vibe-coding software that designs tech hardware. Note: One of Lovable’s new Series C investors is Regent, the investment firm that also owns TechCrunch. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y! Delta investigating after someone set up fake Wi-Fi network mid-flight Anthropic says it will watermark text generated by its AI models Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI YouTube now requires creators to have twice as many watch hours to start earning money This ‘adversarial’ pattern can prevent surveillance cameras from detecting you Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
+          "body_text": "Europe’s favorite vibe-coding startup Lovable has confirmed previously reported whispers that it was raising another mega round at a $13.3 billion valuation. Lovable said on Wednesday that it has raised $400 million in a Series C round led by Menlo Ventures and the Scaleup Europe Fund, with more than a dozen other investors participating. This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch . Its previous round, announced in December, brought in $330 million at a $6.6 billion valuation and was also led by Menlo Ventures, with CapitalG as co-lead. As the startup has grown — it now says it hosts 60 million projects that attract 900 million monthly visitors — so has its back-end needs and sophistication, the company says. Lovable, for instance, offers its own in-house trained AI model , as well as the usual frontier model options. In June, it signed a multiyear deal with Google Cloud, a fivefold increase in usage. Lovable has also backed other European startups , such as Danish startup Atech , which is building vibe-coding software that designs tech hardware. Note: One of Lovable’s new Series C investors is Regent, the investment firm that also owns TechCrunch. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y! Delta investigating after someone set up fake Wi-Fi network mid-flight Anthropic says it will watermark text generated by its AI models Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI YouTube now requires creators to have twice as many watch hours to start earning money This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
           "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801",
           "published_at": "2026-08-12T16:04:27Z",
@@ -4318,9 +4318,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Misstankarna mot ryssparet läggs ner",
-          "summary": "Det ryska paret som togs i förvar av polisen i anslutning till en stuga med koppling till Saabs vd Micael Johansson väntar nu på att resa hem. – Det finns inte längre någon misstanke mot paret, säger deras advokat Silas Aliki.",
-          "body_text": "Det ryska paret som togs i förvar av polisen i anslutning till en stuga med koppling till Saabs vd Micael Johansson väntar nu på att resa hem. – Det finns inte längre någon misstanke mot paret, säger deras advokat Silas Aliki. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Paret, som har uppehållstillstånd i Spanien, väntar nu på att kunna återvända till sitt hem där, uppger deras advokat. Både avvisningsbeslut och återreseförbud är upphävt och det finns inte längre någon misstanke om brott. – Polisen uppmanar paret att lämna landet senast den 16 augusti, säger Silas Ailiki och fortsätter: Enligt dokument från polisen innebär uppmaningen att paret kan ”komma att avvisas eller utvisas med tvång” och beläggas med återreseförbud om de inte lämnar Sverige innan det angivna datumet. – Samtidigt krävs då att det upprättas nya misstankar om brott för att det ska finnas belägg till det, säger Aliki. Enligt parets advokat planerar de att åka hem så snart de fått tillbaka sina telefoner som varit tagna i beslag. De två ryska turisterna, Semjon Rusanov och Tatjana Milenina, slog i förra veckan upp sitt tält i Furuvik . Kort därefter, i torsdags, slog vakter vid en närliggande sommarstuga larm och polisen ingrep. Paret fördes sedan till Migrationsverkets förvar. På platsen vistades vid tillfället Saabs vd Micael Johansson, vars roll inom försvarsindustrin innebär att han har skyddsvakter.",
+          "title": "Ryska tältparet uppmanas lämna",
+          "summary": "Det ryska paret som togs i förvar av polisen i anslutning till en stuga med koppling till Saabs vd Micael Johansson väntar nu på att resa hem.",
+          "body_text": "Det ryska paret som togs i förvar av polisen i anslutning till en stuga med koppling till Saabs vd Micael Johansson väntar nu på att resa hem. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Paret, som har uppehållstillstånd i Spanien, väntar nu på att kunna återvända till sitt hem där, uppger deras advokat. Både avvisningsbeslut och återreseförbud är upphävt och paret är inte delgivna misstanke om brott. – Polisen uppmanar paret att lämna landet senast den 16 augusti, säger Silas Ailiki och fortsätter: Enligt dokument från polisen innebär uppmaningen att paret kan ”komma att avvisas eller utvisas med tvång” och beläggas med återreseförbud om de inte lämnar Sverige innan det angivna datumet. – Samtidigt krävs då att det upprättas nya misstankar om brott för att det ska finnas belägg till det, säger Aliki. Enligt parets advokat planerar de att åka hem så snart de fått tillbaka sina telefoner som varit tagna i beslag. De två ryska turisterna, Semjon Rusanov och Tatjana Milenina, slog i förra veckan upp sitt tält i Furuvik . Kort därefter, i torsdags, slog vakter vid en närliggande sommarstuga larm och polisen ingrep. Paret fördes sedan till Migrationsverkets förvar. På platsen vistades vid tillfället Saabs vd Micael Johansson, vars roll inom försvarsindustrin innebär att han har skyddsvakter. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/misstankarna-mot-ryska-paret-laggs-ner-lamnar-sverige/",
           "image_url": "https://static.bonniernews.se/images/c1/78/c178b3ff66c64f9caf9d55cdc596d32d/16x9/original.png",
           "published_at": "2026-08-12T20:23:48Z",
@@ -4359,54 +4359,6 @@
           "sort_order": 5
         },
         {
-          "id": "466fd6318cc4",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Kryptiska svaret om svarta lådan",
-          "summary": "Den ”svarta lådan” efter fartygsolyckan utanför Tjörn har nu inhämtats. – Den innehåller information som gör att man i realtid kan spela upp olika navigationsinstrument, säger Johan Albihn på Statens haverikommission. Åklagaren James von Reis vill inte kommentera den ”av ett speciellt skäl”.",
-          "body_text": "Den ”svarta lådan” efter fartygsolyckan utanför Tjörn har nu inhämtats. – Den innehåller information som gör att man i realtid kan spela upp olika navigationsinstrument, säger Johan Albihn på Statens haverikommission. Åklagaren James von Reis vill inte kommentera den ”av ett speciellt skäl”. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. För två veckor sedan tros det norska fraktfartyget Misje Verde ha kört över en fritidsbåt utanför Tjörn . En mamma och dotter omkom i olyckan och en pappa och son skadades. Nu har Statens haverikommission laddat ner innehållet i fartygets ”svarta låda”. – Fartygets färdskrivare innehåller information som gör att man i realtid kan spela upp olika navigationsinstrument. Det finns också ljudinspelningar från bryggan, säger Johan Albihn, ordförande i Haverikommissionen utredning av olyckan. Färdskrivarens kvalitéer liknar de vid ett flygplans svarta låda. I den ser man i realtid ”i princip” samma instrumentering som syntes på bryggan vid en olyckshändelse. – Det finns loggat där och man kan spela upp det i efterhand och se vad som syntes på de olika instrumenten vid olika tidpunkter, säger Albihn. Dessutom finns ljud sparat från mikrofonerna på bryggan. – Vi har tillgång till materialet och håller på att analysera det. Men vi är inte klara med analysen än. Vad den svarta lådan har visat än så länge vill inte Albihn kommentera. Men han säger att lådan garanterat kommet att visa var fartyget befann sig i kanalen mellan öarna Katten och Lövön när olyckan ägde rum. De hoppas också få se vad radarn hade upptäckt. – En del i utredningen är att vi, så detaljerat som möjligt, vill förstå hela händelseförloppet. Och det hoppas vi att informationen från svarta lådan ska kunna ge oss, säger Albihn.",
-          "url": "https://www.expressen.se/nyheter/sverige/svarta-ladan-analyseras-kan-spela-upp-handelsen/",
-          "image_url": "https://static.bonniernews.se/images/21/30/21306e3365274ae08f3248e524a79e8a/16x9/original.png",
-          "published_at": "2026-08-12T20:12:43Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/svarta-ladan-analyseras-kan-spela-upp-handelsen/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "472e2b33da33",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Häpnades av solen: ”Var väldigt fint”",
-          "summary": "Från norr till söder kunde svenskar häpnas av den efterlängtade solförmörkelsen. En av de som kollade var rymdintresserade Nellie Regander, 23, från Hörby.",
-          "body_text": "Från norr till söder kunde svenskar häpnas av den efterlängtade solförmörkelsen. En av de som kollade var rymdintresserade Nellie Regander, 23, från Hörby. – Jag blev överraskad att det var så tydligt, säger hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Strax innan 19.00 drog den efterlängtade solförmörkelsen in över Sverige . I skånska Hörby syntes den särskilt bra. Det säger Nellie Regander, 23, som var ute och kollade. Tillsammans med sin pappa och storebror har de ett stort intresse för rymden och astronomi. I flera dagar har de gjort sig redo på solförmörkelsens intåg. För att inte skada ögonen hade Nellie Regander på sig ett par solförmörkelseglasögon. De fick hon tag på trots att det varit slutsålt runtom i hela landet . Dem tror hon var en anledning till att hon såg förmörkelsen så tydligt. – Jag trodde nog inte att det skulle synas så mycket som det faktiskt gjorde. Vi visste att det inte skulle vara hundra procent heller utan bara åttio procent, säger hon. Hon säger att det blev ett väldigt fint ljus – Omgivningen var fortfarande ljus. Men när man kollade på solen med brillorna såg det ut som en halvmåne nästan. Det var väldigt fint. I Hörby nådde förmörkelsen sitt maximum 20.03. En annan som blev häpnad av dramat på himlavalvet var Rasmus, 25, i Sollentuna. Han var inte beredd på att förmörkelsen skulle komma.",
-          "url": "https://www.expressen.se/nyheter/sverige/hapnades-av-solen-var-valdigt-fint/",
-          "image_url": "https://static.bonniernews.se/images/db/c0/dbc0385d377c4326bd8e11b4cc8fd145/16x9/original.png",
-          "published_at": "2026-08-12T19:26:49Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/hapnades-av-solen-var-valdigt-fint/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
           "id": "4927559b1bc9",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4428,7 +4380,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 8
+          "sort_order": 6
         },
         {
           "id": "8cf057ff4f5c",
@@ -4452,6 +4404,54 @@
             "Expressen"
           ],
           "is_live": true,
+          "sort_order": 7
+        },
+        {
+          "id": "466fd6318cc4",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Sverige I går 22.12 Svarta lådan analyseras – kan spela upp händelsen",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/sverige/svarta-ladan-analyseras-kan-spela-upp-handelsen/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/sverige/svarta-ladan-analyseras-kan-spela-upp-handelsen/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "472e2b33da33",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Sverige I går 21.26 Häpnades av solen: ”Var väldigt fint”",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/sverige/hapnades-av-solen-var-valdigt-fint/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/sverige/hapnades-av-solen-var-valdigt-fint/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4467,35 +4467,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Vid 05-tiden på torsdagen larmade en ordningsvakt om ett slagsmål vid Stureplan i Stockholm. Den misstänkte gärningsmannen försökte fly i en taxi, men ordningsvakter fick stopp på bilen. Mannen, som är i 25-årsåldern, misstänks nu för misshandel. Målsägaren är okänd. Korna på bilden kopplas inte till olyckan. Foto: Luca Ponti / SHUTTERSTOCK En äldre man hittades död i en kohage i Valdemarsviks kommun i förra veckan, rapporterar Norrköpings Tidningar. – En person ska ha gått in i en hage och vad jag förstår har han blivit attackerad av korna i hagen, säger Angelica Israelsson Silvfer till tidningen. Polisen bedömer händelsen som en olycka och det finns ingen misstanke om brott. Mannen hade kopplingar till gården där olyckan skedde. Inflationen rasar från 0,7 procent till 0,2 procent i juli, enligt måttet KPI, visar definitiva siffror från SCB. Enligt måttet KPIF, där effekter av bolåneräntor räknas bort, sjönk inflationen från 1,3 procent till 0,7 procent. ”Lägre el- och drivmedelspriser motverkades av bland annat säsongsnormala prisökningar inom paketresor och biluthyrning”, säger Mikael Nordin, prisstatistiker på SCB, i ett pressmeddelande. Utfallet är i linje med de preliminära siffrorna som presenterades förra veckan. Riksbankens inflationsmål är 2,0 procent, enligt måttet KPIF. En man i 40-årsåldern uppger att han har blivit rånad på Möllevången i Malmö strax innan midnatt i går kväll. Två män ska ha slagit mannen i Jesusparken och sen tagit mannens mobiltelefon innan de lämnade platsen. Mannen fördes till sjukhus med oklart skadeläge. En anmälan om misstänkt rån har upprättats, men det finns inga uppgifter om någon misstänkt. Ambulansfacket kräver säkerhetsvakter vid riskfyllda utryckningar efter mordet på en ambulanssjukvårdare i Harmånger i Gävleborg förra året, rapporterar Ekot . Ambulansförbundet anser att polis inte räcker till, utan vill att regionerna ska utreda möjligheten att använda vaktbolag vid riskfyllda utryckningar.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
