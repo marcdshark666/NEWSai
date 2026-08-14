@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:53:10Z",
+  "generated_at": "2026-08-14T09:03:10Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "c83b7275c939",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Årets spannmålsskörd väntas krympa",
+          "summary": "Nyheter från TV4: Årets spannmålsskörd väntas krympa",
+          "body_text": "Årets spannmålsskörd väntas bli närmare sex miljoner ton. Arkivbild. Årets spannmålsskörd förväntas bli 5,9 miljoner ton. Det är en minskning med 9 procent jämfört med i fjol. Nedgången förklaras bland annat av att skörden av höstvete väntas minska med 10 procent till 3,2 miljoner ton, enligt årets skördeprognos från Jordbruksverket . ”Minskningen förklaras både av minskad hektaravkastning för de flesta grödorna samt minskade arealer för höstsådda grödor”, skriver Jordbruksverket i ett pressmeddelande. Totalskörden för oljeväxter, som raps och rybs, uppskattas bli drygt 0,38 miljoner ton. Det är 5 procent lägre än förra året. ”I flera delar av landet har juli gett grödorna bättre förutsättningar än vad som gick att räkna med i slutet av juni. Skördeläget har förbättrats, men volymen väntas fortfarande bli tydligt mindre än förra året”, skriver Per Germundsson, spannmålschef på Lantmännen, i en kommentar.",
+          "url": "https://www.tv4.se/artikel/tt-260814-spannmalskord1-d009e8d6/arets-spannmalsskord-vantas-krympa",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlRa94x7Eb_Jo/47d0220c2869b4e883b2bb012dd4631e/arets_spannmalsskord_vantas_bli_narmare_sex_miljoner_ton._Arkivbild.",
+          "published_at": "2026-08-14T07:58:58Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260814-spannmalskord1-d009e8d6/arets-spannmalsskord-vantas-krympa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "0bed7d55528d",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "2ad23743a09c",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "997902e64985",
@@ -103,47 +127,23 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "14a27bdc2284",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rekord för Björn Borg",
-          "summary": "Nyheter från TV4: Rekord för Björn Borg",
-          "body_text": "Klädkedjan Björn Borg redovisar rekordresultat för första halvåret av 2026. Delårsresultatet för andra kvartalet (1 april–30 juni) innebär en rörelsevinst på 11,8 miljoner kronor, en ökning om 11 procent. Den bidrar nu till den starka inledningen resultatmässigt för första halvåret. \"Det är det högsta rörelseresultat vi någonsin har levererat efter ett första halvår, samtidigt som omsättningen i princip är oförändrad jämfört med föregående år, säger bolagets vd Henrik Bunge i ett pressmeddelande. Gällande bolagets försäljning under andra kvartalet har det dock skett en minskning med 12,2 procent till nästan 200 miljoner kronor. Bolaget förklarar den med tajming när det gäller leveranser. ”En större del av sommarsäsongen levererades redan under årets första kvartal jämfört med föregående år”, skriver bolaget.",
-          "url": "https://www.tv4.se/artikel/tt-260814-detaljhandel1-6f127891/rekord-for-bjorn-borg",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlbtPtIDV-ID4/f42ea362b6f038f9faf5089a8d387062/Kalsonger_fran_Bjorn_Borg._Arkivbild._",
-          "published_at": "2026-08-14T05:49:04Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260814-detaljhandel1-6f127891/rekord-for-bjorn-borg",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
           "sort_order": 3
         },
         {
-          "id": "31a702a05f9f",
+          "id": "055ea00d5001",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
           "provider": "TV4",
           "category": "Ekonomi",
           "surface": "video",
           "source_kind": "video",
-          "title": "Vinstlyft för Sats",
-          "summary": "Nyheter från TV4: Vinstlyft för Sats",
-          "body_text": "Den Oslobaserade gymkedjan Sats redovisar ett rörelseresultat på 260 miljoner norska kronor för årets andra kvartal. Det är ett vinstlyft på 21 procent jämfört med motsvarande kvartal i fjol. Intäkterna steg 3 procent till drygt 1,4 miljarder kronor. Under kvartalet genomförde gymkedjans medlemmar 3 procent fler träningspass och 5 procent fler gruppträningspass jämfört med samma period i fjol. ”Hösten är en viktig träningssäsong och vi går in i den med hög aktivitet på våra gym och ett tydligt mål om att ge medlemmarna ännu mer värde av sitt medlemskap”, säger vd Sondre Gravir i rapporten . Antalet medlemmar ökade 1 procent i årstakt till cirka 744 000.",
-          "url": "https://www.tv4.se/artikel/tt-260814-satsdelar1-9a67f74b/vinstlyft-for-sats",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlKgZedcUqxzU/62f528715d4c0cd0c97f08cba2b2c9e4/Vinstlyft_for_Sats._Arkivbild._",
-          "published_at": "2026-08-14T05:47:39Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260814-satsdelar1-9a67f74b/vinstlyft-for-sats",
+          "title": "Trendbrottet: Kvinnor börjar handla kläder igen",
+          "summary": "Nyheter från TV4: Trendbrottet: Kvinnor börjar handla kläder igen",
+          "body_text": "Trendbrottet: Kvinnor börjar handla kläder igen Är de svenska hushållen på väg att öppna plånböckerna och konsumtionen ta fart igen? En rad tecken för det har kommit den senaste tiden, bland annat i form av klädbolagens rapporter. En återkommande utmaning för svensk ekonomi har varit den svaga konsumtionen . Efter de senaste årens kostnadssmällar har svenska hushåll varit extremt restriktiva, något som flera marknadsekonomer bedömer delvis hämmar den svenska återhämtningen från rådande lågkonjunktur. Såväl statistiskt som från bolagen syns nu siffror som kan vara ett tecken på en förändring. Tidigare i veckan redovisade Statistiska centralbyrån (SCB) siffror som visade på att hushållens konsumtion ökade med 1,6 procent i juni 2026 jämfört med maj. I onsdags kom också månadsstatistik från Svensk Handel där försäljningen av kläder ökade med 6,7 procent i juli jämfört med samma månad förra året. ”Det är glädjande att modehandeln fortsätter att utvecklas positivt. Juli är en reamånad och många konsumenter passar på att handla under sommarens reor. Våra medlemsföretag vittnar samtidigt om fler turister än vanligt i butikerna, vilket också kan ha bidragit till den starka försäljningen”, kommenterade Sofia Larsen, vd på Svensk Handel. På bolagsnivå har samtidigt två företag rapporterat starka kvartalssiffror. E-handelsbolaget Boozt ökade försäljningen med 13 procent i lokala valutor under andra kvartalet. Bolaget noterar en tillväxt under kvartalets samtliga månader, framför allt drivet av de kvinnliga konsumenterna som också är bolagets viktigaste kundkategori. ”Women's Fashion noterade en tillväxt efter flera månader med tillbakagång. Viktigt också så drevs tillväxten inte bara av nya kunder utan tidigare kunder handlar mer och stannar hos oss”, skriver bolaget i delårsrapporten. För den något mindre aktören Björn Borg blev det samtidigt rekordresultat för första halvåret 2026. Rörelsevinsten på 11,8 miljoner kronor innebär en ökning om 11 procent. Den bidrar nu till den starka inledningen resultatmässigt för första halvåret. \"Det är det högsta rörelseresultat vi någonsin har levererat efter ett första halvår, samtidigt som omsättningen i princip är oförändrad jämfört med föregående år, säger bolagets vd Henrik Bunge i ett pressmeddelande.",
+          "url": "https://www.tv4.se/artikel/tt-260814-detaljhandel1-6f127891/trendbrottet-kvinnor-borjar-handla-klader-igen",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlbtPtIDV-ID4/f42ea362b6f038f9faf5089a8d387062/Kalsonger_fran_Bjorn_Borg._Arkivbild._",
+          "published_at": "2026-08-14T05:49:04Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260814-detaljhandel1-6f127891/trendbrottet-kvinnor-borjar-handla-klader-igen",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -348,7 +348,7 @@
           "source_kind": "video",
           "title": "Rapport – Idag 09:30",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Riksdagen: Sista omröstningen före valet • Ambulansförbundet: Krav på väktare • Streaming: Kostnaderna ökar Mer om programmet Socialdemokraterna: Vill införa bankskatt • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Karlskoga: Satsning på ammunition • Värmen i Europa: Matpriserna kan påverkas • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Säkerhetspolisen: Rysk agent stoppad i Sverige • Tingsrätter: Svårt att rekrytera domare • Uleåborg – Haparanda: Premiär för tåg över gränsen Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Skogsbränderna: Skador för över 200 miljarder • Kräftpremiären: Importen från Kina minskar Mer om programmet Nytt besked: (S) vill slopa straffrabatten • Elsparkcykel: Störst risk för allvarliga skador • Kebnekaise: Fallande sten ny fara i fjällen Mer om programmet Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
           "url": "https://www.svtplay.se/video/jBwyo6P/rapport/idag-09-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54711260/1786693451?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-14T09:30:00Z",
@@ -888,7 +888,7 @@
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "body_text": "Publicerades: Ons 12 aug 08:45 4 min 25 sek Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/82ddxEg/sportnytt/idag-09-45",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54711695/1786694591?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-14T07:45:00Z",
           "embed_url": "https://www.svtplay.se/video/82ddxEg/sportnytt/idag-09-45",
           "play_mode": "page_iframe",
@@ -1241,7 +1241,7 @@
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
           "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/jVwwWgZ/morgonstudion/igar-06-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53655334/1768482968?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54711938/1786696612?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T04:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jVwwWgZ/morgonstudion/igar-06-00",
           "play_mode": "page_iframe",
@@ -1402,7 +1402,7 @@
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
           "url": "https://www.svtplay.se/video/jMyW9JJ/kulturnyheterna/idag-09-41?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52371355/1737553575?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54711626/1786693986?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-14T09:41:00Z",
           "embed_url": "https://www.svtplay.se/video/jMyW9JJ/kulturnyheterna/idag-09-41?video=visa",
           "play_mode": "page_iframe",
@@ -2046,20 +2046,20 @@
           "sort_order": 13
         },
         {
-          "id": "c571b9470aa6",
+          "id": "5971527fc387",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Fox News at Night - Thursday, August 13 | Fox News Video",
-          "summary": "Mike Emanuel, Iran, Socialism, Trump, WNBA, Woke, Luigi Mangioni, Flock, JD Vance, DEI,",
-          "body_text": "Mike Emanuel, Iran, Socialism, Trump, WNBA, Woke, Luigi Mangioni, Flock, JD Vance, DEI, Hard news and analysis of compelling stories.",
-          "url": "https://www.foxnews.com/video/6403375187112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/9e1c9f84-30e4-4e7b-8fb4-be1262832d02/11ece52f-7391-4567-93db-871558930b5f/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-14T05:30:53Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403375187112",
+          "title": "Gutfeld! - Thursday, August 13 | Fox News Video",
+          "summary": "FNC, Gutfeld!, Greg Gutfeld, DFW, Islamic foot wash, Karoline Leavitt, Rosie O'Donnell, SPLC, fraud, Royce White, WNBA, transgender, Cambridge professor, Hillary Clinton",
+          "body_text": "FNC, Gutfeld!, Greg Gutfeld, DFW, Islamic foot wash, Karoline Leavitt, Rosie O'Donnell, SPLC, fraud, Royce White, WNBA, transgender, Cambridge professor, Hillary Clinton Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+          "url": "https://www.foxnews.com/video/6403375649112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/b5a7d0c0-52b3-4fda-8b74-e311227c06a3/f0d318a5-6377-4b8a-a9cb-08b321a70ed1/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-14T06:30:34Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403375649112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2071,20 +2071,20 @@
           "sort_order": 14
         },
         {
-          "id": "0d825aa71409",
+          "id": "79582e61abd4",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Jesse Watters Primetime - Thursday, August 13 | Fox News Video",
-          "summary": "iran causing standoff, democrats throwing fits, wnba star closed-lined",
-          "body_text": "iran causing standoff, democrats throwing fits, wnba star closed-lined Jesse Watters speaks with newsmakers from across the country.",
-          "url": "https://www.foxnews.com/video/6403372086112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/939a3ac0-c52f-4542-909c-7b54bf225c3f/35a9afb1-2ddb-490c-9090-8b9af1f3ffb3/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-14T03:59:22Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403372086112",
+          "title": "Hannity - Thursday, August 13 | Fox News Video",
+          "summary": "Hannity, Socialist Party, Hasan Piker, New York, Transgender Athletes, Sophie Cunningham, WNBA, Mangione Trial, Clancy Trial, Marco Rubio,",
+          "body_text": "Hannity, Socialist Party, Hasan Piker, New York, Transgender Athletes, Sophie Cunningham, WNBA, Mangione Trial, Clancy Trial, Marco Rubio, Sean Hannity interviews political figures and newsmakers and offers his own perspective.",
+          "url": "https://www.foxnews.com/video/6403374210112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/44331abe-b409-45ce-a842-4cfdfc1b648e/2f4814c3-83e0-4a53-bf5e-23992f73ae02/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-14T05:52:49Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403374210112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,54 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "cbfefc3d2433",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Stolen Matisse artworks recovered by police in Brazil",
+          "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+          "body_text": "Eight illustrations by French artist Henri Matisse that were stolen from a library in São Paulo have been recovered by police in Brazil. The works, which have a combined estimated worth of about $200,000 (£148,000), were found on Thursday at a home in the town of São Bernardo do Campo, a suburb to the south of the city. A 44-year-old male suspect was arrested at the scene. During the heist at Biblioteca Mário de Andrade on 7 December last year, two thieves overpowered a security guard and an elderly couple who had been visiting the library, before making off with the artworks through the main entrance on foot. Three other people were previously arrested in relation to the case. Five works by the Brazilian artist Candido Portinari that were also taken during the robbery have not yet been recovered. João Paulo Linhares de Araujo, the man arrested on Thursday, is suspected by police of having stored the artworks on behalf of those accused of being involved in the theft, according to Brazilian news outlet Globo. Laéssio Rodrigues de Oliveira, 53, described by Brazilian media as a prolific art theif, is suspected of having planned and directed the crime, Globo reported. He has been in custody since April after being arrested in relation to another case. Another man and a woman have also been arrested over the library heist. The Matisse illustrations, made for the limited-edition art book Jazz, along with five engravings by Portinari, created to illustrate a special edition of the novel Menino de engheno (Plantation Boy) by Brazilian writer José Lins do Rego, formed part of a joint exhibition with the São Paulo Museum of Modern Art. The thieves targeted the exhibition, entitled From Book to Museum, on its final day. They reportedly entered the library by its main entrance mid-morning and headed towards the nearest metro station following the heist.",
+          "url": "https://www.bbc.com/news/articles/c1l1ym96ydvo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/27d1/live/3099e280-97a7-11f1-b9b1-c18c7ed25243.jpg",
+          "published_at": "2026-08-14T08:34:19Z",
+          "embed_url": "https://www.bbc.com/news/articles/c1l1ym96ydvo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "5b4e550677d6",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+          "summary": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
+          "body_text": "\"The earthquake is haunting me,\" Deivi Delfín says. The 15-year-old feels like he and his brother, Winder, have been chased by tremors these past few months, having lived through two that struck with devastating effect in Venezuela, only to get caught up in another this week after moving to Colombia. He tells the BBC that he and his brother, 17, no longer felt like children, having witnessed corpses damaged beyond recognition. After their home in La Guaira - the area of Venezuela hardest hit by the twin quakes on 24 June - was reduced to a pile of rubble, killing three family members including their mother, they moved to Cali, Colombia, where their father works, on Friday. Three days later, they felt the ground shake again. Back at the end of June, the two teenagers had gone to the beach on Venezuela's Caribbean coastline. Winder wanted to take their 10-year-old brother Moissés, but he was grounded. \"I kept insisting but my mum just wouldn't budge,\" he says. As they were heading home on the evening of the 24th, earthquakes of magnitude 7.2 and 7.5 struck just 39 seconds apart. The brothers hugged and shut their eyes. When they reopened them, everything was covered in dust and debris. When they arrived home, they saw the 12-storey apartment building had collapsed, trapping their mother Yusmani, grandmother Carmen and brother under a mountain of concrete. \"My world came crashing down,\" Winder says. The earthquakes killed more than 6,300 people, according to the Venezuelan government. There is still no clear official figure for the number of people missing. Winder and Deivi joined rescue efforts, but for three days had nowhere to sleep and nothing to eat. Their father, Deivid, who was in Colombia at the time, was unable to find them for three days after returning to Venezuela.",
+          "url": "https://www.bbc.com/news/articles/c9v42m3430vo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e44e/live/3a710840-979a-11f1-870d-5d08c49babb2.png",
+          "published_at": "2026-08-14T08:02:35Z",
+          "embed_url": "https://www.bbc.com/news/articles/c9v42m3430vo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "a383dcb25582",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2120,7 +2168,7 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Japan: Record rains in Chiba kill six people as thousands stranded at Narita Airport",
+          "title": "Japan: Record rain in Chiba kills six people as thousands stranded at Narita Airport",
           "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
           "body_text": "At least six people have died and five others are wounded in eastern Japan as record rainfall pummelled the Chiba prefecture near the capital Tokyo. The rains, which authorities have described as \"unprecedented\", cut power to more than 20,000 households while 7,000 travellers were stranded overnight at Tokyo's Narita airport. Local authorities issued a level five emergency warning, its highest alert, on Thursday. This was downgraded to a level four by Friday morning, but they continue to warn of landslide and flooding risks. The deluge comes after a series of storms swept through Japan and neighbouring countries this week, in what's been forecast to be an unusually active typhoon season. Japan's Meteorological Agency said the most recent deluge was brought by warm, humid air flowing into the country's east that combined with cold air above to make atmospheric conditions extremely unstable. The rains are expected to last through late on Friday. \"This case was an extremely unusual situation, even by Japan's historical weather standards,\" Chiba Governor Toshihito Kumagai told reporters on Friday morning. \"I have responded to many disasters in the past, but I have never experienced a case like this.\" Chiba, which sits right next to the capital city of Tokyo, has logged more than 100mm of rain per hour since Thursday afternoon, authorities say. This is about three times the average rainfall in August, and the highest volume of precipitation ever recorded in the country. Authorities would prioritise saving lives and persist with rescue efforts, Kumagai added. At lest six people have died, according to reports from public broadcaster NHK, Kyodo news agency and Asahi newspaper.",
           "url": "https://www.bbc.com/news/articles/cq561gpen8lo",
@@ -2134,7 +2182,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "388124b36659",
@@ -2146,7 +2194,7 @@
           "source_kind": "mixed",
           "title": "US says dozens of countries helped China dodge Trump's tariffs",
           "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-          "body_text": "The White House said in a report on Thursday that more than 40 countries had helped China sidestep US tariffs by routing exports through nations that face lower American import duties. The countries named include Canada, India, Mexico, Japan and South Korea, which the White House said had helped China evade tens of billions of dollars in tariffs, which are levied on companies importing goods. White House trade adviser Peter Navarro said it had cost \"American jobs and billions in revenue\". A spokesperson for the Chinese embassy in Washington said in response to BBC queries that \"trade wars have no winners\" and that it opposes the US tariff measures and the use of state power to target China's companies. The spokesperson added that \"any unilateral actions or agreements concerning transshipped goods must not target or harm the interests of third parties\". The BBC has contacted the US embassies of Canada, India, Mexico, Japan, South Korea and other trading partners listed in the report for comment. The report follows a wave of sanctions between the US and China and comes weeks before US President Donald Trump will meet Chinese leader Xi Jinping in Washington. Between $30bn (£22.2bn) and roughly $300bn in goods have been moved from countries with higher tariff through those with lower rates, according to government and private sector estimates quoted by the White House. The process is known as transshipping, which refers to the practice of transferring cargo through another country while en route to a final destination. The US accused China of \"taking advantage\" of the practice by moving goods through nations that have lower import duties. China has used third countries as a stopover and has repackaged goods to hide their real origin to obtain lower tariffs, the White House said in its report, describing the process as \"fraud cloaked in paperwork\". \"What has changed in today's Great Transshipment Scam is not merely the speed and scale of this modern form of smuggling, but the breadth, depth, and sophistication of the global Shadow Transshipment Network through which China's tariff evasion now moves,\" the White House wrote.",
+          "body_text": "The White House said in a report on Thursday that more than 40 countries had helped China sidestep US tariffs by routing exports through nations that face lower American import duties. The countries named include Canada, India, Mexico, Japan and South Korea, which the White House said had helped China evade tens of billions of dollars in tariffs, which are levied on companies importing goods. White House trade adviser Peter Navarro said it had cost \"American jobs and billions in revenue\". A spokesperson for the Chinese embassy in Washington said \"trade wars have no winners\" and that it opposes the US tariff measures and the use of state power to target China's companies. \"Any unilateral actions or agreements concerning transshipped goods must not target or harm the interests of third parties,\" the spokesperson added. The BBC has contacted the US embassies of Canada, India, Mexico, Japan, South Korea and other trading partners listed in the report for comment. The report follows a wave of sanctions between the US and China and comes weeks before US President Donald Trump will meet Chinese leader Xi Jinping in Washington. Between $30bn (£22bn) and roughly $300bn in goods have been moved from countries with higher tariffs through those with lower rates, according to government and private sector estimates quoted by the White House. The process is known as transshipping, which refers to the practice of transferring cargo through another country while en route to a final destination. The US accused China of \"taking advantage\" of the practice by moving goods through nations that have lower import duties. China has used third countries as a stopover and has repackaged goods to hide their real origin to obtain lower tariffs, the White House said in its report, describing the process as \"fraud cloaked in paperwork\". \"What has changed in today's Great Transshipment Scam is not merely the speed and scale of this modern form of smuggling, but the breadth, depth, and sophistication of the global Shadow Transshipment Network through which China's tariff evasion now moves,\" the White House wrote.",
           "url": "https://www.bbc.com/news/articles/c78gy6ep3n5o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
           "published_at": "2026-08-14T03:09:48Z",
@@ -2158,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "97422b88c710",
@@ -2182,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "a7eea80fd7ec",
@@ -2206,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "dc21cce9fce8",
@@ -2230,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "6176d0833538",
@@ -2254,7 +2302,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "5b3b5c384faf",
@@ -2278,31 +2326,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "f4d95fb50fc7",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Mali coup plot: Presidential pardon for French alleged spy Yann Vezilier",
-          "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-          "body_text": "A Frenchman who was sentenced to 20 years in prison in Mali for plotting an alleged coup in the West African country has now been granted a presidential pardon, it was announced on Thursday. Yann Vezilier was accused a year ago of trying to destabilise President Assimi Goïta's government \"on behalf of the French intelligence service\" alongside a number of army generals and dozens of soldiers. It is not yet clear what has prompted Mali's U-turn. France's foreign ministry has yet to comment on the pardoning, and previously said accusations that Vezilier was working in Mali as a French spy were \"unfounded\". In a post on Facebook , the Malian government said: \"This act of clemency, which does not call into question the facts established by an adversarial judgment rendered during a trial, where all rights of the defence were respected, is accompanied by the immediate removal of the individual from national territory.\" Mali is a former colony of France, and has been gripped by a security crisis fuelled by an Islamist insurgency since 2012. It was one of the reasons given for Goïta leading a coup in 2021 but attacks by jihadist groups have continued and even increased. At the time of the arrests last year, Mali's Security Minister Gen Daoud Aly Mohammedine said \"fringe elements of the Malian armed security forces\" had been detained for seeking to \"destabilise the institutions of the republic\". \"These soldiers and civilians\" were said to have obtained \"the help of foreign states\", the minister said. Vezilier was said to have acted \"on behalf of the French intelligence service, which mobilised political leaders, civil society actors and military personnel\" in Mali, according to the minister. Political tension and the security crisis have worsened in Mali. In April the country's defence minister was killed in an apparent suicide truck bombing on his residence near the capital, Bamako, during a wave of militant attacks. Goïta named himself defence minister shortly after, in an apparent attempt to consolidate his already considerable power. When the capital came under siege by Islamist fighters, they managed to impose a partial blockade there and total blockades elsewhere including the city of Ségou.",
-          "url": "https://www.bbc.com/news/articles/c2el29e3m3xo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d647/live/3b219a60-9728-11f1-808c-532494fd22c7.jpg",
-          "published_at": "2026-08-13T15:50:49Z",
-          "embed_url": "https://www.bbc.com/news/articles/c2el29e3m3xo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "4067f8306c98",
@@ -2326,30 +2350,6 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "78570944c085",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-          "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-          "body_text": "The departure of White House Press Secretary Karoline Leavitt will create a major opening in President Donald Trump's administration, and the guessing-game of who will replace her has already begun. So far, the White House has not announced who will succeed Leavitt, and sources within and close to the administration said no decision has yet been made. Leavitt has worked closely with Trump for years, and finding someone to take over could prove difficult. In announcing she would step down at the end of the month, Trump called Leavitt one of his \"most trusted aides\". When Leavitt was on leave earlier this year, a series of high-ranking figures, including Vice-President JD Vance and Secretary of State Marco Rubio, gave press briefings, instead of a temporary substitute from her office. Some expect the White House to return to that system, at least temporarily. But the complex job goes beyond the briefing room podium to include managing contentious relationships with the press, coordinating with other parts of the White House, and providing media advice to the president. The secretary also oversees an office that receives a significant amount of inquiries and requests on a daily basis. Perhaps most importantly, Leavitt's replacement will also be expected to live up to Trump's expectations. \"It's not easy,\" a source close to the administration told the BBC. \"That person will be very aware that he's watching every day.\" Here's a look at a few of the potential candidates for the job. Alina Habba was formerly President Trump's personal lawyer. In December, she resigned as the top federal prosecutor in New Jersey , after a court battle over her eligibility to serve as US attorney for the state. Trump selected Habba for the role of US attorney last year. When a district court rejected her nomination, Trump then installed her in a role allowing her to fill in on an acting basis. During Trump's first few months back at the White House, Habba served as the president's counsellor . In announcing her appointment, Trump described Habba as \"unwavering in her loyalty\" and a \"tireless advocate for justice\".",
-          "url": "https://www.bbc.com/news/articles/c0l5273xjnlo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9596/live/0b835a70-9758-11f1-9240-c70a29f1c818.jpg",
-          "published_at": "2026-08-13T14:56:19Z",
-          "embed_url": "https://www.bbc.com/news/articles/c0l5273xjnlo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
           "sort_order": 9
         },
         {
@@ -4108,7 +4108,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Sommarrea – upp till 70% på heminredning Upp till 25% på toppar, tunikor och tröjor",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till 25% på toppar, tunikor och tröjor Sommarrea – upp till 70% på heminredning",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4133,7 +4133,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Nya Muminkollektionen\"Rebel club\" har släppts – beställ muggarna med 25% rabatt här!",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4166,6 +4166,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "6a86b7f74487",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Svenska barnfamiljen flydde lågorna till fots: ”Oroliga”",
+          "summary": "En skogsbrand rasar i Kroatien. Över 1000 personer har tvingats fly lågorna, svenska Kearah och hennes familj är sju av dem.",
+          "body_text": "Från balkongen i Kroatien såg svenska Kearah och familjen skogsbranden rasa. De flydde semesterboendet först till fots, innan de efter över en timme fick tag på en buss. – Vi lever, det är det som är det viktiga, säger Kearah. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Kearah, 22, har sovit i en stor evakueringshall i Kroatiens huvudstad Split i natt. Det har även hennes kusin, kusinens man och de fyra kusinbarnen. Sömnen blev ingen höjdare, men hon är tacksam. – Vi lever, det är det som är det viktiga, säger hon. Minst 36 personer har skadats, varav sju är livshotande skadade, i samband med en skogsbrand som brutit ut strax utanför staden Omiš i Kroatien, enligt nyhetskanalen N1. Branden spred sig först snabbt genom vegetation innan lågorna började röra sig mot bostadsområden, enligt lokala medier. Omkring 1000 personer har flytt eller evakuerats, Kearah och hennes sällskap är sju av dem. De är på semester och hade hyrt ett boende uppe i bergen vid Omiš. Sent på kvällen i går fick de höra att de behövde evakuera. – Vi gick ut på balkongen och så såg vi, det var massivt, det var en stor brand, säger Kearah.",
+          "url": "https://www.expressen.se/nyheter/varlden/svenska-barnfamiljen-flydde-lagorna-pa-semestern-till-fots/",
+          "image_url": "https://static.bonniernews.se/images/a4/77/a4778821ab014a14b99bc10598a817be/16x9/original.png",
+          "published_at": "2026-08-14T08:58:53Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/svenska-barnfamiljen-flydde-lagorna-pa-semestern-till-fots/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "e0fa01bf4627",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "JUST NU: SMHI värmevarnar – extrem risk",
+          "summary": "Sommaren är inte över än. Till helgen blir det högsommarvarmt i södra Sverige. – Det kan bli uppemot 30 grader, säger meteorologen Ida Dahlström.",
+          "body_text": "Nu kommer högsommarvärmen till södra Sverige. – Det kan bli upp mot 30 grader, säger meteorologen Ida Dahlström. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Värmeböljan som pressat upp temperaturerna i stora delar av Europa kommer till Sverige på fredagen. – Det blir varmt, torrt och högsommarvarmt i södra Sverige, framför allt i Götaland och i östra Svealand, säger Ida Dahlström, meteorolog vid SMHI . – Då kulminerar värmen. Varmast ser det ut att bli längs Smålandskusten där det kan bli upp mot 30 grader lokalt, säger hon. Hela landet får däremot inte ta del av högsommarvärmen. I södra Norrland och västra Svealand väntas växlande molnighet och lokala skurar på fredagen och lördagen. I mellersta och norra Norrland väntas tidvis regn och svalare luft – med temperaturer runt 15 grader. SMHI har utfärdat ett meddelande om högra temperaturer på fredagen och lördagen – som sträcker sig från Kalmar till Södertälje. Myndigheten utfärdar meddelanden om vädersituationer där riskgrupper berörs av rådande väderförhållande – jämfört med varningar som handlar om fara för hela samhället. Då dagstemperaturen väntas överstiga 26 grader uppmanar man att ”vara vaksam på om personer i sin närhet påverkas av värmen” , då värmen kan ge ”ökad risk för hälsoproblem” . SMHI har även utfärdat varningar för skogsbränder som omfattar stora delar av södra Sverige och gäller under hela helgen samt måndagen. ”Risken för bränder i skog och mark är stor till lokalt extremt stor” , skriver SMHI.",
+          "url": "https://www.expressen.se/nyheter/vader/smhi-varnar-for-varmen-extrem-risk-for-brander/",
+          "image_url": "https://static.bonniernews.se/images/25/c4/25c4d7af4f9846ffb243c90fff28da5f/16x9/original.png",
+          "published_at": "2026-08-14T08:16:10Z",
+          "embed_url": "https://www.expressen.se/nyheter/vader/smhi-varnar-for-varmen-extrem-risk-for-brander/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "12e1691b76d4",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4187,7 +4235,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "0132451a85e5",
@@ -4211,7 +4259,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "46053cca23bc",
@@ -4235,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "28ad378d381e",
@@ -4247,7 +4295,7 @@
           "source_kind": "story",
           "title": "Det låg bakom flygplansdramat – man nära att sugas ut",
           "summary": "En man var nära att sugas ut ur ett flygplan när en fönsterruta på ett Ryanair-plan krossades. Nu visar sig orsaken till flygplansdramat vara en lös motordel.",
-          "body_text": "En man var nära att sugas ut ur ett flygplan när en fönsterruta krossades. – Han tittade på döden, har mannens advokat tidigare sagt. Nu visar sig orsaken till flygplansdramat vara en lös motordel, rapporterar AP . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ryanair-planet var på väg från Grekland till Tyskland och tusentals meter upp i luften när en kraftig smäll plötsligt hördes . Rutan på ett flygplansfönster hade krossats och panik utbröt. 61-åriga Ljubisa Karović drogs mot fönstret och var nära att sugas ut. – Vi var tre som drog in honom i planet. Alla grät, berättade hans fru Svetlana Grković. Ljubisa Karović fick både nack- och ryggskador, och flera brännskador, men räddades av att han fortfarande hade säkerhetsbältet på. Olyckan inträffade den 10 juni och har sedan dess väckt stor uppståndelse. Nu kommer uppgifter om att det var ett löst motorblad som orsakade händelsen. Ett motorblad ska ha lossnat från Boeing 737-planets högra motor och skadat inte bara fönstret, utan flera andra delar av flygplanet, rapporterar AP med hänvisning till en rapport från USA:s flygsäkerhetsmyndighet NTSB. Utredarna har hittat fågelkvarlevor inuti motorn, och en teori är att planet kan ha krockat med fåglar. Det är dock inte fastställt att just det är orsaken till att motordelen lossnade.",
+          "body_text": "En man var nära att sugas ut ur ett flygplan när en fönsterruta krossades. – Han såg döden, har mannens advokat tidigare sagt. Nu visar sig orsaken till flygplansdramat vara en lös motordel, rapporterar AP . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Ryanair-planet var på väg från Grekland till Tyskland och tusentals meter upp i luften när en kraftig smäll plötsligt hördes . Rutan på ett flygplansfönster hade krossats och panik utbröt. 61-åriga Ljubisa Karović drogs mot fönstret och var nära att sugas ut. – Vi var tre som drog in honom i planet. Alla grät, berättade hans fru Svetlana Grković. Ljubisa Karović fick både nack- och ryggskador, och flera brännskador, men räddades av att han fortfarande hade säkerhetsbältet på. Olyckan inträffade den 10 juni och har sedan dess väckt stor uppståndelse. Nu kommer uppgifter om att det var ett löst motorblad som orsakade händelsen. Ett motorblad ska ha lossnat från Boeing 737-planets högra motor och skadat inte bara fönstret, utan flera andra delar av flygplanet, rapporterar AP med hänvisning till en rapport från USA:s flygsäkerhetsmyndighet NTSB. Utredarna har hittat fågelkvarlevor inuti motorn, och en teori är att planet kan ha krockat med fåglar. Det är dock inte fastställt att just det är orsaken till att motordelen lossnade.",
           "url": "https://www.expressen.se/nyheter/varlden/lost-motorblad-bakom-flygplansdramat-man-nara-att-sugas-ut/",
           "image_url": "https://static.bonniernews.se/images/d1/66/d166320950fe4a4eb8fb0d4970c3e85a/16x9/original.png",
           "published_at": "2026-08-14T06:28:31Z",
@@ -4259,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "7467068dee3a",
@@ -4283,7 +4331,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "1c72ec12a0cf",
@@ -4307,7 +4355,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "89b3b339885b",
@@ -4331,23 +4379,23 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
-          "id": "ec09a0676d82",
+          "id": "d4a747d14322",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Svenskar på plats i brandinferno i Kroatien",
-          "summary": "En enorm skogsbrand har brutit ut i Kroatien. Svenska Gustav Rahm och Linnea Johansson ser branden från hotellrummets fönster. – Vi har packat och är redo att dra om det krävs, säger Gustav.",
-          "body_text": "En enorm skogsbrand har brutit ut i Kroatien. Svenska Gustav Rahm och Linnea Johansson ser branden från hotellrummets fönster. – Vi har packat och är redo att dra om det krävs, säger Gustav. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Över 150 brandmän kämpar mot lågorna i Kroatien efter att en skogsbrand brutit ut i staden Borak, drygt två mil från Split. Hundratals människor har evakuerats, och brandmän från hela Kroatien har kallats in. Drygt två kilometer bort sitter svenska Gustav Rahm och Linnea Johansson på sitt hotellrum. Från balkongen syns brandinfernot. – Folk packar ihop husbilar och husvagnar och sticker, säger Gustav. Enligt kroatiska medier började branden vid 20-tiden på kvällen, och har sedan spridit sig i enorm takt. – Situationen på brandplatsen är mycket svår, och brandmännen har en svår natt framför sig, säger brandchefen Slavko Tucaković. Precis utanför Gustav och Linneas hotell går den adriatiska motorvägen. Där köar bilar för att ta sig bort från lågorna. – Det är bilkö utanför, folk försöker ta sig härifrån. Under hela kvällen har man hört brandbilar, säger Gustav.",
-          "url": "https://www.expressen.se/nyheter/varlden/svenskar-pa-plats-i-brandinferno-vi-ar-redo-att-dra/",
-          "image_url": "https://static.bonniernews.se/images/09/9a/099aa445b92244f3af17d4c410ea6e3f/16x9/original.png",
-          "published_at": "2026-08-13T23:43:00Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/svenskar-pa-plats-i-brandinferno-vi-ar-redo-att-dra/",
+          "title": "Anderssons svar till Kristersson | Expressen",
+          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
+          "body_text": "I en intervju med Expressen går statsminister Ulf Kristersson (M) till angrepp mot Socialdemokraterna, Att det inte finns något uttalat regeringsalternativ på den rödgröna sidan kan i förlängningen leda till nyval, menar han. – På den sidan är de så fundamentalt oeniga. Om allt. Säkerhetspolitik, skattepolitik, flyktingpolitik, kriminalpolitik. De kommer inte kunna regera landet. Och då blir det en nyvalsregering som tvingar svenska folket att välja en gång till, säger han. Nu svarar S-ledaren Magdalena Andersson med en syrlig pik. – Jag noterar att Ulf Kristersson verkar helt inställd på valförlust, säger hon. Liberalerna vill se en löneförhöjning för lärare med 10 000 kronor i månaden. Höjningen beräknas kosta staten sju miljarder kronor. Vallöftet presenteras på en pressträff med Simona Mohamsson, partiledare och utbildningsminister, och Lotta Edholm, vice partiledare och gymnasie-, högskole- och forskningsminister. ”På sikt ska erfarna lärare tjäna som riksdagsledamöter”, säger Mohamsson i ett pressmeddelande. Statsminister Ulf Kristersson (M) tycker det är ”obegripligt” att Socialdemokraterna kommer rösta nej till att slopa mängdrabatten för brottslingar. – Rabatterna är i första hand ett hån mot brottsoffer. Vi beklagar uppriktigt att vi inte kan enas om att ta bort den. Ärligt talat är det helt obegripligt, säger Ulf Kristersson på en pressträff. Mängdrabatten innebär att brottslingar kan få ett samlat, kortare straff, om denne döms för flera brott samtidigt. Riksdagen ska rösta om förslaget i dag och det väntas bli en rysare där den rödgröna oppositionen har sagt att de ska rösta nej. – Jag tycker att det är mycket förvånande och beklagligt, men det är också en tydlig signal till brottsoffer och väljare. Jag vill bara säga en gång till, den här desinformationen om 2040, att det först då kan genomföras, den här reformen kan genomföras under nästa mandatperiod, säger justitieminister Gunnar Strömmer (M).",
+          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d8ace657-e893-4182-a588-d1953dd61192",
+          "image_url": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
+          "published_at": "2026-01-09T11:58:16Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d8ace657-e893-4182-a588-d1953dd61192",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4355,54 +4403,6 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "61d42f78feb6",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen I går 23.16 Ilskan mot Putin: ”Helt oacceptabelt”",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/ilskan-mot-putin-helt-oacceptabelt/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/ilskan-mot-putin-helt-oacceptabelt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "b2110888efa7",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen I går 22.33 Svenskan sköts i Lissabon – kulan kvar: ”Inte arg”",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/svenskan-skots-i-lissabon-kulan-kvar-inte-arg/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/svenskan-skots-i-lissabon-kulan-kvar-inte-arg/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4418,11 +4418,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "En manligt anställd vid Statens institutionsstyrelse (Sis) i Falköping ska ha kramat en kvinnlig chef \"väldigt hårt och länge\" och bitit henne i halsen, rapporterar nyhetsbyrån Siren. Chefen har anmält mannen till personalansvarsnämnden och han riskerar nu en disciplinsåtgård. I anmälan beskriver chefen hur hon kände ett stort tryck mot halsen under kramen och när kollegan släppte henne ska han ha sagt \"oj då, jag kanske inte skulle ha bitit dig\". Enligt chefen har samma kollega tidigare sagt till henne att hon var snygg. Den man som greps misstänkt för mord på en annan man i Söderhamn i går har anhållits av åklagare, uppger polisen. Mannen som dog var en man i 45-årsåldern. Även en kvinna i 50-årsåldern hittades skadan på adressen, men inget livshotande. En drönare som tog sig in i Lettlands luftrum tidigt på fredagsmorgonen har skjutits ned av stridsflyg på Natouppdrag. Ulf Kristersson (M) kommenterar händelsen på en pressträff på fredagen. – Jag är i kontakt med Lettlands premiärminister. Vi håller på och analyserar nu vad som hänt och får vi fram någon information som är relevant för Sverige så kommer vi återkomma under dagen, säger han. En sopbil började brinna under färd i Jönköping på fredagsmorgonen, rapporterar SVT Jönköping . När chauffören upptäckte branden valde han att köra mot brandstationen. Där fick han snabbt hjälp och räddningstjänsten påbörjade släckningsarbetet. Högerpopulisten Nigel Farage har utropats till valsegrare i fyllnadsvalet för brittiska Clacton. – Det är en övertygande och förkrossande seger, säger Farage. Farage fick 22 230 röster. Tvåan, en komiker som kallar sig Count Binface, utklädd till en soptunna och känd för sin politiska satir, fick 9 455 röster. Reform UK:s ledare Nigel Farage avgick som parlamentsledamot i början av juli – ett agerande som har ifrågasatts och kritiserats på bred front. Det har kallats för ett jippo och beskrivits som ett försök att avleda allmänhetens uppmärksamhet från de parlamentariska utredningar om mångmiljongåvor som pågår gentemot honom. Ingen från de stora partierna Labour, Tories, Liberal Democrats, Green Party och Restore Britain har ställt upp i fyllnadsvalet. Motståndet har i stället bestått av rekordmånga politiska vildar, komiker eller representanter för mindre partier: fler än 30 kandidater ställde upp, enligt BBC. Farage var en drivande kraft bakom Storbritanniens utträde ur EU och är omskriven som en möjlig framtida premiärminister. Hans ytterhögerparti Reform UK har ofta på senare tid toppat opinionsmätningarna eller legat på andra plats.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
