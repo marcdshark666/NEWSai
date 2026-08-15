@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:53:39Z",
+  "generated_at": "2026-08-15T16:17:39Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -259,7 +259,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Grannen ringde: ”Kräktes nästan i bilen” Stort stöd från samhället efter branden: ”Otroligt värmande” Dottern: ”Oerhört sorgligt” • Blev 78 år",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Grannen ringde: ”Kräktes nästan i bilen” • Familjens hem nedbrunnet i storbranden Stort stöd från samhället efter branden: ”Otroligt värmande” Dottern: ”Oerhört sorgligt” • Blev 78 år",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -363,54 +363,6 @@
           "sort_order": 0
         },
         {
-          "id": "b3016ed38758",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 16:00",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 13 aug 22:55 4 min 38 sek",
-          "url": "https://www.svtplay.se/video/8Dvv5xp/rapport/idag-16-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54719486/1786803251?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-15T16:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8Dvv5xp/rapport/idag-16-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "355dc0b2b280",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Igår 23:00",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 13 aug 22:55 4 min 38 sek",
-          "url": "https://www.svtplay.se/video/jakkbqp/rapport/igar-23-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54717368/1786741901?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-14T23:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jakkbqp/rapport/igar-23-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
           "id": "ed98eed51a8f",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -432,7 +384,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 1
         },
         {
           "id": "d4039244a838",
@@ -456,7 +408,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 2
         },
         {
           "id": "41b85bbcb706",
@@ -480,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 3
         },
         {
           "id": "58d8db603ec4",
@@ -504,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 4
         },
         {
           "id": "2bacbcb8e05c",
@@ -528,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 5
         },
         {
           "id": "eda0c08d8739",
@@ -552,23 +504,71 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 6
         },
         {
-          "id": "b29bd5c0f2e6",
+          "id": "f431e67ded0f",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Igår 09:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 13 aug 22:55 4 min 38 sek",
-          "url": "https://www.svtplay.se/video/jBwyo6P/rapport/igar-09-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54711260/1786693451?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-14T09:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/jBwyo6P/rapport/igar-09-30?video=visa",
+          "title": "Rapport – Ikväll 18:00",
+          "summary": "Arboga: Minst 18 bostäder förstörda • Medborgarskap: 1000 anmälda till prov",
+          "body_text": "Arboga: Minst 18 bostäder förstörda • Medborgarskap: 1000 anmälda till prov Mer om programmet Arboga: Våldsam radhusbrand • Skåne: Verksamhetschef anställde make • Skellefteå: Stort intresse för återbruk • Skellefteå: Stort intresse för återbruk Mer om programmet Riksdagen: Sista omröstningen före valet • Ambulansförbundet: Krav på väktare • Streaming: Kostnaderna ökar Mer om programmet Socialdemokraterna: Vill införa bankskatt • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Karlskoga: Satsning på ammunition • Värmen i Europa: Matpriserna kan påverkas • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Säkerhetspolisen: Rysk agent stoppad i Sverige • Tingsrätter: Svårt att rekrytera domare • Uleåborg – Haparanda: Premiär för tåg över gränsen Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Skogsbränderna: Skador för över 200 miljarder • Kräftpremiären: Importen från Kina minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/K5ddAEJ/rapport/ikvall-18-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54719951/1786809371?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T18:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/K5ddAEJ/rapport/ikvall-18-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "d35f24143e9a",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 18:00",
+          "summary": "Arboga: Våldsam radhusbrand • Skåne: Verksamhetschef anställde make • Skellefteå: Stort intresse för återbruk • Skellefteå: Stort intresse för återbruk",
+          "body_text": "Arboga: Minst 18 bostäder förstörda • Medborgarskap: 1000 anmälda till prov Mer om programmet Arboga: Våldsam radhusbrand • Skåne: Verksamhetschef anställde make • Skellefteå: Stort intresse för återbruk • Skellefteå: Stort intresse för återbruk Mer om programmet Riksdagen: Sista omröstningen före valet • Ambulansförbundet: Krav på väktare • Streaming: Kostnaderna ökar Mer om programmet Socialdemokraterna: Vill införa bankskatt • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Karlskoga: Satsning på ammunition • Värmen i Europa: Matpriserna kan påverkas • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Säkerhetspolisen: Rysk agent stoppad i Sverige • Tingsrätter: Svårt att rekrytera domare • Uleåborg – Haparanda: Premiär för tåg över gränsen Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Skogsbränderna: Skador för över 200 miljarder • Kräftpremiären: Importen från Kina minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/KkAAJNL/rapport/igar-18-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54715499/1786722927?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T18:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/KkAAJNL/rapport/igar-18-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "3b892381b6dc",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Tor 13 aug 18:00",
+          "summary": "Riksdagen: Sista omröstningen före valet • Ambulansförbundet: Krav på väktare • Streaming: Kostnaderna ökar",
+          "body_text": "Arboga: Minst 18 bostäder förstörda • Medborgarskap: 1000 anmälda till prov Mer om programmet Arboga: Våldsam radhusbrand • Skåne: Verksamhetschef anställde make • Skellefteå: Stort intresse för återbruk • Skellefteå: Stort intresse för återbruk Mer om programmet Riksdagen: Sista omröstningen före valet • Ambulansförbundet: Krav på väktare • Streaming: Kostnaderna ökar Mer om programmet Socialdemokraterna: Vill införa bankskatt • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Karlskoga: Satsning på ammunition • Värmen i Europa: Matpriserna kan påverkas • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Säkerhetspolisen: Rysk agent stoppad i Sverige • Tingsrätter: Svårt att rekrytera domare • Uleåborg – Haparanda: Premiär för tåg över gränsen Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Skogsbränderna: Skador för över 200 miljarder • Kräftpremiären: Importen från Kina minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/K1qqo3X/rapport/tor-13-aug-18-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54704858/1786636541?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T18:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/K1qqo3X/rapport/tor-13-aug-18-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -579,20 +579,20 @@
           "sort_order": 9
         },
         {
-          "id": "2709f5170570",
+          "id": "2fd172c24fc7",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Igår 09:00",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 13 aug 22:55 4 min 38 sek",
-          "url": "https://www.svtplay.se/video/e7ddggm/rapport/igar-09-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54710705/1786692181?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-14T09:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/e7ddggm/rapport/igar-09-00?video=visa",
+          "title": "Rapport – Ons 12 aug 18:00",
+          "summary": "Socialdemokraterna: Vill införa bankskatt • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa",
+          "body_text": "Arboga: Minst 18 bostäder förstörda • Medborgarskap: 1000 anmälda till prov Mer om programmet Arboga: Våldsam radhusbrand • Skåne: Verksamhetschef anställde make • Skellefteå: Stort intresse för återbruk • Skellefteå: Stort intresse för återbruk Mer om programmet Riksdagen: Sista omröstningen före valet • Ambulansförbundet: Krav på väktare • Streaming: Kostnaderna ökar Mer om programmet Socialdemokraterna: Vill införa bankskatt • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Karlskoga: Satsning på ammunition • Värmen i Europa: Matpriserna kan påverkas • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Säkerhetspolisen: Rysk agent stoppad i Sverige • Tingsrätter: Svårt att rekrytera domare • Uleåborg – Haparanda: Premiär för tåg över gränsen Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Skogsbränderna: Skador för över 200 miljarder • Kräftpremiären: Importen från Kina minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/jJyy7nE/rapport/ons-12-aug-18-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54694784/1786550099?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T18:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jJyy7nE/rapport/ons-12-aug-18-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -603,20 +603,20 @@
           "sort_order": 10
         },
         {
-          "id": "8f9ad47c2340",
+          "id": "f2a50b9510ad",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Igår 08:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Tor 13 aug 22:55 4 min 38 sek",
-          "url": "https://www.svtplay.se/video/8LJJVMq/rapport/igar-08-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54710093/1786689821?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-14T08:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/8LJJVMq/rapport/igar-08-30?video=visa",
+          "title": "Rapport – Tis 11 aug 18:00",
+          "summary": "Karlskoga: Satsning på ammunition • Värmen i Europa: Matpriserna kan påverkas • Värmen i Europa: Bananer odlas i Frankrike",
+          "body_text": "Arboga: Minst 18 bostäder förstörda • Medborgarskap: 1000 anmälda till prov Mer om programmet Arboga: Våldsam radhusbrand • Skåne: Verksamhetschef anställde make • Skellefteå: Stort intresse för återbruk • Skellefteå: Stort intresse för återbruk Mer om programmet Riksdagen: Sista omröstningen före valet • Ambulansförbundet: Krav på väktare • Streaming: Kostnaderna ökar Mer om programmet Socialdemokraterna: Vill införa bankskatt • Nya regelskolan: Hårdare tag i skolan i höst • Solförmörkelse: Kan ses över delar av Europa Mer om programmet Karlskoga: Satsning på ammunition • Värmen i Europa: Matpriserna kan påverkas • Värmen i Europa: Bananer odlas i Frankrike Mer om programmet Säkerhetspolisen: Rysk agent stoppad i Sverige • Tingsrätter: Svårt att rekrytera domare • Uleåborg – Haparanda: Premiär för tåg över gränsen Mer om programmet S-löfte: Dubbla barnbidrag inför lov • Myskoxar: GPS ger ny kunskap Mer om programmet Svenska fjällen: Helikopterturismen ökar • Skogsbränderna: Skador för över 200 miljarder • Kräftpremiären: Importen från Kina minskar Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
+          "url": "https://www.svtplay.se/video/eorrkNE/rapport/tis-11-aug-18-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54686468/1786463704?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T18:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/eorrkNE/rapport/tis-11-aug-18-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -910,9 +910,9 @@
           "source_kind": "video",
           "title": "Sportnytt – Idag 17:55",
           "summary": "Senaste nytt i sportvärlden.",
-          "body_text": "Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Senaste nytt i sportvärlden. Mer om programmet Publicerades: Sön 9 aug 17:55 4 min 57 sek Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/K5ddpQx/sportnytt/idag-17-55",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54719972/1786810471?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-15T15:55:00Z",
           "embed_url": "https://www.svtplay.se/video/K5ddpQx/sportnytt/idag-17-55",
           "play_mode": "page_iframe",
@@ -934,7 +934,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Igår 21:30",
           "summary": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/86ddDbX/sportnytt/igar-21-30",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54717290/1786741257?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-14T19:30:00Z",
@@ -945,8 +945,32 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "83abba376f5b",
+          "source_id": "svt-sportnytt",
+          "source_name": "Sportnytt",
+          "provider": "SVT Play",
+          "category": "Sport",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Sportnytt – Igår 18:33",
+          "summary": "Senaste nytt i sportvärlden.",
+          "body_text": "Senaste nytt i sportvärlden. Mer om programmet Publicerades: Sön 9 aug 17:55 4 min 57 sek Personliga möten med svenska idrottsstjärnor",
+          "url": "https://www.svtplay.se/video/84ddDPD/sportnytt/igar-18-33",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54715979/1786726491?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-14T16:33:00Z",
+          "embed_url": "https://www.svtplay.se/video/84ddDPD/sportnytt/igar-18-33",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Sport",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 2
         },
         {
           "id": "f9b7e7e1d35f",
@@ -958,7 +982,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 13 aug 21:46",
           "summary": "Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jN33pPM/sportnytt/tor-13-aug-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54707825/1786657658?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T19:46:00Z",
@@ -969,8 +993,8 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 2
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "d65a22a44ee5",
@@ -982,7 +1006,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 12 aug 21:46",
           "summary": "Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jxggzw9/sportnytt/ons-12-aug-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54696488/1786565325?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T19:46:00Z",
@@ -993,8 +1017,8 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 3
+          "is_live": false,
+          "sort_order": 4
         },
         {
           "id": "7b3edca6f29b",
@@ -1006,7 +1030,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 11 aug 21:46",
           "summary": "Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jVwwGE4/sportnytt/tis-11-aug-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54688025/1786481358?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-11T19:46:00Z",
@@ -1017,8 +1041,8 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 4
+          "is_live": false,
+          "sort_order": 5
         },
         {
           "id": "f7e4a9157134",
@@ -1030,7 +1054,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 10 aug 21:46",
           "summary": "Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/egWWG5Y/sportnytt/man-10-aug-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54679175/1786392592?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-10T19:46:00Z",
@@ -1041,8 +1065,8 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 5
+          "is_live": false,
+          "sort_order": 6
         },
         {
           "id": "7907139a7875",
@@ -1054,7 +1078,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 8 aug 19:45",
           "summary": "AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/8y22ZVk/sportnytt/lor-8-aug-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54668822/1786263874?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-08T17:45:00Z",
@@ -1065,8 +1089,8 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 6
+          "is_live": false,
+          "sort_order": 7
         },
         {
           "id": "e7ddbdcbe0ed",
@@ -1078,7 +1102,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 7 aug 21:25",
           "summary": "Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/eakkGY6/sportnytt/fre-7-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54666959/1786130931?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-07T19:25:00Z",
@@ -1089,8 +1113,8 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "84d31e559e0d",
@@ -1102,7 +1126,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 6 aug 21:25",
           "summary": "Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/e3ddzbd/sportnytt/tor-6-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54658547/1786045989?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-06T19:25:00Z",
@@ -1113,8 +1137,8 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 8
+          "is_live": false,
+          "sort_order": 9
         },
         {
           "id": "1e0e4ee79649",
@@ -1126,7 +1150,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 5 aug 21:25",
           "summary": "MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jR55nmJ/sportnytt/ons-5-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54688043/1786481863?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-05T19:25:00Z",
@@ -1137,8 +1161,8 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 9
+          "is_live": false,
+          "sort_order": 10
         },
         {
           "id": "4f6b8380bf67",
@@ -1150,7 +1174,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 4 aug 21:25",
           "summary": "CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador",
-          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet MFF:s damer tog historisk seger i Europa • Ryssar ska tävla i Malmö Smash • Allsvensk fördjupning: Sirius Mer om programmet CL-kval för Mjällby hemma på Strandvallen • Andreas Almgren siktar på EM-guld i Birmingham • Nyopererade Rebecca Peterson vägrar ge upp – trots alla skador Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/82ddEbP/sportnytt/tis-4-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54688055/1786481987?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-04T19:25:00Z",
@@ -1161,31 +1185,7 @@
             "Sport",
             "SVT Play"
           ],
-          "is_live": true,
-          "sort_order": 10
-        },
-        {
-          "id": "43b0106647cc",
-          "source_id": "svt-sportnytt",
-          "source_name": "Sportnytt",
-          "provider": "SVT Play",
-          "category": "Sport",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "SVT Sport möter Graham Potter",
-          "summary": "I oktober 2025 tog engelsmannen Graham Potter över som förbundskapten för det svenska herrlandslaget i fotboll - efter att hans föregångare Jon Dahl Tomasson misslyckats med att ta Sverige direkt till fotbolls-VM. 50-årige Potter har ett förflutet som tränare för Premier League-klubbarna Brighton och Chelsea. Men för den svenska publiken är han kanske främst förknippad med sitt tränarjobb i Östersunds FK, som han tog från division 2 ända upp till allsvenskan. Så hur ska då Graham Potter vända den negativa trend som herrlandslaget befinner sig i? Har han vad som krävs för att Sverige ska ta sig till VM i sommar? Det och mycket annat frågade SVT Sports programledare André Pops honom.",
-          "body_text": "Personliga möten med svenska idrottsstjärnor I oktober 2025 tog engelsmannen Graham Potter över som förbundskapten för det svenska herrlandslaget i fotboll - efter att hans föregångare Jon Dahl Tomasson misslyckats med att ta Sverige direkt till fotbolls-VM. 50-årige Potter har ett förflutet som tränare för Premier League-klubbarna Brighton och Chelsea. Men för den svenska publiken är han kanske främst förknippad med sitt tränarjobb i Östersunds FK, som han tog från division 2 ända upp till allsvenskan. Så hur ska då Graham Potter vända den negativa trend som herrlandslaget befinner sig i? Har han vad som krävs för att Sverige ska ta sig till VM i sommar? Det och mycket annat frågade SVT Sports programledare André Pops honom.",
-          "url": "https://www.svtplay.se/video/ja4EWMQ/svt-sport-moter-graham-potter",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53895511/1773153966?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-03-10T01:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/ja4EWMQ/svt-sport-moter-graham-potter",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Sport",
-            "SVT Play"
-          ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 11
         }
       ]
@@ -1745,6 +1745,56 @@
           "sort_order": 0
         },
         {
+          "id": "623320049dfe",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Donald Trump warns Iran over Strait of Hormuz control as tensions rise | Fox News Video",
+          "summary": "Correspondent Jonathan Hunt reports on the escalating tensions between the U.S. and Iran after President Donald Trump's comments regarding the Strait of Hormuz and the Iranian deputy foreign minister's response.",
+          "body_text": "Correspondent Jonathan Hunt reports on the escalating tensions between the U.S. and Iran after President Donald Trump's comments regarding the Strait of Hormuz and the Iranian deputy foreign minister's response.",
+          "url": "https://www.foxnews.com/video/6403461838112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa9e3f6b-3ee6-4e23-8f0d-7a50935323be/2a163e84-55eb-45d8-8633-0b95c687b616/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-15T15:39:35Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403461838112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "8d988f74a990",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "DOJ cracks down on MASSIVE marriage fraud scheme | Fox News Video",
+          "summary": "The Justice Department exposing an alleged sham marriage ring, charging 11 people with setting up over 1,000 fake marriages in an effort to defraud the American visa system.",
+          "body_text": "The Justice Department exposing an alleged sham marriage ring, charging 11 people with setting up over 1,000 fake marriages in an effort to defraud the American visa system. Host Kayleigh McEnany reveals how immigration fraud is under fire as authorities target multiple illegal operations. The Department of Justice charged 11 people with organizing over 1,000 sham marriages to abuse the visa system. Meanwhile, Texas officials are cracking down on birth tourism centers offering instant American citizenship to newborns of Chinese nationals.",
+          "url": "https://www.foxnews.com/video/6403461260112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cb8fcd0-e354-4b8b-9858-22ce8325eca6/5fa2a807-02cc-4db3-a687-aaca3d78419e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-15T15:36:40Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403461260112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "5eed34689022",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1767,7 +1817,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "a6ce8cace7c1",
@@ -1792,7 +1842,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "9e2ace1e67bb",
@@ -1817,7 +1867,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "8b882aafbccc",
@@ -1842,7 +1892,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "b8cb0359682f",
@@ -1867,7 +1917,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "f0dbd9b916c0",
@@ -1892,7 +1942,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "456dd0f5f9c4",
@@ -1917,7 +1967,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "769543d4e547",
@@ -1942,56 +1992,6 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "ec28e843dc16",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Re-Bath teams up with HGTV home renovators | Fox News Video",
-          "summary": "Re-Bath partners with HGTV's Dave and Jenny Marrs to launch exclusive bathroom design packages. The collaboration makes bathroom remodeling simple and accessible with various modern, traditional and transitional designs.",
-          "body_text": "Re-Bath partners with HGTV's Dave and Jenny Marrs to launch exclusive bathroom design packages. The collaboration makes bathroom remodeling simple and accessible with various modern, traditional and transitional designs. Re-Bath partners with HGTV's Dave and Jenny Marrs to launch exclusive bathroom design packages. This partnership aims to simplify the bathroom remodeling process with complete updates completed in just a few days.",
-          "url": "https://www.foxnews.com/video/6403449554112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1409a5ae-d16d-45b2-80f9-306c501c5f77/3a0a9ee8-8a9c-47a0-95d5-da8236cf3e5d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-15T12:06:13Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403449554112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "76bdb22c1b7a",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "New jobs data reveals unexpected trend for working women | Fox News Video",
-          "summary": "FOX Business host Cheryl Castone joins ‘Fox & Friends Weekend’ to discuss the latest jobs data, breaking down labor force declines and women outnumbering men on U.S. payrolls.",
-          "body_text": "FOX Business host Cheryl Castone joins ‘Fox & Friends Weekend’ to discuss the latest jobs data, breaking down labor force declines and women outnumbering men on U.S. payrolls. Fox Business host Cheryl Casone breaks down the July jobs report with host Rachel Campos-Duffy on 'Fox & Friends Weekend.' Casone discusses why women accounted for 100 percent of the labor force decline in July, dropping by 165,000, even as women outnumber men on payrolls. She highlights how economic shifts are impacting female-dominated sectors like healthcare and education.",
-          "url": "https://www.foxnews.com/video/6403448050112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/850b2497-fe6c-4b94-a761-a46d135b5ee3/f974bd6a-48aa-4997-9831-44902c33e967/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-15T11:54:35Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403448050112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
           "sort_order": 10
         },
         {
@@ -2169,8 +2169,8 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
-          "body_text": "Eleven people have been killed in Israeli strikes in southern Lebanon, authorities say, in one of the deadliest days of attacks since an agreement aimed at reducing hostilities was announced in June. Lebanon's prime minister said seven people were killed in a strike on a house on the outskirts of Ansar in the Nabatieh district, which state media reported included three children and two women. Later on Saturday, another round of strikes hit the town of Deir al-Zahrani, killing four and wounding five others, the Lebanese Ministry of Health said. Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers. Authorities say the strike in Ansar at around 04:30 (01:30 GMT) occurred where displaced families were living. Footage on social media shows large plumes of smoke permeating through the streets of the village as sirens ring out. Lebanon's Prime Minister Nawaf Salam condemned the attacks, saying the seven civilians killed were not \"military infrastructure\". \"Israel must halt this escalation,\" he said. \"For the security of our people and their right to life on their land are not subject to negotiation or bargaining.\" The Israel Defense Forces (IDF) said the incident that had prompted its strike on Ansar took place in the Ali al-Taher Ridge, a strategic high ground overlooking much of south-eastern Lebanon and of the war's most fiercely contested positions. Lebanon's state-run National News Agency (NNA) also reported a series of strikes around the ridge. Near the border, several homes were reportedly destroyed in Bint Jbeil, while Israeli forces opened heavy machine gun fire towards houses, according to NNA. Lebanon was drawn into the war between Israel, the US and Iran on 2 March, when Hezbollah - the armed group affiliated with Iran - launched rockets into Israel in retaliation for a strike that killed Iran's supreme leader. Israel responded by launching a bombing campaign across Lebanon and invading a significant part of the country's south. Its forces continue to occupy roughly 5% of Lebanese territory.",
+          "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+          "body_text": "Eleven people have been killed in Israeli strikes in southern Lebanon, authorities say, in one of the deadliest days of attacks since an agreement aimed at reducing hostilities was announced in June. Lebanon's prime minister said seven people were killed in a strike on a house on the outskirts of Ansar, 70km (43 miles) south of the capital, Beirut. State media reported three children and two women were among the dead. Israel's Defense Forces (IDF) said it had killed a commander of Hezbollah - the Iran-backed Shia militia - following an attack against Israeli soldiers. The commander's family \"who he used as human shields\" were present and \"harmed\", it added. Later on Saturday, another round of strikes hit the town of Deir al-Zahrani, killing four and wounding five others, the Lebanese ministry of health said. Lebanese authorities say the strike in Ansar at around 04:30 (01:30 GMT) occurred where displaced families were living. Footage on social media shows large plumes of smoke permeating through the streets of the village as sirens ring out. Lebanon's Prime Minister Nawaf Salam condemned the attacks, saying the seven civilians killed were not \"military infrastructure\". \"Israel must halt this escalation,\" he said. \"For the security of our people and their right to life on their land are not subject to negotiation or bargaining.\" The IDF said the incident that prompted its strike on Ansar had taken place in the Ali al-Taher Ridge, a strategic high ground overlooking much of south-eastern Lebanon and one of the war's most fiercely contested positions. A later IDF statement said Ali Samir al-Haj Hassan, who it described as a Hezbollah battalion commander in the Radwan Force unit, had been killed. \"Alongside him, several additional terrorists who were involved in advancing terror attacks against IDF soldiers were eliminated,\" it added. \"The strike was specifically directed at Hassan, who was a lawful target under international law, not at his family members who he used as human shields - hiding alongside them inside the military HQ,\" the IDF said.",
           "url": "https://www.bbc.com/news/articles/c4gjygx4gjeo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
           "published_at": "2026-08-15T11:24:24Z",
@@ -4214,6 +4214,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "3c613f4f9060",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Simon räddade de inlåsta pojkarna: ”Gav mig en kram”",
+          "summary": "Hyresvärden Simon räddade de svenska inlåsta bröderna i Zürich, rapporterar DN. 72-åringen såg ett hänglås på dörren och larmade polisen. – När de fick syn på mig kom de fram och gav mig en kram, säger Simon.",
+          "body_text": "Hyresvärden Simon räddade de svenska inlåsta bröderna i Zürich, rapporterar DN . 72-åringen såg ett hänglås på dörren och larmade polisen. – När de fick syn på mig kom de fram och gav mig en kram, säger Simon, enligt tidningen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Efter 26 orosanmälningar under nästan fem års tid försvann de två svenska bröderna helt från myndigheternas radar. 1,5 år senare hittades de inlåsta i en lägenhet i schweiziska huvudstaden Zürich . Fastighetsägaren Simon såg ett hänglås på dörren och larmade polisen. Sen räddades pojkarna från rummet de varit inlåsta i utan varken vatten eller dagsljus, rapporterar DN . – Det ena barnet sov i sängen medan det andra sprang runt, säger Simon till tidningen Tages Anzeiger. Simon berättar att pappan flyttade in i lägenheten bara några dagar innan polisinsatsen. När en annan hyresgäst hörde barnröster från pappans rum såg Simon hänglåset på dörren och förstod att något var fel. ”Att låsa in barnen är ett brott; jag kommer att polisanmäla detta”, skrev han då i ett sms till pappan, enligt DN. Simon var med och låste upp dörren tillsammans med polisen. Han berättar att han då möttes av en kram från pojkarna. Enligt de schweiziska rättshandlingarna har pappa stängt in sönerna och spikat fast en bräda för fönstret. Därefter har han gått till jobbet. Pojkarna var inlåsta i tre timmar med bara ett paket bröd och en potta.",
+          "url": "https://www.expressen.se/nyheter/varlden/simon-raddade-de-inlasta-pojkarna-i-schweiz/",
+          "image_url": "https://static.bonniernews.se/images/5e/69/5e694bd090b14feaa4a19720922d6cfd/16x9/original.jpg",
+          "published_at": "2026-08-15T16:10:02Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/simon-raddade-de-inlasta-pojkarna-i-schweiz/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "fdce42cf5ddf",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4221,7 +4245,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Familjens hem i ruiner: ”Det är hela ens liv”",
+          "title": "Tillbaka vid ruinerna: ”Allt är bara borta”",
           "summary": "ARBOGA. Therese Langes och Fredrik Göranzons radhus har brunnit ner till grunden. I sex år har de bott i Arboga och skapat sig ett hem. På några timmar försvann allt. – Allt är bara borta, säger Fredrik Göranzon.",
           "body_text": "ARBOGA. Therese Langes och Fredrik Göranzons radhus har brunnit ner till grunden. I sex år har de bott i Arboga och skapat sig ett hem. På några timmar försvann allt. – Allt är bara borta, säger Fredrik Göranzon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Therese Lange, 51, hade packat en enkel resväska med slitstarka kläder. Hon skulle åka till sommarstugan i Eskilstuna och måla. – Varför packade jag inte ner fler saker? säger hon. Nu står hon med sin sambo Fredrik Göranzon, 41, och sin son Elvin Lange, 16, framför ruinerna av sitt hem. Klockan 12.57 kom larmet in till SOS om en radhusbrand i utkanten av Arboga . Elvin Lange fick videor skickade till sig på Snapchat och ringde sin mamma för att berätta. Hon var då i Eskilstuna men satte sig i bilen direkt. När hon kom hem möttes hon av ett inferno. Hela längan med tio bostäder brann ner till grunden. I radhusen bakom har sex bostäder totalförstörts men alla har vatten och rökskador. De ska rivas. Ett dygn senare ligger rök och en tät lukt av brunna husgeråd kvar i luften. Betongväggarna mellan radhusen och balkongräcken i metall är i stort sett det enda som syns till. Therese Lange och Fredrik Göranzon tittar ut över vad som bara för en dag sedan var ett rött träradhus med egen uteplats, trädgård och hemmasnickrad altan. – Kolla där är vårt vardagsrumsbord, det vita. Det har slungats ut där. Och där stod soffan, säger Therese Lange och pekar på ett vitt träbord bland stenarna från den tidigare gavelvägen. – Och där stod vår gungstol. Bara konstruktionen kvar, säger sambon Fredrik Göranzon. Familjen flyttade till Arboga för sex år sedan. Livet i radhus lockade och priserna var bra. De hade byggt upp ett hem och renoverat kök och uteplats. Nu känner de ”bara tomhet”, säger Therese Lange.",
           "url": "https://www.expressen.se/nyheter/sverige/radhusbranden-i-arboga-familjen-forlorade-sitt-hem/",
@@ -4235,7 +4259,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "2c9550678131",
@@ -4259,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "72c68d557518",
@@ -4283,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "040a9c69c685",
@@ -4307,7 +4331,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "9dad8a6d35b0",
@@ -4331,7 +4355,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "a69c45fc228b",
@@ -4355,7 +4379,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "234b8b71a213",
@@ -4379,7 +4403,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "5b6e9c927b28",
@@ -4403,7 +4427,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "82d07ce11311",
@@ -4420,30 +4444,6 @@
           "image_url": "https://static.bonniernews.se/images/46/37/463732ee7f93484db17846f95a87bf02/16x9/original.png",
           "published_at": "2026-08-15T08:13:28Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/sveriges-forsta-medborgarskapsprov-har-skrivits/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "356e82efb7c8",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Nu skickas röstkorten ut – för första gången digitalt",
-          "summary": "Från och med den 15 augusti börjar röstkorten skickas ut inför valet den 13 september. För första gången får nu väljare med en digital brevlåda röstkorten digitalt.",
-          "body_text": "Från och med den 15 augusti börjar röstkorten skickas ut inför valet den 13 september. För första gången får nu väljare med en digital brevlåda röstkorten digitalt. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En annan nyhet är att den som ska rösta inte längre behöver ta med röstkortet vid förtidsröstning eller röstning i vallokal på valdagen, utan enbart legitimation. ”Oavsett om man får röstkortet digitalt eller på papper så behövs det inte längre vid röstning, utan det räcker att kunna identifiera sig”, säger Anna Nyqvist, kanslichef på Valmyndigheten i ett pressmeddelande. Enligt Valmyndigheten kommer cirka 6,5 miljoner väljare få röstkortet digitalt, medan cirka 2,1 miljoner får sitt röstkort med posten som tidigare. I pappersform skickas röstkorten ut från och med den 17 augusti och de ska ha nått alla väljare tills förtidsröstningen startar den 26 augusti. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/politik/nu-skickas-rostkorten-ut-for-forsta-gangen-digitalt/",
-          "image_url": "https://static.bonniernews.se/images/7d/b4/7db47f0283e14ed894afd9893623339c/16x9/original.jpg",
-          "published_at": "2026-08-15T07:04:21Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/nu-skickas-rostkorten-ut-for-forsta-gangen-digitalt/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
