@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:15:24Z",
+  "generated_at": "2026-08-15T22:40:53Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -1745,6 +1745,31 @@
           "sort_order": 0
         },
         {
+          "id": "4f5026ad39a4",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Oliver Larkin grilled on policies that would use 'other people's money' | Fox News Video",
+          "summary": "Oliver Larkin, a Florida DSA-aligned U.S. Congress candidate, is interviewed on 'The Big Weekend Show' about his policy proposals and elite schooling background.",
+          "body_text": "Oliver Larkin, a Florida DSA-aligned U.S. Congress candidate, is interviewed on 'The Big Weekend Show' about his policy proposals and elite schooling background.",
+          "url": "https://www.foxnews.com/video/6403480900112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/308760af-c046-40ee-ac0f-085c2ad22c5e/a1b199bb-7746-4dab-8c90-1b99e2f27fad/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-15T22:03:50Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403480900112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "743c71533f26",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1767,7 +1792,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "545c9c8a3a40",
@@ -1792,7 +1817,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "a757fd39f52e",
@@ -1817,7 +1842,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "95d034f86ece",
@@ -1842,7 +1867,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "03a95ebece7d",
@@ -1867,7 +1892,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "cc66da440795",
@@ -1892,7 +1917,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "f6033b84a1ea",
@@ -1917,7 +1942,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "60faa7f30136",
@@ -1942,7 +1967,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "afe679a1f820",
@@ -1959,31 +1984,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7172e16f-342b-4782-a79b-bf8961ca8663/94026c69-4a96-4aee-af07-21acc5b96906/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-15T20:33:47Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403478227112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "335742878af5",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Mangione to be sentenced in December after admitting to killing CEO | Fox News Video",
-          "summary": "Luigi Mangione pleaded guilty to federal stalking charges, admitted to shooting UnitedHealthcare CEO Brian Thompson and is set to be sentenced in December.",
-          "body_text": "Luigi Mangione pleaded guilty to federal stalking charges, admitted to shooting UnitedHealthcare CEO Brian Thompson and is set to be sentenced in December.",
-          "url": "https://www.foxnews.com/video/6403479195112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e537531-5fab-49c1-a65f-5c2024b01c15/0007ad0c-3acd-4d6f-95c6-23ee3e7141d8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-15T20:32:08Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403479195112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2577,12 +2577,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Tabla de posiciones Liga 1 2026: así se mueve con los partidos y resultados de la fecha 5 del Torneo Clausura",
+          "title": "Tabla de posiciones Liga 1 2026: Melgar goleó a Los Chankas y lidera en la fecha 5 del Torneo Clausura",
           "summary": "Tabla de posiciones de la Liga 1: programación TV, horarios y canales para ver partidos por la fecha 5 del Torneo Clausura 2026.",
           "body_text": "La fecha 5 del Torneo Clausura 2026 se juega este fin de semana con una jornada llena de emociones y partidos importantes que podrían marcar el curso del campeonato. Deportivo Garcilaso, Alianza Lima, Universitario, Sporting Crista y el resto de equipos buscarán una victoria que les permita mantener sus opciones de pelear por el título de este certamen. Entre los partidos más atractivos está el clásico cusqueño. Garcilaso y Cienciano se medirán fuerzas en el Garcilaso de la Vega. Por su parte, Alianza Lima recibirá a UTC en Matute, mientras que Universitario visitará a FC Cajamarca y Sporting Cristal chocará contra Sport Huancayo. A continuación, revisa la programación completa, partidos y resultados de la fecha 5 del Torneo Clausura. Viernes 14 de agosto Sábado 15 de agosto Domingo 16 de agosto",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-5-del-torneo-clausura-y-tabla-del-acumulado-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/UCLL66X7YFFVNENADGGPVALN5I.png?auth=56a18cb774d1a380ff49bac40ac5dd2496083e1a1310d48f09a67797f6cf44af&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-15T22:07:07Z",
+          "published_at": "2026-08-15T22:31:50Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-5-del-torneo-clausura-y-tabla-del-acumulado-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2847,6 +2847,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d995760dbaf0",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Terremoto en Colombia 7.4 EN VIVO | Última hora de los reportes de heridos y fallecidos",
+          "summary": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
+          "body_text": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/GIJDPUZCV5GNXPNCCETYE7526Y.jpg?auth=8fbab8456ddccba8efd5ddb7960f4867af6e6724090bbe335ed7b828e6054dc2&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-15T22:34:12Z",
+          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "terremoto en colombia, terremoto en colombia en vivo, terremoto en colombia del 10 de agost, terremoto 7.4 en colombia, muertes por terremoto en colombia, Abelardo de la Espriella",
+            "Latinoamérica",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "ebbc4aca57f1",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2866,32 +2892,6 @@
           "tags": [
             "Alianza Lima vs. UTC, Alianza Lima, UTC, Partidos de hoy, Fútbol en vivo, Liga 1, Liga 1 MAX, Liga 1 Play, horario Alianza Lima vs. UTC, hora Alianza Lima vs. UTC, a qué hora juega Alianza Lima vs. UTC, cuándo juega Alianza Lima vs. UTC, canal Alianza Lima vs. UTC, canal tv Alianza Lima vs. UTC, canal de transmisión Alianza Lima vs. UTC, canal que pasa Alianza Lima vs. UTC, canal que televisa Alianza Lima vs. UTC, qué canal transmita Alianza Lima vs. UTC, qué canal televisa Alianza Lima vs. UTC, en qué canal ver Alianza Lima vs. UTC, en dónde ver Alianza Lima vs. UTC, dónde ver Alianza Lima vs. UTC, cómo ver Alianza Lima vs. UTC",
             "Fútbol peruano",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "d995760dbaf0",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Terremoto en Colombia 7.4 EN VIVO | Última hora de los reportes de heridos y fallecidos",
-          "summary": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
-          "body_text": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/GIJDPUZCV5GNXPNCCETYE7526Y.jpg?auth=8fbab8456ddccba8efd5ddb7960f4867af6e6724090bbe335ed7b828e6054dc2&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-15T18:44:42Z",
-          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "terremoto en colombia, terremoto en colombia en vivo, terremoto en colombia del 10 de agost, terremoto 7.4 en colombia, muertes por terremoto en colombia, Abelardo de la Espriella",
-            "Latinoamérica",
             "Economia",
             "El Comercio"
           ],
@@ -3124,6 +3124,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d995760dbaf0",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Terremoto en Colombia 7.4 EN VIVO | Última hora de los reportes de heridos y fallecidos",
+          "summary": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
+          "body_text": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/GIJDPUZCV5GNXPNCCETYE7526Y.jpg?auth=8fbab8456ddccba8efd5ddb7960f4867af6e6724090bbe335ed7b828e6054dc2&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-15T22:34:12Z",
+          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "terremoto en colombia, terremoto en colombia en vivo, terremoto en colombia del 10 de agost, terremoto 7.4 en colombia, muertes por terremoto en colombia, Abelardo de la Espriella",
+            "Latinoamérica",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "ebbc4aca57f1",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3143,32 +3169,6 @@
           "tags": [
             "Alianza Lima vs. UTC, Alianza Lima, UTC, Partidos de hoy, Fútbol en vivo, Liga 1, Liga 1 MAX, Liga 1 Play, horario Alianza Lima vs. UTC, hora Alianza Lima vs. UTC, a qué hora juega Alianza Lima vs. UTC, cuándo juega Alianza Lima vs. UTC, canal Alianza Lima vs. UTC, canal tv Alianza Lima vs. UTC, canal de transmisión Alianza Lima vs. UTC, canal que pasa Alianza Lima vs. UTC, canal que televisa Alianza Lima vs. UTC, qué canal transmita Alianza Lima vs. UTC, qué canal televisa Alianza Lima vs. UTC, en qué canal ver Alianza Lima vs. UTC, en dónde ver Alianza Lima vs. UTC, dónde ver Alianza Lima vs. UTC, cómo ver Alianza Lima vs. UTC",
             "Fútbol peruano",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "d995760dbaf0",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Terremoto en Colombia 7.4 EN VIVO | Última hora de los reportes de heridos y fallecidos",
-          "summary": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
-          "body_text": "Terremoto en Colombia EN VIVO: cifra de muertos, heridos, damnificados y últimas noticias tras sismo de 7.4 del 10 de agosto lbposting",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/GIJDPUZCV5GNXPNCCETYE7526Y.jpg?auth=8fbab8456ddccba8efd5ddb7960f4867af6e6724090bbe335ed7b828e6054dc2&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-15T18:44:42Z",
-          "embed_url": "https://elcomercio.pe/mundo/latinoamerica/terremoto-en-colombia-en-vivo-ultimas-noticias-danos-reacciones-y-mas-tras-sismo-de-magnitud-74-choco-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "terremoto en colombia, terremoto en colombia en vivo, terremoto en colombia del 10 de agost, terremoto 7.4 en colombia, muertes por terremoto en colombia, Abelardo de la Espriella",
-            "Latinoamérica",
             "Mundo",
             "El Comercio"
           ],
@@ -3408,12 +3408,12 @@
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Tabla de posiciones Liga 1 2026: así se mueve con los partidos y resultados de la fecha 5 del Torneo Clausura",
+          "title": "Tabla de posiciones Liga 1 2026: Melgar goleó a Los Chankas y lidera en la fecha 5 del Torneo Clausura",
           "summary": "Tabla de posiciones de la Liga 1: programación TV, horarios y canales para ver partidos por la fecha 5 del Torneo Clausura 2026.",
           "body_text": "La fecha 5 del Torneo Clausura 2026 se juega este fin de semana con una jornada llena de emociones y partidos importantes que podrían marcar el curso del campeonato. Deportivo Garcilaso, Alianza Lima, Universitario, Sporting Crista y el resto de equipos buscarán una victoria que les permita mantener sus opciones de pelear por el título de este certamen. Entre los partidos más atractivos está el clásico cusqueño. Garcilaso y Cienciano se medirán fuerzas en el Garcilaso de la Vega. Por su parte, Alianza Lima recibirá a UTC en Matute, mientras que Universitario visitará a FC Cajamarca y Sporting Cristal chocará contra Sport Huancayo. A continuación, revisa la programación completa, partidos y resultados de la fecha 5 del Torneo Clausura. Viernes 14 de agosto Sábado 15 de agosto Domingo 16 de agosto",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-5-del-torneo-clausura-y-tabla-del-acumulado-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/UCLL66X7YFFVNENADGGPVALN5I.png?auth=56a18cb774d1a380ff49bac40ac5dd2496083e1a1310d48f09a67797f6cf44af&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-15T22:07:07Z",
+          "published_at": "2026-08-15T22:31:50Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-5-del-torneo-clausura-y-tabla-del-acumulado-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4480,7 +4480,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "En motorcyklist och elsparkcyklist har kolliderat i centrala Borås sent på lördagskvällen. Enligt räddningstjänsten är två personer skadade. Det är oklart skadeläge och ambulans är på väg. Två personer har dött och ytterligare två har skadats i ett jordskred i nordvästra Spanien, uppger AFP. Jordskredet ska ha orsakats av en plötslig översvämning i León, vilket fick jord och bråte att rasa nedför sluttningen där det träffade ett hus. De två skadade personerna är barn. Hamnen i Mokha i Yemen har stängts ner efter omfattande attacker från Huthirebellerna de senaste dagarna, rapporterar CNN . Över 25 missiler har träffat hamnen och sju personer har dött. På fredagen dödades minst fyra civila i bombningarna, skriver Reuters . Hamnen i Mokha är en strategiskt viktig passage som möjliggör transport mellan Röda havet och Adenviken. Huthirebellerna hävdar att deras måltavlor i bombningarna varit Saudiska militära mål. Tre iranska piloter som sköts ner i början av kriget hålls fortfarande i Qatar, meddelar Iran som nu kräver att de släpps. Tidigare har Iran uppgett att en pilot dött och andra saknas efter ett uppdrag i Qatar i mars. Tre iranska piloter togs till fånga vid liv efter att deras stridsplan av typen Su-24 kraschade under kriget, säger general Mohammad Bagherzadeh enligt nyhetsbyrån Fars. Bagherzadeh uppmanar Qatar att släppa piloterna. Qatars utrikesdepartement har ännu inte kommenterat saken.",
+          "body_text": "Räddningstjänst, polis och ambulans har ryckt ut till väg 275 vid Ängbyplan i västra Stockholm. Larmet kom vid 23.09. – Det är någon form av singelolycka med en motorcykel, säger Martin Johansson, ledningsoperatör räddningstjänsten. Det är stopp i trafiken med anledning av olyckan. Det är oklart om någon kommit till skada. En motorcyklist och elsparkcyklist har kolliderat i centrala Borås sent på lördagskvällen. Enligt räddningstjänsten är två personer skadade. Det är oklart skadeläge och ambulans är på väg. Två personer har dött och ytterligare två har skadats i ett jordskred i nordvästra Spanien, uppger AFP. Jordskredet ska ha orsakats av en plötslig översvämning i León, vilket fick jord och bråte att rasa nedför sluttningen där det träffade ett hus. De två skadade personerna är barn. Hamnen i Mokha i Yemen har stängts ner efter omfattande attacker från Huthirebellerna de senaste dagarna, rapporterar CNN . Över 25 missiler har träffat hamnen och sju personer har dött. På fredagen dödades minst fyra civila i bombningarna, skriver Reuters . Hamnen i Mokha är en strategiskt viktig passage som möjliggör transport mellan Röda havet och Adenviken. Huthirebellerna hävdar att deras måltavlor i bombningarna varit Saudiska militära mål.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
