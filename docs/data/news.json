@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:42:52Z",
+  "generated_at": "2026-08-15T11:14:55Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -2137,6 +2137,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "e91ce29c2b35",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+          "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+          "body_text": "A French family was left stranded at sea for more than 16 hours overnight after their rented jet ski capsized off the coast of Thailand. A 50-year-old father and his young sons were left \"pale\" and \"exhausted after swallowing a lot of seawater\" before being rescued, local government official Amorn Chomchoey told AFP. All three were taken to hospital for checks but were discharged shortly afterwards, Chomchoey said. The father had rented the jet ski for a 45-minute ride on Koh Samui, one of Thailand's most popular islands for tourists, at around 17:00 local time (10:00 GMT) on Thursday, the Bangkok Post reports. Rescuers were alerted after the jet ski was not returned at the agreed time. People used speedboats and more jet skis to comb the waters surrounding Koh Samui and towards the nearby island of Koh Phangan searching for the family, the Bangkok Post reports. Search efforts had to be suspended overnight before the family were found still drifting at sea the following day, Thai media report. The father and sons were found by rescuers at around 10:00 local time on Friday, according to AFP. The father told authorities that rough waves had struck the jet ski and caused the engine to stop towards the end of the rental period, the Bangkok Post reports. Footage of the rescue shows one of the boys sat on the top of the front of the jet ski while the rest of the vehicle is submerged beneath choppy waves. His father can be seen waving at rescuers as he floats nearby. Both of them are wearing life jackets. English-language news site Nation Thailand reports that the boys' mother and older sister had been waiting on the beach when the trio were brought back to safety.",
+          "url": "https://www.bbc.com/news/articles/cy0j60p0d29o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg",
+          "published_at": "2026-08-15T10:56:22Z",
+          "embed_url": "https://www.bbc.com/news/articles/cy0j60p0d29o",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "c2b03f58c16d",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "42bae020ec92",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "4502dff27ced",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "81d769da1bda",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "38e8ee3b6d58",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "37a4cfe2366e",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "96578fc8b553",
@@ -2302,7 +2326,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "6f1231001e71",
@@ -2326,7 +2350,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "3daac5506408",
@@ -2350,7 +2374,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "91cbef692e34",
@@ -2374,7 +2398,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "3980cf6878f9",
@@ -2398,7 +2422,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 11
         },
         {
           "id": "d6b9531fee69",
@@ -2422,7 +2446,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 11
+          "sort_order": 12
         },
         {
           "id": "a383dcb25582",
@@ -2446,30 +2470,6 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 12
-        },
-        {
-          "id": "c0685c91563f",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Zambia election: Vote counting resumes after pause over alleged attacks on polling staff",
-          "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
-          "body_text": "Zambia's electoral commission has resumed the counting of votes from Thursday's presidential, parliamentary and local elections after it was halted over alleged attacks on polling staff. The authority paused the process nationwide expressing concern about reports of violence that had \"resulted in the theft of marked ballot papers in ballot boxes\". President Hakainde Hichilema is seeking a second five-year term. Brian Mundubile is the main opposition candidate among 13 challengers. The electoral commission has set itself the target of announcing the results by the end of Sunday. In its Friday evening update, the commission said that following a review of the situation and consultations with relevant law enforcement agencies \"the security threat to the electoral process has been contained and the necessary measures have been put in place to enable the process to continue\". Counting initially got under way immediately after polls closed on Thursday but no official results had been declared when the halt came into effect. Earlier on Friday, Mundubile expressed \"grave concern\" over delays in the announcement of presidential results, warning that the delay could create opportunities for interference or manipulation. He cited what he described as \"deeply troubling reports\" from several areas, including alleged military involvement at tallying centres and allegations concerning the movement of ballot boxes. He called for the immediate publication of results polling station by polling station, protection of the chain of custody and investigations into the reported incidents. He also said that his own party's tabulation of the results showed that he had won. Hichilema also issued a statement urging Zambians to \"remain peaceful, patient and patriotic as we await the official outcome from those entrusted with managing the vote\". Polling day was largely peaceful, with queues reported in many areas and only isolated delays. Along with electing a president and MPs, the more than eight million registered voters had the chance to choose a new parliament and local councils. Thursday's vote was seen as a test of Zambia's reputation as one of Africa's most stable democracies, amid concerns that political freedoms are being undermined.",
-          "url": "https://www.bbc.com/news/articles/c5yr8r04edvo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg",
-          "published_at": "2026-08-13T10:51:35Z",
-          "embed_url": "https://www.bbc.com/news/articles/c5yr8r04edvo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
           "sort_order": 13
         }
       ]
@@ -4085,7 +4085,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Nya Muminkollektionen\"Rebel club\" har släppts – beställ muggarna med 25% rabatt här!",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4175,7 +4175,7 @@
           "source_kind": "story",
           "title": "Vill ha öppet brottsregister",
           "summary": "Moderaterna vill införa ett öppet förövarregister – där det ska vara möjligt för allmänheten att söka efter personer som begått allvarliga brott i nära relation. – Mäns våld mot kvinnor är ett enormt samhällsproblem. Vi måste vara beredda att göra saker vi inte gjort tidigare, säger justitieminister Gunnar Strömmer (M) till TT.",
-          "body_text": "Moderaterna vill införa ett öppet förövarregister – där det ska vara möjligt för allmänheten att söka efter personer som begått allvarliga brott i nära relation. – Mäns våld mot kvinnor är ett enormt samhällsproblem. Vi måste vara beredda att göra saker vi inte gjort tidigare, säger justitieminister Gunnar Strömmer (M) till TT. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Nyligen trädde en ny lag i kraft i Irland, ”Jennie’s law”, som innebär att information om dömda förövare publiceras i offentliga register. Nu vill Moderaterna se över de rättsliga möjligheterna till att införa ett liknande register i Sverige, om partiet sitter kvar i regeringsställning efter valet. Det här riktar sig mot det som är typiskt för mäns våld mot kvinnor. Men jag är öppen för att även farliga kvinnor ska vara med, säger Strömmer. I Irland innebär lagstiftningen i korthet att den som dömts för allvarliga brott som exempelvis mord, våldtäkt, sexuella övergrepp eller grov kvinnofridskränkning efter beslut av domaren i målet får sitt namn och sina uppgifter publicerade i offentliga sökbara register. Strömmer tänker sig att det svenska registret ska vara uppbyggt på ett liknande sätt. Men det finns svåra avvägningar, menar han. De som begått brott måste få en rimlig chans att komma tillbaka. Det finns också en risk att man på köpet röjer uppgifter som är känsliga för brottsoffer. Man kan titta på om uppgifter ska gallras efter en viss tid och om brottsoffer ska behöva lämna sitt godkännande, säger Strömmer och fortsätter:Men intresset för att skapa en bredare trygghet för kvinnor i samhället gör att vi är redo att öppna den här dörren. Moderaterna föreslår även att dejtingappar ska få ökade möjligheter till att utföra bakgrundskontroller, genom att få en begränsad tillgång till belastningsregistret, för att kunna skydda användarna mot förövare. – Det pratas ofta om kvinnors utsatthet, men det kan man inte bara göra i ord. Man måste göra det i handling också, och det måste få innebära offensiva åtgärder, säger Linda Obiedzinsk, vice ordförande i Moderata ungdomsförbudet. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "Moderaterna vill införa ett öppet förövarregister – där det ska vara möjligt för allmänheten att söka efter personer som begått allvarliga brott i nära relation. – Mäns våld mot kvinnor är ett enormt samhällsproblem. Vi måste vara beredda att göra saker vi inte gjort tidigare, säger justitieminister Gunnar Strömmer (M) till TT. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Nyligen trädde en ny lag i kraft i Irland, ”Jennie’s law”, som innebär att information om dömda förövare publiceras i offentliga register. Nu vill Moderaterna se över de rättsliga möjligheterna till att införa ett liknande register i Sverige, om partiet sitter kvar i regeringsställning efter valet. – Det här riktar sig mot det som är typiskt för mäns våld mot kvinnor. Men jag är öppen för att även farliga kvinnor ska vara med, säger Strömmer. I Irland innebär lagstiftningen i korthet att den som dömts för allvarliga brott som exempelvis mord, våldtäkt, sexuella övergrepp eller grov kvinnofridskränkning efter beslut av domaren i målet får sitt namn och sina uppgifter publicerade i offentliga sökbara register. Strömmer tänker sig att det svenska registret ska vara uppbyggt på ett liknande sätt. Men det finns svåra avvägningar, menar han. – De som begått brott måste få en rimlig chans att komma tillbaka. Det finns också en risk att man på köpet röjer uppgifter som är känsliga för brottsoffer. Man kan titta på om uppgifter ska gallras efter en viss tid och om brottsoffer ska behöva lämna sitt godkännande, säger Strömmer och fortsätter: Men intresset för att skapa en bredare trygghet för kvinnor i samhället gör att vi är redo att öppna den här dörren. Moderaterna föreslår även att dejtingappar ska få ökade möjligheter till att utföra bakgrundskontroller, genom att få en begränsad tillgång till belastningsregistret, för att kunna skydda användarna mot förövare. – Det pratas ofta om kvinnors utsatthet, men det kan man inte bara göra i ord. Man måste göra det i handling också, och det måste få innebära offensiva åtgärder, säger Linda Obiedzinski, vice ordförande i Moderata ungdomsförbudet. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/politik/m-infor-oppet-forovarregister/",
           "image_url": "https://static.bonniernews.se/images/3c/29/3c2986f15ce1476980074abd0cf587d6/16x9/original.jpg",
           "published_at": "2026-08-15T09:46:56Z",
@@ -4222,10 +4222,10 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Nu skrivs första proven – efter skärpta kraven",
-          "summary": "I dag ska 1000 personer skriva Sveriges första medborgarskapsprov. Hur många rätt som krävs för att bli godkänd är det dock ingen som vet. – Jag vet inte hur det ska gå, säger Rashid Imirov som väntar utanför medan hans fru skriver provet.",
-          "body_text": "I dag ska 1000 personer skriva Sveriges första medborgarskapsprov. Hur många rätt som krävs för att bli godkänd är det dock ingen som vet. – Jag vet inte hur det ska gå, säger Rashid Imirov som väntar utanför medan hans fru skriver provet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. 1000 personer som hoppas på svenskt medborgarskap sitter redo att svara på frågor om det svenska samhället. Provet är en del av de skärpta kraven för att bli svensk medborgare som infördes den 6 juni. Den som ansöker om svenskt medborgarskap måste som huvudregel kunna visa kunskaper i svenska och om det svenska samhället. Den första delen, som skrivs i dag, testar samhällskunskap. Det handlar om cirka 60 flervalsfrågor där det finns fyra olika svarsalternativ varav ett är rätt. Men exakt hur många rätt som krävs för att klara medborgarskapsprovet är ännu inte klart. Gränsen ska fastställas efter att dagens första prov har utvärderats. Här är fem exempel på hur provfrågorna kan vara utformade: 1. Vad är den offentliga sektorns främsta uppgift? B. Att ordna välfärdstjänster som vård och utbildning D. Att representera Sverige internationellt",
+          "summary": "I dag har 1000 personer skrivit Sveriges första medborgarskapsprov. Hur många rätt som krävs för att bli godkänd är det dock ingen som vet. – Jag vet inte hur det ska gå, säger Rashid Imirov som väntar utanför medan hans fru skriver provet.",
+          "body_text": "I dag har 1000 personer skrivit Sveriges första medborgarskapsprov. Hur många rätt som krävs för att bli godkänd är det dock ingen som vet. – Jag vet inte hur det ska gå, säger Rashid Imirov som väntar utanför medan hans fru skriver provet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. 1000 personer som hoppas på svenskt medborgarskap var under förmiddagen redo att svara på frågor om det svenska samhället. Medborgarskapsprovet är en del av de skärpta kraven för att bli svensk medborgare som infördes den 6 juni. Den som ansöker om svenskt medborgarskap måste som huvudregel kunna visa kunskaper i svenska och om det svenska samhället. Den första delen, lördagens prov, testar samhällskunskap. Det handlar om cirka 60 flervalsfrågor där det finns fyra olika svarsalternativ varav ett är rätt. Men exakt hur många rätt som krävs för att klara medborgarskapsprovet är ännu inte klart. Gränsen ska fastställas efter att dagens första prov har utvärderats. Här är fem exempel på hur provfrågorna kan vara utformade: 1. Vad är den offentliga sektorns främsta uppgift? B. Att ordna välfärdstjänster som vård och utbildning D. Att representera Sverige internationellt",
           "url": "https://www.expressen.se/nyheter/sverige/forsta-medborgarskapsproven-skrivs/",
-          "image_url": "https://static.bonniernews.se/images/fd/a6/fda65d93bcd448d699a4761519db4e7f/16x9/original.jpg",
+          "image_url": "https://static.bonniernews.se/images/37/d1/37d132952f1246f98da33374370c82b7/16x9/original.png",
           "published_at": "2026-08-15T08:13:28Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/forsta-medborgarskapsproven-skrivs/",
           "play_mode": "page_iframe",
@@ -4384,7 +4384,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Mannen hittades på söndagsmorgonen. Foto: Rescue Photo Den man som under förra helgen hittades allvarligt skadad på en väg i Uddevalla har avlidit, uppger nästående till mannens familj för P4 Väst . Mannen hittades på söndagsmorgonen och fördes till sjukhus med livshotande skador, men hans liv gick inte att rädda. Polisen har utrett händelsen som grov misshandel, men rubricering kan komma att ändras. Ingen är misstänkt, enligt radion. En bil och en motorcykel har kolliderat på riksväg 26 i Hylte. Enligt polisens initiala uppgifter ska mc-föraren ha kastats av sitt fordon och landat på vägbanan. Han ska vara vaken och talbar, men i övrigt är skadeläget okänt. Andra medtrafikanter ska ha stoppat övrig trafik från att passera olycksplatsen i väntan på polis, räddningstjänst och ambulans. Larmet inkom vid 11-tiden. En lastbil har vält och ligger på sidan i diket i Hultsfred. I lasten finns mjölk som nu rinner ut från släpet. – Den står och läcker lite, säger räddningstjänstens ledningsoperatör som inte kan uppskatta mängden mjölk. Föraren har tagit sig ut på egen hand och är chockad, men oskadd. Riksväg 34 är avstängd i norrgående riktning. Totalt har 13 bilar fått vänster bakdäck sönderskurna på en parkering i Knivsta. Polisen har upprättat anmälningar om skadegörelse och kontaktat de drabbade bilägarna. Det finns i nuläget ingen misstänkt gärningsman. En man i 50-årsåldern har dött efter en motorcykelolycka i Nynäshamn i går kväll, uppger polisen. Mannen som färdades själv på motorcykeln körde av vägen i Sorunda vid 19-tiden. Anhöriga är underrättade. En hästtransport körde i diket på E4 i höjd med Hölö utanför Södertälje på lördagsmorgonen. Det finns inga uppgifter om några skador varken på människor eller hästar, enligt polisen.",
+          "body_text": "Räddningstjänsten har larmats om en försvunnen person vid en badplats utanför Uppsala. – Vi är där med ett antal styrkor, säger ledningsbefäl vid räddningstjänsten. Dykare är på platsen och enligt UNT har stranden utrymts. Mannen hittades på söndagsmorgonen. Foto: Rescue Photo Den man som under förra helgen hittades allvarligt skadad på en väg i Uddevalla har avlidit, uppger nästående till mannens familj för P4 Väst . Mannen hittades på söndagsmorgonen och fördes till sjukhus med livshotande skador, men hans liv gick inte att rädda. Polisen har utrett händelsen som grov misshandel, men rubricering kan komma att ändras. Ingen är misstänkt, enligt radion. En bil och en motorcykel har kolliderat på riksväg 26 i Hylte. Enligt polisens initiala uppgifter ska mc-föraren ha kastats av sitt fordon och landat på vägbanan. Han ska vara vaken och talbar, men i övrigt är skadeläget okänt. Andra medtrafikanter ska ha stoppat övrig trafik från att passera olycksplatsen i väntan på polis, räddningstjänst och ambulans. Larmet inkom vid 11-tiden. En lastbil har vält och ligger på sidan i diket i Hultsfred. I lasten finns mjölk som nu rinner ut från släpet. – Den står och läcker lite, säger räddningstjänstens ledningsoperatör som inte kan uppskatta mängden mjölk. Föraren har tagit sig ut på egen hand och är chockad, men oskadd. Riksväg 34 är avstängd i norrgående riktning.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
