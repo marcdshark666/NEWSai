@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:52:10Z",
+  "generated_at": "2026-08-16T19:17:44Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -335,7 +335,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 10,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -363,7 +363,7 @@
           "sort_order": 0
         },
         {
-          "id": "55e4b090bfd1",
+          "id": "71a76e1b8dc9",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
@@ -372,11 +372,11 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 21:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
-          "url": "https://www.svtplay.se/video/e4ddp1N/rapport/ikvall-21-00",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 14 aug 23:00 4 min 32 sek Publicerades: Fre 14 aug 09:30 3 min 2 sek Publicerades: Fre 14 aug 08:30 3 min 2 sek Publicerades: Fre 14 aug 07:30 3 min 5 sek",
+          "url": "https://www.svtplay.se/video/e4ddp1N/rapport/ikvall-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-16T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/e4ddp1N/rapport/ikvall-21-00",
+          "published_at": "2026-08-16T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/e4ddp1N/rapport/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -385,6 +385,54 @@
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "285ce3d3e018",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 14 aug 23:00 4 min 32 sek Publicerades: Fre 14 aug 09:30 3 min 2 sek Publicerades: Fre 14 aug 08:30 3 min 2 sek Publicerades: Fre 14 aug 07:30 3 min 5 sek",
+          "url": "https://www.svtplay.se/video/jXvv2XB/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54722483/1786889551?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-16T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jXvv2XB/rapport/idag-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "a19e7ec6b43e",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 23:05",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 14 aug 23:00 4 min 32 sek Publicerades: Fre 14 aug 09:30 3 min 2 sek Publicerades: Fre 14 aug 08:30 3 min 2 sek Publicerades: Fre 14 aug 07:30 3 min 5 sek",
+          "url": "https://www.svtplay.se/video/jgWW16Q/rapport/igar-23-05?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54721370/1786829131?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-15T23:05:00Z",
+          "embed_url": "https://www.svtplay.se/video/jgWW16Q/rapport/igar-23-05?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "a84049cee16e",
@@ -408,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "cd151927b497",
@@ -432,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "94bbbb8f74e5",
@@ -456,7 +504,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "d4039244a838",
@@ -480,7 +528,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "41b85bbcb706",
@@ -504,7 +552,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "58d8db603ec4",
@@ -528,7 +576,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "cec1a62a7417",
@@ -552,23 +600,23 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 10
         },
         {
-          "id": "55f34127a308",
+          "id": "c27c8543b701",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sommarjazz: Brad Mehldau",
-          "summary": "Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024)",
-          "body_text": "Konsert med den klassiska musikens mest kända verk Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024) Brad Mehldau Trio at Nancy Jazz Pulsations 2024",
-          "url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52899126/1750165744?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-07-11T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
+          "title": "Rapport – Igår 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 14 aug 23:00 4 min 32 sek Publicerades: Fre 14 aug 09:30 3 min 2 sek Publicerades: Fre 14 aug 08:30 3 min 2 sek Publicerades: Fre 14 aug 07:30 3 min 5 sek",
+          "url": "https://www.svtplay.se/video/8Dvv5xp/rapport/igar-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54719486/1786803251?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-15T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8Dvv5xp/rapport/igar-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -576,7 +624,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 11
         }
       ]
     },
@@ -1679,20 +1727,21 @@
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Watch Live",
-          "summary": "",
-          "body_text": "",
+          "title": "Watch Fox News Channel Online | Stream Fox News",
+          "summary": "Watch live news and updates that are happening right now with Fox News. Stay up-to-date with the latest and most trending news going on in real-time.",
+          "body_text": "Watch live news and updates that are happening right now with Fox News. Stay up-to-date with the latest and most trending news going on in real-time.",
           "url": "https://www.foxnews.com/video/5614615980001",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.foxnews.com/video/5614615980001",
-          "play_mode": "page_iframe",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15de0523-3be4-4a9a-8159-7020114e7036/b6ff623a-26d6-4fd9-8bb8-0856adbf38ce/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2021-04-29T03:10:59Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=5614615980001",
+          "play_mode": "iframe",
           "article_type": "video",
           "tags": [
+            "video, fox news, news videos, breaking news videos",
             "USA",
             "Amerikansk media"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 0
         },
         {
@@ -1728,16 +1777,17 @@
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Hasan Piker faces backlash over extreme rhetoric as he seeks Democratic support",
-          "summary": "",
-          "body_text": "",
+          "title": "Hasan Piker faces backlash over extreme rhetoric as he seeks Democratic support | Fox News Video",
+          "summary": "Fox News contributor Liz Peek reacts to controversial far-left streamer Hasan Piker urging Democrats to defend him. Piker has faced intense backlash over past extreme comments.",
+          "body_text": "Fox News contributor Liz Peek reacts to controversial far-left streamer Hasan Piker urging Democrats to defend him. Piker has faced intense backlash over past extreme comments.",
           "url": "https://www.foxnews.com/video/6403529478112",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.foxnews.com/video/6403529478112",
-          "play_mode": "page_iframe",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/708bfdaf-3e4c-493f-aca9-0a6664429995/5c07c4af-ae62-41f8-bcaa-d07a9b2155bc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-16T18:41:13Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403529478112",
+          "play_mode": "iframe",
           "article_type": "video",
           "tags": [
+            "video, fox news, news videos, breaking news videos",
             "USA",
             "Amerikansk media"
           ],
@@ -1752,16 +1802,17 @@
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "College dorms costing thousands to be 'Instagram-ready'",
-          "summary": "",
-          "body_text": "",
+          "title": "College dorms costing thousands to be 'Instagram-ready' | Fox News Video",
+          "summary": "Professional dorm decorator Sarah Noonan joins 'The Sunday Briefing' to address the trending topic of parents spending up to $20,000 on college dorm rooms, clarifying the realistic costs and design process.",
+          "body_text": "Professional dorm decorator Sarah Noonan joins 'The Sunday Briefing' to address the trending topic of parents spending up to $20,000 on college dorm rooms, clarifying the realistic costs and design process. Professional dorm decorator Sarah Noonan joins 'The Sunday Briefing' to address the trending topic of parents spending up to $20,000 on college dorm rooms, clarifying the realistic costs and design process. Noonan breaks down the growing trend of custom dorm interiors, bedding and personalized layouts for incoming college students.",
           "url": "https://www.foxnews.com/video/6403529162112",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.foxnews.com/video/6403529162112",
-          "play_mode": "page_iframe",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dff29dc4-be93-47c6-8b62-8807b5b006e5/7eaf6062-952c-4f3f-a60d-b80cf94ea30b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-16T18:39:17Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403529162112",
+          "play_mode": "iframe",
           "article_type": "video",
           "tags": [
+            "video, fox news, news videos, breaking news videos",
             "USA",
             "Amerikansk media"
           ],
@@ -1776,16 +1827,17 @@
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Democratic Party divided over far-left progressive policies ahead of midterms",
-          "summary": "",
-          "body_text": "",
+          "title": "Democratic Party divided over far-left progressive policies ahead of midterms | Fox News Video",
+          "summary": "The Democratic Party faces deep internal divisions as progressive candidates push far-left policies like abolishing ICE and Medicare for All.",
+          "body_text": "The Democratic Party faces deep internal divisions as progressive candidates push far-left policies like abolishing ICE and Medicare for All.",
           "url": "https://www.foxnews.com/video/6403518811112",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.foxnews.com/video/6403518811112",
-          "play_mode": "page_iframe",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcec78e4-8319-4d23-86a0-be295168799b/22dad257-6971-4b4a-be96-63d9b4971302/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-16T18:30:12Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403518811112",
+          "play_mode": "iframe",
           "article_type": "video",
           "tags": [
+            "video, fox news, news videos, breaking news videos",
             "USA",
             "Amerikansk media"
           ],
@@ -1800,20 +1852,21 @@
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Political strategists clash over over growing divisions within Democratic Party",
-          "summary": "",
-          "body_text": "",
+          "title": "Political strategists clash over over growing divisions within Democratic Party | Fox News Video",
+          "summary": "Political strategists Angie Wong and Melissa DeRosa join 'Fox News Live' to discuss internal divisions within the Democratic Party, the rise of DSA candidates and disputes over key policies.",
+          "body_text": "Political strategists Angie Wong and Melissa DeRosa join 'Fox News Live' to discuss internal divisions within the Democratic Party, the rise of DSA candidates and disputes over key policies. Democratic strategist Melissa DeRosa and Republican strategist Angie Wong join 'Fox News Live' to debate the escalating internal battle within the Democratic Party. As Democratic Socialists of America candidates secure primary wins, the panel discusses the party's ideological divide, House Minority Leader Hakeem Jeffries' rejection of the DSA agenda and conflicting views on reforming or abolishing ICE.",
           "url": "https://www.foxnews.com/video/6403528843112",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.foxnews.com/video/6403528843112",
-          "play_mode": "page_iframe",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d8ff8a4-5ae8-4659-94cc-4c30effe602a/11b0d938-1cad-4f1d-8cda-f9537bcfdb96/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-16T18:26:26Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403528843112",
+          "play_mode": "iframe",
           "article_type": "video",
           "tags": [
+            "video, fox news, news videos, breaking news videos",
             "USA",
             "Amerikansk media"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 5
         },
         {
@@ -1853,7 +1906,7 @@
           "summary": "Former NYPD lieutenant Darrin Porcher discusses Luigi Mangione pleading guilty to federal stalking charges.",
           "body_text": "Former NYPD lieutenant Darrin Porcher discusses Luigi Mangione pleading guilty to federal stalking charges. Former NYPD lieutenant Darrin Porcher discusses Luigi Mangione pleading guilty to federal stalking charges. Mangione admitted to shooting UnitedHealthcare CEO Brian Thompson as his defense tries to dismiss state murder charges.",
           "url": "https://www.foxnews.com/video/6403528919112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23377355-4385-4268-8055-3479a55b7615/1e107aab-8114-4b8d-a397-5ceb8a5421a4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "image_url": "https://a57.foxnews.com/assets.foxnews.com/images/fox-news/og/1024/512/og-fox-news.png?ve=1&tl=1",
           "published_at": "2026-08-16T18:17:40Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403528919112",
           "play_mode": "iframe",
@@ -1924,16 +1977,17 @@
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Expert REVEALS Trump’s ‘sweet spot’ for oil prices amid Iran conflict",
-          "summary": "",
-          "body_text": "",
+          "title": "Expert REVEALS Trump’s ‘sweet spot’ for oil prices amid Iran conflict | Fox News Video",
+          "summary": "FOX Business host Jackie DeAngelis breaks down President Donald Trump’s strategy to bring down oil and gas prices as the Iran conflict rages on.",
+          "body_text": "FOX Business host Jackie DeAngelis breaks down President Donald Trump’s strategy to bring down oil and gas prices as the Iran conflict rages on. Fox Business co-host Jackie Deangelis discusses the factors keeping crude oil prices around eighty dollars a barrel amid tensions in the Strait of Hormuz. Deangelis explains that risk premiums and global production levels prevent dramatic spikes, easing pressure on the consumer price index. She highlights how energy price declines helped stabilize the July inflation report despite ongoing geopolitical uncertainty.",
           "url": "https://www.foxnews.com/video/6403518138112",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.foxnews.com/video/6403518138112",
-          "play_mode": "page_iframe",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33aad681-8ece-4607-9bda-8514f6690cf1/3925b438-b887-4880-a2aa-b69e1c3f5b7c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-16T17:52:49Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403518138112",
+          "play_mode": "iframe",
           "article_type": "video",
           "tags": [
+            "video, fox news, news videos, breaking news videos",
             "USA",
             "Amerikansk media"
           ],
@@ -1973,16 +2027,17 @@
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "https://www.foxnews.com/video/6275127689001",
-          "summary": "",
-          "body_text": "",
+          "title": "Fox Weather | Fox News Video",
+          "summary": "Streaming 24/7 from America's Weather Center",
+          "body_text": "Streaming 24/7 from America's Weather Center",
           "url": "https://www.foxnews.com/video/6275127689001",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.foxnews.com/video/6275127689001",
-          "play_mode": "page_iframe",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcc001f4-d972-4a27-9912-1c965c42fc86/e44b88f2-183c-4fd2-8028-0f38833914e2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2021-10-24T18:23:26Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6275127689001",
+          "play_mode": "iframe",
           "article_type": "video",
           "tags": [
+            "video, fox news, news videos, breaking news videos",
             "USA",
             "Amerikansk media"
           ],
@@ -1997,20 +2052,21 @@
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "https://www.foxnews.com/video/5599024308001",
-          "summary": "",
-          "body_text": "",
+          "title": "FOX News Radio Live Channel Coverage | Fox News Video",
+          "summary": "With the FOX News Channel Radio Live Stream, you get access to real-time news updates as they happen. Stay ahead of the curve with breaking news stories covering politics, business, technology, health and more. Stream 24/7 with FOX News Radio.",
+          "body_text": "With the FOX News Channel Radio Live Stream, you get access to real-time news updates as they happen. Stay ahead of the curve with breaking news stories covering politics, business, technology, health and more. Stream 24/7 with FOX News Radio.",
           "url": "https://www.foxnews.com/video/5599024308001",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.foxnews.com/video/5599024308001",
-          "play_mode": "page_iframe",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f864c50b-5480-4285-aefd-6e93028f7837/7fa70007-423c-425e-85b2-469376c484d0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2022-06-09T13:36:45Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=5599024308001",
+          "play_mode": "iframe",
           "article_type": "video",
           "tags": [
+            "video, fox news, news videos, breaking news videos",
             "USA",
             "Amerikansk media"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 13
         },
         {
@@ -2076,11 +2132,347 @@
       "surface": "video",
       "source_kind": "mixed",
       "live_section": false,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 14,
       "priority_split": 5,
-      "articles": [],
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "articles": [
+        {
+          "id": "71eac3ca6f47",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Two dead and hundreds evacuated as wildfires break out near Athens",
+          "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
+          "body_text": "Two people died and and hundreds were evacuated after two fires broke out \"almost simultaneously\" on a Greek island near Athens, officials said. About 200 firefighters were working to keep the twin fires from converging on the island of Salamina, which was under a high wildfire risk on Sunday. The first blaze was reported at 14:40 local time (11:40 GMT) near the island's south coast and spread rapidly due to high winds, followed by the second some 20 minutes later in the east. More than 500 people have so far been evacuated by sea, Greek media report. The cause of the fires is not yet known. Five patrol boats have been sent to the area and several other private vessels are being made available for assistance, he added. A number of aircraft and 50 fire engines have also been deployed. The first blaze broke out in a mixed residential and forested area in Peristeria, a southern city on the island, fire official Vasilios Vathrakoyannis said in a statement, followed by the second in the eastern town of Selinia. Firefighters attending the first blaze found two bodies at the scene, he said. At least 10 people suffered burns or showed \"symptoms of smoke inhalation\", five of whom had been taken for treatment locally, Greek Health Minister Adonis Georgiades said on X. Salamina Deputy Mayor Thodoris Zannis said firefighters were trying to keep the fires from burning over a mountain on the island and meeting to form a single blaze. The operation is being assisted by water tankers and construction machinery. Salamina sits just west of Athens and has some 37,000 residents, many of them elderly. Firefighters across Europe have been facing a series of wildfires this weekend, including officers in Belgium spending a third day beating back flames in the country's largest nature reserve, Hautes Fagnes.",
+          "url": "https://www.bbc.com/news/articles/c87nnwlpe5no",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bbb6/live/70fefcb0-9992-11f1-a7ab-8b30adf0800a.jpg",
+          "published_at": "2026-08-16T16:14:26Z",
+          "embed_url": "https://www.bbc.com/news/articles/c87nnwlpe5no",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "ceda5fa2745d",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+          "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+          "body_text": "Four Renaissance paintings of \"extraordinary value\" have been stolen from a museum in Sicily, Italy's culture minister has said. Alessandro Giuli confirmed that three panels of the Polyptych of San Gregorio and a double-sided panel of the Madonna with Child and Christ in Pietà, all attributed to Antonello da Messina, were taken from the Regional Interdisciplinary Museum of Messina on Saturday night. Police are now probing how the thieves were able to enter the museum without triggering its alarms and who may have been responsible. The incident is the latest in a string of museum heists across Europe that have led to a growing number of priceless works disappearing from public view. Investigators are working on the initial suspicion that the paintings were stolen to order by black market art thieves, according to Italian news agency Ansa. It reported that the Madonna and Christ in Pietà was removed directly from inside a secure display case, while all the paintings taken were on wooden panels, preventing them from easily being rolled up. The museum's director Marisa Mercurio said the theft was thought to have occurred around 21:50 local time (19:50 GMT) on Saturday. \"We are shocked by what happened,\" she told Ansa, describing it as \"a great loss for the museum, for the city, the community and the art world\". Antonello da Messina was a 15th Century painter born and raised on Sicily, who would go on to become one of the early Renaissance period's master painters. His San Gregorio Polyptych, painted in 1473, depicts the Virgin Mary holding an infant Jesus Christ, flanked by St Gregory and St Benedict as well as several angels. The artwork, of which five panels survive, was commissioned for the monastery of Santa Maria. Meanwhile, his double-panel showing an infant Christ blessing a follower while being held by the Virgin Mary on one side and an adult Christ in death on the other was painted around the same time, though exactly when is unclear.",
+          "url": "https://www.bbc.com/news/articles/cqjxx2gzd9qo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg",
+          "published_at": "2026-08-16T13:34:38Z",
+          "embed_url": "https://www.bbc.com/news/articles/cqjxx2gzd9qo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "68ee02a5789f",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+          "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+          "body_text": "A statue of the Virgin Mary believed to be Europe's tallest has been formally unveiled in a small Polish village. The 55.6-metre (182ft) concrete figure is roughly two double-decker buses longer than Rio de Janeiro's smaller - if more prominently placed - Christ the Redeemer monument, though it still pales in comparison to a 98m Virgin Mary erected in the Philippines. The ecclesiastical sculpture in rural Konotopie was consecrated by a local bishop in a ceremony on Saturday, a day chosen to coincide with the Feast of the Assumption of the Blessed Virgin Mary. Its inauguration comes at a time when the influence of the Catholic church on public life in Poland has declined. The icon's remote location - in a field miles from any of Poland's population centres - is largely due to it being commissioned by a millionaire couple who live locally. Two helicopters circled to drop rose petals over the Virgin Mary, which stands in a large crown with open arms, during Saturday's ceremony. Bishop Krzysztof Wętkowski, who consecrated the statue, told those congregated that \"many contemporary people look only to the earth, focused on themselves\", whereas the figure beckoned \"to raise our gaze upwards to God and heaven\", according to Polish news agency PAP. While Poland remains an overwhelmingly Catholic country, many younger Poles in urban areas have increasingly turned away from the church and its traditions. Among the attendees on Saturday was Lech Wałęsa, who led the movement to end communism in Poland and would go on to become the country's first democratically elected president. Wałęsa famously wore a Virgin Mary pin badge while campaigning and credited his Catholic faith as playing a major role in his fight against communism. \"I started with the Virgin Mary and I end with the Virgin Mary,\" the 82-year-old told the Associated Press.",
+          "url": "https://www.bbc.com/news/articles/cn5nnlq2pwpo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg",
+          "published_at": "2026-08-16T11:35:25Z",
+          "embed_url": "https://www.bbc.com/news/articles/cn5nnlq2pwpo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
+          "id": "7cefe96fc79b",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+          "body_text": "At least seven people have been killed in Russia after what officials called the \"largest-scale\" attack launched by Ukraine this year. Some 822 drones were used - 600 aiming for Moscow, according to its regional governor who said the Russian capital had suffered \"one of the most massive drone attacks in recent memory\". A warehouse belonging to Russian online retailer Wildberries was hit. Russian attacks on Ukraine also killed at least seven people and injured more than 39. Russia has intensified missile attacks across Ukraine in recent weeks, with Kyiv also stepping up drone strikes deep inside Russia. Five people died in Russia's south-western region of Rostov following overnight strikes, its governor said. Officials in Belgorod, which borders Ukraine, said a woman was killed after a civilian bus was struck, while an 83-year-old man died in a drone attack in the Moscow region, according to Governor Andrey Vorobyov. A Wildberries warehouse in Koledino, 25km (15.5 miles) from the centre of Moscow, was hit in an attack, injuring three, Mayor Sergei Sobyanin said. Videos shows a fire and a large plume of smoke over the warehouse. Wildberries, known as Russia's version of Amazon, has been repeatedly targeted since July. Kyiv said at the time it was targeting logistics hubs used by Russians to buy military equipment and disrupting supplies to the Russian army. Ukraine's defence ministry said the latest attack meant that seven out of 10 of the largest Wildberries logistics centres had been \"disabled\". Both warring sides accuse each other of targeting civilians. In Ukraine, a 66-year-old man and 64-year-old woman died after a private house was hit by a guided aerial bomb in the Zaporizhzhia region, officials said. Two more people were killed in Kryvyi Rih, a city in Dnipropetrovsk.",
+          "url": "https://www.bbc.com/news/articles/c1411pgje8xo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
+          "published_at": "2026-08-16T08:14:56Z",
+          "embed_url": "https://www.bbc.com/news/articles/c1411pgje8xo",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "5fccd4a0a7c6",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+          "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+          "body_text": "Twelve people were killed and dozens more injured when a bus carrying Polish pilgrims veered off a Hungarian motorway and into a ditch. Police said the bus overturned after coming off the M3 motorway, which connects Hungary's capital Budapest with the north-eastern city of Nyíregyháza, at around 01:00 local time on Sunday (23:00 GMT on Saturday). Officers believe the driver fell asleep at the wheel. He has been taken into custody. Thirty-five out of the 57 passengers and two drivers onboard have been rescued by firefighters so far, state media reports. Emergency services had been attempting to lift the rear axle of the 24-tonne bus to remove the people trapped underneath before cranes arrived to lift the whole vehicle, according to Hungarian news agency MTI. Hungary's ambulance service said it had treated one person with life-threatening injuries, nine people with serious injuries and a further 37 people with minor injuries. The country's Prime Minister Péter Magyar offered his \"sincere condolences\" to the families of the victims and wished those injured a speedy recovery. Polish Prime Minister Donald Tusk echoed his sentiments, adding he had decided to send a \"special\" Polish aircraft with foreign ministry officials and medical services. \"We are together in this difficult moment,\" he added. The bus had been returning from Bosnia and Herzegovina, and had been carrying pilgrims from Poland's southernmost region of Podkarpacie, according to Polish news agency PAP. Poland's Foreign Minister Radosław Sikorski said his Hungarian counterpart had told him police had already begun questioning the bus driver.",
+          "url": "https://www.bbc.com/news/articles/ckg4424zd7go",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2d06/live/d689cf40-995d-11f1-9712-2936f8c80214.jpg",
+          "published_at": "2026-08-16T07:04:17Z",
+          "embed_url": "https://www.bbc.com/news/articles/ckg4424zd7go",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "413b292f66b6",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Indonesia: Thousands displaced by deadly earthquake as rescue efforts continue",
+          "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+          "body_text": "Around 5,000 people have been displaced by a powerful earthquake in Indonesia that has caused at least 53 fatalities. Rescuers continue to search for survivors of the shallow magnitude 7.7 quake, which struck the island of Flores shortly before 05:00 local time on Saturday (22:00 GMT on Friday). Preliminary reports indicate more than 900 homes and hundreds of other buildings have been severely damaged by the tremor and 341 subsequent aftershocks, the National Disaster Management Agency (BNPB) said. The full scale of the disaster is still being uncovered, with news of a second magnitude 6.9 earthquake elsewhere in Indonesia serving as a reminder of why this region is called the ring of fire. The initial earthquake, which occurred just 15km below the surface, was the south-east Asian nation's deadliest since 2022, when hundreds of people were killed in West Java. Tremors were reportedly felt by residents as far west as Bima, the BNPB said, but the Manggarai province was among the most affected. Abdul Muhari, deputy for the BNPB, confirmed 25 deaths had been recorded there, as well as 20 fatalities in East Manggarai province, four in Sikka province, two in Ende and at least one person in both the Nagekeo and West Manggarai provinces. A total of 3,356 people had been displaced in Sikka, with a further 2,078 evacuated in Manggarai, the agency said. Thirty-six people were seriously injured in East Nusa Tenggara province, while 77 suffered minor injuries, Deputy Health Minister Benjamin Paulus Octavianus said. It will take time to assess the full extent of the destruction in the region, which is remote and mountainous. However, early reports indicate that, in addition to damaged homes, dozens of schools, healthcare facilities and government offices had also been severely damaged. Ruteng Regional Hospital in Manggarai was among them. Images show operating theatre and clinic ceilings caved in, requiring patients to be treated in tents.",
+          "url": "https://www.bbc.com/news/articles/c3v00w5ylw9o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+          "published_at": "2026-08-15T21:49:12Z",
+          "embed_url": "https://www.bbc.com/news/articles/c3v00w5ylw9o",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "4308eeb93569",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+          "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+          "body_text": "Iran has called for the release of three pilots it said were captured by Qatar after two of its fighter jets were hit by air defences during a military operation at the start of the US-Iran war. In a letter to the head of the International Committee of the Red Cross (ICRC), Iran's Brig Gen Mohammad Bagherzadeh claimed the pilots - Javad Salehi, Abdul Majid Dashtian and Imran Behroshian - had been held captive for six months. He said the body of a fourth pilot, Majid Kazemi, had been returned after he was killed in the same operation on 2 March 2026 - the third day of the war. Qatar \"categorically denied\" Iran's claims and said it was \"surprised by these misleading statements\". Bagherzadeh said the three pilots had been captured by Qatar after they ejected from their jets during a combat mission targeting a Qatari military base. In the letter to ICRC chief Mirjana Spoljaric, published by Iranian media, he accused Qatar of violating \"the inalienable rights of these prisoners, contrary to all international laws and regulations\". The letter also claimed the three pilots had not been allowed to meet or contact their families. Qatar's foreign affairs spokesperson Majed Mohammed Al Ansari said contact had been made with the pilots \"after they violated Qatari airspace\", but that it had not received a response. \"The necessary measures were taken to defend our territory in accordance with international law,\" he added in a statement on X. Al Ansari said Qatar's search and rescue teams \"carried out their duties to the fullest extent in searching for the pilots' remains\", adding the Gulf nation had contacted Iran \"co-ordinate the handover of the remains of one of the pilots that were recovered\". Bagerzadeh later told the semi-official Tasnim news agency on Sunday that Qatar should allow an Iranian fact-finding team into the country to investigate what had happened, claiming one had been denied entry for months. Al Ansari said an invitation for an Iranian team to visit Qatar to review the findings of its search and rescue operation had been extended in April but Tehran had yet to respond.",
+          "url": "https://www.bbc.com/news/articles/cj4kk8kz271o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2823/live/147ab810-997b-11f1-a992-3780b3f27758.jpg",
+          "published_at": "2026-08-15T21:03:57Z",
+          "embed_url": "https://www.bbc.com/news/articles/cj4kk8kz271o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "59bb37ff6c51",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Hurricane Lala: Hawaii battles with flash floods and strong winds",
+          "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+          "body_text": "Hawaii is facing flash floods and mudslides that have swept away some homes after category one Hurricane Lala skirted Big Island, leaving one person dead in a car accident. A search-and-rescue operation was under way after several properties were uprooted from their foundations in the coastal communities of Naalehu and Waiohinu. Despite not even making landfall, the storm still dumped up to 35in (89cm) of rain in places, sending torrents raging down mountainsides. More than 200,000 householders were without power. Lala's eyewall howled past the Pacific US state overnight before weakening to a tropical storm, and it is now moving westward, south of Hawaii. The storm came within 30 miles (48km) of Big Island's South Point, but it was close enough to bring flash flooding, Hawaii County said on Sunday. After gaining hurricane strength on Saturday afternoon, packing wind speeds of 91mph, Lala's winds have now weakened to near 65mph, said the National Hurricane Center (NHC) in its latest advisory at 14:00 EDT (18:00 GMT) on Sunday. Tropical storm warnings remain in effect for all eight of Hawaii's major islands. \"Lala is expected to produce additional rainfall of 4 to 8 inches across the Big Island and windward Maui, with maximum storm totals of 30 to 35 inches,\" the NHC said, while the rest of the island chain can expect rainfall of 4 to 6in. The US National Weather Service's office in Honolulu said it had had reports of two homes being swept away amid the intense rainfall. Mayor Kimo Alameda said the county's civil defence agency had launched a search-and-rescue operation to find people whose homes may have been destroyed in the floods. \"What makes this very challenging is that there's rushing water, there's debris, there's boulders on the road, and it's dark,\" he said earlier. About 180 Hawaii National Guard members have been deployed to help with the emergency response.",
+          "url": "https://www.bbc.com/news/articles/crmrr7kjy9vo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+          "published_at": "2026-08-15T20:28:30Z",
+          "embed_url": "https://www.bbc.com/news/articles/crmrr7kjy9vo",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "f46e70bd7c17",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Liechtenstein to allow women to ascend the throne",
+          "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+          "body_text": "Liechtenstein has announced that it has changed royal succession rules to allow women to ascend the throne. The declaration was made on the national day of the central European country, which has a population of just 44,000. Liechtenstein's current ruler, Prince Hans-Adam II, has been the head of their royal family since 1989. The rule change will not affect his heir, Hereditary Prince Alois, who was his first-born. Alois has carried out most official royal duties for the last two decades. \"The order of succession is being changed from male primogeniture to absolute primogeniture,\" the House of Liechtenstein said in a statement. \"This means that in future the first-born child, regardless of sex, will become heir to the throne and later princess or prince of Liechtenstein.\" The change will not affect Liechtenstein's succession line for now - it will only apply to descendants of the four children of Hereditary Prince Alois and his wife, Hereditary Princess Sophie. In a statement, Alois said: \"With this change in the law, we want to ensure that both the Principality of Liechtenstein and the Princely House are led by the person who has been best prepared for this responsibility.\" Liechtenstein is a tiny, doubly-landlocked country tucked away between Switzerland and Austria, whose ruler enjoys sweeping political powers, unlike many of his counterparts in Europe. In 2011, Britain changed its succession laws to allow first-born daughters of a monarch to inherit the throne.",
+          "url": "https://www.bbc.com/news/articles/cn9nnxrxg4qo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
+          "published_at": "2026-08-15T19:41:57Z",
+          "embed_url": "https://www.bbc.com/news/articles/cn9nnxrxg4qo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "754bf0f487ca",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta - reports",
+          "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "body_text": "Moroccan authorities have intercepted dozens of migrants seeking to cross into the Spanish North African exclave of Ceuta, reports say. More than 100 people were blocked trying to make their way to the border on the outskirts of the town of Fnideq, according to Moroccan security sources cited by Spanish media and news agency Reuters. It comes a fortnight after roughly 78,000 migrants arrived in the exclave by sea in a matter of hours - 100 of whom died, according to the city's mayor, who also said the vast majority of arrivals had returned to Morocco. Security had been stepped up in the area after the influx and amid suggestions on social media of a second mass crossing attempt this weekend. The security sources said 111 people had been detained in or around Fnideq - known in Spanish as Castillejos - about 3km (1.8 miles) from the border, the majority of whom were from sub-Saharan Africa. Moroccan police - including some in riot gear - reportedly used tear gas to disperse groups of migrants gathered on nearby hills. Earlier this week, Morocco's government said it was monitoring \"the circulation of social media posts and messages of unknown origin\" calling for a mass crossing on Saturday, and warned that it would prosecute organisers and participants. Security at the breakwater entrance was \"10 times stronger than the previous day\", Spanish newspaper El País reported. Morocco had dispatched army officers, navy speedboats and drones to the border on Saturday, it said. Meanwhile, Madrid deployed more than 1,500 security officers to patrol the area. Spain has also installed a metal fence and a floating barrier following last month's influx. The crisis had calmed since breaking out in late July, but it has sparked tensions between EU nations that share open borders as well as criticism of the Spanish government.",
+          "url": "https://www.bbc.com/news/articles/ckg44x2ey1ro",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
+          "published_at": "2026-08-15T19:16:40Z",
+          "embed_url": "https://www.bbc.com/news/articles/ckg44x2ey1ro",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 9
+        },
+        {
+          "id": "f6b4d2e3e57b",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Belgian wildfire doubles in size on third day tearing through Hautes Fagnes nature reserve",
+          "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+          "body_text": "A wildfire described as the largest in Belgium's recent history has more than doubled in size in 24 hours, local officials said on Sunday. Hundreds of firefighters are spending a third day beating back flames tearing through Hautes Fagnes - the country's largest nature reserve - prompting the evacuation of two nearby villages. Local farmers hauled water tankers towards the park near Belgium's eastern border with Germany, backed by water-bombing aircraft and helicopters sent from Sweden and the Netherlands. The blaze is one of several wildfires reported across Europe this weekend, with at least two killed in forest fires on a Greek island off the coast of Athens on Sunday. Belgian officials have warned that high heat and the park's terrain - which consists of bog-like territory, moorland and forests - have hampered efforts to extinguish the fire. It spread from 80 hectares (200 acres) on Friday to 850 hectares on Saturday morning - before consuming 3,000 hectares by early Sunday, AFP news agency reported citing local officials. Belgian Interior Minister Bernard Quintin said two of its fronts - heading towards Jalhay and Monschau - had been brought under control. But authorities said the conditions remained challenging and that they were relying heavily on aerial assistance to tame the flames, though no homes have been affected. Two water-bombing aircraft arrived from Sweden on Sunday afternoon to back up four helicopters - two Belgian and two Dutch - already on site. Nicolas Yernaux, spokesman for the regional authorities in Wallonia, had said on Saturday that the fire was the country's \"largest in recent history\". Firefighters had \"allowed parts of the heathland to burn because the area is very difficult to access\", he added. Rescue teams have been unable to access the area where fire broke out, meaning its cause remains unknown.",
+          "url": "https://www.bbc.com/news/articles/cp8eex1nmpvo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg",
+          "published_at": "2026-08-15T17:47:42Z",
+          "embed_url": "https://www.bbc.com/news/articles/cp8eex1nmpvo",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        },
+        {
+          "id": "42d63f4dec67",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Teen suspect in Virginia State University shooting found hiding in campus closet",
+          "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
+          "body_text": "A teenager has been arrested after five people were shot at Virginia State University (VSU) in the early hours of Saturday morning. Camron Harris, a 19-year-old from Henrico in Virginia, was found hiding in a closet on campus after the incident, police told US media. He is not a student at the university. Only one of the five victims was studying at VSU, and all were taken to local hospitals with gunshot wounds. A 21-year-old man remains in a critical condition. The other four, whose ages range from 17 to 23, suffered non-life-threatening injuries, according to police. Local officers initially told the BBC that they believed more than one shooter was involved. VSU, located south of the state's capital Richmond, is one of the country's historically black universities. Officers responded to the incident outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday, the university said. Classes for the new term were set to begin on Monday and campus dormitories opened for returning students on Friday, according to the university's website. Lt James R Lamb of Chesterfield County Police Department told the BBC on Saturday that authorities believed there to be multiple assailants involved. VSU has more than 5,000 students. It and other historically black institutions were created to provide higher education to disenfranchised African Americans, who were otherwise prohibited from attending most colleges. Additional reporting by Sakshi Venkatraman",
+          "url": "https://www.bbc.com/news/articles/c0l5583903yo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
+          "published_at": "2026-08-15T14:21:24Z",
+          "embed_url": "https://www.bbc.com/news/articles/c0l5583903yo",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 11
+        },
+        {
+          "id": "81d4a227f3d1",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Canadians are still boycotting US travel. Here's where they're going instead",
+          "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+          "body_text": "Prior to US President Donald Trump's re-election, Kent Truscott and his family, from London, Ontario, had taken multiple trips south of the border, including to California and most recently New York in 2023. But since late 2024, \"my family and I have completely decided to boycott the United States\", he told BBC. That meant cancelling a trip last spring to Texas to watch the SpaceX Starship launch with his brother. The two had planned to fly down from Toronto, rent a car and stay a week to watch the launch, likely spending \"thousands of dollars\". Truscott and his wife decided to spend that money in Canada instead – the Atlantic provinces of Nova Scotia and Prince Edward Island, to be exact. Their decision is a response to US tariffs and the president's comments about annexing their country. More than a year after Trump's return to the White House, many Canadians like Truscott are still holding firm on their boycott on travel to the US. Even with a slight uptick in road trips to the US in April, Canadians made 800,000 fewer trips that month compared to the same time in 2024, before Trump was elected, according to national data. The boycott has meant a loss of about C$3.3bn ($2.35bn; £1.75bn) in travel revenue for the US last year - money that Canadians have instead chosen to spend overseas or exploring their own country. The BBC spoke to a few Canadians about why they have chosen to avoid the US, where they have gone instead and what it would take for them to return. Not everyone is driven solely by Trump's treatment of Canada, with some noting that the declining Canadian dollar has also made the US less affordable. But many say they feel their country's relationship with the US has hit a breaking point, and that it would take a lot for them to return, if at all. Once they decided to vacation in Atlantic Canada, Kent Truscott and his wife embraced the idea of discovering their own country. They rented a vehicle, hiked the scenic Cabot Trail and stayed at a resort on the Atlantic Ocean run entirely by women. \"I had the best halibut dinner in my life, caught by someone that morning out on the bay,\" he recalled.",
+          "url": "https://www.bbc.com/news/articles/c8jnwnw22ngo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0ff2/live/1ac3c9a0-97f0-11f1-a579-3beb34ebe76c.jpg",
+          "published_at": "2026-08-14T23:16:43Z",
+          "embed_url": "https://www.bbc.com/news/articles/c8jnwnw22ngo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 12
+        },
+        {
+          "id": "25d3e6ce68f0",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Since the Taliban took power, does the West have any influence?",
+          "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+          "body_text": "In a whitewashed basement in a village south of Kabul, a dozen young women bustle about, stirring cauldrons of bubbling cherries and plums, and sticking labels on glass jam jars. Ventures like this are one of the rare spaces where women are still able to gain skills and employment in Taliban-ruled Afghanistan. It is run by Najia, a 47-year-old Afghan entrepreneur and mother of nine children who was married at the age of 14. If the authorities hadn't barred girls and young women from secondary schools and universities, many of the women in this workshop, including Naija's daughters, would be studying for a different kind of future. But now, even this is being squeezed too. Recent rules say women have to ask men to take their products to market, and only men can sit at their stalls to show their wares at trade fairs. The Taliban gives various reasons for this, including claiming that women aren't wearing proper hijab or head covering. \"The world has to talk to the Taliban in a different way because it's just not working,\" says Najia. \"The lives of Afghan women have to change because we're losing hope.\" Five years after this ultra-conservative Islamist movement took charge, women are banned from much of the public sphere and girls are prohibited from going to school over the age of 12. Many inside and outside Afghanistan are asking the same pressing question: what's the best way to engage the Taliban to try to achieve meaningful change? The issue is deeply divisive. There are fissures between many groups, with a huge array of conflicting issues at stake. These include women's rights, unpredictable Taliban edicts, international sanctions and aid cuts during a spiralling humanitarian crisis. The international response is split between Western countries often focused on human rights and others more interested in investment opportunities. And the West itself is divided on the best response. Many now accept that whatever they're doing, it's not working. Few voices call for absolute isolation, not when the United Nations warns that 22 million Afghans – nearly half the of the population – rely on some form of foreign assistance to help them survive. The country has been battered by multiple shocks: an agonising economic crisis; devastating natural disasters; clashes with neighbouring Pakistan, and the influx of millions of Afghans deported from countries near and far into this impoverished land. And there's no avoiding it – the Taliban are in charge now. In the years since their fighters swept into Kabul on 15 August 2021, they've grown in confidence and consolidated control despite intermittent attacks by armed opposition groups based abroad, as well as Islamic State fighters.",
+          "url": "https://www.bbc.com/news/articles/cm2gp5g0xngo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e6df/live/5cf107f0-97de-11f1-a7ab-8b30adf0800a.jpg",
+          "published_at": "2026-08-14T17:00:14Z",
+          "embed_url": "https://www.bbc.com/news/articles/cm2gp5g0xngo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 13
+        }
+      ]
     },
     {
       "id": "omni-senaste",
@@ -2109,11 +2501,10 @@
       "surface": "newsroom",
       "source_kind": "story",
       "live_section": false,
-      "status": "error",
+      "status": "pending",
       "article_count": 0,
       "priority_split": 0,
-      "articles": [],
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "articles": []
     },
     {
       "id": "omni-ekonomi",
@@ -2142,11 +2533,10 @@
       "surface": "newsroom",
       "source_kind": "story",
       "live_section": false,
-      "status": "error",
+      "status": "pending",
       "article_count": 0,
       "priority_split": 0,
-      "articles": [],
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "articles": []
     },
     {
       "id": "omni-inrikes",
@@ -2192,7 +2582,7 @@
           "body_text": "Universitario vs FC Cajamarca EN VIVO: previa y últimas noticias del partido por la fecha 5 del Torneo Clausura",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-fc-cajamarca-en-vivo-gratis-hoy-ver-partido-online-por-torneo-clausura-liga-1-2026-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/KQE6OO73OJHDLGQQR3VOVCOQRI.jpg?auth=5e46d44253a5c799b2dd6ce65b027ad563191cdee3481bfaded14dc7b2d869ac&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T18:45:13Z",
+          "published_at": "2026-08-16T19:16:51Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-fc-cajamarca-en-vivo-gratis-hoy-ver-partido-online-por-torneo-clausura-liga-1-2026-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2204,6 +2594,32 @@
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "21fb9fc6ff28",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Ignacio Buse vs. Adam Walton en vivo: horario y canales TV por Masters 1000 de Cincinnati",
+          "summary": "Ignacio Buse vs Adam Walton EN VIVO: hora, fecha y canal para ver el partido por la segunda ronda del Masters 1000 de Cincinnati.",
+          "body_text": "Ignacio Buse se enfrenta al australiano Adam Walton este domingo 16 de agosto de 2026 por la segunda ronda del Masters 1000 de Cincinnati, torneo que se disputa sobre superficie dura en Estados Unidos. El tenista peruano buscará seguir avanzando en uno de los torneos más importantes del circuito ATP. El partido entre Ignacio Buse y Adam Walton se disputará este domingo 16 de agosto. Este compromiso empezará no antes de la 1:30 p.m., según la programación oficial de la jornada y de la duración de los encuentros previos. Se recomienda estar atento a la actualización del orden de juego oficial para conocer la hora definitiva. El partido entre Ignacio Buse y Adam Walton será transmitido EN VIVO vía streaming por Disney+, plataforma que cuenta con la transmisión de los torneos ATP en la región. Los aficionados peruanos podrán seguir el encuentro online a través de este servicio. Ignacio Buse afrontará ante Adam Walton un nuevo desafío en el Masters 1000 de Cincinnati. El peruano llega con la ilusión de seguir avanzando en el torneo y conseguir otra victoria importante frente a un rival australiano que también buscará instalarse en la siguiente ronda. El duelo entre Buse y Walton será una nueva oportunidad para el tenista nacional de medir su nivel ante uno de los mejores escenarios del circuito. El ganador avanzará a la tercera ronda del Masters 1000 de Cincinnati 2026, donde tendrá otro exigente desafío en el camino hacia las instancias decisivas.",
+          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/A5C2CEG22NHW3L2AIPVJDAVVGA.png?auth=cf64dfc42c6e6b5d53cc15e24ec24096104f48975f38d135034f2697ff759522&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T19:16:03Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Ignacio Buse vs Adam Walton, Ignacio Buse vs Adam Walton en vivo, Ignacio Buse vs Adam Walton en directo, Ignacio Buse vs Adam Walton gratis, Ignacio Buse vs Adam Walton online, Ignacio Buse vs Adam Walton hoy, Ignacio Buse vs Adam Walton por internet, Ignacio Buse vs Adam Walton por streaming, ver Ignacio Buse vs Adam Walton, donde ver Ignacio Buse vs Adam Walton, como ver Ignacio Buse vs Adam Walton, mirar Ignacio Buse vs Adam Walton, partido Ignacio Buse vs Adam Walton, en que canal ver Ignacio Buse vs Adam Walton, en que canal pasan Ignacio Buse vs Adam Walton, en que canal transmiten Ignacio Buse vs Adam Walton, en que canal mirar Ignacio Buse vs Adam Walton, que canal pasa Ignacio Buse vs Adam Walton, que canal transmite Ignacio Buse vs Adam Walton, canal que pasa Ignacio Buse vs Adam Walton, canal que transmite Ignacio Buse vs Adam Walton, canal TV que pasa Ignacio Buse vs Adam Walton, canal TV que transmite Ignacio Buse vs Adam Walton, canales que pasan Ignacio Buse vs Adam Walton, canales que transmiten Ignacio Buse vs Adam Walton, que canales pasan Ignacio Buse vs Adam Walton, que canales transmiten Ignacio Buse vs Adam Walton, canales TV que pasan Ignacio Buse vs Adam Walton, canales TV que transmiten Ignacio Buse vs Adam Walton, hora Ignacio Buse vs Adam Walton, horarios Ignacio Buse vs Adam Walton, a que hora juega Ignacio Buse vs Adam Walton, donde juega Ignacio Buse vs Adam Walton, cuando juega Ignacio Buse vs Adam Walton, Masters 1000 de Cincinnati, tenis peruano, tenis, Disney Plus, Disney+",
+            "Tenis",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "167a83dcd566",
@@ -2225,32 +2641,6 @@
           "tags": [
             "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
             "Tramites",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "21fb9fc6ff28",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Ignacio Buse vs. Adam Walton en vivo: a qué hora empieza y dónde verlo por Masters 1000 de Cincinnati",
-          "summary": "Ignacio Buse vs Adam Walton EN VIVO: hora, fecha y canal para ver el partido por la segunda ronda del Masters 1000 de Cincinnati.",
-          "body_text": "Ignacio Buse se enfrenta al australiano Adam Walton este domingo 16 de agosto de 2026 por la segunda ronda del Masters 1000 de Cincinnati, torneo que se disputa sobre superficie dura en Estados Unidos. El tenista peruano buscará seguir avanzando en uno de los torneos más importantes del circuito ATP. El partido entre Ignacio Buse y Adam Walton se disputará este domingo 16 de agosto. Este compromiso empezará no antes de la 1:30 p.m., según la programación oficial de la jornada y de la duración de los encuentros previos. Se recomienda estar atento a la actualización del orden de juego oficial para conocer la hora definitiva. El partido entre Ignacio Buse y Adam Walton será transmitido EN VIVO vía streaming por Disney+, plataforma que cuenta con la transmisión de los torneos ATP en la región. Los aficionados peruanos podrán seguir el encuentro online a través de este servicio. Ignacio Buse afrontará ante Adam Walton un nuevo desafío en el Masters 1000 de Cincinnati. El peruano llega con la ilusión de seguir avanzando en el torneo y conseguir otra victoria importante frente a un rival australiano que también buscará instalarse en la siguiente ronda. El duelo entre Buse y Walton será una nueva oportunidad para el tenista nacional de medir su nivel ante uno de los mejores escenarios del circuito. El ganador avanzará a la tercera ronda del Masters 1000 de Cincinnati 2026, donde tendrá otro exigente desafío en el camino hacia las instancias decisivas.",
-          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/A5C2CEG22NHW3L2AIPVJDAVVGA.png?auth=cf64dfc42c6e6b5d53cc15e24ec24096104f48975f38d135034f2697ff759522&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T17:10:11Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Ignacio Buse vs Adam Walton, Ignacio Buse vs Adam Walton en vivo, Ignacio Buse vs Adam Walton en directo, Ignacio Buse vs Adam Walton gratis, Ignacio Buse vs Adam Walton online, Ignacio Buse vs Adam Walton hoy, Ignacio Buse vs Adam Walton por internet, Ignacio Buse vs Adam Walton por streaming, ver Ignacio Buse vs Adam Walton, donde ver Ignacio Buse vs Adam Walton, como ver Ignacio Buse vs Adam Walton, mirar Ignacio Buse vs Adam Walton, partido Ignacio Buse vs Adam Walton, en que canal ver Ignacio Buse vs Adam Walton, en que canal pasan Ignacio Buse vs Adam Walton, en que canal transmiten Ignacio Buse vs Adam Walton, en que canal mirar Ignacio Buse vs Adam Walton, que canal pasa Ignacio Buse vs Adam Walton, que canal transmite Ignacio Buse vs Adam Walton, canal que pasa Ignacio Buse vs Adam Walton, canal que transmite Ignacio Buse vs Adam Walton, canal TV que pasa Ignacio Buse vs Adam Walton, canal TV que transmite Ignacio Buse vs Adam Walton, canales que pasan Ignacio Buse vs Adam Walton, canales que transmiten Ignacio Buse vs Adam Walton, que canales pasan Ignacio Buse vs Adam Walton, que canales transmiten Ignacio Buse vs Adam Walton, canales TV que pasan Ignacio Buse vs Adam Walton, canales TV que transmiten Ignacio Buse vs Adam Walton, hora Ignacio Buse vs Adam Walton, horarios Ignacio Buse vs Adam Walton, a que hora juega Ignacio Buse vs Adam Walton, donde juega Ignacio Buse vs Adam Walton, cuando juega Ignacio Buse vs Adam Walton, Masters 1000 de Cincinnati, tenis peruano, tenis, Disney Plus, Disney+",
-            "Tenis",
             "Senaste",
             "El Comercio"
           ],
@@ -2469,7 +2859,7 @@
           "body_text": "Universitario vs FC Cajamarca EN VIVO: previa y últimas noticias del partido por la fecha 5 del Torneo Clausura",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-fc-cajamarca-en-vivo-gratis-hoy-ver-partido-online-por-torneo-clausura-liga-1-2026-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/KQE6OO73OJHDLGQQR3VOVCOQRI.jpg?auth=5e46d44253a5c799b2dd6ce65b027ad563191cdee3481bfaded14dc7b2d869ac&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T18:45:13Z",
+          "published_at": "2026-08-16T19:16:51Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-fc-cajamarca-en-vivo-gratis-hoy-ver-partido-online-por-torneo-clausura-liga-1-2026-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2481,6 +2871,32 @@
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "21fb9fc6ff28",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Ignacio Buse vs. Adam Walton en vivo: horario y canales TV por Masters 1000 de Cincinnati",
+          "summary": "Ignacio Buse vs Adam Walton EN VIVO: hora, fecha y canal para ver el partido por la segunda ronda del Masters 1000 de Cincinnati.",
+          "body_text": "Ignacio Buse se enfrenta al australiano Adam Walton este domingo 16 de agosto de 2026 por la segunda ronda del Masters 1000 de Cincinnati, torneo que se disputa sobre superficie dura en Estados Unidos. El tenista peruano buscará seguir avanzando en uno de los torneos más importantes del circuito ATP. El partido entre Ignacio Buse y Adam Walton se disputará este domingo 16 de agosto. Este compromiso empezará no antes de la 1:30 p.m., según la programación oficial de la jornada y de la duración de los encuentros previos. Se recomienda estar atento a la actualización del orden de juego oficial para conocer la hora definitiva. El partido entre Ignacio Buse y Adam Walton será transmitido EN VIVO vía streaming por Disney+, plataforma que cuenta con la transmisión de los torneos ATP en la región. Los aficionados peruanos podrán seguir el encuentro online a través de este servicio. Ignacio Buse afrontará ante Adam Walton un nuevo desafío en el Masters 1000 de Cincinnati. El peruano llega con la ilusión de seguir avanzando en el torneo y conseguir otra victoria importante frente a un rival australiano que también buscará instalarse en la siguiente ronda. El duelo entre Buse y Walton será una nueva oportunidad para el tenista nacional de medir su nivel ante uno de los mejores escenarios del circuito. El ganador avanzará a la tercera ronda del Masters 1000 de Cincinnati 2026, donde tendrá otro exigente desafío en el camino hacia las instancias decisivas.",
+          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/A5C2CEG22NHW3L2AIPVJDAVVGA.png?auth=cf64dfc42c6e6b5d53cc15e24ec24096104f48975f38d135034f2697ff759522&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T19:16:03Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Ignacio Buse vs Adam Walton, Ignacio Buse vs Adam Walton en vivo, Ignacio Buse vs Adam Walton en directo, Ignacio Buse vs Adam Walton gratis, Ignacio Buse vs Adam Walton online, Ignacio Buse vs Adam Walton hoy, Ignacio Buse vs Adam Walton por internet, Ignacio Buse vs Adam Walton por streaming, ver Ignacio Buse vs Adam Walton, donde ver Ignacio Buse vs Adam Walton, como ver Ignacio Buse vs Adam Walton, mirar Ignacio Buse vs Adam Walton, partido Ignacio Buse vs Adam Walton, en que canal ver Ignacio Buse vs Adam Walton, en que canal pasan Ignacio Buse vs Adam Walton, en que canal transmiten Ignacio Buse vs Adam Walton, en que canal mirar Ignacio Buse vs Adam Walton, que canal pasa Ignacio Buse vs Adam Walton, que canal transmite Ignacio Buse vs Adam Walton, canal que pasa Ignacio Buse vs Adam Walton, canal que transmite Ignacio Buse vs Adam Walton, canal TV que pasa Ignacio Buse vs Adam Walton, canal TV que transmite Ignacio Buse vs Adam Walton, canales que pasan Ignacio Buse vs Adam Walton, canales que transmiten Ignacio Buse vs Adam Walton, que canales pasan Ignacio Buse vs Adam Walton, que canales transmiten Ignacio Buse vs Adam Walton, canales TV que pasan Ignacio Buse vs Adam Walton, canales TV que transmiten Ignacio Buse vs Adam Walton, hora Ignacio Buse vs Adam Walton, horarios Ignacio Buse vs Adam Walton, a que hora juega Ignacio Buse vs Adam Walton, donde juega Ignacio Buse vs Adam Walton, cuando juega Ignacio Buse vs Adam Walton, Masters 1000 de Cincinnati, tenis peruano, tenis, Disney Plus, Disney+",
+            "Tenis",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "167a83dcd566",
@@ -2502,32 +2918,6 @@
           "tags": [
             "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
             "Tramites",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "21fb9fc6ff28",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Ignacio Buse vs. Adam Walton en vivo: a qué hora empieza y dónde verlo por Masters 1000 de Cincinnati",
-          "summary": "Ignacio Buse vs Adam Walton EN VIVO: hora, fecha y canal para ver el partido por la segunda ronda del Masters 1000 de Cincinnati.",
-          "body_text": "Ignacio Buse se enfrenta al australiano Adam Walton este domingo 16 de agosto de 2026 por la segunda ronda del Masters 1000 de Cincinnati, torneo que se disputa sobre superficie dura en Estados Unidos. El tenista peruano buscará seguir avanzando en uno de los torneos más importantes del circuito ATP. El partido entre Ignacio Buse y Adam Walton se disputará este domingo 16 de agosto. Este compromiso empezará no antes de la 1:30 p.m., según la programación oficial de la jornada y de la duración de los encuentros previos. Se recomienda estar atento a la actualización del orden de juego oficial para conocer la hora definitiva. El partido entre Ignacio Buse y Adam Walton será transmitido EN VIVO vía streaming por Disney+, plataforma que cuenta con la transmisión de los torneos ATP en la región. Los aficionados peruanos podrán seguir el encuentro online a través de este servicio. Ignacio Buse afrontará ante Adam Walton un nuevo desafío en el Masters 1000 de Cincinnati. El peruano llega con la ilusión de seguir avanzando en el torneo y conseguir otra victoria importante frente a un rival australiano que también buscará instalarse en la siguiente ronda. El duelo entre Buse y Walton será una nueva oportunidad para el tenista nacional de medir su nivel ante uno de los mejores escenarios del circuito. El ganador avanzará a la tercera ronda del Masters 1000 de Cincinnati 2026, donde tendrá otro exigente desafío en el camino hacia las instancias decisivas.",
-          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/A5C2CEG22NHW3L2AIPVJDAVVGA.png?auth=cf64dfc42c6e6b5d53cc15e24ec24096104f48975f38d135034f2697ff759522&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T17:10:11Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Ignacio Buse vs Adam Walton, Ignacio Buse vs Adam Walton en vivo, Ignacio Buse vs Adam Walton en directo, Ignacio Buse vs Adam Walton gratis, Ignacio Buse vs Adam Walton online, Ignacio Buse vs Adam Walton hoy, Ignacio Buse vs Adam Walton por internet, Ignacio Buse vs Adam Walton por streaming, ver Ignacio Buse vs Adam Walton, donde ver Ignacio Buse vs Adam Walton, como ver Ignacio Buse vs Adam Walton, mirar Ignacio Buse vs Adam Walton, partido Ignacio Buse vs Adam Walton, en que canal ver Ignacio Buse vs Adam Walton, en que canal pasan Ignacio Buse vs Adam Walton, en que canal transmiten Ignacio Buse vs Adam Walton, en que canal mirar Ignacio Buse vs Adam Walton, que canal pasa Ignacio Buse vs Adam Walton, que canal transmite Ignacio Buse vs Adam Walton, canal que pasa Ignacio Buse vs Adam Walton, canal que transmite Ignacio Buse vs Adam Walton, canal TV que pasa Ignacio Buse vs Adam Walton, canal TV que transmite Ignacio Buse vs Adam Walton, canales que pasan Ignacio Buse vs Adam Walton, canales que transmiten Ignacio Buse vs Adam Walton, que canales pasan Ignacio Buse vs Adam Walton, que canales transmiten Ignacio Buse vs Adam Walton, canales TV que pasan Ignacio Buse vs Adam Walton, canales TV que transmiten Ignacio Buse vs Adam Walton, hora Ignacio Buse vs Adam Walton, horarios Ignacio Buse vs Adam Walton, a que hora juega Ignacio Buse vs Adam Walton, donde juega Ignacio Buse vs Adam Walton, cuando juega Ignacio Buse vs Adam Walton, Masters 1000 de Cincinnati, tenis peruano, tenis, Disney Plus, Disney+",
-            "Tenis",
             "Economia",
             "El Comercio"
           ],
@@ -2746,7 +3136,7 @@
           "body_text": "Universitario vs FC Cajamarca EN VIVO: previa y últimas noticias del partido por la fecha 5 del Torneo Clausura",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-fc-cajamarca-en-vivo-gratis-hoy-ver-partido-online-por-torneo-clausura-liga-1-2026-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/KQE6OO73OJHDLGQQR3VOVCOQRI.jpg?auth=5e46d44253a5c799b2dd6ce65b027ad563191cdee3481bfaded14dc7b2d869ac&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T18:45:13Z",
+          "published_at": "2026-08-16T19:16:51Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-fc-cajamarca-en-vivo-gratis-hoy-ver-partido-online-por-torneo-clausura-liga-1-2026-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2758,6 +3148,32 @@
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "21fb9fc6ff28",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Ignacio Buse vs. Adam Walton en vivo: horario y canales TV por Masters 1000 de Cincinnati",
+          "summary": "Ignacio Buse vs Adam Walton EN VIVO: hora, fecha y canal para ver el partido por la segunda ronda del Masters 1000 de Cincinnati.",
+          "body_text": "Ignacio Buse se enfrenta al australiano Adam Walton este domingo 16 de agosto de 2026 por la segunda ronda del Masters 1000 de Cincinnati, torneo que se disputa sobre superficie dura en Estados Unidos. El tenista peruano buscará seguir avanzando en uno de los torneos más importantes del circuito ATP. El partido entre Ignacio Buse y Adam Walton se disputará este domingo 16 de agosto. Este compromiso empezará no antes de la 1:30 p.m., según la programación oficial de la jornada y de la duración de los encuentros previos. Se recomienda estar atento a la actualización del orden de juego oficial para conocer la hora definitiva. El partido entre Ignacio Buse y Adam Walton será transmitido EN VIVO vía streaming por Disney+, plataforma que cuenta con la transmisión de los torneos ATP en la región. Los aficionados peruanos podrán seguir el encuentro online a través de este servicio. Ignacio Buse afrontará ante Adam Walton un nuevo desafío en el Masters 1000 de Cincinnati. El peruano llega con la ilusión de seguir avanzando en el torneo y conseguir otra victoria importante frente a un rival australiano que también buscará instalarse en la siguiente ronda. El duelo entre Buse y Walton será una nueva oportunidad para el tenista nacional de medir su nivel ante uno de los mejores escenarios del circuito. El ganador avanzará a la tercera ronda del Masters 1000 de Cincinnati 2026, donde tendrá otro exigente desafío en el camino hacia las instancias decisivas.",
+          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/A5C2CEG22NHW3L2AIPVJDAVVGA.png?auth=cf64dfc42c6e6b5d53cc15e24ec24096104f48975f38d135034f2697ff759522&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T19:16:03Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Ignacio Buse vs Adam Walton, Ignacio Buse vs Adam Walton en vivo, Ignacio Buse vs Adam Walton en directo, Ignacio Buse vs Adam Walton gratis, Ignacio Buse vs Adam Walton online, Ignacio Buse vs Adam Walton hoy, Ignacio Buse vs Adam Walton por internet, Ignacio Buse vs Adam Walton por streaming, ver Ignacio Buse vs Adam Walton, donde ver Ignacio Buse vs Adam Walton, como ver Ignacio Buse vs Adam Walton, mirar Ignacio Buse vs Adam Walton, partido Ignacio Buse vs Adam Walton, en que canal ver Ignacio Buse vs Adam Walton, en que canal pasan Ignacio Buse vs Adam Walton, en que canal transmiten Ignacio Buse vs Adam Walton, en que canal mirar Ignacio Buse vs Adam Walton, que canal pasa Ignacio Buse vs Adam Walton, que canal transmite Ignacio Buse vs Adam Walton, canal que pasa Ignacio Buse vs Adam Walton, canal que transmite Ignacio Buse vs Adam Walton, canal TV que pasa Ignacio Buse vs Adam Walton, canal TV que transmite Ignacio Buse vs Adam Walton, canales que pasan Ignacio Buse vs Adam Walton, canales que transmiten Ignacio Buse vs Adam Walton, que canales pasan Ignacio Buse vs Adam Walton, que canales transmiten Ignacio Buse vs Adam Walton, canales TV que pasan Ignacio Buse vs Adam Walton, canales TV que transmiten Ignacio Buse vs Adam Walton, hora Ignacio Buse vs Adam Walton, horarios Ignacio Buse vs Adam Walton, a que hora juega Ignacio Buse vs Adam Walton, donde juega Ignacio Buse vs Adam Walton, cuando juega Ignacio Buse vs Adam Walton, Masters 1000 de Cincinnati, tenis peruano, tenis, Disney Plus, Disney+",
+            "Tenis",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "167a83dcd566",
@@ -2779,32 +3195,6 @@
           "tags": [
             "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
             "Tramites",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "21fb9fc6ff28",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Ignacio Buse vs. Adam Walton en vivo: a qué hora empieza y dónde verlo por Masters 1000 de Cincinnati",
-          "summary": "Ignacio Buse vs Adam Walton EN VIVO: hora, fecha y canal para ver el partido por la segunda ronda del Masters 1000 de Cincinnati.",
-          "body_text": "Ignacio Buse se enfrenta al australiano Adam Walton este domingo 16 de agosto de 2026 por la segunda ronda del Masters 1000 de Cincinnati, torneo que se disputa sobre superficie dura en Estados Unidos. El tenista peruano buscará seguir avanzando en uno de los torneos más importantes del circuito ATP. El partido entre Ignacio Buse y Adam Walton se disputará este domingo 16 de agosto. Este compromiso empezará no antes de la 1:30 p.m., según la programación oficial de la jornada y de la duración de los encuentros previos. Se recomienda estar atento a la actualización del orden de juego oficial para conocer la hora definitiva. El partido entre Ignacio Buse y Adam Walton será transmitido EN VIVO vía streaming por Disney+, plataforma que cuenta con la transmisión de los torneos ATP en la región. Los aficionados peruanos podrán seguir el encuentro online a través de este servicio. Ignacio Buse afrontará ante Adam Walton un nuevo desafío en el Masters 1000 de Cincinnati. El peruano llega con la ilusión de seguir avanzando en el torneo y conseguir otra victoria importante frente a un rival australiano que también buscará instalarse en la siguiente ronda. El duelo entre Buse y Walton será una nueva oportunidad para el tenista nacional de medir su nivel ante uno de los mejores escenarios del circuito. El ganador avanzará a la tercera ronda del Masters 1000 de Cincinnati 2026, donde tendrá otro exigente desafío en el camino hacia las instancias decisivas.",
-          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/A5C2CEG22NHW3L2AIPVJDAVVGA.png?auth=cf64dfc42c6e6b5d53cc15e24ec24096104f48975f38d135034f2697ff759522&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T17:10:11Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Ignacio Buse vs Adam Walton, Ignacio Buse vs Adam Walton en vivo, Ignacio Buse vs Adam Walton en directo, Ignacio Buse vs Adam Walton gratis, Ignacio Buse vs Adam Walton online, Ignacio Buse vs Adam Walton hoy, Ignacio Buse vs Adam Walton por internet, Ignacio Buse vs Adam Walton por streaming, ver Ignacio Buse vs Adam Walton, donde ver Ignacio Buse vs Adam Walton, como ver Ignacio Buse vs Adam Walton, mirar Ignacio Buse vs Adam Walton, partido Ignacio Buse vs Adam Walton, en que canal ver Ignacio Buse vs Adam Walton, en que canal pasan Ignacio Buse vs Adam Walton, en que canal transmiten Ignacio Buse vs Adam Walton, en que canal mirar Ignacio Buse vs Adam Walton, que canal pasa Ignacio Buse vs Adam Walton, que canal transmite Ignacio Buse vs Adam Walton, canal que pasa Ignacio Buse vs Adam Walton, canal que transmite Ignacio Buse vs Adam Walton, canal TV que pasa Ignacio Buse vs Adam Walton, canal TV que transmite Ignacio Buse vs Adam Walton, canales que pasan Ignacio Buse vs Adam Walton, canales que transmiten Ignacio Buse vs Adam Walton, que canales pasan Ignacio Buse vs Adam Walton, que canales transmiten Ignacio Buse vs Adam Walton, canales TV que pasan Ignacio Buse vs Adam Walton, canales TV que transmiten Ignacio Buse vs Adam Walton, hora Ignacio Buse vs Adam Walton, horarios Ignacio Buse vs Adam Walton, a que hora juega Ignacio Buse vs Adam Walton, donde juega Ignacio Buse vs Adam Walton, cuando juega Ignacio Buse vs Adam Walton, Masters 1000 de Cincinnati, tenis peruano, tenis, Disney Plus, Disney+",
-            "Tenis",
             "Mundo",
             "El Comercio"
           ],
@@ -3023,7 +3413,7 @@
           "body_text": "Universitario vs FC Cajamarca EN VIVO: previa y últimas noticias del partido por la fecha 5 del Torneo Clausura",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-fc-cajamarca-en-vivo-gratis-hoy-ver-partido-online-por-torneo-clausura-liga-1-2026-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/KQE6OO73OJHDLGQQR3VOVCOQRI.jpg?auth=5e46d44253a5c799b2dd6ce65b027ad563191cdee3481bfaded14dc7b2d869ac&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T18:45:13Z",
+          "published_at": "2026-08-16T19:16:51Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-fc-cajamarca-en-vivo-gratis-hoy-ver-partido-online-por-torneo-clausura-liga-1-2026-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3035,6 +3425,32 @@
           ],
           "is_live": false,
           "sort_order": 0
+        },
+        {
+          "id": "21fb9fc6ff28",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Ignacio Buse vs. Adam Walton en vivo: horario y canales TV por Masters 1000 de Cincinnati",
+          "summary": "Ignacio Buse vs Adam Walton EN VIVO: hora, fecha y canal para ver el partido por la segunda ronda del Masters 1000 de Cincinnati.",
+          "body_text": "Ignacio Buse se enfrenta al australiano Adam Walton este domingo 16 de agosto de 2026 por la segunda ronda del Masters 1000 de Cincinnati, torneo que se disputa sobre superficie dura en Estados Unidos. El tenista peruano buscará seguir avanzando en uno de los torneos más importantes del circuito ATP. El partido entre Ignacio Buse y Adam Walton se disputará este domingo 16 de agosto. Este compromiso empezará no antes de la 1:30 p.m., según la programación oficial de la jornada y de la duración de los encuentros previos. Se recomienda estar atento a la actualización del orden de juego oficial para conocer la hora definitiva. El partido entre Ignacio Buse y Adam Walton será transmitido EN VIVO vía streaming por Disney+, plataforma que cuenta con la transmisión de los torneos ATP en la región. Los aficionados peruanos podrán seguir el encuentro online a través de este servicio. Ignacio Buse afrontará ante Adam Walton un nuevo desafío en el Masters 1000 de Cincinnati. El peruano llega con la ilusión de seguir avanzando en el torneo y conseguir otra victoria importante frente a un rival australiano que también buscará instalarse en la siguiente ronda. El duelo entre Buse y Walton será una nueva oportunidad para el tenista nacional de medir su nivel ante uno de los mejores escenarios del circuito. El ganador avanzará a la tercera ronda del Masters 1000 de Cincinnati 2026, donde tendrá otro exigente desafío en el camino hacia las instancias decisivas.",
+          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/A5C2CEG22NHW3L2AIPVJDAVVGA.png?auth=cf64dfc42c6e6b5d53cc15e24ec24096104f48975f38d135034f2697ff759522&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T19:16:03Z",
+          "embed_url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Ignacio Buse vs Adam Walton, Ignacio Buse vs Adam Walton en vivo, Ignacio Buse vs Adam Walton en directo, Ignacio Buse vs Adam Walton gratis, Ignacio Buse vs Adam Walton online, Ignacio Buse vs Adam Walton hoy, Ignacio Buse vs Adam Walton por internet, Ignacio Buse vs Adam Walton por streaming, ver Ignacio Buse vs Adam Walton, donde ver Ignacio Buse vs Adam Walton, como ver Ignacio Buse vs Adam Walton, mirar Ignacio Buse vs Adam Walton, partido Ignacio Buse vs Adam Walton, en que canal ver Ignacio Buse vs Adam Walton, en que canal pasan Ignacio Buse vs Adam Walton, en que canal transmiten Ignacio Buse vs Adam Walton, en que canal mirar Ignacio Buse vs Adam Walton, que canal pasa Ignacio Buse vs Adam Walton, que canal transmite Ignacio Buse vs Adam Walton, canal que pasa Ignacio Buse vs Adam Walton, canal que transmite Ignacio Buse vs Adam Walton, canal TV que pasa Ignacio Buse vs Adam Walton, canal TV que transmite Ignacio Buse vs Adam Walton, canales que pasan Ignacio Buse vs Adam Walton, canales que transmiten Ignacio Buse vs Adam Walton, que canales pasan Ignacio Buse vs Adam Walton, que canales transmiten Ignacio Buse vs Adam Walton, canales TV que pasan Ignacio Buse vs Adam Walton, canales TV que transmiten Ignacio Buse vs Adam Walton, hora Ignacio Buse vs Adam Walton, horarios Ignacio Buse vs Adam Walton, a que hora juega Ignacio Buse vs Adam Walton, donde juega Ignacio Buse vs Adam Walton, cuando juega Ignacio Buse vs Adam Walton, Masters 1000 de Cincinnati, tenis peruano, tenis, Disney Plus, Disney+",
+            "Tenis",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
         },
         {
           "id": "167a83dcd566",
@@ -3056,32 +3472,6 @@
           "tags": [
             "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
             "Tramites",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "21fb9fc6ff28",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Ignacio Buse vs. Adam Walton en vivo: a qué hora empieza y dónde verlo por Masters 1000 de Cincinnati",
-          "summary": "Ignacio Buse vs Adam Walton EN VIVO: hora, fecha y canal para ver el partido por la segunda ronda del Masters 1000 de Cincinnati.",
-          "body_text": "Ignacio Buse se enfrenta al australiano Adam Walton este domingo 16 de agosto de 2026 por la segunda ronda del Masters 1000 de Cincinnati, torneo que se disputa sobre superficie dura en Estados Unidos. El tenista peruano buscará seguir avanzando en uno de los torneos más importantes del circuito ATP. El partido entre Ignacio Buse y Adam Walton se disputará este domingo 16 de agosto. Este compromiso empezará no antes de la 1:30 p.m., según la programación oficial de la jornada y de la duración de los encuentros previos. Se recomienda estar atento a la actualización del orden de juego oficial para conocer la hora definitiva. El partido entre Ignacio Buse y Adam Walton será transmitido EN VIVO vía streaming por Disney+, plataforma que cuenta con la transmisión de los torneos ATP en la región. Los aficionados peruanos podrán seguir el encuentro online a través de este servicio. Ignacio Buse afrontará ante Adam Walton un nuevo desafío en el Masters 1000 de Cincinnati. El peruano llega con la ilusión de seguir avanzando en el torneo y conseguir otra victoria importante frente a un rival australiano que también buscará instalarse en la siguiente ronda. El duelo entre Buse y Walton será una nueva oportunidad para el tenista nacional de medir su nivel ante uno de los mejores escenarios del circuito. El ganador avanzará a la tercera ronda del Masters 1000 de Cincinnati 2026, donde tendrá otro exigente desafío en el camino hacia las instancias decisivas.",
-          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/A5C2CEG22NHW3L2AIPVJDAVVGA.png?auth=cf64dfc42c6e6b5d53cc15e24ec24096104f48975f38d135034f2697ff759522&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T17:10:11Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-adam-walton-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-masters-1000-de-cincinnati-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Ignacio Buse vs Adam Walton, Ignacio Buse vs Adam Walton en vivo, Ignacio Buse vs Adam Walton en directo, Ignacio Buse vs Adam Walton gratis, Ignacio Buse vs Adam Walton online, Ignacio Buse vs Adam Walton hoy, Ignacio Buse vs Adam Walton por internet, Ignacio Buse vs Adam Walton por streaming, ver Ignacio Buse vs Adam Walton, donde ver Ignacio Buse vs Adam Walton, como ver Ignacio Buse vs Adam Walton, mirar Ignacio Buse vs Adam Walton, partido Ignacio Buse vs Adam Walton, en que canal ver Ignacio Buse vs Adam Walton, en que canal pasan Ignacio Buse vs Adam Walton, en que canal transmiten Ignacio Buse vs Adam Walton, en que canal mirar Ignacio Buse vs Adam Walton, que canal pasa Ignacio Buse vs Adam Walton, que canal transmite Ignacio Buse vs Adam Walton, canal que pasa Ignacio Buse vs Adam Walton, canal que transmite Ignacio Buse vs Adam Walton, canal TV que pasa Ignacio Buse vs Adam Walton, canal TV que transmite Ignacio Buse vs Adam Walton, canales que pasan Ignacio Buse vs Adam Walton, canales que transmiten Ignacio Buse vs Adam Walton, que canales pasan Ignacio Buse vs Adam Walton, que canales transmiten Ignacio Buse vs Adam Walton, canales TV que pasan Ignacio Buse vs Adam Walton, canales TV que transmiten Ignacio Buse vs Adam Walton, hora Ignacio Buse vs Adam Walton, horarios Ignacio Buse vs Adam Walton, a que hora juega Ignacio Buse vs Adam Walton, donde juega Ignacio Buse vs Adam Walton, cuando juega Ignacio Buse vs Adam Walton, Masters 1000 de Cincinnati, tenis peruano, tenis, Disney Plus, Disney+",
-            "Tenis",
             "Peru",
             "El Comercio"
           ],
@@ -3331,7 +3721,7 @@
           "source_kind": "story",
           "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ | TechCrunch",
           "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-          "body_text": "Anthropic CEO Dario Amodei recently pushed back against the idea that he’s been painting an overly pessimistic picture of artificial intelligence and how it might shape the future. Amodei’s comments came in response to investor Gavin Baker, who argued — both on the All-In podcast and on X — that Amodei’s warnings about the dangers of AI have helped to fuel a backlash in the United States, particularly against data centers . Claiming that Amodei has “lost the argument” when it comes to AI regulation (Anthropic has advocated for some regulations, including a California bill that imposes transparency requirements on large AI companies ), and given that “he is about to be the CEO of one of the most important companies in the world,” Baker wrote, “I respectfully think he should make an effort to be a more positive advocate for his own industry.” Baker is far from the only one arguing that AI skepticism and even government crackdowns stem in part from simply taking the dire warnings of some AI executives seriously . But in his response , Amodei disagreed with the idea that his “messaging has been disproportionately negative.” Instead, he said that his writing has been “about equally balanced between risks and benefits,” and that he wrote his essay “Machines of Loving Grace” because he “didn’t feel the AI industry was painting an inspiring enough picture of how the technology could radically transform the world for the better.” Nonetheless, Amodei acknowledged that “the public has a negative view of AI” and he agreed that “this is a big problem.” Where he disagreed was with the idea that this is “primarily caused” by Amodei “or any other AI leader warning about AI’s risks.” “I think it is fundamentally a crisis of trust,” Amodei said. “I think that ordinary people don’t trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over.” Indeed, “trust” is a word that often comes up in debates about the AI industry, especially around OpenAI CEO (and Amodei’s rival) Sam Altman . In Amodei’s telling, however, this is a crisis that’s been decades in the making , with the AI backlash “just the latest iteration of it.” “I think by far the most accurate criticism of AI companies including Anthropic is that we haven’t yet delivered on our big promises to benefit the world,” Amodei said. “That is totally on us, and I think it’s the criticism you should be making, instead of all this stuff about messaging and marketing.” (Naturally, he also said Anthropic is “doing our best to fix this.”) As for regulation , Amodei argued that Baker was painting “a false choice” between distributing AI widely without regulation, or concentrating the technology in the hands of a few companies through regulation. “I know that there’s a sort of Silicon Valley shorthand where regulation = regulatory capture = concentration of power, but I’ve always found this to be an overly simplified picture of the world,” Amodei said. “Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.” Amodei added that he doesn’t “necessarily agree with that perspective either,” but he said that’s “why Anthropic has always made its policy proposals very carefully.” “We try very hard to make proposals that disadvantage (slow down) frontier AI companies while *advantaging* smaller competitors,” he said.",
+          "body_text": "Anthropic CEO Dario Amodei recently pushed back against the idea that he’s been painting an overly pessimistic picture of artificial intelligence and how it might shape the future. Amodei’s comments came in response to investor Gavin Baker, who argued — both on the All-In podcast and on X — that Amodei’s warnings about the dangers of AI have helped to fuel a backlash in the United States, particularly against data centers . Claiming that Amodei has “lost the argument” when it comes to AI regulation (Anthropic has advocated for some regulations, including a California bill that imposes transparency requirements on large AI companies ), and given that “he is about to be the CEO of one of the most important companies in the world,” Baker wrote, “I respectfully think he should make an effort to be a more positive advocate for his own industry.” Baker is far from the only one arguing that AI skepticism and even government crackdowns are a natural response to the dire warnings of some AI executives . But in a post of his own , Amodei disagreed with the idea that his “messaging has been disproportionately negative.” Instead, he said that his writing has been “about equally balanced between risks and benefits,” and that he wrote his essay “Machines of Loving Grace” because he “didn’t feel the AI industry was painting an inspiring enough picture of how the technology could radically transform the world for the better.” Nonetheless, Amodei acknowledged that “the public has a negative view of AI” and he agreed that “this is a big problem.” Where he disagreed was with the idea that this negativity is “primarily caused” by Amodei “or any other AI leader warning about AI’s risks.” “I think it is fundamentally a crisis of trust,” Amodei said. “I think that ordinary people don’t trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over.” Indeed, “trust” is a word that often comes up in headlines about OpenAI CEO Sam Altman , and is apparently an issue for other AI CEOs like Amodei, too . In Amodei’s telling, however, this is a crisis that’s been decades in the making , with the AI backlash “just the latest iteration of it.” “I think by far the most accurate criticism of AI companies including Anthropic is that we haven’t yet delivered on our big promises to benefit the world,” Amodei said. “That is totally on us, and I think it’s the criticism you should be making, instead of all this stuff about messaging and marketing.” Put another way, he said promising that AI will cure cancer is “more a cliche than it is inspiring”; what would actually change people’s opinions of AI would be “actually curing cancer.” As for regulation , Amodei argued that Baker was painting “a false choice” between distributing AI widely without regulation, or concentrating the technology in the hands of a few companies through regulation. “I know that there’s a sort of Silicon Valley shorthand where regulation = regulatory capture = concentration of power, but I’ve always found this to be an overly simplified picture of the world,” Amodei said. “Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.” Amodei added that he doesn’t “necessarily agree with that perspective either,” but he said that’s “why Anthropic has always made its policy proposals very carefully.”",
           "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
           "published_at": "2026-08-16T16:53:51Z",
@@ -3766,7 +4156,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till 25% på toppar, tunikor och tröjor Sommarrea – upp till 70% på heminredning",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Sommarrea – upp till 70% på heminredning Upp till 25% på toppar, tunikor och tröjor",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -3824,6 +4214,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "bbfb372fd3c3",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tvåbarnspappan Tommy mördad – en begärd häktad",
+          "summary": "Läraren och tvåbarnspappan Tommy Nilsson, 45, älskade lek och galna upptåg. Men de sista åren blev tuffa, med ett tilltagande missbruk. I torsdags blev han mördad, enligt polisens misstankar. – Alla har hoppats att det skulle ordna sig för honom, säger Tommys tidigare svåger Andreas Brännström.",
+          "body_text": "Läraren och tvåbarnspappan Tommy Nilsson, 45, älskade lek och galna upptåg. Men de sista åren blev tuffa, med ett tilltagande missbruk. I torsdags blev han mördad, enligt polisens misstankar. – Alla har hoppats att det skulle ordna sig för honom, säger Tommys tidigare svåger Andreas Brännström. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vid 14-tiden i torsdags larmades polisen till en adress i Söderhamn . På platsen hittades en skadad man som senare konstaterades död på sjukhus. En kvinna hade skador som inte var livshotande. En man i 55–60-årsåldern greps på plats och anhölls under kvällen misstänkt för mord. Han misstänks också ha tillfogat kvinnan hennes skador. Den misstänkt mördade mannen var läraren och tvåbarnspappan Tommy Nilsson, 45. Tommys tidigare svåger Andreas Brännström har många ljusa minnen från deras gemensamma familjehögtider och semestrar. – Han var väldigt skojfrisk, och han hade två fantastiska små barn i ungefär samma ålder som mina barn, säger Andreas. En jul, när de äldre barnen hade börjat tvivla på om tomten finns, gick Andreas och Tommy ihop för att lura dem. Först klädde Andreas ut sig till tomte, och barnen misstänkte genast att det var han. – Då sprang jag ut och bytte om, och Tommy satte på sig tomtekläderna och gick in till barnen. Barnen tittade på mig, och sen på tomten. De var rätt förbryllade, och både Tommy och jag hade väldigt roligt.",
+          "url": "https://www.expressen.se/nyheter/sverige/tommy-45-mordad-man-begard-haktad/",
+          "image_url": "https://static.bonniernews.se/images/cb/09/cb09db6f39884b2aa0eb8a88c1c38281/16x9/original.png",
+          "published_at": "2026-08-16T19:01:48Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/tommy-45-mordad-man-begard-haktad/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "6a36c0ab92da",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -3845,7 +4259,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "27990322d383",
@@ -3857,7 +4271,7 @@
           "source_kind": "story",
           "title": "Frontalkrock på E20",
           "summary": "En lastbil och personbil har frontalkrockat på E20. Tre personer är svårt skadade och vägen är avstängd. – Det är en väldigt allvarlig olycka, säger Alexander Sterner, vakthavande befäl.",
-          "body_text": "En lastbil och personbil har frontalkrockat på E20. Tre personer är svårt skadade och vägen är avstängd. – Det är en väldigt allvarlig olycka, säger Alexander Sterner, vakthavande befäl. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vid 17.30-tiden på söndagen inträffade en trafikolycka på E20 norr om Mariestad. En personbil och lastbil frontalkrockade och enligt SOS Alarm kan kollisionen ha skett i 80 kilometer i timmen. I olyckan voltade bilen och hamnade upp och ner i ett dike. Lastbilen började sedan brinna. Det är en större räddningsinsats med ambulans, räddningstjänst, polis och ambulanshelikopter. Fem personer är inblandade. Tre personer som satt i personbilen är svårt skadade enligt polisen. Vägen är blockerad och helt avstängd under räddningsarbetet. Trafikverkets prognos i nuläget är att vägen är stängd till midnatt. På samma sträcka pågår just nu ett vägarbete för att göra E20 förbi Mariestad säkrare genom att bygga ut det till en mötesfri väg. Trafikverket håller på att lägga till mitträcke och två körfält i vardera riktningen. Vägarbetet väntas inte vara klart förrän till 2027. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "En lastbil och personbil har frontalkrockat på E20. Tre personer är svårt skadade och vägen är avstängd. – Det är en väldigt allvarlig olycka, säger Alexander Sterner, vakthavande befäl. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Vid 17.30-tiden på söndagen larmades räddningstjänsten om en trafikolycka på E20 norr om Mariestad. En personbil och lastbil frontalkrockade och enligt SOS Alarm kan kollisionen ha skett i 80 kilometer i timmen. I olyckan voltade bilen och hamnade upp och ner i ett dike. Lastbilen började sedan brinna. En större räddningsinsats pågick under kvällen med ambulans, räddningstjänst, polis och ambulanshelikopter. Fem personer är inblandade. Tre personer som satt i personbilen är svårt skadade enligt polisen. Vägen är blockerad och helt avstängd under räddningsarbetet. Trafikverkets prognos i nuläget är att vägen är stängd till midnatt. På samma sträcka pågår ett vägarbete för att göra E20 förbi Mariestad säkrare genom att bygga ut det till en mötesfri väg. Trafikverket håller på att lägga till mitträcke och två körfält i vardera riktningen. Vägarbetet väntas inte vara klart förrän till 2027. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/frontalkrock-pa-e20-tre-svart-skadade/",
           "image_url": "https://static.bonniernews.se/images/64/1f/641ffbaa763742a39c91af8b9373752b/16x9/original.jpg",
           "published_at": "2026-08-16T17:52:38Z",
@@ -3869,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "1e44800939f3",
@@ -3879,7 +4293,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Alex, 17, dog av duschen – på turistön",
+          "title": "Alex, 17, dog av dusch på turistön",
           "summary": "Alex McKee, 17, skulle ta en dusch under familjesemestern på den grekiska ön Kimolos. Då dog han av en elstöt. Nu hotar familjen med rättsliga åtgärder.",
           "body_text": "Alex McKee, 17, skulle ta en dusch under familjesemestern på den grekiska ön Kimolos. Nu hotar familjen med rättsliga åtgärder, enligt The Guardian . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Irländske Alex McKee hade rest till familjens semesterhus – ett över 50 år gammalt stenhus – på den lilla grekiska ön Kimolos tillsammans med sin mamma och syster. Den 9 augusti hittades han livlös i badrummet. Grekisk polis konstaterade att han dött plötsligt när han greppade duschmunstycket och satte på vattnet. Hans kropp transporterades till fastlandet för obduktion. Sjukhuset fastställde att dödsorsaken var en elektrisk stöt, enligt irländska medier. En utredning har startats på ön för att se över möjliga fel i ledningarna, rapporterar The Guardian. – Huset har spärrats av och vi har bett en oberoende expert att komma och inspektera ledningarna. Man tror att säkringsskåpet kanske inte hade en säkerhetsventil, säger en grekisk polis till tidningen. Under utredningen har det framkommit att öns borgmästare Konstantinos Vendouris godkände husets elsystem år 2024. Familjens advokat, Stelios Voudouris, uppger att de planerar att vidta rättsliga åtgärder. – Den nuvarande borgmästaren har ett enormt straffrättsligt ansvar, säger han till den grekiska kanalen Open TV.",
           "url": "https://www.expressen.se/nyheter/varlden/alex-17-dog-av-duschen-pa-turiston/",
@@ -3893,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "c43419c05b03",
@@ -3917,7 +4331,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "3b4eb0a08b07",
@@ -3941,7 +4355,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "9e93782b89d5",
@@ -3965,7 +4379,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "3c63ffc843b2",
@@ -3989,7 +4403,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "77dace7e1c4a",
@@ -4013,7 +4427,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "7877f59eb2ec",
@@ -4023,12 +4437,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige I dag 12.57 Efter våldtäktslarmen – jämställdhetsminister Nina Larsson kallar till möte",
-          "summary": "",
-          "body_text": "",
+          "title": "Ministern agerar – krismöte efter larmen",
+          "summary": "Flera rapporter om misstänkta våldtäkter får jämställdhetsministern Nina Larsson (L) att kalla till möte.",
+          "body_text": "Flera rapporter om misstänkta våldtäkter får jämställdhetsministern Nina Larsson (L) att kalla till möte. – Varje våldtäkt är en för mycket, säger hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Under gårdagen rapporterade Expressen att fyra personer gripits misstänkta för våldtäkt er på olika platser i landet. Det fick jämställdhetsminister Nina Larsson (L) att reagera. ”Fyra män gripna för våldtäkt bara i natt. Kvinnors trygghet måste prioriteras!” , skriver hon i ett inlägg publicerat på X under lördagen. Inför sommaren kallade Larsson flera samhällsaktörer såsom säkerhetsbolag, festivalarrangörer, stödorganisationer och kommuner till ett blixtmöte om tjejers trygghet. Detta efter att en rapport från Folkhälsomyndigheten bland annat visade att ungefär var fjärde tillfrågad kvinna i åldern 16–29 uppgav att hon hade ”blivit utsatta för försök till samlag mot deras vilja”, och lika många uppgav att ”någon hade haft samlag med dem, eller gjort något sexuellt mot dem, när de befann sig i en utsatt eller hjälplös situation”. Nu kommer hon kalla in samma parter till ett uppföljningsmöte. – Det här är ju dels för att vi bara under helgen har fått flera rapporteringar och vi har kunnat följa det under sommaren också, säger Nina Larsson. – Det här är inget litet brott. Det här är ett mycket allvarligt brott som får väldigt stora konsekvenser för tjejer som utsätts. Hon beskriver mötet i somras som ”jättebra”. – Det som det har lett till i det här första steget, det är ju att flera utav de aktörerna har fått kontakt med varandra, så att man då kan nyttja varandras erfarenheter, säger Nina Larsson.",
           "url": "https://www.expressen.se/nyheter/sverige/efter-valdtaktslarmen-jamstalldhetsminister-nina-larsson-kallar-till-mote/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/ff/74/ff74cd74f2904bc1a01a5b6977a52220/16x9/original.jpg",
+          "published_at": "2026-08-16T10:57:49Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/efter-valdtaktslarmen-jamstalldhetsminister-nina-larsson-kallar-till-mote/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4036,31 +4450,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "6be274169aca",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen I dag 10.39 Zelenskyjs kris – ingen vill hantera Trump",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/zelenskyjs-kris-ingen-vill-hantera-trump/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/zelenskyjs-kris-ingen-vill-hantera-trump/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4076,11 +4466,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "Under söndagen genomförde Ukraina sin största attack mot Ryssland under hela 2026, rapporterar BBC . Ryska myndigheter uppger att sju personer dog i attacken. Totalt 882 drönare avfyrades, 600 mot huvudstaden Moskva. Återigen var stora logistikkedjan Wildberries drabbad. Ett av deras lager attackerades. – En av de mest massiva drönarattackerna på senare tid, säger regionala guvernören i Moskva. Samtidigt genomförde Ryssland attacker mot Ukraina. Även där dog sju och fler än 39 skadades. En bil och lastbil har frontalkrockat på E20 utanför Mariestad. Enligt SOS Alarm tros krocken inträffat i 80 kilometer i timmen. I olyckan voltade bilen och hamnade upp och ner i ett dike. Lastbilen började sedan brinna. Det är en större räddningsinsats med ambulans, räddningstjänst, polis och ambulanshelikopter. Fem personer är inblandade. Tre personer som satt i personbilen är svårt skadade enligt polisen. – Det är en väldigt allvarlig olycka, säger Alexander Sterner, vakthavande befäl. Vägen är avstängd i båda riktningar under räddningsarbetet. Det finns ingen prognos i nuläget. Strax före klockan 19 på lördagskvällen lokal tid larmades polisen till en park i Lexington, Kentucky, på grund av höga smällar. På plats hittades fem offer, rapporterar CNN.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
