@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:18:01Z",
+  "generated_at": "2026-08-16T16:45:32Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -1745,6 +1745,31 @@
           "sort_order": 0
         },
         {
+          "id": "ccbfd7e1b34b",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Health expert breaks down impact of daylight saving bill | Fox News Video",
+          "summary": "Physician Dr. Robert Lahita joins 'Fox Report' to discuss the proposed daylight saving time legislation, addressing the possible health impacts if passed.",
+          "body_text": "Physician Dr. Robert Lahita joins 'Fox Report' to discuss the proposed daylight saving time legislation, addressing the possible health impacts if passed.",
+          "url": "https://www.foxnews.com/video/6403522450112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8623006-d740-4834-83d2-0cd9bd5fdaf4/33aa8d40-d6d5-407b-88a1-7d72a88429b7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-16T16:06:35Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403522450112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "25d3e2e81294",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1767,7 +1792,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "9ae6c655c385",
@@ -1792,7 +1817,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "5732bb1f111d",
@@ -1817,7 +1842,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "8866107e0998",
@@ -1842,7 +1867,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "d57b7721923c",
@@ -1867,7 +1892,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "f7853caeba1c",
@@ -1892,7 +1917,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "d9af95296be1",
@@ -1917,7 +1942,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "cb9d3e5f8421",
@@ -1942,7 +1967,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "fd6041a6aecf",
@@ -1967,31 +1992,6 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 9
-        },
-        {
-          "id": "aba8451e1c13",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Dollywood celebrates National Roller Coaster Day with 11 unique coasters | Fox News Video",
-          "summary": "Dollywood public relations director Wes Ramey joins FOX Weather's Melanie Black from Dollywood in Pigeon Forge, Tennessee, to celebrate National Roller Coaster Day.",
-          "body_text": "Dollywood public relations director Wes Ramey joins FOX Weather's Melanie Black from Dollywood in Pigeon Forge, Tennessee, to celebrate National Roller Coaster Day. FOX Weather meteorologist Melanie Black reports on the 11 roller coasters at Dollywood in Pigeon Forge, Tennessee, alongside public relations director Wes Ramey for National Roller Coaster Day. Black and Ramey detail how the park integrates its 11 roller coasters and attractions in the topography of the Great Smoky Mountains.",
-          "url": "https://www.foxnews.com/video/6403515851112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91dbd770-2999-4d60-9020-2ccff4e7286f/c11abbe4-11eb-489f-820d-bc2bdb311f52/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-16T13:21:14Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403515851112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
           "sort_order": 10
         },
         {
@@ -2137,6 +2137,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "71eac3ca6f47",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Two dead and hundreds evacuated as wildfires break out near Athens",
+          "summary": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
+          "body_text": "Two people have died and an evacuation is under way after two fires broke out within minutes of each other on a Greek island near Athens. Fire officials said nearly 200 firefighters were working to extinguish the flames on the island of Salamina and keep them from converging, Greek media report. The first blaze was reported at 14:40 local time (12:40 GMT) and spread rapidly due to high winds, according to officials on the island - which was under a high wildfire risk on Sunday. Some 90 people have so far been evacuated by sea, a coastguard spokesman told Greek broadcaster ERT. Five patrol boats have been sent to the area and several other private vessels are being made available for assistance, he added. A number of aircraft and 50 fire engines have been deployed to the blaze. Salamina Deputy Mayor Thodoris Zannis said firefighters were trying to keep the fires from burning over a mountain on the island and forming one major wildfire. Salamina sits just west of Athens and has some 37,000 residents, many of them elderly. Firefighters across Europe have been facing a series of wildfires this weekend, fuelled by high heat.",
+          "url": "https://www.bbc.com/news/articles/c87nnwlpe5no",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2bdc/live/0a2927a0-9987-11f1-a4eb-59b79ff5ff4f.jpg",
+          "published_at": "2026-08-16T16:14:26Z",
+          "embed_url": "https://www.bbc.com/news/articles/c87nnwlpe5no",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "ceda5fa2745d",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2146,7 +2170,7 @@
           "source_kind": "mixed",
           "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
           "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-          "body_text": "Four Renaissance paintings of \"extraordinary value\" have been stolen from a museum in Sicily, Italy's culture minister has said. Alessandro Giuli confirmed that three panels of the Polyptych of San Gregorio and a double-sided panel of the Madonna with Child and Christ in Pietà, all attributed to Antonello da Messina, were taken Regional Interdisciplinary Museum of Messina on Saturday night. Police are now probing how the thieves were able to enter the museum without triggering its alarms and who may have been responsible. The incident is the latest in a string of museum heists across Europe that have led to a growing number of priceless works disappearing from public view. Investigators are working on the initial suspicion that the paintings were stolen to order by black market art thieves, according to Italian news agency Ansa. It reported that the Madonna and Christ in Pietà was removed directly from inside a secure display case, while all the paintings taken were on wooden panels, preventing them from easily being rolled up. The museum's director Marisa Mercurio said the theft was thought to have occurred around 21:50 local time (19:50 GMT) on Saturday. \"We are shocked by what happened,\" she told Ansa, describing it as \"a great loss for the museum, for the city, the community and the art world\". Antonello da Messina was a 15th Century painter born and raised on Sicily, who would go on to become one of the early Renaissance period's master painters. His San Gregorio Polyptych, painted in 1473, depicts the Virgin Mary holding an infant Jesus Christ, flanked by St Gregory and St Benedict as well as several angels. The artwork, of which five panels survive, was commissioned for the monastery of Santa Maria. Meanwhile, his double-panel showing an infant Christ blessing a follower while being held by the Virgin Mary on one side and an adult Christ in death on the other was painted around the same time, though exactly when is unclear.",
+          "body_text": "Four Renaissance paintings of \"extraordinary value\" have been stolen from a museum in Sicily, Italy's culture minister has said. Alessandro Giuli confirmed that three panels of the Polyptych of San Gregorio and a double-sided panel of the Madonna with Child and Christ in Pietà, all attributed to Antonello da Messina, were taken from the Regional Interdisciplinary Museum of Messina on Saturday night. Police are now probing how the thieves were able to enter the museum without triggering its alarms and who may have been responsible. The incident is the latest in a string of museum heists across Europe that have led to a growing number of priceless works disappearing from public view. Investigators are working on the initial suspicion that the paintings were stolen to order by black market art thieves, according to Italian news agency Ansa. It reported that the Madonna and Christ in Pietà was removed directly from inside a secure display case, while all the paintings taken were on wooden panels, preventing them from easily being rolled up. The museum's director Marisa Mercurio said the theft was thought to have occurred around 21:50 local time (19:50 GMT) on Saturday. \"We are shocked by what happened,\" she told Ansa, describing it as \"a great loss for the museum, for the city, the community and the art world\". Antonello da Messina was a 15th Century painter born and raised on Sicily, who would go on to become one of the early Renaissance period's master painters. His San Gregorio Polyptych, painted in 1473, depicts the Virgin Mary holding an infant Jesus Christ, flanked by St Gregory and St Benedict as well as several angels. The artwork, of which five panels survive, was commissioned for the monastery of Santa Maria. Meanwhile, his double-panel showing an infant Christ blessing a follower while being held by the Virgin Mary on one side and an adult Christ in death on the other was painted around the same time, though exactly when is unclear.",
           "url": "https://www.bbc.com/news/articles/cqjxx2gzd9qo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg",
           "published_at": "2026-08-16T13:34:38Z",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "68ee02a5789f",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "7cefe96fc79b",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "5fccd4a0a7c6",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "413b292f66b6",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "4308eeb93569",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "59bb37ff6c51",
@@ -2302,7 +2326,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "f46e70bd7c17",
@@ -2326,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "754bf0f487ca",
@@ -2350,7 +2374,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "f6b4d2e3e57b",
@@ -2374,7 +2398,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "42d63f4dec67",
@@ -2393,30 +2417,6 @@
           "embed_url": "https://www.bbc.com/news/articles/c0l5583903yo",
           "play_mode": "iframe",
           "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "bda565f98f66",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-          "body_text": "Eleven people have been killed in Israeli strikes in southern Lebanon, authorities say, in one of the deadliest days of attacks since an agreement aimed at reducing hostilities was announced in June. Lebanon's prime minister said seven people were killed in a strike on a house on the outskirts of Ansar, 70km (43 miles) south of the capital, Beirut. State media reported three children and two women were among the dead. Israel's Defense Forces (IDF) said it had killed a commander of Hezbollah - the Iran-backed Shia militia - following an attack against Israeli soldiers. The commander's family \"who he used as human shields\" were present and \"harmed\", it added. Later on Saturday, another round of strikes hit the town of Deir al-Zahrani, killing four and wounding five others, the Lebanese ministry of health said. Lebanese authorities say the strike in Ansar at around 04:30 (01:30 GMT) occurred where displaced families were living. Footage on social media shows large plumes of smoke permeating through the streets of the village as sirens ring out. Lebanon's Prime Minister Nawaf Salam condemned the attacks, saying the seven civilians killed were not \"military infrastructure\". \"Israel must halt this escalation,\" he said. \"For the security of our people and their right to life on their land are not subject to negotiation or bargaining.\" The IDF said the incident that prompted its strike on Ansar had taken place in the Ali al-Taher Ridge, a strategic high ground overlooking much of south-eastern Lebanon and one of the war's most fiercely contested positions. A later IDF statement said Ali Samir al-Haj Hassan, who it described as a Hezbollah battalion commander in the Radwan Force unit, had been killed. \"Alongside him, several additional terrorists who were involved in advancing terror attacks against IDF soldiers were eliminated,\" it added. \"The strike was specifically directed at Hassan, who was a lawful target under international law, not at his family members who he used as human shields - hiding alongside them inside the military HQ,\" the IDF said.",
-          "url": "https://www.bbc.com/news/articles/c4gjygx4gjeo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-          "published_at": "2026-08-15T11:24:24Z",
-          "embed_url": "https://www.bbc.com/news/articles/c4gjygx4gjeo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
           "tags": [
             "World",
             "BBC"
@@ -2570,6 +2570,58 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "167a83dcd566",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "¿Eres miembro de mesa para las Elecciones Municipales y Regionales 2026? Consulta con tu DNI",
+          "summary": "Consulta con tu DNI si fuiste designado miembro de mesa para las Elecciones Regionales y Municipales 2026. Revisa el enlace oficial de la ONPE y conoce los detalles del proceso.",
+          "body_text": "El próximo 4 de octubre el Perú acudirá a las urnas para las Elecciones Regionales y Municipales 2026, un proceso en el que millones de ciudadanos renovarán a las principales autoridades de los gobiernos regionales y locales para el período 2027–2030. Durante la jornada se elegirá a gobernadores y vicegobernadores regionales, consejeros regionales, alcaldes provinciales y distritales, además de regidores en ambos niveles. La convocatoria oficial fue realizada por el Poder Ejecutivo mediante el Decreto Supremo N.º 001-2026-PCM, publicado el 7 de enero de 2026, dando inicio al cronograma electoral. Sin embargo, la elección de los gobernadores regionales podría no definirse en una sola jornada. La legislación vigente establece que, si ningún aspirante supera el 30 % de los votos válidos, deberá realizarse una segunda vuelta regional entre los dos candidatos con mayor votación. Este mecanismo busca garantizar una mayor legitimidad en la elección de las máximas autoridades regionales. Cabe precisar que esta disposición solo alcanza a los gobernadores regionales y no se aplica a los comicios para elegir alcaldes provinciales o distritales. Si deseas saber si has sido designado miembro de mesa para las Elecciones Regionales y Municipales 2026 en el Perú, puedes seguir estos pasos: Los ciudadanos que deseen verificar si fueron seleccionados como miembros de mesa para las próximas elecciones deben ingresar al portal oficial de la Oficina Nacional de Procesos Electorales (ONPE): https://consultaelectoral.onpe.gob.pe/inicio. Al ingresar su número de DNI, el sistema informa si la persona fue designada como titular o suplente, además del local de votación y la mesa que le corresponde. La información también suele difundirse mediante la aplicación móvil y los canales oficiales de la entidad. Quienes no cuenten con acceso a internet pueden revisar los padrones publicados en sus respectivos locales de votación. Ser elegido miembro de mesa implica una responsabilidad de carácter obligatorio durante la jornada electoral. Las personas designadas deben presentarse para instalar y conducir la mesa de sufragio, salvo que cuenten con una causa de justificación aceptada por la autoridad electoral. El incumplimiento de esta obligación puede generar la imposición de una multa conforme a la normativa vigente. Por ello, la ONPE recomienda verificar oportunamente la designación y atender las indicaciones oficiales para evitar contratiempos el día de los comicios. La Oficina Nacional de Procesos Electorales (ONPE) ya definió el cronograma de capacitación para los ciudadanos que sean designados como miembros de mesa en las Elecciones Regionales y Municipales 2026. La primera Jornada Nacional de Capacitación se realizará el domingo 30 de agosto, mientras que la segunda está programada para el 20 de septiembre. Estas actividades buscan que los participantes conozcan el correcto desarrollo de la jornada electoral y las funciones que deberán desempeñar. Con ello, la entidad busca garantizar un proceso de votación ordenado y transparente. Además de las jornadas nacionales, la ONPE ofrecerá capacitaciones presenciales en las Oficinas Descentralizadas de Procesos Electorales (ODPE) y en otros locales autorizados a nivel nacional. La institución también pondrá a disposición una modalidad virtual con manuales, videos y material de consulta para facilitar la preparación de los miembros de mesa. Los detalles sobre los lugares de capacitación y el acceso a la plataforma serán difundidos conforme avance el cronograma electoral. Todo este proceso servirá como preparación previa para los comicios del domingo 4 de octubre de 2026. Ser designado miembro de mesa constituye una obligación establecida por la legislación electoral peruana, por lo que el cargo no puede ser rechazado de manera voluntaria. No obstante, la normativa contempla determinadas causales que permiten solicitar una excusa para quedar exonerado de esta responsabilidad. Entre ellas figuran problemas de salud debidamente acreditados, embarazo con recomendación médica, discapacidad o limitaciones físicas que impidan desempeñar la función, así como encontrarse fuera del país el día de la elección. También pueden admitirse otras circunstancias excepcionales previstas en la legislación vigente. Quienes consideren que cumplen alguna de estas causales deben presentar una solicitud de excusa ante el Jurado Nacional de Elecciones (JNE) dentro del plazo fijado en el cronograma electoral, adjuntando la documentación que sustente su pedido, como certificados médicos, pasajes o constancias migratorias. La exoneración solo procede si el JNE declara fundada la solicitud. En caso de no asistir como miembro de mesa sin una excusa aceptada, el ciudadano podrá ser sancionado con la multa correspondiente. Además, si tampoco acude a votar y no está legalmente exonerado del sufragio, podría recibir una segunda sanción por omisión al voto. Los ciudadanos que cumplan íntegramente la función de miembro de mesa durante las Elecciones Regionales y Municipales 2026 recibirán una compensación económica de S/ 165, de acuerdo con lo establecido por la Ley Orgánica de Elecciones. Este monto equivale al 3 % de la Unidad Impositiva Tributaria (UIT) y se entrega como reconocimiento por la labor desempeñada durante toda la jornada electoral. La medida busca incentivar el cumplimiento de esta responsabilidad cívica y garantizar el normal desarrollo de los comicios. El beneficio se otorga únicamente a quienes ejerzan efectivamente el cargo. Además del incentivo económico, los miembros de mesa que completen la capacitación organizada por la ONPE y participen durante toda la jornada tendrán derecho a un día de descanso remunerado no compensable, aplicable tanto para trabajadores del sector público como del privado. Este descanso deberá ser utilizado dentro de los 90 días posteriores a la elección, en coordinación con el empleador. En contraste, quienes no se presenten a cumplir esta función sin contar con una excusa aprobada por el Jurado Nacional de Elecciones (JNE) serán sancionados con una multa de S/ 275, conforme a la normativa electoral vigente.",
+          "url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/VXKRMX7STZBAJD6OQ5SMRU6EEA.png?auth=fb7ad6e12d63e923b3d9a90f1e8cd0d938e02f39ff3c04bdeaf3ae06fca0e30f&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T16:42:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
+            "Tramites",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "60fff00418c5",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Dólar BCV hoy, domingo 16 de agosto: Revisa la tasa oficial del billete en Venezuela",
+          "summary": "Dólar en Venezuela HOY: Revisa la tasa oficial del dólar BCV según la entidad bancaria oficial del país bolivariano.",
+          "body_text": "Dólar BCV en Venezuela hoy, domingo 16 de agosto de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 771,07 Bs según la tasa del Banco Central de Venezuela.",
+          "url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-revisa-la-tasa-oficial-y-tipo-de-cambio-dolartoday-dolares-a-bolivares-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/HZNBHGP2YRAU3NO67OQHIWNZJM.png?auth=35309138203a86bcba36012631e8c2820b7b941cbaf739c46dde1f07de59e2f1&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T16:19:08Z",
+          "embed_url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-revisa-la-tasa-oficial-y-tipo-de-cambio-dolartoday-dolares-a-bolivares-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
+            "Venezuela",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "deaf158a27c1",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2589,58 +2641,6 @@
           "tags": [
             "Universitario vs FC Cajamarca EN VIVO, Liga 1 Max Universitario vs FC Cajamarca, Partido Universitario vs FC Cajamarca, Liga 1 Max, TOrneo Clausura, Liga 1 2026",
             "Fútbol peruano",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "ede927d8cfac",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tabla de posiciones Liga 1 2026: Alianza Lima venció a UTC y recuperó el liderato del Torneo Clausura",
-          "summary": "Tabla de posiciones de la Liga 1: programación TV, horarios y canales para ver partidos por la fecha 5 del Torneo Clausura 2026.",
-          "body_text": "La fecha 5 del Torneo Clausura 2026 se juega este fin de semana con una jornada llena de emociones y partidos importantes que podrían marcar el curso del campeonato. Deportivo Garcilaso, Alianza Lima, Universitario, Sporting Crista y el resto de equipos buscarán una victoria que les permita mantener sus opciones de pelear por el título de este certamen. Entre los partidos más atractivos está el clásico cusqueño. Garcilaso y Cienciano se medirán fuerzas en el Garcilaso de la Vega. Por su parte, Alianza Lima recibirá a UTC en Matute, mientras que Universitario visitará a FC Cajamarca y Sporting Cristal chocará contra Sport Huancayo. A continuación, revisa la programación completa, partidos y resultados de la fecha 5 del Torneo Clausura. Viernes 14 de agosto Sábado 15 de agosto Domingo 16 de agosto",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-5-del-torneo-clausura-y-tabla-del-acumulado-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/UCLL66X7YFFVNENADGGPVALN5I.png?auth=56a18cb774d1a380ff49bac40ac5dd2496083e1a1310d48f09a67797f6cf44af&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T03:28:52Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-5-del-torneo-clausura-y-tabla-del-acumulado-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Tabla de posiciones Liga 1 2026, Tabla de posiciones Torneo Clausura, Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Clausura, Tabla del Torneo Clausura, Tabla Torneo Clausura, partidos de hoy, futbol en vivo, alianza lima, universitario, universitario de deportes, sporting cristal, sport boys, cienciano, los chankas, melgar, tabla del acumulado, tabla de posiciones del acumulado",
-            "Fútbol peruano",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "167a83dcd566",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Link de consulta: ¿Eres miembro de mesa para las Elecciones Municipales y Regionales 2026?",
-          "summary": "Consulta con tu DNI si fuiste designado miembro de mesa para las Elecciones Regionales y Municipales 2026. Revisa el enlace oficial de la ONPE y conoce los detalles del proceso.",
-          "body_text": "El próximo 4 de octubre el Perú acudirá a las urnas para las Elecciones Regionales y Municipales 2026, un proceso en el que millones de ciudadanos renovarán a las principales autoridades de los gobiernos regionales y locales para el período 2027–2030. Durante la jornada se elegirá a gobernadores y vicegobernadores regionales, consejeros regionales, alcaldes provinciales y distritales, además de regidores en ambos niveles. La convocatoria oficial fue realizada por el Poder Ejecutivo mediante el Decreto Supremo N.º 001-2026-PCM, publicado el 7 de enero de 2026, dando inicio al cronograma electoral. Sin embargo, la elección de los gobernadores regionales podría no definirse en una sola jornada. La legislación vigente establece que, si ningún aspirante supera el 30 % de los votos válidos, deberá realizarse una segunda vuelta regional entre los dos candidatos con mayor votación. Este mecanismo busca garantizar una mayor legitimidad en la elección de las máximas autoridades regionales. Cabe precisar que esta disposición solo alcanza a los gobernadores regionales y no se aplica a los comicios para elegir alcaldes provinciales o distritales. Si deseas saber si has sido designado miembro de mesa para las Elecciones Regionales y Municipales 2026 en el Perú, puedes seguir estos pasos: Los ciudadanos que deseen verificar si fueron seleccionados como miembros de mesa para las próximas elecciones deben ingresar al portal oficial de la Oficina Nacional de Procesos Electorales (ONPE): https://consultaelectoral.onpe.gob.pe/inicio. Al ingresar su número de DNI, el sistema informa si la persona fue designada como titular o suplente, además del local de votación y la mesa que le corresponde. La información también suele difundirse mediante la aplicación móvil y los canales oficiales de la entidad. Quienes no cuenten con acceso a internet pueden revisar los padrones publicados en sus respectivos locales de votación. Ser elegido miembro de mesa implica una responsabilidad de carácter obligatorio durante la jornada electoral. Las personas designadas deben presentarse para instalar y conducir la mesa de sufragio, salvo que cuenten con una causa de justificación aceptada por la autoridad electoral. El incumplimiento de esta obligación puede generar la imposición de una multa conforme a la normativa vigente. Por ello, la ONPE recomienda verificar oportunamente la designación y atender las indicaciones oficiales para evitar contratiempos el día de los comicios. La Oficina Nacional de Procesos Electorales (ONPE) ya definió el cronograma de capacitación para los ciudadanos que sean designados como miembros de mesa en las Elecciones Regionales y Municipales 2026. La primera Jornada Nacional de Capacitación se realizará el domingo 30 de agosto, mientras que la segunda está programada para el 20 de septiembre. Estas actividades buscan que los participantes conozcan el correcto desarrollo de la jornada electoral y las funciones que deberán desempeñar. Con ello, la entidad busca garantizar un proceso de votación ordenado y transparente. Además de las jornadas nacionales, la ONPE ofrecerá capacitaciones presenciales en las Oficinas Descentralizadas de Procesos Electorales (ODPE) y en otros locales autorizados a nivel nacional. La institución también pondrá a disposición una modalidad virtual con manuales, videos y material de consulta para facilitar la preparación de los miembros de mesa. Los detalles sobre los lugares de capacitación y el acceso a la plataforma serán difundidos conforme avance el cronograma electoral. Todo este proceso servirá como preparación previa para los comicios del domingo 4 de octubre de 2026. Ser designado miembro de mesa constituye una obligación establecida por la legislación electoral peruana, por lo que el cargo no puede ser rechazado de manera voluntaria. No obstante, la normativa contempla determinadas causales que permiten solicitar una excusa para quedar exonerado de esta responsabilidad. Entre ellas figuran problemas de salud debidamente acreditados, embarazo con recomendación médica, discapacidad o limitaciones físicas que impidan desempeñar la función, así como encontrarse fuera del país el día de la elección. También pueden admitirse otras circunstancias excepcionales previstas en la legislación vigente. Quienes consideren que cumplen alguna de estas causales deben presentar una solicitud de excusa ante el Jurado Nacional de Elecciones (JNE) dentro del plazo fijado en el cronograma electoral, adjuntando la documentación que sustente su pedido, como certificados médicos, pasajes o constancias migratorias. La exoneración solo procede si el JNE declara fundada la solicitud. En caso de no asistir como miembro de mesa sin una excusa aceptada, el ciudadano podrá ser sancionado con la multa correspondiente. Además, si tampoco acude a votar y no está legalmente exonerado del sufragio, podría recibir una segunda sanción por omisión al voto. Los ciudadanos que cumplan íntegramente la función de miembro de mesa durante las Elecciones Regionales y Municipales 2026 recibirán una compensación económica de S/ 165, de acuerdo con lo establecido por la Ley Orgánica de Elecciones. Este monto equivale al 3 % de la Unidad Impositiva Tributaria (UIT) y se entrega como reconocimiento por la labor desempeñada durante toda la jornada electoral. La medida busca incentivar el cumplimiento de esta responsabilidad cívica y garantizar el normal desarrollo de los comicios. El beneficio se otorga únicamente a quienes ejerzan efectivamente el cargo. Además del incentivo económico, los miembros de mesa que completen la capacitación organizada por la ONPE y participen durante toda la jornada tendrán derecho a un día de descanso remunerado no compensable, aplicable tanto para trabajadores del sector público como del privado. Este descanso deberá ser utilizado dentro de los 90 días posteriores a la elección, en coordinación con el empleador. En contraste, quienes no se presenten a cumplir esta función sin contar con una excusa aprobada por el Jurado Nacional de Elecciones (JNE) serán sancionados con una multa de S/ 275, conforme a la normativa electoral vigente.",
-          "url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/VXKRMX7STZBAJD6OQ5SMRU6EEA.png?auth=fb7ad6e12d63e923b3d9a90f1e8cd0d938e02f39ff3c04bdeaf3ae06fca0e30f&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-15T18:42:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
-            "Tramites",
             "Senaste",
             "El Comercio"
           ],
@@ -2847,6 +2847,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "167a83dcd566",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "¿Eres miembro de mesa para las Elecciones Municipales y Regionales 2026? Consulta con tu DNI",
+          "summary": "Consulta con tu DNI si fuiste designado miembro de mesa para las Elecciones Regionales y Municipales 2026. Revisa el enlace oficial de la ONPE y conoce los detalles del proceso.",
+          "body_text": "El próximo 4 de octubre el Perú acudirá a las urnas para las Elecciones Regionales y Municipales 2026, un proceso en el que millones de ciudadanos renovarán a las principales autoridades de los gobiernos regionales y locales para el período 2027–2030. Durante la jornada se elegirá a gobernadores y vicegobernadores regionales, consejeros regionales, alcaldes provinciales y distritales, además de regidores en ambos niveles. La convocatoria oficial fue realizada por el Poder Ejecutivo mediante el Decreto Supremo N.º 001-2026-PCM, publicado el 7 de enero de 2026, dando inicio al cronograma electoral. Sin embargo, la elección de los gobernadores regionales podría no definirse en una sola jornada. La legislación vigente establece que, si ningún aspirante supera el 30 % de los votos válidos, deberá realizarse una segunda vuelta regional entre los dos candidatos con mayor votación. Este mecanismo busca garantizar una mayor legitimidad en la elección de las máximas autoridades regionales. Cabe precisar que esta disposición solo alcanza a los gobernadores regionales y no se aplica a los comicios para elegir alcaldes provinciales o distritales. Si deseas saber si has sido designado miembro de mesa para las Elecciones Regionales y Municipales 2026 en el Perú, puedes seguir estos pasos: Los ciudadanos que deseen verificar si fueron seleccionados como miembros de mesa para las próximas elecciones deben ingresar al portal oficial de la Oficina Nacional de Procesos Electorales (ONPE): https://consultaelectoral.onpe.gob.pe/inicio. Al ingresar su número de DNI, el sistema informa si la persona fue designada como titular o suplente, además del local de votación y la mesa que le corresponde. La información también suele difundirse mediante la aplicación móvil y los canales oficiales de la entidad. Quienes no cuenten con acceso a internet pueden revisar los padrones publicados en sus respectivos locales de votación. Ser elegido miembro de mesa implica una responsabilidad de carácter obligatorio durante la jornada electoral. Las personas designadas deben presentarse para instalar y conducir la mesa de sufragio, salvo que cuenten con una causa de justificación aceptada por la autoridad electoral. El incumplimiento de esta obligación puede generar la imposición de una multa conforme a la normativa vigente. Por ello, la ONPE recomienda verificar oportunamente la designación y atender las indicaciones oficiales para evitar contratiempos el día de los comicios. La Oficina Nacional de Procesos Electorales (ONPE) ya definió el cronograma de capacitación para los ciudadanos que sean designados como miembros de mesa en las Elecciones Regionales y Municipales 2026. La primera Jornada Nacional de Capacitación se realizará el domingo 30 de agosto, mientras que la segunda está programada para el 20 de septiembre. Estas actividades buscan que los participantes conozcan el correcto desarrollo de la jornada electoral y las funciones que deberán desempeñar. Con ello, la entidad busca garantizar un proceso de votación ordenado y transparente. Además de las jornadas nacionales, la ONPE ofrecerá capacitaciones presenciales en las Oficinas Descentralizadas de Procesos Electorales (ODPE) y en otros locales autorizados a nivel nacional. La institución también pondrá a disposición una modalidad virtual con manuales, videos y material de consulta para facilitar la preparación de los miembros de mesa. Los detalles sobre los lugares de capacitación y el acceso a la plataforma serán difundidos conforme avance el cronograma electoral. Todo este proceso servirá como preparación previa para los comicios del domingo 4 de octubre de 2026. Ser designado miembro de mesa constituye una obligación establecida por la legislación electoral peruana, por lo que el cargo no puede ser rechazado de manera voluntaria. No obstante, la normativa contempla determinadas causales que permiten solicitar una excusa para quedar exonerado de esta responsabilidad. Entre ellas figuran problemas de salud debidamente acreditados, embarazo con recomendación médica, discapacidad o limitaciones físicas que impidan desempeñar la función, así como encontrarse fuera del país el día de la elección. También pueden admitirse otras circunstancias excepcionales previstas en la legislación vigente. Quienes consideren que cumplen alguna de estas causales deben presentar una solicitud de excusa ante el Jurado Nacional de Elecciones (JNE) dentro del plazo fijado en el cronograma electoral, adjuntando la documentación que sustente su pedido, como certificados médicos, pasajes o constancias migratorias. La exoneración solo procede si el JNE declara fundada la solicitud. En caso de no asistir como miembro de mesa sin una excusa aceptada, el ciudadano podrá ser sancionado con la multa correspondiente. Además, si tampoco acude a votar y no está legalmente exonerado del sufragio, podría recibir una segunda sanción por omisión al voto. Los ciudadanos que cumplan íntegramente la función de miembro de mesa durante las Elecciones Regionales y Municipales 2026 recibirán una compensación económica de S/ 165, de acuerdo con lo establecido por la Ley Orgánica de Elecciones. Este monto equivale al 3 % de la Unidad Impositiva Tributaria (UIT) y se entrega como reconocimiento por la labor desempeñada durante toda la jornada electoral. La medida busca incentivar el cumplimiento de esta responsabilidad cívica y garantizar el normal desarrollo de los comicios. El beneficio se otorga únicamente a quienes ejerzan efectivamente el cargo. Además del incentivo económico, los miembros de mesa que completen la capacitación organizada por la ONPE y participen durante toda la jornada tendrán derecho a un día de descanso remunerado no compensable, aplicable tanto para trabajadores del sector público como del privado. Este descanso deberá ser utilizado dentro de los 90 días posteriores a la elección, en coordinación con el empleador. En contraste, quienes no se presenten a cumplir esta función sin contar con una excusa aprobada por el Jurado Nacional de Elecciones (JNE) serán sancionados con una multa de S/ 275, conforme a la normativa electoral vigente.",
+          "url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/VXKRMX7STZBAJD6OQ5SMRU6EEA.png?auth=fb7ad6e12d63e923b3d9a90f1e8cd0d938e02f39ff3c04bdeaf3ae06fca0e30f&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T16:42:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
+            "Tramites",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "deaf158a27c1",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2870,7 +2896,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "21fb9fc6ff28",
@@ -2896,7 +2922,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "d995760dbaf0",
@@ -2918,32 +2944,6 @@
           "tags": [
             "terremoto en colombia, terremoto en colombia en vivo, terremoto en colombia del 10 de agost, terremoto 7.4 en colombia, muertes por terremoto en colombia, Abelardo de la Espriella",
             "Latinoamérica",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "167a83dcd566",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Link de consulta: ¿Eres miembro de mesa para las Elecciones Municipales y Regionales 2026?",
-          "summary": "Consulta con tu DNI si fuiste designado miembro de mesa para las Elecciones Regionales y Municipales 2026. Revisa el enlace oficial de la ONPE y conoce los detalles del proceso.",
-          "body_text": "El próximo 4 de octubre el Perú acudirá a las urnas para las Elecciones Regionales y Municipales 2026, un proceso en el que millones de ciudadanos renovarán a las principales autoridades de los gobiernos regionales y locales para el período 2027–2030. Durante la jornada se elegirá a gobernadores y vicegobernadores regionales, consejeros regionales, alcaldes provinciales y distritales, además de regidores en ambos niveles. La convocatoria oficial fue realizada por el Poder Ejecutivo mediante el Decreto Supremo N.º 001-2026-PCM, publicado el 7 de enero de 2026, dando inicio al cronograma electoral. Sin embargo, la elección de los gobernadores regionales podría no definirse en una sola jornada. La legislación vigente establece que, si ningún aspirante supera el 30 % de los votos válidos, deberá realizarse una segunda vuelta regional entre los dos candidatos con mayor votación. Este mecanismo busca garantizar una mayor legitimidad en la elección de las máximas autoridades regionales. Cabe precisar que esta disposición solo alcanza a los gobernadores regionales y no se aplica a los comicios para elegir alcaldes provinciales o distritales. Si deseas saber si has sido designado miembro de mesa para las Elecciones Regionales y Municipales 2026 en el Perú, puedes seguir estos pasos: Los ciudadanos que deseen verificar si fueron seleccionados como miembros de mesa para las próximas elecciones deben ingresar al portal oficial de la Oficina Nacional de Procesos Electorales (ONPE): https://consultaelectoral.onpe.gob.pe/inicio. Al ingresar su número de DNI, el sistema informa si la persona fue designada como titular o suplente, además del local de votación y la mesa que le corresponde. La información también suele difundirse mediante la aplicación móvil y los canales oficiales de la entidad. Quienes no cuenten con acceso a internet pueden revisar los padrones publicados en sus respectivos locales de votación. Ser elegido miembro de mesa implica una responsabilidad de carácter obligatorio durante la jornada electoral. Las personas designadas deben presentarse para instalar y conducir la mesa de sufragio, salvo que cuenten con una causa de justificación aceptada por la autoridad electoral. El incumplimiento de esta obligación puede generar la imposición de una multa conforme a la normativa vigente. Por ello, la ONPE recomienda verificar oportunamente la designación y atender las indicaciones oficiales para evitar contratiempos el día de los comicios. La Oficina Nacional de Procesos Electorales (ONPE) ya definió el cronograma de capacitación para los ciudadanos que sean designados como miembros de mesa en las Elecciones Regionales y Municipales 2026. La primera Jornada Nacional de Capacitación se realizará el domingo 30 de agosto, mientras que la segunda está programada para el 20 de septiembre. Estas actividades buscan que los participantes conozcan el correcto desarrollo de la jornada electoral y las funciones que deberán desempeñar. Con ello, la entidad busca garantizar un proceso de votación ordenado y transparente. Además de las jornadas nacionales, la ONPE ofrecerá capacitaciones presenciales en las Oficinas Descentralizadas de Procesos Electorales (ODPE) y en otros locales autorizados a nivel nacional. La institución también pondrá a disposición una modalidad virtual con manuales, videos y material de consulta para facilitar la preparación de los miembros de mesa. Los detalles sobre los lugares de capacitación y el acceso a la plataforma serán difundidos conforme avance el cronograma electoral. Todo este proceso servirá como preparación previa para los comicios del domingo 4 de octubre de 2026. Ser designado miembro de mesa constituye una obligación establecida por la legislación electoral peruana, por lo que el cargo no puede ser rechazado de manera voluntaria. No obstante, la normativa contempla determinadas causales que permiten solicitar una excusa para quedar exonerado de esta responsabilidad. Entre ellas figuran problemas de salud debidamente acreditados, embarazo con recomendación médica, discapacidad o limitaciones físicas que impidan desempeñar la función, así como encontrarse fuera del país el día de la elección. También pueden admitirse otras circunstancias excepcionales previstas en la legislación vigente. Quienes consideren que cumplen alguna de estas causales deben presentar una solicitud de excusa ante el Jurado Nacional de Elecciones (JNE) dentro del plazo fijado en el cronograma electoral, adjuntando la documentación que sustente su pedido, como certificados médicos, pasajes o constancias migratorias. La exoneración solo procede si el JNE declara fundada la solicitud. En caso de no asistir como miembro de mesa sin una excusa aceptada, el ciudadano podrá ser sancionado con la multa correspondiente. Además, si tampoco acude a votar y no está legalmente exonerado del sufragio, podría recibir una segunda sanción por omisión al voto. Los ciudadanos que cumplan íntegramente la función de miembro de mesa durante las Elecciones Regionales y Municipales 2026 recibirán una compensación económica de S/ 165, de acuerdo con lo establecido por la Ley Orgánica de Elecciones. Este monto equivale al 3 % de la Unidad Impositiva Tributaria (UIT) y se entrega como reconocimiento por la labor desempeñada durante toda la jornada electoral. La medida busca incentivar el cumplimiento de esta responsabilidad cívica y garantizar el normal desarrollo de los comicios. El beneficio se otorga únicamente a quienes ejerzan efectivamente el cargo. Además del incentivo económico, los miembros de mesa que completen la capacitación organizada por la ONPE y participen durante toda la jornada tendrán derecho a un día de descanso remunerado no compensable, aplicable tanto para trabajadores del sector público como del privado. Este descanso deberá ser utilizado dentro de los 90 días posteriores a la elección, en coordinación con el empleador. En contraste, quienes no se presenten a cumplir esta función sin contar con una excusa aprobada por el Jurado Nacional de Elecciones (JNE) serán sancionados con una multa de S/ 275, conforme a la normativa electoral vigente.",
-          "url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/VXKRMX7STZBAJD6OQ5SMRU6EEA.png?auth=fb7ad6e12d63e923b3d9a90f1e8cd0d938e02f39ff3c04bdeaf3ae06fca0e30f&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-15T18:42:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
-            "Tramites",
             "Economia",
             "El Comercio"
           ],
@@ -3124,6 +3124,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "167a83dcd566",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "¿Eres miembro de mesa para las Elecciones Municipales y Regionales 2026? Consulta con tu DNI",
+          "summary": "Consulta con tu DNI si fuiste designado miembro de mesa para las Elecciones Regionales y Municipales 2026. Revisa el enlace oficial de la ONPE y conoce los detalles del proceso.",
+          "body_text": "El próximo 4 de octubre el Perú acudirá a las urnas para las Elecciones Regionales y Municipales 2026, un proceso en el que millones de ciudadanos renovarán a las principales autoridades de los gobiernos regionales y locales para el período 2027–2030. Durante la jornada se elegirá a gobernadores y vicegobernadores regionales, consejeros regionales, alcaldes provinciales y distritales, además de regidores en ambos niveles. La convocatoria oficial fue realizada por el Poder Ejecutivo mediante el Decreto Supremo N.º 001-2026-PCM, publicado el 7 de enero de 2026, dando inicio al cronograma electoral. Sin embargo, la elección de los gobernadores regionales podría no definirse en una sola jornada. La legislación vigente establece que, si ningún aspirante supera el 30 % de los votos válidos, deberá realizarse una segunda vuelta regional entre los dos candidatos con mayor votación. Este mecanismo busca garantizar una mayor legitimidad en la elección de las máximas autoridades regionales. Cabe precisar que esta disposición solo alcanza a los gobernadores regionales y no se aplica a los comicios para elegir alcaldes provinciales o distritales. Si deseas saber si has sido designado miembro de mesa para las Elecciones Regionales y Municipales 2026 en el Perú, puedes seguir estos pasos: Los ciudadanos que deseen verificar si fueron seleccionados como miembros de mesa para las próximas elecciones deben ingresar al portal oficial de la Oficina Nacional de Procesos Electorales (ONPE): https://consultaelectoral.onpe.gob.pe/inicio. Al ingresar su número de DNI, el sistema informa si la persona fue designada como titular o suplente, además del local de votación y la mesa que le corresponde. La información también suele difundirse mediante la aplicación móvil y los canales oficiales de la entidad. Quienes no cuenten con acceso a internet pueden revisar los padrones publicados en sus respectivos locales de votación. Ser elegido miembro de mesa implica una responsabilidad de carácter obligatorio durante la jornada electoral. Las personas designadas deben presentarse para instalar y conducir la mesa de sufragio, salvo que cuenten con una causa de justificación aceptada por la autoridad electoral. El incumplimiento de esta obligación puede generar la imposición de una multa conforme a la normativa vigente. Por ello, la ONPE recomienda verificar oportunamente la designación y atender las indicaciones oficiales para evitar contratiempos el día de los comicios. La Oficina Nacional de Procesos Electorales (ONPE) ya definió el cronograma de capacitación para los ciudadanos que sean designados como miembros de mesa en las Elecciones Regionales y Municipales 2026. La primera Jornada Nacional de Capacitación se realizará el domingo 30 de agosto, mientras que la segunda está programada para el 20 de septiembre. Estas actividades buscan que los participantes conozcan el correcto desarrollo de la jornada electoral y las funciones que deberán desempeñar. Con ello, la entidad busca garantizar un proceso de votación ordenado y transparente. Además de las jornadas nacionales, la ONPE ofrecerá capacitaciones presenciales en las Oficinas Descentralizadas de Procesos Electorales (ODPE) y en otros locales autorizados a nivel nacional. La institución también pondrá a disposición una modalidad virtual con manuales, videos y material de consulta para facilitar la preparación de los miembros de mesa. Los detalles sobre los lugares de capacitación y el acceso a la plataforma serán difundidos conforme avance el cronograma electoral. Todo este proceso servirá como preparación previa para los comicios del domingo 4 de octubre de 2026. Ser designado miembro de mesa constituye una obligación establecida por la legislación electoral peruana, por lo que el cargo no puede ser rechazado de manera voluntaria. No obstante, la normativa contempla determinadas causales que permiten solicitar una excusa para quedar exonerado de esta responsabilidad. Entre ellas figuran problemas de salud debidamente acreditados, embarazo con recomendación médica, discapacidad o limitaciones físicas que impidan desempeñar la función, así como encontrarse fuera del país el día de la elección. También pueden admitirse otras circunstancias excepcionales previstas en la legislación vigente. Quienes consideren que cumplen alguna de estas causales deben presentar una solicitud de excusa ante el Jurado Nacional de Elecciones (JNE) dentro del plazo fijado en el cronograma electoral, adjuntando la documentación que sustente su pedido, como certificados médicos, pasajes o constancias migratorias. La exoneración solo procede si el JNE declara fundada la solicitud. En caso de no asistir como miembro de mesa sin una excusa aceptada, el ciudadano podrá ser sancionado con la multa correspondiente. Además, si tampoco acude a votar y no está legalmente exonerado del sufragio, podría recibir una segunda sanción por omisión al voto. Los ciudadanos que cumplan íntegramente la función de miembro de mesa durante las Elecciones Regionales y Municipales 2026 recibirán una compensación económica de S/ 165, de acuerdo con lo establecido por la Ley Orgánica de Elecciones. Este monto equivale al 3 % de la Unidad Impositiva Tributaria (UIT) y se entrega como reconocimiento por la labor desempeñada durante toda la jornada electoral. La medida busca incentivar el cumplimiento de esta responsabilidad cívica y garantizar el normal desarrollo de los comicios. El beneficio se otorga únicamente a quienes ejerzan efectivamente el cargo. Además del incentivo económico, los miembros de mesa que completen la capacitación organizada por la ONPE y participen durante toda la jornada tendrán derecho a un día de descanso remunerado no compensable, aplicable tanto para trabajadores del sector público como del privado. Este descanso deberá ser utilizado dentro de los 90 días posteriores a la elección, en coordinación con el empleador. En contraste, quienes no se presenten a cumplir esta función sin contar con una excusa aprobada por el Jurado Nacional de Elecciones (JNE) serán sancionados con una multa de S/ 275, conforme a la normativa electoral vigente.",
+          "url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/VXKRMX7STZBAJD6OQ5SMRU6EEA.png?auth=fb7ad6e12d63e923b3d9a90f1e8cd0d938e02f39ff3c04bdeaf3ae06fca0e30f&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T16:42:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
+            "Tramites",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "deaf158a27c1",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3147,7 +3173,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "21fb9fc6ff28",
@@ -3173,7 +3199,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "d995760dbaf0",
@@ -3195,32 +3221,6 @@
           "tags": [
             "terremoto en colombia, terremoto en colombia en vivo, terremoto en colombia del 10 de agost, terremoto 7.4 en colombia, muertes por terremoto en colombia, Abelardo de la Espriella",
             "Latinoamérica",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "167a83dcd566",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Link de consulta: ¿Eres miembro de mesa para las Elecciones Municipales y Regionales 2026?",
-          "summary": "Consulta con tu DNI si fuiste designado miembro de mesa para las Elecciones Regionales y Municipales 2026. Revisa el enlace oficial de la ONPE y conoce los detalles del proceso.",
-          "body_text": "El próximo 4 de octubre el Perú acudirá a las urnas para las Elecciones Regionales y Municipales 2026, un proceso en el que millones de ciudadanos renovarán a las principales autoridades de los gobiernos regionales y locales para el período 2027–2030. Durante la jornada se elegirá a gobernadores y vicegobernadores regionales, consejeros regionales, alcaldes provinciales y distritales, además de regidores en ambos niveles. La convocatoria oficial fue realizada por el Poder Ejecutivo mediante el Decreto Supremo N.º 001-2026-PCM, publicado el 7 de enero de 2026, dando inicio al cronograma electoral. Sin embargo, la elección de los gobernadores regionales podría no definirse en una sola jornada. La legislación vigente establece que, si ningún aspirante supera el 30 % de los votos válidos, deberá realizarse una segunda vuelta regional entre los dos candidatos con mayor votación. Este mecanismo busca garantizar una mayor legitimidad en la elección de las máximas autoridades regionales. Cabe precisar que esta disposición solo alcanza a los gobernadores regionales y no se aplica a los comicios para elegir alcaldes provinciales o distritales. Si deseas saber si has sido designado miembro de mesa para las Elecciones Regionales y Municipales 2026 en el Perú, puedes seguir estos pasos: Los ciudadanos que deseen verificar si fueron seleccionados como miembros de mesa para las próximas elecciones deben ingresar al portal oficial de la Oficina Nacional de Procesos Electorales (ONPE): https://consultaelectoral.onpe.gob.pe/inicio. Al ingresar su número de DNI, el sistema informa si la persona fue designada como titular o suplente, además del local de votación y la mesa que le corresponde. La información también suele difundirse mediante la aplicación móvil y los canales oficiales de la entidad. Quienes no cuenten con acceso a internet pueden revisar los padrones publicados en sus respectivos locales de votación. Ser elegido miembro de mesa implica una responsabilidad de carácter obligatorio durante la jornada electoral. Las personas designadas deben presentarse para instalar y conducir la mesa de sufragio, salvo que cuenten con una causa de justificación aceptada por la autoridad electoral. El incumplimiento de esta obligación puede generar la imposición de una multa conforme a la normativa vigente. Por ello, la ONPE recomienda verificar oportunamente la designación y atender las indicaciones oficiales para evitar contratiempos el día de los comicios. La Oficina Nacional de Procesos Electorales (ONPE) ya definió el cronograma de capacitación para los ciudadanos que sean designados como miembros de mesa en las Elecciones Regionales y Municipales 2026. La primera Jornada Nacional de Capacitación se realizará el domingo 30 de agosto, mientras que la segunda está programada para el 20 de septiembre. Estas actividades buscan que los participantes conozcan el correcto desarrollo de la jornada electoral y las funciones que deberán desempeñar. Con ello, la entidad busca garantizar un proceso de votación ordenado y transparente. Además de las jornadas nacionales, la ONPE ofrecerá capacitaciones presenciales en las Oficinas Descentralizadas de Procesos Electorales (ODPE) y en otros locales autorizados a nivel nacional. La institución también pondrá a disposición una modalidad virtual con manuales, videos y material de consulta para facilitar la preparación de los miembros de mesa. Los detalles sobre los lugares de capacitación y el acceso a la plataforma serán difundidos conforme avance el cronograma electoral. Todo este proceso servirá como preparación previa para los comicios del domingo 4 de octubre de 2026. Ser designado miembro de mesa constituye una obligación establecida por la legislación electoral peruana, por lo que el cargo no puede ser rechazado de manera voluntaria. No obstante, la normativa contempla determinadas causales que permiten solicitar una excusa para quedar exonerado de esta responsabilidad. Entre ellas figuran problemas de salud debidamente acreditados, embarazo con recomendación médica, discapacidad o limitaciones físicas que impidan desempeñar la función, así como encontrarse fuera del país el día de la elección. También pueden admitirse otras circunstancias excepcionales previstas en la legislación vigente. Quienes consideren que cumplen alguna de estas causales deben presentar una solicitud de excusa ante el Jurado Nacional de Elecciones (JNE) dentro del plazo fijado en el cronograma electoral, adjuntando la documentación que sustente su pedido, como certificados médicos, pasajes o constancias migratorias. La exoneración solo procede si el JNE declara fundada la solicitud. En caso de no asistir como miembro de mesa sin una excusa aceptada, el ciudadano podrá ser sancionado con la multa correspondiente. Además, si tampoco acude a votar y no está legalmente exonerado del sufragio, podría recibir una segunda sanción por omisión al voto. Los ciudadanos que cumplan íntegramente la función de miembro de mesa durante las Elecciones Regionales y Municipales 2026 recibirán una compensación económica de S/ 165, de acuerdo con lo establecido por la Ley Orgánica de Elecciones. Este monto equivale al 3 % de la Unidad Impositiva Tributaria (UIT) y se entrega como reconocimiento por la labor desempeñada durante toda la jornada electoral. La medida busca incentivar el cumplimiento de esta responsabilidad cívica y garantizar el normal desarrollo de los comicios. El beneficio se otorga únicamente a quienes ejerzan efectivamente el cargo. Además del incentivo económico, los miembros de mesa que completen la capacitación organizada por la ONPE y participen durante toda la jornada tendrán derecho a un día de descanso remunerado no compensable, aplicable tanto para trabajadores del sector público como del privado. Este descanso deberá ser utilizado dentro de los 90 días posteriores a la elección, en coordinación con el empleador. En contraste, quienes no se presenten a cumplir esta función sin contar con una excusa aprobada por el Jurado Nacional de Elecciones (JNE) serán sancionados con una multa de S/ 275, conforme a la normativa electoral vigente.",
-          "url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/VXKRMX7STZBAJD6OQ5SMRU6EEA.png?auth=fb7ad6e12d63e923b3d9a90f1e8cd0d938e02f39ff3c04bdeaf3ae06fca0e30f&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-15T18:42:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
-            "Tramites",
             "Mundo",
             "El Comercio"
           ],
@@ -3401,6 +3401,58 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "167a83dcd566",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "¿Eres miembro de mesa para las Elecciones Municipales y Regionales 2026? Consulta con tu DNI",
+          "summary": "Consulta con tu DNI si fuiste designado miembro de mesa para las Elecciones Regionales y Municipales 2026. Revisa el enlace oficial de la ONPE y conoce los detalles del proceso.",
+          "body_text": "El próximo 4 de octubre el Perú acudirá a las urnas para las Elecciones Regionales y Municipales 2026, un proceso en el que millones de ciudadanos renovarán a las principales autoridades de los gobiernos regionales y locales para el período 2027–2030. Durante la jornada se elegirá a gobernadores y vicegobernadores regionales, consejeros regionales, alcaldes provinciales y distritales, además de regidores en ambos niveles. La convocatoria oficial fue realizada por el Poder Ejecutivo mediante el Decreto Supremo N.º 001-2026-PCM, publicado el 7 de enero de 2026, dando inicio al cronograma electoral. Sin embargo, la elección de los gobernadores regionales podría no definirse en una sola jornada. La legislación vigente establece que, si ningún aspirante supera el 30 % de los votos válidos, deberá realizarse una segunda vuelta regional entre los dos candidatos con mayor votación. Este mecanismo busca garantizar una mayor legitimidad en la elección de las máximas autoridades regionales. Cabe precisar que esta disposición solo alcanza a los gobernadores regionales y no se aplica a los comicios para elegir alcaldes provinciales o distritales. Si deseas saber si has sido designado miembro de mesa para las Elecciones Regionales y Municipales 2026 en el Perú, puedes seguir estos pasos: Los ciudadanos que deseen verificar si fueron seleccionados como miembros de mesa para las próximas elecciones deben ingresar al portal oficial de la Oficina Nacional de Procesos Electorales (ONPE): https://consultaelectoral.onpe.gob.pe/inicio. Al ingresar su número de DNI, el sistema informa si la persona fue designada como titular o suplente, además del local de votación y la mesa que le corresponde. La información también suele difundirse mediante la aplicación móvil y los canales oficiales de la entidad. Quienes no cuenten con acceso a internet pueden revisar los padrones publicados en sus respectivos locales de votación. Ser elegido miembro de mesa implica una responsabilidad de carácter obligatorio durante la jornada electoral. Las personas designadas deben presentarse para instalar y conducir la mesa de sufragio, salvo que cuenten con una causa de justificación aceptada por la autoridad electoral. El incumplimiento de esta obligación puede generar la imposición de una multa conforme a la normativa vigente. Por ello, la ONPE recomienda verificar oportunamente la designación y atender las indicaciones oficiales para evitar contratiempos el día de los comicios. La Oficina Nacional de Procesos Electorales (ONPE) ya definió el cronograma de capacitación para los ciudadanos que sean designados como miembros de mesa en las Elecciones Regionales y Municipales 2026. La primera Jornada Nacional de Capacitación se realizará el domingo 30 de agosto, mientras que la segunda está programada para el 20 de septiembre. Estas actividades buscan que los participantes conozcan el correcto desarrollo de la jornada electoral y las funciones que deberán desempeñar. Con ello, la entidad busca garantizar un proceso de votación ordenado y transparente. Además de las jornadas nacionales, la ONPE ofrecerá capacitaciones presenciales en las Oficinas Descentralizadas de Procesos Electorales (ODPE) y en otros locales autorizados a nivel nacional. La institución también pondrá a disposición una modalidad virtual con manuales, videos y material de consulta para facilitar la preparación de los miembros de mesa. Los detalles sobre los lugares de capacitación y el acceso a la plataforma serán difundidos conforme avance el cronograma electoral. Todo este proceso servirá como preparación previa para los comicios del domingo 4 de octubre de 2026. Ser designado miembro de mesa constituye una obligación establecida por la legislación electoral peruana, por lo que el cargo no puede ser rechazado de manera voluntaria. No obstante, la normativa contempla determinadas causales que permiten solicitar una excusa para quedar exonerado de esta responsabilidad. Entre ellas figuran problemas de salud debidamente acreditados, embarazo con recomendación médica, discapacidad o limitaciones físicas que impidan desempeñar la función, así como encontrarse fuera del país el día de la elección. También pueden admitirse otras circunstancias excepcionales previstas en la legislación vigente. Quienes consideren que cumplen alguna de estas causales deben presentar una solicitud de excusa ante el Jurado Nacional de Elecciones (JNE) dentro del plazo fijado en el cronograma electoral, adjuntando la documentación que sustente su pedido, como certificados médicos, pasajes o constancias migratorias. La exoneración solo procede si el JNE declara fundada la solicitud. En caso de no asistir como miembro de mesa sin una excusa aceptada, el ciudadano podrá ser sancionado con la multa correspondiente. Además, si tampoco acude a votar y no está legalmente exonerado del sufragio, podría recibir una segunda sanción por omisión al voto. Los ciudadanos que cumplan íntegramente la función de miembro de mesa durante las Elecciones Regionales y Municipales 2026 recibirán una compensación económica de S/ 165, de acuerdo con lo establecido por la Ley Orgánica de Elecciones. Este monto equivale al 3 % de la Unidad Impositiva Tributaria (UIT) y se entrega como reconocimiento por la labor desempeñada durante toda la jornada electoral. La medida busca incentivar el cumplimiento de esta responsabilidad cívica y garantizar el normal desarrollo de los comicios. El beneficio se otorga únicamente a quienes ejerzan efectivamente el cargo. Además del incentivo económico, los miembros de mesa que completen la capacitación organizada por la ONPE y participen durante toda la jornada tendrán derecho a un día de descanso remunerado no compensable, aplicable tanto para trabajadores del sector público como del privado. Este descanso deberá ser utilizado dentro de los 90 días posteriores a la elección, en coordinación con el empleador. En contraste, quienes no se presenten a cumplir esta función sin contar con una excusa aprobada por el Jurado Nacional de Elecciones (JNE) serán sancionados con una multa de S/ 275, conforme a la normativa electoral vigente.",
+          "url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/VXKRMX7STZBAJD6OQ5SMRU6EEA.png?auth=fb7ad6e12d63e923b3d9a90f1e8cd0d938e02f39ff3c04bdeaf3ae06fca0e30f&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T16:42:00Z",
+          "embed_url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
+            "Tramites",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "60fff00418c5",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Dólar BCV hoy, domingo 16 de agosto: Revisa la tasa oficial del billete en Venezuela",
+          "summary": "Dólar en Venezuela HOY: Revisa la tasa oficial del dólar BCV según la entidad bancaria oficial del país bolivariano.",
+          "body_text": "Dólar BCV en Venezuela hoy, domingo 16 de agosto de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 771,07 Bs según la tasa del Banco Central de Venezuela.",
+          "url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-revisa-la-tasa-oficial-y-tipo-de-cambio-dolartoday-dolares-a-bolivares-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/HZNBHGP2YRAU3NO67OQHIWNZJM.png?auth=35309138203a86bcba36012631e8c2820b7b941cbaf739c46dde1f07de59e2f1&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-16T16:19:08Z",
+          "embed_url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-revisa-la-tasa-oficial-y-tipo-de-cambio-dolartoday-dolares-a-bolivares-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
+            "Venezuela",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "deaf158a27c1",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3420,58 +3472,6 @@
           "tags": [
             "Universitario vs FC Cajamarca EN VIVO, Liga 1 Max Universitario vs FC Cajamarca, Partido Universitario vs FC Cajamarca, Liga 1 Max, TOrneo Clausura, Liga 1 2026",
             "Fútbol peruano",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
-          "id": "ede927d8cfac",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Tabla de posiciones Liga 1 2026: Alianza Lima venció a UTC y recuperó el liderato del Torneo Clausura",
-          "summary": "Tabla de posiciones de la Liga 1: programación TV, horarios y canales para ver partidos por la fecha 5 del Torneo Clausura 2026.",
-          "body_text": "La fecha 5 del Torneo Clausura 2026 se juega este fin de semana con una jornada llena de emociones y partidos importantes que podrían marcar el curso del campeonato. Deportivo Garcilaso, Alianza Lima, Universitario, Sporting Crista y el resto de equipos buscarán una victoria que les permita mantener sus opciones de pelear por el título de este certamen. Entre los partidos más atractivos está el clásico cusqueño. Garcilaso y Cienciano se medirán fuerzas en el Garcilaso de la Vega. Por su parte, Alianza Lima recibirá a UTC en Matute, mientras que Universitario visitará a FC Cajamarca y Sporting Cristal chocará contra Sport Huancayo. A continuación, revisa la programación completa, partidos y resultados de la fecha 5 del Torneo Clausura. Viernes 14 de agosto Sábado 15 de agosto Domingo 16 de agosto",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-5-del-torneo-clausura-y-tabla-del-acumulado-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/UCLL66X7YFFVNENADGGPVALN5I.png?auth=56a18cb774d1a380ff49bac40ac5dd2496083e1a1310d48f09a67797f6cf44af&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-16T03:28:52Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-5-del-torneo-clausura-y-tabla-del-acumulado-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Tabla de posiciones Liga 1 2026, Tabla de posiciones Torneo Clausura, Tabla de posiciones Liga 1, Liga 1, Tabla de Liga 1, Torneo Clausura, Tabla del Torneo Clausura, Tabla Torneo Clausura, partidos de hoy, futbol en vivo, alianza lima, universitario, universitario de deportes, sporting cristal, sport boys, cienciano, los chankas, melgar, tabla del acumulado, tabla de posiciones del acumulado",
-            "Fútbol peruano",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "167a83dcd566",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Link de consulta: ¿Eres miembro de mesa para las Elecciones Municipales y Regionales 2026?",
-          "summary": "Consulta con tu DNI si fuiste designado miembro de mesa para las Elecciones Regionales y Municipales 2026. Revisa el enlace oficial de la ONPE y conoce los detalles del proceso.",
-          "body_text": "El próximo 4 de octubre el Perú acudirá a las urnas para las Elecciones Regionales y Municipales 2026, un proceso en el que millones de ciudadanos renovarán a las principales autoridades de los gobiernos regionales y locales para el período 2027–2030. Durante la jornada se elegirá a gobernadores y vicegobernadores regionales, consejeros regionales, alcaldes provinciales y distritales, además de regidores en ambos niveles. La convocatoria oficial fue realizada por el Poder Ejecutivo mediante el Decreto Supremo N.º 001-2026-PCM, publicado el 7 de enero de 2026, dando inicio al cronograma electoral. Sin embargo, la elección de los gobernadores regionales podría no definirse en una sola jornada. La legislación vigente establece que, si ningún aspirante supera el 30 % de los votos válidos, deberá realizarse una segunda vuelta regional entre los dos candidatos con mayor votación. Este mecanismo busca garantizar una mayor legitimidad en la elección de las máximas autoridades regionales. Cabe precisar que esta disposición solo alcanza a los gobernadores regionales y no se aplica a los comicios para elegir alcaldes provinciales o distritales. Si deseas saber si has sido designado miembro de mesa para las Elecciones Regionales y Municipales 2026 en el Perú, puedes seguir estos pasos: Los ciudadanos que deseen verificar si fueron seleccionados como miembros de mesa para las próximas elecciones deben ingresar al portal oficial de la Oficina Nacional de Procesos Electorales (ONPE): https://consultaelectoral.onpe.gob.pe/inicio. Al ingresar su número de DNI, el sistema informa si la persona fue designada como titular o suplente, además del local de votación y la mesa que le corresponde. La información también suele difundirse mediante la aplicación móvil y los canales oficiales de la entidad. Quienes no cuenten con acceso a internet pueden revisar los padrones publicados en sus respectivos locales de votación. Ser elegido miembro de mesa implica una responsabilidad de carácter obligatorio durante la jornada electoral. Las personas designadas deben presentarse para instalar y conducir la mesa de sufragio, salvo que cuenten con una causa de justificación aceptada por la autoridad electoral. El incumplimiento de esta obligación puede generar la imposición de una multa conforme a la normativa vigente. Por ello, la ONPE recomienda verificar oportunamente la designación y atender las indicaciones oficiales para evitar contratiempos el día de los comicios. La Oficina Nacional de Procesos Electorales (ONPE) ya definió el cronograma de capacitación para los ciudadanos que sean designados como miembros de mesa en las Elecciones Regionales y Municipales 2026. La primera Jornada Nacional de Capacitación se realizará el domingo 30 de agosto, mientras que la segunda está programada para el 20 de septiembre. Estas actividades buscan que los participantes conozcan el correcto desarrollo de la jornada electoral y las funciones que deberán desempeñar. Con ello, la entidad busca garantizar un proceso de votación ordenado y transparente. Además de las jornadas nacionales, la ONPE ofrecerá capacitaciones presenciales en las Oficinas Descentralizadas de Procesos Electorales (ODPE) y en otros locales autorizados a nivel nacional. La institución también pondrá a disposición una modalidad virtual con manuales, videos y material de consulta para facilitar la preparación de los miembros de mesa. Los detalles sobre los lugares de capacitación y el acceso a la plataforma serán difundidos conforme avance el cronograma electoral. Todo este proceso servirá como preparación previa para los comicios del domingo 4 de octubre de 2026. Ser designado miembro de mesa constituye una obligación establecida por la legislación electoral peruana, por lo que el cargo no puede ser rechazado de manera voluntaria. No obstante, la normativa contempla determinadas causales que permiten solicitar una excusa para quedar exonerado de esta responsabilidad. Entre ellas figuran problemas de salud debidamente acreditados, embarazo con recomendación médica, discapacidad o limitaciones físicas que impidan desempeñar la función, así como encontrarse fuera del país el día de la elección. También pueden admitirse otras circunstancias excepcionales previstas en la legislación vigente. Quienes consideren que cumplen alguna de estas causales deben presentar una solicitud de excusa ante el Jurado Nacional de Elecciones (JNE) dentro del plazo fijado en el cronograma electoral, adjuntando la documentación que sustente su pedido, como certificados médicos, pasajes o constancias migratorias. La exoneración solo procede si el JNE declara fundada la solicitud. En caso de no asistir como miembro de mesa sin una excusa aceptada, el ciudadano podrá ser sancionado con la multa correspondiente. Además, si tampoco acude a votar y no está legalmente exonerado del sufragio, podría recibir una segunda sanción por omisión al voto. Los ciudadanos que cumplan íntegramente la función de miembro de mesa durante las Elecciones Regionales y Municipales 2026 recibirán una compensación económica de S/ 165, de acuerdo con lo establecido por la Ley Orgánica de Elecciones. Este monto equivale al 3 % de la Unidad Impositiva Tributaria (UIT) y se entrega como reconocimiento por la labor desempeñada durante toda la jornada electoral. La medida busca incentivar el cumplimiento de esta responsabilidad cívica y garantizar el normal desarrollo de los comicios. El beneficio se otorga únicamente a quienes ejerzan efectivamente el cargo. Además del incentivo económico, los miembros de mesa que completen la capacitación organizada por la ONPE y participen durante toda la jornada tendrán derecho a un día de descanso remunerado no compensable, aplicable tanto para trabajadores del sector público como del privado. Este descanso deberá ser utilizado dentro de los 90 días posteriores a la elección, en coordinación con el empleador. En contraste, quienes no se presenten a cumplir esta función sin contar con una excusa aprobada por el Jurado Nacional de Elecciones (JNE) serán sancionados con una multa de S/ 275, conforme a la normativa electoral vigente.",
-          "url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/VXKRMX7STZBAJD6OQ5SMRU6EEA.png?auth=fb7ad6e12d63e923b3d9a90f1e8cd0d938e02f39ff3c04bdeaf3ae06fca0e30f&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-15T18:42:00Z",
-          "embed_url": "https://elcomercio.pe/respuestas/tramites/eres-miembro-de-mesa-o-suplente-en-las-elecciones-regionales-y-municipales-2026-consulta-en-link-con-tu-dni-tdpe-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
-            "Tramites",
             "Peru",
             "El Comercio"
           ],
@@ -4132,7 +4132,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till 25% på toppar, tunikor och tröjor Sommarrea – upp till 70% på heminredning",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Sommarrea – upp till 70% på heminredning Upp till 25% på toppar, tunikor och tröjor",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4389,12 +4389,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Kungligt I dag 08.57 Nu kan kvinnor ta över tronen i Liechtenstein",
-          "summary": "",
-          "body_text": "",
+          "title": "Nu kan kvinnor ta över tronen i Liechtenstein",
+          "summary": "Hittills har bara män fått sitta på tronen i Liechtenstein. Men nu har furstendömet bestämt att även kvinnor kan göra det.",
+          "body_text": "Hittills har bara män fått sitta på tronen i Liechtenstein. Men nu har furstendömet bestämt att även kvinnor får göra det. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Furstendömet Liechtenstein som ligger mellan Schweiz och Österrike har tidigare gett män företräde i tronföljden. Men nu har landet beslutat att den i stället ska vara jämställd. Det har tidigare inte spelat någon roll om den regerande fursten endast haft döttrar – de har inte kunnat ärva tronen ändå. Men framöver kommer alltså den förstfödde, oavsett kön, stå först i arvsordningen. Det lär däremot dröja. Först i turordningen står nämligen den nuvarande fursten Hans-Adam och hans fru Maries son Alois. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här! Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister.",
           "url": "https://www.expressen.se/nyheter/kungligt/nu-kan-kvinnor-ta-over-tronen-i-liechtenstein/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/6a/59/6a5961b85e5647fe950b0d17b2884bc8/16x9/original.jpg",
+          "published_at": "2026-08-16T06:57:01Z",
           "embed_url": "https://www.expressen.se/nyheter/kungligt/nu-kan-kvinnor-ta-over-tronen-i-liechtenstein/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4402,7 +4402,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 8
         },
         {
@@ -4413,12 +4413,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige I dag 07.32 Christian Zedig slogs ihjäl – ny video visar förloppet",
-          "summary": "",
-          "body_text": "",
+          "title": "Christian Zedig slogs ihjäl – video visar händelseförloppet",
+          "summary": "Polismannen Christian Zedig reste till Köpenhamn för att se på fotboll. Han kom inte hem igen. En video från tillfället visar händelseförloppet som ledde till hans död.",
+          "body_text": "Polismannen Christian Zedig reste till Köpenhamn för att se Sveriges VM-match mot Frankrike på storbildsskärm. En video från tillfället – som danska tidningen BT tagit del av – visar händelseförloppet som ledde till hans död. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den 30 juni möttes Sverige och Frankrike i sextondelsfinal i fotbolls-VM. Den svenske polismannen Christian Zedig, 32, reste med sina vänner till Köpenhamn för att se matchen på storbildsskärm på Islands brygge. Han fick inte se matchen – och kom aldrig hem igen. Några dagar efter dödsmisshandeln skrev Christian Zedigs fru i ett inlägg: ”Våra barns liv vändes upp och ner. Ditt liv tog slut. För att några andra tog det beslutet. Några andra tog beslutet att våra barn ska växa upp utan världens bästa pappa och att jag ska leva ett liv utan världens bästa man.” Den danska tidningen BT har tagit del av en video, filmad av en privatperson, som visar det ödesdigra slaget och händelseförloppet närmast före och efter. Även Expressen kan nu visa delar av filmen. Vid den tidpunkten pågick en annan sextondelsfinal, mellan Norge och Elfenbenskusten. Enligt vittnen som BT talat med var det i samband med ett mål i den matchen som en konflikt uppstod mellan ett sällskap med svenska fotbollssupportrar och ett annat sällskap. I början av videon ses en man kasta två öppna ölburkar mot gruppen med främst svenska supportrar. Den 31-årige man som nu sitter häktad för dödsmisshandeln ses samtidigt röra sig bort från situationen. Han ser ut att få en knuff av en man i blå svensk landslagströja, varpå han vänder sig om och rör sig aggressivt mot mannen som utdelat knuffen.",
           "url": "https://www.expressen.se/nyheter/sverige/christian-zedig-slogs-ihjal-ny-video-visar-forloppet/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/e4/84/e48417cec7514e14b70b6a8e62647f97/16x9/original.png",
+          "published_at": "2026-08-16T05:32:03Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/christian-zedig-slogs-ihjal-ny-video-visar-forloppet/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4426,7 +4426,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4442,11 +4442,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "En bil och lastbil har frontalkrockat på E20 utanför Mariestad. Enligt SOS Alarm tros krocken inträffat i 80 kilometer i timmen. I olyckan voltade bilen och hamnade upp och ner i ett dike. Lastbilen började sedan brinna. Det är en större räddningsinsats med ambulans, räddningstjänst, polis och ambulanshelikopter. Fem personer är inblandade. Tre personer som satt i personbilen är svårt skadade enligt polisen. Vägen är avstängd i båda riktningar under räddningsarbetet. Det finns ingen prognos i nuläget. Strax före klockan 19 på lördagskvällen lokal tid larmades polisen till en park i Lexington, Kentucky, på grund av höga smällar. På plats hittades fem offer, rapporterar CNN. En person dödförklarades på sjukhuset medan de andra fyra inte är livshotande skadade. Enligt lokala medier är två av de skjutna barn. Polisen är förtegna angående vem som misstänks men har en uppmaning till allmänheten. – Om du känner till någon som kan tänkas använda ett vapen, vänligen meddela oss, säger polischefen Lawrence Weather. Polisen utreder ett misstänkt mord i Uppsala.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
