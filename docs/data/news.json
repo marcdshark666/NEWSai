@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:37:36Z",
+  "generated_at": "2026-08-16T11:54:37Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -2070,6 +2070,30 @@
           "sort_order": 13
         },
         {
+          "id": "c602d0f78bd3",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "35:57",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.foxnews.com/video/6403505664112",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.foxnews.com/video/6403505664112",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "6ad9dfa794a9",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2084,31 +2108,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/72b599fd-e03e-449a-b275-88aeb160154d/c1d5cb08-f8b2-4bdd-ab19-f6c2dbe3ce3e/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-08-16T03:43:31Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403496724112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "2b68a8df38e9",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "The Journal Editorial Report - Saturday, August 15 | Fox News Video",
-          "summary": "Gerry Baker, wisconsin, inflation, cuba, amazon, michigan",
-          "body_text": "Gerry Baker, wisconsin, inflation, cuba, amazon, michigan Paul Gigot discusses news, politics, society and finance.",
-          "url": "https://www.foxnews.com/video/6403484535112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/e41297c9-dbde-4761-88f1-029c9ece9e0b/a218a93a-ebc7-4e15-96d8-febd3bb25a49/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-15T22:46:55Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403484535112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2137,6 +2136,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "68ee02a5789f",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+          "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+          "body_text": "A statue of the Virgin Mary believed to be Europe's tallest has been formally unveiled in a small Polish village. The 55.6-metre (182ft) concrete figure is roughly two double-decker buses longer than Rio de Janeiro's smaller - if more prominently placed - Christ the Redeemer monument, though it still pales in comparison to a 98m Virgin Mary erected in the Philippines. The ecclesiastical sculpture in rural Konotopie was consecrated by a local bishop in a ceremony on Saturday, a day chosen to coincide with the Feast of the Assumption of the Blessed Virgin Mary. Its inauguration comes at a time when the influence of the Catholic church on public life in Poland has declined. The icon's remote location - in a field miles from any of Poland's population centres - is largely due to it being commissioned by a millionaire couple who live locally. Two helicopters circled to drop rose petals over the Virgin Mary, which stands in a large crown with open arms, during Saturday's ceremony. Bishop Krzysztof Wętkowski, who consecrated the statue, told those congregated that \"many contemporary people look only to the earth, focused on themselves\", whereas the figure beckoned \"to raise our gaze upwards to God and heaven\", according to Polish news agency PAP. While Poland remains an overwhelmingly Catholic country, many younger Poles in urban areas have increasingly turned away from the church and its traditions. Among the attendees on Saturday was Lech Wałęsa, who led the movement to end communism in Poland and would go on to become the country's first democratically elected president. Wałęsa famously wore a Virgin Mary pin badge while campaigning and credited his Catholic faith as playing a major role in his fight against communism. \"I started with the Virgin Mary and I end with the Virgin Mary,\" the 82-year-old told the Associated Press.",
+          "url": "https://www.bbc.com/news/articles/cn5nnlq2pwpo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg",
+          "published_at": "2026-08-16T11:35:25Z",
+          "embed_url": "https://www.bbc.com/news/articles/cn5nnlq2pwpo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "7cefe96fc79b",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2158,7 +2181,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "5fccd4a0a7c6",
@@ -2182,7 +2205,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "413b292f66b6",
@@ -2206,7 +2229,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "b92aa26d759d",
@@ -2230,7 +2253,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "4308eeb93569",
@@ -2254,7 +2277,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "59bb37ff6c51",
@@ -2278,7 +2301,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "f46e70bd7c17",
@@ -2302,7 +2325,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "754bf0f487ca",
@@ -2326,7 +2349,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "42d63f4dec67",
@@ -2350,7 +2373,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "bda565f98f66",
@@ -2374,7 +2397,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "e91ce29c2b35",
@@ -2398,30 +2421,6 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "81d769da1bda",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-          "summary": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-          "body_text": "The BBC has sought to subpoena members of Donald Trump's family for documents and testimony in the US president's $10bn (£7.4bn) defamation lawsuit against the broadcaster. Court filings show that representatives for the BBC's legal team attempted in May to serve subpoenas to the president's son Donald Trump Jr, his daughter Ivanka Trump and son-in-law Jared Kushner. The president is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave before the 2021 Capitol riots. The BBC has previously apologised for the edit, but denied it was grounds for defamation. In a statement to the BBC, a spokesman for Trump's legal team said the BBC had \"intentionally defamed\" the president, and with its subpoena request was now \"seeking to harass him, his family, and supporters by abusing the deposition process\". \"The BBC is simply trying to distract away from their own obvious liability,\" the statement said. The BBC's lawyers argue in the latest filing that Trump's family members had \"personal knowledge\" of his intentions in delivering the speech, making their testimony and documents relevant to the president's defamation claim. Drawing on evidence previously gathered by a US congressional committee, the filing says Donald Trump Jr and Ivanka Trump were present when their father revised and delivered his speech, adding that Jared Kushner drafted a proposed statement for him that would have condemned the use of violence. The filing asks the court to allow the subpoenas to be served by email and certified mail, saying attempts to serve them by hand were unsuccessful. A subpoena is an order for someone to answer questions under oath or provide evidence. Failure to comply results in a penalty. According to court filings, in one instance, a representative for the BBC's legal team tried to deliver a subpoena for Ivanka Trump and Jared Kushner at their home in Florida, but was refused entry at a police checkpoint and was later told by the Secret Service that the agency could not accept the subpoenas. Similarly, according to the filing, a representative tried to serve a subpoena for Donald Trump Jr at Trump Tower in New York but was told by the concierge that the person who normally took such documents may have been at lunch.",
-          "url": "https://www.bbc.com/news/articles/cd69ely319eo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
-          "published_at": "2026-08-15T00:01:53Z",
-          "embed_url": "https://www.bbc.com/news/articles/cd69ely319eo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
           "sort_order": 11
         },
         {
@@ -4156,7 +4155,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Sommarrea – upp till 70% på heminredning Upp till 25% på toppar, tunikor och tröjor",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till 25% på toppar, tunikor och tröjor Sommarrea – upp till 70% på heminredning",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4181,7 +4180,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Sommarrean är fortfarande igång – fyndtips:",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Har du smycken liggandes som du aldrig använder? Beställ gratis Guldbrev!",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4413,12 +4412,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen I dag 03.26 Putins skräck: Nytt ukrainskt ballistiskt vapen: ”Ser ett hot”",
-          "summary": "",
-          "body_text": "",
+          "title": "Putin fruktar nytt ballistiskt vapen",
+          "summary": "Ukraina behöver fler defensiva vapen. Men offensiva vapen har de en lösning på. Enligt Politico är Ukrainas egen robot FP-7 redo att användas.",
+          "body_text": "Men offensiva vapen har de en lösning på. Enligt Politico är Ukrainas egen robot FP-7 redo att användas. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Roboten tillverkas av det ukrainska företaget Fire Point, och kommer levereras till Ukrainas armé under tidig höst. Redan i februari testade man roboten, som är baserad på den sovjetiska roboten S-300. Fire Point tillverkar många attackdrönare för Ukraina, men har efter flera års arbete nyligen lanserat kryssningsrobotar. FP-5 Flamingo har använts i flera attacker mot ryska mål – bland annat i en attack mot ett FSB-kontor på Krim. – Ryssland försöker förhindra oss från att påbörja serieproduktion av dessa vapen, säger Vadim Skibitskij, chef för Ukrainas militära underrättelsetjänst, till Politico . Företagets mål, som backas av president Volodymyr Zelenskyj, är att sänka kostnaderna för robotanvändning, både offensivt och defensivt. Företaget håller även på att utveckla roboten FP-7x, som i stället kommer att användas för luftvärnsförsvar. Roboten ska fungera likt Patriot. En FP-7x-robot kostar drygt fem miljoner kronor från fabrik till användning – en dryg tiondel av vad en Patriot-robot kostar per användning. Det mesta av roboten tillverkas i Ukraina, medan vissa komponenter kommer från europeiska allierade. – När det gäller storskalig användning kan jag inte svara på det, eftersom det finns saker som inte beror på Ukraina, sa Zelenskyj till inhemska medier i förra veckan. En tredje robot, FP-9, är också under utveckling. Den ska bära en 800 kilo tungt stridsspets och ha en räckvidd på 855 kilometer – och kan således nå Putin och Kreml.",
           "url": "https://www.expressen.se/nyheter/varlden/putins-skrack-nytt-ukrainskt-ballistiskt-vapen-ser-ett-hot/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/a3/87/a387dbf373c34f4a9dc38c0cc30c95c3/16x9/original.png",
+          "published_at": "2026-08-16T01:26:42Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/putins-skrack-nytt-ukrainskt-ballistiskt-vapen-ser-ett-hot/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4426,7 +4425,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 8
         },
         {
@@ -4437,12 +4436,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen I dag 02.38 Bella, 13, sköts i magen – larmade ändå polisen",
-          "summary": "",
-          "body_text": "",
+          "title": "Bella, 13, sköts i magen – larmade ändå polisen",
+          "summary": "Hon sköts flera gånger av massmördaren i Michigan. Men trots det lyckades 13-åriga Bella Everitt larma polisen – och räddade liv. Både hennes bror och mamma mördades bara minuter tidigare, skriver New York Post.",
+          "body_text": "Hon sköts flera gånger av massmördaren i Michigan. Men trots det lyckades 13-åriga Bella Everitt larma polisen – och räddade liv. Både hennes bror och mamma mördades bara minuter tidigare, skriver New York Post. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På fredagen kom uppgifter om en masskjutning i Michigan , USA. Sex personer, inklusive gärningsmannen Chad Hickman, hade då dött. Hickman hade innan dess gått in i tre olika hus och skjutit ihjäl totalt fem personer. Men det kunde ha varit många fler. I det första huset mördades en kvinna och hennes 16-åriga son. Även en 13-årig flicka sköts fyra gånger, men lyckades ändå larma polisen. Nu vårdas Bella Everitt på sjukhus, där tillståndet beskrivs som allvarligt men stabilt. – Hon är en hjälte, säger hennes farfar till Detroit News. Sedan Hickman skjutit ihjäl Bellas familjemedlemmar anlände polisen snabbt till platsen. Efter en polisjakt hittades han död i ett skogsparti tillsammans med ännu ett offer, en 29-årig kvinna. – Hon räddade många fler liv genom sitt larmsamtal, säger Hickmans exfru till New York Post. Det är oklart om Hickman och Bellas familj hade någon relation. 39-åringen har tidigare dömts för barnmisshandel och hade kontaktförbud gentemot sin exfru.",
           "url": "https://www.expressen.se/nyheter/varlden/bella-13-skots-i-magen-larmade-anda-polisen/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/9b/6d/9b6dbf4805fb42148a024a4ada3c91c5/16x9/original.png",
+          "published_at": "2026-08-16T00:38:19Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/bella-13-skots-i-magen-larmade-anda-polisen/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4450,7 +4449,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4466,11 +4465,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "En 73-årig kvinna har dött och tolv personer har skadats i en hästvagnsolycka i schweiziska Val Roseg nära gränsen till Italien, skriver Dagbladet med hänvisning till AFP. Runt 40 turister färdades i två hästvagnar när kusken tappade kontrollen över den ena. Hästen föll och när vagnen körde vidare in i ett träd kastades flera av passagerarna ur. Två av de drabbade är allvarligt skadade. Polisen larmades till en tankstation i Akalla efter att en taxichaufför uppträdde påverkat då han tagit lustgas. De som mött mannen uttryckte en oro över att han kunde utgöra en trafikfara. Mannen kontrollerades och polisen beslagtog en lustgastub. Han avlägsnades därifrån och en anmälan om brott mot lag om lustgas upprättas. Räddningstjänsten är på plats med 15 enheter efter att en brand brutit ut i en lada söder om Kalmar, rapporterar SVT Småland . Larmet kom strax efter klockan 10 och nu jobbat räddningstjänsten med att förhindra att branden sprids till terräng och andra byggnader. – Det brinner i en lada eller maskinhall, om 100 gånger 50 meter. Det brinner framför allt i halmbalar och maskiner som finns inuti ladan, skriver Hans Erlandsson, Vakthavande räddningschef på Räddningstjänsten sydost till SVT. – Vi har inte fått till sig att några djur är inblandade. Det finns stor risk för spridning till byggnader intill. Ett 37 meter långt forskningsfartyg har gått på grund utanför ön Möja i Stockholms skärgård, rapporterar Dagens Nyheter. Fartyget Ocean Surveyor som tillhör Sveriges geologiska undersökning (SGU) var på väg norrifrån, när det vid 01-tiden under natten mot söndagen tog stopp utanför Möja i Stockholms skärgård. Ingen person kom till skada vid grundstötningen. Kustbevakningen är på plats och undersöker fartyget som fortsatt står på grund, men det är ännu oklart vad som orsakat olyckan. – Miljöräddningsresurs är på väg, för det fall det skulle läcka olja, säger Mattias Lindholm, presstalesperson på Kustbevakningen, till DN. Enligt rutin kommer olyckan att utredas av Statens haverikommission.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
