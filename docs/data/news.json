@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:20:19Z",
+  "generated_at": "2026-08-17T15:45:25Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Rysslandskännaren om attacken: ”Mer än bara ett varningsskott” Ryska företag tvingas skydda sig själva – och betala för det Sätter hårt mot hårt efter Trumps Hormuzhot: Kommer förbli vårt Soldaternas desperation – har försökt hoppa överbord ”Vi fick så mycket otrevliga kommentarer” • Skådespelaren dog i fredags",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Uppgifter till TV4 Nyheterna • Familjen har levt under hot från Foxtrotnätverket Rysslandskännaren om attacken: ”Mer än bara ett varningsskott” Ryska företag tvingas skydda sig själva – och betala för det Sätter hårt mot hårt efter Trumps Hormuzhot: Kommer förbli vårt Soldaternas desperation – har försökt hoppa överbord",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -704,7 +704,7 @@
           "body_text": "Arboga: Storbrand i radhusområde Över 20 bostäder drabbade • Integration: Ny rapport om migranters värderingar • Mellanöstern: Israel går till val i höst Beskrivs som ödesval Mer om programmet En månad till valet: Tidöförslagen vann • Kristersson och Andersson: Vem får bilda regering? • Nigel Farage: Omval mot soptunna • Vattenbrist och kärnkraft: Hur påverkar varmare klimat? Mer om programmet Publicerades: Ons 12 aug 21:00 Ons 12 aug • 38 min En månad till valet. Vem vinner och vem förlorar på Socialdemokraternas och Sverigedemokraternas ekonomiska politik? Debatt i Aktuellt mellan Mikael Damberg (S) och Oscar Sjöstedt (SD) Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Säpo:: Rysk spionoperation har stoppats • Ekonomisk politik: Dadgostar mot Svantesson • Ryssland: Antikrigsparti stoppas Mer om programmet",
           "url": "https://www.svtplay.se/video/jqPPNg6/aktuellt/tor-13-aug-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54706628/1786647253?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-13T21:00:00Z",
+          "published_at": "2026-08-13T19:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jqPPNg6/aktuellt/tor-13-aug-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -1721,6 +1721,31 @@
           "sort_order": 0
         },
         {
+          "id": "ede62b89a1db",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump warns of response as Iran ceasefire ends with no deal | Fox News Video",
+          "summary": "Fox News' Alexandria Hoff reports the latest from the White House. Rep. Brian Mast, R-Fla., also weighed in on the conflict during 'America's Newsroom' as the ceasefire between the U.S. and Iran expires.",
+          "body_text": "Fox News' Alexandria Hoff reports the latest from the White House. Rep. Brian Mast, R-Fla., also weighed in on the conflict during 'America's Newsroom' as the ceasefire between the U.S. and Iran expires. Tensions escalate in the Middle East as the 60-day Iran negotiation window closes without a deal, leading President Donald Trump to threaten declaring the Strait of Hormuz a U.S. territory. Rep. Brian Mast breaks down the strategic deployment of American military assets in the region.",
+          "url": "https://www.foxnews.com/video/6403592327112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3363628-745c-425c-9d3c-0c3556f05891/baa012c4-1aed-44e0-9849-a6ba05e2ef52/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-17T15:20:01Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403592327112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "a1171ca9458d",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1768,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "668c64fa8637",
@@ -1768,7 +1793,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "c2cdd3287b42",
@@ -1793,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "96eed22d01ed",
@@ -1818,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "2c52c7e5edd4",
@@ -1843,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "32aa3a9a055d",
@@ -1868,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "868104e65eca",
@@ -1893,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "82d4fc50f729",
@@ -1918,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "d73bcfccd122",
@@ -1935,31 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/064fb8a4-07e2-46fc-83e7-bd058c8ca4ad/59120bda-de52-46d1-98f8-9517f078f625/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-17T12:55:40Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403581658112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "73e55c712a19",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Judge rules Alex Murdaugh's trial testimony allowed in upcoming double murder retrial | Fox News Video",
-          "summary": "Fox News legal analyst Gregg Jarrett breaks down why Alex Murdaugh's previous trial testimony will be allowed in his upcoming retrial on 'Fox & Friends.'",
-          "body_text": "Fox News legal analyst Gregg Jarrett breaks down why Alex Murdaugh's previous trial testimony will be allowed in his upcoming retrial on 'Fox & Friends.' Fox News legal analyst Gregg Jarrett joins 'Fox & Friends' to react to the South Carolina judge ruling that Alex Murdaugh's prior testimony can be used against him in his upcoming double murder retrial. Jarrett explains how Murdaugh's previous courtroom admissions and lies about his whereabouts on the night of the slayings will severely damage his defense.",
-          "url": "https://www.foxnews.com/video/6403578024112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/111ca43c-2a84-47fe-82e4-c3de87723716/fad92847-3e96-43e0-be34-9190e1c2e857/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-17T12:11:03Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403578024112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3745,7 +3745,7 @@
           "source_kind": "story",
           "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts | TechCrunch",
           "summary": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
-          "body_text": "Data breaches at two shipping companies has put cryptocurrency owners with physical hardware wallets at greater risk of having their funds stolen, highlighting weaknesses in the broader tech ecosystem relied on by the crypto industry. In recent weeks, makers of hardware crypto wallets Trezor and SafePal reported that collectively thousands of their customers had their personal data and shipping information stolen during separate data breaches at their shipping partners. The crypto wallet makers provided their customers’ names, home addresses, email addresses, and phone numbers to the shipping companies for mailing out their hardware wallets. The hacks did not affect the security of the wallets, a hardware device that stays offline to make it far more difficult for hackers to compromise from over the internet. Instead, the hackers targeted the broader supply chain of tech companies to obtain personal information about where high-net worth crypto holders live. By stealing the names and home addresses of hardware wallet customers, the hacks expose crypto owners to physical attacks that rely on physically obtaining the seed phrase stored on the wallet by force or violence. Known as wrench attacks (referring to the use of weapons), these kinds of real-world attacks are on the rise as criminals increasingly seek out crypto belonging to high-net individuals. Blockchain security company CertiK confirmed dozens of reported wrench attacks during 2025, up by 75% on the previous year, with robbers stealing upwards of $40 million. Crypto forensics giant Chainalysis puts this year’s figures at closer to $30 million so far, with gangs using kidnapping and home invasions to demand a person’s crypto seed phrase. With knowledge of a person’s seed phrase, the attackers can irreversibly take control of the person’s crypto on the public blockchain. Both Trezor and SafePal also warned customers to stay vigilant against phishing attacks, which rely on sending targeted messages to a person’s phone number or email address in an attempt to steal their crypto. In a separate attack on a hardware wallet earlier this month, hackers stole more than $130 million in cryptocurrency directly off the blockchain by guessing the passwords set by Coinkite’s Coldcard hardware wallet. The hackers, who have not yet been identified, were able to predict the seed phrases that Coldcard wallets would generate offline for their customers. Even though the wallets and seed phrases never touched the internet, the hackers were able to generate customer wallet passwords on the fly and pluck their funds directly off of the blockchain. One victim said in a post on X that they had done “everything right,” but that “none of it mattered… all because the hardware that created the seed phrase originally had one line in their code from 2021 that had a vulnerability.” When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Zack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security .",
+          "body_text": "Data breaches at two shipping companies has put cryptocurrency owners with physical hardware wallets at greater risk of having their funds stolen, highlighting weaknesses in the broader tech ecosystem relied on by the crypto industry. In recent weeks, makers of hardware crypto wallets Trezor and SafePal reported that collectively thousands of their customers had their personal data and shipping information stolen during separate data breaches at their shipping partners. The crypto wallet makers provided their customers’ names, home addresses, email addresses, and phone numbers to the shipping companies for mailing out their hardware wallets. The hacks did not affect the security of the wallets, a hardware device that stays offline to make it far more difficult for hackers to compromise from over the internet. Instead, the hackers targeted the broader supply chain of tech companies to obtain personal information about where high-net worth crypto holders live. By stealing the names and home addresses of hardware wallet customers, the hacks expose crypto owners to physical attacks that rely on physically obtaining the seed phrase stored on the wallet by force or violence. Known as wrench attacks (referring to the use of weapons), these kinds of real-world attacks are on the rise as criminals increasingly seek out crypto belonging to high-net-worth individuals. Blockchain security company CertiK confirmed dozens of reported wrench attacks during 2025, up by 75% on the previous year, with robbers stealing upwards of $40 million. Crypto forensics giant Chainalysis puts this year’s figures at closer to $30 million so far, with gangs using kidnapping and home invasions to demand a person’s crypto seed phrase. With knowledge of a person’s seed phrase, the attackers can irreversibly take control of the person’s crypto on the public blockchain. Both Trezor and SafePal also warned customers to stay vigilant against phishing attacks, which rely on sending targeted messages to a person’s phone number or email address in an attempt to steal their crypto. In a separate attack on a hardware wallet earlier this month, hackers stole more than $130 million in cryptocurrency directly off the blockchain by guessing the passwords set by Coinkite’s Coldcard hardware wallet. The hackers, who have not yet been identified, were able to predict the seed phrases that Coldcard wallets would generate offline for their customers. Even though the wallets and seed phrases never touched the internet, the hackers were able to generate customer wallet passwords on the fly and pluck their funds directly off of the blockchain. One victim said in a post on X that they had done “everything right,” but that “none of it mattered… all because the hardware that created the seed phrase originally had one line in their code from 2021 that had a vulnerability.” When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Zack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security .",
           "url": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/wrench-attacks-1367232137.jpg?resize=1200,801",
           "published_at": "2026-08-17T13:00:19Z",
@@ -4132,7 +4132,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till 25% på toppar, tunikor och tröjor Sommarrea – upp till 70% på heminredning",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Sommarrea – upp till 70% på heminredning Upp till 25% på toppar, tunikor och tröjor",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4247,7 +4247,7 @@
           "source_kind": "story",
           "title": "Chatta om Expressens partiledardebatt",
           "summary": "Chatta med politikreporter Max V Karlsson om Expressens partiledardebatt.",
-          "body_text": "Klockan 20 drabbar partiledarna samman i Expressens partiledardebatt. Vad tycker du om deras insatser? Har du frågor om svensk politik? Chatta här med Expressens politikreporter Max V Karlsson.",
+          "body_text": "Hehe, det är nog ingen fråga som kommer upp ikväll. Gissning från min sida! Kul att du är pepp William! Vi känner likadant här på den tillfälliga redaktionen i studion. Klockan 20 drabbar partiledarna samman i Expressens partiledardebatt. Vad tycker du om deras insatser? Har du frågor om svensk politik? Chatta här med Expressens politikreporter Max V Karlsson.",
           "url": "https://www.expressen.se/nyheter/politik/chatta-om-expressens-partiledardebatt/",
           "image_url": "https://static.bonniernews.se/images/38/61/38613647276b4fa1af4fe2a2335b1ab1/16x9/original.jpg",
           "published_at": "2026-08-17T14:30:11Z",
@@ -4358,6 +4358,30 @@
           "sort_order": 6
         },
         {
+          "id": "c746729937b7",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Nytt DNA-bevis i Brattåsfallet – spåren på handväskan",
+          "summary": "En 45-årig man misstänks för dubbelmordet i Brattås i Härnösand 2005. På rättegångens första dag lägger åklagaren fram nya bevis. Den misstänktes DNA har hittats på en handväska, enligt SVT Nyheter.",
+          "body_text": "En 45-årig man misstänks för dubbelmordet i Brattås i Härnösand 2005. På rättegångens första dag lägger åklagaren fram nya bevis. Den misstänktes DNA har hittats på en handväska, enligt SVT Nyheter . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Pensionärsparet Tor Öberg och Gerd Wiklund mördades på sin gård utanför Härnösand , 2005. Fallet har varit olöst i 21 år – men i våras åtalades en 45-årig man efter att polisen använt sig av DNA-baserad släktforskning. På måndagen inleddes rättegången i Ångermanlands tingsrätt. Bland annat berättade åklagare Hanna Flordal om fynd som gjorts 140 meter från brottplatsen, rapporterar SVT Nyheter. Det handlar om en handväska, en tygväska och en plånbok med ett saknat bankkort. Föremålen har tidigare undersökts men vid nya genomgångar har man kunnat hitta DNA från den misstänkta mannen, utöver spår från Gerd Wiklund samt en polis. Bankkortet hittades senare i en bankomat i Härnösand där någon försökt använda det men tryckt in fel kod. Mordoffren hittades inne i en ladugård. Nu berättar också åklagaren att Gerd Wiklund var vid liv när hon släpades in dit, enligt den tekniska undersökningen. Den 45-årige mannen har tidigare sagt i förhör att han var ute på en långpromenad när han gick förbi gården och hörde skrik. När han fick syn på Gerd Wiklund på marken, fick han panik och drog in henne i en lada. Han har också sagt att han såg två män som lämnade platsen, men han har valt att beskriva männen sparsamt. Han nekar till anklagelserna. Vill du ha ännu mer info? Välj en fråga nedan eller skriv en egen! Expressens AI-bot baseras endast på vår samlade journalistik, granskad av journalister. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/sverige/nytt-dna-bevis-i-brattasfallet-sparen-pa-handvaskan/",
+          "image_url": "https://static.bonniernews.se/images/c3/14/c314756756984abca3ee434edcbe539f/16x9/original.png",
+          "published_at": "2026-08-17T10:01:48Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/nytt-dna-bevis-i-brattasfallet-sparen-pa-handvaskan/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 7
+        },
+        {
           "id": "3f057dcbda70",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4379,30 +4403,6 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "c746729937b7",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sverige I dag 12.01 Nytt DNA-bevis i Brattåsfallet – spåren på handväskan",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/nytt-dna-bevis-i-brattasfallet-sparen-pa-handvaskan/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/nytt-dna-bevis-i-brattasfallet-sparen-pa-handvaskan/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
           "sort_order": 8
         },
         {
@@ -4413,12 +4413,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Politik I dag 10.28 MP:s regeringskrav: Stödpaket för Östersjön",
-          "summary": "",
-          "body_text": "",
+          "title": "MP:s regeringskrav: Stödpaket för Östersjön | Expressen",
+          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
+          "body_text": "Ett av Miljöpartiets viktigaste vallöften är ett paket på 3,3 miljarder kronor för att ge Östersjön en chans att återhämta sig. Dessutom ska industrifisket portas. – Östersjön är en multisjuk patient, säger EU-parlamentariker Isabella Lövin på en pressträff. Några av problemen är övergödning, döda bottnar, miljögifter och rekordlåga nivåer på fiskebestånden. Ett MP-förslag är att porta industrifisket från den svenska fiskekvoten. I dag går 90 procent av kvoten till djurfoder, i stället för att bli fisk på tallriken. Andra förslag är att satsa 1 miljard på åtgärder mot övergödning och 1 miljard för att bland annat minska jordbrukets läckage till Östersjön. Ytterligare 1,3 miljarder vill MP satsa på investeringar i VA-system och insatser mot PFAS. Bara en månad kvar till valet och partiernas kampanjande har ökat rejält. Just nu är S-topparna Lena Hallengren, vårdfrågor, och Mikael Damberg, ekonomisk politik, ute på valturné bland annat i SD-ledaren Jimmie Åkessons Sölvesborg. Där kom de med ett skarp vallöfte ur det kommande valmanifestet – att göra medicinerna billigare för alla som behöver dem. Det kan handla om liv eller död att ha råd att hämta ut sina mediciner, menar S-topparna. – Medicin är kanske livsnödvändigt. För den som inte har råd att hämta ut blodtrycksmedicinen, hjärtmedicinen eller insulinet, det är lätt att föreställa sig vilken katastrof det är. Det är ingenting som vi hotar med, utan det är den verklighet vi möter, säger Hallengren, och hänvisar till samtal med bland andra äldreorganisationer. Mikael Damberg kritiserar regeringen och SD för att ha förändrat högkostnadsskyddet, vilket gjort medicinerna dyrare. Han säger att S vid en valseger snarast vill kartlägga vilka som drabbats hårdast av förändringarna, och därefter ta fram en ny modell som gör medicinerna billigare för alla som behöver dem. – Det kan vara kroniker, unga som behöver sina mediciner, fattiga äldre, säger han. Hallengren och Damberg anser att regeringen och SD prioriterat skattesänkningar till rika före mediciner till sjuka. – Bara Liberalernas skattesänkningsförslag skulle ge Ulf Kristersson 15 000 kronor mer varje månad, säger Mikael Damberg. Vid besöket i Sölvesborg möttes S-företrädarna av ledsna lokala S-företrädare, då de valaffischer som sattes upp i går på måndagsmorgonen hade rivits ner eller helt tagits bort. Det är ännu oklart vilka som ligger bakom, men S-topparna beskriver agerandet som ”osvenskt” och ett sätt att hindra partier från att upplysa väljarna om sina politiska förslag. Liberalerna vill inrätta en svensk modell av Storbritanniens ”Forced marriage unit” som ska motverka tvångsäktenskap. Partiet kallar det ”en insatsstyrka för bortförda barn”.",
           "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=4cefabed-6ed7-45e8-9f10-ec7b3cd2abb3",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
+          "published_at": "2026-01-09T11:58:16Z",
           "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=4cefabed-6ed7-45e8-9f10-ec7b3cd2abb3",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4426,7 +4426,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4442,11 +4442,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "USA:s högsta domstol avvisar åter president Donald Trumps krav på att slippa betala motsvarande 54 miljoner kronor i skadestånd till författaren Elizabeth Jean Carroll, pengar han har betalat ut. Trump dömdes tidigare i år att betala skadeståndet i ett civilmål gällande förtal och sexuella övergrepp mot författaren på 1990-talet. Han har överklagat förtalsdomen men på måndagen avslog Högsta domstolen åter hans begäran. Trump dömdes i ett separat mål 2024 att betala ut runt 83 miljoner dollar i skadestånd till Carroll. Han har kraftfullt förnekat alla anklagelser om sexuella övergrepp och förtal och har överklagat flera gånger. Ett barn under fem år har fallit \"från en höjd\" i anslutning till en bostad i Enköpings kommun, skriver polisen på sin hemsida. Barnet var vaket och talbart men har förts till sjukhus. Polisen har upprättat en anmälan om vållande till kroppsskada för att utreda händelsen. Ingen person är misstänkt för brott i nuläget. Rälsen har spruckit i närheten av Västra Bodarna utanför Alingsås. Därför är det stopp i tågtrafiken mellan Stockholm och Göteborg, skriver Sveriges radio. Tågtrafiken kommer att återupptas tidigast 20 på måndagskvällen, skriver Västtrafik på sin hemsida. En bilist och en cyklist har kolliderat i Örebro. Enligt polisen ska cyklisten \"vara vid medvetande\". Tågtrafiken står stilla mellan Sundsvall och Umeå sedan en bit av banvallen spolats bort vid Kramfors, rapporterar lokala medier. Skyfallsliknande regn har orsakat översvämning på platsen, vilket slutligen lett till att banvallen spolats bort, rapporterar Västerbottens-Kuriren . SJ har beställt ersättningsbussar, enligt tidningen. Trafikverket uppger att personal arbetar på platsen. En första prognos för när trafiken kan återupptas är satt till 23.59 på måndagen. En kvinna i 25-årsåldern, på en elsparkcykel, har blivit påkörd av en bil i Eskilstuna, skriver polisen. Hon har förts till sjukhus med ambulans.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
