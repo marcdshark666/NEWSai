@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:06:26Z",
+  "generated_at": "2026-08-18T08:55:40Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Ny rapport • ”Sämre förutsättningar för koncentration” Nya rådet för unga: Så lite energidryck bör man dricka Sonen fick svårt att andas av energidryck – kräver åldersgräns Borgmästaren: Minst 180 har skjutits ned Här överraskar ukrainske soldaten sin dotter på födelsedagen Alisa, 26, våldtogs av ryska soldater: ”Kände djurisk rädsla” Nytt pris • Lotta Engberg: ”Pirrar i magen”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Unga svenskar dissar traditionen • ”Etiskt problematisk” Borgmästaren: Minst 180 har skjutits ned Här överraskar ukrainske soldaten sin dotter på födelsedagen Alisa, 26, våldtogs av ryska soldater: ”Kände djurisk rädsla” Har en dotter ihop • ”Hon lämnade världen för tidigt”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -339,30 +339,6 @@
           "sort_order": 0
         },
         {
-          "id": "8744eefd7e2c",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 09:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/8PBarPa/rapport/idag-09-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54736904/1787039091?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-18T09:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/8PBarPa/rapport/idag-09-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
           "id": "f5330eff79d4",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -384,7 +360,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 1
         },
         {
           "id": "64a08c77e679",
@@ -408,7 +384,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 2
         },
         {
           "id": "eaa8714c9977",
@@ -425,6 +401,30 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54735158/1787034136?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-18T08:00:00Z",
           "embed_url": "https://www.svtplay.se/video/85dd3Vo/rapport/idag-08-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "8744eefd7e2c",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/8PBarPa/rapport/idag-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54736904/1787039091?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-18T07:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/8PBarPa/rapport/idag-09-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -668,30 +668,6 @@
           "sort_order": 1
         },
         {
-          "id": "eb8b3c8aa2df",
-          "source_id": "svt-aktuellt",
-          "source_name": "Aktuellt",
-          "provider": "SVT Play",
-          "category": "Fordjupning",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Aktuellt – Igår 21:00",
-          "summary": "VAL 2026: Höstens första partiledardebatt igång • Ukrainakriget: Ukrainska attacker intensifieras • Debatt om glesbygden: Kullgren (KD) möter Helldén (MP)",
-          "body_text": "VAL 2026: Höstens första partiledardebatt igång • Ukrainakriget: Ukrainska attacker intensifieras • Debatt om glesbygden: Kullgren (KD) möter Helldén (MP) Mer om programmet Arboga: Storbrand i radhusområde Över 20 bostäder drabbade • Integration: Ny rapport om migranters värderingar • Mellanöstern: Israel går till val i höst Beskrivs som ödesval Mer om programmet En månad till valet: Tidöförslagen vann • Kristersson och Andersson: Vem får bilda regering? • Nigel Farage: Omval mot soptunna • Vattenbrist och kärnkraft: Hur påverkar varmare klimat? Mer om programmet Publicerades: Ons 12 aug 21:00 Ons 12 aug • 38 min En månad till valet. Vem vinner och vem förlorar på Socialdemokraternas och Sverigedemokraternas ekonomiska politik? Debatt i Aktuellt mellan Mikael Damberg (S) och Oscar Sjöstedt (SD) Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet",
-          "url": "https://www.svtplay.se/video/8EqqDRG/aktuellt/igar-21-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54732647/1786992963?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-17T21:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8EqqDRG/aktuellt/igar-21-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Fordjupning",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
           "id": "9c374962f23f",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
@@ -713,7 +689,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 2
         },
         {
           "id": "65e88476245b",
@@ -737,7 +713,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 3
         },
         {
           "id": "408f3bb98b4a",
@@ -754,6 +730,30 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54687797/1786478252?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-17T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jMyyJmg/aktuellt/tis-11-aug-21-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Fordjupning",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "eb8b3c8aa2df",
+          "source_id": "svt-aktuellt",
+          "source_name": "Aktuellt",
+          "provider": "SVT Play",
+          "category": "Fordjupning",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Aktuellt – Igår 21:00",
+          "summary": "VAL 2026: Höstens första partiledardebatt igång • Ukrainakriget: Ukrainska attacker intensifieras • Debatt om glesbygden: Kullgren (KD) möter Helldén (MP)",
+          "body_text": "VAL 2026: Höstens första partiledardebatt igång • Ukrainakriget: Ukrainska attacker intensifieras • Debatt om glesbygden: Kullgren (KD) möter Helldén (MP) Mer om programmet Arboga: Storbrand i radhusområde Över 20 bostäder drabbade • Integration: Ny rapport om migranters värderingar • Mellanöstern: Israel går till val i höst Beskrivs som ödesval Mer om programmet En månad till valet: Tidöförslagen vann • Kristersson och Andersson: Vem får bilda regering? • Nigel Farage: Omval mot soptunna • Vattenbrist och kärnkraft: Hur påverkar varmare klimat? Mer om programmet Publicerades: Ons 12 aug 21:00 Ons 12 aug • 38 min En månad till valet. Vem vinner och vem förlorar på Socialdemokraternas och Sverigedemokraternas ekonomiska politik? Debatt i Aktuellt mellan Mikael Damberg (S) och Oscar Sjöstedt (SD) Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet",
+          "url": "https://www.svtplay.se/video/8EqqDRG/aktuellt/igar-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54732647/1786992963?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-17T19:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/8EqqDRG/aktuellt/igar-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -934,7 +934,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Igår 21:46",
           "summary": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jBwwQJG/sportnytt/igar-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54733145/1786998151?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-17T19:46:00Z",
@@ -957,10 +957,10 @@
           "surface": "video",
           "source_kind": "video",
           "title": "Sportnytt – Lör 15 aug 19:45",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "summary": "98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala.",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/ep55Q35/sportnytt/lor-15-aug-19-45",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54720410/1786817771?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54737363/1787041230?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-15T17:45:00Z",
           "embed_url": "https://www.svtplay.se/video/ep55Q35/sportnytt/lor-15-aug-19-45",
           "play_mode": "page_iframe",
@@ -982,7 +982,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 14 aug 21:30",
           "summary": "Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/86ddDbX/sportnytt/fre-14-aug-21-30",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54717290/1786741257?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-14T19:30:00Z",
@@ -1006,7 +1006,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 13 aug 21:46",
           "summary": "Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jN33pPM/sportnytt/tor-13-aug-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54707825/1786657658?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-13T19:46:00Z",
@@ -1030,7 +1030,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 12 aug 21:46",
           "summary": "Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jxggzw9/sportnytt/ons-12-aug-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54696488/1786565325?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-12T19:46:00Z",
@@ -1054,7 +1054,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 11 aug 21:46",
           "summary": "Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jVwwGE4/sportnytt/tis-11-aug-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54688025/1786481358?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-11T19:46:00Z",
@@ -1078,7 +1078,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 10 aug 21:46",
           "summary": "Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/egWWG5Y/sportnytt/man-10-aug-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54679175/1786392592?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-10T19:46:00Z",
@@ -1102,7 +1102,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 8 aug 19:45",
           "summary": "AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/8y22ZVk/sportnytt/lor-8-aug-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54668822/1786263874?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-08T17:45:00Z",
@@ -1126,7 +1126,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 7 aug 21:25",
           "summary": "Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/eakkGY6/sportnytt/fre-7-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54666959/1786130931?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-07T19:25:00Z",
@@ -1150,7 +1150,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 6 aug 21:25",
           "summary": "Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar",
-          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Häcken vann efter drömträff • Landslaget i volleyboll laddar för hemma-EM • Återupplev Sveriges alla medaljer i friidrotts-EM Mer om programmet 98:e mästerskapsmedaljen för Sjöström • Helsvensk semifinal i beachvolley-EM • Fortsatta problem för Uppsala. Mer om programmet Sarah Sjöström fortsätter imponera • Elias Ranefur vidare i Malmö • Båda svenskparen till kvartsfinal i EM i beachvolleyboll Mer om programmet Svensken skrällde i Europe Smash • Hammarby utslaget ur Europakvalet • Beachstjärnorna vidare i EM Mer om programmet Sjöström tog EM-guld i återkomsten • Blågul OS-biljett i dressyr säkrad – efter Kittels drama • Svenskt rekord i friidrotts-EM Mer om programmet Chockförlust för Truls Möregårdh i Malmö • Sarah Sjöström snabbast av alla i EM-semifinalen • Oväntad diskusdramatik för Daniel Ståhl Mer om programmet Blågult finalfiasko i friidrotts-EM • Sirius tappade ledningen – utan skyttekungen • Åstedt krossade sitt personliga rekord Mer om programmet AIK fick revansch mot Öis • Dubbelt svenskt på pallen i Tjeckien • Johanna Rytting Kaneryd korsbandsskadad Mer om programmet Svenska beachvolleyduon till kvartsfinal • AIK vann Stockholmsderbyt • Norge ber Infantino att avgå som Fifa-ordförande Mer om programmet Göteborg föll i Conference League-kvalet • Viktor Svensk med karriärens första världscupseger • Pelle Larsson med basketläget för svenska ungdomar Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/e3ddzbd/sportnytt/tor-6-aug-21-25",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54658547/1786045989?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-06T19:25:00Z",
@@ -1241,7 +1241,7 @@
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
           "body_text": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/jN33oXA/morgonstudion/igar-06-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/53655334/1768482968?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54737483/1787042986?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-17T04:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jN33oXA/morgonstudion/igar-06-00",
           "play_mode": "page_iframe",
@@ -1415,30 +1415,6 @@
           "sort_order": 0
         },
         {
-          "id": "1dbab8ae3f65",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Idag 09:41",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "url": "https://www.svtplay.se/video/jqPkvN5/kulturnyheterna/idag-09-41?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54737273/1787040261?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-18T09:41:00Z",
-          "embed_url": "https://www.svtplay.se/video/jqPkvN5/kulturnyheterna/idag-09-41?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
           "id": "2470c33f1907",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
@@ -1453,6 +1429,30 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54736013/1787036526?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-18T08:41:00Z",
           "embed_url": "https://www.svtplay.se/video/8vvgozZ/kulturnyheterna/idag-08-41?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "1dbab8ae3f65",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Idag 09:41",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/jqPkvN5/kulturnyheterna/idag-09-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54737273/1787040261?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-18T07:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/jqPkvN5/kulturnyheterna/idag-09-41?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -2046,20 +2046,20 @@
           "sort_order": 13
         },
         {
-          "id": "c1b443ade860",
+          "id": "95b163b57b57",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Jesse Watters Primetime - Monday, August 17 | Fox News Video",
-          "summary": "Zohran Mamdani, Eric Swalwell, Hayden Panettiere, Communism, Trump",
-          "body_text": "Zohran Mamdani, Eric Swalwell, Hayden Panettiere, Communism, Trump Jesse Watters speaks with newsmakers from across the country.",
-          "url": "https://www.foxnews.com/video/6403621064112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/209735a3-291f-42df-9487-4cec5e6a0154/6a2663a4-9993-4aaa-90eb-e8a9f706134c/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-18T02:34:30Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403621064112",
+          "title": "Fox News at Night - Monday, August 17 | Fox News Video",
+          "summary": "Kevin Corke, Tupac Murder Trial Begins, Primary Poles Open, Iran, Ceasefire Period Now Over, NYC Synagogue Disruption, Socialist Revolution Across Country",
+          "body_text": "Kevin Corke, Tupac Murder Trial Begins, Primary Poles Open, Iran, Ceasefire Period Now Over, NYC Synagogue Disruption, Socialist Revolution Across Country Hard news and analysis of compelling stories.",
+          "url": "https://www.foxnews.com/video/6403632853112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/b0425f4a-2953-461d-8156-6a21eeaa021b/63580d65-e9d9-4fb7-b6f7-62fbcc6cd1d4/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-18T08:11:26Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403632853112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2071,20 +2071,20 @@
           "sort_order": 14
         },
         {
-          "id": "0231375e4529",
+          "id": "a4563fc3a032",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "The Story with Martha MacCallum - Monday, August 17 | Fox News Video",
-          "summary": "Iran Negotiations, Tupac Trial, Hayden Panettiere",
-          "body_text": "Iran Negotiations, Tupac Trial, Hayden Panettiere Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
-          "url": "https://www.foxnews.com/video/6403619714112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/e260bcee-56be-4ab2-a4ad-034a94da016a/0f3b75f6-6182-431d-9a20-f4ae94ccb734/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-18T01:30:20Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403619714112",
+          "title": "Hannity - Monday, August 17 | Fox News Video",
+          "summary": "FNC",
+          "body_text": "FNC",
+          "url": "https://www.foxnews.com/video/6403633524112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/88512807-041b-462a-827d-d5974821c92e/9b5ee795-88ba-4492-8463-e0ae88c0111e/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-18T08:11:02Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403633524112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,54 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "b3c93bdf9a57",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Hayden Panettiere: Ex Wladimir Klitschko says family is in 'profound shock and grief'",
+          "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+          "body_text": "Hayden Panettiere's ex-partner Wladimir Klitschko has posted an emotional tribute to the \"talented\" late Heroes and Nashville star, who he said has \"left this world too soon\". The former world heavyweight boxing champion, who shares an 11-year-old daughter with Panettiere, said the family is going through \"profound shock and grief\" following her death at the age of 36. Panettiere died in Greenville, South Carolina, on Sunday and police said there were not \"any signs of foul play or suspicious circumstances\". She had struggled for years with substance abuse and audio from police dispatchers and crews said they were responding to a \"cardiac arrest\" and detailed their efforts to resuscitate the woman after a possible \"overdose\". The Greenville County Coroner's Office said crews treated a woman in \"cardiac arrest\" and her autopsy showed \"no signs of trauma\", but that the cause of death has not been confirmed. Klitschko posted that the announcement of Panettiere's \"tragic death saddens me deeply\". \"She left this world far too soon. Hayden was, although no longer my partner, an important part of my life and the mother of our daughter, Kaya. \"She built an incredible career through immense talent, while also facing the darker sides of a very demanding industry. Nothing will erase the times we shared or the place she had in our lives.\" The pair, who met in around 2009, announced their engagement in 2013 and had their daughter together the following year. They never married. \"To our daughter Kaya, I will always speak of her mother with respect and make sure she remembers the person she was,\" he continued. \"I extend my deepest condolences to Hayden's parents, her friends, and her fans, who are also grieving today. Young and talented people like Hayden should not leave this world so soon. \"Thank you to everyone who is supporting my family and expressing their sincere condolences.",
+          "url": "https://www.bbc.com/news/articles/c5ywe951z80o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a08e/live/b953e5a0-9ad9-11f1-b2f7-5d1639b20e22.jpg",
+          "published_at": "2026-08-18T08:29:20Z",
+          "embed_url": "https://www.bbc.com/news/articles/c5ywe951z80o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "d277a8129608",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Jharkhand protests: Devendra Nath Mahto ends hunger strike after 16 days",
+          "summary": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+          "body_text": "An activist in India's eastern Jharkhand state has ended a 16-day hunger strike after the government agreed to protesters' demands to cancel a controversial recruitment exam. However, the protesters say they will not call off demonstrations until India's premier investigative agency begins probing alleged malpractices in other recruitment exams. Devendra Nath Mahto ended his fast in the presence of state ministers at a hospital in capital Ranchi, where he was admitted last week after his health deteriorated. He was one of the faces of the protests, which began on 25 July after job-seekers and students alleged irregularities in government recruitment exams and demanded reforms. Government jobs are highly sought after in India as they offer stability and security. Millions of people write these exams every year across states and nationally, often attending coaching classes, until they reach the mandated age limit. But several exams have landed in controversies due to allegations of question papers being leaked and candidates using unfair means. Even for many who qualify, the uncertainty doesn't end as the recruitment process can drag on for years. In Jharkhand, the protests began after last month's preliminary civil service exam results, with some candidates alleging that answer sheets shared online showed successful applicants had answered fewer questions than expected, fuelling suspicions of manipulation. It came on the heels of a larger protest in Indian capital Delhi, which culminated in the resignation of the federal education minister , and hence put more pressure on Chief Minister Hemant Soren's government. The state government agreed to cancel the preliminary exam days ago and announced an investigation by the state's Criminal Investigation Department (CID), which has arrested several people including the chief of the Jharkhand Public Service Commission. But protesters had held out for the cancellation of the Jharkhand Staff Selection Commission-Combined Graduate Level (JSSC-CGL) examination and also demanded an investigation by the Central Bureau of Investigation (CBI). On Monday night, Soren announced that this exam would also be scrapped. The chief minister told reporters that \"many shocking facts are emerging\" as part of the CID's investigation into the exam irregularities but did not give more details, saying that \"the matter is under investigation\".",
+          "url": "https://www.bbc.com/news/articles/cly8m31nvmgo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d52e/live/d70ab000-9ac6-11f1-a74b-2f66a3b83590.jpg",
+          "published_at": "2026-08-18T07:27:32Z",
+          "embed_url": "https://www.bbc.com/news/articles/cly8m31nvmgo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "296d2b110c3d",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2182,31 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 2
+        },
+        {
+          "id": "aa60bfcbd3c1",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Zambia elections: Hakainde Hichilema re-elected president with 60% of the vote",
+          "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+          "body_text": "Zambia's President Hakainde Hichilema has been re-elected for a second five-year term after securing a 60% share of the vote, the electoral commission has announced. Hichilema's win was widely expected, with his closest challenger Brian Mundubile getting 38% of the votes cast. The remaining 12 candidates trailed far behind. The result came after a contested process, with 55-year-old Mundubile earlier claiming victory and alleging, without providing evidence, that there had been voting irregularities. It also followed the arrest of some leading opposition figures in a raid on Friday who the authorities accused of plotting an insurrection. Mundubile called the claim a fabrication. In statement after being declared the winner, Hichilema, 64, said: \"We are truly humbled by the trust you have placed in our hands.\" He said the election showed that Zambia was a place of peace, law and order and a \"democratic nation that settles our differences at the ballot box, and nowhere else\". \"To those citizens who preferred the ideas presented by our opponents, we hear you, and we will continue to work for you,\" he added. Hundreds of Hichilema's supporters, dressed in the red colours of his United Party for National Development (UPND) flooded the streets of the capital, Lusaka, to celebrate after the results declaration. Zambia has a record of peaceful transfers of power. Since the return to multiparty democracy in 1991, presidential transitions have occurred through the ballot box. It is unclear if the opposition will challenge the election result. Mundubile had earlier alleged there had been discrepancies between polling-station results and those officially announced and claimed military involvement at tallying centres. On Monday, Mundubile described Friday's raid by armed personnel at his home in Lusaka saying they had knocked down the gate with an armoured vehicle, broke doors and windows and opened fire.",
+          "url": "https://www.bbc.com/news/articles/c5y6j4jl03xo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1a5c/live/58189080-9ae1-11f1-b2f7-5d1639b20e22.jpg",
+          "published_at": "2026-08-18T05:43:21Z",
+          "embed_url": "https://www.bbc.com/news/articles/c5y6j4jl03xo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "72a187667d70",
@@ -2158,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "ad5492506ce0",
@@ -2175,14 +2247,14 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3113/live/6ce86220-9815-11f1-a7ea-19f04b81e9a0.png",
           "published_at": "2026-08-18T05:02:58Z",
           "embed_url": "https://www.bbc.com/news/articles/cpq809zrvqdo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "f5a6147719e9",
@@ -2206,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "465252dae181",
@@ -2230,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "ea3101c861f9",
@@ -2254,7 +2326,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "729b81dbc977",
@@ -2278,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "d6fb4413fc6c",
@@ -2302,7 +2374,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 10
         },
         {
           "id": "6b31dc366eb3",
@@ -2326,7 +2398,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 11
         },
         {
           "id": "a16f28871364",
@@ -2340,7 +2412,7 @@
           "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
           "body_text": "A year after her blockbuster trial, Australia's notorious mushroom murderer is facing court again, in a bid to overturn her conviction. Erin Patterson was jailed for life last September for murdering three relatives and trying to kill another with a toxic mushroom meal she served at her home in Leongatha, Victoria, in 2023. But the 51-year-old says she did not receive a fair trial, citing problems with evidence, the actions of the prosecution, and an unusual mishap with the jury while they deliberated on their verdicts. At the same time that Erin Patterson's case is heard, prosecutors will also be appealing her sentence. The judge said Patterson could apply for parole after 33 years, but the prosecution says that's \"manifestly inadequate\" and the triple murderer should never be freed. Patterson killed her in-laws Don and Gail Patterson, both 70, and Gail's sister Heather Wilkinson, 66, after serving them individual portions of beef Wellington containing death cap mushrooms at her home in rural Victoria in 2023. Heather's husband, Ian Wilkinson, a local pastor, survived the lunch after weeks in hospital and still has ongoing health issues related to the poisoning. Patterson's estranged husband, Simon Patterson, was meant to attend the lunch but cancelled at the last minute, in part due to his belief that his wife had repeatedly tried to poison him over several years. After the trial, it was revealed that he had become so violently ill after eating several of her meals in the past that he had been in a coma, a large part of his bowel had been surgically removed, and his family were told to say goodbye to him twice as he was not expected to survive his ailments. Erin Patterson maintained throughout the trial that she never meant to kill her relatives - that it was all a terrible accident, and her lies and attempts to dispose of evidence in the aftermath of the lunch were because she was panicking she would be blamed for the deaths. Patterson won't be attending the appeal in person. She's chosen to appear via video link from Dame Phyllis Frost Centre, the maximum security prison on the outskirts of Melbourne where she's serving her sentence. Last November, her legal team filed a three-page document outlining the arguments they plan to make in an effort to overturn her conviction. There are seven grounds for this appeal, which will be heard by three judges.",
           "url": "https://www.bbc.com/news/articles/cj9dx03jrgjo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0306/live/58d0af30-9adc-11f1-b792-a710e56a11dc.jpg",
           "published_at": "2026-08-17T18:03:23Z",
           "embed_url": "https://www.bbc.com/news/articles/cj9dx03jrgjo",
           "play_mode": "iframe",
@@ -2350,55 +2422,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "f454e3b56202",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Europe wildfires: Lecornu heckled over French emergency response",
-          "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-          "body_text": "French Prime Minister Sébastien Lecornu has been heckled on a visit to the area of the country worst hit by wildfires, as blazes continue to cause further deaths and evacuations across Europe. About 200 people gathered at the town hall in Le Porge, south-western France, on Monday, where 183 homes burned down. The organiser of a group of affected residents accused the prime minister of not wanting to meet them, while Lecornu's office it has \"nothing to hide\" about how fire operations have been conducted, AFP reports. The prime minister announced €12m (£10.3m) of aid for the Gironde and Landes regions, while the EU deployed assistance to Belgium and Spain. Lecornu said the aid, of which €10m (£8.5m) will go to Gironde and €2m (£1.7m) to Landes, will allow local authorities to \"launch projects without delay\" and build \"a sort of recovery plan\". He also announced building permits for the \"equivalent reconstruction\" of homes destroyed by the fires would be issued within a month, or even quicker. Ludivine Daurignac, the organiser of the residents' group, told the news agency the residents plan to file complaints to get \"truth, transparency, and justice\" and claimed they were blocked from meeting with the prime minister. She said: \"We were met by lines of riot police blocking our access.\" Another local told France's BFM outlet: \"We would like to know why the fire was managed this way. Why all the firefighters who were on site left to defend the tip of Ferret, while only the volunteer firefighters remained.\" Tens of thousands of people were evacuated from the Cap Ferret peninsula tourist spot west of Bordeaux last month as wildfires were spreading across Gironde. Firefighters throughout the rest of Europe have been facing a series of blazes over the weekend, including officers in Belgium spending a fourth day beating back flames in the country's largest nature reserve Hautes Fagnes. Belgian authorities said on Monday the fire had continued to spread during the night but remained limited due to \"more favourable winds and rainfall\". The statement added that two police helicopters and several air support resources from the Netherlands, Germany, Norway and Sweden were expected to assist teams on the ground.",
-          "url": "https://www.bbc.com/news/articles/cx2rzx5g5yro",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
-          "published_at": "2026-08-17T18:00:55Z",
-          "embed_url": "https://www.bbc.com/news/articles/cx2rzx5g5yro",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "767cedd9948a",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Russia's prominent anti-war politician jailed for 11 years",
-          "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-          "body_text": "Russia's prominent anti-war politician Lev Shlosberg has been sentenced to 11 years and one month in a penal colony for \"discrediting\" the country's armed forces and \"spreading false information\" about them. Shlosberg, 63, condemned the verdict by a court in the city of Pskov, saying its only task was to \"punish a person for his political, public and civil position\". His liberal political party Yabloko, which he is deputy head of, said it would appeal. The ruling came just minutes before Russia's Supreme Court rejected Yabloko's appeal against a ban on it taking part in September's parliamentary elections. Yabloko was the only registered party to oppose Russia's full-scale invasion of Ukraine launched in 2022. Since the start of the invasion, any remaining opposition in Russia to President Vladimir Putin - who has been in power for nearly 27 years - has been crushed. Public shows of dissent have been suppressed by wartime censorship laws and can trigger hefty fines or long prison sentences. The court in Pskov, north-western Russia, delivered its verdict on Monday. It found Shlosberg guilty of \"public actions aimed at discrediting the use of the armed forces of the Russian Federation\". The prosecution had demanded 12 years and one month in jail. The criminal charges were brought following Shlosberg's comments published on social media. In his closing speech, Shlosberg again rejected all the charges, describing the trial as \"an imitation of an investigation\" in order to \"achieve an obviously illegal goal\", according to a transcript published by the Novaya Gazeta newspaper. The opposition politician also repeated his call for a ceasefire in the Russia-Ukraine war and the start of a \"political dialogue\".",
-          "url": "https://www.bbc.com/news/articles/cj4kjnle2neo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6484/live/398ad2e0-9a4b-11f1-aed2-8d6da8d75094.jpg",
-          "published_at": "2026-08-17T16:17:34Z",
-          "embed_url": "https://www.bbc.com/news/articles/cj4kjnle2neo",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
-          "sort_order": 11
+          "sort_order": 12
         },
         {
           "id": "52d3686ef818",
@@ -2417,30 +2441,6 @@
           "embed_url": "https://www.bbc.com/news/articles/cy5dzk0ryzdo",
           "play_mode": "page_iframe",
           "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 12
-        },
-        {
-          "id": "8a970d47cf57",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Hayden Panettiere: Tributes to actress as coroner finds 'no signs of trauma'",
-          "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-          "body_text": "Tributes have been paid to actress Hayden Panettiere, star of US TV shows Heroes and Nashville, following her death at the age of 36. Oscar winner Viola Davis described Panettiere as an \"amazing talent\", while One Tree Hill star Bethany Joy-Lenz noted how as a young star she had acted \"like no child I'd ever seen on camera\". Panettiere died on Sunday in Greenville, South Carolina, and police said there were not \"any signs of foul play or suspicious circumstances\". The star had struggled for years with substance abuse but no cause of death has been released. The Greenville County Coroner's Office said crews treated a woman in \"cardiac arrest\" and her autopsy showed \"no signs of trauma\". Audio from police dispatchers and crews who responded to the address said they were responding to a \"cardiac arrest\" and detailed their efforts to resuscitate the woman after a possible \"overdose\". Greenville Police Department said officers were deployed to a report of an unresponsive female at 13:51 local time (18:51 BST) on Sunday. \"Upon arrival, medical assistance was administered; however, the individual, later identified as Hayden Panettiere, was pronounced deceased at the scene.\" They added: \"The preliminary investigation has not indicated any signs of foul play or suspicious circumstances. An acquaintance of Ms. Panettiere placed the 911 call.\" In a separate statement, the coroner said \"advanced cardiac life support measures\" were initiated, \"however, resuscitation efforts were unsuccessful, and the individual was pronounced deceased at 2:32 PM\". Panettiere's death was announced by her father Skip, who said: \"It is with profound sadness that we share the tragic passing of our beloved Hayden. \"She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her and to the millions who watched her onscreen.\" The actress played a cheerleader with superpowers in Heroes and an up-and-coming country singer in Nashville. Earlier as a child star, she had other memorable roles including in the films Remember the Titans, Raising Helen and a starring role in the third installment of the Bring It On franchise.",
-          "url": "https://www.bbc.com/news/articles/cq5665zgg1po",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2a13/live/14ea8240-9a6a-11f1-b792-a710e56a11dc.jpg",
-          "published_at": "2026-08-17T04:03:52Z",
-          "embed_url": "https://www.bbc.com/news/articles/cq5665zgg1po",
-          "play_mode": "iframe",
-          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -4102,7 +4102,7 @@
           "summary": "Om Aftonbladet – kontakt och redaktionell policy",
           "body_text": "Tjänstgörande redaktörer: Rebecka Rakell , My Almér och Amanda Niklasson . Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt , Magnus Herbertsson Redaktionschef: Karin Schmidt , Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet Hierta Aktiebolag ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius (verkliga huvudmän, enligt definitionen i artikel 3.6 i direktiv (EU) 2015/849, är styrelseledamöterna i Stiftelsen, vid var tid redovisade här: https://www.tinius.com/en/the-board ) och till 9 procent av Landsorganisationen i Sverige, LO. LO har vetorätt när det gäller att tillsätta Aftonbladets politiska chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/LOlQ4/om-aftonbladet",
-          "image_url": "https://akamai.vgc.no/v2/images/11bc7a56-7cf1-4ae6-9bd3-f357872611de?format=auto&w=1080&s=74ebb6688bc5533512791042f595324a282a8268",
+          "image_url": "https://akamai.vgc.no/v2/images/11bc7a56-7cf1-4ae6-9bd3-f357872611de?fit=crop&h=675&upscale=true&w=1200&s=344ab4ad89686c61ce5a66acae91e9391538ec39",
           "published_at": "2020-09-02T08:55:45Z",
           "embed_url": "https://www.aftonbladet.se/a/LOlQ4/om-aftonbladet",
           "play_mode": "page_iframe",
@@ -4125,7 +4125,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Sommarrea – upp till 70% på heminredning Upp till 25% på toppar, tunikor och tröjor",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till 25% på toppar, tunikor och tröjor Sommarrea – upp till 70% på heminredning",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4150,7 +4150,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Nya Muminkollektionen \"Rebel club\" har släppts – beställ muggarna med 25% rabatt här!",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4183,6 +4183,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "b649966cc89e",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Vill se moderna mentalsjukhus",
+          "summary": "SD vill se en ny vårdform för svårt psykiskt sjuka. – Ett slags modern version av gamla tiders mentalsjukhus, säger partiledaren Jimmie Åkesson.",
+          "body_text": "SD vill se en ny vårdform för svårt psykiskt sjuka. – Ett slags modern version av gamla tiders mentalsjukhus, säger partiledaren Jimmie Åkesson. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Jimmie Åkesson presenterar under tisdagen ett nytt vallöfte för Sverigedemokraterna. Nästa mandatperiod vill partiet utreda och påbörja en reform om att inrätta statliga psykiatrihem. – Ett slags modern version av gamla tiders mentalsjukhus, säger Jimmie Åkesson. – Vi behöver stärka skyddsnätet ytterligare för de som har ett uttalat psykiatriskt kravbehov och svår psykisk sjukdom. Jimmie Åkesson säger att svårt sjuka människor faller mellan stolarna, mellan region och kommun, och att statliga psykiatrihem är en viktig pusselbit. Gruppledare Linda Lindberg säger att de inte vill tillbaka till dåtidens mentalsjukhus, utan att detta ska vara modernare hem med fokus på ett bättre liv. Det är oklart exakt hur mycket en sådan reform skulle kosta. – Det kommer på sikt kosta mycket pengar, man kan väl tänka sig att börja med en utredning, säger Jimmie Åkesson. – Vi är medvetna om att det är en stor reform, men den är viktig. Hur många hem partiet vill se är ännu oklart.",
+          "url": "https://www.expressen.se/nyheter/politik/sd-vill-se-moderna-mentalsjukhus-6hhyy/",
+          "image_url": "https://static.bonniernews.se/images/61/ee/61ee1ef02adc4c4c8090c89c180781da/16x9/original.jpg",
+          "published_at": "2026-08-18T08:30:14Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/sd-vill-se-moderna-mentalsjukhus-6hhyy/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "acdde78bd6c9",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4204,7 +4228,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "ed2d9d8f4569",
@@ -4228,7 +4252,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e854f237c218",
@@ -4252,7 +4276,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "d7542cf40e66",
@@ -4276,7 +4300,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "f9161a403c3e",
@@ -4300,7 +4324,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "f5930395b48e",
@@ -4324,7 +4348,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "8d30c9384cb2",
@@ -4348,47 +4372,23 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "c0e93b51187b",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Experterna överens: Det handlar valet om",
-          "summary": "Två saker står klart efter Expressens partiledardebatt, enligt experterna: Andersson (S) och Kristersson (M) har samma strategi – och den stora valfrågan har blivit tydlig. – Det är old school, säger statsvetaren Jenny Madestam.",
-          "body_text": "Två saker står klart efter Expressens partiledardebatt, enligt experterna: Andersson (S) och Kristersson (M) har samma strategi – och den stora valfrågan har blivit tydlig. – Det är old school, säger statsvetaren Jenny Madestam. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Första timmen av Expressens partiledardebatt avhandlade ekonomin. Frågan återkom flera gånger under kvällen. ”Tillväxt”, ”näringsliv” och ”skatt” var ord som slängdes runt ofta. – De ekonomiska skiljelinjerna tror jag kommer prägla valet. Den klassiska vänster-högerkonflikten, säger Jenny Madestam, professor i statsvetenskap på Södertörns högskola. Debatten ser ut att bli en bekant sådan: Om skatten ska höjas eller sänkas. – Det är old school. Både Moderaterna och Socialdemokraterna vill att valrörelsen ska handla om detta. För det är deras starka frågor, säger hon och fortsätter: – De vill inte ha en debatt om migration eller värderings- och kulturfrågor. Hon konstaterar att tidigare brännheta frågor som migration och kriminalpolitik är som bortblåsta. Elinor Odeberg är chefsekonom på fackförbundet Handels. Även hon konstaterar att ekonomin blir den stora valfrågan. Men att partiledarna bara pratade om ökad tillväxt och inte hur tillväxten ska fördelas tycker hon blir intetsägande.",
-          "url": "https://www.expressen.se/nyheter/sverige/experterna-overens-det-handlar-valet-om/",
-          "image_url": "https://static.bonniernews.se/images/d9/88/d988b7d66929457fb4d73ced26fa68c0/16x9/original.png",
-          "published_at": "2026-08-17T21:28:16Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/experterna-overens-det-handlar-valet-om/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
           "sort_order": 7
         },
         {
-          "id": "9b4191983cf9",
+          "id": "b1d1943d9baf",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Åkesson öppnar för S-förslaget",
-          "summary": "Jimmie Åkesson öppnar för S-förslaget om bankskatt. – Jag är inte främmande för det, säger SD-ledaren i Expressens och Dagens industris partiledardebatt.",
-          "body_text": "Jimmie Åkesson öppnar för S-förslaget om bankskatt. – Jag är inte främmande för det, säger SD-ledaren i Expressens och Dagens industris partiledardebatt. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Socialdemokraterna går till val med införandet av en bankskatt. En skatt som beräknas dra in cirka 12 miljarder till statskassan. Enligt Moderaterna blir det bankkunderna som får dyrare lån om skatten införs. Under Expressens och Dagens industris partiledardebatt ställde programledarduon Viktor Barth-Kron och Ylva Johansson frågan: ”ska bankerna betala mer skatt?”. Då valde Jimmie Åkesson att höja upp både den röda och gröna skylten. – Jag tycker att det är en svår fråga att svara ja eller nej på. Det är väl det rimliga skälen till att jag svarar både ja och nej, säger SD-ledaren. – Alltså den skatt som har föreslagits kommer onekligen att slå mot de som till exempel har bolån. Jag tycker det är rätt att kalla det för bolåneskatt, säger Åkesson men stänger inte heller dörren för S-förslaget. – Det är klart att det kan ju man kan bygga in trösklar och spärrar i systemet som gör att orimliga övervinster beskattas. Så jag är inte främmande för det men jag tror att det måste riggas. När frågan om en bankskatt diskuterades försökte Ulf Kristersson, liksom Simona Mohamsson tidigare, få över Elisabeth Thand Ringqvist på sin sida. Socialdemokraterna vill införa en bankskatt, som man menar inte kommer att slå mot bolånekunder. Kristersson kallar den däremot en ”orättfärdig skatt” och passar på att bjuda över C-ledaren till andra sidan blockgränsen.",
-          "url": "https://www.expressen.se/nyheter/politik/jimmie-akesson-oppnar-for-s-forslaget/",
-          "image_url": "https://static.bonniernews.se/images/c6/cb/c6cb58aedab2460eaba5724f6b6f79fe/16x9/original.jpg",
-          "published_at": "2026-08-17T19:59:26Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/jimmie-akesson-oppnar-for-s-forslaget/",
+          "title": "SD vill se moderna mentalsjukhus | Expressen",
+          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
+          "body_text": "Jimmie Åkesson presenterar under tisdagen ett nytt vallöfte för Sverigedemokraterna. Nästa mandatperiod vill partiet utreda och påbörja en reform om att inrätta statliga psykiatrihem. – Ett slags modern version av gamla tiders mentalsjukhus, säger Jimmie Åkesson. – Vi behöver stärka skyddsnätet ytterligare för de som har ett uttalat psykiatriskt kravbehov och svår psykisk sjukdom. Jimmie Åkesson säger att svårt sjuka människor faller mellan stolarna, mellan region och kommun, och att statliga psykiatrihem är en viktig pusselbit. Gruppledare Linda Lindberg säger att de inte vill tillbaka till dåtidens mentalsjukhus, utan att detta ska vara modernare hem med fokus på ett bättre liv. Det är oklart exakt hur mycket en sådan reform skulle kosta. – Det kommer på sikt kosta mycket pengar, man kan väl tänka sig att börja med en utredning, säger Jimmie Åkesson. – Vi är medvetna om att det är en stor reform, men den är viktig. Hur många hem partiet vill se är ännu oklart. Expressens reporter Anette Holmqvist frågar hur Jimmie Åkesson ser på möjligheten att få med övriga Tidöpartierna på ett sådant här förslag. – De tre partierna är ju ganska sunda partier. Så det vore inte vara omöjligt att få stöd för det här, säger Jimmie Åkesson. – Man kan ju börja i mindre skala och sen skala upp i takt med att man märker behoven, att det faller väl ut eller att man behöver skruva på något och så.",
+          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=983b5346-a32d-431a-97cd-e69e9e9ba2d9",
+          "image_url": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
+          "published_at": "2026-01-09T11:58:16Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=983b5346-a32d-431a-97cd-e69e9e9ba2d9",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4399,20 +4399,20 @@
           "sort_order": 8
         },
         {
-          "id": "6c2f44100b68",
+          "id": "886730594a02",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Israelisk minister: Uppmanar till mord i Gaza",
-          "summary": "Israels säkerhetsminister Itamar Ben-Gvir uppmanar till massmord i Gaza. – Jag tycker att vi ska genomföra riktade elimineringar av 30-40 stycken i Gaza varje natt, säger han i en podd. – Folkrättsvidriga uttalanden, skriver Magdalena Andersson (S).",
-          "body_text": "Israels säkerhetsminister Itamar Ben-Gvir uppmanar till massmord i Gaza. – Jag tycker att vi ska genomföra riktade elimineringar av 30-40 stycken i Gaza varje natt, säger han i en podd. – Folkrättsvidriga uttalanden, skriver Magdalena Andersson (S). Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den högerextrema säkerhetsministern var gäst i en podd som drivs av Rom Braslavski, tidigare 7 oktober-gisslan. Itamar Ben-Gvir citeras av flera medier. – Jag tycker att vi ska genomföra riktade elimineringar av 30-40 stycken i Gaza varje natt, säger Itamar Ben-Gvir. – Inte bara de som hotar oss just nu. Det här är folk som inte förtjänar att leva. De är inte ens människor. Sveriges utrikesminister Maria Malmer Stenergard (M) upprörs av uttalandet. ”Jag reagerar med avsmak på detta fruktansvärda uttalande. Sveriges regering har gjort helt rätt i att ta initiativ till att införa EU-sanktioner mot extremistiska israeliska ministrar – sådana som Ben-Gvir”, skriver hon i ett inlägg på X . Även Socialdemokraternas partiledare Magdalena Andersson reagerar starkt på den israeliska ministerns uttalande: ”Uttalandena från Israels säkerhetsminister om att systematiskt döda palestinier i Gaza är avskyvärda, oförsvarbara och rakt av folkrättsvidriga. Jag utgår från att regeringen med Kristersson i spetsen omedelbart fördömer uttalandena och sätter press på Israel följa att folkrätten,” skriver hon på X . Uttalandet kommer samma dag som källuppgifterna om att Israels premiärminister Benjamin Netanyahu och USA:s sändebud Jared Kushner ska ha enats om vägen framåt för Gaza.",
-          "url": "https://www.expressen.se/nyheter/varlden/israelisk-minister-uppmanar-till-mord-i-gaza/",
-          "image_url": "https://static.bonniernews.se/images/c2/53/c25302186fe04781ae6c09526e415a25/16x9/original.png",
-          "published_at": "2026-08-17T19:27:05Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/israelisk-minister-uppmanar-till-mord-i-gaza/",
+          "title": "S: Alla barn i lågstadiet ska få gå på fritids | Expressen",
+          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
+          "body_text": "Socialdemokraterna vill att alla barn i lågstadiet ska få gå på fritids, oavsett föräldrarnas sysselsättning. Vallöftet skulle innebära att cirka 10 000 fler barn erbjuds detta komplement till skolan, enligt S .Alla elever kan i dag ha rätt till en plats i fritidshem från 6 års ålder till året de fyller 13 år om föräldrarna arbetar eller studerar. – Fritids har en stor potential att stärka barnens utveckling och höja kunskapsresultat i skolan. Därför vill vi att alla barn i lågstadiet ska få gå på fritids, säger Anders Ygeman, Socialdemokraternas utbildningspolitiska talesperson. Lågstadiet omfattar årskurs 1 till 3, för barn i åldrarna 7 till 10 år. S räknar även med förskoleklass i förslaget. Det presenteras tillsammans med SSU:s ordförande Moska Hassas, som säger att timmarna mellan skolklockan och middagen är några av dygnets viktigaste. Jimmie Åkesson presenterar under tisdagen ett nytt vallöfte för Sverigedemokraterna. Nästa mandatperiod vill partiet utreda och påbörja en reform om att inrätta statliga psykiatrihem. – Ett slags modern version av gamla tiders mentalsjukhus, säger Jimmie Åkesson. – Vi behöver stärka skyddsnätet ytterligare för de som har ett uttalat psykiatriskt kravbehov och svår psykisk sjukdom. Jimmie Åkesson säger att svårt sjuka människor faller mellan stolarna, mellan region och kommun, och att statliga psykiatrihem är en viktig pusselbit. Gruppledare Linda Lindberg säger att de inte vill tillbaka till dåtidens mentalsjukhus, utan att detta ska vara modernare hem med fokus på ett bättre liv. Det är oklart exakt hur mycket en sådan reform skulle kosta. – Det kommer på sikt kosta mycket pengar, man kan väl tänka sig att börja med en utredning, säger Jimmie Åkesson. – Vi är medvetna om att det är en stor reform, men den är viktig. Hur många hem partiet vill se är ännu oklart.",
+          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d0384191-a3aa-4f38-93c5-97d11feb7038",
+          "image_url": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
+          "published_at": "2026-01-09T11:58:16Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d0384191-a3aa-4f38-93c5-97d11feb7038",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
