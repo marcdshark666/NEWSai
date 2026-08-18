@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T20:17:26Z",
+  "generated_at": "2026-08-18T20:43:25Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -1415,6 +1415,30 @@
           "sort_order": 0
         },
         {
+          "id": "a6265c49fd9e",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Ikväll 21:38",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/ey22dVQ/kulturnyheterna/ikvall-21-38?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54741971/1787083391?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-19T06:41:00Z",
+          "embed_url": "https://www.svtplay.se/video/ey22dVQ/kulturnyheterna/ikvall-21-38?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "6a598891f21b",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
@@ -1436,7 +1460,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "ab1671114461",
@@ -1460,7 +1484,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "20f2f04af899",
@@ -1484,7 +1508,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "fa0d733dcde7",
@@ -1501,30 +1525,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54686816/1786466696?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-19T06:41:00Z",
           "embed_url": "https://www.svtplay.se/video/jakkmvN/kulturnyheterna/tis-11-aug-18-24?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "a6265c49fd9e",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Ikväll 21:38",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "url": "https://www.svtplay.se/video/ey22dVQ/kulturnyheterna/ikvall-21-38?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54741971/1787083391?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-18T19:38:00Z",
-          "embed_url": "https://www.svtplay.se/video/ey22dVQ/kulturnyheterna/ikvall-21-38?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1896,6 +1896,31 @@
           "sort_order": 7
         },
         {
+          "id": "fdb6b51fd19f",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Latest Breaking News Videos | Fox News Video",
+          "summary": "Discover the latest breaking news videos from Fox News. From politics to entertainment Fox News has the most up-to-date videos that you can watch now.",
+          "body_text": "24 Hours of Fair and Balanced news coverage. Watch the latest on the Tupac Shakur murder trial Watch the latest, breaking news on today's headlines.",
+          "url": "https://www.foxnews.com/video/6403641152112",
+          "image_url": "https://a57.foxnews.com/assets.foxnews.com/images/fox-news/og/1024/512/og-fox-news.png?ve=1&tl=1",
+          "published_at": null,
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403641152112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 8
+        },
+        {
           "id": "d2ba79bbdfb9",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1918,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "5ec08fd31b56",
@@ -1935,31 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/414e78b3-3c3a-433c-a847-b082091fd903/26e91206-6dfb-4a0a-a92e-2ea500d87f57/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-18T10:20:52Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403637429112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "ee8f39428364",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Maternal mental health in focus following Lindsay Clancy murder trial | Fox News Video",
-          "summary": "The Lindsay Clancy trial highlights the critical issue of maternal mental health. Forensic psychiatrist Dr. Daniel Bober joins to discuss postpartum depression, its hidden dangers and symptoms to watch out for.",
-          "body_text": "The Lindsay Clancy trial highlights the critical issue of maternal mental health. Forensic psychiatrist Dr. Daniel Bober joins to discuss postpartum depression, its hidden dangers and symptoms to watch out for. The Lindsay Clancy murder trial places maternal mental health in the national spotlight, prompting discussions on postpartum depression. Forensic psychiatrist Dr. Daniel Bober joins 'Fox & Friends First' to explain the hidden dangers of postpartum mental illness, its symptoms and the critical differences between baby blues and postpartum psychosis following comments from actress Hayden Panettiere.",
-          "url": "https://www.foxnews.com/video/6403636711112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66bb8d54-918a-4a76-ac39-0ed948b64500/50083244-4d46-4035-b6f8-0fa89ca84e39/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-18T10:02:41Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403636711112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2122,7 +2122,7 @@
           "source_kind": "mixed",
           "title": "Man in doll mask threatening Philadelphia residents, police say",
           "summary": "\"It was just weird, like some twisted game.\"",
-          "body_text": "A man in a creepy doll mask has been terrorizing Philadelphia residents, running up to them and making threats, police said. The Philadelphia Police Department said on Tuesday it is searching for the suspect, who allegedly threatened and chased at least half a dozen people near City Hall last week. The man, who surveillance video captured wearing a scary doll mask, asked a woman if she was \"ready to die\", police told the BBC's US media partner CBS. Police released photos and a video of the suspect, seeking the public's help to identify him. In an incident on 12 August, the man was captured on surveillance video chasing a woman on a morning run around 5:30 local time (10:30 BST). The masked man made threatening comments while holding his hand behind his back, causing her to stumble and injure herself, police said. He then fled into a underground rail station. The man appears to be filming the incidents, holding a cellphone with its light on, Philadelphia Police Department Captain Jason Smith told CBS. It is unclear if the encounters are part of a social media trend, he said. The suspect is facing charges including terroristic threats, simple assault and other offenses, according to the police captain. Luanda Marinho told CBS she encountered the masked man while meeting a friend for a morning run. \"He starts asking, 'Do you guys want to race me? I bet I am faster than you. Want to race me?' He asked a few times, but none of us acknowledged him. Very weird,\" Marinho recounted.",
+          "body_text": "A man in a creepy doll mask has been terrorising Philadelphia residents, running up to them and making threats, police said. The Philadelphia Police Department said on Tuesday it is searching for the suspect, who allegedly threatened and chased at least half a dozen people near City Hall last week. The man, who surveillance video captured wearing a scary doll mask, asked a woman if she was \"ready to die\", police told the BBC's US media partner CBS. Police released photos and a video of the suspect, seeking the public's help to identify him. In an incident on 12 August, the man was captured on surveillance video chasing a woman on a morning run around 5:30 local time (10:30 BST). The masked man made threatening comments while holding his hand behind his back, causing her to stumble and injure herself, police said. He then fled into a underground rail station. The man appears to be filming the incidents, holding a cellphone with its light on, Philadelphia Police Department Captain Jason Smith told CBS. It is unclear if the encounters are part of a social media trend, he said. The suspect is facing charges including terroristic threats, simple assault and other offenses, according to the police captain. Luanda Marinho told CBS she encountered the masked man while meeting a friend for a morning run. \"He starts asking, 'Do you guys want to race me? I bet I am faster than you. Want to race me?' He asked a few times, but none of us acknowledged him. Very weird,\" Marinho recounted.",
           "url": "https://www.bbc.com/news/articles/c39em89z4vmo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a4d5/live/8979c270-9b3b-11f1-adfc-97cecc6f1ad1.jpg",
           "published_at": "2026-08-18T20:01:34Z",
@@ -3680,6 +3680,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "5f9dc4a2fa18",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "DOJ's probe into Andreessen Horowitz over board seats baffles VCs | TechCrunch",
+          "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+          "body_text": "The Justice Department has launched a probe into Andreessen Horowitz regarding the firm’s partners serving on the boards of competing companies, Bloomberg reported . The nearly year-long investigation focuses specifically on the firm’s board seats at Databricks, which is valued at $190 billion, and Fivetran, which combined with dbt Labs in June. The firm’s co-founder, Ben Horowitz, serves on the board of Databricks, while partner Martin Casado serves on the board of Fivetran. Several VCs told TechCrunch they were surprised by news of the probe. Databricks and Fivetran are competitors now, but the two companies weren’t rivals when a16z invested in the startups, according to another Databricks investor who spoke on condition of anonymity. Databricks is largely known for its cloud storage products but, with its Lakeflow product, has expanded into AI data pipelines and application connectors. That’s Fivetran’s main business. Given that Andreessen Horowitz has backed hundreds of companies, it’s almost inevitable that some startups will pivot or expand into the same markets, becoming competitors. While backing direct rivals has become more acceptable recently, as evidenced by the many VCs that funded both Anthropic and OpenAI , holding a board seat on competing startups creates a far greater conflict of interest. Directors are generally privy to much more sensitive strategic information than non-board investors ever see. Such conflicts can be resolved by having a partner step down from one of the boards. However, because Databricks and Fivetran have different individuals from the same VC firm on their boards, a16z can institute a so-called Chinese wall between Horowitz and Casado, which would prevent the two partners from sharing confidential information about the two companies with each other, one investor said. The investigation invokes Section 8 of the Clayton Act, a 112-year-old law stating that an individual or entity is barred from serving on the boards of competing companies. Since regulators have rarely targeted venture capital with this rule, the industry is watching the DOJ’s probe closely. If a16z is forced to surrender a seat, founders may place less value on board commitments from top-tier VCs, given that those investors might be forced to step down if a portfolio overlap creates a future conflict. a16z did not immediately respond to our request for comment, nor did it respond to Bloomberg. Databricks and DOJ declined comment. When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Marina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation. You can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y!",
+          "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675",
+          "published_at": "2026-08-18T20:36:20Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "7febcc22f3ed",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3701,7 +3725,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "d8b7c8511a2c",
@@ -3725,7 +3749,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "0fa48225bf73",
@@ -3749,7 +3773,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "36f832273628",
@@ -3773,7 +3797,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "d4f09d555b2d",
@@ -3797,7 +3821,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "63af2d852f6f",
@@ -3821,7 +3845,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "836cce4aae0f",
@@ -3845,7 +3869,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "63576ecb69ad",
@@ -3869,30 +3893,6 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "4585737111e7",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he'll explain why at Disrupt 2026 | TechCrunch",
-          "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-          "body_text": "Building a company is hard. But building one that also designs, manufactures, and delivers hardware at scale, from a factory floor, with supply chain concerns galore is another order of difficulty. And Rivian’s CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail that journey and the lessons it’s bestowed. Rivian sits at the intersection of AI, software, robotics, manufacturing, and transportation. And Scaringe has spent the better part of two decades proving that intersection isn’t just survivable. He also thinks it’s about to become much more crowded. Scaringe’s Disrupt Stage session is just one of many big conversations happening at Disrupt this year, running October 13-15 at San Francisco’s Moscone Center. Check out the programming that’s been announced so far here , and if you don’t already have a ticket, lock in yours before our next price increase on August 22 . Scaringe may be best known for Rivian, but he’s been expanding beyond vehicles. He’s laid out a roadmap to full Level 4 autonomy by 2028 , and he’s building out Rivian’s own charging network with ambitions to become one of the largest in the U.S. Scaringe also founded Mind Robotics , a humanoid robotics company that’s raised $900 million this year alone , which he runs as executive chair and acting CEO, with Rivian as a large shareholder and launch customer. With the goal of turning Rivian’s factory floor in Normal, Illinois, into a proving ground for more ingrained human and robotic coexistence on the assembly line, Scaringe sees an opportunity to directly address an anticipated shortage in human labor. As for Rivian itself, it recently began rolling out the R2 , the roughly $58,000 SUV that Scaringe is counting on to do what the pricier R1T and R1S didn’t: expand Rivian beyond the niche market. He’s called it “maybe the most important thing we’ve launched to date” amid slowing demand for costlier EVs and mounting competitive pressure, especially from lower-cost Chinese EV manufacturers. And at Disrupt 2026, you’ll get to watch Scaringe detail how all of these investments fit together, and what he’s learned about building in the physical world and then bringing AI into the fold, while many AI companies try to accomplish the inverse. To hear it in person and join the 10,000+ founders, investors, and technologists heading to San Francisco for TechCrunch Disrupt 2026 on October 13-15, grab your ticket today to make sure you get the best available price . Everything founders should know about Disrupt Get the best hotel deals ahead of Disrupt How to host your own Side Event at Disrupt Take part in Disrupt and learn how to exhibit your startup",
-          "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/RJ-Scaringe-Disrupt-Stage-2026.png?w=1200",
-          "published_at": "2026-08-11T15:30:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/08/RJ-Scaringe-Disrupt-Stage-2026-No-text.png",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
           "sort_order": 8
         },
         {
@@ -4197,7 +4197,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till 25% på toppar, tunikor och tröjor Sommarrea – upp till 70% på heminredning Upp till halva priset hos Revolution Race!",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4222,7 +4222,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Upp till 25% på toppar, tunikor och tröjor Sommarrea – upp till 70% på heminredning Upp till halva priset hos Revolution Race!",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4255,6 +4255,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "48aa32148427",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Har uppvaktat Putin i hemlig charmoffensiv",
+          "summary": "Trumps upprepade trevare till Putin har ännu inte lett till ett genombrott i fredsförhandlingarna om Ukrainakriget. Under sommaren gjorde han en ny charmoffensiv. I all tysthet skickade han sin ”balsalsgeneral” Rodney Mims Cook Jr till Putins ekonomiska toppmöte i Sankt Petersburg, rapporterar Financial Times.",
+          "body_text": "Trumps upprepade trevare till Putin har ännu inte lett till ett genombrott i fredsförhandlingarna om Ukrainakriget. Under sommaren gjorde han en ny charmoffensiv. I all tysthet skickade han sin ”balsalsgeneral” Rodney Mims Cook Jr till Putins ekonomiska toppmöte i Sankt Petersburg, rapporterar Financial Times . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. International Economic Forum i Sankt Petersburg har beskrivits som ”Putins Davos”. USA har bojkottat konferensen sedan 2019 – fram till sommarens möte i juni. I all tysthet – utrikesminister Marco Rubio har tidigare förnekat kännedom om det toppdiplomatiska besöket – skickade presidenten Rodney Mims Cook Jr, avslöjar Financial Times. Cook är bland annat projektledare för Trumps ambitiösa balsalsbygge, med tillhörande underjordisk säkerhetsbunker, för vilket notan skenar. Efter omfattande förberedelser ordnades ett diplomatpass till Cook och han reste till Sankt Petersburg. Redan under konferensens öppningsdag fick han uppleva kriget på nära håll då han promenerade på Vinterpalatsets torg och blev vittne till en ukrainsk drönarattack mot ett raffinaderi som fick en svart rökpelare att stiga mot skyn. – För nära för att vara bekvämt, kommenterar Cook händelsen för Financial Times. Han vill dock inte uppge vilka möten han haft med den ryska presidentadministrationen.",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-hemliga-uppvaktning-av--vladimir-putin/",
+          "image_url": "https://static.bonniernews.se/images/25/70/257034e77d5c4a87bca73b44385a715d/16x9/original.png",
+          "published_at": "2026-08-18T20:25:25Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/trumps-hemliga-uppvaktning-av--vladimir-putin/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "fde3d20f8543",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4276,7 +4300,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "a395173f13de",
@@ -4300,7 +4324,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "5db31180695c",
@@ -4324,7 +4348,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "5188e797fb3f",
@@ -4348,7 +4372,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "10e2887c72ff",
@@ -4372,7 +4396,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "0fc43cf01c09",
@@ -4396,7 +4420,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "cea8c09d3c91",
@@ -4420,7 +4444,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "6242585b3682",
@@ -4430,12 +4454,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Brevet avslöjar mördarens lögn",
-          "summary": "Gerd Viklund levde fortfarande när mördaren grabbade tag i båda benen, släpade henne på magen in i ladan och lät henne förblöda. Där låg redan särbon Tord Öberg, mördad. Det 20 år gamla DNA-spåret från dubbelmordet i Brattås pekade slutligen ut en 45- årig enstöring. Under rättegången kommer mannen – som nekar till morden – få möta sina egna lögner.",
-          "body_text": "Premium Gerd Viklund levde fortfarande när mördaren grabbade tag i båda benen, släpade henne på magen in i ladan och lät henne förblöda. Där låg redan särbon Tord Öberg, mördad. Det 20 år gamla DNA-spåret från dubbelmordet i Brattås pekade slutligen ut en 45- årig enstöring. Under rättegången kommer mannen – som nekar till morden – få möta sina egna lögner. En vecka gratis, sen 29 kr/mån i 3 månader. Därefter ordinarie pris 99 kr/mån tillsvidare. Ingen bindningstid, säg upp när du vill. ”Hon vill bara ligga i missionären” • Malena Ivarsson svarar Avslöjar ovanligt upplägg: ”Bra att göra något annat”",
+          "title": "Premium Krim I dag 16.58 Dubbelmordet: 45-åringens brev avslöjade lögnerna",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/krim/dubbelmordet-45-aringens-brev-avslojade-lognerna/",
-          "image_url": "https://static.bonniernews.se/images/23/3f/233fb1a2ba7b4ef586146a4aa75887f0/16x9/original.png",
-          "published_at": "2026-08-18T14:58:26Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/krim/dubbelmordet-45-aringens-brev-avslojade-lognerna/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4443,8 +4467,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "ad76e032eed6",
@@ -4461,30 +4485,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/trump-inga-samtal-pa-gang-med-iran/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "8c7d81f01219",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Politik I dag 15.54 S-kritiken mot Kristersson: Lever i en annan värld",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/s-kritiken-mot-kristersson-lever-i-en-annan-varld/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/s-kritiken-mot-kristersson-lever-i-en-annan-varld/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
