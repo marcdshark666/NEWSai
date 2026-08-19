@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:48:23Z",
+  "generated_at": "2026-08-19T11:20:27Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "d083058ea4bf",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Skönhetsbjässen går bättre än väntat",
+          "summary": "Nyheter från TV4: Skönhetsbjässen går bättre än väntat",
+          "body_text": "Det går trögt för sminkjätten Estée Lauder. Arkivbild. Amerikanska Estée Lauder – med varumärken som Clinique och La Mer i portföljen – redovisar en oväntat hög vinst på 39 cent per aktie för det fjärde kvartalet i skönhetskonglomeratets räkenskapsår. Bolagets aktie – en av årets förlorare med ett kursfall på cirka 20 procent hittills i år – lyfter med nästan 9 procent i terminshandeln på Wall Street efter rapporten. Snittprognosen bland analytiker låg på en vinst på 32 cent per aktie och under motsvarande kvartal ett år tidigare var vinsten 9 cent per aktie. Omsättningen lyfte också mer än väntat, upp 6,5 procent till 3,6 miljarder dollar. I rapporten bekräftar Estée Lauder sin försäljningsprognos för det nya räkenskapsåret, kryddat med en höjning av prognosen för vinstmarginal.",
+          "url": "https://www.tv4.se/artikel/tt-260819-usaesteelauder1-db62375d/skonhetsbjassen-gar-battre-an-vantat",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdltDKFuquYLJA/47bf74bab3ebd54ede26085464c65212/Det_g_r_tr_gt_f_r_sminkj_tten_Est_e_Lauder._Arkivbild.",
+          "published_at": "2026-08-19T10:47:39Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260819-usaesteelauder1-db62375d/skonhetsbjassen-gar-battre-an-vantat",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "28858dc13faa",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "8cc1512a5ffb",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "46e389a8a55f",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "ac73d703f560",
@@ -127,30 +151,6 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 3
-        },
-        {
-          "id": "63764a01d928",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Läskelyft för Carlsberg – justerar upp prognos",
-          "summary": "Nyheter från TV4: Läskelyft för Carlsberg – justerar upp prognos",
-          "body_text": "Höjt golv i vinstprognosen från Carlsberg. Arkivbild Läskelyft för Carlsberg – justerar upp prognos Den danska bryggerikoncernen Carlsberg höjer golvet i sin prognos för vinsttillväxt i år. Detta sedan alkoholfria drycker sålt bra under första halvåret. Carlsbergs prognos för vinstökning ligger nu på 4–6 procent, mot tidigare 2–6 procent. Ökningen i försäljningsvolym under första halvåret på 1,7 procent var oväntat svagt, men läsk och alkoholfri öl bidrog positivt. Bland Carlsbergs varumärken finns förutom just Carlsberg även bland annat Kronenbourg och Tuborg. Inför rapporten har Carlsbergs aktie gått upp nästan 9 procent på Köpenhamnsbörsen i år.",
-          "url": "https://www.tv4.se/artikel/tt-260819-danmarkcarlsberg1-5bfc4fea/laskelyft-for-carlsberg-justerar-upp-prognos",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdldFIXPkAQQG8/fc4fad1cdb912a3cd8c4c0a73ec46c66/Hojt_golv_i_vinstprognosen_fran_Carlsberg._Arkivbild",
-          "published_at": "2026-08-19T06:42:09Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260819-danmarkcarlsberg1-5bfc4fea/laskelyft-for-carlsberg-justerar-upp-prognos",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
           "sort_order": 4
         },
         {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Jonatan Alfvén inför rätta för grovt förtal • ”Måste vara tillåtet” ”Många upplever att de har blivit vilseledda” Kabelproblem dämpar priserna – men dyrare vinter väntas Fick elräkning på 14 000 kronor: ”Trodde nån kopplat upp sig” Svag ljusning – men fortsatt brant uppförsbacke för Tidö Mohamsson i ny TV4-dokumentär om Liberalernas krisläge",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Flera gripna i razzia • Över 100 kilo knark • Adresser bevakas Jonatan Alfvén inför rätta för grovt förtal • ”Måste vara tillåtet” ”Många upplever att de har blivit vilseledda” Kabelproblem dämpar priserna – men dyrare vinter väntas Fick elräkning på 14 000 kronor: ”Trodde nån kopplat upp sig”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1721,6 +1721,31 @@
           "sort_order": 0
         },
         {
+          "id": "b9dd1e937a9b",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Lindsay Clancy murder trial: Prosecutors' 'mortal sin' question receives gasps | Fox News Video",
+          "summary": "Prosecutors question Susan Clancy, the former mother-in-law of Lindsay Clancy, in the Massachusetts murder trial. Clancy testified that the mother of three was begging for help before the tragedy.",
+          "body_text": "Prosecutors question Susan Clancy, the former mother-in-law of Lindsay Clancy, in the Massachusetts murder trial. Clancy testified that the mother of three was begging for help before the tragedy. Heartbreaking courtroom testimony highlights the ongoing murder trial of a Massachusetts mother accused of killing her three children. Susan Clancy testifies her former daughter-in-law begged for medical help prior to the tragedy, while the defense presents psychological evidence of postpartum psychosis.",
+          "url": "https://www.foxnews.com/video/6403696206112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4661976-5573-42c2-8cd8-24025821fbac/99e0b9c9-a317-446d-b943-a65d28c39a13/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-19T10:37:33Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403696206112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "4531fd68261b",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1768,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e9201b629abd",
@@ -1768,7 +1793,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "0e0c0d269214",
@@ -1793,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "cc9433bbaad2",
@@ -1818,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "4eb4b4fbd216",
@@ -1843,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "9577b958c770",
@@ -1868,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "b1c4975e50cc",
@@ -1893,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "4c04ebd74107",
@@ -1918,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "3f80f89ba10e",
@@ -1935,31 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a1b0cb5-cd40-42d0-94c5-d807d2668813/20be6334-62ea-4ebb-8a47-6b4b2609c962/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-19T02:41:31Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403682031112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "b91579b0227a",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rep Anna Paulina Luna alleges that the DSA is linked to the CCP | Fox News Video",
-          "summary": "Rep. Anna Paulina Luna, R-Fla., previews the GOP’s messaging points ahead of the midterms on ‘Hannity.’",
-          "body_text": "Rep. Anna Paulina Luna, R-Fla., previews the GOP’s messaging points ahead of the midterms on ‘Hannity.’",
-          "url": "https://www.foxnews.com/video/6403681497112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/744e8183-b7ec-4393-aeb9-f72b472c8d8d/b328cb27-d1d1-493e-9558-172e94bd4a31/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-19T02:21:10Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403681497112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "79a538815e0b",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "US immigration deportations: Liberia agrees to accept 1,200 foreigners",
+          "summary": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+          "body_text": "Liberia has agreed to accept up to 1,200 foreigners deported from the US over the next year in one of the biggest deals agreed so far by Washington as it continues its clampdown on illegal migration. Such agreements with other countries have often involved people who are legally protected from returning to their own countries, for reasons such as persecution. It is not clear if those coming to Liberia have protection orders. \"The government wants to emphasise that those being brought to Liberia are being received as guests,\" Information Minister Jerolinmek Piah said. An initial group of 20 are due to land on Thursday and would be free to go when they wished or could apply for asylum, he said. None of the deportees were criminals or facing prosecution in the US or Liberia, Piah said. They were being accepted \"in keeping with Liberia's long-standing tradition of being a country that has provided shelter to all those seeking refuge and protection from persecution, wars and other forms of conflict,\" the minister added, stressing it was a humanitarian arrangement. No information has been provided about the nationalities of the deportees. US President Donald Trump's administration has deported dozens of people to what are termed \"third countries\" since coming into power in January 2025. Several African countries, including Ghana, Equatorial Guinea, Eswatini, the Democratic Republic of Congo and Sierra Leone, have already struck deals to receive those the US cannot legally send back to their home countries. The US has defended the third-country deals as lawful, despite rights groups criticising the arrangements as opaque and many of the deportees ultimately being repatriated. Ghana has faced legal suits over accusations that is has forced deportees from the US back to countries they fled, in violation of their rights. On Tuesday, the Eswatini government said two people who had been deported from the US to the southern African kingdom had voluntarily returned to their home countries: Mauritania and DR Congo.",
+          "url": "https://www.bbc.com/news/articles/cpq8g22715vo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8a86/live/9dc56780-9bb2-11f1-a291-b542ee92de7c.jpg",
+          "published_at": "2026-08-19T10:45:53Z",
+          "embed_url": "https://www.bbc.com/news/articles/cpq8g22715vo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "bcc227ab63c6",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "32b3c1ba2ce5",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "989a255e0eeb",
@@ -2172,17 +2196,17 @@
           "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
           "body_text": "Lawyers for Australian mushroom murderer Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as prosecutors and a key witness. Patterson is serving a life sentence after killing three of her relatives and trying to kill another by serving them a beef Wellington containing death cap mushrooms at her Victoria home in 2023. Her lawyers also argued some evidence in the trial was too speculative, while evidence crucial to their own case was wrongfully excluded. At the same hearing, Victoria's Director of Public Prosecutions is appealing against the sentence, arguing a 33-year parole period is \"manifestly inadequate\". Patterson's victims include her in-laws Don and Gail Patterson, both 70, and Gail's sister Heather Wilkinson, 66. Patterson, 51, did not attend the Court of Appeal in Melbourne in person, opting to watch via video link from prison. Also not present was Patterson's estranged husband Simon Patterson, who was meant to attend the deadly lunch but cancelled at the last minute, in part due to his belief that his wife had been trying to poison him for years. Heather Wilkinson's husband Ian, the only surviving guest of the lunch, was in court. During Wednesday's hearing, the appeal judges heard that while deliberating their verdict, jurors stayed in the same hotel as members of the prosecution team, a key police witness, and journalists. Patterson's barrister Richard Edney said this \"catastrophic\" situation had \"undermined the integrity of the verdicts and requires the quashing of the convictions\". He said a retrial was required \"so that justice can not only be done but be seen to be done\". Director of Public Prosecutions Brendan Kissane accepted it was regrettable but \"happened, as far as we can tell… by accident\".",
           "url": "https://www.bbc.com/news/articles/czjlxenlgkko",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b9b9/live/222707b0-9b9d-11f1-a291-b542ee92de7c.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6083/live/4b4eb690-9bbd-11f1-a291-b542ee92de7c.jpg",
           "published_at": "2026-08-19T08:25:03Z",
           "embed_url": "https://www.bbc.com/news/articles/czjlxenlgkko",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "8539e40ab161",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "31c0db0832bd",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "7e2f7f6c2a61",
@@ -2247,14 +2271,14 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/db6d/live/4a9415f0-9bb9-11f1-aed2-8d6da8d75094.jpg",
           "published_at": "2026-08-19T05:00:39Z",
           "embed_url": "https://www.bbc.com/news/articles/crrv48lenwgo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "e363092886a4",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "01845fd3e959",
@@ -2302,7 +2326,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "1a063ac9f067",
@@ -2326,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "4e89b111b25d",
@@ -2350,7 +2374,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "43d9c565ac4a",
@@ -2362,7 +2386,7 @@
           "source_kind": "mixed",
           "title": "Sacked Ukrainian defence minister calls for presidential election",
           "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-          "body_text": "Ukraine's popular ex-defence minister Mykhailo Fedorov has called for wartime elections, in what is widely seen as the biggest challenge to Volodymyr Zelensky's presidency since Russia's full-scale invasion four and a half years ago. \"Democracy cannot be held hostage by Russia,\" said Fedorov, 35, in a video posted to YouTube on Tuesday, adding that Ukraine is fighting \"precisely because we want to remain a free European state\". Since the war broke out in 2022 Ukraine has been under martial law, meaning elections are suspended. Fedorov, who did not mention Zelensky by name in the video, was unexpectedly fired from his role as defence minister last month, just six months after his appointment. Zelensky is yet to respond to the video from Fedorov, whose dismissal sparked protests across the country . About 100 protesters gathered outside the Ukrainian parliament on Wednesday morning, chanting \"bring back Fedorov as minister of defence\" and \"we are fed up, we want dialogue\". Fedorov is a charismatic politician, and during his tenure as defence minister, he was credited with energising the ministry, heading a drive against corruption, challenging outdated military structures and transforming the battlefield with new technology. His dismissal in mid-July is believed to have resulted from tensions between him and army commander-in-chief, Oleksandr Syrskyi. Within days Syrskyi was also replaced, as mounting protests calling for Fedorov's reinstatement piled pressure on the Ukrainian president. The ousted minister was offered other posts in the government, including deputy prime minister for military innovation, but he made clear he would only return as defence minister. Hours before he posted his video late on Tuesday, Zelensky confirmed he had asked parliament to confirm acting defence minister Yevhenii Khmara in the post. A vote was due to be held later on Wednesday. Fedorov spoke in the video of a sense of injustice, warning it was \"particularly dangerous when society develops the feeling that the main criterion for an appointment is not professionalism, results, or the ability to transform the country, but personal loyalty to the system\".",
+          "body_text": "Ukraine's popular ex-defence minister Mykhailo Fedorov has called for wartime elections, in what is widely seen as the biggest challenge to Volodymyr Zelensky's presidency since Russia's full-scale invasion four and a half years ago. \"Democracy cannot be held hostage by Russia,\" said Fedorov, 35, in a video posted to YouTube on Tuesday, adding that Ukraine is fighting \"precisely because we want to remain a free European state\". Since the war broke out in 2022 Ukraine has been under martial law, meaning elections are suspended. Fedorov, who did not mention Zelensky by name in the video, was unexpectedly fired from his role as defence minister last month, just six months after his appointment. Zelensky is yet to respond to the video from Fedorov, whose dismissal sparked protests across the country . However, a source in the presidential office told the BBC it was \"highly bizarre to plan elections amidst missiles and drones. This demonstrates a complete lack of realism\". In a separate development, Ukraine's two anti-corruption agencies said they were conducting a special operation targeting current and former MPs as well as an unnamed official in the presidential office. Hours later, Zelensky's office said its deputy head Iryna Mudra had been dismissed, amid local media reports of a raid on her premises. There was no immediate comment from Mudra, although MP Vadym Stolar, whose home was searched as part of the operation, said he was co-operating with anti-corruption officials. In his video, Fedorov complained that corruption was depriving the military of weapons and equipment and making it harder for Kyiv to win the war. He spoke of Ukraine facing a \"systemic crisis of governance\" and being \"scared of change\". About 100 protesters gathered outside the Ukrainian parliament on Wednesday morning, chanting \"bring back Fedorov as minister of defence\" and \"we are fed up, we want dialogue\". Fedorov is a charismatic politician, and during his tenure as defence minister, he was credited with energising the ministry, heading a drive against corruption, challenging outdated military structures and transforming the battlefield with new technology. His dismissal in mid-July is believed to have resulted from tensions between him and army commander-in-chief, Oleksandr Syrskyi. Within days Syrskyi was also replaced, as mounting protests calling for Fedorov's reinstatement piled pressure on the Ukrainian president.",
           "url": "https://www.bbc.com/news/articles/cdew8n9erlwo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
           "published_at": "2026-08-19T01:31:15Z",
@@ -2374,7 +2398,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 11
         },
         {
           "id": "643406d1c9f6",
@@ -2391,30 +2415,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/894e/live/a5cacf90-9b5a-11f1-93f8-bdd21a7c3268.jpg",
           "published_at": "2026-08-19T00:48:16Z",
           "embed_url": "https://www.bbc.com/news/articles/c62vy3wl31lo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 11
-        },
-        {
-          "id": "87aeebfdb3b0",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Pranab Doley in Assam: The Indian activist jailed after taking on a hotel in Kaziranga",
-          "summary": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
-          "body_text": "On 30 July, the day Pranab Doley was set to be released from jail, his father and lawyer arrived at the prison in the northeastern Indian state of Assam to take the activist home. Doley, 40, had been arrested weeks earlier after joining a June protest against a proposed luxury hotel near Kaziranga National Park, a Unesco World Heritage Site whose grasslands, wetlands and forests are home to elephants, tigers and the world's largest population of one-horned rhinos. A court had granted him and four others bail on 29 July. But the Assam government invoked the National Security Act, a sweeping law that allows authorities to detain people for extended periods without trial, and his release was denied. The government's grounds for detaining him, set out in an order seen by the BBC, draw on nearly a decade of allegations against Doley. It cites 13 criminal cases registered since 2017 and describes a pattern of unlawful assembly, intimidation, obstruction and violence. It also alleges suspicious foreign transactions and questions the source of funds for a series of overseas trips. These charges sparked anger, with critics accusing the government of using a draconian law to scupper a protest against the hotel project. His lawyer Mrityunjoy Pegu said most of the older cases had been resolved and that only two were pending before Doley's latest arrest - which he had declared in his affidavit when he contested unsuccessfully as an independent candidate in this year's state election. \"He is an activist who fights for people's rights,\" Pegu told the BBC. \"That is why the police had registered some cases against him.\" Doley's case has drawn attention to the protest he took part in - and led to a wider debate over land, conservation and development around Kaziranga. Officials say the new five-star hotel, to be built across 10 acres, will bring investment, jobs and wealthier tourists to Kaziranga. But dozens of families say they are being displaced from land they have cultivated for generations. The district administration says the land being used for the project is owned by the government. Deputy Commissioner Biswajit Phukan told the BBC that most protesting families have land registered in their names or those of their ancestors, which has not been taken for the project. \"It is not disputed that some persons may have been cultivating or otherwise using portions of the [project] land. However, the land parcel in question was never allotted or settled in the names of the persons who are presently protesting against the project,\" he said.",
-          "url": "https://www.bbc.com/news/articles/c0ej24qd3qpo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f41f/live/7ce8e260-96ff-11f1-b72c-211ea4e0afc4.jpg",
-          "published_at": "2026-08-18T22:18:50Z",
-          "embed_url": "https://www.bbc.com/news/articles/c0ej24qd3qpo",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4471,54 +4471,6 @@
           "sort_order": 6
         },
         {
-          "id": "e8d6e7409fe4",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Vändning i Hormuz – Iran förlorar kontrollen",
-          "summary": "Iran förlorar greppet i kampen om kontrollen över Hormuzsundet. Enligt analyser tar allt fler fartyg rutten nära Oman där USA utlovar beskydd. – Iran har delvis har tappat kontrollen över sundet, säger Andy Lipow vid oljebolaget Lipow Oil Associates.",
-          "body_text": "Iran förlorar greppet i kampen om kontrollen över Hormuzsundet. Enligt analyser tar allt fler fartyg rutten nära Oman där USA utlovar beskydd. – Iran har delvis har tappat kontrollen över sundet, säger Andy Lipow vid oljebolaget Lipow Oil Associates. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Donald Trump hävdar att USA har ”full kontroll över Hormuzsundet”. I en av sina återkommande trollningar utropade den amerikanska presidenten också att passagen är ett ”nytt amerikanskt territorium”. Irans chefsförhandlare Mohammad Bagher Ghalibaf svarade med nya hot. – Vi är redo att tillfoga fienden ett ännu mer förkrossande nederlag. – Hormuzsundet kommer inte att öppnas förrän de amerikanska åtaganden som anges i samförståndsavtalet har genomförts. Iran förlorar alltmer av greppet om trafiken i Hormuzsundet. Över 80 procent av fartygen går nu nära Omans kust, enligt data från Kpler. För en månad sedan gick nästan ingen trafik den vägen. Det är oklart hur stor trafiken är, eftersom många fartyg stänger av sina sändare. Enligt analyser från Kpler, som spårar fartyg med hjälp av transpondrar och satellitdata, förlorar Iran alltmer av kontrollen över sundet. Över 80 procent av fartygen som har passerat genom sundet de senaste två veckorna har gått via en rutt nära Omans kust, en farled där USA utlovat beskydd, som FN förespråkar och som Iran motsätter sig, rapporterar CNN . – Det ser i allt högre grad ut som att de åtminstone delvis har tappat kontrollen över sundet, säger Homayoun Falakshahi, chef för råoljeanalys på Kpler, till nyhetskanalen.",
-          "url": "https://www.expressen.se/nyheter/varlden/vandningen-i-hormuzsundet-iran-forlorar-kontrollen/",
-          "image_url": "https://static.bonniernews.se/images/d2/e2/d2e28c1e553d415ca12d5bc413d999d1/16x9/original.png",
-          "published_at": "2026-08-18T23:48:47Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/vandningen-i-hormuzsundet-iran-forlorar-kontrollen/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "948b9cc71f13",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Politikern lurades i sexfälla – av spion",
-          "summary": "Tidigare toppdemokraten Eric Swalwell fastnade i en misstänkt kinesisk sexfälla. I förhör med FBI som nyligen blivit offentliga erkände han sexträffar med den utpekade spionen Christine Fang. – Fang dök upp vid Swalwells dörr och gjorde klart för honom att hon inte hade några underkläder på sig, vittnar en tidigare medarbetare.",
-          "body_text": "Tidigare toppdemokraten Eric Swalwell fastnade i en misstänkt kinesisk sexfälla. I förhör med FBI som nyligen blivit offentliga erkände han sexträffar med den utpekade spionen Christine Fang. – Fang dök upp vid Swalwells dörr och gjorde klart för honom att hon inte hade några underkläder på sig, vittnar en tidigare medarbetare. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. FBI-dokument som nu blivit offentliga säger att Eric Swalwell hade flera sexuella möten med Christine Fang 2012–2015. Fang misstänks av FBI ha kopplingar till kinesisk underrättelsetjänst. Enligt handlingarna rekryterade hon också potentiella praktikanter till Swalwells politiska organisation. FBI utredde om Swalwell tagit emot otillåtna bidrag eller gjort något olagligt. Utredningen lades ner 2017. Den tidigare demokratiska kongressledamoten Eric Swalwell var favorit att bli Kaliforniens nya guvernör. Men anklagelserna om sexuella övergrepp fick honom att överge kandidaturen – och lämna kongressen. Nu riktas nya skandalanklagelser mot den tidigare toppdemokraten, rapporterar New York Post och Fox News . På måndagen offentliggjorde Vita husets ”Transparency Task Force” FBI-dokument som uppges visa att Eric Swalwell hamnat mitt i en sexfälla iscensatt av kinesiska spioner. I dokumenten erkänner han ”fysiska relationer” med Fang Fang, som hon också kallas, vid en handfull tillfällen mellan 2012 och 2015. Däremellan valdes Swalwell som ledamot till representanthuset. Förhören med Swalwell genomfördes 2015 sedan Fang hade uppmärksammats av FBI i en kontraspionageutredning på grund av sina kopplingar till politiskt viktiga personer i San Francisco-området.",
-          "url": "https://www.expressen.se/nyheter/varlden/toppdemokraten-eric-swalwell-lurades-i-sexfalla-av-misstankt-kinesisk-spion/",
-          "image_url": "https://static.bonniernews.se/images/fb/60/fb6089f4d172447eb103b65d7870849f/16x9/original.jpg",
-          "published_at": "2026-08-18T21:41:57Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/toppdemokraten-eric-swalwell-lurades-i-sexfalla-av-misstankt-kinesisk-spion/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
           "id": "4128931f0c16",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4528,7 +4480,7 @@
           "source_kind": "story",
           "title": "Åkesson: Opposition kan långsiktigt vara bra för SD | Expressen",
           "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
-          "body_text": "SD-ledaren Jimmie Åkesson är optimistisk inför valet, men om opinionsmätningarna skulle hålla i sig och Tidöpartierna förlora makten ser han det inte bara som dåligt för hans parti, säger han i en intervju med DN . – Är vi fortsatt största parti är det en roll som är viktig i sig, och som långsiktigt skulle kunna vara bra till och med, för Sverigedemokraterna. Då kommer vi försöka att samla och leda oppositionen, säger han till tidningen. I så fall ser han sin uppgift som att försöka stoppa Socialdemokraterna tillsammans med Miljöpartiet och Vänsterpartiet från att ändra på regeringens politik. Åkesson håller inte med om att Sverigedemokraterna i sin valkampanj i flera fall riktat sig mot islam och muslimer. I intervjun vill han inte svara på frågor om att riksdagsledamoten Richard Jomshof nyligen sa ”sluta vara muslimer”. – Jag var inte där när han sa det. Jag har inte hört det. Jag känner inte att det är någonting som jag behöver sitta här och förhålla mig till, säger han till DN. Opinionsläget för Tidöpartierna ser något bättre ut, enligt den senaste mätningen från TV4/Novus . Skillnaden mellan blocken har minskat, men sprickan är fortfarande på sju procentenheter. Moderaterna är det parti som ökar mest sedan mätningen i juli och går upp med en procentenhet till 18,3 procent. Samtidigt backar Sverigedemokraterna med 1,3 procentenheter till 19,1 procent. Liberalerna ligger stadigt under riksdagsspärren på 1,9 procent. Kristdemokraterna stiger något till mandatperiodens högsta nivå i Novusmätningarna och får 6,3 procent. I mätningen ligger Socialdemokraterna på den lägsta nivån under mandatperioden och har gått ner 1,7 procentenheter till 30,1 procent. Vänsterpartiet har också gått bakåt medan Miljöpartiet och Centerpartiet ökat något. Inga förändringar i mätningen är statistiskt säkerställda. Mätningen genomfördes mellan 3-16 augusti och totalt gjordes 5 617 intervjuer. Centern och Miljöpartiet vill se och höra mer om klimatfrågan i valrörelsen. Därför åker partierna ut på en gemensam debatturné. De två debattörerna blir EU-parlamentarikerna Pär Holmgren (MP) och Emma Wiesner (C) som kommer att resa till Västerås, Örebro, Malmö och Karlstad. Emma Wiesner säger på en pressträff att C och MP inte alltid är överens om lösningarna för en klimatomställning och minskade utsläpp.",
+          "body_text": "SD-ledaren Jimmie Åkesson är optimistisk inför valet, men om opinionsmätningarna skulle hålla i sig och Tidöpartierna förlora makten ser han det inte bara som dåligt för hans parti, säger han i en intervju med DN . – Är vi fortsatt största parti är det en roll som är viktig i sig, och som långsiktigt skulle kunna vara bra till och med, för Sverigedemokraterna. Då kommer vi försöka att samla och leda oppositionen, säger han till tidningen. I så fall ser han sin uppgift som att försöka stoppa Socialdemokraterna tillsammans med Miljöpartiet och Vänsterpartiet från att ändra på regeringens politik. Åkesson håller inte med om att Sverigedemokraterna i sin valkampanj i flera fall riktat sig mot islam och muslimer. I intervjun vill han inte svara på frågor om att riksdagsledamoten Richard Jomshof nyligen sa ”sluta vara muslimer”. – Jag var inte där när han sa det. Jag har inte hört det. Jag känner inte att det är någonting som jag behöver sitta här och förhålla mig till, säger han till DN. Nollningen på Luleå Tekniska Högskola har precis satt igång. Ulf Kristersson är på plats och tänker tillbaka på studenttiden i Uppsala. Han var kåraktiv och spenderade mycket tid på sittningar och nationsfester. – Jag var med i Sörmland-Närkes, förstås. Sexmästeristerna, ett gäng studenter och självutnämnda festproffs i gula overaller, står bredvid statsministern. Ordet sexmästeri kommer från sexa, det äldre svenska ordet för fest. Linus, som har en tröja där det står masters of sex på, säger att man måste vara en skön person som är bra på fest, och sex, för att få bli sexmästerist. Han tycker att statsministern är för sträng och ordentlig för att platsa i det gänget i dag, men att han nog hade kunnat bli sexmästare som ung. – Han var kanske lite vildare då, säger Linus. Statsministern har samma uppfattning. – Det är inte omöjligt. Jag har i varje fall trivts väldigt bra på nationen, säger han. Opinionsläget för Tidöpartierna ser något bättre ut, enligt den senaste mätningen från TV4/Novus . Skillnaden mellan blocken har minskat, men sprickan är fortfarande på sju procentenheter. Moderaterna är det parti som ökar mest sedan mätningen i juli och går upp med en procentenhet till 18,3 procent. Samtidigt backar Sverigedemokraterna med 1,3 procentenheter till 19,1 procent. Liberalerna ligger stadigt under riksdagsspärren på 1,9 procent. Kristdemokraterna stiger något till mandatperiodens högsta nivå i Novusmätningarna och får 6,3 procent.",
           "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a87bb479-0732-4311-8be1-366aa6a0ddaa",
           "image_url": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
           "published_at": "2026-01-09T11:58:16Z",
@@ -4540,6 +4492,54 @@
             "Expressen"
           ],
           "is_live": true,
+          "sort_order": 7
+        },
+        {
+          "id": "e8d6e7409fe4",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Världen I dag 01.48 Vändningen i Hormuzsundet – Iran förlorar kontrollen",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/varlden/vandningen-i-hormuzsundet-iran-forlorar-kontrollen/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/varlden/vandningen-i-hormuzsundet-iran-forlorar-kontrollen/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
+          "sort_order": 8
+        },
+        {
+          "id": "948b9cc71f13",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Världen I går 23.41 Toppdemokraten Eric Swalwell lurades i sexfälla av misstänkt kinesisk spion",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.expressen.se/nyheter/varlden/toppdemokraten-eric-swalwell-lurades-i-sexfalla-av-misstankt-kinesisk-spion/",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.expressen.se/nyheter/varlden/toppdemokraten-eric-swalwell-lurades-i-sexfalla-av-misstankt-kinesisk-spion/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4555,35 +4555,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Stockholmsbörsen sjunker marginellt i en stilla förmiddagshandel och är därmed på väg mot elfte dagen i rad med fallande index. I tio dagar i rad har nu Stockholmsbörsen backat, om än i mycket måttlig takt. Och det kan bli en elfte. Vid lunchtid på onsdagen ligger det breda OMXS-indexet på minus 0,2 procent. Rörelserna bland tungviktarna är små, med klädkedjan H&M för andra dagen i rad högt upp på vinnarlistan, plus 1 procent. I andra änden faller kasinobolaget Evolution med lika mycket. En knivskärning har inträffat på Södermalm i Stockholm, enligt uppgifter till Expressen. Polisen har en stor insats på platsen. Enligt uppgifter är en kvinna gripen. Ytterligare en person har gripits, misstänkt för inblandning i sabotagen mot gasledningen Nord Stream 2022. Det meddelar åklagare enligt tyska medier. Den gripne mannen är ukrainare och är enligt åklagarmyndigheten sportdykare. Han är ”på sannolika skäl misstänkt” för att ha varit delaktig i explosionerna. En svensk man i 30-årsåldern har dött efter att ha fått en lyktstolpe över sig i Valldemossa på Mallorca. Olyckan inträffade på måndagseftermiddagen vid 15:40, efter att en man och hans flickvän klivit av en buss. Bussen ska sedan ha kört omkull en lyktstolpe, som föll ner och träffade mannen. Enligt spanska medier ska han ha dött omedelbart. En annan kvinna i 40-årsåldern, bosatt på Mallorca, fick en bröstskada. UD bekräftar dödsfallet: UD känner till att en svensk man i 30-årsåldern, hemmahörande i Svealand, avlidit den 17 augusti i Spanien. Anhöriga är underrättade. Busslinjen på sträckan mellan Palma och Valldemossa har ställts in tillsvidare. En svensk person i 20-årsåldern ska vara livshotande skadad efter att ha fallit från en hög höjd under en vandring i östra Österrike. Olyckan inträffade på måndagseftermiddagen, enligt den österrikiske polisen. Personen, som vandrade tillsammans med en vän, ska ha fallit 30 meter, ner för en brant och stenig sluttning. Polis och räddningstjänst tillkallades. På grund av svåra väderförhållanden kunde räddningsinsatsen påbörjas strax innan skymning. Den unga svensken fördes med ambulanshelikopter till sjukhus och uppges ha livshotande skador.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
