@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:34:49Z",
+  "generated_at": "2026-08-19T13:28:35Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "180ec219b955",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "USA-räntor faller efter återköpsbesked",
+          "summary": "Nyheter från TV4: USA-räntor faller efter återköpsbesked",
+          "body_text": "Det var fallande kurser att hantera för handlarna på Wall Street på tisdagen. Långa amerikanska marknadsräntor faller sedan USA:s finansdepartement meddelat att man kommer minst fördubbla återköpen av obligationer med långa löptider (10–30 år). ”Den nuvarande maximala volymen på två miljarder dollar per operation kommer att bli minst fyra miljarder dollar per operation”, skriver departementet i ett pressmeddelande. Räntan på USA:s 30-åriga statsobligationer faller till 5,19 procent, vilket kan jämföras med en topp över 5,30 procent så sent som i tisdags – vilket var den högsta räntenivån sedan 2007. Enligt finansdepartementet är de ökade återköpen, som ska inledas den 9 september, ett sätta att skjuta till likviditet på marknaden. Det pekar uppåt på terminsmarknaden inför onsdagens börshandel på Wall Street efter beskedet.",
+          "url": "https://www.tv4.se/artikel/tt-260819-usaranta1-e24d5748/usa-rantor-faller-efter-aterkopsbesked",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlB5JokXm3IfM/d952047a79792c8a9170637423abba5e/Det_var_fallande_kurser_att_hantera_for_handlarna_pa_Wall_Street_pa_tisdagen._",
+          "published_at": "2026-08-19T13:10:26Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260819-usaranta1-e24d5748/usa-rantor-faller-efter-aterkopsbesked",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "03125c47356b",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "e352f54e3536",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "5ee54dfe02bb",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "d083058ea4bf",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdltDKFuquYLJA/47bf74bab3ebd54ede26085464c65212/Det_g_r_tr_gt_f_r_sminkj_tten_Est_e_Lauder._Arkivbild.",
           "published_at": "2026-08-19T10:47:39Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260819-usaesteelauder1-db62375d/skonhetsbjassen-gar-battre-an-vantat",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "28858dc13faa",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Lyft för amerikanska varuhuskedjan",
-          "summary": "Nyheter från TV4: Lyft för amerikanska varuhuskedjan",
-          "body_text": "Det går bättre för varuhuskedjan Target. Arkivbild. Den amerikanska varuhuskedjan Target lyfter försäljningsprognosen efter ett starkare kvartalsresultat än väntat. Försäljningen för jämförbara enheter ökade med 3,8 procent på årsbasis under det gångna kvartalet som avslutades 1 augusti i det brutna räkenskapsåret. Försäljningsprognosen för helåret, som avslutas i början av 2027, höjs till ett lyft med 5 procent jämfört med föregående år. Detta efter tre år i rad med fallande försäljning.",
-          "url": "https://www.tv4.se/artikel/tt-260819-usatarget1-1dc2e31b/lyft-for-amerikanska-varuhuskedjan",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdl0jzhnND_N5c/95c30136cfb553d46e9dd2d0b59607ba/Det_gar_battre_for_varuhuskedjan_Target._Arkivbild.",
-          "published_at": "2026-08-19T10:44:33Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260819-usatarget1-1dc2e31b/lyft-for-amerikanska-varuhuskedjan",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Flera gripna i razzia • Över 100 kilo knark • Adresser bevakas Jonatan Alfvén inför rätta för grovt förtal • ”Måste vara tillåtet” ”Många upplever att de har blivit vilseledda” Kabelproblem dämpar priserna – men dyrare vinter väntas Fick elräkning på 14 000 kronor: ”Trodde nån kopplat upp sig”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Flera gripna i razzia • Över 100 kilo knark • Adresser bevakas Jonatan Alfvén inför rätta för grovt förtal • ”Måste vara tillåtet”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1721,6 +1721,81 @@
           "sort_order": 0
         },
         {
+          "id": "6277ae8ecc2d",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Penn State fraternity members among 14 charged in major cocaine ring bust | Fox News Video",
+          "summary": "Fourteen individuals, including Penn State students and fraternity members, are charged in connection with a major campus cocaine ring. City & State Pennsylvania managing editor Justin Sweitzer weighs in during 'Fox & Friends.'",
+          "body_text": "Fourteen individuals, including Penn State students and fraternity members, are charged in connection with a major campus cocaine ring. City & State Pennsylvania managing editor Justin Sweitzer weighs in during 'Fox & Friends.' Pennsylvania authorities charge 14 individuals, including current and former Penn State University students, for their alleged involvement in a massive campus drug ring. Prosecutors reveal the illicit operation distributed cocaine through prominent fraternities like Delta Upsilon and Sigma Chi. City & State Pennsylvania managing editor Justin Sweitzer breaks down how the drug ring was busted and its impact on the student community.",
+          "url": "https://www.foxnews.com/video/6403703886112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5eaead85-ad67-4428-a47b-7cc4a28f7eee/2c1e6ada-4ad4-4e39-9bdd-351d91e25edf/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-19T12:46:09Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403703886112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "42da96907e9c",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Schools test remote-controlled security drones to neutralize active shooters | Fox News Video",
+          "summary": "Kurt 'CyberGuy' Knutsson joins 'Fox & Friends First' to showcase must-have back-to-school technology, including active shooter defense drones for schools, new tablets, data privacy services and reusable notebooks.",
+          "body_text": "Kurt 'CyberGuy' Knutsson showcases innovative back-to-school technology on 'Fox & Friends First,' starting with active shooter defense drones being tested in schools. Knutsson also reviews the new Apple iPad Air with the M4 chip, the Samsung Galaxy Tab S10 Lite, Incogni's data removal service and the Rocketbook reusable digital notebook to help students prepare for the academic year.",
+          "url": "https://www.foxnews.com/video/6403703603112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1207c75-379b-4859-9bb3-3d5a01a18725/53dc2d86-5a1e-4f8c-bc6a-63492a616260/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-19T12:44:18Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403703603112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "1074c5cd2029",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "FDA-approved focused ultrasound therapy targets Parkinson's disease symptoms | Fox News Video",
+          "summary": "Dr. Bhavya Shah and Parkinson's patient Bud Leavell explain a groundbreaking focused ultrasound therapy. The non-invasive procedure uses MRI guidance to target brain areas, instantly stopping severe tremors.",
+          "body_text": "Dr. Bhavya Shah and Parkinson's patient Bud Leavell explain a groundbreaking focused ultrasound therapy. The non-invasive procedure uses MRI guidance to target brain areas, instantly stopping severe tremors. Dr. Bhavya Shah, an interventional neuroradiologist at UT Southwestern Medical Center, breaks down a revolutionary focused ultrasound treatment that eliminates Parkinson's tremors in minutes. Patient Bud Leavell describes his incredible experience going from severe shaking to completely steady hands without invasive surgery.",
+          "url": "https://www.foxnews.com/video/6403703800112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0b2bca7-6640-4a3b-bc7d-b9cd8ec7d773/432d9bad-198d-49e1-9398-399949ff7a4b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-19T12:43:31Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403703800112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 3
+        },
+        {
           "id": "a19b0e4fc691",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "76f1e1e32d65",
@@ -1768,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "b9dd1e937a9b",
@@ -1793,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "4531fd68261b",
@@ -1818,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "e9201b629abd",
@@ -1843,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "0e0c0d269214",
@@ -1868,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "cc9433bbaad2",
@@ -1885,81 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff7a0ce5-82a6-4c5c-bdf3-5a53c6ff5895/a8984ce4-91e8-4925-83db-884ecca0e640/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-19T03:22:25Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403683849112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "4eb4b4fbd216",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "WATCH: Rep Byron Donalds reacts to his victory, says voters are choosing ‘common sense’ | Fox News Video",
-          "summary": "Florida GOP gubernatorial nominee Byron Donalds discusses affordability, transgender policies, and the DSA’s rise on ‘Fox News @ Night.’",
-          "body_text": "Florida GOP gubernatorial nominee Byron Donalds discusses affordability, transgender policies, and the DSA’s rise on ‘Fox News @ Night.’",
-          "url": "https://www.foxnews.com/video/6403682472112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4c7ffd1-97f8-4f01-a490-65fb3a16bdab/0fe9ecf4-cdc1-411b-8bac-240c349eaf3a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-19T03:19:46Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403682472112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "9577b958c770",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "'Gutfeld!': Should we be concerned? | Fox News Video",
-          "summary": "Fox News contributor Tom Shillue and the 'Gutfeld!' panel discuss Gen Z betting on sports as an investment strategy.",
-          "body_text": "Fox News contributor Tom Shillue and the 'Gutfeld!' panel discuss Gen Z betting on sports as an investment strategy.",
-          "url": "https://www.foxnews.com/video/6403682466112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321b1b83-8fae-4806-bc6b-14be7365fb97/6c1f5182-4273-4997-be27-306cd7293348/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-19T03:12:07Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403682466112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "b1c4975e50cc",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kat Timpf: I love an ugly animal! | Fox News Video",
-          "summary": "Fox News analyst Kat Timpf highlights the winner of the world's ugliest dog contest and defends her love for unique animals on 'The Five.'",
-          "body_text": "Fox News analyst Kat Timpf highlights the winner of the world's ugliest dog contest and defends her love for unique animals on 'The Five.' Fox News analyst Kat Timpf spotlights Jinny Lu, the winner of the world's ugliest dog contest, and shares her passion for adopting unique pets. Timpf tells a hilarious story about her husband's reaction when she brought home her cat with one eye.",
-          "url": "https://www.foxnews.com/video/6403683213112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e8939b4-e347-4921-aea1-52349b6dc13b/e05fc1b9-66ce-49f6-8968-48bd0ebfd49e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-19T02:57:00Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403683213112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2046,6 +2046,31 @@
           "sort_order": 13
         },
         {
+          "id": "c4814b961c03",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "WATCH LIVE: Lindsay Clancy murder trial continues in Massachusetts | Fox News Video",
+          "summary": "Lindsay Clancy, 36, is charged with three counts of first-degree murder in the deaths of her three children who were found strangled in the family's home in 2023. Prosecutors concluded their case Monday morning.",
+          "body_text": "Lindsay Clancy, 36, is charged with three counts of first-degree murder in the deaths of her three children who were found strangled in the family's home in 2023. Prosecutors concluded their case Monday morning.",
+          "url": "https://www.foxnews.com/video/6403703593112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb114a9f-0dea-4755-825e-46a771a116f1/4023fff8-a0b8-41d5-a73c-d1513f06629d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-19T12:31:43Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403703593112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 14
+        },
+        {
           "id": "07f0d30e86af",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2060,31 +2085,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7538ab6-202c-4caa-9d38-afbd461b8ff4/d2240b79-ad67-47ed-9980-00937c85057b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-18T20:47:04Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403665792112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "83ff9022db05",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Lindsay Clancy trial: Defense argues postpartum psychosis as mother's texts are read in court | Fox News Video",
-          "summary": "The defense presents its case in the Lindsay Clancy murder trial, focusing heavily on postpartum psychosis. Bryan Llenas reports the latest and Dr. Marc Siegel analyzes Clancy's extensive psychiatric medication history and mental state.",
-          "body_text": "The defense presents its case in the Lindsay Clancy murder trial, focusing heavily on postpartum psychosis. Bryan Llenas reports the latest and Dr. Marc Siegel analyzes Clancy's extensive psychiatric medication history and mental state. Defense attorneys present their case in the Lindsay Clancy murder trial in Plymouth, Massachusetts, focusing on postpartum psychosis. Harris Faulkner reviews Clancy's psychiatric struggles after her mother read an emotional text in court. Dr. Marc Siegel joins to analyze Clancy's medical history, detailing how doctors prescribed her 13 medications over a four-month period prior to the tragedy.",
-          "url": "https://www.foxnews.com/video/6403653692112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4e86086-2d45-4ae5-b0ea-39035583c862/c20e76dd-c76b-4f1b-9aed-7ba1198a7554/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-18T17:06:37Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403653692112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,54 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "f41babb8e0fc",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Ukrainian man arrested in Croatia over Nord Stream blasts",
+          "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+          "body_text": "A Ukrainian man has been arrested in Croatia on suspicion of taking part in the bombing of the Nord Stream gas pipelines between Russia and Germany. The suspect is alleged by German authorities to have been one of the scuba divers who planted explosives on the pipelines in September 2022, following Russia's full-scale invasion of Ukraine. He is the second man to be arrested over the plot, which has strained relations between Kyiv and Berlin - one of the key European backers for Ukraine's war effort. \"The suspect participated in the necessary dives\" for the sabotage, German prosecutors alleged, adding they were pursuing the suspect's extradition from Croatia. Prosecutors identified the man only as trained scuba diver Vladimir Z, however he is understood to be Volodymyr Zhuravlyov, who was arrested in Poland in 2025 over the undersea plot. In that case, a Polish judge refused a German extradition request, arguing that if Ukraine was responsible for the attack, then it was a \"just\" act. Zhuravlyov was then released, prompting a ripple of surprise from the crowd in court and a smile from the man in the dock. The other suspect in the case is former Ukrainian military officer Serhiy Kuznetsov. He was arrested in Italy in August 2025 and later extradited to Germany where he is set to face trial. He has denied responsibility for the explosions and appeared before a court in Hamburg in June. Prosecutors allege Kuznetsov led a team that used a yacht rented at Rostock in Germany to plant explosives on the pipelines close to the Danish Baltic Sea island of Bornholm. Although the Nord Stream 1 pipeline was in operation at the time, Nord Stream 2 had yet to go into service. After his planned extradition from Croatia, they say he will be brought before an investigating judge to face charges of causing explosions and sabotage. Blame for the blasts, which crippled a long-controversial energy supply line from Russia to Germany, initially focused on Moscow until signs of Ukrainian involvement began to emerge.",
+          "url": "https://www.bbc.com/news/articles/c78gp7l5348o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
+          "published_at": "2026-08-19T12:47:53Z",
+          "embed_url": "https://www.bbc.com/news/articles/c78gp7l5348o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "e452d0590a5c",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+          "summary": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+          "body_text": "At least 21 people have been killed and another four injured in a head-on collision between a minibus and a lorry in southern Brazil, local officials say. The crash happened at around 04:30 local time (07:30 GMT) on the BR-373 highway in the southern state of Paraná. Local media reported that the minibus belonged to the health authorities of the nearby city of Imbituva and was transporting patients and their relatives to health appointments in Ponta Grossa, some 60km (36 miles) away. Authorities have opened an investigation to determine what may have caused the two vehicles to crash into each other. The highway has been closed while forensic experts and members of Brazil's federal highway police examine the site of the crash, which is located at kilometre 209. Deadly road traffic accidents are not uncommon in Brazil. According to a study published by the World Bank, more than 34,000 people died in such accidents in 2023, most of them were motorcyclists. Research suggests excessive speed, inebriated drivers and the use of mobile phones while driving is often the cause. In February, 15 people died on board a bus carrying pilgrims to a festival in the north-eastern state of Ceará.",
+          "url": "https://www.bbc.com/news/articles/cpvwgk1n2k8o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a986/live/d6173c80-9bbc-11f1-ae8a-8d57110c5ba6.jpg",
+          "published_at": "2026-08-19T12:25:30Z",
+          "embed_url": "https://www.bbc.com/news/articles/cpvwgk1n2k8o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "d51d093102c4",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2121,8 +2169,8 @@
           "surface": "video",
           "source_kind": "mixed",
           "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-          "summary": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
-          "body_text": "The Israeli army has ordered a criminal investigation into the killing in Gaza of six-year-old Hind Rajab, whose death was internationally condemned after a desperate recording of her speaking to paramedics was broadcast around the world. The Palestinian child was one of seven family members travelling in a vehicle that came under Israeli fire in Gaza City in January 2024. She initially survived the attack that killed several family members, but her body was recovered days later along with her relatives and two paramedics who had tried to save her in an ambulance. In a statement, the Israel Defense Forces (IDF) said that \"following a review of the findings\" and \"due to alleged failures in the coordination of the movement of the Palestine Red Crescent ambulance, it has been decided to initiate a criminal investigation of the incident by Military Police Criminal Investigation Division\". This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version. You can receive Breaking News on a smartphone or tablet via the BBC News App . You can also follow @BBCBreaking on X to get the latest alerts.",
+          "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+          "body_text": "The Israeli army has ordered a criminal investigation into the killing in Gaza of five-year-old Hind Rajab, whose death was internationally condemned after a desperate recording of her speaking to paramedics was broadcast around the world. The Palestinian child was one of seven family members travelling in a vehicle that came under Israeli fire in Gaza City in January 2024. She initially survived the attack that killed several family members, but her body was recovered days later along with her relatives and two paramedics who had tried to save her in an ambulance. In a statement, the Israel Defense Forces (IDF) said that \"following a review of the findings\" and \"due to alleged failures in the coordination of the movement of the Palestine Red Crescent ambulance, it has been decided to initiate a criminal investigation of the incident by Military Police Criminal Investigation Division\". This is the first time the IDF has admitted opening fire on the vehicle carrying Hind and her family. Previously the IDF said its initial investigation suggested no Israeli troops had been in the area at the time of the incident. Hind Rajab's car was hit by Israeli fire as she and her family tried to flee bombing during the war in Gaza. Several family members were killed, but Hind managed to answer a callback from the helpers at the Palestinian Red Crescent Society, which lasted hours. Her pleas for someone to rescue her ended when the phone line was cut amid the sound of more gunfire. The ambulance trying to reach her was also shelled, and the bodies of Hind, her family, and the ambulance crew were all later found.",
           "url": "https://www.bbc.com/news/articles/crl7yjlpx2po",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
           "published_at": "2026-08-19T12:18:49Z",
@@ -2133,8 +2181,32 @@
             "World",
             "BBC"
           ],
-          "is_live": true,
-          "sort_order": 0
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "6bd3230e3d41",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Mount Ololokwe: Six tourists and pilot killed in Kenya helicopter crash",
+          "summary": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+          "body_text": "Six tourists and a pilot have been killed after a helicopter crashed at Mount Ololokwe in central Kenya, air accident officials have told the BBC. The Aircraft Accident Investigation Department said the nationalities of the pilot and passengers were yet to be confirmed. The Kenya Civil Aviation Authority (KCAA) said the accident happened in Samburu county at approximately 09:13 local time (06:13 GMT). It said the helicopter was on a scenic flight from a wildlife conservancy in Loisaba to Ewaso Nyiro, a river that flows along several national reserves. An image shared online shows smoke at the crash site at Mount Ololokwe. The Kenya Red Cross has told the BBC that the area is not yet accessible, but drones are being used to assess the scene. The KCAA said the accident involved a Eurocopter EC130 B4 and it was co-ordinating operations. The transport ministry and Air Accident Investigations Department would lead \"investigations into the circumstances surrounding the accident\", it added. Samburu county is a popular tourist destination with many private wildlife conservancies and is renowned for its stunning scenery. Helicopter crashes are not uncommon in Kenya. In February, a helicopter crash in the Rift Valley county of Nandi killed six people, including a member of parliament. In 2024, the military chief, Gen Francis Omondi Ogolla, died after an army helicopter that was carrying 11 people crashed in the west of the country, with only two survivors.",
+          "url": "https://www.bbc.com/news/articles/clylkv4z59vo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ac7e/live/bbf43cb0-9bce-11f1-a291-b542ee92de7c.jpg",
+          "published_at": "2026-08-19T11:32:51Z",
+          "embed_url": "https://www.bbc.com/news/articles/clylkv4z59vo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "ebc993343194",
@@ -2158,7 +2230,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "79a538815e0b",
@@ -2182,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "bcc227ab63c6",
@@ -2206,31 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "32b3c1ba2ce5",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
-          "summary": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
-          "body_text": "Seventeen Iranians have been charged for allegedly conducting a years long \"co-ordinated campaign\" of cyber attacks in an effort to steal data from US organisations. The US Department of Justice (DoJ) said members of the Iran-based Mabna Institute had targeted the computer systems of 144 American universities and 42 private sector firms since at least 2013. The group is alleged to have stolen more than 31 terabytes of academic data and intellectual property worth approximately $3.4bn (£2.5bn) over the course of the \"massive\" campaign, the DoJ said. FBI assistant director in charge James C Barnacle Jr described the co-ordinated cyber attacks as \"a serious threat to our national security\". Many of the attacks were conducted on behalf of Iran's Islamic Revolutionary Guard Corps (IRGC), the DoJ said in a statement, as well as for \"other Iranian government and university clients\". \"Backed by the IRGC, this operation reflects a broader, organised effort to target US institutions and global partners,\" Barnacle said. The DoJ said Mabna had targeted the accounts of 100,000 academics around the world, and successfully compromised 8,000 professor email accounts at 144 US-based universities and another 178 academic institutions internationally. The campaign started in approximately 2013 and continued until at least December 2017, the DoJ added. The department also announced it was offering a $10m (£7.3m) reward for information leading to the location of five of the alleged hackers-for-hire who have been charged. US Attorney for the Southern District of New York Jamie McDonald said cyber operations have \"become a central instrument of national power\", warning of the dangerous impact cyber attacks have on US security and the economy. In addition to academic institutions, Mabna is alleged to have targeted and compromised employee email accounts from at least five US federal and state government agencies. At least 42 US-based private companies and 11 foreign companies based in Germany, Italy, Switzerland, Sweden and the UK were also targeted, the DoJ said.",
-          "url": "https://www.bbc.com/news/articles/c1m14n4llvvo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8f96/live/725697b0-9ba6-11f1-a4e6-dfdb59e74cb0.jpg",
-          "published_at": "2026-08-19T09:48:16Z",
-          "embed_url": "https://www.bbc.com/news/articles/c1m14n4llvvo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "989a255e0eeb",
@@ -2254,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "31c0db0832bd",
@@ -2278,7 +2326,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "7e2f7f6c2a61",
@@ -2302,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "e363092886a4",
@@ -2326,7 +2374,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 10
         },
         {
           "id": "1a063ac9f067",
@@ -2338,43 +2386,19 @@
           "source_kind": "mixed",
           "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
           "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-          "body_text": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal. \"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL!\" Trump said in a social media post. The announcement came less than two hours before a 50% levy on nearly $20bn (£14.8bn; C$28bn) of Canadian imports was set to go in place. The two sides have been at an impasse on several issues, including US tariffs on autos and many Canadian provinces banning American liquor sales. Trump and Canadian Prime Minister Mark Carney spoke twice this week, and trade negotiators have been engaged in intense talks since July, after the US president threatened the new levy with a deadline of 19 August. \"Substantial progress has been made, although there is important work still to be done,\" Carney said in a letter posted on X. In his post, Trump also said a final trade deal could allow the revival of the Keystone XL pipeline. The oil pipeline, which would connect Alberta to the US, was blocked by both the Obama and Biden administrations. Environmentalists and indigenous groups have long opposed the pipeline but Trump has said multiple times he would like to revive the project, which would carry 830,000 barrels of oil a day. \"The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!\" Trump wrote on Truth Social. \"The deal will include comprehensive market access for all American goods, economic security commitments, digital trade alignment\", US Trade Representative Jamieson Greer's office posted on X. It will also include \"many important provisions that will continue to protect our market and American workers, along with our Canadian partners\", it added. The extension is welcome news for Canadian negotiators and for businesses on both sides of the border, who have warned that the new tariffs would be harmful to both countries.",
+          "body_text": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal. \"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL!\" Trump said in a social media post. The announcement came less than two hours before a 50% levy on nearly $20bn (£14.8bn; C$28bn) of Canadian imports was set to go in place. The two sides have been at an impasse on several issues, including US tariffs on autos and many Canadian provinces banning American liquor sales. Trump and Canadian Prime Minister Mark Carney spoke twice this week, and trade negotiators have been engaged in intense talks since July, after the US president threatened the new levy with a deadline of 19 August. \"Substantial progress has been made, although there is important work still to be done,\" Carney said in a letter posted on X. In his post, Trump also said a final trade deal could allow the revival of the Keystone XL pipeline. The oil pipeline, which would connect Alberta to the US, was blocked by both the Obama and Biden administrations. Environmentalists and indigenous groups have long opposed the pipeline but Trump has said multiple times he would like to revive the project, which would carry 830,000 barrels of oil a day. \"The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!\" Trump wrote on Truth Social. \"The deal will include comprehensive market access for all American goods, economic security commitments, digital trade alignment\", US Trade Representative Jamieson Greer's office posted on X. It will also include \"many important provisions that will continue to protect our market and American workers, along with our Canadian partners\", it added. Tuesday's extension is welcome news for Canadian negotiators and for businesses on both sides of the border, who have warned that the new tariffs would be harmful to both countries.",
           "url": "https://www.bbc.com/news/articles/cy9wz79ze29o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
           "published_at": "2026-08-19T02:41:36Z",
           "embed_url": "https://www.bbc.com/news/articles/cy9wz79ze29o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "4e89b111b25d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-          "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-          "body_text": "A member of Tupac Shakur's entourage was combative in testimony during the second day of the rapper's murder trial, decrying being forced to take the stand and identify those responsible for Shakur's death. James \"Mob James\" McDonald said he was threatened with being held in contempt of court if he did not testify on Tuesday. Duane \"Keffe D\" Davis is charged with murder and accused of orchestrating Shakur's death. He has pleaded not guilty. McDonald was asked repeatedly whether he could identify who was responsible for Shakur's death. \"You're asking me something that wouldn't be good for him,\" he said pointing to Davis. \"I don't want to send you to prison,\" he also told the accused. The trial - which aims to put to rest one of America's most high-profile unresolved murders - comes 30 years after the West Coast rapper's death. Shakur was just 25 years old when he was gunned down in a drive-by shooting on a Las Vegas street after a Mike Tyson boxing match on 7 September 1996. Prosecutors allege Davis, a former leader of the South Side Compton Crips street gang, planned the shooting after his nephew Orlando Anderson was involved in a fight with Shakur in Las Vegas hours earlier. They argue that Davis believed the attack on his nephew could not \"go unanswered\". The shooting came at a time when gangs had a hold over the '90s hip-hop scene, street code forbade police cooperation and distrust of authorities was rampant in the wake of the high-profile police brutality case of Rodney King and the subsequent LA riots. Shakur himself, in an ambulance after he was shot, refused to talk to a police officer about what happened, instead telling him, \"we'll take care of it\". He died in hospital six days later. And now 30 years on, McDonald appeared conflicted over breaking that street code. The witness, who said he had little love for Davis, remained hesitant when he took the stand on Tuesday to recount what happened. McDonald - a former member of rival Blood street gang offshoot Mob Piru and enforcer at Suge Knight's Death Row Records label, which represented Shakur - testified that he was not with Shakur when the shooting took place. He was repeatedly questioned by Davis's defence attorney Michael Sanft about whether he witnessed the attack and whether he knew who was there at the time.",
-          "url": "https://www.bbc.com/news/articles/ckg3j15v2npo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e351/live/b5761980-9b79-11f1-afeb-4d7c67d79c36.jpg",
-          "published_at": "2026-08-19T02:26:49Z",
-          "embed_url": "https://www.bbc.com/news/articles/ckg3j15v2npo",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
             "World",
             "BBC"
           ],
-          "is_live": true,
-          "sort_order": 10
+          "is_live": false,
+          "sort_order": 11
         },
         {
           "id": "43d9c565ac4a",
@@ -2386,7 +2410,7 @@
           "source_kind": "mixed",
           "title": "Sacked Ukrainian defence minister calls for presidential election",
           "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-          "body_text": "Ukraine's popular ex-defence minister Mykhailo Fedorov has called for wartime elections, in what is widely seen as the biggest challenge to Volodymyr Zelensky's presidency since Russia's full-scale invasion four and a half years ago. \"Democracy cannot be held hostage by Russia,\" said Fedorov, 35, in a video posted to YouTube on Tuesday, adding that Ukraine is fighting \"precisely because we want to remain a free European state\". Since the war broke out in 2022 Ukraine has been under martial law, meaning elections are suspended. Fedorov, who did not mention Zelensky by name in the video, was unexpectedly fired from his role as defence minister last month, just six months after his appointment. Zelensky is yet to respond to the video from Fedorov, whose dismissal sparked protests across the country . However, a source in the presidential office told the BBC it was \"highly bizarre to plan elections amidst missiles and drones. This demonstrates a complete lack of realism\". In a separate development, Ukraine's two anti-corruption agencies said they were conducting a special operation targeting current and former MPs as well as an unnamed official in the presidential office. Hours later, Zelensky's office said its deputy head Iryna Mudra had been dismissed, amid local media reports of a raid on her premises. There was no immediate comment from Mudra, although MP Vadym Stolar, whose home was searched as part of the operation, said he was co-operating with anti-corruption officials. In his video, Fedorov complained that corruption was depriving the military of weapons and equipment and making it harder for Kyiv to win the war. He spoke of Ukraine facing a \"systemic crisis of governance\" and being \"scared of change\". About 100 protesters gathered outside the Ukrainian parliament on Wednesday morning, chanting \"bring back Fedorov as minister of defence\" and \"we are fed up, we want dialogue\". Fedorov is a charismatic politician, and during his tenure as defence minister, he was credited with energising the ministry, heading a drive against corruption, challenging outdated military structures and transforming the battlefield with new technology. His dismissal in mid-July is believed to have resulted from tensions between him and army commander-in-chief, Oleksandr Syrskyi. Within days Syrskyi was also replaced, as mounting protests calling for Fedorov's reinstatement piled pressure on the Ukrainian president.",
+          "body_text": "Ukraine's popular ex-defence minister Mykhailo Fedorov has called for wartime elections, in what is widely seen as the biggest challenge to Volodymyr Zelensky's presidency since Russia's full-scale invasion four and a half years ago. \"Democracy cannot be held hostage by Russia,\" said Fedorov, 35, in a video posted to YouTube on Tuesday, adding that Ukraine is fighting \"precisely because we want to remain a free European state\". Since the war broke out in 2022 Ukraine has been under martial law, meaning elections are suspended. Fedorov, who did not mention Zelensky by name in the video, was unexpectedly fired from his role as defence minister last month, just six months after his appointment. Zelensky is yet to respond to the video from Fedorov, whose dismissal sparked protests across the country . However, a source in the presidential office told the BBC it was \"highly bizarre to plan elections amidst missiles and drones. This demonstrates a complete lack of realism\". In a separate development, Ukraine's two anti-corruption agencies said they were conducting a special operation targeting current and former MPs as well as an unnamed official in the presidential office. Hours later, Zelensky's office said its deputy head Iryna Mudra had been dismissed, amid local media reports of a raid on her premises. There was no immediate comment from Mudra, although MP Vadym Stolar, whose home was searched as part of the operation, said he was co-operating with anti-corruption officials. In his video, Fedorov complained that corruption was depriving the military of weapons and equipment and making it harder for Kyiv to win the war. He spoke of Ukraine facing a \"systemic crisis of governance\" and being \"scared of change\". About 100 protesters gathered outside the Ukrainian parliament on Wednesday morning, chanting \"bring back Fedorov as minister of defence\" and \"we are fed up, we want dialogue\". Fedorov is a charismatic politician, and during his tenure as defence minister, he was credited with energising the ministry, heading a drive against corruption, challenging outdated military structures and transforming the battlefield with new technology. His dismissal in mid-July is believed to have resulted from tensions between him and army commander-in-chief, Oleksandr Syrskyi.",
           "url": "https://www.bbc.com/news/articles/cdew8n9erlwo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
           "published_at": "2026-08-19T01:31:15Z",
@@ -2398,7 +2422,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 11
+          "sort_order": 12
         },
         {
           "id": "643406d1c9f6",
@@ -2422,30 +2446,6 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 12
-        },
-        {
-          "id": "78e402e038b1",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Meta hooked children on Facebook and Instagram, US court hears",
-          "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-          "body_text": "A court has heard claims Meta intentionally hooked a generation of children on Facebook and Instagram, as the biggest legal challenge faced by the social media platform began. A jury in Oakland, California will spend the next six weeks wading through claims by top attorneys from several US states and lawyers for the social media company. A lawyer for California claimed Meta found \"millions\" of 11 and 12-year-olds were on Instagram and \"did little to keep them off\" as the trial opened on Tuesday. Meta's representative said just over 100,000 such users were found, and argued that social media addiction does not exist. California's lawyer said Meta knew its platforms hurt teen mental health, while Meta said it was being ignored how many more teens had good experiences. The states are seeking billions of dollars from Meta and are demanding it make changes to Instagram and Facebook , including ending \"like\" counts and infinite scroll. In her opening arguments Megan O'Neill, a lead attorney for California, relied heavily on information found in millions of documents provided in the case from Meta. They included internal research, employee emails, and chat logs that went all the way up to Zuckerberg. One piece of internal research on Instagram stated: \"Teens have an addict's narrative about use.\" In another that O'Neill pointed the jury to, Meta found \"product features designed to increase time spent are inherently at odds with well-being and take away from people's ability to focus on activity that adds value to their lives\". Despite Meta's awareness of potentially negative impacts, O'Neill argued that Meta targeted young people as users of Facebook and Instagram. Meta, she said, went out of its way to \"assure the public that its platforms were safe for kids\". O'Neill outlined to the jury how Meta's business model could be summed up. \"Hook the users; hold them for as long as they can; harvest their data; hide the truth from the public when making public statements,\" she said. She said that throughout the trial it would become clear that what Meta said publicly about its platforms and what its internal research showed were very different.",
-          "url": "https://www.bbc.com/news/articles/cly5r7vr7q1o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b4ee/live/4f771a70-9b84-11f1-bdab-bd265066e1df.jpg",
-          "published_at": "2026-08-18T22:11:07Z",
-          "embed_url": "https://www.bbc.com/news/articles/cly5r7vr7q1o",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
           "sort_order": 13
         }
       ]
@@ -3937,6 +3937,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "5787c3605bba",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "The Remarkable Paper Pro is as outrageous as it is luxurious",
+          "summary": "Remarkable’s newest E Ink note-taking device doesn’t just add a front light, but it also adds incredible color that is both a technological marvel and one of its biggest flaws.",
+          "body_text": "You probably don’t need the Remarkable Paper Pro. It’s too luxury. You know those sports cars that look like spaceships but will drive into a streetlamp if you sneeze? That’s the kind of luxury I’m talking about. This is the hypercar of E Ink note-taking devices. It’s got a front light! It’s got color! It’s got an 11.8-inch display! It’s got the very best keyboard case available today! And it’s got a totally audacious choice of a display. It’s not a device for consuming books or comics (though you can sideload them if you want), but it is for marking up documents and taking notes really, really well. (The operating system is identical to the one for the Remarkable 2.) Starting at $579 (available directly from Remarkable and Best Buy), the Paper Pro is not a practical device for most people, but Remarkable has pushed E Ink displays to their limits here, and by God do I love it for that. I need to take a minute here to geek the hell out over the display. The company didn’t go with the faded colors of the Kaleido display found in devices from Kobo and Boox. No, Remarkable decided to use the way-less-popular Gallery display technology and then put their own spin on it. (They call it the Canvas Color display.) Gallery is lauded because the color is richer and clearer than Kaleido. Where Kaleido achieves color by applying black and white pigments to a filter, Gallery skips the filter and moves actual color pigment. But moving all that color comes at a cost: Gallery displays have a much, much, much slower refresh rate. [Image: The display relies on dithering to maximize the number of colors it can render. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602417/Remarkable_Paper_Pro_by_AKrales__11_.jpg?quality=90&strip=all] I’m talking unpleasantly slow. The kind of slow that will make you pull your hair out in frustration writing anything. Except on the Remarkable Paper Pro. Writing on this thing is smooth like butter. The experience is just as pleasant as writing on the Remarkable 2. It’s just a hair better than the experience found on the Kindle Scribe or any number of Kobo and Boox devices I’ve tried over the years. Writing in black ink, I am constantly amazed at how perfectly everything seems to work — the knowledge of the Gallery display’s limitations always at war with the impressive reality Remarkable has created. And then I switch to writing in color ink. There are six colors to choose from: blue, red, green, yellow, cyan, and magenta. Choose any of them and get to doodling. Writing in color is as smooth as writing in black. Pen strokes begin rendering in black, with the chosen color chasing the black away over the course of the stroke. Then, when you stop writing, there’s a pause, and the entire screen refreshes, the new colors now in place. It’s one way Remarkable is getting around Gallery’s atrocious refresh rate. But is it obnoxious in practice? It kind of is! Especially at first. Yet you pick up the rhythm quickly and the annoyance fades away. I found myself being less bothered in only a couple of minutes. And I also kept asking myself, “Does this really matter?” [Image: Like the previous generations, it has pads for stability and pogo pens to connect to the pricey Type Folio. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602703/Remarkable_Paper_Pro_by_AKrales__10_.jpg?quality=90&strip=all] The Remarkable Paper Pro isn’t a tool for artists (though it does support layers and shading). You’re not supposed to unlock creativity. You’re using these colors so slide decks and PDFs of business reports look nice as you circle the changes you want made in red. You’re using these colors to faithfully render a book’s art or to add pizzazz to a header you’ve written in a brainstorming notebook. You’re using them to highlight all the numbers you have to remember for that Q4 presentation of profitability. In those cases, a little flash is annoying but not the end times. And for me, the knowledge of how faithful this whole thing is at rendering color has me forgiving the flash — because hot damn, they put Gallery in a Remarkable and pushed it to the limits! That’s some concept car wildness from a note-taking device company. But I am surprised that the boldness that inspired the display choice didn’t carry over to the front light. It’s... fine. It’s dimmer than what others offer, and you can’t control the color temperature of the light, which is annoying in 2024. Remarkable ostensibly went with a less powerful and flexible front light because of the demands of the Paper Pro’s design. The front light has to be extraordinarily thin so there’s no distracting gap between the glass you’re writing on and the E Ink display beneath. And there isn’t! But I also haven’t found that gap as distracting as one would expect in a Boox or the Kindle Scribe. So while I respect Remarkable’s commitment to minding the gap, I would prefer a better front light. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602715/Remarkable_Paper_Pro_by_AKrales__4_.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602717/Remarkable_Paper_Pro_by_AKrales__2_.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602711/Remarkable_Paper_Pro_by_AKrales__8_.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602712/Remarkable_Paper_Pro_by_AKrales__7_.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602710/Remarkable_Paper_Pro_by_AKrales__9_.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602713/Remarkable_Paper_Pro_by_AKrales__6_.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602714/Remarkable_Paper_Pro_by_AKrales__5_.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602718/Remarkable_Paper_Pro_by_AKrales__1_.jpg?quality=90&strip=all] Thankfully, Remarkable’s panache for design reveals one other winner: this company now makes the absolute best keyboard case you can get. The $229 Type Folio puts every other keyboard case I’ve ever used, for tablets and computers alike, to shame. It’s so thin and light, I keep finding myself surprised at the exceptional keyboard packed inside. It’s also got great stability when open on your knees and a clever way of keeping the pen out of your way. More than even the bold colors of the Remarkable Paper Pro, it’s the keyboard case that grabs people’s eyes. This is what every keyboard case should be like. It’s really that good. Like the rest of the Remarkable Paper Pro, the Type Folio feels like the company showing off at the expense of price. Like a hypercar, it doesn’t feel necessary for most people to own, and it’s probably too expensive, but it’s showing off the future, and that future is a lot faster and more colorful than you’d think.",
+          "url": "https://www.theverge.com/2024/9/4/24234815/the-remarkable-paper-pro-is-as-outrageous-as-it-is-luxurious",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25602420/Remarkable_Paper_Pro_by_AKrales__3_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2024-09-04T12:00:00Z",
+          "embed_url": "https://www.theverge.com/2024/9/4/24234815/the-remarkable-paper-pro-is-as-outrageous-as-it-is-luxurious",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "a4691e5a7716",
           "source_id": "theverge-latest",
           "source_name": "The Verge",
@@ -3958,7 +3982,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "c12206e56dec",
@@ -3982,7 +4006,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "cb68172a3a6f",
@@ -4006,31 +4030,31 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
-          "id": "7efdcdd9c397",
+          "id": "95cb6267fb4b",
           "source_id": "theverge-latest",
           "source_name": "The Verge",
           "provider": "The Verge",
           "category": "Latest",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Segway’s iconic (and oft-ridiculed) self-balancing scooter is ending production",
-          "summary": "Segway has announced it’s ending production of its iconic and oft-ridiculed self-balancing scooter on July 15th. Over a dozen employees are being laid off. The scooter was a big deal when it was first announced nearly two decades ago, but has since gained notoriety for its failure to catch on.",
-          "body_text": "Segway announced Tuesday that it is ending production of its signature self-balancing scooter, the Segway Personal Transporter (PT). Manufacturing at the company’s Bedford, New Hampshire, factory will end on July 15th, and 21 employees will be laid off. The news was first reported by Fast Company. Since the original Segway’s debut 20 years ago, the market has become saturated with electric-powered two-wheelers of many varieties. Moreover, Segway said the iconic and oft-ridiculed scooter only accounted for 1.5 percent of the company’s revenue. But the coronavirus pandemic and the resulting disruption in global manufacturing and supply chains were not factors, the company said. “Given our decades-long history, we recognize that this decision may come as a disappointment to our strong and loyal following among private owners, who view the Segway as one of the more innovative creations of the early 21st century,” Segway president Judy Cai said in a statement. “We are grateful for the support and loyalty of our consumers and are proud of the impact our products have made on our customers’ lives and the reputation of the Segway brand.” When the product launched, the head of Segway said it “will be to the car what the car was to the horse and buggy.” But almost immediately, those predictions gave way to ridicule. Time magazine named it one of the top 10 biggest tech failures of the decade, citing its inflated price point ($5,000 to $7,000) and its confusing classification as a road vehicle requiring licensing in some countries. The Segway was a common sight at malls and airports, used by law enforcement or security guards. It was also often seen transporting herds of tourists around certain cities. But the company always struggled to find customers. Faced with dwindling revenue, Segway ended up being sold off twice to investors, once in 2009 and then again in 2013. The first, British investor, Jimi Heselden, died in an ironic, tragic Segway crash in 2010, and the second, Summit Strategic Investments, intended to ”refocus” Segway over several years, but that project was never completed. In 2015, Segway was acquired by Ninebot, the Chinese rival that Segway previously accused of copying its signature scooter. Since then, the company has grown to become the predominant supplier of e-scooters to the burgeoning shared scooter industry. And it continues to develop new, self-balancing vehicles, like the egg-shaped S-pod that debuted at this year’s CES.",
-          "url": "https://www.theverge.com/2020/6/23/21300365/segway-self-balancing-scooter-end-production-layoffs",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20049066/469727056.jpg.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C65.440652972118&w=1200",
-          "published_at": "2020-06-23T16:49:56Z",
-          "embed_url": "https://www.theverge.com/2020/6/23/21300365/segway-self-balancing-scooter-end-production-layoffs",
+          "title": "https://www.theverge.com/2024/9/4/24234815/the-remarkable-paper-pro-is-as-outrageous-as-it-is-luxurious\\\"\\u003eRemarkable",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.theverge.com/2024/9/4/24234815/the-remarkable-paper-pro-is-as-outrageous-as-it-is-luxurious\\\"\\u003eRemarkable",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.theverge.com/2024/9/4/24234815/the-remarkable-paper-pro-is-as-outrageous-as-it-is-luxurious\\\"\\u003eRemarkable",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
             "Latest",
             "The Verge"
           ],
-          "is_live": true,
-          "sort_order": 3
+          "is_live": false,
+          "sort_order": 4
         },
         {
           "id": "068f904f425f",
@@ -4054,7 +4078,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "8525b783c456",
@@ -4078,7 +4102,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "089db0d7ff9a",
@@ -4095,30 +4119,6 @@
           "image_url": "",
           "published_at": null,
           "embed_url": "https://www.theverge.com/2021/9/18/22678226/castlevania-grimoire-of-souls-apple-arcade-michiru-yamane\\\"\\u003einterviewed",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "c09a0095a93c",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "https://www.theverge.com/2020/6/23/21300365/segway-self-balancing-scooter-end-production-layoffs\\\"\\u003ebrand’s",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.theverge.com/2020/6/23/21300365/segway-self-balancing-scooter-end-production-layoffs\\\"\\u003ebrand’s",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.theverge.com/2020/6/23/21300365/segway-self-balancing-scooter-end-production-layoffs\\\"\\u003ebrand’s",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4245,7 +4245,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till 25% på toppar, tunikor och tröjor Upp till halva priset hos Revolution Race! Sommarrea – upp till 70% på heminredning",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4303,6 +4303,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "10bd5c0a0e62",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Vill bli statsminister 2030",
+          "summary": "Jimmie Åkesson säger i en intervju med franska nyhetsbyrån AFP att han siktar på statsministerposten om fyra år, 2030.",
+          "body_text": "Jimmie Åkesson säger i en intervju med franska nyhetsbyrån AFP att han siktar på statsministerposten om fyra år, 2030. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. – Det kommer fler val och jag siktar på posten som statsminister 2030 eller senare, säger Sverigedemokraternas partiledare. Han säger till nyhetsbyrån att Tidöpartierna är överens om att Ulf Kristersson (M) är den statsministerkandidat man kommer att stödja om det blir en seger för högersidan i det kommande valet. – I gengäld får vi stort inflytande i en sådan regering och kommer att få betydande ministerposter, säger han. I april i år gick Kristersson för första gången ut med att planen är att SD skulle få ministerposter i nästa regering. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/politik/jimmie-akesson-siktar-pa-statsminister-2030/",
+          "image_url": "https://static.bonniernews.se/images/27/f6/27f6d1c902904e759597a93d6f7844aa/16x9/original.jpg",
+          "published_at": "2026-08-19T13:24:18Z",
+          "embed_url": "https://www.expressen.se/nyheter/politik/jimmie-akesson-siktar-pa-statsminister-2030/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "4f3c76d90a68",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Familj i drunkningsolycka – tre döda: ”Tragiskt”",
+          "summary": "Familjen gav sig ut för att simma vid stranden i engelska Shoreham. Nu är tre personer döda och en flicka vårdas på sjukhus. – Tragiskt nog har en man, en kvinna och en tonårsflicka bekräftats avlidna, säger polischefen James Collis, enligt Daily Mail.",
+          "body_text": "Familjen gav sig ut för att simma vid stranden i engelska Shoreham. Nu är tre personer döda och en flicka vårdas på sjukhus. – Tragiskt nog har en man, en kvinna och en tonårsflicka bekräftats avlidna, säger polischefen James Collis, enligt Daily Mail . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En stor räddningsinsats inleddes på tisdagen i den engelska kuststaden Shoreham, strax utanför Brighton . En fiskare hade då räddat ett barn från havet och slagit larm om att fler personer var i nöd. Enligt Daily Mail hade familjen under en tid tältat på stranden. – Just nu utgår vi från att att alla fyra gick i vattnet från land för att bada och sorgligt nog fick de problem, säger lokala polischefen James Collis, till tidningen. En man, en kvinna och en tonårsflicka omkom i drunkningsolyckan och en flicka vårdas på sjukhus med allvarliga skador. – Vi kan bekräfta att alla fyra kom från samma familj och deras närmaste anhöriga är underrättade, säger James Collis. En fiskare säger till Daily Mail att det var stora vågor på havet vid tillfället. Flera ambulanser, två helikoptrar och brittiska kustbevakningen deltog i insatsen som avlutades på tisdagskvällen. Myndigheterna sa då att inga flera personer saknades. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/familj-i-drunkningsolycka-tre-doda-i-england/",
+          "image_url": "https://static.bonniernews.se/images/49/b0/49b0a938a0d443b890e75f383b21acb0/16x9/original.jpg",
+          "published_at": "2026-08-19T12:56:05Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/familj-i-drunkningsolycka-tre-doda-i-england/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "85bcd3dd2ba4",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4324,7 +4372,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "5284ecd3ba1e",
@@ -4348,7 +4396,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "d108e2b4c37a",
@@ -4372,7 +4420,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "8d94f00c0831",
@@ -4396,7 +4444,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "d0ac8f397adf",
@@ -4420,7 +4468,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "94c73d480428",
@@ -4444,7 +4492,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "ee315ad68443",
@@ -4461,54 +4509,6 @@
           "image_url": "https://static.bonniernews.se/images/96/04/96046e43acac456995d760805eda3cef/16x9/original.png",
           "published_at": "2026-08-19T01:08:10Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/hegseths-privata-resa-orsakar-spekulationer-om-2028/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "e8d6e7409fe4",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Vändning i Hormuz – Iran förlorar kontrollen",
-          "summary": "Iran förlorar greppet i kampen om kontrollen över Hormuzsundet. Enligt analyser tar allt fler fartyg rutten nära Oman där USA utlovar beskydd. – Iran har delvis tappat kontrollen över sundet, säger Andy Lipow vid oljebolaget Lipow Oil Associates.",
-          "body_text": "Iran förlorar greppet i kampen om kontrollen över Hormuzsundet. Enligt analyser tar allt fler fartyg rutten nära Oman där USA utlovar beskydd. – Iran har delvis tappat kontrollen över sundet, säger Andy Lipow vid oljebolaget Lipow Oil Associates. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Donald Trump hävdar att USA har ”full kontroll över Hormuzsundet”. I en av sina återkommande trollningar utropade den amerikanska presidenten också att passagen är ett ”nytt amerikanskt territorium”. Irans chefsförhandlare Mohammad Bagher Ghalibaf svarade med nya hot. – Vi är redo att tillfoga fienden ett ännu mer förkrossande nederlag. – Hormuzsundet kommer inte att öppnas förrän de amerikanska åtaganden som anges i samförståndsavtalet har genomförts. Iran förlorar alltmer av greppet om trafiken i Hormuzsundet. Över 80 procent av fartygen går nu nära Omans kust, enligt data från Kpler. För en månad sedan gick nästan ingen trafik den vägen. Det är oklart hur stor trafiken är, eftersom många fartyg stänger av sina sändare. Enligt analyser från Kpler, som spårar fartyg med hjälp av transpondrar och satellitdata, förlorar Iran alltmer av kontrollen över sundet. Över 80 procent av fartygen som har passerat genom sundet de senaste två veckorna har gått via en rutt nära Omans kust, en farled där USA utlovat beskydd, som FN förespråkar och som Iran motsätter sig, rapporterar CNN . – Det ser i allt högre grad ut som att de åtminstone delvis har tappat kontrollen över sundet, säger Homayoun Falakshahi, chef för råoljeanalys på Kpler, till nyhetskanalen.",
-          "url": "https://www.expressen.se/nyheter/varlden/vandningen-i-hormuzsundet-iran-forlorar-kontrollen/",
-          "image_url": "https://static.bonniernews.se/images/d2/e2/d2e28c1e553d415ca12d5bc413d999d1/16x9/original.png",
-          "published_at": "2026-08-18T23:48:47Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/vandningen-i-hormuzsundet-iran-forlorar-kontrollen/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "948b9cc71f13",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Politikern lurades i sexfälla – av spion",
-          "summary": "Tidigare toppdemokraten Eric Swalwell fastnade i en misstänkt kinesisk sexfälla. I förhör med FBI som nyligen blivit offentliga erkände han sexträffar med den utpekade spionen Christine Fang. – Fang dök upp vid Swalwells dörr och gjorde klart för honom att hon inte hade några underkläder på sig, vittnar en tidigare medarbetare.",
-          "body_text": "Tidigare toppdemokraten Eric Swalwell fastnade i en misstänkt kinesisk sexfälla. I förhör med FBI som nyligen blivit offentliga erkände han sexträffar med den utpekade spionen Christine Fang. – Fang dök upp vid Swalwells dörr och gjorde klart för honom att hon inte hade några underkläder på sig, vittnar en tidigare medarbetare. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. FBI-dokument som nu blivit offentliga säger att Eric Swalwell hade flera sexuella möten med Christine Fang 2012–2015. Fang misstänks av FBI ha kopplingar till kinesisk underrättelsetjänst. Enligt handlingarna rekryterade hon också potentiella praktikanter till Swalwells politiska organisation. FBI utredde om Swalwell tagit emot otillåtna bidrag eller gjort något olagligt. Utredningen lades ner 2017. Den tidigare demokratiska kongressledamoten Eric Swalwell var favorit att bli Kaliforniens nya guvernör. Men anklagelserna om sexuella övergrepp fick honom att överge kandidaturen – och lämna kongressen. Nu riktas nya skandalanklagelser mot den tidigare toppdemokraten, rapporterar New York Post och Fox News . På måndagen offentliggjorde Vita husets ”Transparency Task Force” FBI-dokument som uppges visa att Eric Swalwell hamnat mitt i en sexfälla iscensatt av kinesiska spioner. I dokumenten erkänner han ”fysiska relationer” med Fang Fang, som hon också kallas, vid en handfull tillfällen mellan 2012 och 2015. Däremellan valdes Swalwell som ledamot till representanthuset. Förhören med Swalwell genomfördes 2015 sedan Fang hade uppmärksammats av FBI i en kontraspionageutredning på grund av sina kopplingar till politiskt viktiga personer i San Francisco-området.",
-          "url": "https://www.expressen.se/nyheter/varlden/toppdemokraten-eric-swalwell-lurades-i-sexfalla-av-misstankt-kinesisk-spion/",
-          "image_url": "https://static.bonniernews.se/images/fb/60/fb6089f4d172447eb103b65d7870849f/16x9/original.jpg",
-          "published_at": "2026-08-18T21:41:57Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/toppdemokraten-eric-swalwell-lurades-i-sexfalla-av-misstankt-kinesisk-spion/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4569,7 +4569,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Portugals president har utfärdat en lag som förbjuder att man täcker ansiktet på allmän plats – en åtgärd som anses vara riktad mot muslimska kvinnor som bär heltäckande slöja. Lagen, som i lokala medier kallas för ”burkalagen” efter det heltäckande plagg som vissa muslimska kvinnor bär för att täcka hår och ansikte, antogs i slutet av juli med stöd från den högerinriktade regeringskoalitionen och ytterhögern. – Ansiktet måste betraktas som ett centralt inslag i en mänsklig identitet och kommunikation, säger landets president Antonio José Seguro. Kritiker menar att lagen undergräver kvinnors rättigheter, eftersom de inte själva får bestämma vad de ska ha på sig. Den som bryter mot lagen riskerar böter på mellan 150 och 3 000 euro, motsvarande ungefär 1 700 till 35 000 kronor. Flera turister uppges ha dött när en helikopter kraschade i Kenya. Olyckan skedde på onsdagsmorgonen i Samburu, omkring 35 mil från huvudstaden Nairobi, uppger en person med insyn i ärendet för AFP. Jag kan bekräfta att en olycka har hänt och att det inte finns några överlevande, säger källan. Enligt den kenyanska tidningen The Star rör det sig om sju turister, men det finns inga uppgifter om var de var hemmahörande. Bilder i tidningen visar ett utbränt och helförstört vrak. En utredning har inletts. Två kvinnor i 70- respektive 85-årsåldern har dött efter en trafikolycka vid Marhult i Uppvidinge kommun, i Kronobergs län. Personbilen krockade först med en älg och frontalkrockade sedan med en lastbil. Anhöriga har underrättats. Lastbilschauffören klarade sig oskadd. – Ärendet hanteras som en olycka och det finns ingen misstanke om brott, säger Filip Annas, presstalesperson vid polisen,",
+          "body_text": "På Essingeleden i Stockholm har Trafikverket upptäckt ett slukhål, rapporterar P4 Stockholm . Minst ett körfält har stängts av och det finns risk för massiva köer. Slukhålet ska vara i höjd med Essingeöarna mot Södertälje. Trafikverket skriver att det har en \"mycket stor påverkan\" på trafiken och har vid 15-tiden en prognos på att det skulle kunna vara fixat till 16.00. Två män som hittads avlidna i ett tält i Härjedalen i juli dog av koloxidförgiftning, enligt polisen. Männen som var i 55-årsåldern hade anmälts försvunna när de var ute på en fiskeresa. \"Polisen har utrett dödsorsaken och den rättsmedicinska undersökningens resultatet visar att båda männen har dött av koloxidförgiftning. I tältet stod en kamin vars skorsten var avplockad och låg vid sidan om den\", skriver polisen på sin hemsida. Det finns ingen misstanke om brott. Männens anhöriga är underrättade. Portugals president har utfärdat en lag som förbjuder att man täcker ansiktet på allmän plats – en åtgärd som anses vara riktad mot muslimska kvinnor som bär heltäckande slöja. Lagen, som i lokala medier kallas för ”burkalagen” efter det heltäckande plagg som vissa muslimska kvinnor bär för att täcka hår och ansikte, antogs i slutet av juli med stöd från den högerinriktade regeringskoalitionen och ytterhögern. – Ansiktet måste betraktas som ett centralt inslag i en mänsklig identitet och kommunikation, säger landets president Antonio José Seguro. Kritiker menar att lagen undergräver kvinnors rättigheter, eftersom de inte själva får bestämma vad de ska ha på sig. Den som bryter mot lagen riskerar böter på mellan 150 och 3 000 euro, motsvarande ungefär 1 700 till 35 000 kronor. Flera turister uppges ha dött när en helikopter kraschade i Kenya. Olyckan skedde på onsdagsmorgonen i Samburu, omkring 35 mil från huvudstaden Nairobi, uppger en person med insyn i ärendet för AFP.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
