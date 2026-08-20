@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:58:43Z",
+  "generated_at": "2026-08-20T09:35:59Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -339,6 +339,30 @@
           "sort_order": 0
         },
         {
+          "id": "3d9598743400",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/emyqdDg/rapport/idag-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54754457/1787211711?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-20T09:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/emyqdDg/rapport/idag-09-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "8466580389f5",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -360,7 +384,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "7b33a431b610",
@@ -384,7 +408,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "fc1414655f9a",
@@ -401,30 +425,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54752720/1787206851?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-20T08:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jwqq6aM/rapport/idag-08-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "3d9598743400",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 09:30",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/emyqdDg/rapport/idag-09-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54754457/1787211711?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-20T07:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/emyqdDg/rapport/idag-09-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1535,6 +1535,30 @@
           "sort_order": 5
         },
         {
+          "id": "11e42b289f1d",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Igår 18:24",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "url": "https://www.svtplay.se/video/KBwwxNk/kulturnyheterna/igar-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54749606/1787157946?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-19T18:24:00Z",
+          "embed_url": "https://www.svtplay.se/video/KBwwxNk/kulturnyheterna/igar-18-24?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
           "id": "cd4e80c91a87",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
@@ -1556,7 +1580,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "c42045413056",
@@ -1580,7 +1604,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "20f2f04af899",
@@ -1597,30 +1621,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54705344/1786639561?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-19T18:24:00Z",
           "embed_url": "https://www.svtplay.se/video/KVwwxWL/kulturnyheterna/tor-13-aug-18-24?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "11e42b289f1d",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Igår 18:24",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "url": "https://www.svtplay.se/video/KBwwxNk/kulturnyheterna/igar-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54749606/1787157946?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-19T16:24:00Z",
-          "embed_url": "https://www.svtplay.se/video/KBwwxNk/kulturnyheterna/igar-18-24?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -2046,20 +2046,20 @@
           "sort_order": 13
         },
         {
-          "id": "9e4cc02721b2",
+          "id": "0e40d8372cae",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Jesse Watters Primetime - Wednesday, August 19 | Fox News Video",
-          "summary": "angie the agitator, florida red scare, battle of the sexes",
-          "body_text": "angie the agitator, florida red scare, battle of the sexes Jesse Watters speaks with newsmakers from across the U.S.",
-          "url": "https://www.foxnews.com/video/6403744576112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/3797ca85-cdaf-4f3b-8228-1b72f42fadca/a5eebe75-dbe6-45be-90d5-b035e3374f59/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-20T05:20:03Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403744576112",
+          "title": "Gutfeld! - Wednesday, August 19 | Fox News Video",
+          "summary": "FNC, Kat Timpf, Fmr Dr. Fauci Aide David Morens, Concealing COVID-19 Records, ABC News Suppressed COVID Lab Leak Story, Penn State Cocaine Ring Bust, Linkedin Dating, Mystery Affordable Vacations,",
+          "body_text": "FNC, Kat Timpf, Fmr Dr. Fauci Aide David Morens, Concealing COVID-19 Records, ABC News Suppressed COVID Lab Leak Story, Penn State Cocaine Ring Bust, Linkedin Dating, Mystery Affordable Vacations, Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+          "url": "https://www.foxnews.com/video/6403750809112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/f2d17b0e-9fbc-4add-a38a-0c81868aa3f3/f240dbe8-84d0-48dd-9b65-8a5a9cce4225/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-20T08:09:50Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403750809112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2071,20 +2071,20 @@
           "sort_order": 14
         },
         {
-          "id": "19b747044de4",
+          "id": "0465b79d7105",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Hannity - Wednesday, August 19 | Fox News Video",
-          "summary": "CNN , Florida , Trump",
-          "body_text": "Sean Hannity interviews political figures and newsmakers and offers his own perspective.",
-          "url": "https://www.foxnews.com/video/6403744530112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/45d5a88e-f190-4d4e-abcd-6b5d4e211782/fbe0c2e2-feac-4b8a-a6a7-1eb0f2fc2b30/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-20T04:21:39Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403744530112",
+          "title": "Fox News at Night - Wednesday, August 19 | Fox News Video",
+          "summary": "FNC, Fox News at Night, Trace Gallagher, illegal alien, murder, Virginia, Los Angeles, Joe Rogan, Hayden Panettiere, socialism, DSA, Pennsylvania, airport crash, men, women's sports, Trump, war, economy",
+          "body_text": "FNC, Fox News at Night, Trace Gallagher, illegal alien, murder, Virginia, Los Angeles, Joe Rogan, Hayden Panettiere, socialism, DSA, Pennsylvania, airport crash, men, women's sports, Trump, war, economy Hard news and analysis of compelling stories.",
+          "url": "https://www.foxnews.com/video/6403750991112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/cf94ea09-8560-4fec-a817-adf2e2607105/cd3e8a7f-8a2f-48e8-8385-d46225a4b531/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-20T07:58:35Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403750991112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2146,7 +2146,7 @@
           "source_kind": "mixed",
           "title": "Four workers dead after being hit by train in Japan",
           "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-          "body_text": "Four workers in Japan have died after being struck by a train at Shin-Kanuma Station, north of Tokyo, authorities say. The collision happened around 10:46 local time (01:46 GMT) while the workers were removing weeds from the train tracks, local media reported. When emergency services arrived at the scene three workers were trapped under the train, while one was on the platform, police said. Train service has been suspended on the Tobu Nikko Line due to the accident, according to the railway company operating the line. A passenger on the train told Japanese public broadcaster NHK that they heard a \"strange noise\" before the train made an emergency stop. He said passengers were stuck on the train for a while as staff announced that they were investigating the noise. Fatal train accidents are rare in Japan, which relies on a sprawling railway network. The train involved in Thursday's incident was a limited express train, according to NHK. These are the second-fastest trains in Japan, after the Shinkansen or bullet train. Usually, there would be an employee stationed nearby to warn workers on the tracks of approaching trains - but it was unclear what the situation was like on Thursday morning when the accident happened, the Asahi Shimbun newspaper reported. \"The usual lookout system was operating as normal - when a train approaches, a lookout waves a flag and, once the driver acknowledges it, sounds the horn,\" a representative from Tobu Railway told the BBC. \"We are currently investigating why the accident occurred despite this.\"",
+          "body_text": "Four workers in Japan have died after being struck by a train at Shin-Kanuma Station, north of Tokyo, authorities say. The collision happened around 10:46 local time (01:46 GMT) while the workers were spraying herbicide, said the Tobu Railway, the operator of the line. When emergency services arrived at the scene three workers were trapped under the train, while one was on the platform, police said. Train service has been suspended on the Tobu Nikko Line due to the accident, according to Tobu Railway. A passenger on the train told Japanese public broadcaster NHK that they heard a \"strange noise\" before the train made an emergency stop. He said passengers were stuck on the train for a while as staff announced that they were investigating the noise. Fatal train accidents are rare in Japan, which relies on a sprawling railway network. The train involved in Thursday's incident was a limited express train, according to NHK. These are the second-fastest trains in Japan, after the Shinkansen or bullet train. Usually, there would be an employee stationed nearby to warn workers on the tracks of approaching trains - but it was unclear what the situation was like on Thursday morning when the accident happened, the Asahi Shimbun newspaper reported. \"The usual lookout system was operating as normal - when a train approaches, a lookout waves a flag and, once the driver acknowledges it, sounds the horn,\" a representative from Tobu Railway told the BBC. \"We are currently investigating why the accident occurred despite this.\"",
           "url": "https://www.bbc.com/news/articles/c5yrnz24j22o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f75e/live/a3c7f8d0-9c59-11f1-ad5e-036c63448601.jpg",
           "published_at": "2026-08-20T06:02:10Z",
@@ -2290,7 +2290,7 @@
           "source_kind": "mixed",
           "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
           "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-          "body_text": "At least 13 people have been killed and 40 injured in the latest Russian strikes targeting the Ukrainian capital, Ukraine's prime minister said, as Kyiv continues to face a shortage of air defence missiles. Apartment blocks and warehouses were struck across the city overnight, the State Emergency Service of Ukraine said, while a children's hospital and school were also damaged. The deaths were the result of a shortage of air defence missiles, Ukrainian President Volodymyr Zelensky said, which Kyiv relies on western allies to supply. Speaking to BBC News at a wrecked apartment block in Kyiv, Mayor Vitali Klitschko said Ukraine needed \"ammunition, anti-missile systems - we need support from our partners\". As he was meeting residents whose flats were destroyed in Solomianskyi district, he said \"it's very important to have support from our partners\". Ukrainian MP Oleksiy Goncharenko told the BBC that Ukraine is \"absolutely unprotected\" from ballistic missile attacks and \"can't do anything\" without interceptors. Speaking to BBC Radio 4's Today programme, he said: \"Russia is using this trying to destroy as much infrastructure as possible. \"For us it's very painful because we are dying here every day without these interceptors.\" Writing on Telegram, Zelensky said \"as long as Ukraine does not have enough anti-ballistics, Russia will not seriously think about peace\". He added: \"The interceptors for the Patriots have not yet been replaced, and they are needed every day. Each additional missile saves the lives of our people.\" An update released by the Ukrainian Air Force on Thursday morning implied that none of the Russian ballistic missiles used overnight were intercepted. The Russian defence ministry said it used air, land and sea-based weapons to target military facilities and warehouses.",
+          "body_text": "At least 13 people have been killed and 40 injured in the latest Russian strikes targeting the Ukrainian capital, Ukraine's prime minister said, as Kyiv continues to face a shortage of air defence missiles. Apartment blocks and warehouses were struck across the city overnight, the State Emergency Service of Ukraine said, while a children's hospital and school were also damaged. The deaths were the result of a shortage of air defence missiles, Ukrainian President Volodymyr Zelensky said, which Kyiv relies on western allies to supply. Speaking to BBC News at a wrecked apartment block in Kyiv, Mayor Vitali Klitschko said Ukraine needed \"ammunition, anti-missile systems - we need support from our partners\". Klitschko was in Solomianskyi district to assess the damage. Around him, emergency workers continued to sift through rubble and people stood outside their destroyed homes. Among them was Valeria Bondaruk, who moved to Kyiv after her home in southern Ukraine was bombed, believing it would be safer for her and her daughter. Now she has been driven from her home for the second time during this war. A shard of glass embedded in her bedroom wall served as a sign of how close this was. She hid in a hallway overnight as they have no bomb shelter. She told the BBC she fears for her 13-year-old daughter's future and is considering leaving Ukraine. Ukrainian MP Oleksiy Goncharenko told the BBC that Ukraine is \"absolutely unprotected\" from ballistic missile attacks and \"can't do anything\" without interceptors. Speaking to BBC Radio 4's Today programme, he said: \"Russia is using this trying to destroy as much infrastructure as possible. \"For us it's very painful because we are dying here every day without these interceptors.\"",
           "url": "https://www.bbc.com/news/articles/c98vzmden5yo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/630f/live/b3d19af0-9c6e-11f1-8efc-bf1ca073197a.png",
           "published_at": "2026-08-20T01:43:36Z",
@@ -2301,7 +2301,7 @@
             "World",
             "BBC"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 7
         },
         {
@@ -2314,7 +2314,7 @@
           "source_kind": "mixed",
           "title": "Trump vows tougher economic measures on Iran and supporting countries",
           "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-          "body_text": "Donald Trump has said he will launch tougher economic measures against Iran, as well as any country that helps or does business with it. The US president wrote in all capital letters on Truth Social that he was launching \"the most crushing economic operation ever taken against any country\", without providing further details or the names of any nation other than Iran. It comes after a 60-day ceasefire formally expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict that the US and Israel began at the end of February. Trump's latest move appears to extend the US campaign of economic pressure, launched in April with the sanctioning of foreign banks or firms that do business with Tehran. In Wednesday evening's social media post, Trump said he was launching \"economic D-Day\" on Iran because it had failed to make a deal with the US. \"ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences,\" Trump said. He did not specify what punishment countries might face. Trump continued: \"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies - it all needs to stop NOW. You know who you are.\" It comes a day after the United Arab Emirates, a US ally, announced it would be severing all financial and economic ties with Iran, following a new missile threat from the country. The UAE's defence ministry said it had detected two ballistic missiles launched from Iran targeting maritime traffic, both of which landed in the sea. Iranian entities have long used Dubai's financial system to transfer money through exchange houses and shell companies. Following the UAE's decision, Iran's armed forces warned neighbouring Gulf countries against providing support to the US military, saying any assistance given to US forces would be considered collusion.",
+          "body_text": "Donald Trump has said he will launch tougher economic measures against Iran, as well as any country that helps or does business with it. The US president wrote in all capital letters on Truth Social that he was launching \"the most crushing economic operation ever taken against any country\", without providing further details or the names of any nation other than Iran. It comes after a 60-day ceasefire formally expired on Monday without any sign of a diplomatic settlement to the war the US and Israel began at the end of February. Tehran said Trump's threat would only bring further animosity. If realised, it would extend a campaign of economic pressure on Iran aimed at forcing it into submission. The US launched a wave of sanctions on foreign banks and firms that do business with Iran in April when it became apparent that military action had not led to the overthrow of the regime in Tehran nor its surrender, as Trump had initially hoped. Conversely, since the start of the war, Iran has been able to stem the flow of marine traffic through the Strait of Hormuz, raising energy prices globally. Ahead of the US midterm elections in November, Trump is facing pressure over how much the war is costing American consumers. The US president wrote on Wednesday evening that he was launching \"economic D-Day\" on Iran because it had failed to make a deal with the US. \"ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences,\" Trump said. He did not specify what punishment countries might face. Trump continued: \"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies - it all needs to stop NOW. You know who you are.\" It comes a day after the United Arab Emirates (UAE), a US ally, announced it would be severing all financial and economic ties with Iran, following a new missile threat from the country.",
           "url": "https://www.bbc.com/news/articles/c2k7e83ynj4o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
           "published_at": "2026-08-20T00:25:38Z",
@@ -2360,7 +2360,7 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "A constant presence by Trump's side, now Natalie Harp is suddenly in spotlight",
+          "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
           "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
           "body_text": "Few people in US President Donald Trump's orbit have appeared as frequently by his side as Natalie Harp in recent years. One of Trump's longest-serving and most loyal aides, 35-year-old Harp is trusted with typing out his Truth Social posts, among other top responsibilities. She was thrust again into the spotlight this week by Georgia Senator Jon Ossoff - a Democrat and frequent Trump foil - when he name-checked her during a speech that has since gone viral. Ossoff attacked Trump's \"travel with Natalie on their apparently defenceless flying palace gifted by the Emir of Qatar\". He was referring to the new Air Force One plane, as well as to reports that Harp joined Trump - and a small group of people - when he secretly swapped planes leaving Turkey last month. Here is what you need to know about the Trump assistant who has been called both a \"gatekeeper\" and a \"comfort blanket\". A California native and member of a conservative Christian family, Harp followed an unorthodox path into an already unconventional White House. She rose to fame by crediting Trump with saving her life. In his first term, Trump got the Right to Try Act passed to give some patients greater access to experimental treatments, which Harp used for her bone cancer. She quickly gained prominence and popularity in Trump's Maga (Make America Great Again) wing of the Republican party by talking about the experience, and soon after joined an advisory board for Trump's 2020 re-election campaign. \"When I failed the chemotherapies that were on the market, no-one wanted me in their clinical trials,\" she said at the 2020 Republican National Convention. \"They didn't give me the right to try experimental treatments, Mr President. You did, and without you, I'd have died waiting for them to be approved.\"",
           "url": "https://www.bbc.com/news/articles/c80nzdjgmk3o",
@@ -2377,22 +2377,22 @@
           "sort_order": 10
         },
         {
-          "id": "4cf7d5371bfc",
+          "id": "cfb2f41ffa28",
           "source_id": "bbc-video",
           "source_name": "BBC World",
           "provider": "BBC",
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-          "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-          "body_text": "Israel has opened up tenders for the construction of some 1,200 settlement homes in a strategically important part of the occupied West Bank, as the government seeks to end any chance of a Palestinian state. Plans to build on the so-called E1 area - east of Jerusalem - have long been internationally condemned, with settlements illegal under international law. The development would in effect divide the West Bank in two and isolate East Jerusalem. UK Foreign Secretary Ed Miliband has condemned the publication of a tender as \"an unacceptable and destructive act\", and called on Israel to \"halt E1 plans immediately, retract the tender and stop all settlement expansion\". Israel has built about 160 settlements housing 700,000 Jews since it occupied the West Bank and East Jerusalem - land Palestinians want, along with Gaza, for a hoped-for future state - during the 1967 Middle East war. An estimated 3.3 million Palestinians live alongside them. Despite the fierce international opposition, successive Israeli governments have allowed settlements to grow. However, expansion has risen sharply since Prime Minister Benjamin Netanyahu returned to power in late 2022 at the head of a right-wing, pro-settler coalition, as well as the start of the Gaza war, triggered by Hamas's 7 October 2023 attack on Israel. Under international pressure, Israel held off for decades on plans to build in E1. Many of its allies and Palestinians argued these would deal a major blow to hopes of a two-state solution, effectively bisecting the West Bank. But the current Israeli government gave the go-ahead for E1 construction a year ago, expressly to \"erase\" the idea of a Palestinian state. Despite an Israeli court challenge to the plans by Bedouin Palestinians living in the area and Israeli peace groups, the housing ministry has now issued a tender for 1,234 of the 3,401 housing units approved by the Israeli government last August. It covers about 12 sq km (4.6 sq miles) between East Jerusalem and the settlement of Maale Adumim.",
-          "url": "https://www.bbc.com/news/articles/cly50gn1e54o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
-          "published_at": "2026-08-19T15:50:22Z",
-          "embed_url": "https://www.bbc.com/news/articles/cly50gn1e54o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
+          "title": "Lindsay Clancy's trial put postpartrum psychosis on the map. Experts want progress to follow",
+          "summary": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
+          "body_text": "Warning: This story contains distressing details and discussion of attempted suicide A month before Lindsay Clancy killed her three children, she went to her mother and then-husband and told them she had \"thoughts of harming the children\". Clancy's mother Paula Musgrove testified this week that during that time Lindsay would say: \"'This isn't me, I've never been like this before.' And I would agree, because she wasn't.\" Clancy is not disputing that she carried out the killings, but has pleaded not guilty to murder charges. Her defence argues that Clancy was suffering from postpartum psychosis when she took her children's lives. Her symptoms included hallucinations and delusions that began after the birth of her third child. \"She was unable to conform her behaviour to the rule of law and she had no appreciation for the wrongfulness of her act,\" Paul Zeizel, a clinical and forensic psychologist, said on the stand on Wednesday. Prosecutors, meanwhile, alleged she made a calculated decision to intentionally kill her children - Cora, five, Dawson, three, and Callan, who was eight months. With postpartum psychosis, a rare condition that is considered a medical emergency, patients can experience mania, depression or a mixture of both. They also endure psychotic symptoms, such as hearing voices that aren't there. In uncommon, severe cases, they may harm or kill themselves or other people. It is among the most serious illnesses a woman can experience after giving birth, experts told the BBC, but it remains unclassified in medicine's encyclopaedia of psychiatry. The illness is gaining more attention as Clancy's trial approaches the one-month mark, and has opened up a dialogue about the mental health complications that women can experience after giving birth.",
+          "url": "https://www.bbc.com/news/articles/c5yedy98j7po",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/38e3/live/56feb170-91e0-11f1-9bc8-c9e5b4077192.jpg",
+          "published_at": "2026-08-19T16:30:55Z",
+          "embed_url": "https://www.bbc.com/news/articles/c5yedy98j7po",
+          "play_mode": "iframe",
+          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -3933,7 +3933,7 @@
       "source_kind": "story",
       "live_section": false,
       "status": "ok",
-      "article_count": 2,
+      "article_count": 4,
       "priority_split": 0,
       "articles": [
         {
@@ -3961,6 +3961,54 @@
           "sort_order": 0
         },
         {
+          "id": "fdc7b665dcf9",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "The Google graveyard: all the products Google has shut down",
+          "summary": "Follow along for The Verge’s coverage of every product Google sends to the graveyard. RIP Reader, Inbox, Wave, Clips, and others.",
+          "body_text": "Google releases a lot of products, but it shuts down a lot of them, too. Some didn’t deserve to be discontinued (we pine for the days of Reader and Inbox), and some probably weren’t long for this world from the start. (What was Google Wave supposed to be, anyway?) The company actually used to shut down products with quarterly “spring cleanings,” but now, it just does so whenever it’s time for another product to be put out to pasture. Follow along here for all our coverage of everything Google sends to the graveyard.",
+          "url": "https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10802831/akrales_180508_2553_0059.jpg?quality=90&strip=all&crop=0%2C18.23067446874%2C100%2C78.534031413613&w=1200",
+          "published_at": "2019-11-26T19:04:21Z",
+          "embed_url": "https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "776c4f5cac4a",
+          "source_id": "theverge-latest",
+          "source_name": "The Verge",
+          "provider": "The Verge",
+          "category": "Latest",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning\\\"\\u003eGoogle",
+          "summary": "",
+          "body_text": "",
+          "url": "https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning\\\"\\u003eGoogle",
+          "image_url": "",
+          "published_at": null,
+          "embed_url": "https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning\\\"\\u003eGoogle",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Latest",
+            "The Verge"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "6777f9ba2a97",
           "source_id": "theverge-latest",
           "source_name": "The Verge",
@@ -3982,7 +4030,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         }
       ]
     },
@@ -4101,7 +4149,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Sommarrea – upp till 70% på heminredning Upp till halva priset hos Revolution Race! Upp till 25% på toppar, tunikor och tröjor",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4159,6 +4207,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "82e65ec7ae1a",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Fyra män åtalas för massiv knarkförsäljning på nätet",
+          "summary": "Misstänkta säljare på Blocket för droger – ”Archetyp” – åtalas",
+          "body_text": "Fyra män åtalas för synnerligen grovt narkotikabrott. De misstänks ha agerat moderatorer på en av världens största narkotikahandelsplatser, ”Archetyp”, enligt stämningsansökan. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En svensk medborgare åtalas för att ha agerat säljare på handelsplatsen ”Archetyp” och två män åtalas för att ha hjälpt till vid försäljningarna på handelsplatsen, där all handel har skett med kryptovaluta. – Det här är en utredning som inte hade fungerat utan ett bra internationellt samarbete. Det är ett bra exempel på hur vi samarbetar över gränserna och delar information med varandra. Vi har kunnat säkra kryptovalutor och hämta in uppgifter från kryptoväxlare, säger statsåklagare Lena Medelius som är förundersökningsledare, i ett pressmeddelande. Polis och åklagare i Sverige har, enligt åklagarmyndigheten, främst arbetat med myndigheter i Tyskland, Spanien, USA och Holland. – Vi har fått mycket god hjälp av Eurojust som har koordinerat samarbetet, säger Lena Medelius. När marknadsplatsen stängdes av polisen i juni 2025 hade den haft över 600 000 användare. Minst 250 miljoner euro, motsvarande drygt 2,7 miljarder kronor, har omsatts på marknadsplatsen. Åklagaren menar att brottet är att bedömas som synnerligen grovt då hanteringen av narkotika avsett ett synnerligen stort antal narkotikaöverlåtelser. – Det här är en organiserad brottslighet som syftat till att i stor omfattning bedriva handel med narkotika i ett internationellt sammanhang under en längre tid. Det har varit av synnerligen farlig och hänsynslös art. Utredningen har pågått under lång tid eftersom det har varit ett omfattande material att analysera, säger Lena Medelius. Utredningen visar att de misstänkta sammanlagt har kommit över drygt 4 600 i kryptovalutan Monero, vilket med dagens växelkurs motsvarar ”ett betydande belopp om många miljoner kronor”, enligt åklagaren. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/krim/fyra-man-atalas-for-massiv-knarkforsaljning-pa-natet/",
+          "image_url": "https://static.bonniernews.se/images/6d/67/6d67151170484f7abe539048fd7ba699/16x9/original.png",
+          "published_at": "2026-08-20T09:09:46Z",
+          "embed_url": "https://www.expressen.se/nyheter/krim/fyra-man-atalas-for-massiv-knarkforsaljning-pa-natet/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "b8a9c9885d08",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4168,7 +4240,7 @@
           "source_kind": "story",
           "title": "JUST NU: Tysk man gripen för mord i Kalmar",
           "summary": "En 29-årig tysk kvinna har hittats död i Kalmar, enligt tysk polis. Kvinnan var på semester med sin partner – han är nu gripen. Svenska myndigheter utfärdade en europeisk arresteringsorder efter mannen.",
-          "body_text": "En 29-årig tysk kvinna har hittats död i Kalmar, enligt tysk polis. Kvinnan var på semester med sin partner – han är nu gripen. Svenska myndigheter utfärdade en europeisk arresteringsorder efter mannen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den tyska kvinnan hade varit på semester i Sverige tillsammans med sin partner när hon anmäldes försvunnen av sin mamma, skriver tysk polis och åklagare i ett pressmeddelande. Enligt anmälan hade hon varit försvunnen sedan den 26 juli. Den 7 augusti upptäcktes kvinnans kropp i Kalmar. Det fanns tecken som tydde på att hon hade blivit våldsamt dödad och partnern, en 33-årig man, misstänktes. En vecka senare utfärdade svenska myndigheter en europeisk arresteringsorder och tysk polis grep honom nära hans hem i Karlsruhe, enligt tyska myndigheter. Enligt åklagare i Tyskland är mannen tysk, men väntas bli utvisad till Sverige, enligt Bild . En 33-årig person häktades i Sverige förra veckan i sin utevaro misstänkt för mord och grovt gravfridsbrott i Kalmar län. Identiteten var belagd med sekretess och brottsoffret var då inte identifierat, enligt polisen. – Den avlidna är inte identifierad, sa polisens presstalesperson Thomas Johansson till Barometern då. Enligt svenska domstolshandlingar har brottet begåtts någon gång mellan den 7 juli och 7 augusti i år. Ärendet utreds nu av både svensk och tysk polis Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "En 29-årig tysk kvinna har hittats död i Kalmar, enligt tysk polis. Kvinnan var på semester med sin partner – han är nu gripen. Svenska myndigheter utfärdade en europeisk arresteringsorder efter mannen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den tyska kvinnan anmäldes försvunnen från sitt hem utanför Karlsruhe den 23 juli, enligt lokala medier. När polisen började utreda saken visade det sig att hon varit på semester i Sverige med sin partner i juli, skriver tysk polis och åklagare i ett pressmeddelande. Den 7 augusti upptäcktes kvinnans kropp i Kalmar län . Det fanns tecken som tydde på att hon hade blivit våldsamt dödad och partnern, en 33-årig man, misstänktes. En vecka senare utfärdade svenska myndigheter en europeisk arresteringsorder och tysk polis grep honom nära hans hem i Karlsruhe, enligt tyska myndigheter. Enligt åklagare i Tyskland är mannen tysk, men väntas bli utvisad till Sverige, enligt Bild . En 33-årig person häktades i Sverige förra veckan i sin utevaro misstänkt för mord och grovt gravfridsbrott i Kalmar län. Identiteten var belagd med sekretess och brottsoffret var då inte identifierat, enligt polisen. – Den avlidna är inte identifierad, sa polisens presstalesperson Thomas Johansson till Barometern då. Enligt svenska domstolshandlingar har brottet begåtts någon gång mellan den 7 juli och 7 augusti i år. Ärendet utreds nu av både svensk och tysk polis Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/tysk-man-misstanks-for-mord-i-kalmar-/",
           "image_url": "https://static.bonniernews.se/images/c7/8a/c78ac6108bf048298d779786aa47c61a/16x9/original.jpg",
           "published_at": "2026-08-20T08:34:29Z",
@@ -4180,7 +4252,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "f2ee0d96873f",
@@ -4190,9 +4262,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Buschs svar på inviten",
+          "title": "Buschs svar på inviten: ”Trevligt”",
           "summary": "Nu kommenterar Ebba Busch (KD) gårdagens C-utspel om en mittenregering.",
-          "body_text": "Trevligt att fler vill samarbeta med KD, säger Ebba Busch efter C-utspelet om en mittenregering. – I värsta fall kanske man hamnar i en nyvalssituation och då har vi möjligheter i ett sådant val också. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var på onsdagen som Centerledaren Elisabeth Thand Ringqvist sa att hon vill bilda regering med Socialdemokraterna och Kristdemokraterna. – Därför att Ebba Busch verkar ha ett stort intresse för Socialdemokraterna. Hon går inte så hårt åt dem som hon gjort tidigare. Det är ett tecken som man får tyda när man inte har så många andra tecken att tyda. Men hon brukar ju säga saker för att hon menar dem, säger hon till DN . Uttalandet kommer efter att KD-ledaren Ebba Busch upprepade gånger talat gott om S-ledaren Magdalena Andersson och förespråkat uppgörelser över blockgränsen i diverse frågor. Nu kommenterar Ebba Busch det nya utspelet. Hon välkomnar att det finns flera partier som vill samarbeta med hennes KD. Samtidigt ifrågasätter hon om Centern är villiga att möta KD i sakpolitiken. – Är ni beredda att diskutera och möta oss i frågan om hur vi får ordning på svensk sjukvård? säger hon. Förutom att förstatliga vården vill Busch också bland annat slopa alla pappamånader och komma bort från ”låsningarna” för att få till ny kärnkraft. Centern borde kliva över blockgränsen och göra upp med Tidöpartierna, enligt Busch som vill se en ny Tidöregering efter valet. – Om svaret på de här frågorna är ja – då blir frågan vad Centerpartiet gör bland de rödgröna. Jag kan absolut tänka mig Centerpartiet i en någon slags blågul konstellation, säger hon.",
+          "body_text": "Ebba Busch välkomnar att fler vill samarbeta med KD. Men hon ställer ett antal motkrav efter Centerpartiets invit – och går till hård attack mot MP. – I värsta fall kanske man hamnar i en nyvalssituation och då har vi möjligheter i ett sådant val också, säger KD-ledaren. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Centerledaren Elisabeth Thand Ringqvist har de senaste veckorna upprepat att hon vill bilda en regering i mitten tillsammans med Socialdemokraterna och Kristdemokraterna, och kanske även Miljöpartiet. Thand Ringqvist tror att det finns möjligheter att locka över Ebba Busch i ett läge där Tidöpartierna förlorar valet. Hon pekar på att KD-ledaren talar gott om S-ledaren Magdalena Andersson och förespråkar breda uppgörelser i flera frågor. – Ebba Busch verkar ha ett stort intresse för Socialdemokraterna. Hon går inte så hårt åt dem som hon gjort tidigare. Det är ett tecken som man får tyda när man inte har så många andra tecken att tyda. Men hon brukar ju säga saker för att hon menar dem, sa Thand Ringqvist till DN på onsdagen. På torsdagen kommenterade Ebba Busch inviten från Centerpartiet. Hon säger att hon välkomnar att flera partier vill samarbeta med Kristdemokraterna. Samtidigt ifrågasätter hon om Centerpartiet är villiga att mötas i sakpolitiken, och tar upp att KD vill förstatliga vården, något som Busch har sagt är ett krav inför framtida regeringsförhandlingar. – Är ni beredda att diskutera och möta oss i frågan om hur vi får ordning på svensk sjukvård? säger Ebba Busch. Hon nämner också Kristdemokraternas förslag att slopa pappamånaderna samt att hon vill komma bort från ”låsningarna” för att bygga ny kärnkraft. Centerpartiet borde i stället kliva över blockgränsen och göra upp med Tidöpartierna, enligt Busch, som vill se en ny Tidöregering efter valet.",
           "url": "https://www.expressen.se/nyheter/politik/ebba-busch-om-c-utspelet/",
           "image_url": "https://static.bonniernews.se/images/70/d5/70d527c238074e1b82f272a6c427b88a/16x9/original.jpg",
           "published_at": "2026-08-20T08:24:12Z",
@@ -4204,7 +4276,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "b7df1511c9a4",
@@ -4228,7 +4300,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "135f2da773fd",
@@ -4252,7 +4324,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "584f56010e00",
@@ -4276,7 +4348,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "9d1fe50dd4ff",
@@ -4300,7 +4372,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "6dc3ffaa7898",
@@ -4324,7 +4396,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "a297b7c3f25f",
@@ -4334,12 +4406,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sålde kroppsdelar och organ – från Harvard",
-          "summary": "Cedric Lodge, 58, skötte bårhuset på Harvard. Där stal han och sålde kroppsdelar från kroppar som skänkts till medicinsk utbildning. Nu betalar elituniversitetet över en halv miljard kronor i en förlikning med anhöriga.",
-          "body_text": "Cedric Lodge, 58, skötte bårhuset på Harvard. Där stal han och sålde kroppsdelar från kroppar som skänkts till medicinsk utbildning. Nu betalar elituniversitetet över en halv miljard kronor i en förlikning med anhöriga. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Cedric Lodges sidoverksamhet pågick mellan 2018 och 2021. Vardagsjobbet på Harvards bårhus, där kroppar som donerats till utbildning men som inte längre behövdes, förvarades. När skolan inte längre behöver kropparna brukar de kremeras och återbördas till sina familjer, eller begravas. Men Lodge och hans hustru tog kroppsdelar – huvuden, hjärnor, hud, inre organ och skelettdelar – och sålde dem vidare i stället. I december dömdes han till åtta års fängelse medan hans fru fick ett år och en dags fängelse. Ytterligare sex personer dömdes för att ha köpt kroppsdelarna. Vid sidan av pågick också en civilrättslig process där anhöriga stämt elituniversitetet för att ha ignorerat Lodges handlingar. På onsdagen meddelade Harvard att man nått en uppgörelse. I förlikningen ska Harvard betala 53 miljoner dollar, över en halv miljard kronor, till de anhöriga. ”Lodges brottsliga handlingar var moraliskt förkastliga och oförenliga med de normer som Harvard University och Harvard Medical School förväntar sig för behandlingen av anatomiska donatorer och deras anhöriga”, skriver Harvards ledning i ett uttalande . Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "title": "Världen I dag 02.32 Sålde kroppsdelar från Harvard – nu betalar universitet en halv miljard",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/varlden/salde-kroppsdelar-fran-harvard-nu-betalar-universitet-en-halv-miljard/",
-          "image_url": "https://static.bonniernews.se/images/da/f6/daf6a1da695d4a289a2b63b445ac8a8a/16x9/original.jpg",
-          "published_at": "2026-08-20T00:32:34Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/salde-kroppsdelar-fran-harvard-nu-betalar-universitet-en-halv-miljard/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4347,8 +4419,8 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 7
+          "is_live": false,
+          "sort_order": 8
         },
         {
           "id": "3bb35d741f3b",
@@ -4358,12 +4430,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Trumps hemliga operation: ”Varit extremt effektiv”",
-          "summary": "USA har genom en hemlig oljeoperation lyckats öppna den södra delen Hormuzsundet. Flera miljoner fat fraktas längs den omanska kusten varje dag. Men insatsen kräver en hel del – och hotet från Iran finns kvar.",
-          "body_text": "USA har genom en hemlig oljeoperation lyckats öppna den södra delen Hormuzsundet. Flera miljoner fat fraktas längs den omanska kusten varje dag. Men insatsen kräver en hel del – och hotet från Iran finns kvar. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Iran förlorar kontrollen över Hormuzsundet. Analysrapporten kom som en överraskning tidigare i veckan. Nu berättar New York Times om den hemliga operationen som USA genomför i farleden. Den norra delen av sundet är fortfarande under iranskt herravälde, men i den södra delen – rutten längs Omans kust – beskyddar amerikanska krigsfartyg, helikoptrar och stridsflyg de oljetankrar som försöker ta sig förbi den iranska blockaden. USA skyddar oljetankrar i södra delen av Hormuzsundet genom en hemlig militär insats. Fartyg går längs Omans kust med skydd av amerikanska krigsfartyg, helikoptrar och stridsflyg. Enligt USA har över 1 000 fartyg eskorterats. Omkring fem miljoner fat olja fraktas ut varje dag. Iran har fortfarande kontroll i den norra delen av sundet. – Vi har kontrollerat den södra farleden i två månader nu. Irans revolutionsgarde kan ställa till besvär, men de kontrollerar inte sundet. Det gör vi, hävdar en amerikansk regeringskälla för Axios . Före kriget skeppades mellan 15 och 20 miljoner fat olja genom sundet varje dag. När Irans kontroll var som störst lyckades endast några få fartyg ta sig igenom, men sedan juli har fartyg under USA:s beskydd fraktat ut omkring fem miljoner fat olja om dagen, skriver tidningen. Enligt Axios källa handlar det till och med om tio miljoner fat.",
+          "title": "Världen I dag 01.51 USA:s hemliga operation i Hormuzsundet",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/varlden/usas-hemliga-operation-i-hormuzsundet/",
-          "image_url": "https://static.bonniernews.se/images/db/0f/db0f64b26a3943b2864237e9e4d32ff0/16x9/original.png",
-          "published_at": "2026-08-19T23:51:57Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/varlden/usas-hemliga-operation-i-hormuzsundet/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4371,31 +4443,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "abf5a389f91b",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Ryska krisdraget efter attackerna",
-          "summary": "Ryssland brukar exportera olja. Efter Ukrainas målmedvetna bombande av landets raffinaderier tvingas de nu importera olja, rapporterar statskontrollerade nyhetssajten Vesti. ”Långdistanssanktioner”, kallas attackerna för av Ukrainas president Volodymyr Zelenskyj.",
-          "body_text": "Efter Ukrainas målmedvetna bombande av landets raffinaderier tvingas de nu importera olja, rapporterar statskontrollerade nyhetssajten Vesti. ”Långdistanssanktioner”, kallas attackerna för av Ukrainas president Volodymyr Zelenskyj. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. De senaste månaderna har Ukraina trappat upp attackerna mot ryska oljeraffinaderier. Den 10 juli kommenterade Zelenskyj en storskalig, landsomfattande bombkampanj mot ryska oljeraffinaderier. ”Den här veckan har våra krigare uppnått viktiga resultat i utfärdandet av långdistanssanktioner mot mot de ryska anläggningar som ger bränsle åt det här kriget”, skrev presidenten bland annat. Under onsdagen uttalade sig president Vladimir Putin om de ukrainska attackerna mot industri och infrastruktur. – Självklart har sådana attacker inte orsakat, och kommer inte orsaka, allvarliga konsekvenser. De orsakar dock skada. Detta är uppenbart, och vi förstår och medger det till fullo, sa den ryske presidenten, rapporterar nyhetsbyrån Reuters. Attackerna har orsakat bränslebrist och landet går nu från att vara en storskalig nettoexportör av olja till att tvingas importera den, enligt landets biträdande premiärminister Alexander Novak. – Importen har redan påbörjats, och alla nödvändiga regler har antagits för att möjliggöra produktion av ytterligare bränsle av lägre klass - Euro-2, Euro-3, Euro-4, säger Novak till statskontrollerade nyhetssajten Vesti. Ministern uttalade sig dock inte kring vilka volymer det handlar om eller vilka länder som det exporteras ifrån. Den inhemska tillgången väntas öka efter flera raffinaderier inom en snar framtid kommer genomgå ”schemalagt underhåll” och tas i drift, enligt Novak.",
-          "url": "https://www.expressen.se/nyheter/varlden/ryssland-tvingas--till-oljeimport/",
-          "image_url": "https://static.bonniernews.se/images/69/79/6979bf13283c4d7fb00993736d8fcbee/16x9/original.png",
-          "published_at": "2026-08-19T21:40:10Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/ryssland-tvingas--till-oljeimport/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4411,35 +4459,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "En buss har kolliderat med en busskur vid Londonviadukten på Södermalm på torsdagsmorgonen. Ingen person har blivit påkörd, men minst tre personer ska ha fått glassplitter på sig från busskuren. Enligt polisen är orsaken till olyckan inte känd. Polisen har inlett en förundersökning gällande vårdslöshet i trafik och vållande till kroppsskada. Under natten till torsdag får polisen larm om en skadad man utomhus i Krokoms kommun. Polisen misstänker att ett tillhygge kan ha använts för att skada mannen. Mannen förs till sjukvård, men lämnar senare. I en närliggande fastighet anträffas en kvinna i 30-årsåldern. Enligt initiala uppgifter har kvinnan och den skadade mannen en relation. Kvinnan grips misstänkt för försök till mord, alternativt grov misshandel. Hon anhålls senare av åklagare. Förhör hålls med både mannen och kvinnan, och den misstänkta brottsplatsen spärras av för teknisk undersökning. Fyra personer i Japan har avlidit sedan de körts på av ett tåg norr om Tokyo. De fyra jobbade med att rensa spåren från ogräs vid stationen Shin-Kanuma när dödsolyckan inträffade, rapporterar tv-kanalen Nippon. När räddningspersonal kom dit var tre arbetare fast under tåget och en var på perrongen, säger en talesperson för brandkåren till AFP. Tre män har gripits sedan en kvinna i 85-årsåldern i Lund utsatts för åldringsbrott och blivit av med bland annat guld. Sent på onsdagseftermiddagen larmades polisen om att kvinnan blivit uppringd av en person som sagt sig representera en bank eller ett försäkringsbolag. Kort därpå kom en gärningsman som bland annat fick med sig bankkort och guldsmycken, skriver polisen på sin sajt.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
