@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:58:51Z",
+  "generated_at": "2026-08-20T15:35:07Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Miljardär utsatt för bombdåd – misstänkt hittad i grund grav Ukrainsk officer erkänner mord på misstänkta Monacobombaren Hon pekas ut efter bombdådet i Monaco: ”Avskyvärt”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Miljardär utsatt för bombdåd – misstänkt hittad i grund grav Ukrainsk officer erkänner mord på misstänkta Monacobombaren Hon pekas ut efter bombdådet i Monaco: ”Avskyvärt” Busch om flirten med Andersson: Inget ess i rockärmen",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1721,6 +1721,56 @@
           "sort_order": 0
         },
         {
+          "id": "5eb3dcb08018",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Data centers emerge as a high-stakes issue in midterm elections | Fox News Video",
+          "summary": "Hudson Institute senior fellow Alexandra Seymour explains how data center development is shaping midterm elections as a Fox News poll shows 70% of registered voters oppose local facilities near their homes.",
+          "body_text": "Hudson Institute senior fellow Alexandra Seymour explains how data center development is shaping midterm elections as a Fox News poll shows 70% of registered voters oppose local facilities near their homes. Hudson Institute senior fellow Alexandra Seymour analyzes how data center expansion is influencing local midterm election races. A July 2026 Fox News poll reveals that 70 percent of registered voters oppose building these massive AI facilities nearby.",
+          "url": "https://www.foxnews.com/video/6403766542112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32991fbf-d0c4-4be0-a02a-c9ce0b405377/a6a6a98b-b6d1-4516-bc9e-b52c2184d68f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-20T15:26:26Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403766542112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "06c47c32f626",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump launches crushing 'Economic D-Day' operation targeting Iran | Fox News Video",
+          "summary": "Retired U.S. Navy Captain Brent Sadler discuss President Donald Trump's 'Economic D-Day' operation targeting Iran. The strategy aims to cut off financial lifelines keeping Tehran's proxy network alive in the Middle East.",
+          "body_text": "Retired U.S. Navy Captain Brent Sadler discuss President Donald Trump's 'Economic D-Day' operation targeting Iran. The strategy aims to cut off financial lifelines keeping Tehran's proxy network alive in the Middle East. President Donald Trump launches a crushing 'Economic D-Day' operation targeting Iran to choke off financial lifelines to its proxy networks. Retired U.S. Navy Captain Brent Sadler analyzes how the strategic blockade in the Strait of Hormuz could starve the Iranian economy and force Tehran to halt its regional aggression.",
+          "url": "https://www.foxnews.com/video/6403765660112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8c3a9ac-c1b0-4408-9895-f6f55a3627eb/0c823bf8-10dc-4b3e-be39-1d5bb0463e0f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-20T15:24:03Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403765660112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 2
+        },
+        {
           "id": "6ca54026160c",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1793,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "0999d4802540",
@@ -1768,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "615b35cb3ee1",
@@ -1793,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "ce73e80dc9c9",
@@ -1818,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "c5168fb98848",
@@ -1843,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "11516dd167d5",
@@ -1868,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "f416ba5f0ff7",
@@ -1893,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "d3bd9b83ac77",
@@ -1918,56 +1968,6 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "6ccab1cff3a5",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Dana Perino reacts to the rise of 'mystery vacations' on 'Gutfeld!' | Fox News Video",
-          "summary": "Dana Perino joins guest host Kat Timpf on 'Gutfeld!' to discuss the rising trend of mystery vacations. Perino explains why she would prefer a last-minute surprise destination over 72 hours of warning.",
-          "body_text": "Dana Perino joins guest host Kat Timpf on 'Gutfeld!' to discuss the rising trend of mystery vacations. Perino explains why she would prefer a last-minute surprise destination over 72 hours of warning. Mystery vacations are growing in popularity as travelers book surprise trips online. Dana Perino reacts to this viral trend on 'Gutfeld!' with guest host Kat Timpf, suggesting that destination notifications should be cut from three days to just 12 hours to prevent people from backing out of their travel plans.",
-          "url": "https://www.foxnews.com/video/6403753046112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9e5c5fb-45da-4743-a8d8-2f1bfaff728c/45b13040-4016-4786-be5c-334a2ee43bd3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-20T11:34:24Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403753046112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "d1f22bb91a75",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "United Arab Emirates cuts trade ties with Iran as tensions rise | Fox News Video",
-          "summary": "Fox News anchor Bret Baier and analyst Reince Priebus discuss the United Arab Emirates halting trade ties with Iran. Priebus explains how the development increases pressure on Iran amidst regional tensions.",
-          "body_text": "Fox News anchor Bret Baier and analyst Reince Priebus discuss the United Arab Emirates halting trade ties with Iran. Priebus explains how the development increases pressure on Iran amidst regional tensions. Isolating Iran becomes the primary objective as the United Arab Emirates halts trade ties following recent missile attacks. Fox News anchor Bret Baier and analyst Reince Priebus discuss how this dramatic shift impacts their historic $28B trade relationship. Priebus argues that increasing economic pressure is the most effective strategy to force negotiations.",
-          "url": "https://www.foxnews.com/video/6403753387112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9aa6fb9-0047-46b1-95cf-241ce634e885/a39d0634-545f-4797-81c1-ee15d0a4dd90/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-20T11:32:51Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403753387112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
           "sort_order": 10
         },
         {
@@ -2113,6 +2113,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "3b531690e95c",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Togo charges two French journalists over incorrect documents, rights group says",
+          "summary": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+          "body_text": "The two French journalists detained in Togo since last month have been charged with \"false declarations\" despite having the correct documents to work there, Reporters Without Borders (RSF) has said. Gaël Mocaër and Sebastian Perez Pezzani had been filming a documentary in Kara, northern Togo, for France Télévisions when they were arrested on 27 July, the media rights group said, despite having work visas and authorisation to film there. France's foreign ministry confirmed the detention of two nationals but did not provide further details. Togolese authorities have yet to comment. Togo has faced criticism for clamping down on free speech, with several foreign journalists detained in recent years. However, there are suggestions Mocaër and Pezzani are being held as bargaining chips for an exchange with France - a practice of which other countries have been accused . The pair are being held in pre-trial detention at a \"law-enforcement facility\" near the capital, Lomé, RSF said. It said Pezzani was \"suffering from serious health problems that require immediate medical attention\". The men had all the required documents to work in the West African nation and were in \"full compliance with the administrative regulations in force\", Tony Comiti Productions, the company producing the show, said. A third man - the journalists' Togolese fixer Fred Vedomey - has also been detained. RSF director general Thibaut Bruttin said the organisation was \"alarmed by a situation that has now lasted for more than 20 days\". \"The organisation condemns these unjustified and disproportionate proceedings and calls for the immediate release of the French media professionals.\" The families of the Frenchmen said they were hoping for a \"swift resolution\" in a joint statement shared by RSF, adding that the \"uncertainty and anguish weigh daily\" on them.",
+          "url": "https://www.bbc.com/news/articles/cj9dkmljmwvo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c6a6/live/2b090e70-9c95-11f1-a38b-8bb91d2ef80e.jpg",
+          "published_at": "2026-08-20T15:16:44Z",
+          "embed_url": "https://www.bbc.com/news/articles/cj9dkmljmwvo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "a9c6cce4ea07",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2120,9 +2144,9 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Landslide at Colombian gold mine kills at least 13 workers",
+          "title": "Landslide at unlicensed Colombian gold mine kills 13",
           "summary": "Four members of an indigenous family are among the dead, witnesses said.",
-          "body_text": "At least 13 workers have been killed and another seven injured in a landslide at an unlicensed mine in southern Colombia, local officials say. Witnesses described hearing an explosion at the open-air artisanal gold mine on Wednesday afternoon, moments before the workers below were trapped. Emergency workers and locals were able to retrieve the bodies with the help of diggers. Deadly accidents are not uncommon in Colombia, especially at unlicensed mines where locals dig for precious metals without any official oversight. Witnesses said that four of the 13 dead were members of the same indigenous family. Residents of the area said some 50 people, most of them members of the Quillacinga indigenous group, regularly worked in the mine near Policarpa, in southern Nariño province. Between 200,000 and 400,000 people are estimated to engage in artisanal mining in Colombia, with many families relying on the income from selling the precious metals and stones they find to make ends meet.",
+          "body_text": "At least 13 workers have been killed and another seven injured in a landslide at an unlicensed mine in southern Colombia, local officials say. Witnesses described hearing what they said sounded like an explosion at the open-air artisanal gold mine on Wednesday afternoon, moments before the workers below were trapped. But a local official said the deadly landslide had been caused by the mining work. Emergency workers were able to retrieve the bodies with the help of diggers. Deadly accidents are not uncommon in Colombia, especially at unlicensed mines where locals dig for precious metals without any official oversight. Witnesses said that four of the 13 dead were members of the same indigenous family. Residents of the area said some 50 people, most of them members of the Quillacinga indigenous group, regularly worked in the mine near Policarpa, in southern Nariño province. Between 200,000 and 400,000 people are estimated to engage in artisanal mining in Colombia, with many families relying on the income from selling the precious metals and stones they find to make ends meet.",
           "url": "https://www.bbc.com/news/articles/czxel9lz3vqo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8167/live/e00ffeb0-9c99-11f1-a38b-8bb91d2ef80e.png",
           "published_at": "2026-08-20T14:34:15Z",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "5619d6fd3d4c",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "553acfed31f2",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "4cd673b7d105",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "039e746fccc9",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "8525d07be9f8",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "b8491a08b13e",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "66f48b42fcaa",
@@ -2302,30 +2326,6 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "2f504f652300",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Lily Hooper: Missing teen hiker found dead in Australian bush after eight-day search",
-          "summary": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
-          "body_text": "The body of a woman has been found in Australian bushland, following an eight-day search for a Sydney teenager reported missing last Wednesday. Police said that while the body was yet to be formally identified, it was believed to be that of 18-year-old Lily Hooper. The confirmation came after the state premier told the New South Wales parliament that she had been found alive before later retracting the statement. The teenager left her home in Sydney to go walking in a nearby national park on 12 August. Her family reported her missing later that night, after she failed to return home by 22:00. Her car was found in a car park at the bottom of a challenging trail in the Nattai National Park. Police said that the body was found in the Southern Highlands at approximately 11:30 local time on Thursday. Hooper's body had been found in dense vegetation and would likely have to be carried out on foot. There was initial confusion as to Hooper's condition, after New South Wales Premier Chris Minns told a parliamentary hearing that she had been found alive. Local media suggested that her family had also been informed that she was alive. Minns corrected himself shortly afterwards, and told the hearing that \"Lily's body has been found\" and she was deceased. \"This is obviously devastating, and I'm profoundly sad for her family and for all those concerned,\" said Minns, and apologised to the committee. The New South Wales police commissioner Mal Lanyon told reporters that he \"unreservedly\" apologised for the \"miscommunication\". In a press conference on Thursday afternoon, Assistant Police Commissioner Joseph Cassar did not directly respond to questions as to how Hooper's family came to be told she had been found alive. He told reporters that there was a period of between eight to 10 minutes before the teenager's parents were given an updated report on her condition. He said he did not know exactly what was said to the Hooper family, but that if he \"could turn the clock back, I would certainly\".",
-          "url": "https://www.bbc.com/news/articles/c304e2dlv20o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg",
-          "published_at": "2026-08-20T03:16:22Z",
-          "embed_url": "https://www.bbc.com/news/articles/c304e2dlv20o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
           "sort_order": 8
         },
         {
@@ -4255,6 +4255,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "efb8de979e64",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Daniel, 44, dog av hjärtstopp – hjärtstartaren fungerade inte",
+          "summary": "Daniel Kämpe, 44, fick hjärtstopp i början av juli. I närheten fanns en hjärtstartare men batteriet visade sig vara urladdat och Daniel dog på platsen. – Jag är jättebesviken. Det var bara en falsk trygghet, säger hustrun Elin Kämpe.",
+          "body_text": "Daniel Kämpe, 44, fick hjärtstopp i början av juli. I närheten fanns en hjärtstartare men batteriet visade sig vara urladdat och Daniel dog på platsen. – Jag är jättebesviken. Det var bara en falsk trygghet, säger hustrun Elin Kämpe. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den 4 juli i år var Daniel Kämpe, 44, uppe i sommarhuset i hembyn Risbäck i Dorotea kommun tillsammans med sin hustru Elin Kämpe. Hon berättar att Daniel känt sig lite ”konstig” den dagen. Paret skulle precis ge sig ut på en fisketur när hon fick ett samtal från Daniels pappa ett par hus bort. – Jag minns inte så mycket av när jag anlände. Jag vet att jag skrek och for fram. Vi hade 112 på högtalare och gjorde hjärtkompressioner, berättar hon. Elin som jobbar som undersköterska kom på att det fanns en hjärtstartare i församlingshemmet en bit bort och körde dit med fyrhjulingen. Men när de väl skulle starta hjärtstartaren var det slut på batteri. – I stunden var jag skitförbannad. När man är uppe i varv och gör hjärtkompressioner på den man älskar mest av allt, då blir det här ett störningsmoment. Man är jätteledsen och stressad och blir också jättearg, säger hon. Ambulansen kom efter en timme men då gick Daniels liv inte att rädda. Efter Daniels bortgång har Elin tänkt mycket på om en fungerande hjärtstartare hade kunnat göra skillnad. Men det kommer hon aldrig att få svar på.",
+          "url": "https://www.expressen.se/nyheter/sverige/daniel-44-dog-av-hjartstopp-hjartstartaren-fungerade-inte-/",
+          "image_url": "https://static.bonniernews.se/images/18/be/18bebee8c7a14b88a2145e395c2e7c76/16x9/original.png",
+          "published_at": "2026-08-20T15:19:15Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/daniel-44-dog-av-hjartstopp-hjartstartaren-fungerade-inte-/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "ddc9e791470a",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4276,7 +4300,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "bdedadaf3863",
@@ -4300,7 +4324,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "eae34d53f738",
@@ -4324,7 +4348,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "3063bee3b7df",
@@ -4348,7 +4372,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "294022ac9939",
@@ -4372,7 +4396,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "59c0ca510816",
@@ -4396,7 +4420,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "ff2e8db985c8",
@@ -4413,30 +4437,6 @@
           "image_url": "https://static.bonniernews.se/images/57/7f/577f5c966da64282a2c72e0189ede89b/16x9/original.png",
           "published_at": "2026-08-20T10:08:19Z",
           "embed_url": "https://www.expressen.se/nyheter/krim/man-doms-till-rattspsyk-efter-mord-pa-kvinna-i-skelleftea/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "82e65ec7ae1a",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Fyra män åtalas för massiv knarkförsäljning på nätet",
-          "summary": "Misstänkta säljare på Blocket för droger – ”Archetyp” – åtalas",
-          "body_text": "Fyra män åtalas för synnerligen grovt narkotikabrott. De misstänks ha agerat moderatorer på en av världens största narkotikahandelsplatser, ”Archetyp”, enligt stämningsansökan. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En svensk medborgare åtalas för att ha agerat säljare på handelsplatsen ”Archetyp” och två män åtalas för att ha hjälpt till vid försäljningarna på handelsplatsen, där all handel har skett med kryptovaluta. – Det här är en utredning som inte hade fungerat utan ett bra internationellt samarbete. Det är ett bra exempel på hur vi samarbetar över gränserna och delar information med varandra. Vi har kunnat säkra kryptovalutor och hämta in uppgifter från kryptoväxlare, säger statsåklagare Lena Medelius som är förundersökningsledare, i ett pressmeddelande. Polis och åklagare i Sverige har, enligt åklagarmyndigheten, främst arbetat med myndigheter i Tyskland, Spanien, USA och Holland. – Vi har fått mycket god hjälp av Eurojust som har koordinerat samarbetet, säger Lena Medelius. När marknadsplatsen stängdes av polisen i juni 2025 hade den haft över 600 000 användare. Minst 250 miljoner euro, motsvarande drygt 2,7 miljarder kronor, har omsatts på marknadsplatsen. Åklagaren menar att brottet är att bedömas som synnerligen grovt då hanteringen av narkotika avsett ett synnerligen stort antal narkotikaöverlåtelser. – Det här är en organiserad brottslighet som syftat till att i stor omfattning bedriva handel med narkotika i ett internationellt sammanhang under en längre tid. Det har varit av synnerligen farlig och hänsynslös art. Utredningen har pågått under lång tid eftersom det har varit ett omfattande material att analysera, säger Lena Medelius. Utredningen visar att de misstänkta sammanlagt har kommit över drygt 4 600 i kryptovalutan Monero, vilket med dagens växelkurs motsvarar ”ett betydande belopp om många miljoner kronor”, enligt åklagaren. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/krim/fyra-man-atalas-for-massiv-knarkforsaljning-pa-natet/",
-          "image_url": "https://static.bonniernews.se/images/bd/e8/bde859198fb0404f819adf2e74a55fc0/16x9/original.png",
-          "published_at": "2026-08-20T09:09:46Z",
-          "embed_url": "https://www.expressen.se/nyheter/krim/fyra-man-atalas-for-massiv-knarkforsaljning-pa-natet/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4521,7 +4521,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Den dömde terroristen Rakhmat Akilov ansökte tidigare i somras om persmission i fängelset, skriver nyhetsbyrån Siren. Han ville då \"besöka sjön\", enligt handlingar hos Kriminalvården. Ansökan avslogs eftersom risken för hot och våld bedömdes vara hög. Akilov \"uppger sig lyda under IS lagar och domstolar\" och \"erkänner inte domstolen som utdömt livstidsstraffet\", skriver Kriminalvården. Det skulle enligt myndigheten krävas extraordinära insatser för att genomföra permissionen. 2025 ansökte Akilov om att få gå på promenad, köpa skor, äta glass och gå på restaurang. Även den ansökan avslogs med motiveringen att det finns en risk att han begår nya brott eller rymmer. Akilov körde ihjäl fem personer på Drottninggatan i Stockholm i april 2017. En kvinna har blivit påkörd av en buss vid Odenplan. Larmet kom in till polisen 16.31. – Det är en kvinna som har blivit påkörd. Hon har tagit sig upp, säger polisens presstalesperson Mats Eriksson. Ambulans har kallats till platsen, men det är oklart om kvinnan behöver sjukhusvård. Liberalernas partiledare Simona Mohamsson har polisanmält hot efter att hon bar Davidsstjärnan i Expressens partiledardebatt i måndags. Det rapporterar Aftonbladet. – Jag tycker det är viktigt att anmäla. Man ska inte kunna sprida hat och hot utan att det bemöts. Det är också viktigt att polisen tar det här på allvar och har resurser att kunna utreda det, säger Mohamsson till tidningen. Öresundsbron är helt avstängd i båda riktningarna efter en olycka, enligt Trafikverket. Enligt Skånepolisen har två personbilar krockat i riktning mot Malmö och en av dem ska ha kört in i mitträcket. – Det är två personer inblandade, säger Patric Fors, vid polisen.",
+          "body_text": "Den man som misstänks för mord och och medhjälp till mord i norska Lørenskog-fallet har nu gripits i Sverige i samband med ett annat ärende, skriver VG. Mannen som är i 50-årsåldern fick veta att han var misstänkt i maj och har länge utretts av polisen. Han befann sig i juni i Turkiet. Det var 2018 som Anne-Elisabeth Hagen, 68, försvann från sitt hem i Fjelhamar. Hon har aldrig hittats. Först misstänktes hon ha kidnappats. Polisen hittade blod och skoavtryck i bostaden samt tog emot ett hotbrev med krav på en lösensumma i kryptovaluta. Maken Tom Hagen greps 2020 misstänkt för mordet men släpptes senare. Åtalet mot honom lades ner 2024 då brott inte kunde bevisas. Den man som nu har gripits har tidigare bott i Sverige men varit folkbokförd i Norge de senaste åren. Han har nu gripits i samband med ett narkotikaärende. Han nekar till anklagelserna i Hagen-fallet. – Mannen är i 50-årsåldern, norsk medborgare och tidigare dömd för brott i Norge. Han förnekar all inblandning i saken, har hans försvarare Victoria Holmen tidigare sagt enligt VG. Elisabeth Thand Ringqvist (C) och Magdalena Andersson (S) skriver i en gemensam debattartikel i DN – Sverige behöver ta täten vad gäller AI. Tillsammans kritiserar de Tidöregeringens politik på näringslivsområdet de senaste åren. Kortsiktigt och \"tillfällig populism\" skriver C och S. \"Konsekvensen är att vår konkurrenskraft försvagas.\" Tillsammans vill partierna fokusera på AI – för att stärka svensk konkurrenskraft för fler jobb, högre kvalitet i välfärden och för ett säkrare Sverige och Europa. Den dömde terroristen Rakhmat Akilov ansökte tidigare i somras om permission i fängelset, skriver nyhetsbyrån Siren. Han ville då \"besöka sjön\", enligt handlingar hos Kriminalvården. Ansökan avslogs eftersom risken för hot och våld bedömdes vara hög. Akilov \"uppger sig lyda under IS lagar och domstolar\" och \"erkänner inte domstolen som utdömt livstidsstraffet\", skriver Kriminalvården. Det skulle enligt myndigheten krävas extraordinära insatser för att genomföra permissionen.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
