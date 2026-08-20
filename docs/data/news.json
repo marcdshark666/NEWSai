@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:00:39Z",
+  "generated_at": "2026-08-20T21:34:48Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -339,6 +339,30 @@
           "sort_order": 0
         },
         {
+          "id": "a2245508f715",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 22:45",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/KBwwAmw/rapport/ikvall-22-45?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54760934/1787259881?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-21T06:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/KBwwAmw/rapport/ikvall-22-45?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "8b8efb110bff",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -360,7 +384,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "f7dcbc45ed39",
@@ -384,7 +408,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "a9f99705ffc0",
@@ -408,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "a715d440253f",
@@ -432,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "cf4d4bd76071",
@@ -456,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "d4039244a838",
@@ -473,30 +497,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54705680/1786642002?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-21T06:30:00Z",
           "embed_url": "https://www.svtplay.se/video/j3ddAko/rapport/tor-13-aug-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "a2245508f715",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ikväll 22:45",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/KBwwAmw/rapport/ikvall-22-45?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-20T20:45:00Z",
-          "embed_url": "https://www.svtplay.se/video/KBwwAmw/rapport/ikvall-22-45?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1721,6 +1721,106 @@
           "sort_order": 0
         },
         {
+          "id": "4c92f0824945",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Monica Crowley: This will be an 'incredible time of celebration' | Fox News Video",
+          "summary": "U.S. Chief of Protocol Monica Crowley discusses the IndyCar race coming to Washington, D.C., on 'The Story.'",
+          "body_text": "U.S. Chief of Protocol Monica Crowley discusses the IndyCar race coming to Washington, D.C., on 'The Story.'",
+          "url": "https://www.foxnews.com/video/6403781790112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c47cccc8-ab9a-4af7-a443-0ad464e13d0b/50f830f2-8a4d-47cf-b422-a7d042019ce2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-20T21:26:03Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403781790112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "248c7163c99c",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Alleged Albany bomb plot is 'right out of the ISIS playbook': Former FBI assistant director | Fox News Video",
+          "summary": "Former FBI Assistant Director Chris Swecker discusses the FBI's press conference regarding a woman's alleged plot to bomb the New York State Capitol and her alleged ties to ISIS.",
+          "body_text": "Former FBI Assistant Director Chris Swecker discusses the FBI's press conference regarding a woman's alleged plot to bomb the New York State Capitol and her alleged ties to ISIS.",
+          "url": "https://www.foxnews.com/video/6403781292112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb2dcf1-dd0c-4f5d-9d32-25488ffde986/4e49c6b4-92ab-413b-bef7-0fb409ade3a1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-20T21:19:17Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403781292112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "167cfde9fde9",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Lindsay Clancy trial: Witness details chilling 'male voice' commands | Fox News Video",
+          "summary": "Fox News national correspondent Bryan Llenas discusses testimony about Lindsay Clancy hearing 'male voices' on 'The Story.'",
+          "body_text": "Fox News national correspondent Bryan Llenas discusses testimony about Lindsay Clancy hearing 'male voices' on 'The Story.'",
+          "url": "https://www.foxnews.com/video/6403780371112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77bbc5ba-c2f6-4f1f-ad46-e73ad7dfac44/843ddd26-f873-45ba-9ab7-81a08149440b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-20T21:16:03Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403780371112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "f6dc66746ccc",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Gov Abbott calls for H-1B visa ban for Texas public school teachers | Fox News Video",
+          "summary": "Gov. Greg Abbott, R-Texas, discusses his proposal to ban public schools from hiring teachers on H-1B visas, arguing Texas students should be taught by Texans who understand the state’s values and communities on 'The Story.'",
+          "body_text": "Gov. Greg Abbott, R-Texas, discusses his proposal to ban public schools from hiring teachers on H-1B visas, arguing Texas students should be taught by Texans who understand the state’s values and communities on 'The Story.' Texas Gov. Greg Abbott explains his push to bar public schools from hiring teachers on H-1B visas and discusses why he believes Texas educators should be prioritized for classroom jobs.",
+          "url": "https://www.foxnews.com/video/6403779876112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82028115-2fd9-4a8a-818e-351af662a24d/42d10ca1-02f4-4051-a539-9c7b04f89ebc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-20T20:56:52Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403779876112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
           "id": "af011629d36e",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 5
         },
         {
           "id": "67ea84ab14f0",
@@ -1768,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "98aa6e06ef80",
@@ -1793,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 7
         },
         {
           "id": "0447fb226b7d",
@@ -1818,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 8
         },
         {
           "id": "f63479005ded",
@@ -1843,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 9
         },
         {
           "id": "ab8ad5971b8c",
@@ -1860,106 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/774f7362-b198-4e92-b03c-13164f7ba3f3/fcd72546-9e4d-4384-b49f-30c6525d6ada/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-20T20:06:43Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403777768112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "98c168748017",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Mark Esper says coordinated pressure over time will break Iran’s will | Fox News Video",
-          "summary": "Mark Esper, who was secretary of the first Trump administration's defense department, examines how the United States is tightening its military and economic squeeze on Iran on ‘America Reports.’",
-          "body_text": "Mark Esper, who was secretary of the first Trump administration's defense department, examines how the United States is tightening its military and economic squeeze on Iran on ‘America Reports.’",
-          "url": "https://www.foxnews.com/video/6403775413112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd8ffc11-319c-4ed0-ad21-95514f2a3e1e/7ae7e7cd-3116-4bb6-94e1-ae8a5c32b850/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-20T19:53:35Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403775413112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "2acba0834ad2",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Feds detail woman's alleged plot to bomb the New York State Capitol | Fox News Video",
-          "summary": "The FBI holds a press conference regarding a woman's alleged plot to bomb the New York State Capitol with ties to ISIS.",
-          "body_text": "The FBI holds a press conference regarding a woman's alleged plot to bomb the New York State Capitol with ties to ISIS.",
-          "url": "https://www.foxnews.com/video/6403777140112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3042fd8-26f0-44ac-8491-3d03aa706699/a52e52af-a7cf-499f-9d25-ff6c9f47690f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-20T19:47:28Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403777140112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "d688c44bc13b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "9/11 Ground Zero steel beam makes emotional journey across America | Fox News Video",
-          "summary": "Tunnel to Towers Foundation Chairman and CEO Frank Siller joins ‘America Reports’ to discuss a Ground Zero steel beam’s journey across the nation and its mission to honor the heroes of 9/11.",
-          "body_text": "Tunnel to Towers Foundation Chairman and CEO Frank Siller joins ‘America Reports’ to discuss a Ground Zero steel beam’s journey across the nation and its mission to honor the heroes of 9/11. Tunnel to Towers Foundation Chairman and CEO Frank Siller shares the story behind a Ground Zero steel beam’s journey across America and how the memorial honors the heroes of September 11, 2001, while keeping their legacies alive for future generations.",
-          "url": "https://www.foxnews.com/video/6403775400112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25b312ce-7d6c-47d4-bd9b-4e9b38e00672/1d7bb12b-69bc-47b0-b13c-c7d7f70503e5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-20T19:45:58Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403775400112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 9
-        },
-        {
-          "id": "e8f8ec7a0160",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Medicare for All would cost $3 trillion annually, report says | Fox News Video",
-          "summary": "Former Biden White House aide Meghan Hays and Republican strategist Colin Reed discuss the real logistics of a healthcare-for-all plan Democrats have proposed on 'America Reports.'",
-          "body_text": "Former Biden White House aide Meghan Hays and Republican strategist Colin Reed discuss the real logistics of a healthcare-for-all plan Democrats have proposed on 'America Reports.'",
-          "url": "https://www.foxnews.com/video/6403777238112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/191602ba-337b-49ea-9411-56e06b32b13d/d85d318d-c9af-4c04-946f-6308f2f23635/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-20T19:40:36Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403777238112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2046,31 +2046,6 @@
           "sort_order": 13
         },
         {
-          "id": "75a82be2e6b1",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "WATCH LIVE: Trial underway in the murder of Microsoft exec Jared Bridegan | Fox News Video",
-          "summary": "The murder-for-hire trial of Mario Fernandez-Saldana moves into Day 4 as the legal battle intensifies around the weapons investigation and the digital paper trail.",
-          "body_text": "The murder-for-hire trial of Mario Fernandez-Saldana moves into Day 4 as the legal battle intensifies around the weapons investigation and the digital paper trail.",
-          "url": "https://www.foxnews.com/video/6403758924112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8cb6a34-2fb5-431d-a775-577639d71bcc/aa50a0a4-1065-4663-94e0-a1c43ab63236/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-20T12:37:40Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403758924112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 14
-        },
-        {
           "id": "0647017da241",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2085,6 +2060,31 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/747af9fc-22cd-444f-9892-b350d033c61d/a0dd3515-2376-42c0-9f4b-aa018926b1c8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-20T19:52:49Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403776584112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 14
+        },
+        {
+          "id": "30e152261ed1",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "WATCH LIVE: Texas group rallies in support of Sophie Cunningham in Dallas | Fox News Video",
+          "summary": "Conservative group Texas Values holds a “Rally to Protect Women's Sports” outside the American Airlines Center in Dallas in support of Indiana Fever star Sophie Cunningham's stance on women's sports.",
+          "body_text": "Conservative group Texas Values holds a “Rally to Protect Women's Sports” outside the American Airlines Center in Dallas in support of Indiana Fever star Sophie Cunningham's stance on women's sports.",
+          "url": "https://www.foxnews.com/video/6403779609112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17a1724b-b078-4fb5-a13d-ddaaae21a48f/820f31be-f55a-46e6-84fa-060660f81ab0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-20T21:02:08Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403779609112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -4255,6 +4255,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "c0497b727115",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Uppgifter: 14-årig flicka misstänkt för mordförsök",
+          "summary": "En 14-årig flicka misstänks ha skjutit en 17-årig pojke i magen, enligt Expressens uppgifter. Hon var på rymmen från ett HVB-hem, enligt källorna. På torsdagen häktades en 24-årig man.",
+          "body_text": "En 14-årig flicka misstänks ha skjutit en 17-årig pojke i magen, enligt Expressens uppgifter. Hon var på rymmen från ett HVB-hem, enligt källorna. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I måndags vid 19.30 på kvällen kallades polisen till en skola i stadsdelen Ronna i Södertälje kommun efter en skottlossning. En 17-årig pojke hittades utomhus med skottskador i magen, enligt Expressens uppgifter. Enligt Länstidningen Södertälje beskrivs läget för pojken som ”stabilt”. Polisen har kunnat prata med honom, men har inte hållit något formellt förhör än. Tre personer greps under kvällen. En 24-årig man häktades på torsdagen misstänkt för medhjälp till mordförsök i Ronna-skjutningen, enligt LT. Han misstänkt också för ytterligare ett mordförsök. Två flickor under 15 år har tagits om hand av socialtjänsten. En 14-årig flicka misstänks vara den som avlossade skott, enligt Expressens uppgifter. Polisen ska ha fått upp spåret på henne genom övervakningskamerorna i området. Källor uppger för Expressen att hon var på rymmen från ett HVB-hem. Hon omhändertogs akut av socialtjänsten tidigare i år. I domstolshandlingar som Expressen tagit del av framkommer uppgifter om hedersvåld i hemmet. En annan 14-årig flicka misstänks för medhjälp till mord. Hon har varit tvångsplacerad av sociala myndigheter sedan hon var tio år. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/krim/14-arig-flicka-misstankt-for--mordforsok-pa-rymmen-fran-hvb/",
+          "image_url": "https://static.bonniernews.se/images/53/02/5302239c1c144b44bf0dc6b3ebb59245/16x9/original.jpg",
+          "published_at": "2026-08-20T21:30:59Z",
+          "embed_url": "https://www.expressen.se/nyheter/krim/14-arig-flicka-misstankt-for--mordforsok-pa-rymmen-fran-hvb/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "78c1ddbc1edf",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "KD:s svar efter Dadgostars anklagelse: ”Lögn”",
+          "summary": "Här ryker Vänsterpartiet och Kristdemokraterna ihop om sjukvården. Nooshi Dadgostar tror inte att KD på riktigt vill förstatliga vården – utan kallar det ett ”privatiseringsexperiment”. – Ren lögn, kontrar sjukvårdsminister Elisabet Lann i Aktuellt.",
+          "body_text": "Här ryker Vänsterpartiet och Kristdemokraterna ihop om sjukvården. Nooshi Dadgostar tror inte att KD på riktigt vill förstatliga vården – utan kallar det ett ”privatiseringsexperiment”. – Ren lögn, kontrar sjukvårdsminister Elisabet Lann i Aktuellt. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På torsdagskvällen möttes Vänsterpartiets ledare Nooshi Dadgostar och sjukvårdsminister Elisabet Lann (KD) för att debattera sjukvården – som enligt en undersökning från SVT/Verian är väljarnas klart viktigaste fråga – i SVT:s Aktuellt. KD har kallat vården för ”valets stora fråga” och vill att staten tar över ansvaret från regionerna. Men Dadgostar, som menar att Vänsterpartiet är ”Sveriges sjukvårdsparti”, tror inte att partiet menar allvar. – Detta förslag som KD och SD går fram med handlar om att ta över sjukvården på statlig nivå för att dela upp sjukvården nationellt och sälja ut till stora vårdbolag. Det här är det största privatiseringsexperiment som vi kommer ha sett i svensk historia, säger V-ledaren i Aktuellt. Hon hänvisar bland annat till hur det har blivit i regioner där KD är med och styr. – Vi ser väldigt radikala privatiseringar, som i Gävleborg där hela primärvården är utsåld. Lann svarar på privatiseringsanklagelsen: – Det är sällan jag tar i med överord men det här är ren lögn. Det har inget med vårt förslag att göra överhuvudtaget. Ministern menar att lagstiftningen kring vården i dag är ”tandlös”, och uppger att staten behöver ta över både finansieringsansvaret och ansvaret för styrningen av vården.",
+          "url": "https://www.expressen.se/nyheter/sverige/kds-svar-efter-dadgostars-anklagelse-logn/",
+          "image_url": "https://static.bonniernews.se/images/d9/73/d973623c7b01468baf4846ef6790756a/16x9/original.png",
+          "published_at": "2026-08-20T21:24:11Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/kds-svar-efter-dadgostars-anklagelse-logn/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "11cdac6ca3da",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4264,7 +4312,7 @@
           "source_kind": "story",
           "title": "Sis-anställd döms – våldtog 14-årig flicka",
           "summary": "En man anställd på ett Sis-hem har vid flera tillfällen våldtagit en 14-årig flicka – som var intagen på boendet. Han har också spelat in sexfilmer på henne. Nu döms mannen till fängelse i sex år för våldtäkt mot barn och barnpornografibrott.",
-          "body_text": "En man anställd på ett Sis-hem har vid flera tillfällen våldtagit en 14-årig flicka – som var intagen på boendet. Han har också spelat in sexfilmer på henne. Nu döms mannen till fängelse i sex år för våldtäkt mot barn och barnpornografibrott. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var i november 2022 som flickan, då 14 år, flyttades till ett Sis-hem i norra Sverige. Drygt tre år senare hörde hon av sig till polisen och anmälde att hon hade blivit utsatt för upprepade sexuella övergrepp av en anställd på boendet: en man som i dag är i 45-årsåldern. Övergreppen skedde både hon bodde på boendet och efteråt. Flickan lämnade boendet i början av 2023, och hon och den äldre mannen fortsatte hålla kontakten, träffas och ha sex även efter det. Vid flera tillfällen filmade han när de hade sex – enligt tingsrätten försökte han ”efterlikna porrfilmer” – och i polisförhör berättar flickan att hon var orolig för vad han skulle göra med filmerna. Hon säger att hon sa till honom att ”om han inte raderar de här videorna” skulle hon polisanmäla honom. – Jag känner mig otrygg och rädd. Samt att jag inte kan fortsätta min vardag på ett vanligt sätt, säger flickan i förhör. Nu har mannen dömts till fängelse i sex år för våldtäkt mot barn under perioden november 2022–februari 2023. Han döms även för barnpornografibrott under perioden december 2022–februari 2026. Han frias dock från åtal om grov våldtäkt mot flickan efter att hon fyllt 15 år.",
+          "body_text": "En man anställd på ett Sis-hem har vid flera tillfällen våldtagit en 14-årig flicka – som var intagen på boendet. Han har också spelat in sexfilmer på henne. Nu döms mannen till fängelse i sex år för våldtäkt mot barn och barnpornografibrott. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Det var i november 2022 som flickan, då 14 år, flyttades till ett Sis-hem i norra Sverige. Drygt tre år senare hörde hon av sig till polisen och anmälde att hon hade blivit utsatt för upprepade sexuella övergrepp av en anställd på boendet: en man som i dag är i 45-årsåldern. Övergreppen skedde både när hon bodde på boendet och efteråt. Flickan lämnade boendet i början av 2023, och hon och den äldre mannen fortsatte hålla kontakten, träffas och ha sex även efter det. Vid flera tillfällen filmade han när de hade sex – enligt tingsrätten försökte han ”efterlikna porrfilmer” – och i polisförhör berättar flickan att hon var orolig för vad han skulle göra med filmerna. Hon säger att hon sa till honom att ”om han inte raderar de här videorna” skulle hon polisanmäla honom. – Jag känner mig otrygg och rädd. Samt att jag inte kan fortsätta min vardag på ett vanligt sätt, säger flickan i förhör. Nu har mannen dömts till fängelse i sex år för våldtäkt mot barn under perioden november 2022–februari 2023. Han döms även för barnpornografibrott under perioden december 2022–februari 2026. Han frias dock från åtal om grov våldtäkt mot flickan efter att hon fyllt 15 år.",
           "url": "https://www.expressen.se/nyheter/sverige/sis-anstalld-doms-valdtog-14-arig-flicka/",
           "image_url": "https://static.bonniernews.se/images/67/d0/67d0734693b6479b9beb454c777ac298/16x9/original.png",
           "published_at": "2026-08-20T19:49:37Z",
@@ -4276,7 +4324,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "32320c3437ab",
@@ -4286,7 +4334,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Blev sjuka efter festivalen – får inte testa sig",
+          "title": "Sjuka efter Urkult – får inte testa sig",
           "summary": "21 bekräftade fall av mässling kopplas till festivalen Urkult. Trots det nekas sjuka festivalbesökare att testa sig. – Klart man höjer ett ögonbryn när fler och fler insjuknar trots att de är fullt vaccinerade och vården inte ens anser det befogat med en simpel blodtagning, säger Erika Mårtzén.",
           "body_text": "21 bekräftade fall av mässling kopplas till festivalen Urkult. Trots det nekas sjuka festivalbesökare att testa sig. – Klart man höjer ett ögonbryn när fler och fler insjuknar trots att de är fullt vaccinerade och vården inte ens anser det befogat med en simpel blodtagning, säger Erika Mårtzén. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Tusentals personer besökte festivalen Urkult i Näsåker i Sollefteå kommun mellan den 30 juli och 2 augusti. 21 personer med koppling dit har bekräftats smittade av mässling. En majoritet av de drabbade är barn som inte vaccinerats. Under torsdagen stod det också klart att smittan nått Schillerska gymnasiet i Göteborg och Waldorfskolan Solviksskolan i Järna, vilket LT var först med att rapportera. På förskolan Waldorflekskolan Solskatten på Frösön i Östersund pågår smittspårning, rapporterar P4 Jämtland. Men långt många fler än de bekräftade 21 personerna har efter festivalen blivit sjuka. En av dem var Erika Mårtzén som efter festivalen haft feber, hosta och ont i halsen. I måndags uppmanades hon, och andra som blivit sjuka före, under eller efter festivalen, av Urkults stab att kontakta vården. Hon ringde direkt upp smittskyddet i region Jämtland/ Härjedalen . Men där fick hon nej, hon fick inte testa sig. – Med mina två doser vaccin, avsaknad av utslag, besvär med ögonen, vita prickar på slemhinnor i munnen behövde jag inte provtas för mässling. Erika Mårtzén tackade för samtalet och lade på. Men när hon fick veta att en vaccinerad kvinna i Norrbotten smittats blev hon fundersam. – Då symptomen i sådana fall kan vara atypiska så kände väl jag att jag hade kunnat gå på hälsocentralen och dra lite blod bara för att vara på den säkra sidan.",
           "url": "https://www.expressen.se/nyheter/sverige/sjuka-urkultsbesokare-far-inte-testas/",
@@ -4300,7 +4348,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "2d094805a2b5",
@@ -4324,7 +4372,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "5f9267585199",
@@ -4348,7 +4396,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "51567b7f048c",
@@ -4372,7 +4420,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "23cc84f0959f",
@@ -4396,7 +4444,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "efb8de979e64",
@@ -4420,7 +4468,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "ddc9e791470a",
@@ -4444,54 +4492,6 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "bdedadaf3863",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sverige I dag 15.48 Sju år senare: Rickard hittade förlovningsring på botten",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/sju-ar-senare-rickard-hittade-forlovningsring-pa-botten/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/sju-ar-senare-rickard-hittade-forlovningsring-pa-botten/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "eae34d53f738",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen I dag 14.01 Zelenskyj: Enda sättet att få Ryssland till fredssamtal",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/zelenskyj-enda-sattet-att-fa-ryssland-till-fredssamtal/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/zelenskyj-enda-sattet-att-fa-ryssland-till-fredssamtal/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4507,11 +4507,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "Ett ryskt flygplan misstänks ha kränkt Finlands luftrum i den västra delen av Finska viken på torsdagseftermiddagen, rapporterar Yle . ”Varje misstänkt områdeskränkning tas på allvar. Utredning pågår”, säger försvarsminister Antti Häkkänen i ett pressmeddelande. Finlands gränsbevakning utreder händelsen. Senast i maj misstänks ett ryskt militärflygplan ha kränkt finskt luftrum i Finska viken. Som förklaring uppgavs planet ha undvikit ett åskoväder. USA:s geologiska institut USGS rapporterar om att ett kraftigt jordskalv med magnitud 6,7 har drabbat södra Peru. Skalvet inträffade omkring fyra mil nordväst om Upahuacho. Skadeläge och omfattning på konsekvenser efter skalvet är fortfarande okänt. Socialdemokraterna vill förbjuda gängkriminella att äga hundar, rapporterar Aftonbladet. – Vi har ju sett ett större problem med kamphundar men vårt förslag här handlar inte om att förbjuda vissa raser utan det handlar om att förbjuda grovt kriminella från att äga hund, partiets rättspolitiske talesperson Teresa Carvalho (S) till tidningen. Förbudet vill de alltså ska gälla alla hundraser. – De kan säkert vara högst olämpliga som ägare av andra hundar också eftersom de används just som skrämselkapital och rena vapen och det kan man ju använda andra hundraser till också, säger fortsätter hon. En kvinna i Hultfreds kommun har förts till sjukhus med ambulans efter att troligtvis ha fallit från en balkong, skriver polisen på sin hemsida. Polisen spärrar av och utreder omständigheterna kring händelsen. – Det är oklart om det rör sig om brott, olycka eller sjukdomsfall, säger Evelina Olsson vid polisen i region syd.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
