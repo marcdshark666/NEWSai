@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:19:42Z",
+  "generated_at": "2026-08-21T20:44:39Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Polis bekräftar under presskonferens • Tre skadade Var fast på skolan: ”Såg en kille utanför med blod över hela ryggen” Uppgifter: 18-årig tidigare elev gripen för skoldådet Konto publicerade bild på svärd före attacken Programledaren Edvin Törnblom i chock: ”Sluta” Höll på att tacka nej – då fick Hellenius honom att tänka om Tidigare dansaren tar plats i juryn: ”Vi behövde en expert” Åkesson om krisen i L: Inte vårt ansvar att rädda 24 personer har insjuknat efter festivalen Rusning till vaccinationsmottagning efter mässlingsutbrottet Arrangör efter mässlingsutbrottet: ”Vaccinera era barn”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Såg elever fly i panik • Helmaskerad gärningsman En person död efter skoldådet i Fagersta Uppgifter: 18-årig tidigare elev gripen för skoldådet Konto publicerade bild på svärd före attacken Programledaren Edvin Törnblom i chock: ”Sluta” Höll på att tacka nej – då fick Hellenius honom att tänka om Tidigare dansaren tar plats i juryn: ”Vi behövde en expert” Åkesson om krisen i L: Inte vårt ansvar att rädda 24 personer har insjuknat efter festivalen Rusning till vaccinationsmottagning efter mässlingsutbrottet Arrangör efter mässlingsutbrottet: ”Vaccinera era barn”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1697,6 +1697,56 @@
           "sort_order": 0
         },
         {
+          "id": "945e42135d89",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Ret Air Force general: Iran’s leaders are buying time amid economic crumbling | Fox News Video",
+          "summary": "Ret. Air Force Gen. Charles Wald discusses differing opinions among Iran’s leaders on ‘The Story.’",
+          "body_text": "Ret. Air Force Gen. Charles Wald discusses differing opinions among Iran’s leaders on ‘The Story.’",
+          "url": "https://www.foxnews.com/video/6403831493112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5338e0b8-7a0d-47cc-82bb-b71eac53d665/2890e565-5afb-42b1-b2b2-d65ed457124e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-21T20:18:40Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403831493112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "c61292221492",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Jonathan Turley breaks down prosecutors' challenge in Clancy case | Fox News Video",
+          "summary": "Constitutional attorney Jonathan Turley and Dr. Stephanie Widmer discuss conflicting expert testimony over Lindsay Clancy’s state of mind, including the debate over postpartum psychosis and intentional actions, on ‘The Story.’",
+          "body_text": "Constitutional attorney Jonathan Turley and Dr. Stephanie Widmer discuss conflicting expert testimony over Lindsay Clancy’s state of mind, including the debate over postpartum psychosis and intentional actions, on ‘The Story.’ Constitutional attorney Jonathan Turley and Dr. Stephanie Widmer examine conflicting forensic psychiatry testimony in the Lindsay Clancy trial, including differing assessments of her mental state and whether postpartum psychosis or intentional actions played a role.",
+          "url": "https://www.foxnews.com/video/6403829040112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a367b7b-b79a-47d0-94ca-a945f6a6f348/ee6f4a41-6637-41d1-943f-1bd161ea7dd1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-21T20:15:03Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403829040112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "b83229d1b79f",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1719,7 +1769,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "136d9ac02909",
@@ -1744,7 +1794,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "f8cd6ecabb11",
@@ -1769,7 +1819,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "d07d16f041b2",
@@ -1794,7 +1844,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "f69db79ec94b",
@@ -1819,7 +1869,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "86d8e0dffc27",
@@ -1844,7 +1894,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "8e9530e0ee39",
@@ -1869,7 +1919,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "e40e1e628e1c",
@@ -1894,56 +1944,6 @@
             "Amerikansk media"
           ],
           "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "6056b5f03fef",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "They survived a massacre, but this is what brought them back to life | Fox News Video",
-          "summary": "Filmmakers Kevin Bright and Brad Allgood explain how 10 Israeli musicians found hope through music after the Oct. 7 attack. 'The Bridge' opens in select venues Oct. 5.",
-          "body_text": "Filmmakers Kevin Bright and Brad Allgood explain how 10 Israeli musicians found hope through music after the Oct. 7 attack. 'The Bridge' opens in select venues Oct. 5.",
-          "url": "https://www.foxnews.com/video/6403764878112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8698400-097a-49ff-9d0e-98cf40a1c4ea/1d714b92-5ec0-4589-8239-1c376f584fb7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T17:58:04Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403764878112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "660d42e246fe",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Writer resigns from Seattle Times after paper scraps trans sports column | Fox News Video",
-          "summary": "An ‘Outnumbered’ panel discusses former Seattle Times columnist Matt Calkins resigning after the newspaper spiked his transgender sports column.",
-          "body_text": "An ‘Outnumbered’ panel discusses former Seattle Times columnist Matt Calkins resigning after the newspaper spiked his transgender sports column. An ‘Outnumbered’ panel discusses former Seattle Times columnist Matt Calkins’ resignation after the newspaper spiked his transgender sports column, as well as the decision and the broader debate over WNBA leadership.",
-          "url": "https://www.foxnews.com/video/6403824203112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/966cd6b1-4e95-4bbb-9998-644d1bdebd8f/083ee892-25f5-43ba-99a8-ebb770d53874/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T17:33:27Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403824203112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
           "sort_order": 10
         },
         {
@@ -2022,20 +2022,20 @@
           "sort_order": 13
         },
         {
-          "id": "536d85f0ec6e",
+          "id": "81340cd2227c",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "WATCH LIVE: Lindsay Clancy murder trial continues in Massachusetts | Fox News Video",
-          "summary": "Jurors hear evidence in the case of the Duxbury mother accused of strangling her three young children.",
-          "body_text": "Jurors hear evidence in the case of the Duxbury mother accused of strangling her three young children.",
-          "url": "https://www.foxnews.com/video/6403807936112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9074eb3c-e732-4759-a32d-810882db5f7f/41723f39-cc35-4ecc-88bd-38ac7d9f3559/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T12:29:01Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403807936112",
+          "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas | Fox News Video",
+          "summary": "Duane “Keffe D” Davis stands trial in the murder of hip hop legend Tupac Shakur.",
+          "body_text": "Duane “Keffe D” Davis stands trial in the murder of hip hop legend Tupac Shakur.",
+          "url": "https://www.foxnews.com/video/6403817760112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713df3d2-b4e8-438c-88c2-d79cfddfe0e9/8e2e73f1-258b-4879-8cc8-7c03f37bd42e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-21T15:33:02Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403817760112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2047,20 +2047,20 @@
           "sort_order": 14
         },
         {
-          "id": "970cb84db673",
+          "id": "e9dc36bd675e",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "WATCH LIVE: Trial underway in the murder of Microsoft exec Jared Bridegan | Fox News Video",
-          "summary": "The murder-for-hire trial of Mario Fernandez-Saldana moves into Day 5 as the legal battle intensifies around the weapons investigation and the digital paper trail.",
-          "body_text": "The murder-for-hire trial of Mario Fernandez-Saldana moves into Day 5 as the legal battle intensifies around the weapons investigation and the digital paper trail.",
-          "url": "https://www.foxnews.com/video/6403810499112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f72b957e-4084-4741-90ea-a40e3103650f/fa7c87c2-f3a6-4415-8ab0-fb9a7561a113/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T12:48:51Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403810499112",
+          "title": "Outnumbered - Friday, August 21 | Fox News Video",
+          "summary": "Four female panelists and one male colleague share their perspectives on the day's top news stories.",
+          "body_text": "Four female panelists and one male colleague share their perspectives on the day's top news stories.",
+          "url": "https://www.foxnews.com/video/6403829443112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/bb3d4ef6-6741-4a5f-b6a9-19e4088e5af9/cf438f5f-03cc-42bf-8673-c7de76be3cd0/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-21T20:15:47Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403829443112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2068,7 +2068,7 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 15
         }
       ]
@@ -2088,6 +2088,30 @@
       "article_count": 14,
       "priority_split": 5,
       "articles": [
+        {
+          "id": "e2e66bdf9c40",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "How Israel is expanding settlements in drive to reshape West Bank",
+          "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+          "body_text": "It was during a ceremony at a settlement in the occupied West Bank last September that Israel's prime minister made his intentions clear. \"We are going to fulfill our promise that there will be no Palestinian state,\" said Benjamin Netanyahu. \"This place belongs to us.\" He was signing an agreement to push ahead with the expansion of a settlement in an area known as E1, just to the east of Jerusalem. In recent days, the opening up of tenders for the construction of some 1,200 settlement homes on the strategically important land has brought widespread condemnation. All settlements are illegal under international law and, under global pressure, Israel held off for decades on plans to build in the area. After the recent announcement, the UN secretary general said they posed an \"existential threat\" to a future Palestinian state, while a joint statement by the UK, France, Germany, Italy and Canada said the plans were \"unacceptable\" and would \"drive a wedge through the West Bank\", a sentiment echoed by the European Union. That was welcomed by Mahmoud Abbas, president of the Palestinian Authority, who called for the signatories to take \"concrete measures to halt the implementation of the E1 plan\". Along with Gaza and the Golan Heights, the West Bank was captured during the 1967 war against a coalition of Arab states. Israel has controlled it ever since. As occupied land, international law prohibits Israel from settling it. Despite that, the number of Israelis living there has grown over the years. Israel has built about 160 settlements housing 700,000 Jews since 1967. There has been a notable increase in the speed of settlement construction since 2022, however, when Netanyahu returned to power at the head of a right-wing, pro-settler coalition, further escalating after the start of the Gaza war, triggered by Hamas's 7 October 2023 attack on Israel. One example of this is Tzofim, a settlement in the north west of the territory, where BBC Verify analysis of satellite imagery shows the construction of around 185 new buildings since 2022. The same can be seen around Kochav Hashahar, where the existing settlement has been expanded in multiple directions, with construction of roads, houses and a new settler outpost on surrounding land. Hundreds of outposts - illegal under Israeli and international law - have been established since the 1990s. Dozens of them have been retrospectively legalised by the government.",
+          "url": "https://www.bbc.com/news/articles/c2lq5g4dedpo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
+          "published_at": "2026-08-21T19:31:47Z",
+          "embed_url": "https://www.bbc.com/news/articles/c2lq5g4dedpo",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
         {
           "id": "144746374f8d",
           "source_id": "bbc-video",
@@ -2110,7 +2134,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "28d52a3c48f8",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "b0f7d42161a5",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "dff0e0638027",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "5b88583f586c",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "6d4f5b0be498",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "032501511ea3",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "fd386b784442",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "a8b062fb3225",
@@ -2302,7 +2326,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "481d743c1e07",
@@ -2326,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "67caecf311b8",
@@ -2350,7 +2374,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 11
         },
         {
           "id": "a53d81da0d34",
@@ -2374,7 +2398,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 11
+          "sort_order": 12
         },
         {
           "id": "57c90bfc99ee",
@@ -2393,30 +2417,6 @@
           "embed_url": "https://www.bbc.com/news/articles/c1l10mdrld5o",
           "play_mode": "iframe",
           "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 12
-        },
-        {
-          "id": "3dd65cde24b4",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "How much could Trump's 'economic D-Day' sanctions hurt Iran?",
-          "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-          "body_text": "Nearly six months after US President Donald Trump vowed a swift victory over Iran, the conflict appears to be at a standstill, with prospects of a military victory or negotiated settlement growing dimmer. To break the deadlock, Trump has vowed an \"economic D-Day\" under which any country that does business with Iran would face \"tremendous\" economic consequences. Iran, however, has long faced sanctions and has so far shown a willingness to endure pain, and a capacity to adapt to immense economic and military pressure as the conflict drags on. The key question for the US then becomes, will further sanctions work where other strategies have failed? The exact mechanics of the new US economic pressure campaign remain unclear, with Treasury Secretary Scott Bessent promising to reveal them in a news conference on 24 August. But in an interview with CNBC, Bessent made clear that the US was willing to take action against any country - friend or foe - that it believes is extending a lifeline to Iran. \"You are either with us or against us,\" he said. \"If you insist on doing business with [Iran], either transferring money, buying their oil or doing seaborne sea transfers, then the US Treasury and the US government... will put its full might and force toward enforcing against you.\" Vice-President JD Vance has described the sanctions as a \"new phase\" of the conflict in which economic pressure was the \"most effective\" tool available to the US. \"They're going to try to apply economic pressure to us, but what has been true over the last couple of weeks is that they felt a lot more pressure than we have,\" Vance said on the Clay Travis and Buck Sexton show. \"We're going to keep that going because we think that's the best way to ultimately achieve the final objective.\" Iran has faced significant US sanctions since nearly the beginning of the Islamic Republic in 1979. The economic pressure campaign intensified after the first Trump administration withdrew from the Joint Comprehensive Plan of Action, a 2015 pact between world powers and Iran to curb its nuclear programme.",
-          "url": "https://www.bbc.com/news/articles/cre4gdvlj9ro",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ac2c/live/c4afa730-9d4b-11f1-a291-b542ee92de7c.jpg",
-          "published_at": "2026-08-20T23:16:45Z",
-          "embed_url": "https://www.bbc.com/news/articles/cre4gdvlj9ro",
-          "play_mode": "page_iframe",
-          "article_type": "text",
           "tags": [
             "World",
             "BBC"
@@ -4216,7 +4216,7 @@
           "source_kind": "story",
           "title": "Skoldådet i Fagersta – detta vet vi",
           "summary": "En är död och flera personer har skadats i en svärdattack på Brinellskolan i Fagersta. Gärningsmannen är en 18-årig tidigare elev, enligt Expressens uppgifter. Detta vet vi om skoldådet. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app",
-          "body_text": "En är död och flera personer har skadats i en svärdattack på Brinellskolan i Fagersta. Gärningsmannen är en 18-årig tidigare elev, enligt Expressens uppgifter. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Första larmet om pågående dödligt våld inkom klockan 14.06. Polisen ryckte ut till gymnasieskolan Brinellskolan i Fagersta – och anlände med flera patruller klockan 14.09. En person hade tagit sig in på skolan och skadat flera personer med ett svärd , enligt kommunen. Klockan 14.16 avfyrade polisen verkanseld mot den misstänkte gärningsmannen. Han greps på platsen. Polisen söker inte fler gärningspersoner. En person hittades död i skolan, uppger polisen på en pressträff på fredagskvällen. Två tonårspojkar skadades allvarligt och en tredje jämgammal pojke skadades lindrigt, enligt region Västmanland. Den misstänkta gärningsmannen är en 18-åring som tidigare varit elev på skolan, enligt uppgifter till Expressen. Den nationella insatsstyrkan slog till vid två adresser som kopplas till den misstänkta mannen efter gripandet. Strax innan dådet delades bilder på bland annat svärd på ett Tiktok-konto . Enligt uppgifter till Aftonbladet utreder polisen kontot. Polisen är förtegen och vill inte ge ytterligare detaljer om gripandet, eventuellt tillhygge eller motivbild. Ett antal skolor och byggnader inrymdes med anledning av händelsen. De fick lämna vid 18-tiden.",
+          "body_text": "En är död och flera personer har skadats i en svärdattack på Brinellskolan i Fagersta. Gärningsmannen är en 18-årig tidigare elev, enligt Expressens uppgifter. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Första larmet om pågående dödligt våld inkom klockan 14.06. Polisen ryckte ut till gymnasieskolan Brinellskolan i Fagersta . En person hade tagit sig in på skolan och skadat flera personer med ett svärd , enligt kommunen. Tio minuter efter larmet averkade polisen verkanseld mot den misstänkte gärningsmannen. Han greps på platsen. Polisen söker inte fler gärningspersoner. En person hittades död i skolan, uppger polisen på en pressträff på fredagskvällen. Två tonårspojkar skadades allvarligt och en tredje jämgammal pojke skadades lindrigt, enligt region Västmanland. Den misstänkta gärningsmannen är en 18-åring som tidigare varit elev på skolan, enligt uppgifter till Expressen. Den nationella insatsstyrkan slog till vid två adresser som kopplas till den misstänkta mannen efter gripandet. Strax innan dådet delades bilder på bland annat svärd på ett Tiktok-konto . Enligt uppgifter till Aftonbladet utreder polisen kontot. Polisen har varit förtegen om dådet. På pressträffen vill man inte ge ytterligare detaljer om gripandet, eventuellt tillhygge eller motivbild. Ett antal skolor och byggnader inrymdes med anledning av händelsen. De fick lämna vid 18-tiden.",
           "url": "https://www.expressen.se/nyheter/sverige/skoldadet-i-fagersta-detta-vet-vi/",
           "image_url": "https://static.bonniernews.se/images/bc/2c/bc2c54bfe7a049409f066febab0aaed4/16x9/original.jpg",
           "published_at": "2026-08-21T16:53:05Z",
@@ -4334,12 +4334,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Attackerad skola har tidigare stängt – efter hot",
-          "summary": "En person har gått till attack med svärd på Brinellskolan i Fagersta. Samma skola stängde i maj efter hot om skolskjutning.",
-          "body_text": "En person har gått till attack med svärd på Brinellskolan i Fagersta. Samma skola stängde i maj efter hot om skolskjutning. Enligt kommunens säkerhetssamordnare finns det ingen koppling mellan hotet och dagens dåd. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Polisen larmades om pågående dödligt våld på Brinellskolan i Fagersta vid 14-tiden på fredagen. De uppger att en gärningsperson har frihetsberövats. Enligt Expressens uppgifter har gärningspersonen skjutits av polis. Fagersta kommun uppger att en person med svärd har tagit sig in på skolan och skadat flera personer. I början av maj riktades ett hot om skolskjutning på Brinellskolan, uppgav kommunen då. Enligt SVT Nyheter Västmanland låste flera skolor dörrarna och eleverna hölls inomhus under samma förmiddag. – På en skoltoalett har man hittat ett hot om att det ska ske en skolskjutning. Det står inget på vilken skola eller vilken tid och det har inte skett något faktiskt hot, men vi behöver ta det här på allvar, sade Jenny Pontelius, kommunens säkerhetssamordnare, till SVT då. När hotet några timmar senare hittades skickades eleverna hem i samband med att skolan stängdes. Polisen upprättade då en anmälan om olaga hot mot grupp. På fredagseftermiddagen säger Jenny Pontelius till Expressen att det inte finns någon koppling mellan hotet i maj och dagens dåd. – Nej, det är inget som jag har fått rapporterat till mig. Jag får inte reda på allt, men jag har inte fått det till mig, säger Jenny Pontelius.",
+          "title": "Sverige I dag 16.03 Skolan i Fagersta har tidigare stängts – efter hot",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/sverige/skolan-i-fagersta-har-tidigare-stangt-efter-hot/",
-          "image_url": "https://static.bonniernews.se/images/c9/22/c922015b2d46414b8225f04ef5b144a4/16x9/original.jpg",
-          "published_at": "2026-08-21T14:03:45Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/sverige/skolan-i-fagersta-har-tidigare-stangt-efter-hot/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4347,7 +4347,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 8
         },
         {
@@ -4358,12 +4358,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Thand Ringqvist: \"Kommer inte svara på M-brevet\" | Expressen",
-          "summary": "Den 13 september går Sverige till val. Följ Expressens direktrapport med senaste nytt inför valet.",
-          "body_text": "Statsminister Ulf Kristersson (M) och finansminister Elisabeth Svantesson (M) skickade under torsdagen ett brev till C-ledaren Elisabeth Thand Ringqvist där man vädjade om samarbete kring den bankskatt som Socialdemokraterna vill införa om man vinner valet. \"Är du beredd att samarbeta med oss för att stoppa bolåneskatten?” skrev ministrarna i brevet. Nu svarar Thand Ringqvist på inviten – genom att säga att hon inte tänker svara på brevet. – Vi är, som man vet, inte intresserade av att sitta i en regering med Sverigedemokraterna eller stödja en regering med SD. Därför är det uteslutet. Han har inte brytt sig om att svara på mina brev som jag har skickat, så jag kommer inte svara på hans heller, säger hon till Expressen. Natten till fredagen genomfördes en hemlig kampanj i Stockholm. Med en högtryckstvätt har Moderaterna sprutat in politiska budskap i smutsiga övergångsställen. – Det är inte klotter. Vi har städat, säger Amos Friedman, presschef. Budskapen som sprutats fram handlar om mängdrabatten på upprepade brott. På sju platser i centrala Stockholm skriver M att \"brottslingar ska sitta inne så att du vågar vara ute”. Och på tre övergångsställen nära Socialdemokraternas partikontor på Sveavägen 68 skriver Moderaterna att ”Socialdemokraterna trampar på brottsoffer” för att de röstade nej till avskaffandet under en votering i riksdagen. Kampanjen har kostat ”... mellan 50-100 tusen kronor” enligt Friedman. Vid lunchtid på fredagen har budskapen vid S-kontoret spolats bort av en städfirma. – Sossarna försöker tvätta bort sanningen. Men nu vet fler att de röstade nej till vårt förslag, säger Amos Friedman. Reglerna om att säga upp en anställd för brott eller vid starka misstankar om brott är otillräckliga. Det tycker Liberalerna som går till val på att göra det lättare att säga upp personer som misstänks eller döms för brott. – Det måste bli enklare att sparka olämpliga personer, säger Simona Mohamsson. Förslaget riktar in sig på anställda i verksamheter som riktar sig mot barn, äldre, personer med funktionsnedsättning eller verksamheter som är känsliga för kriminell infiltration. Lagen om anställningsskydd ska förändras så att brottsling i fler fall ska vara skäl för uppsägning.",
+          "title": "Politik I dag 15.21 Svarar inte Kristersson",
+          "summary": "",
+          "body_text": "",
           "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=0820d58c-c51b-4746-8b03-63166b5e237e",
-          "image_url": "https://verifiedupload.ifragasatt.se/3c605b2e-a3fc-43db-85d4-0aca86a4132c.jpeg",
-          "published_at": "2026-01-09T11:58:16Z",
+          "image_url": "",
+          "published_at": null,
           "embed_url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=0820d58c-c51b-4746-8b03-63166b5e237e",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4371,7 +4371,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4387,35 +4387,11 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "ok",
-      "article_count": 1,
+      "status": "error",
+      "article_count": 0,
       "priority_split": 0,
-      "articles": [
-        {
-          "id": "793b90fc6824",
-          "source_id": "expressen-direkt",
-          "source_name": "Expressen Direkt",
-          "provider": "Expressen",
-          "category": "Live",
-          "surface": "live",
-          "source_kind": "live",
-          "title": "Expressen Direkt",
-          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Två personer har förts till sjukhus efter en krock med fyra motorcyklar på väg 56 norr om Heby, rapporterar P4 Uppsala. En av dem har förts till sjukhus med ambulanshelikopter. Just nu är det stort pådrag och avspärrningar runt en bilverkstad i Sandviken, rapporterar GD. Det började brinna i gasflaskor i verkstaden under fredagen. Branden släcktes men då gasflaskorna som innehåller acetylengas skadats finns en explosionsrisk. Därför har specialskyttar satts in för att skjuta sönder flaskorna och förhindra explosion, skriver GD. En personbil har kört in i en traktor bakifrån på E4 i Knäppa, Kramfors. Det har varit stopp på sträckan på grund av olyckan. Tre personer var inblandade i olyckan och två av dem, föraren och passageraren i personbilen, har förts till sjukhus. Turkiet meddelar att man utfärdat en internationell arresteringsorder för Israels premiärminister Benjamin Netanyahu. Anledningen är Israels agerande i samband med att en stödflotta försökte nå Gaza. Beskedet om arresteringsordern kom från Turkiets justitieminister Akin Gurlek på X. Turkiet utreder Israels insatser för att stoppa de fartyg med civila som försökte nå befolkningen i krigsdrabbade Gaza. Fartygen transporterade bland annat modersmjölksersättning, mat och medicinska förnödenheter.",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
-          "published_at": "2025-02-03T11:47:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Live",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        }
-      ]
+      "articles": [],
+      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
     },
     {
       "id": "sverigesradio-p4-stockholm",
