@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:18:23Z",
+  "generated_at": "2026-08-21T22:45:45Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -1343,6 +1343,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "51d33677c9c9",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Ikväll 21:32",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Igår 21:32 Igår 21:32 • 8 min Publicerades: Igår 09:41 Igår 09:41 • 4 min Publicerades: Igår 08:41 Igår 08:41 • 4 min 22 sek Publicerades: Igår 07:41 Igår 07:41 • 4 min 28 sek Publicerades: Igår 06:41 Igår 06:41 • 6 min Publicerades: Tor 20 aug 21:38 Tor 20 aug • 8 min Publicerades: Tor 20 aug 09:41 Tor 20 aug • 4 min 6 sek Publicerades: Tor 20 aug 08:41 Tor 20 aug • 4 min 12 sek Publicerades: Tor 20 aug 07:41 Tor 20 aug • 4 min 16 sek Publicerades: Tor 20 aug 06:41 Tor 20 aug • 4 min 32 sek",
+          "url": "https://www.svtplay.se/video/K5ddqwg/kulturnyheterna/ikvall-21-32?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54770447/1787341981?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-21T19:32:00Z",
+          "embed_url": "https://www.svtplay.se/video/K5ddqwg/kulturnyheterna/ikvall-21-32?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "d3fd31cad50a",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
@@ -1364,7 +1388,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "284f34ccbfee",
@@ -1388,7 +1412,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "48405a8512da",
@@ -1412,7 +1436,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "73195f7786aa",
@@ -1436,7 +1460,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "d86ba0c1d1d4",
@@ -1453,30 +1477,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54760247/1787256307?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-20T21:38:00Z",
           "embed_url": "https://www.svtplay.se/video/84ddvzA/kulturnyheterna/igar-21-38?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "51d33677c9c9",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Ikväll 21:32",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Igår 21:32 Igår 21:32 • 8 min Publicerades: Igår 09:41 Igår 09:41 • 4 min Publicerades: Igår 08:41 Igår 08:41 • 4 min 22 sek Publicerades: Igår 07:41 Igår 07:41 • 4 min 28 sek Publicerades: Igår 06:41 Igår 06:41 • 6 min Publicerades: Tor 20 aug 21:38 Tor 20 aug • 8 min Publicerades: Tor 20 aug 09:41 Tor 20 aug • 4 min 6 sek Publicerades: Tor 20 aug 08:41 Tor 20 aug • 4 min 12 sek Publicerades: Tor 20 aug 07:41 Tor 20 aug • 4 min 16 sek Publicerades: Tor 20 aug 06:41 Tor 20 aug • 4 min 32 sek",
-          "url": "https://www.svtplay.se/video/K5ddqwg/kulturnyheterna/ikvall-21-32?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54770447/1787341981?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-20T21:32:00Z",
-          "embed_url": "https://www.svtplay.se/video/K5ddqwg/kulturnyheterna/ikvall-21-32?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1673,6 +1673,106 @@
           "sort_order": 0
         },
         {
+          "id": "d71a20e5a5dd",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Jesse Watters: If you want to change America, you have to come from a place of love | Fox News Video",
+          "summary": "‘The Five’ comments on Senate Minority Leader Chuck Schumer defending progressives as part of the Democratic Party’s ‘big tent’ and discusses the influence of socialism within the party.",
+          "body_text": "‘The Five’ comments on Senate Minority Leader Chuck Schumer defending progressives as part of the Democratic Party’s ‘big tent’ and discusses the influence of socialism within the party.",
+          "url": "https://www.foxnews.com/video/6403838660112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b0916885-8fb6-4c8b-9e44-7d42c9422ed5/ff64d708-70ff-4218-8ade-02b2b8177b95/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-21T22:36:24Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403838660112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "a231de2c2d7c",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Mehek Cooke: There is 'much more' to the Swalwell case | Fox News Video",
+          "summary": "Republican strategist Mehek Cooke discusses the federal sexual misconduct investigation involving former Rep. Eric Swalwell on 'The Story.'",
+          "body_text": "Republican strategist Mehek Cooke discusses the federal sexual misconduct investigation involving former Rep. Eric Swalwell on 'The Story.'",
+          "url": "https://www.foxnews.com/video/6403836946112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7d489e8-c010-4f1c-a4ad-966c9290db10/dfaf796a-d7f1-43ce-b4b3-52756a10c2e0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-21T22:32:15Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403836946112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "e687dd030b8a",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Prosecutors will look for Eric Swalwell's metadata, GOP strategist explains | Fox News Video",
+          "summary": "Republican strategist Mehek Cooke discusses the FBI seizing Eric Swalwell's electronic devices amid allegations on 'The Story.'",
+          "body_text": "Republican strategist Mehek Cooke discusses the FBI seizing Eric Swalwell's electronic devices amid allegations on 'The Story.'",
+          "url": "https://www.foxnews.com/video/6403837555112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e10d7bf3-3624-497b-8f59-8f658c3f2208/a992a6f3-c6eb-4946-8de0-ede792ef2189/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-21T22:30:17Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403837555112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "6ba544315773",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Greg Gutfeld: The only way CNN could do this story is ‘deliberate ignorance’ | Fox News Video",
+          "summary": "‘The Five’ co-hosts discuss HHS Secretary Robert F. Kennedy Jr. criticizing CNN over its report breaking down a $20 meal from his cooking show.",
+          "body_text": "‘The Five’ co-hosts discuss HHS Secretary Robert F. Kennedy Jr. criticizing CNN over its report breaking down a $20 meal from his cooking show.",
+          "url": "https://www.foxnews.com/video/6403837156112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59341353-d022-43b1-a852-17c7d39d6f3d/f28a3e2c-9efe-4303-b39e-55f7a0377703/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-21T22:27:16Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403837156112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 4
+        },
+        {
           "id": "e86729df1f3d",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1695,7 +1795,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 5
         },
         {
           "id": "5f726178ac85",
@@ -1720,7 +1820,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 6
         },
         {
           "id": "638cb2408e2e",
@@ -1745,7 +1845,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 7
         },
         {
           "id": "928c70da829b",
@@ -1770,7 +1870,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 8
         },
         {
           "id": "174987633e89",
@@ -1795,7 +1895,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 9
         },
         {
           "id": "4875dc9ec541",
@@ -1812,106 +1912,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b284c0a-4969-4df1-b560-9af09354036b/42fd6bdd-720b-40f5-b193-e2fb855d69f8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-21T21:29:17Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403833321112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "fa30b843fbee",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Former FBI agent explains how investigators thwarted ISIS-inspired plot | Fox News Video",
-          "summary": "Former FBI special agent Nicole Parker details the radicalization of the alleged plotter of a foiled ISIS-inspired terror attack in New York on ‘America Reports.’",
-          "body_text": "Former FBI special agent Nicole Parker details the radicalization of the alleged plotter of a foiled ISIS-inspired terror attack in New York on ‘America Reports.’",
-          "url": "https://www.foxnews.com/video/6403831714112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdd28ade-7aae-44cb-a4ed-82a30770f2a0/e72187ea-826b-455c-9f27-d27369097838/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T21:09:36Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403831714112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "dfc18f7b540b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Prince Harry and six others ordered to pay $13M in legal fees after court loss | Fox News Video",
-          "summary": "Fox News host Emily Compagno discusses Prince Harry and Meghan Markle potentially moving back to the UK after losing their invasion of privacy case on 'Outnumbered.'",
-          "body_text": "Fox News host Emily Compagno discusses Prince Harry and Meghan Markle potentially moving back to the UK after losing their invasion of privacy case on 'Outnumbered.'",
-          "url": "https://www.foxnews.com/video/6403833808112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f80742c5-cc31-4bf9-8fcf-62f93169731a/7ce9d561-0804-4fd7-a5e4-b11ca36a3ed3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T21:08:50Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403833808112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "09deff95ad16",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "President Trump takes reporter questions | Fox News Video",
-          "summary": "President Donald Trump discusses a Supreme Court ruling on his ballroom, the Treasury Department’s bond buybacks and more at Joint Base Andrews.",
-          "body_text": "President Donald Trump discusses a Supreme Court ruling on his ballroom, the Treasury Department’s bond buybacks and more at Joint Base Andrews.",
-          "url": "https://www.foxnews.com/video/6403832142112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5559cc2a-966c-46ef-b414-c8a26dbc90a5/81a669d0-c2a4-422a-9ed8-841e46e5c0b1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T21:08:46Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403832142112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "905c9b53880b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Leaked Apple AirPods with cameras spark privacy concerns | Fox News Video",
-          "summary": "‘Outnumbered’ co-host Harris Faulkner discusses a leaked Apple AirPods model featuring cameras in the stems that is generating a privacy debate.",
-          "body_text": "‘Outnumbered’ co-host Harris Faulkner discusses a leaked Apple AirPods model featuring cameras in the stems that is generating a privacy debate.",
-          "url": "https://www.foxnews.com/video/6403831297112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f4fcefc-decc-4971-afc5-92e10e5d1a9d/1298b10e-33f5-4392-8e95-f1f476ba96dd/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T20:44:25Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403831297112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -1998,20 +1998,20 @@
           "sort_order": 13
         },
         {
-          "id": "81340cd2227c",
+          "id": "3dc7569b6caf",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas | Fox News Video",
-          "summary": "Duane “Keffe D” Davis stands trial in the murder of hip hop legend Tupac Shakur.",
-          "body_text": "Duane “Keffe D” Davis stands trial in the murder of hip hop legend Tupac Shakur.",
-          "url": "https://www.foxnews.com/video/6403817760112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713df3d2-b4e8-438c-88c2-d79cfddfe0e9/8e2e73f1-258b-4879-8cc8-7c03f37bd42e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-21T15:33:02Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403817760112",
+          "title": "WATCH LIVE: President Trump delivers remarks in South Carolina | Fox News Video",
+          "summary": "President Donald Trump delivers remarks at a campaign rally at the Myrtle Beach Convention Center in South Carolina.",
+          "body_text": "President Donald Trump delivers remarks at a campaign rally at the Myrtle Beach Convention Center in South Carolina.",
+          "url": "https://www.foxnews.com/video/6403835915112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b6f0ea1-ba0f-4816-a14f-2022dc6cea07/46e9af12-1c8c-4645-b923-e00da45a2822/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-21T22:20:15Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403835915112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2023,20 +2023,20 @@
           "sort_order": 14
         },
         {
-          "id": "e9dc36bd675e",
+          "id": "9597150984c7",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "Outnumbered - Friday, August 21 | Fox News Video",
-          "summary": "Four female panelists and one male colleague share their perspectives on the day's top news stories.",
-          "body_text": "Four female panelists and one male colleague share their perspectives on the day's top news stories.",
-          "url": "https://www.foxnews.com/video/6403829443112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/bb3d4ef6-6741-4a5f-b6a9-19e4088e5af9/cf438f5f-03cc-42bf-8673-c7de76be3cd0/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-21T20:15:47Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403829443112",
+          "title": "The Story With Martha Maccallum - Friday, August 21 | Fox News Video",
+          "summary": "Karmelo Anthony, trial, US vs Iran, Sofie Cunningham, Calkins, columnist, Seattle Times, Swalwell, Hayden Panettiere death",
+          "body_text": "Karmelo Anthony, trial, US vs Iran, Sofie Cunningham, Calkins, columnist, Seattle Times, Swalwell, Hayden Panettiere death Martha MacCallum brings the story of the times with her tough but fair interviews.",
+          "url": "https://www.foxnews.com/video/6403838460112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/ac4c475e-da44-4afa-b179-df0353ea5048/b16ca504-8450-4c3c-9a6a-2286136aae26/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-21T22:23:28Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403838460112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -3665,7 +3665,7 @@
           "source_kind": "story",
           "title": "Nvidia just showed that the harness, not the AI model, is now the real hero | TechCrunch",
           "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-          "body_text": "Nvidia published some interesting new research on Friday suggesting it’s the harness, more than the underlying model, that is far more important when asking an AI to do long-horizon tasks. A harness is the software wrapper around an AI model — the tools, memory management, and rules that turn a raw model into something that can act on its own. The TL;DR: Simply by using a custom harness tweaked to handle memory well and including a “supervisor” boss-like component, researchers got Claude Opus 5 to achieve a 100% score on the interactive reasoning benchmark ARC-AGI-3 — a set of 2D games with no instructions, where the model has to figure out how to play and win, similar to how a human would. (That’s a benchmark that has particularly irked rival frontier lab OpenAI.) Without the harness, Opus 5 scored 30%, which was the top result among all the models tested. Nvidia’s research is another indicator that, while model choice does matter, the model itself — the part that acts as the agent’s “brain” — is a smaller part of an agentic system than many AI users realize, especially for long-horizon tasks. The harness is what makes a model an agent: It handles memory, context, and feedback. “Generally speaking, the world interprets an agent almost as an API of the model,” Adel El Hallack, vice president of product in Nvidia’s AI unit (pictured above), tells TechCrunch. But an agent is actually more than that. “It is the model. It is the scaffolding around the model, which we call the harness, i.e. the set of tools that it utilizes. It is the runtime and the associated skills and libraries that we give it access to.” Long-horizon tasks are those that require stringing many decisions together, sometimes over days, to produce completed work. This is in contrast to an AI just spitting out a response to a prompt. Figuring out how to get an AI to do long-horizon tasks without getting distracted and going off in la-la land is one of the holy grails in agentic research. For example: Microsoft published research in April that tested 19 LLMs on long-horizon tasks involving document editing and discovered that all the models, including frontier ones, filled the documents with errors. (If humans produced work like that, they would be promptly fired.) Models stringing decisions together on their own have also been caught deleting their users’ files, even whole databases or turning to criminal behavior to achieve their objectives from collusion to hacking . The choice by Nvidia researchers to use this interactive reasoning benchmark for their tests is particularly meaningful, almost funny. A 100% score means that the model can beat the games as well as humans. OpenAI was so flustered by its models’ abysmal scores (less than 10%) on ARC-AGI-3 that it conducted its own research last month. Like Nvidia, OpenAI discovered that simply by tweaking two settings on the harness, its models tripled their scores. But none of the models came close to hitting a 100% score, like Nvidia’s researchers achieved. They showed that the harness needs a “supervisor” component that prods the agent in the right direction if it gets stuck. “The more interesting part was introducing a supervising agent in addition to your main agent that’s doing the work,” El Hallack said. It “almost acts like a CEO to nudge the agent when it goes off direction or starts exploring a path that it might lead to a dead end, or re-explore a path that it had previously trod.” While the concept of the supervising agent isn’t exactly new, today most agent users are relying on only one layer for their harness, like Claude Code, Codex, or Hermes. Nvidia researchers created their own souped-up harness called the Agentic Variation Operators (AVO).",
+          "body_text": "Nvidia published some interesting new research on Friday suggesting it’s the harness, more than the underlying model, that is far more important when asking an AI to do long-horizon tasks. A harness is the software wrapper around an AI model — the tools, memory management, and rules that turn a raw model into something that can act on its own. The TL;DR: Simply by using a custom harness tweaked to handle memory well and including a “supervisor” boss-like component, researchers got Claude Opus 5 to achieve a 100% score on the interactive reasoning benchmark ARC-AGI-3 — a set of 2D games with no instructions, where the model has to figure out how to play and win, similar to how a human would. (That’s a benchmark that has particularly irked rival frontier lab OpenAI.) Without the harness, Opus 5 scored 30%, which was the top result among all the models tested. Nvidia’s research is another indicator that, while model choice does matter, the model itself — the part that acts as the agent’s “brain” — is a smaller part of an agentic system than many AI users realize, especially for long-horizon tasks. The harness is what makes a model an agent: It handles memory, context, and feedback. “Generally speaking, the world interprets an agent almost as an API of the model,” Adel El Hallak, vice president of product in Nvidia’s AI unit (pictured above), tells TechCrunch. But an agent is actually more than that. “It is the model. It is the scaffolding around the model, which we call the harness, i.e. the set of tools that it utilizes. It is the runtime and the associated skills and libraries that we give it access to.” Long-horizon tasks are those that require stringing many decisions together, sometimes over days, to produce completed work. This is in contrast to an AI just spitting out a response to a prompt. Figuring out how to get an AI to do long-horizon tasks without getting distracted and going off in la-la land is one of the holy grails in agentic research. For example: Microsoft published research in April that tested 19 LLMs on long-horizon tasks involving document editing and discovered that all the models, including frontier ones, filled the documents with errors. (If humans produced work like that, they would be promptly fired.) Models stringing decisions together on their own have also been caught deleting their users’ files or even whole databases or turning to criminal behavior , from collusion to hacking , to achieve their objectives. The choice by Nvidia researchers to use this interactive reasoning benchmark for their tests is particularly meaningful, almost funny. A 100% score means that the model can beat the games as well as humans. OpenAI was so flustered by its models’ abysmal scores (less than 10%) on ARC-AGI-3 that it conducted its own research last month. Like Nvidia, OpenAI discovered that simply by tweaking two settings on the harness, its models tripled their scores. But none of the models came close to hitting a 100% score, like Nvidia’s researchers achieved. They showed that the harness needs a “supervisor” component that prods the agent in the right direction if it gets stuck. “The more interesting part was introducing a supervising agent in addition to your main agent that’s doing the work,” El Hallak said. It “almost acts like a CEO to nudge the agent when it goes off direction or starts exploring a path that it might lead to a dead end, or re-explore a path that it had previously trod.” While the concept of the supervising agent isn’t exactly new, today most agent users are relying on only one layer for their harness, like Claude Code, Codex, or Hermes. Nvidia researchers created their own souped-up harness called the Agentic Variation Operators (AVO).",
           "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
           "published_at": "2026-08-21T19:43:39Z",
@@ -4028,7 +4028,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet – kontakt och redaktionell policy",
           "summary": "Om Aftonbladet – kontakt och redaktionell policy",
-          "body_text": "Tjänstgörande redaktörer: Kristina Jeppsson , Aleksandra Wojcik , Louise Nylander och Elvira S Barsotti Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Eric Rosén och Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet Hierta Aktiebolag ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius (verkliga huvudmän, enligt definitionen i artikel 3.6 i direktiv (EU) 2015/849, är styrelseledamöterna i Stiftelsen, vid var tid redovisade här: https://www.tinius.com/en/the-board ) och till 9 procent av Landsorganisationen i Sverige, LO. LO har vetorätt när det gäller att tillsätta Aftonbladets politiska chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Tjänstgörande redaktörer: Kristina Jeppsson , Louise Nylander och Elvira S Barsotti Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Eric Rosén och Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet Hierta Aktiebolag ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius (verkliga huvudmän, enligt definitionen i artikel 3.6 i direktiv (EU) 2015/849, är styrelseledamöterna i Stiftelsen, vid var tid redovisade här: https://www.tinius.com/en/the-board ) och till 9 procent av Landsorganisationen i Sverige, LO. LO har vetorätt när det gäller att tillsätta Aftonbladets politiska chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/LOlQ4/om-aftonbladet",
           "image_url": "https://akamai.vgc.no/v2/images/11bc7a56-7cf1-4ae6-9bd3-f357872611de?fit=crop&h=675&upscale=true&w=1200&s=344ab4ad89686c61ce5a66acae91e9391538ec39",
           "published_at": "2020-09-02T08:55:45Z",
@@ -4053,7 +4053,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till halva priset hos Revolution Race! Upp till 25% på toppar, tunikor och tröjor",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler.",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4078,7 +4078,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Upp till 25% på toppar, tunikor och tröjor Upp till halva priset hos Revolution Race!",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
