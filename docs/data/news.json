@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:15:54Z",
+  "generated_at": "2026-08-22T22:41:41Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -339,6 +339,30 @@
           "sort_order": 0
         },
         {
+          "id": "c6cd57e76efc",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 19:30",
+          "summary": "Skoldådet i Fagersta: Sorg präglar bruksorten • Skoldådet i Fagersta: Vem är gärningsmannen?",
+          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 30 min Skoldådet i Fagersta: Sorg präglar bruksorten • Skoldådet i Fagersta: Vem är gärningsmannen? Mer om programmet Publicerades: Fre 21 aug 19:30 Fre 21 aug • 25 min Fagersta: Flera skadade i skolattack • Beredskap: Rustar inför valet • Boden: Stabsläge efter skyfall Mer om programmet Valrörelsen: S och C syns tillsammans • Örebro: LVU hävs efter felaktigheter • Tradition: Surströmmingspremiär i dag Mer om programmet Ukraina: Fedorov vill ha val trots krig • Rotavdrag: Fusk för miljoner • SVT i höst: Serier, humor och reality Mer om programmet Opinionsläget: Oppositionen behåller ledning • Ukraina: Flera döda i ryska anfall • Djur och natur: \"Helvetesfjärilen\" har hittats i Skåne Mer om programmet Ukraina: Kapprustning eskalerar • Italien: Har EU:s äldsta befolkning • Skolstart idag: Nya mobilregler i kraft Mer om programmet Ryssland: Omfattande attacker mot Moskva • Val 2026: Bortglömd glesbygd? • Dödskallegrottan: Sensationella fynd Mer om programmet Publiceras: Idag 16:00 Idag 16:00 • 5 min Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
+          "url": "https://www.svtplay.se/video/jqPPXq9/rapport/ikvall-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54772463/1787419430?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-22T17:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/jqPPXq9/rapport/ikvall-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "3ad5bb56799a",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -353,30 +377,6 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54772772/1787430761?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-22T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/ePBB5oA/rapport/ikvall-22-15?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "c6cd57e76efc",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ikväll 19:30",
-          "summary": "Skoldådet i Fagersta: Sorg präglar bruksorten • Skoldådet i Fagersta: Vem är gärningsmannen?",
-          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 30 min Skoldådet i Fagersta: Sorg präglar bruksorten • Skoldådet i Fagersta: Vem är gärningsmannen? Mer om programmet Publicerades: Fre 21 aug 19:30 Fre 21 aug • 25 min Fagersta: Flera skadade i skolattack • Beredskap: Rustar inför valet • Boden: Stabsläge efter skyfall Mer om programmet Valrörelsen: S och C syns tillsammans • Örebro: LVU hävs efter felaktigheter • Tradition: Surströmmingspremiär i dag Mer om programmet Ukraina: Fedorov vill ha val trots krig • Rotavdrag: Fusk för miljoner • SVT i höst: Serier, humor och reality Mer om programmet Opinionsläget: Oppositionen behåller ledning • Ukraina: Flera döda i ryska anfall • Djur och natur: \"Helvetesfjärilen\" har hittats i Skåne Mer om programmet Ukraina: Kapprustning eskalerar • Italien: Har EU:s äldsta befolkning • Skolstart idag: Nya mobilregler i kraft Mer om programmet Ryssland: Omfattande attacker mot Moskva • Val 2026: Bortglömd glesbygd? • Dödskallegrottan: Sensationella fynd Mer om programmet Publiceras: Idag 16:00 Idag 16:00 • 5 min Nyheter från Sverige och världen. Mer om programmet Fördjupning kring de största nyheterna från i dag",
-          "url": "https://www.svtplay.se/video/jqPPXq9/rapport/ikvall-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54772463/1787419430?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-22T16:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jqPPXq9/rapport/ikvall-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1721,6 +1721,56 @@
           "sort_order": 0
         },
         {
+          "id": "fda882cbb052",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "European heatwave uncovers hidden history across parched landscapes | Fox News Video",
+          "summary": "Fox News correspondent Stephanie Bennett discusses how a severe European heatwave is parching landscapes and uncovering long-hidden history across the continent on ‘Fox Report.’",
+          "body_text": "Fox News correspondent Stephanie Bennett discusses how a severe European heatwave is parching landscapes and uncovering long-hidden history across the continent on ‘Fox Report.’ Fox News correspondent Stephanie Bennett highlights how a severe European heatwave is drying up landscapes and revealing long-hidden history, including historic gardens, Roman ruins and World War II warships.",
+          "url": "https://www.foxnews.com/video/6403892260112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/661f97ec-65a4-46a8-83b9-10c2d9fe36c4/f02260a7-78a1-41e1-9efa-5d7d37c2133d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-22T22:20:21Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403892260112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "d785611dcb1a",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Judge denies new trial for Karmelo Anthony in track meet killing | Fox News Video",
+          "summary": "The hosts of 'The Big Weekend Show' discuss the judge's decision to deny a new trial for Karmelo Anthony, who was sentenced to 35 years for a fatal stabbing at a track meet.",
+          "body_text": "The hosts of 'The Big Weekend Show' discuss the judge's decision to deny a new trial for Karmelo Anthony, who was sentenced to 35 years for a fatal stabbing at a track meet. Max Gorden reports on a Texas judge denying a new trial for Karmelo Anthony, who was sentenced to 35 years in prison for the fatal stabbing of 17-year-old Austin Metcalf. The co-hosts of 'The Big Weekend Show' react to Anthony's chilling text messages revealed by prosecutors and the defense's attempts to secure a new trial.",
+          "url": "https://www.foxnews.com/video/6403893514112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29c6e2eb-e1b3-44c2-9095-0e57ea5d74f1/158d51d1-1f8d-4294-b78e-717703f0bb74/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-22T22:11:39Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403893514112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "b69eaffeea4f",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1793,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "8b6ae95de46d",
@@ -1768,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "4385bcb5144e",
@@ -1793,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "34bb860f0a97",
@@ -1818,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "dab0e6486362",
@@ -1843,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "f81ad39f1a91",
@@ -1868,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "112a9af0c347",
@@ -1893,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "58a06fcf466b",
@@ -1910,56 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aca53200-36e3-4675-bc1e-d129fac6334d/1349a65d-8fe8-4b36-8b6c-1918a620c6a8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-22T19:54:10Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403888874112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "dbe1f0097181",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Expert evaluates alleged New York bomb plotter’s path of radicalization | Fox News Video",
-          "summary": "Former DHS advisor Charles Marino discusses how a woman allegedly became radicalized to plan an ISIS-inspired attack on the New York Capitol Building on ‘Fox Report.’",
-          "body_text": "Former DHS advisor Charles Marino discusses how a woman allegedly became radicalized to plan an ISIS-inspired attack on the New York Capitol Building on ‘Fox Report.’",
-          "url": "https://www.foxnews.com/video/6403889458112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/959b22e1-eb2c-42f3-ae3d-ff7804efecf1/9eae7638-7e3b-425c-88bc-269b15ca868e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-22T19:50:39Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403889458112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "c169552f1ffa",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "US imposes 50% tariffs on Canada as trade talks collapse | Fox News Video",
-          "summary": "Fox News correspondent Alex Hogan reports on the collapse of U.S.-Canada trade talks and the resulting 50% tariffs on $20 billion in Canadian goods on ‘Fox Report.’",
-          "body_text": "Fox News correspondent Alex Hogan reports on the collapse of U.S.-Canada trade talks and the resulting 50% tariffs on $20 billion in Canadian goods on ‘Fox Report.’ Fox News correspondent Alex Hogan reports on the collapse of U.S.-Canada trade talks, which prompted 50% tariffs on $20 billion in Canadian goods. Canadian Prime Minister Mark Carney criticizes the tariffs, warning they will burden consumers.",
-          "url": "https://www.foxnews.com/video/6403886809112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/158a5e18-d69e-41af-9d86-3edac3c9759d/2cc8ca1d-f01b-44dd-bf37-38c982fa61af/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-22T19:36:11Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403886809112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2046,31 +2046,6 @@
           "sort_order": 13
         },
         {
-          "id": "1b1cfa226e80",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "WATCH LIVE: IROC doubleheader at DC Freedom 250 Grand Prix | Fox News Video",
-          "summary": "Motorsports legends hit the D.C. streets for a double-header event at the Freedom 250 Grand Prix to crown the 2026 IROC champion.",
-          "body_text": "Motorsports legends hit the D.C. streets for a double-header event at the Freedom 250 Grand Prix to crown the 2026 IROC champion.",
-          "url": "https://www.foxnews.com/video/6403885787112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cefd758f-62e3-4d59-b6d8-3654c5157154/5f6c12a6-c61f-4c80-97b7-1c7c1ae6a327/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-22T18:47:02Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403885787112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 14
-        },
-        {
           "id": "2cee0a6faced",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2085,6 +2060,31 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/444c40dc-cc19-4a95-a482-5e02958d3ffb/ef061fc5-4f3a-4236-a1f2-3100ae2bd4c0/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-08-22T21:53:22Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403891838112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
+          "id": "0ecf969e57ab",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Gutfeld! - Friday, August 21 | Fox News Video",
+          "summary": "FNC, Gutfeld!, Greg Gutfeld, Florida, DSA, Angie Nixon, drag shows, ChatGPT, assassin planning, women, misandry, fake polls, homeless sex clinics, Los Angeles, Islam, terror plot, FBI",
+          "body_text": "FNC, Gutfeld!, Greg Gutfeld, Florida, DSA, Angie Nixon, drag shows, ChatGPT, assassin planning, women, misandry, fake polls, homeless sex clinics, Los Angeles, Islam, terror plot, FBI Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+          "url": "https://www.foxnews.com/video/6403866132112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/e5eab810-1a31-4115-9de6-41fb71594c42/fe9d71fb-8c6f-466b-b1de-24942fae97cb/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-22T07:23:17Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403866132112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2546,6 +2546,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "499d1a4956ab",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cusco: porteador muere rumbo a Machu Picchu y su familia denuncia que habría sido abandonado",
+          "summary": "Porteador murió mientras cargaba equipaje rumbo a Machu Picchu. Su familia denuncia falta de auxilio y la Policía investiga el caso.",
+          "body_text": "Gabriel Ríos Mamani, un porteador de 49 años, murió durante la madrugada del martes 18 de agosto mientras realizaba labores de carga para un grupo de aproximadamente 20 turistas extranjeros que se dirigía hacia Machu Picchu, en Cusco. El trabajador fue encontrado sin vida en el sector de Warmiwañusca, ubicado en el distrito de Huayllabamba y a más de 4.000 metros sobre el nivel del mar. Su familia cuestiona las circunstancias en las que ocurrió el fallecimiento y denuncia que el trabajador no habría recibido auxilio oportuno. De acuerdo con la información proporcionada sobre el caso, el grupo había instalado su campamento en la zona. Durante la madrugada, los compañeros de Ríos se percataron de que el porteador ya no presentaba signos vitales. Ríos se encontraba realizando labores de carga de equipaje para los turistas que recorrían la ruta hacia Machu Picchu, una actividad que implica desplazarse por zonas de gran altitud y condiciones geográficas complejas. Tras conocer lo ocurrido, sus familiares acudieron al lugar para conocer detalles sobre su muerte y gestionar la recuperación del cuerpo. La familia de Gabriel Ríos cuestionó la actuación de quienes estaban a cargo del servicio y denunció un presunto abandono. William Ríos Mamahuilca, hijo del trabajador, sostuvo que su padre salió de casa en buenas condiciones y señaló que, según la versión que recibió, se habría priorizado el traslado del equipaje antes que la atención de los problemas de salud que habría presentado su progenitor. Otro aspecto cuestionado por los familiares es que fueron informados del fallecimiento recién al día siguiente. Además, señalaron que cuando llegaron al lugar no encontraron a ningún representante de la agencia encargada del servicio. Uno de los compañeros de Ríos también pidió que el caso sea investigado y rechazó versiones que señalaban que el trabajador habría estado bajo los efectos del alcohol. Asimismo, aseguró que al porteador le habrían retirado algunas prendas de abrigo que habían sido proporcionadas para realizar la ruta. Según esta versión, Ríos habría quedado expuesto a las bajas temperaturas registradas en la zona. Estas afirmaciones deberán ser corroboradas durante las investigaciones correspondientes. El jefe de la Región Policial Cusco, general PNP Virgilio Velásquez Hurtado, informó que la causa de la muerte todavía no ha sido determinada y pidió evitar atribuir el fallecimiento directamente a las condiciones climáticas. La presunta falta de auxilio también forma parte de las diligencias que deberán establecer qué ocurrió durante las horas previas al fallecimiento. La Policía coordinó con el Ministerio Público y las autoridades correspondientes para realizar las investigaciones y determinar las circunstancias exactas del deceso. Por otro lado, las condiciones del terreno dificultaron la recuperación y traslado del cuerpo de Gabriel Ríos. Debido a la ubicación del sector de Warmiwañusca, el descenso hacia una zona accesible demandaba varias horas de caminata. Ahora las autoridades deberán establecer qué ocurrió antes de la muerte del porteador y determinar si existió alguna demora en el auxilio o cualquier otra circunstancia que pudiera haber contribuido al desenlace. La investigación permitirá esclarecer también las responsabilidades que pudieran corresponder en caso de confirmarse las denuncias formuladas por la familia.",
+          "url": "https://elcomercio.pe/peru/cusco/cusco-porteador-muere-rumbo-a-machu-picchu-y-su-familia-denuncia-que-habria-sido-abandonado-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ACY3A4VJFREMDNFMSLSGRYKZ3Q.jpg?auth=121f633d9ca7487179af02846c6dc12dbfb4316535d865fc8a9ed6602601a295&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-22T22:20:25Z",
+          "embed_url": "https://elcomercio.pe/peru/cusco/cusco-porteador-muere-rumbo-a-machu-picchu-y-su-familia-denuncia-que-habria-sido-abandonado-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "porteador muere en Cusco, Machu Picchu, muerte de porteador, Gabriel Ríos Mamani, porteadores de Machu Picchu, Warmiwañusca, Huayllabamba, Cusco, turismo en Machu Picchu, Policía Nacional del Perú",
+            "Cusco",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "46d10f61f90f",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2569,7 +2595,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "d26c50a5445d",
@@ -2595,33 +2621,33 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
-          "id": "afa0c33a9430",
+          "id": "df104407b290",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
           "provider": "El Comercio",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Machu Picchu: suspenden ingreso de turistas al Camino Inca por deslizamientos y daños",
-          "summary": "La Dirección de Cultura de Cusco suspendió desde este miércoles 19 de agosto el ingreso de turistas al Camino Inca de Machu Picchu debido a deslizamientos y otros daños provocados por las intensas lluvias.",
-          "body_text": "La Dirección de Cultura de Cusco dispuso la suspensión temporal del ingreso de turistas al Camino Inca de Machu Picchu debido a los deslizamientos y daños registrados en diversos sectores de la ruta por las intensas lluvias. La medida regirá desde este miércoles 19 de agosto y se mantendrá hasta nuevo aviso. La directora de Cultura, Maritza Rosa Candia, informó que desde la noche del lunes 17 de agosto se registran precipitaciones intensas en diferentes sectores de la Red de Caminos Inca hacia la ciudadela de Machu Picchu. Entre las incidencias reportadas figuran deslizamientos de tierra, crecida de riachuelos, inundación de zonas de campamento, colapso de servicios higiénicos, afectación de pontones y erosión de suelos. Estos hechos fueron identificados en sectores como Llulluchapampa, Ayapata, Paqaymayu Alto, Soqtacocha, Yuncachimpa, Qonchamarka, Wayllabamba, Pawkarcancha, Cusichaka, Phuyupatamarka y Wiñaywayna. Francisco Huarcaya, responsable de Conservación de la Red de Caminos Inca, señaló que el personal de vigilancia y conservación mantiene un monitoreo permanente de estos sectores para identificar situaciones de riesgo y adoptar las medidas correspondientes. Como parte de las medidas adoptadas, también se dispuso el retorno de los visitantes que ingresaron este martes al Camino Inca. La decisión considera las condiciones meteorológicas adversas previstas por el Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi), asociadas a la presencia de una Depresión Aislada en Niveles Altos (DANA). Para los turistas que se encuentran retornando se evalúan rutas alternas por el kilómetro 104, en Chachabamba, y el kilómetro 106, en Choquesuysuy. La habilitación de estos recorridos dependerá de la evaluación de las condiciones meteorológicas y de seguridad hasta el 22 de agosto. En caso de que persistan las condiciones adversas, la Dirección de Cultura indicó que se realizarán los trámites correspondientes para la reprogramación de las visitas y/o devolución de los costos de ingreso, según corresponda. La entidad también dispuso mantener en alerta permanente al personal del Parque Arqueológico Nacional de Machu Picchu para reforzar las labores de vigilancia, monitoreo y respuesta ante cualquier eventualidad. Finalmente, la Dirección de Cultura exhortó a los operadores turísticos y usuarios de la Red de Caminos Inca a respetar las disposiciones de seguridad y mantenerse atentos a las comunicaciones oficiales que se difundan a través de sus canales institucionales.",
-          "url": "https://elcomercio.pe/peru/cusco/machu-picchu-suspenden-ingreso-de-turistas-al-camino-inca-por-deslizamientos-y-danos-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/EJNOACYZIJFD3A4MHLQUAS3B6Y.jpg?auth=330697a55c202e251b7717009a14cbc164e2e6598de7ae11d619b831c48372b0&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-18T23:25:15Z",
-          "embed_url": "https://elcomercio.pe/peru/cusco/machu-picchu-suspenden-ingreso-de-turistas-al-camino-inca-por-deslizamientos-y-danos-ultimas-noticia/",
+          "title": "Ministro de Defensa informa que sismo en Ayacucho dejó 3 heridos y 22 viviendas y 6 colegios afectados",
+          "summary": "El ministro de Defensa, Rafael Belaunde, informó que el sismo de magnitud 7.2 registrado este jueves 19 de agosto en la región Ayacucho ha dejado de manera preliminar tres heridos y 22 viviendas y 6 colegios afectados.",
+          "body_text": "El ministro de Defensa, Rafael Belaunde, informó que el sismo de magnitud 7.2 registrado este jueves 19 de agosto en la región Ayacucho ha dejado de manera preliminar tres heridos y 22 viviendas y 6 colegios afectados. Durante la exposición de la política general de Gobierno, señaló que los heridos no presentan lesiones de gravedad y que de las casas afectadas, ocho de ellas se encuentran ubicadas en la ciudad de Puquio, provincia de Lucanas. Belaunde detalló que 12 postas médicas también resultaron dañadas, razón por la cual el director de la Dirección Desconcentrada del Instituto de Defensa Civil (Indeci) de Ayacucho se desplazó a la zona de impacto junto con el gobernador regional. Como se recuerda, un fuerte sismo de magnitud 7.2 se registró en el departamento de Ayacucho, reportó el Instituto Geofísico del Perú (IGP) en sus canales de comunicación oficiales. El evento telúrico ocurrió a la 1:00 p.m. y su epicentro se localizó a 35 kilómetros al norte de la ciudad de Coracora, en la provincia de Parinacochas. El evento telúrico fue sentido en la parte norte de Arequipa, en Ica y en Abancay, así como en Lima. De acuerdo con el IGP, el temblor tuvo una profundidad de 108 kilómetros y se registró con una intensidad máxima de III - IV en CoraCora. Horas después, a las 4:30 p.m., se reportó una réplica de magnitud 4.2 en la misma zona. Además, el Centro de Operaciones de Emergencia Nacional (COEN) informó que el terremoto ocasionó un corte de energía eléctrica en la provincia de Nazca, Ica, afectando a cerca de 6 mil usuarios. Por su parte, la plataforma de monitoreo Asismet señaló que se han identificado al menos 10 réplicas de muy pequeña magnitud a través del sismógrafo ubicado en Sara Sara, precisando que “todas resultaron imperceptibles para la población y, por ese motivo, el IGP no las reportó dentro de sus registros públicos”. En tanto, en su cuenta institucional de Facebook, la Dirección de Hidrografía y Navegación de la Marina de Guerra del Perú, informó que el sismo de magnitud 7.2 no generó una alerta de tsunami en el litoral peruano.",
+          "url": "https://elcomercio.pe/peru/ayacucho/terremoto-en-ayacucho-ministro-de-defensa-informa-que-se-reportaron-3-heridos-y-22-viviendas-y-6-colegios-afectados-por-sismo-de-magnitud-72-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ZNGGNIA7DFGGJAVIKMCGRO63VE.jpg?auth=6557a48597d09eb0b0f3de7ecdc6c79dc0b7760386c15eab5a8c9863252416c0&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-21T00:23:41Z",
+          "embed_url": "https://elcomercio.pe/peru/ayacucho/terremoto-en-ayacucho-ministro-de-defensa-informa-que-se-reportaron-3-heridos-y-22-viviendas-y-6-colegios-afectados-por-sismo-de-magnitud-72-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Machu Picchu, Cusco, Camino Inca, Deslizamientos, Lluvias",
-            "Cusco",
+            "Terremoto en Ayacucho, Ayacucho, Parinacochas, Coracora, Rafael Belaunde, Ministerio de Defensa, Indeci, IGP, Sismo",
+            "Ayacucho",
             "Senaste",
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "0687dd9840ed",
@@ -2647,7 +2673,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "bf3eb4c3fbdb",
@@ -2673,7 +2699,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "e70e89c1c259",
@@ -2699,7 +2725,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "167a83dcd566",
@@ -2721,32 +2747,6 @@
           "tags": [
             "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
             "Tramites",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "90c82a4757ff",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "¡Reventó la Kábala! mira los números ganadores del sábado 11 de julio",
-          "summary": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 11 de julio, que tiene un pozo acumulado de S/3′646,620. Además, puedes seguir el sorteo de Chau Chamba.",
-          "body_text": "Mira a continuación los resultados del sorteo de Kábala del sábado 11 de julio También consulta la combinación de Chau Chamba.",
-          "url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JDQZGCPFAFG3FH6RGNACCZMHAE.png?auth=1b292019c8371d2cfba55627bb27924e4428829444cd64b1bf32491e89772217&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-12T15:19:09Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "resultados de la kábala, kabala, Cabala, kabala resultados, resultados de la kabala, tinka resultados, resultado de la kabala, resultados de la tinka, resultado de la kábala, premios de la kabala, tinka, sorteo de la kábala de hoy en vivo, kábala premios, la kabala resultados hoy, resultado de la kábala ayer perú, Intralot, la kabala hoy, kabala en vivo, kabala hoy, la kabala resultados, kábala sorteo, kábala horario, kábala, Kábala resultados, Kábala sorteo hoy, kábala sí o sí, kábala pozo hoy, kábala resultados hoy, la kábala ayer, kábala hoy, La kábala ganador, La Kábala sábado 11 de julio, La Cábala sábado 11 de julio, Kabala sabado 11, Cabala sabado 11, resultados Kábala sábado 11, resultados Cábala sábado 11, Kábala números 11 de julio, Cábala números 11 de julio, último sorteo Kábala sábado 11, último sorteo Cábala sábado 11, Kábala 11 de julio, Cábala 11 de julio, Kábala 11 julio del 2026, Cábala 11 julio del 2026",
-            "Loterias",
             "Senaste",
             "El Comercio"
           ],
@@ -2823,6 +2823,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "499d1a4956ab",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cusco: porteador muere rumbo a Machu Picchu y su familia denuncia que habría sido abandonado",
+          "summary": "Porteador murió mientras cargaba equipaje rumbo a Machu Picchu. Su familia denuncia falta de auxilio y la Policía investiga el caso.",
+          "body_text": "Gabriel Ríos Mamani, un porteador de 49 años, murió durante la madrugada del martes 18 de agosto mientras realizaba labores de carga para un grupo de aproximadamente 20 turistas extranjeros que se dirigía hacia Machu Picchu, en Cusco. El trabajador fue encontrado sin vida en el sector de Warmiwañusca, ubicado en el distrito de Huayllabamba y a más de 4.000 metros sobre el nivel del mar. Su familia cuestiona las circunstancias en las que ocurrió el fallecimiento y denuncia que el trabajador no habría recibido auxilio oportuno. De acuerdo con la información proporcionada sobre el caso, el grupo había instalado su campamento en la zona. Durante la madrugada, los compañeros de Ríos se percataron de que el porteador ya no presentaba signos vitales. Ríos se encontraba realizando labores de carga de equipaje para los turistas que recorrían la ruta hacia Machu Picchu, una actividad que implica desplazarse por zonas de gran altitud y condiciones geográficas complejas. Tras conocer lo ocurrido, sus familiares acudieron al lugar para conocer detalles sobre su muerte y gestionar la recuperación del cuerpo. La familia de Gabriel Ríos cuestionó la actuación de quienes estaban a cargo del servicio y denunció un presunto abandono. William Ríos Mamahuilca, hijo del trabajador, sostuvo que su padre salió de casa en buenas condiciones y señaló que, según la versión que recibió, se habría priorizado el traslado del equipaje antes que la atención de los problemas de salud que habría presentado su progenitor. Otro aspecto cuestionado por los familiares es que fueron informados del fallecimiento recién al día siguiente. Además, señalaron que cuando llegaron al lugar no encontraron a ningún representante de la agencia encargada del servicio. Uno de los compañeros de Ríos también pidió que el caso sea investigado y rechazó versiones que señalaban que el trabajador habría estado bajo los efectos del alcohol. Asimismo, aseguró que al porteador le habrían retirado algunas prendas de abrigo que habían sido proporcionadas para realizar la ruta. Según esta versión, Ríos habría quedado expuesto a las bajas temperaturas registradas en la zona. Estas afirmaciones deberán ser corroboradas durante las investigaciones correspondientes. El jefe de la Región Policial Cusco, general PNP Virgilio Velásquez Hurtado, informó que la causa de la muerte todavía no ha sido determinada y pidió evitar atribuir el fallecimiento directamente a las condiciones climáticas. La presunta falta de auxilio también forma parte de las diligencias que deberán establecer qué ocurrió durante las horas previas al fallecimiento. La Policía coordinó con el Ministerio Público y las autoridades correspondientes para realizar las investigaciones y determinar las circunstancias exactas del deceso. Por otro lado, las condiciones del terreno dificultaron la recuperación y traslado del cuerpo de Gabriel Ríos. Debido a la ubicación del sector de Warmiwañusca, el descenso hacia una zona accesible demandaba varias horas de caminata. Ahora las autoridades deberán establecer qué ocurrió antes de la muerte del porteador y determinar si existió alguna demora en el auxilio o cualquier otra circunstancia que pudiera haber contribuido al desenlace. La investigación permitirá esclarecer también las responsabilidades que pudieran corresponder en caso de confirmarse las denuncias formuladas por la familia.",
+          "url": "https://elcomercio.pe/peru/cusco/cusco-porteador-muere-rumbo-a-machu-picchu-y-su-familia-denuncia-que-habria-sido-abandonado-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ACY3A4VJFREMDNFMSLSGRYKZ3Q.jpg?auth=121f633d9ca7487179af02846c6dc12dbfb4316535d865fc8a9ed6602601a295&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-22T22:20:25Z",
+          "embed_url": "https://elcomercio.pe/peru/cusco/cusco-porteador-muere-rumbo-a-machu-picchu-y-su-familia-denuncia-que-habria-sido-abandonado-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "porteador muere en Cusco, Machu Picchu, muerte de porteador, Gabriel Ríos Mamani, porteadores de Machu Picchu, Warmiwañusca, Huayllabamba, Cusco, turismo en Machu Picchu, Policía Nacional del Perú",
+            "Cusco",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "46d10f61f90f",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
@@ -2846,33 +2872,59 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
-          "id": "afa0c33a9430",
+          "id": "d26c50a5445d",
           "source_id": "elcomercio-economia",
           "source_name": "Economia",
           "provider": "El Comercio",
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Machu Picchu: suspenden ingreso de turistas al Camino Inca por deslizamientos y daños",
-          "summary": "La Dirección de Cultura de Cusco suspendió desde este miércoles 19 de agosto el ingreso de turistas al Camino Inca de Machu Picchu debido a deslizamientos y otros daños provocados por las intensas lluvias.",
-          "body_text": "La Dirección de Cultura de Cusco dispuso la suspensión temporal del ingreso de turistas al Camino Inca de Machu Picchu debido a los deslizamientos y daños registrados en diversos sectores de la ruta por las intensas lluvias. La medida regirá desde este miércoles 19 de agosto y se mantendrá hasta nuevo aviso. La directora de Cultura, Maritza Rosa Candia, informó que desde la noche del lunes 17 de agosto se registran precipitaciones intensas en diferentes sectores de la Red de Caminos Inca hacia la ciudadela de Machu Picchu. Entre las incidencias reportadas figuran deslizamientos de tierra, crecida de riachuelos, inundación de zonas de campamento, colapso de servicios higiénicos, afectación de pontones y erosión de suelos. Estos hechos fueron identificados en sectores como Llulluchapampa, Ayapata, Paqaymayu Alto, Soqtacocha, Yuncachimpa, Qonchamarka, Wayllabamba, Pawkarcancha, Cusichaka, Phuyupatamarka y Wiñaywayna. Francisco Huarcaya, responsable de Conservación de la Red de Caminos Inca, señaló que el personal de vigilancia y conservación mantiene un monitoreo permanente de estos sectores para identificar situaciones de riesgo y adoptar las medidas correspondientes. Como parte de las medidas adoptadas, también se dispuso el retorno de los visitantes que ingresaron este martes al Camino Inca. La decisión considera las condiciones meteorológicas adversas previstas por el Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi), asociadas a la presencia de una Depresión Aislada en Niveles Altos (DANA). Para los turistas que se encuentran retornando se evalúan rutas alternas por el kilómetro 104, en Chachabamba, y el kilómetro 106, en Choquesuysuy. La habilitación de estos recorridos dependerá de la evaluación de las condiciones meteorológicas y de seguridad hasta el 22 de agosto. En caso de que persistan las condiciones adversas, la Dirección de Cultura indicó que se realizarán los trámites correspondientes para la reprogramación de las visitas y/o devolución de los costos de ingreso, según corresponda. La entidad también dispuso mantener en alerta permanente al personal del Parque Arqueológico Nacional de Machu Picchu para reforzar las labores de vigilancia, monitoreo y respuesta ante cualquier eventualidad. Finalmente, la Dirección de Cultura exhortó a los operadores turísticos y usuarios de la Red de Caminos Inca a respetar las disposiciones de seguridad y mantenerse atentos a las comunicaciones oficiales que se difundan a través de sus canales institucionales.",
-          "url": "https://elcomercio.pe/peru/cusco/machu-picchu-suspenden-ingreso-de-turistas-al-camino-inca-por-deslizamientos-y-danos-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/EJNOACYZIJFD3A4MHLQUAS3B6Y.jpg?auth=330697a55c202e251b7717009a14cbc164e2e6598de7ae11d619b831c48372b0&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-18T23:25:15Z",
-          "embed_url": "https://elcomercio.pe/peru/cusco/machu-picchu-suspenden-ingreso-de-turistas-al-camino-inca-por-deslizamientos-y-danos-ultimas-noticia/",
+          "title": "El gobierno de Keiko Fujimori ratifica a Julio Velarde como presidente del Banco Central de Reserva",
+          "summary": "El Gobierno de Keiko Fujimori ratificó como presidente del Banco Central de Reserva (BCR) a Julio Velarde, por el período de cinco años.",
+          "body_text": "El Gobierno de Keiko Fujimori ratificó como presidente del Banco Central de Reserva (BCR) a Julio Velarde, por el período de cinco años. El anunció se da luego de la publicación de la Resolución Suprema N° 258-2026-PCM. Vale recordar que en julio pasado, la entonces presidenta electa, Keiko Fujimori, solicitó a Velarde que continúe al frente del BCR, pedido que el economista accedió. “Quiero agradecerle por haber venido al BCR personalmente, me siento honrado por el pedido que me ha hecho. Y, si en otras circunstancias no hubiera tal vez aceptado, quisiera hacer con mucho gusto y pienso dedicarme lo más rápido a cumplir con la tarea que me está encargando”, señaló Velarde en sus declaraciones de julio. La Resolución Suprema lleva la firma de la presidenta del Perú, así como de Luis Galarreta, como presidente del Consejo de Ministros y la de Elmer Cuba, como ministro de Economía y Finanzas. La designación de Julio Velarde como presidente del BCR, cargo que ocupa desde octubre del 2006, aún debe ser ratificada por el Congreso de la República.",
+          "url": "https://elcomercio.pe/economia/peru/el-gobierno-de-keiko-fujimori-ratifica-a-julio-velarde-como-presidente-del-banco-central-de-reserva-l-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ZBEX2AJIJ5E4HG2HPOZVLRYGL4.jpg?auth=073d77d967523c6268965b5f171bddd130398a5174921f0e30127af3521a11a2&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-21T14:49:24Z",
+          "embed_url": "https://elcomercio.pe/economia/peru/el-gobierno-de-keiko-fujimori-ratifica-a-julio-velarde-como-presidente-del-banco-central-de-reserva-l-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Machu Picchu, Cusco, Camino Inca, Deslizamientos, Lluvias",
-            "Cusco",
+            "Julio Velarde, Banco Central de Reserva, BCR, Keiko Fujimori",
+            "Perú",
             "Economia",
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
+        },
+        {
+          "id": "df104407b290",
+          "source_id": "elcomercio-economia",
+          "source_name": "Economia",
+          "provider": "El Comercio",
+          "category": "Economia",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Ministro de Defensa informa que sismo en Ayacucho dejó 3 heridos y 22 viviendas y 6 colegios afectados",
+          "summary": "El ministro de Defensa, Rafael Belaunde, informó que el sismo de magnitud 7.2 registrado este jueves 19 de agosto en la región Ayacucho ha dejado de manera preliminar tres heridos y 22 viviendas y 6 colegios afectados.",
+          "body_text": "El ministro de Defensa, Rafael Belaunde, informó que el sismo de magnitud 7.2 registrado este jueves 19 de agosto en la región Ayacucho ha dejado de manera preliminar tres heridos y 22 viviendas y 6 colegios afectados. Durante la exposición de la política general de Gobierno, señaló que los heridos no presentan lesiones de gravedad y que de las casas afectadas, ocho de ellas se encuentran ubicadas en la ciudad de Puquio, provincia de Lucanas. Belaunde detalló que 12 postas médicas también resultaron dañadas, razón por la cual el director de la Dirección Desconcentrada del Instituto de Defensa Civil (Indeci) de Ayacucho se desplazó a la zona de impacto junto con el gobernador regional. Como se recuerda, un fuerte sismo de magnitud 7.2 se registró en el departamento de Ayacucho, reportó el Instituto Geofísico del Perú (IGP) en sus canales de comunicación oficiales. El evento telúrico ocurrió a la 1:00 p.m. y su epicentro se localizó a 35 kilómetros al norte de la ciudad de Coracora, en la provincia de Parinacochas. El evento telúrico fue sentido en la parte norte de Arequipa, en Ica y en Abancay, así como en Lima. De acuerdo con el IGP, el temblor tuvo una profundidad de 108 kilómetros y se registró con una intensidad máxima de III - IV en CoraCora. Horas después, a las 4:30 p.m., se reportó una réplica de magnitud 4.2 en la misma zona. Además, el Centro de Operaciones de Emergencia Nacional (COEN) informó que el terremoto ocasionó un corte de energía eléctrica en la provincia de Nazca, Ica, afectando a cerca de 6 mil usuarios. Por su parte, la plataforma de monitoreo Asismet señaló que se han identificado al menos 10 réplicas de muy pequeña magnitud a través del sismógrafo ubicado en Sara Sara, precisando que “todas resultaron imperceptibles para la población y, por ese motivo, el IGP no las reportó dentro de sus registros públicos”. En tanto, en su cuenta institucional de Facebook, la Dirección de Hidrografía y Navegación de la Marina de Guerra del Perú, informó que el sismo de magnitud 7.2 no generó una alerta de tsunami en el litoral peruano.",
+          "url": "https://elcomercio.pe/peru/ayacucho/terremoto-en-ayacucho-ministro-de-defensa-informa-que-se-reportaron-3-heridos-y-22-viviendas-y-6-colegios-afectados-por-sismo-de-magnitud-72-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ZNGGNIA7DFGGJAVIKMCGRO63VE.jpg?auth=6557a48597d09eb0b0f3de7ecdc6c79dc0b7760386c15eab5a8c9863252416c0&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-21T00:23:41Z",
+          "embed_url": "https://elcomercio.pe/peru/ayacucho/terremoto-en-ayacucho-ministro-de-defensa-informa-que-se-reportaron-3-heridos-y-22-viviendas-y-6-colegios-afectados-por-sismo-de-magnitud-72-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Terremoto en Ayacucho, Ayacucho, Parinacochas, Coracora, Rafael Belaunde, Ministerio de Defensa, Indeci, IGP, Sismo",
+            "Ayacucho",
+            "Economia",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "0687dd9840ed",
@@ -2898,7 +2950,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "bf3eb4c3fbdb",
@@ -2924,7 +2976,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "e70e89c1c259",
@@ -2950,33 +3002,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "9d0c3db0f0f7",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "¿De qué murió Hayden Panettiere? Esto se sabe sobre la muerte de la actriz estadounidense",
-          "summary": "La actriz estadounidense Hayden Panettiere, de 36 años, murió la noche de hoy, según confirmó su representante al medio ABC News.",
-          "body_text": "Tristeza en Hollywood. La actriz estadounidense Hayden Panettiere, de 36 años, murió la noche de hoy, según confirmó su representante al medio ABC News. Hasta el momento se desconoce las causas y circunstancias del deceso de la joven, quien se hizo especialmente conocida por su papel en la serie “Héroes”, en la que interpretaba a Claire, entre 2006 y 2010. “Con profunda tristeza compartimos el trágico fallecimiento de nuestra querida Hayden”, declaró su padre en un comunicado que le fue brindado por el representante de Panettiere, Kasey Kitchen. “Hay una investigación en curso. Deberíamos saber más mañana”, sostuvo Kitchen. Hayden Panettiere también protagonizó “Remember the Titans”, “Raising Helen”, “Ice Princess”, “Scream 4” y “Triunfos Robados 3″. La modelo es reconocida también como actriz de doblaje y activista ambiental. Deja en la orfandad a Kaya Klitschko, actualmente con 11 años y a quien tuvo en 2014 con su ex prometido, el campeón de peso pesado Wladimir Klitschko. Ella aseguró que mientras estaba esperando a su bebé dejó las drogas y el alcohol, pero después de dar a luz a Kaya, la joven sufrió una depresión posparto. “Nunca tuve la sensación de querer hacerle daño a mi hija, pero no quería pasar tiempo con ella. Solo había este color gris en mi vida”, reveló en una entrevista. Ella habló abiertamente sobre sus conflictos internos y, a principios de este año, publicó unas memorias tituladas “This Is Me: A Reckoning”, en las que reflexiona sobre los momentos más dramáticos de su vida como la depresión posparto, la adicción, la recuperación y el abuso doméstico, que sufrió a lo largo del tiempo.",
-          "url": "https://elcomercio.pe/tvmas/hollywood/hayden-panettiere-actriz-de-heroes-y-nashville-muere-a-los-36-anos-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JWWDHL3NDNAG7BIULG4G6NMHZQ.jpg?auth=8de4749e3600f1c6290346c7321dbcee04c8ed19b81f3bdf773933693947e375&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-17T17:33:45Z",
-          "embed_url": "https://elcomercio.pe/tvmas/hollywood/hayden-panettiere-actriz-de-heroes-y-nashville-muere-a-los-36-anos-ultimas-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Hayden Panettiere muere a los 36 años, muere Hayden Panettiere a los 36 años, Hayden Panettiere fallece en Estados Unidos, Hayden Panettiere muere 36 años",
-            "Hollywood",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "167a83dcd566",
@@ -2998,32 +3024,6 @@
           "tags": [
             "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
             "Tramites",
-            "Economia",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "90c82a4757ff",
-          "source_id": "elcomercio-economia",
-          "source_name": "Economia",
-          "provider": "El Comercio",
-          "category": "Economia",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "¡Reventó la Kábala! mira los números ganadores del sábado 11 de julio",
-          "summary": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 11 de julio, que tiene un pozo acumulado de S/3′646,620. Además, puedes seguir el sorteo de Chau Chamba.",
-          "body_text": "Mira a continuación los resultados del sorteo de Kábala del sábado 11 de julio También consulta la combinación de Chau Chamba.",
-          "url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JDQZGCPFAFG3FH6RGNACCZMHAE.png?auth=1b292019c8371d2cfba55627bb27924e4428829444cd64b1bf32491e89772217&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-12T15:19:09Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "resultados de la kábala, kabala, Cabala, kabala resultados, resultados de la kabala, tinka resultados, resultado de la kabala, resultados de la tinka, resultado de la kábala, premios de la kabala, tinka, sorteo de la kábala de hoy en vivo, kábala premios, la kabala resultados hoy, resultado de la kábala ayer perú, Intralot, la kabala hoy, kabala en vivo, kabala hoy, la kabala resultados, kábala sorteo, kábala horario, kábala, Kábala resultados, Kábala sorteo hoy, kábala sí o sí, kábala pozo hoy, kábala resultados hoy, la kábala ayer, kábala hoy, La kábala ganador, La Kábala sábado 11 de julio, La Cábala sábado 11 de julio, Kabala sabado 11, Cabala sabado 11, resultados Kábala sábado 11, resultados Cábala sábado 11, Kábala números 11 de julio, Cábala números 11 de julio, último sorteo Kábala sábado 11, último sorteo Cábala sábado 11, Kábala 11 de julio, Cábala 11 de julio, Kábala 11 julio del 2026, Cábala 11 julio del 2026",
-            "Loterias",
             "Economia",
             "El Comercio"
           ],
@@ -3100,6 +3100,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "499d1a4956ab",
+          "source_id": "elcomercio-mundo",
+          "source_name": "Mundo",
+          "provider": "El Comercio",
+          "category": "Mundo",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cusco: porteador muere rumbo a Machu Picchu y su familia denuncia que habría sido abandonado",
+          "summary": "Porteador murió mientras cargaba equipaje rumbo a Machu Picchu. Su familia denuncia falta de auxilio y la Policía investiga el caso.",
+          "body_text": "Gabriel Ríos Mamani, un porteador de 49 años, murió durante la madrugada del martes 18 de agosto mientras realizaba labores de carga para un grupo de aproximadamente 20 turistas extranjeros que se dirigía hacia Machu Picchu, en Cusco. El trabajador fue encontrado sin vida en el sector de Warmiwañusca, ubicado en el distrito de Huayllabamba y a más de 4.000 metros sobre el nivel del mar. Su familia cuestiona las circunstancias en las que ocurrió el fallecimiento y denuncia que el trabajador no habría recibido auxilio oportuno. De acuerdo con la información proporcionada sobre el caso, el grupo había instalado su campamento en la zona. Durante la madrugada, los compañeros de Ríos se percataron de que el porteador ya no presentaba signos vitales. Ríos se encontraba realizando labores de carga de equipaje para los turistas que recorrían la ruta hacia Machu Picchu, una actividad que implica desplazarse por zonas de gran altitud y condiciones geográficas complejas. Tras conocer lo ocurrido, sus familiares acudieron al lugar para conocer detalles sobre su muerte y gestionar la recuperación del cuerpo. La familia de Gabriel Ríos cuestionó la actuación de quienes estaban a cargo del servicio y denunció un presunto abandono. William Ríos Mamahuilca, hijo del trabajador, sostuvo que su padre salió de casa en buenas condiciones y señaló que, según la versión que recibió, se habría priorizado el traslado del equipaje antes que la atención de los problemas de salud que habría presentado su progenitor. Otro aspecto cuestionado por los familiares es que fueron informados del fallecimiento recién al día siguiente. Además, señalaron que cuando llegaron al lugar no encontraron a ningún representante de la agencia encargada del servicio. Uno de los compañeros de Ríos también pidió que el caso sea investigado y rechazó versiones que señalaban que el trabajador habría estado bajo los efectos del alcohol. Asimismo, aseguró que al porteador le habrían retirado algunas prendas de abrigo que habían sido proporcionadas para realizar la ruta. Según esta versión, Ríos habría quedado expuesto a las bajas temperaturas registradas en la zona. Estas afirmaciones deberán ser corroboradas durante las investigaciones correspondientes. El jefe de la Región Policial Cusco, general PNP Virgilio Velásquez Hurtado, informó que la causa de la muerte todavía no ha sido determinada y pidió evitar atribuir el fallecimiento directamente a las condiciones climáticas. La presunta falta de auxilio también forma parte de las diligencias que deberán establecer qué ocurrió durante las horas previas al fallecimiento. La Policía coordinó con el Ministerio Público y las autoridades correspondientes para realizar las investigaciones y determinar las circunstancias exactas del deceso. Por otro lado, las condiciones del terreno dificultaron la recuperación y traslado del cuerpo de Gabriel Ríos. Debido a la ubicación del sector de Warmiwañusca, el descenso hacia una zona accesible demandaba varias horas de caminata. Ahora las autoridades deberán establecer qué ocurrió antes de la muerte del porteador y determinar si existió alguna demora en el auxilio o cualquier otra circunstancia que pudiera haber contribuido al desenlace. La investigación permitirá esclarecer también las responsabilidades que pudieran corresponder en caso de confirmarse las denuncias formuladas por la familia.",
+          "url": "https://elcomercio.pe/peru/cusco/cusco-porteador-muere-rumbo-a-machu-picchu-y-su-familia-denuncia-que-habria-sido-abandonado-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ACY3A4VJFREMDNFMSLSGRYKZ3Q.jpg?auth=121f633d9ca7487179af02846c6dc12dbfb4316535d865fc8a9ed6602601a295&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-22T22:20:25Z",
+          "embed_url": "https://elcomercio.pe/peru/cusco/cusco-porteador-muere-rumbo-a-machu-picchu-y-su-familia-denuncia-que-habria-sido-abandonado-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "porteador muere en Cusco, Machu Picchu, muerte de porteador, Gabriel Ríos Mamani, porteadores de Machu Picchu, Warmiwañusca, Huayllabamba, Cusco, turismo en Machu Picchu, Policía Nacional del Perú",
+            "Cusco",
+            "Mundo",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "46d10f61f90f",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
@@ -3123,7 +3149,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "d26c50a5445d",
@@ -3149,33 +3175,33 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
-          "id": "afa0c33a9430",
+          "id": "df104407b290",
           "source_id": "elcomercio-mundo",
           "source_name": "Mundo",
           "provider": "El Comercio",
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Machu Picchu: suspenden ingreso de turistas al Camino Inca por deslizamientos y daños",
-          "summary": "La Dirección de Cultura de Cusco suspendió desde este miércoles 19 de agosto el ingreso de turistas al Camino Inca de Machu Picchu debido a deslizamientos y otros daños provocados por las intensas lluvias.",
-          "body_text": "La Dirección de Cultura de Cusco dispuso la suspensión temporal del ingreso de turistas al Camino Inca de Machu Picchu debido a los deslizamientos y daños registrados en diversos sectores de la ruta por las intensas lluvias. La medida regirá desde este miércoles 19 de agosto y se mantendrá hasta nuevo aviso. La directora de Cultura, Maritza Rosa Candia, informó que desde la noche del lunes 17 de agosto se registran precipitaciones intensas en diferentes sectores de la Red de Caminos Inca hacia la ciudadela de Machu Picchu. Entre las incidencias reportadas figuran deslizamientos de tierra, crecida de riachuelos, inundación de zonas de campamento, colapso de servicios higiénicos, afectación de pontones y erosión de suelos. Estos hechos fueron identificados en sectores como Llulluchapampa, Ayapata, Paqaymayu Alto, Soqtacocha, Yuncachimpa, Qonchamarka, Wayllabamba, Pawkarcancha, Cusichaka, Phuyupatamarka y Wiñaywayna. Francisco Huarcaya, responsable de Conservación de la Red de Caminos Inca, señaló que el personal de vigilancia y conservación mantiene un monitoreo permanente de estos sectores para identificar situaciones de riesgo y adoptar las medidas correspondientes. Como parte de las medidas adoptadas, también se dispuso el retorno de los visitantes que ingresaron este martes al Camino Inca. La decisión considera las condiciones meteorológicas adversas previstas por el Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi), asociadas a la presencia de una Depresión Aislada en Niveles Altos (DANA). Para los turistas que se encuentran retornando se evalúan rutas alternas por el kilómetro 104, en Chachabamba, y el kilómetro 106, en Choquesuysuy. La habilitación de estos recorridos dependerá de la evaluación de las condiciones meteorológicas y de seguridad hasta el 22 de agosto. En caso de que persistan las condiciones adversas, la Dirección de Cultura indicó que se realizarán los trámites correspondientes para la reprogramación de las visitas y/o devolución de los costos de ingreso, según corresponda. La entidad también dispuso mantener en alerta permanente al personal del Parque Arqueológico Nacional de Machu Picchu para reforzar las labores de vigilancia, monitoreo y respuesta ante cualquier eventualidad. Finalmente, la Dirección de Cultura exhortó a los operadores turísticos y usuarios de la Red de Caminos Inca a respetar las disposiciones de seguridad y mantenerse atentos a las comunicaciones oficiales que se difundan a través de sus canales institucionales.",
-          "url": "https://elcomercio.pe/peru/cusco/machu-picchu-suspenden-ingreso-de-turistas-al-camino-inca-por-deslizamientos-y-danos-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/EJNOACYZIJFD3A4MHLQUAS3B6Y.jpg?auth=330697a55c202e251b7717009a14cbc164e2e6598de7ae11d619b831c48372b0&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-18T23:25:15Z",
-          "embed_url": "https://elcomercio.pe/peru/cusco/machu-picchu-suspenden-ingreso-de-turistas-al-camino-inca-por-deslizamientos-y-danos-ultimas-noticia/",
+          "title": "Ministro de Defensa informa que sismo en Ayacucho dejó 3 heridos y 22 viviendas y 6 colegios afectados",
+          "summary": "El ministro de Defensa, Rafael Belaunde, informó que el sismo de magnitud 7.2 registrado este jueves 19 de agosto en la región Ayacucho ha dejado de manera preliminar tres heridos y 22 viviendas y 6 colegios afectados.",
+          "body_text": "El ministro de Defensa, Rafael Belaunde, informó que el sismo de magnitud 7.2 registrado este jueves 19 de agosto en la región Ayacucho ha dejado de manera preliminar tres heridos y 22 viviendas y 6 colegios afectados. Durante la exposición de la política general de Gobierno, señaló que los heridos no presentan lesiones de gravedad y que de las casas afectadas, ocho de ellas se encuentran ubicadas en la ciudad de Puquio, provincia de Lucanas. Belaunde detalló que 12 postas médicas también resultaron dañadas, razón por la cual el director de la Dirección Desconcentrada del Instituto de Defensa Civil (Indeci) de Ayacucho se desplazó a la zona de impacto junto con el gobernador regional. Como se recuerda, un fuerte sismo de magnitud 7.2 se registró en el departamento de Ayacucho, reportó el Instituto Geofísico del Perú (IGP) en sus canales de comunicación oficiales. El evento telúrico ocurrió a la 1:00 p.m. y su epicentro se localizó a 35 kilómetros al norte de la ciudad de Coracora, en la provincia de Parinacochas. El evento telúrico fue sentido en la parte norte de Arequipa, en Ica y en Abancay, así como en Lima. De acuerdo con el IGP, el temblor tuvo una profundidad de 108 kilómetros y se registró con una intensidad máxima de III - IV en CoraCora. Horas después, a las 4:30 p.m., se reportó una réplica de magnitud 4.2 en la misma zona. Además, el Centro de Operaciones de Emergencia Nacional (COEN) informó que el terremoto ocasionó un corte de energía eléctrica en la provincia de Nazca, Ica, afectando a cerca de 6 mil usuarios. Por su parte, la plataforma de monitoreo Asismet señaló que se han identificado al menos 10 réplicas de muy pequeña magnitud a través del sismógrafo ubicado en Sara Sara, precisando que “todas resultaron imperceptibles para la población y, por ese motivo, el IGP no las reportó dentro de sus registros públicos”. En tanto, en su cuenta institucional de Facebook, la Dirección de Hidrografía y Navegación de la Marina de Guerra del Perú, informó que el sismo de magnitud 7.2 no generó una alerta de tsunami en el litoral peruano.",
+          "url": "https://elcomercio.pe/peru/ayacucho/terremoto-en-ayacucho-ministro-de-defensa-informa-que-se-reportaron-3-heridos-y-22-viviendas-y-6-colegios-afectados-por-sismo-de-magnitud-72-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ZNGGNIA7DFGGJAVIKMCGRO63VE.jpg?auth=6557a48597d09eb0b0f3de7ecdc6c79dc0b7760386c15eab5a8c9863252416c0&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-21T00:23:41Z",
+          "embed_url": "https://elcomercio.pe/peru/ayacucho/terremoto-en-ayacucho-ministro-de-defensa-informa-que-se-reportaron-3-heridos-y-22-viviendas-y-6-colegios-afectados-por-sismo-de-magnitud-72-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Machu Picchu, Cusco, Camino Inca, Deslizamientos, Lluvias",
-            "Cusco",
+            "Terremoto en Ayacucho, Ayacucho, Parinacochas, Coracora, Rafael Belaunde, Ministerio de Defensa, Indeci, IGP, Sismo",
+            "Ayacucho",
             "Mundo",
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "0687dd9840ed",
@@ -3201,7 +3227,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "bf3eb4c3fbdb",
@@ -3227,7 +3253,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "e70e89c1c259",
@@ -3253,7 +3279,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "167a83dcd566",
@@ -3275,32 +3301,6 @@
           "tags": [
             "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
             "Tramites",
-            "Mundo",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "90c82a4757ff",
-          "source_id": "elcomercio-mundo",
-          "source_name": "Mundo",
-          "provider": "El Comercio",
-          "category": "Mundo",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "¡Reventó la Kábala! mira los números ganadores del sábado 11 de julio",
-          "summary": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 11 de julio, que tiene un pozo acumulado de S/3′646,620. Además, puedes seguir el sorteo de Chau Chamba.",
-          "body_text": "Mira a continuación los resultados del sorteo de Kábala del sábado 11 de julio También consulta la combinación de Chau Chamba.",
-          "url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JDQZGCPFAFG3FH6RGNACCZMHAE.png?auth=1b292019c8371d2cfba55627bb27924e4428829444cd64b1bf32491e89772217&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-12T15:19:09Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "resultados de la kábala, kabala, Cabala, kabala resultados, resultados de la kabala, tinka resultados, resultado de la kabala, resultados de la tinka, resultado de la kábala, premios de la kabala, tinka, sorteo de la kábala de hoy en vivo, kábala premios, la kabala resultados hoy, resultado de la kábala ayer perú, Intralot, la kabala hoy, kabala en vivo, kabala hoy, la kabala resultados, kábala sorteo, kábala horario, kábala, Kábala resultados, Kábala sorteo hoy, kábala sí o sí, kábala pozo hoy, kábala resultados hoy, la kábala ayer, kábala hoy, La kábala ganador, La Kábala sábado 11 de julio, La Cábala sábado 11 de julio, Kabala sabado 11, Cabala sabado 11, resultados Kábala sábado 11, resultados Cábala sábado 11, Kábala números 11 de julio, Cábala números 11 de julio, último sorteo Kábala sábado 11, último sorteo Cábala sábado 11, Kábala 11 de julio, Cábala 11 de julio, Kábala 11 julio del 2026, Cábala 11 julio del 2026",
-            "Loterias",
             "Mundo",
             "El Comercio"
           ],
@@ -3377,6 +3377,32 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "499d1a4956ab",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Cusco: porteador muere rumbo a Machu Picchu y su familia denuncia que habría sido abandonado",
+          "summary": "Porteador murió mientras cargaba equipaje rumbo a Machu Picchu. Su familia denuncia falta de auxilio y la Policía investiga el caso.",
+          "body_text": "Gabriel Ríos Mamani, un porteador de 49 años, murió durante la madrugada del martes 18 de agosto mientras realizaba labores de carga para un grupo de aproximadamente 20 turistas extranjeros que se dirigía hacia Machu Picchu, en Cusco. El trabajador fue encontrado sin vida en el sector de Warmiwañusca, ubicado en el distrito de Huayllabamba y a más de 4.000 metros sobre el nivel del mar. Su familia cuestiona las circunstancias en las que ocurrió el fallecimiento y denuncia que el trabajador no habría recibido auxilio oportuno. De acuerdo con la información proporcionada sobre el caso, el grupo había instalado su campamento en la zona. Durante la madrugada, los compañeros de Ríos se percataron de que el porteador ya no presentaba signos vitales. Ríos se encontraba realizando labores de carga de equipaje para los turistas que recorrían la ruta hacia Machu Picchu, una actividad que implica desplazarse por zonas de gran altitud y condiciones geográficas complejas. Tras conocer lo ocurrido, sus familiares acudieron al lugar para conocer detalles sobre su muerte y gestionar la recuperación del cuerpo. La familia de Gabriel Ríos cuestionó la actuación de quienes estaban a cargo del servicio y denunció un presunto abandono. William Ríos Mamahuilca, hijo del trabajador, sostuvo que su padre salió de casa en buenas condiciones y señaló que, según la versión que recibió, se habría priorizado el traslado del equipaje antes que la atención de los problemas de salud que habría presentado su progenitor. Otro aspecto cuestionado por los familiares es que fueron informados del fallecimiento recién al día siguiente. Además, señalaron que cuando llegaron al lugar no encontraron a ningún representante de la agencia encargada del servicio. Uno de los compañeros de Ríos también pidió que el caso sea investigado y rechazó versiones que señalaban que el trabajador habría estado bajo los efectos del alcohol. Asimismo, aseguró que al porteador le habrían retirado algunas prendas de abrigo que habían sido proporcionadas para realizar la ruta. Según esta versión, Ríos habría quedado expuesto a las bajas temperaturas registradas en la zona. Estas afirmaciones deberán ser corroboradas durante las investigaciones correspondientes. El jefe de la Región Policial Cusco, general PNP Virgilio Velásquez Hurtado, informó que la causa de la muerte todavía no ha sido determinada y pidió evitar atribuir el fallecimiento directamente a las condiciones climáticas. La presunta falta de auxilio también forma parte de las diligencias que deberán establecer qué ocurrió durante las horas previas al fallecimiento. La Policía coordinó con el Ministerio Público y las autoridades correspondientes para realizar las investigaciones y determinar las circunstancias exactas del deceso. Por otro lado, las condiciones del terreno dificultaron la recuperación y traslado del cuerpo de Gabriel Ríos. Debido a la ubicación del sector de Warmiwañusca, el descenso hacia una zona accesible demandaba varias horas de caminata. Ahora las autoridades deberán establecer qué ocurrió antes de la muerte del porteador y determinar si existió alguna demora en el auxilio o cualquier otra circunstancia que pudiera haber contribuido al desenlace. La investigación permitirá esclarecer también las responsabilidades que pudieran corresponder en caso de confirmarse las denuncias formuladas por la familia.",
+          "url": "https://elcomercio.pe/peru/cusco/cusco-porteador-muere-rumbo-a-machu-picchu-y-su-familia-denuncia-que-habria-sido-abandonado-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ACY3A4VJFREMDNFMSLSGRYKZ3Q.jpg?auth=121f633d9ca7487179af02846c6dc12dbfb4316535d865fc8a9ed6602601a295&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-22T22:20:25Z",
+          "embed_url": "https://elcomercio.pe/peru/cusco/cusco-porteador-muere-rumbo-a-machu-picchu-y-su-familia-denuncia-que-habria-sido-abandonado-ultimas-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "porteador muere en Cusco, Machu Picchu, muerte de porteador, Gabriel Ríos Mamani, porteadores de Machu Picchu, Warmiwañusca, Huayllabamba, Cusco, turismo en Machu Picchu, Policía Nacional del Perú",
+            "Cusco",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "46d10f61f90f",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3400,7 +3426,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "d26c50a5445d",
@@ -3425,33 +3451,33 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
-          "id": "afa0c33a9430",
+          "id": "df104407b290",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
           "provider": "El Comercio",
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Machu Picchu: suspenden ingreso de turistas al Camino Inca por deslizamientos y daños",
-          "summary": "La Dirección de Cultura de Cusco suspendió desde este miércoles 19 de agosto el ingreso de turistas al Camino Inca de Machu Picchu debido a deslizamientos y otros daños provocados por las intensas lluvias.",
-          "body_text": "La Dirección de Cultura de Cusco dispuso la suspensión temporal del ingreso de turistas al Camino Inca de Machu Picchu debido a los deslizamientos y daños registrados en diversos sectores de la ruta por las intensas lluvias. La medida regirá desde este miércoles 19 de agosto y se mantendrá hasta nuevo aviso. La directora de Cultura, Maritza Rosa Candia, informó que desde la noche del lunes 17 de agosto se registran precipitaciones intensas en diferentes sectores de la Red de Caminos Inca hacia la ciudadela de Machu Picchu. Entre las incidencias reportadas figuran deslizamientos de tierra, crecida de riachuelos, inundación de zonas de campamento, colapso de servicios higiénicos, afectación de pontones y erosión de suelos. Estos hechos fueron identificados en sectores como Llulluchapampa, Ayapata, Paqaymayu Alto, Soqtacocha, Yuncachimpa, Qonchamarka, Wayllabamba, Pawkarcancha, Cusichaka, Phuyupatamarka y Wiñaywayna. Francisco Huarcaya, responsable de Conservación de la Red de Caminos Inca, señaló que el personal de vigilancia y conservación mantiene un monitoreo permanente de estos sectores para identificar situaciones de riesgo y adoptar las medidas correspondientes. Como parte de las medidas adoptadas, también se dispuso el retorno de los visitantes que ingresaron este martes al Camino Inca. La decisión considera las condiciones meteorológicas adversas previstas por el Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi), asociadas a la presencia de una Depresión Aislada en Niveles Altos (DANA). Para los turistas que se encuentran retornando se evalúan rutas alternas por el kilómetro 104, en Chachabamba, y el kilómetro 106, en Choquesuysuy. La habilitación de estos recorridos dependerá de la evaluación de las condiciones meteorológicas y de seguridad hasta el 22 de agosto. En caso de que persistan las condiciones adversas, la Dirección de Cultura indicó que se realizarán los trámites correspondientes para la reprogramación de las visitas y/o devolución de los costos de ingreso, según corresponda. La entidad también dispuso mantener en alerta permanente al personal del Parque Arqueológico Nacional de Machu Picchu para reforzar las labores de vigilancia, monitoreo y respuesta ante cualquier eventualidad. Finalmente, la Dirección de Cultura exhortó a los operadores turísticos y usuarios de la Red de Caminos Inca a respetar las disposiciones de seguridad y mantenerse atentos a las comunicaciones oficiales que se difundan a través de sus canales institucionales.",
-          "url": "https://elcomercio.pe/peru/cusco/machu-picchu-suspenden-ingreso-de-turistas-al-camino-inca-por-deslizamientos-y-danos-ultimas-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/EJNOACYZIJFD3A4MHLQUAS3B6Y.jpg?auth=330697a55c202e251b7717009a14cbc164e2e6598de7ae11d619b831c48372b0&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-18T23:25:15Z",
-          "embed_url": "https://elcomercio.pe/peru/cusco/machu-picchu-suspenden-ingreso-de-turistas-al-camino-inca-por-deslizamientos-y-danos-ultimas-noticia/",
+          "title": "Ministro de Defensa informa que sismo en Ayacucho dejó 3 heridos y 22 viviendas y 6 colegios afectados",
+          "summary": "El ministro de Defensa, Rafael Belaunde, informó que el sismo de magnitud 7.2 registrado este jueves 19 de agosto en la región Ayacucho ha dejado de manera preliminar tres heridos y 22 viviendas y 6 colegios afectados.",
+          "body_text": "El ministro de Defensa, Rafael Belaunde, informó que el sismo de magnitud 7.2 registrado este jueves 19 de agosto en la región Ayacucho ha dejado de manera preliminar tres heridos y 22 viviendas y 6 colegios afectados. Durante la exposición de la política general de Gobierno, señaló que los heridos no presentan lesiones de gravedad y que de las casas afectadas, ocho de ellas se encuentran ubicadas en la ciudad de Puquio, provincia de Lucanas. Belaunde detalló que 12 postas médicas también resultaron dañadas, razón por la cual el director de la Dirección Desconcentrada del Instituto de Defensa Civil (Indeci) de Ayacucho se desplazó a la zona de impacto junto con el gobernador regional. Como se recuerda, un fuerte sismo de magnitud 7.2 se registró en el departamento de Ayacucho, reportó el Instituto Geofísico del Perú (IGP) en sus canales de comunicación oficiales. El evento telúrico ocurrió a la 1:00 p.m. y su epicentro se localizó a 35 kilómetros al norte de la ciudad de Coracora, en la provincia de Parinacochas. El evento telúrico fue sentido en la parte norte de Arequipa, en Ica y en Abancay, así como en Lima. De acuerdo con el IGP, el temblor tuvo una profundidad de 108 kilómetros y se registró con una intensidad máxima de III - IV en CoraCora. Horas después, a las 4:30 p.m., se reportó una réplica de magnitud 4.2 en la misma zona. Además, el Centro de Operaciones de Emergencia Nacional (COEN) informó que el terremoto ocasionó un corte de energía eléctrica en la provincia de Nazca, Ica, afectando a cerca de 6 mil usuarios. Por su parte, la plataforma de monitoreo Asismet señaló que se han identificado al menos 10 réplicas de muy pequeña magnitud a través del sismógrafo ubicado en Sara Sara, precisando que “todas resultaron imperceptibles para la población y, por ese motivo, el IGP no las reportó dentro de sus registros públicos”. En tanto, en su cuenta institucional de Facebook, la Dirección de Hidrografía y Navegación de la Marina de Guerra del Perú, informó que el sismo de magnitud 7.2 no generó una alerta de tsunami en el litoral peruano.",
+          "url": "https://elcomercio.pe/peru/ayacucho/terremoto-en-ayacucho-ministro-de-defensa-informa-que-se-reportaron-3-heridos-y-22-viviendas-y-6-colegios-afectados-por-sismo-de-magnitud-72-ultimas-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/ZNGGNIA7DFGGJAVIKMCGRO63VE.jpg?auth=6557a48597d09eb0b0f3de7ecdc6c79dc0b7760386c15eab5a8c9863252416c0&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-08-21T00:23:41Z",
+          "embed_url": "https://elcomercio.pe/peru/ayacucho/terremoto-en-ayacucho-ministro-de-defensa-informa-que-se-reportaron-3-heridos-y-22-viviendas-y-6-colegios-afectados-por-sismo-de-magnitud-72-ultimas-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
-            "Machu Picchu, Cusco, Camino Inca, Deslizamientos, Lluvias",
-            "Cusco",
+            "Terremoto en Ayacucho, Ayacucho, Parinacochas, Coracora, Rafael Belaunde, Ministerio de Defensa, Indeci, IGP, Sismo",
+            "Ayacucho",
             "Peru",
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "0687dd9840ed",
@@ -3477,7 +3503,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "bf3eb4c3fbdb",
@@ -3503,7 +3529,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "e70e89c1c259",
@@ -3529,7 +3555,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "167a83dcd566",
@@ -3551,32 +3577,6 @@
           "tags": [
             "ONPE, Elecciones Regionales y Municipales 2026, Miembros de mesa",
             "Tramites",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "90c82a4757ff",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "¡Reventó la Kábala! mira los números ganadores del sábado 11 de julio",
-          "summary": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 11 de julio, que tiene un pozo acumulado de S/3′646,620. Además, puedes seguir el sorteo de Chau Chamba.",
-          "body_text": "Mira a continuación los resultados del sorteo de Kábala del sábado 11 de julio También consulta la combinación de Chau Chamba.",
-          "url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/JDQZGCPFAFG3FH6RGNACCZMHAE.png?auth=1b292019c8371d2cfba55627bb27924e4428829444cd64b1bf32491e89772217&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-07-12T15:19:09Z",
-          "embed_url": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-11-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "resultados de la kábala, kabala, Cabala, kabala resultados, resultados de la kabala, tinka resultados, resultado de la kabala, resultados de la tinka, resultado de la kábala, premios de la kabala, tinka, sorteo de la kábala de hoy en vivo, kábala premios, la kabala resultados hoy, resultado de la kábala ayer perú, Intralot, la kabala hoy, kabala en vivo, kabala hoy, la kabala resultados, kábala sorteo, kábala horario, kábala, Kábala resultados, Kábala sorteo hoy, kábala sí o sí, kábala pozo hoy, kábala resultados hoy, la kábala ayer, kábala hoy, La kábala ganador, La Kábala sábado 11 de julio, La Cábala sábado 11 de julio, Kabala sabado 11, Cabala sabado 11, resultados Kábala sábado 11, resultados Cábala sábado 11, Kábala números 11 de julio, Cábala números 11 de julio, último sorteo Kábala sábado 11, último sorteo Cábala sábado 11, Kábala 11 de julio, Cábala 11 de julio, Kábala 11 julio del 2026, Cábala 11 julio del 2026",
-            "Loterias",
             "Peru",
             "El Comercio"
           ],
@@ -3687,6 +3687,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "6024a826f303",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors | TechCrunch",
+          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+          "body_text": "As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback. These avatars were created by a startup called HeyGen and are included in the eight-week, $699 HBS Foundry bootcamp for entrepreneurs. The program offers live sessions with instructors every week, but the AI avatars are the ones providing feedback during practice pitches and board meetings. New York Times reporter Sarah Kessler actually tried this out herself by pitching an AI-generated copy of Flybridge Capital co-founder Jeff Bussgang. Apparently, both the real Bussgang and his simulacra were unimpressed by her plan to build “Uber for bananas,” but Kessler said the virtual version offered a noticeably frozen smile during her pitch. Project director Katharina Rings said she initially envisioned the AI component as something closer to a chatbot. However, after HBS released a trial version, students said they wanted a more guided experience. And while some college students haven’t been shy about expressing their negative feelings towards AI , Foundry participants told Kessler they like the avatars. As for Bussgang, he acknowledged his digital copy is a little “creepy,” but he said, “My students love it.” In less than 48 hours, your chance to save up to $300 on your tickets will end! Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+          "published_at": "2026-08-22T21:46:56Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "ed9008264d5f",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3708,7 +3732,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "00b5c41772e1",
@@ -3732,7 +3756,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "3b109116bc1a",
@@ -3756,7 +3780,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "eafdf929c48c",
@@ -3780,7 +3804,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "d70afe5e9b8b",
@@ -3804,7 +3828,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "5a859cda5199",
@@ -3828,7 +3852,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "6df4ce907837",
@@ -3845,30 +3869,6 @@
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
           "published_at": "2026-08-21T19:43:39Z",
           "embed_url": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "079572289213",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Exclusive: US government lab is probing Chinese-made lidar for security vulnerabilities | TechCrunch",
-          "summary": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
-          "body_text": "A Department of Energy lab is investigating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the United States, TechCrunch has learned. The review is being performed by the Idaho National Laboratory, according to two people familiar with the effort, who were granted anonymity to discuss it. The lab has said the research is being funded by a company — or a group of companies — in the electric and autonomous vehicle industries, the sources told TechCrunch. It’s not immediately clear which companies are supporting the review. Representatives for Rivian, General Motors, Ford, Kodiak, Lucid Motors, Nuro, and Uber — companies that are reported to be considering Chinese lidar — told TechCrunch they weren’t aware of the review. Nvidia, Zoox, and Aurora didn’t respond to questions about whether they are involved. Idaho National Laboratory declined to comment on the review. A spokesperson told TechCrunch in June, and again in July, that “this isn’t a project that we’re at liberty to discuss with reporters.” China’s leading lidar suppliers, Hesai and RoboSense, did not respond to multiple requests for comment. Lidar, which stands for light detection and ranging, is a sensor technology that uses laser pulses to measure the distance to nearby objects. It has long been a popular tool for companies working on autonomous vehicles because it offers a high-resolution picture of a self-driving car’s immediate surroundings. The review is underway as pressure mounts to ban the use of Chinese lidar sensors on American roads, with lawmakers crafting multiple bills. Senator Tammy Baldwin (D-WI), who is spearheading the Securing Infrastructure from Adversaries Act with Senator Ted Budd (R-NC), told TechCrunch in a statement that she’s primarily concerned about Chinese lidar being used for military or industrial espionage. “As infrastructure becomes more sophisticated, the threat Chinese LiDAR technology poses to American communities and our national security cannot be allowed to go unchecked,” she said. “We need to be doing more to protect Americans and that starts with ensuring taxpayer dollars aren’t being used to purchase technologies that could be used to spy on us.” Congressman John Moolenaar (R-MI), who is co-sponsoring a different bill aimed at banning the use of Chinese lidar, told CNBC last month that he’s concerned “back doors” could “transmit information back to these Chinese Communist interests.” There are different layers of risk when it comes to using Chinese lidar, according to Omer Keilaf, CEO and co-founder of Israeli lidar company Innoviz. The first is basic supply chain risk. Keilaf — who said he wasn’t aware of the Idaho National Laboratory review until TechCrunch asked him about it — said that China’s government has deemed lidar to be a strategically important technology. “So, if, for example, an OEM now builds its entire autonomous driving stack based on a Chinese supply chain, that’s a huge risk down the road,” he said in a recent interview.",
-          "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/hesai-baidu-getty.jpg?resize=1200,799",
-          "published_at": "2026-08-21T16:01:54Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2023/01/hesai-baidu-getty.jpg",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -4166,6 +4166,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "5ae7ba3f65a6",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Svarar Trump – efter tullhoten: ”Vi är i krig”",
+          "summary": "I natt lämnade Kanada tullförhandlingarna med USA. Enligt premiärminister Mark Carney är länderna nu ”i krig”. – Man är i krig när man blir attackerad, och vi blev attackerade, säger Carney till reportrar i Ottawa.",
+          "body_text": "I natt lämnade Kanada tullförhandlingarna med USA. Enligt premiärminister Mark Carney är länderna nu ”i krig”. – Man är i krig när man blir attackerad, och vi blev attackerade, säger Carney till reportrar i Ottawa. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Mark Carneys tal till nationen på lördagen skickade en tydlig signal till grannen i söder. Under natten mot lördag kom beskedet att Kanada drar sig ur handelssamtalen med USA, där Trump hotat med 50 procentiga tullar på flera kanadensiska varor. Enligt Carney har Trump ”felbedömt” situationen. – De frågade efter för mycket och erbjöd för lite, säger han enligt BBC . Enligt Carney hade Kanada gjort flera eftergifter för att undvika USA:s tullar, som exempelvis att tillåta amerikansk sprit i landet och att slopa vedergällningstullar mot den amerikanska stålindustrin. Men i slutet av fredagen hade USA försökt begränsa Kanadas möjlighet att sluta handelsavtal med andra länder – något som blev droppen för Carney och hans förhandlare. – De nya amerikanska tullarna är utformade för att skada oss och splittra oss, de är en felbedömning, sade han. Carney meddelar samtidigt att Kanada kommer matcha USA:s tullar ”dollar för dollar”, och har redan planerat vedergällningstullar mot den amerikanska stål- och aluminiumindustrin.",
+          "url": "https://www.expressen.se/nyheter/varlden/svarar-trump-efter-tullhoten-vi-ar-i-krig/",
+          "image_url": "https://static.bonniernews.se/images/31/bc/31bc0c972cc640d1ac9e655d974221cd/16x9/original.jpg",
+          "published_at": "2026-08-22T22:28:18Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/svarar-trump-efter-tullhoten-vi-ar-i-krig/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "3babe533faa6",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4187,7 +4211,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "2d0e62e5e041",
@@ -4211,7 +4235,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "b290a9e2fccd",
@@ -4235,7 +4259,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "05b458d8f7ed",
@@ -4259,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "062f2fea52bb",
@@ -4283,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "c82678f421e6",
@@ -4307,7 +4331,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "bb88975dbd03",
@@ -4331,7 +4355,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "28a8c9433844",
@@ -4355,7 +4379,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "f55e2e4b2f93",
@@ -4372,30 +4396,6 @@
           "image_url": "https://static.bonniernews.se/images/92/0a/920a372268f74d1991151a4ffdb17a93/16x9/original.png",
           "published_at": "2026-08-22T14:47:34Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/misstankta-18-aringen-i-fagerstas-uppvaxt-vald-och-lite-mat/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "34793849698a",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Flera riksdagspartiledare har samlats i Fagersta för att visa sitt stöd efter fredagens skolattack.",
-          "summary": "Flera riksdagspartiledare har samlats i Fagersta för att visa sitt stöd efter fredagens skolattack.",
-          "body_text": "Flera partiledare har samlats i Fagersta för att visa sitt stöd efter fredagens skolattack. På minnesplatsen tänder Kristersson och Andersson ljus. – Våra tankar går till alla familjer som är otroligt hårt drabbade av detta, säger statsminister Ulf Kristersson. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Statsminister Ulf Kristersson (M) och S-ledaren Magdalena Andersson tänder ljus tillsammans i Fagersta under ett besök vid minnesplatsen. – Det som inte får hända har hänt igen. Våra tankar går till alla familjer som är otroligt hårt drabbade av detta, säger Kristersson. Han passar även på att hylla polisen och lokalsamhällets insatser och säger att det känns fint att vara i Fagersta en sådan här dag. Han bad själv Magdalena Andersson att följa med honom på resan. – Jag tyckte det var viktigt att vi gemensamt kunde visa att hela Sverige står bakom Fagersta. Valrörelser är viktiga men det finns också saker som förenar oss alla, säger han. Kristersson säger även att han har kallat alla partiledare till ett gemensamt möte för att prata om händelsen. Det ska äga rum klockan 19 på Rosenbad i Stockholm. Oppositionsledaren Magdalena Andersson betonar även hon vikten av enighet i svåra stunder. – Vi har vaknat upp som ett land i sorg och i sorgens stund är det viktigt att vi står enade. Att jag och Kristersson är här tillsammans är en symbol för det.",
-          "url": "https://www.expressen.se/nyheter/krim/kristersson-och-andersson-tander-ljus-tillsammans-i-fagersta/",
-          "image_url": "https://static.bonniernews.se/images/96/fd/96fd70ca83724c36b80dca6c79ea4e17/16x9/original.jpg",
-          "published_at": "2026-08-22T13:20:19Z",
-          "embed_url": "https://www.expressen.se/nyheter/krim/kristersson-och-andersson-tander-ljus-tillsammans-i-fagersta/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
