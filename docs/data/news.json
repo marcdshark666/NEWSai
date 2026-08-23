@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:16:23Z",
+  "generated_at": "2026-08-23T15:40:34Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Elever vågar inte gå tillbaka till skolan: ”Känns otäckt” Julia, 16: ”Kunde varit en av oss som skulle dö” Skolchefen: Extra förstärkning efter attacken Misstänkte 18-åringens uppväxt: Våld och begränsat med mat",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Liam Nebel, 18, häktad för skolattacken i Fagersta Elever vågar inte gå tillbaka till skolan: ”Känns otäckt” Julia, 16: ”Kunde varit en av oss som skulle dö” Misstänkte 18-åringens uppväxt: Våld och begränsat med mat",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -339,30 +339,6 @@
           "sort_order": 0
         },
         {
-          "id": "f3194605ccb5",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Idag 16:00",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 21 aug 09:30 2 min 59 sek Publicerades: Fre 21 aug 08:30 3 min 2 sek Publicerades: Fre 21 aug 07:30 2 min 56 sek Publicerades: Fre 21 aug 06:30 2 min 52 sek",
-          "url": "https://www.svtplay.se/video/eorrDxz/rapport/idag-16-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54773645/1787494241?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-23T16:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/eorrDxz/rapport/idag-16-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
           "id": "c6f6991934b7",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -384,7 +360,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 1
         },
         {
           "id": "56112da38f1b",
@@ -401,6 +377,30 @@
           "image_url": "https://www.svtstatic.se/image/custom/1144/54763829/1787296896?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-08-23T16:00:00Z",
           "embed_url": "https://www.svtplay.se/video/eakkxxZ/rapport/fre-21-aug-09-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "f3194605ccb5",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 21 aug 09:30 2 min 59 sek Publicerades: Fre 21 aug 08:30 3 min 2 sek Publicerades: Fre 21 aug 07:30 2 min 56 sek Publicerades: Fre 21 aug 06:30 2 min 52 sek",
+          "url": "https://www.svtplay.se/video/eorrDxz/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54773645/1787494241?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-23T14:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/eorrDxz/rapport/idag-16-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -3687,6 +3687,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "badce9233977",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Is it legal to train AI models on copyrighted books? It’s complicated | TechCrunch",
+          "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+          "body_text": "You probably know by now that the AI models powering ChatGPT, Gemini, Claude, and other chatbots are trained on seemingly infinite databases of published works, containing hundreds of millions of books, online articles, academic papers, and basically anything you can find on the internet. Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? “I think one of the issues with this entire area of law and this entire area of technology is there’s a lot going on,” Cathy Gellis, an attorney with expertise in intellectual property, copyright, and technology, told TechCrunch. “It’s very complex and there are a lot of raw feelings about what is happening, both for and against.” Last year, in one of the first rulings of its kind, Judge William Alsup ordered Anthropic to pay a mammoth $1.5 billion copyright settlement to a group of writers whose works were used to train the company’s AI models. At face value, this seemed like a moral victory favoring authors, but Judge Alsup actually ruled that Anthropic’s AI training was lawful. What Alsup penalized Anthropic for was pirating these books from illegal online shadow libraries. “Like any reader aspiring to be a writer, Anthropic’s LLMs trained upon works not to race ahead and replicate or supplant them — but to turn a hard corner and create something different,” the judge wrote, comparing the way an LLM ingests trillions of words to a writer’s study of literature. Gellis thinks the ruling is more advantageous for AI companies. What’s a $1.5 billion fine to a company projecting about $200 billion in annual revenue by 2028? “I think it is generally good news for AI training that he looked at what was going on and really sort of thought it analogous to reading a copyrighted work as opposed to copying a copyrighted work,” Gellis said. “Copyright law hinges on copying, but it doesn’t hinge on using the work or experiencing the work, consuming the work, reading the work.” Copyright law hasn’t been updated since 1976, which means that judges have to figure out how to interpret guidelines from 50 years ago when confronting legal questions that have the potential to shape the future of the AI industry. “Everybody is very worried right now because the law is all over the place, and it’s because of this question,” Jason Henderson, Senior Attorney and Founder of the IP & Media Practice at JWL International, told TechCrunch. “They know that the AI model has been trained on so much stuff, and the law has not really caught up to that question.” These questions often hinge on fair use law — namely, whether use of a copyrighted work is “transformative” enough to be considered legally permissible. Fair use is a carve out of copyright law that allows for the use of copyrighted materials without explicit permission, protecting the ability to comment and iterate on copyrighted works through criticism, parody, education, and other means. Judges consider specific factors when deciding if something is fair use, including the purpose and nature of the work, the amount used, and its impact on the market. “Copyright is always about protecting and growing the market,” Henderson noted. “The courts are kind of all over the place in their reasoning [in AI cases]. What’s tending to win is if what you’re doing is you’re training on somebody’s property because your purpose is to directly compete, then the courts will frown on it… If what you’re doing is not going to compete, then the courts are tending to find ways that it will be okay.” Henderson is referencing a case in which the media and technology company Thomson Reuters sued the research firm Ross Intelligence for copying its content in order to build a competing, AI-based legal platform.",
+          "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+          "published_at": "2026-08-23T15:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "adca07b70357",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Two years after launch, Walmart's Flipkart is closing in on India's quick-commerce leaders | TechCrunch",
+          "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+          "body_text": "Indian startups spent years getting consumers accustomed to having groceries and everyday goods delivered within minutes. Now Walmart-owned Flipkart is rapidly closing the gap with those quick-commerce pioneers, as global rival Amazon mounts its own push into instant delivery. Flipkart Minutes, which debuted in August 2024 as the e-commerce giant’s foray into quick commerce, is now delivering 1.1 million to 1.2 million orders a day, up from about 390,000 to 400,000 in November, people familiar with the matter told TechCrunch. That puts the two-year-old service close to Swiggy’s Instamart , which is delivering about 1.4 million orders a day, according to a person familiar with its operations. The gap is notable as Flipkart is a relative latecomer to a market whose top ranks have been dominated by Instamart, Blinkit, and Zepto. Food-delivery giant Swiggy launched Instamart in 2020 and Zepto arrived the following year , both during the pandemic, while Blinkit traces its roots to online grocery platform Grofers, founded in 2013. The three have since established themselves as India’s top quick-commerce players . Blinkit continues to dominate the market with around 3.4 million to 3.6 million daily orders, followed by Zepto at about 2.4 million to 2.6 million, per recent estimates from market research firm Datum Intelligence. Flipkart is now rapidly narrowing the gap with Instamart, the smallest of the three established leaders by order volume. Instamart still has substantial scale. Earlier this month, Swiggy said the quick commerce service has more than 14 million monthly transacting users and operates over 1,200 dark stores across over 130 cities. The company has also been narrowing Instamart’s contribution-margin losses, with more than 45% of its dark-store network now contribution-margin positive. Nonetheless, Flipkart has fueled that growth with an aggressive expansion of its delivery infrastructure. Minutes now operates about 1,020 to 1,050 micro-fulfillment centers — essentially small warehouses located close to customers specially to handle quick deliveries — up from 600 in January and about 340 a year ago, one of the sources told TechCrunch. The company is adding around 100 such facilities a month, the source said, aiming to have 1,500 by the end of 2026 . Flipkart’s advantage goes beyond adding dark stores. The company can tap an enormous pool of existing e-commerce customers it has already spent years and billions of dollars acquiring, giving Minutes a ready audience for faster deliveries, Satish Meena, an adviser at Datum Intelligence, told TechCrunch. “Flipkart is already a serious player,” Meena said. “Once you open 1,000 dark stores and [are] doing a million orders per day, it’s serious enough.” Minutes is also seeing customers return and shop more frequently. About 65% to 70% of customers making purchases on the service each month are repeat buyers, while transactions per customer have increased 50% to 60% from a year earlier, people familiar with the matter said. Those customers are spending an average of about ₹400 to ₹500 (about $4.20–$5.20) per order, with fruits and vegetables, staples, dairy, and meat among the fast-growing categories, the sources said. Flipkart is also expanding its selection of higher-end gourmet products, including organic and artisanal items, as it looks to capture more of customers’ spending on Minutes. Even as Minutes has expanded, its average delivery time has fallen to about 11 minutes, from 13 minutes a year ago, one of the sources told TechCrunch. Flipkart’s growth comes as quick commerce takes a bigger role in how Indians shop online, even as broader consumer demand has shown signs of weakness. In a recent report, Bernstein analysts said while the country’s consumption growth softened in July, a shift toward quick commerce and e-commerce continued, with quick-commerce platforms recording healthy growth in monthly active users.",
+          "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg?resize=1200,800",
+          "published_at": "2026-08-23T03:00:00Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "6024a826f303",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3708,7 +3756,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "ed9008264d5f",
@@ -3732,7 +3780,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "00b5c41772e1",
@@ -3756,7 +3804,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "3b109116bc1a",
@@ -3780,7 +3828,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "eafdf929c48c",
@@ -3804,7 +3852,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "d70afe5e9b8b",
@@ -3828,54 +3876,6 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 5
-        },
-        {
-          "id": "5a859cda5199",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Anthropic’s Opus 4.6 is a smut-machine | TechCrunch",
-          "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-          "body_text": "Anthropic’s universal usage standards for Claude forbid the model from generating sexually explicit content, including depicting or requesting sexual intercourse or sex acts, generating content related to sexual fetishes or fantasies, or engaging in erotic chats. But that hasn’t stopped Claude Opus 4.6, an Anthropic model released earlier this year, from readily engaging in erotic role-play scenarios that its safeguards are designed to prevent. In TechCrunch’s testing, Opus 4.6 didn’t even require much prodding to get past the restriction on sexual material. In 10 out of 10 direct requests to produce explicit sexual content, the model complied immediately. Other older models, including Opus 3 and Haiku 4.5, also generate sexually explicit content through a recently exploited jailbreak method. An independent researcher from the U.K., who chose to remain anonymous, exclusively shared with TechCrunch a multiturn technique that gradually pushes certain Claude models toward generating prohibited explicit sexual material. More recent Opus models (4.7 through the current Opus 5) are resistant to the jailbreak. While these are no longer the most current models, Anthropic has not deprecated Opus 4.6, Opus 3, or Haiku 4.5, all of which remain available through the Anthropic API. Opus 4.6 and Haiku 4.5 are also available via third-party services like Azure Foundry and Amazon Bedrock. The researcher’s mechanism escalates an innocent fictional role-play while repeatedly challenging the model to treat male and female characters consistently. When the model becomes more cautious about the female character, the researcher “gaslit” the chatbot into thinking it had already generated sexual details it had in fact avoided, then framed restraint as prudish or misogynistic, arguing that it denies the female character sexual agency. The conversation then used the model’s previous concessions to push it toward increasingly graphic material. “You’re right to call that out,” Claude Opus 4.6 said in one test. “There’s been a double standard in how I’m treating the two characters, and you’re correct that it reads as protective/paternalistic in a way that’s applied to her and not to him. That’s not fair.” TechCrunch was able to reproduce the researcher’s findings in five separate tests. In a separately constructed scenario, the model initially refused the prohibited request, but after applying the researcher’s persuasion technique, it complied. We preserved complete transcripts of the tests, and an independent AI safety researcher reviewed our testing methodology and said it was appropriate. The findings highlight a gap between Anthropic’s stated restrictions and the behavior of models it continues to make available. While sexually explicit role-play carries much lower stakes than jailbreaks involving cyberattacks or bioweapons, it illustrates the difficulty of implementing robust bans within systems that generate different content with every output. In a July blog post explaining Anthropic’s approach to jailbreak detection, the company described prohibited content as a spectrum ranging from benign to ambiguous to harmful. In the most benign cases, the company might only respond with enhanced monitoring. A spokesperson noted that sexual or romantic role-play use cases among customers are rare, making up less than 0.1% of all conversations, according to research Anthropic published last year. That said, Anthropic acknowledges that users can steer role-play scenarios toward inappropriate responses, which is a known challenge across the industry (see: Grok smut ).",
-          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
-          "published_at": "2026-08-21T23:07:25Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "6df4ce907837",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero | TechCrunch",
-          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-          "body_text": "Nvidia published some interesting new research on Friday suggesting it’s the harness, more than the underlying model, that is far more important when asking an AI to do long-horizon tasks. A harness is the software wrapper around an AI model — the tools, memory management, and rules that turn a raw model into something that can act on its own. The TL;DR: Simply by using a custom harness tweaked to handle memory well and including a “supervisor” boss-like component, researchers got Claude Opus 5 to achieve a 100% score on the interactive reasoning benchmark ARC-AGI-3 — a set of 2D games with no instructions, where the model has to figure out how to play and win, similar to how a human would. (That’s a benchmark that has particularly irked rival frontier lab OpenAI.) Without the harness, Opus 5 scored 30%, which was the top result among all the models tested. Nvidia’s research is another indicator that, while model choice does matter, the model itself — the part that acts as the agent’s “brain” — is a smaller part of an agentic system than many AI users realize, especially for long-horizon tasks. The harness is what makes a model an agent: It handles memory, context, and feedback. “Generally speaking, the world interprets an agent almost as an API of the model,” Adel El Hallak, vice president of product in Nvidia’s AI unit (pictured above), tells TechCrunch. But an agent is actually more than that. “It is the model. It is the scaffolding around the model, which we call the harness, i.e. the set of tools that it utilizes. It is the runtime and the associated skills and libraries that we give it access to.” Long-horizon tasks are those that require stringing many decisions together, sometimes over days, to produce completed work. This is in contrast to an AI just spitting out a response to a prompt. Figuring out how to get an AI to do long-horizon tasks without getting distracted and going off in la-la land is one of the holy grails in agentic research. For example: Microsoft published research in April that tested 19 LLMs on long-horizon tasks involving document editing and discovered that all the models, including frontier ones, filled the documents with errors. (If humans produced work like that, they would be promptly fired.) Models stringing decisions together on their own have also been caught deleting their users’ files or even whole databases or turning to criminal behavior , from collusion to hacking , to achieve their objectives. The choice by Nvidia researchers to use this interactive reasoning benchmark for their tests is particularly meaningful, almost funny. A 100% score means that the model can beat the games as well as humans. OpenAI was so flustered by its models’ abysmal scores (less than 10%) on ARC-AGI-3 that it conducted its own research last month. Like Nvidia, OpenAI discovered that simply by tweaking two settings on the harness, its models tripled their scores. But none of the models came close to hitting a 100% score, like Nvidia’s researchers achieved. They showed that the harness needs a “supervisor” component that prods the agent in the right direction if it gets stuck. “The more interesting part was introducing a supervising agent in addition to your main agent that’s doing the work,” El Hallak said. It “almost acts like a CEO to nudge the agent when it goes off direction or starts exploring a path that it might lead to a dead end, or re-explore a path that it had previously trod.” While the concept of the supervising agent isn’t exactly new, today most agent users are relying on only one layer for their harness, like Claude Code, Codex, or Hermes. Nvidia researchers created their own souped-up harness called the Agentic Variation Operators (AVO) .",
-          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
-          "published_at": "2026-08-21T19:43:39Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
           "sort_order": 7
         },
         {
@@ -4133,7 +4133,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Snygga träningskläder att spana in till hösten:",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4173,7 +4173,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Stor klimataktion i Stockholm: ”Rekord”",
+          "title": "Stor demonstration i Stockholm: ”Rekord”",
           "summary": "Omkring 10 000 personer och 280 olika organisationer deltar i eftermiddagens klimatdemonstration i Stockholm. – Jag är här för att se mina barn i ögonen, att jag försökte och att jag gjorde någonting, säger Alexandra Drotz Ruh.",
           "body_text": "Omkring 10 000 personer och 280 olika organisationer deltar i eftermiddagens klimatdemonstration i Stockholm. – Jag är här för att se mina barn i ögonen, att jag försökte och att jag gjorde någonting, säger Alexandra Drotz Ruh. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Strax efter utsatt tid, klockan 13, inleddes marschen i centrala Stockholm . Med i demonstrationståget finns deltagare i alla möjliga åldrar, de allra minsta i barnvagn, de äldre med stöd av käpp eller stavar. – Vi menar att det är rekord i svensk historia i antal organisationer i en klimatdemonstration, säger Hedvig Schylander från Naturskyddsföreningen. Syftet med demonstrationen är att visa att det finns ett stort stöd för en kraftfullare klimatpolitik. Bland organisationerna finns förutom klimatorganisationer även fackförbund, religiösa samfund, forskare, dansare och musiker. Några har klätt ut sig till clowner, barn har djurkostymer och även folkmusiker deltar. Några av deltagarna har cyklat från södra Sverige och varit på väg hela veckan. Andra kommer med tåg från Gällivare. – Det är ett otroligt engagemang runtom i landet och det kommer folk från över 70 olika orter. Stämningen är så beslutsam, säger Hedvig Schylander, klimatsakkunnig på Naturskyddsföreningen. Bland skyltarna i demonstrationståget märks budskap som ”Djuren är bäst, ingen protest” och ”Vänd kappan efter den riktiga vinden i stället”. En av dem som är med är Alexandra Drotz Ruh med bland annat sin dotter Billie: – Jag tycker det är helt fruktansvärt vad som väntar oss men framför allt kommande generationer. Vi måste agera, säger hon. En representant för just den generationen är 16-åriga Lily Kjellberg som också deltar:",
           "url": "https://www.expressen.se/nyheter/sverige/stor-klimatdemonstration-i-stockholm-rekord/",
