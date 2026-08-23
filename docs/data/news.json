@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:46:07Z",
+  "generated_at": "2026-08-23T10:18:10Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "005abca4ef43",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Uppgifter: Nvidia höjer priserna rejält",
+          "summary": "Nyheter från TV4: Uppgifter: Nvidia höjer priserna rejält",
+          "body_text": "Chipjätten Nvidia ska höja priserna på servrar som innehåller bolagets AI-chip med 15 procent, uppger nyhetsbyrån Bloomberg. Uppgifterna kommer via företag som Microsoft och Alphabet som är stora kunder till Nvidia och som i sin tur har informerat sina kunder om ändringen. Nvidia har inte kommenterat uppgifterna.",
+          "url": "https://www.tv4.se/artikel/tt-260823-nvidiapriser1-fb66e253/uppgifter-nvidia-hojer-priserna-rejalt",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlhqBF23yimLo/f1795e29cf12322ccee779dca2450666/Jensen_Huang__vd_for_Nvidia._Arkivbild.__",
+          "published_at": "2026-08-23T09:49:44Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260823-nvidiapriser1-fb66e253/uppgifter-nvidia-hojer-priserna-rejalt",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "e0e40cb7df23",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "52c97c00e7f7",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "4c46bd296102",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "b001f0a746e1",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdldAsVlaoHYto/735d633b4cf880e7ad2eb25f09a70d18/Gardermoen_tidigare_i_veckan._Arkivbild._",
           "published_at": "2026-08-23T04:53:10Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260823-norgeflygstrejk1-3e60bfc5/gardermoen-stangd-stora-storningar-i-flygtrafiken",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "9100ceadc6bb",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Fler eurosedlar – oro för bränder och attacker",
-          "summary": "Nyheter från TV4: Fler eurosedlar – oro för bränder och attacker",
-          "body_text": "Den våldsamma branden nära staden Omis i södra Kroatien har orsakat stora skador. Bilden tagen tidigt på fredagsmorgonen. Fler eurosedlar – oro för bränder och attacker Oro för skogsbränder, cyberattacker och andra oförutsedda händelser har lett till en ökning av kontanter i eurozonen. Det totala värdet på alla eurosedlar i omlopp har stigit från 1 000 miljarder euro 2016 till 1 600 miljarder euro 2026, enligt ECB. Summan är fördelad på 31,3 miljarder sedlar, upp från 24 miljarder 2016, skriver T he Guardian . Ökningen sägs bero på en ökad oro för krig, skogsbränder och cyberattacker där kontanter kan bli avgörande. Under 2025 uppmanade flera länder i EU – bland andra Sverige, Tyskland och Nederländerna – medborgare att ha både mat, vatten och kontanter hemma för oförutsedda händelser. För den svenska kronan är utvecklingen omvänd från euron, med en minskning av sedelvärdet sedan 2016, enligt Riksbanken.",
-          "url": "https://www.tv4.se/artikel/tt-260823-europasedlar1-081b906c/fler-eurosedlar-oro-for-brander-och-attacker",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlS4aUzgeZ6-E/993c80f7d0237e87a5ee2fdddacf054e/Den_valdsamma_branden_nara_staden_Omis_i_sodra_Kroatien_har_orsakat_stora_skador._Bilden_tagen_tidigt_pa_fredagsmorgonen.",
-          "published_at": "2026-08-23T01:07:38Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260823-europasedlar1-081b906c/fler-eurosedlar-oro-for-brander-och-attacker",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Efter skoldådet – Rädda Barnen kontaktats av många oroliga unga Julia, 16: ”Kunde varit en av oss som skulle dö” Efter skoldådet: Plattformarnas ansvar måste diskuteras Misstänkte 18-åringens uppväxt: Våld och begränsat med mat Polisens uppmaning till allmänheten: ”Vänta inte”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Skolchefen: Extra förstärkning efter attacken Julia, 16: ”Kunde varit en av oss som skulle dö” Efter skoldådet: Plattformarnas ansvar måste diskuteras Misstänkte 18-åringens uppväxt: Våld och begränsat med mat",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -2113,6 +2113,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "183b59bf75aa",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+          "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+          "body_text": "The second edition of the World Humanoid Robot Games kicked off in China on Saturday. The competition will run for five days and has already included a robot running faster than Usain Bolt's 100m sprint world record. Elsewhere at the event in Beijing, a robot performed Cristiano Ronaldo's iconic 'Siuuu' celebration on the football pitch and droids took part in synchronised marching at its opening ceremony. Robots have also been competing in events including boxing, high jump and table tennis. Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife. A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday. In one of the world's fastest aging countries, older people are finding creative ways to stay healthy. As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down. The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star. Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain. At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok. Security camera footage shows doctors shielding a patient on the operating table as last month's magnitude 6.8 quake shook Kumamoto General Hospital.",
+          "url": "https://www.bbc.com/news/videos/c7vgvj6e1emo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7317/live/a6132ae0-9ed6-11f1-a291-b542ee92de7c.jpg",
+          "published_at": "2026-08-23T09:42:05Z",
+          "embed_url": "https://www.bbc.com/news/videos/c7vgvj6e1emo",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "b722c05c7b0b",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "e7ad58eb2ebc",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "12218091fb05",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "60a66c884b5a",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "da4f95362a87",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "d481264e937b",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "9ab180ce047c",
@@ -2278,30 +2302,6 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "e65ee3debbce",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "US military newspaper editor voices censorship fears after being fired",
-          "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-          "body_text": "The editor-in-chief of US military newspaper Stars and Stripes has told the BBC of his concern over censorship a day after being dismissed by the US Department of Defense (DoD) for \"insubordination\". \"This is a time when we really need to hear what's happening,\" Erik Slavin said, adding that Pentagon officials appeared to be \"less and less inclined to speak on the record\". Slavin says he believes he was fired for having stated in an interview that \"in a hypothetical situation, censorship would be a red line\". A reporter and the paper's publisher were also sacked. The Pentagon told the BBC it would not comment. But the sackings come amid tension between the Trump administration and the US media. Even though partially funded by the Pentagon, Stars and Stripes has been editorially independent - through a congressional mandate and DoD rules. The newspaper's Middle East reporter Lara Korte said she had also been told she was fired. Both Slavin and Korte say their dismissals - both for insubordination - relate to an interview they gave to CBS's Sunday Morning programme last month, according to the BBC's US partner CBS News. Stars and Stripes reported that publisher Max Lederer was also fired. He had announced his retirement on Tuesday, saying his understanding of the paper's value and mission differed in \"fundamental ways\" from the Pentagon's plans for the publication. Slavin, who has worked for the paper for 21 years, told the PM programme that he had not been given an official explanation for his dismissal - and was considering his response even though he was not allowed to appeal. He said he did not know if it had to do with his paper's original reporting of conditions aboard USS Abraham Lincoln - the warship which has been deployed in the Gulf for months as the US-Israeli war with Iran continues. The vessel has spent a record-setting uninterrupted time at sea of more than 240 days and family members of sailors aboard have expressed concern about their mental health, with some sailors having reportedly attempted to jump overboard.",
-          "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg",
-          "published_at": "2026-08-22T16:57:19Z",
-          "embed_url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
           "sort_order": 7
         },
         {
