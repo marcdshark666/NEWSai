@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:15:41Z",
+  "generated_at": "2026-08-23T23:38:40Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -339,6 +339,30 @@
           "sort_order": 0
         },
         {
+          "id": "dc72e2ff1cb0",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Ikväll 21:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 5 sek Publicerades: Lör 22 aug 22:15 Lör 22 aug • 4 min 32 sek Publicerades: Lör 22 aug 16:00 Lör 22 aug • 3 min 2 sek Publicerades: Fre 21 aug 09:30 2 min 59 sek Publicerades: Fre 21 aug 08:30 3 min 2 sek Publicerades: Fre 21 aug 07:30 2 min 56 sek Publiceras: Idag 06:30 Idag 06:30 • 3 min",
+          "url": "https://www.svtplay.se/video/85ddXBz/rapport/ikvall-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54775532/1787513101?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-23T19:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/85ddXBz/rapport/ikvall-21-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "f3194605ccb5",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -360,7 +384,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e6c2239d52ef",
@@ -384,7 +408,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "4fde1c7ef755",
@@ -408,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "06b15ecdac24",
@@ -432,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "4befcaa1fe56",
@@ -456,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "a9f99705ffc0",
@@ -480,30 +504,6 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "dc72e2ff1cb0",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Ikväll 21:00",
-          "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 21:00 Igår 21:00 • 14 min Publicerades: Igår 16:00 Igår 16:00 • 3 min 5 sek Publicerades: Lör 22 aug 22:15 Lör 22 aug • 4 min 32 sek Publicerades: Lör 22 aug 16:00 Lör 22 aug • 3 min 2 sek Publicerades: Fre 21 aug 09:30 2 min 59 sek Publicerades: Fre 21 aug 08:30 3 min 2 sek Publicerades: Fre 21 aug 07:30 2 min 56 sek Publiceras: Idag 06:30 Idag 06:30 • 3 min",
-          "url": "https://www.svtplay.se/video/85ddXBz/rapport/ikvall-21-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54775532/1787513101?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-23T06:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/85ddXBz/rapport/ikvall-21-00?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
           "sort_order": 7
         },
         {
@@ -1721,6 +1721,56 @@
           "sort_order": 0
         },
         {
+          "id": "8cab881c72bb",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Tennessee hospital under investigation after devastating medication mix-up paralyzes patient, injures 3 others | Fox News Video",
+          "summary": "Fox News correspondent Madison Scarpino reports on an investigation into Ascension Saint Thomas Hospital in Tennessee after a medication mix-up seriously injured four patients and left one paralyzed, on 'Fox Report.'",
+          "body_text": "Fox News correspondent Madison Scarpino reports on an investigation into Ascension Saint Thomas Hospital in Tennessee after a medication mix-up seriously injured four patients and left one paralyzed, on 'Fox Report.' Fox News correspondent Madison Scarpino reports on the serious medication mix-up at Ascension Saint Thomas Hospital in Nashville, Tennessee. Family attorney Marc Walwyn describes the devastating consequences that left a 72-year-old woman paralyzed. The hospital has apologized and changed its pharmacy procedures as multiple state agencies launch investigations into the drug errors.",
+          "url": "https://www.foxnews.com/video/6403934566112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2f0c603-4832-420f-a870-8d6774f1f1ce/88d125dc-f79b-47e3-8a52-9961cd748ff2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T23:06:09Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403934566112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "6b9885495914",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Data centers spark bipartisan political battle in midterm races | Fox News Video",
+          "summary": "NetChoice director of policy Patrick Hedger discusses the growing bipartisan pushback against data center expansions in key midterm races on 'Fox Report.'",
+          "body_text": "NetChoice director of policy Patrick Hedger discusses the growing bipartisan pushback against data center expansions in key midterm races on 'Fox Report.' NetChoice director of policy Patrick Hedger warns that data center development has become a major flashpoint in key midterm races. He argues that local moratoriums will hurt communities in 5 to 10 years when they realize they missed out on critical tech investments, high-paying jobs, and lower taxes.",
+          "url": "https://www.foxnews.com/video/6403935718112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd9cfa6f-1ea9-462d-a0d6-4f9aae018081/05a3a36e-08a6-40b3-8d9a-949b5ffabbd8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T23:04:35Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403935718112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "7855f056aaf6",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1793,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "758687154add",
@@ -1768,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "17fcdf1a1367",
@@ -1793,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "6430519a946d",
@@ -1818,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "71e18c80ae4f",
@@ -1843,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "6f0d192e161c",
@@ -1868,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "9f4c6479f11f",
@@ -1893,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "bc9a61cdb10f",
@@ -1910,56 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/938aac8e-188f-4b6d-a215-7261228401ca/ac9b8d89-704e-4ffb-8d14-96ee660e9782/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-23T20:52:25Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403930423112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "74e30f20436e",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "‘Fox News Sunday’ takes a ride around Freedom 250 Grand Prix track | Fox News Video",
-          "summary": "‘Fox News Sunday’ host Shannon Bream goes behind the scenes at the Freedom 250 Grand Prix in Washington, D.C., taking a ride around the track with IndyCar driver Conor Daly.",
-          "body_text": "‘Fox News Sunday’ host Shannon Bream goes behind the scenes at the Freedom 250 Grand Prix in Washington, D.C., taking a ride around the track with IndyCar driver Conor Daly.",
-          "url": "https://www.foxnews.com/video/6403929836112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3196e2ae-e895-450e-81f3-5eb2faa561fa/ef94f156-d12b-4e73-ae9a-49de1562cbe3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T20:25:28Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403929836112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "be9de4bdb98c",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Ex-Biden assistant says Democratic Party should disavow Hasan Piker | Fox News Video",
-          "summary": "A 'Fox News Sunday' panel discusses the growing influence of socialist candidates on the Democratic Party and more.",
-          "body_text": "A 'Fox News Sunday' panel discusses the growing influence of socialist candidates on the Democratic Party and more. Former Biden special assistant Meghan Hays, Bloomberg News senior White House reporter Josh Wingrove and 'Ruthless Podcast' co-host Josh Holmes join Shannon Bream to analyze the ideological battle within the Democratic Party. The Sunday panel debates the electoral impact of socialist candidates entering mainstream races. Furthermore, they evaluate the latest Fox News Power Rankings showing crucial Senate shifts in Michigan and Texas ahead of the midterms.",
-          "url": "https://www.foxnews.com/video/6403931080112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4442d922-eda3-4014-bf50-185eea127778/1132d33b-a05e-4a5e-8afc-1627a091c25d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T20:16:48Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403931080112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2553,12 +2553,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
+          "title": "Universitario vs Los Chankas EN VIVO: minuto a minuto del partido por la fecha 6 del Torneo Clausura",
           "summary": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
           "body_text": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-los-chankas-en-vivo-gratis-hoy-por-torneo-clausura-de-liga-1-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/N2PPIFLD3RFOFDGNXGCHJG2RAI.jpg?auth=f969f3a2ca58ba1dc7898def2ef18023b2aaa7c597a697f9c376fec8cbb13146&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-23T23:12:52Z",
+          "published_at": "2026-08-23T23:37:12Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-los-chankas-en-vivo-gratis-hoy-por-torneo-clausura-de-liga-1-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -2830,12 +2830,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
+          "title": "Universitario vs Los Chankas EN VIVO: minuto a minuto del partido por la fecha 6 del Torneo Clausura",
           "summary": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
           "body_text": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-los-chankas-en-vivo-gratis-hoy-por-torneo-clausura-de-liga-1-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/N2PPIFLD3RFOFDGNXGCHJG2RAI.jpg?auth=f969f3a2ca58ba1dc7898def2ef18023b2aaa7c597a697f9c376fec8cbb13146&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-23T23:12:52Z",
+          "published_at": "2026-08-23T23:37:12Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-los-chankas-en-vivo-gratis-hoy-por-torneo-clausura-de-liga-1-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3107,12 +3107,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
+          "title": "Universitario vs Los Chankas EN VIVO: minuto a minuto del partido por la fecha 6 del Torneo Clausura",
           "summary": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
           "body_text": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-los-chankas-en-vivo-gratis-hoy-por-torneo-clausura-de-liga-1-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/N2PPIFLD3RFOFDGNXGCHJG2RAI.jpg?auth=f969f3a2ca58ba1dc7898def2ef18023b2aaa7c597a697f9c376fec8cbb13146&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-23T23:12:52Z",
+          "published_at": "2026-08-23T23:37:12Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-los-chankas-en-vivo-gratis-hoy-por-torneo-clausura-de-liga-1-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3384,12 +3384,12 @@
           "category": "Peru",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
+          "title": "Universitario vs Los Chankas EN VIVO: minuto a minuto del partido por la fecha 6 del Torneo Clausura",
           "summary": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
           "body_text": "Universitario vs Los Chankas EN VIVO: previa y últimas noticias del partido por el Torneo Clausura 2026",
           "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-los-chankas-en-vivo-gratis-hoy-por-torneo-clausura-de-liga-1-lbposting-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/N2PPIFLD3RFOFDGNXGCHJG2RAI.jpg?auth=f969f3a2ca58ba1dc7898def2ef18023b2aaa7c597a697f9c376fec8cbb13146&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-23T23:12:52Z",
+          "published_at": "2026-08-23T23:37:12Z",
           "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-los-chankas-en-vivo-gratis-hoy-por-torneo-clausura-de-liga-1-lbposting-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4413,12 +4413,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige I går 18.48 Nya virala hysterin – rusning efter billigt smink",
-          "summary": "",
-          "body_text": "",
+          "title": "Charlotte Tilbury-smink skapar viral hysteri – ”Helt slut”",
+          "summary": "Kaffeburken och rosa mjölken kom och gick. Nu försvinner nästa grej från hyllorna. – Den är slut, ni behöver inte leta mer, säger Lucille Martinsson.",
+          "body_text": "Kaffeburken och rosa mjölken kom och gick. – Den är slut, ni behöver inte leta mer, säger Lucille Martinsson. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I ett Tiktok-inlägg som fått över en halv miljon visningar jublar Lucille Martinsson. – Jag hittade en Elle på Ica, säger hon och glädjeskuttar med senaste numret av modemagasinet i näven. Elle säljer slut i butiker efter ett viralt Tiktok-klipp. Orsaken: Charlotte Tilbury-smink värt över 500 kronor. Många, visar det sig, verkar inte ha varit lika lyckligt lottade. Lucille kunde i ett uppföljande inlägg konstatera att Elle-tidningen sålt slut i butikerna där hon letat i Göteborg. Hon säger att hon har ”ringt runt hela stan” i jakt på ytterligare exemplar. – Ni behöver inte leta mer, förklarar hon. Rusningen efter modemagasinet kommer ur ett sminksamarbete, där man tillsammans med senaste Elle-numret får en rouge från Charlotte Tilbury som i butik kostar omkring 500 kronor. Men får man tag på senaste numret av Elle behöver man bara betala priset för ett lösnummer – 139 kronor. – Om jag ska vara ärlig, det finns ju jättemånga olika glow-produkter ute på marknaden så det är ju inte så ”åh, man måste ha den här”, säger Lucille till Expressen",
           "url": "https://www.expressen.se/nyheter/sverige/nya-virala-hysterin-rusning-efter-billigt-smink/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/a8/1c/a81c99ef625d47e1a368d9d304c7e644/16x9/original.png",
+          "published_at": "2026-08-23T16:48:09Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/nya-virala-hysterin-rusning-efter-billigt-smink/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4426,7 +4426,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 8
         },
         {
@@ -4437,12 +4437,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Sverige I går 17.07 Stor klimatdemonstration i Stockholm: ”Rekord”",
-          "summary": "",
-          "body_text": "",
+          "title": "Stor demonstration i Stockholm: ”Rekord”",
+          "summary": "Omkring 50 000 personer och 280 olika organisationer deltar i eftermiddagens klimatdemonstration i Stockholm. – Jag är här för att se mina barn i ögonen, att jag försökte och att jag gjorde någonting, säger Alexandra Drotz Ruh.",
+          "body_text": "Omkring 50 000 personer och 280 olika organisationer deltar i eftermiddagens klimatdemonstration i Stockholm. – Jag är här för att se mina barn i ögonen, att jag försökte och att jag gjorde någonting, säger Alexandra Drotz Ruh. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Strax efter utsatt tid, klockan 13, inleddes marschen i centrala Stockholm . Med i demonstrationståget finns deltagare i alla möjliga åldrar, de allra minsta i barnvagn, de äldre med stöd av käpp eller stavar. – Vi menar att det är rekord i svensk historia i antal organisationer i en klimatdemonstration, säger Hedvig Schylander från Naturskyddsföreningen. Naturskyddsföreningen uppger att omkring 50 000 personer deltar i marschen. Syftet med demonstrationen är att visa att det finns ett stort stöd för en kraftfullare klimatpolitik. Bland organisationerna finns förutom klimatorganisationer även fackförbund, religiösa samfund, forskare, dansare och musiker. Några har klätt ut sig till clowner, barn har djurkostymer och även folkmusiker deltar. Några av deltagarna har cyklat från södra Sverige och varit på väg hela veckan. Andra kommer med tåg från Gällivare. – Det är ett otroligt engagemang runtom i landet och det kommer folk från över 70 olika orter. Stämningen är så beslutsam, säger Hedvig Schylander, klimatsakkunnig på Naturskyddsföreningen. Bland skyltarna i demonstrationståget märks budskap som ”Djuren är bäst, ingen protest” och ”Vänd kappan efter den riktiga vinden i stället”. En av dem som är med är Alexandra Drotz Ruh med bland annat sin dotter Billie: – Jag tycker det är helt fruktansvärt vad som väntar oss men framför allt kommande generationer. Vi måste agera, säger hon. En representant för just den generationen är 16-åriga Lily Kjellberg som också deltar:",
           "url": "https://www.expressen.se/nyheter/sverige/stor-klimatdemonstration-i-stockholm-rekord/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/73/3c/733ca7091eed475598927e60b4c309fa/16x9/original.jpg",
+          "published_at": "2026-08-23T15:07:12Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/stor-klimatdemonstration-i-stockholm-rekord/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4450,7 +4450,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4466,11 +4466,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "En person har förts till sjukhus efter ett eventuellt farligt utsläpp i Nyköping. Utsläppet ska ha skett på en av Studsviks anläggningar, som kärnbränsle och avfallshantering inom kärnkraft. – Det kommer in till oss som en arbetsplatsolycka. Någon typ av tank med en lösning läcker, och en person har fått detta över sig, säger polisens ledningsbefäl Linus Maxe. Polisen och räddningstjänsten uppger att det inte är någon fara för allmänheten. – En person är förd till sjukhus. Personen upplevde yrsel, hosta och problem med andning och hade ett sjukvårdsbehov. Experter kopplade till Studsvik är på väg till platsen. Polis och räddningstjänst är där sedan tidigare. Ett eritreanskt passagerarflygplan har landat på Arlanda och i samband med det har räddningstjänsten behövt rycka ut. – Det har varit rökutveckling ur en motor, säger Lars Grantinger, flygräddningsledare. Planet hade Arlanda som destination och det är oklart om det rör sig om en nödlandning. Passagerarna blev kvar ombord på planet under insatsen, enligt räddningstjänsten. Europaparlamentarikerna Jonas Sjöstedt (V) och Hanna Gedin (V) är bannade från att resa in i Israel, rapporterar Jerusalem Post. Anledningen är att Israels utrikesminister anser att de konsekvent arbetat mot Israel de senaste åren, bland annat genom att kalla Israels aktioner i Gaza för folkmord. Sjöstedt och Gedin skulle ha rest in i Israel för att imorgon åka till Västbanken för ett planerat besök hos den palestinska myndigheten, rapporterar Ekot.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
