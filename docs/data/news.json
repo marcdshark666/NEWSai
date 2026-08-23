@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:59:50Z",
+  "generated_at": "2026-08-23T08:34:02Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Andersson (S) och Kristersson (M) • ”Kommer att diskuteras mer” Kritik mot techjättarna efter skoldådet – agerar för långsamt Julia, 16: ”Kunde varit en av oss som skulle dö”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Andersson (S) och Kristersson (M) • ”Kommer att diskuteras mer” Julia, 16: ”Kunde varit en av oss som skulle dö” Misstänkte 18-åringens uppväxt: Våld och begränsat med mat",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -567,7 +567,7 @@
           "body_text": "Skoldådet i Fagersta: Sorg präglar bruksorten • Skoldådet i Fagersta: Vem är gärningsmannen? Mer om programmet Fagersta: Flera skadade i skolattack • Beredskap: Rustar inför valet • Boden: Stabsläge efter skyfall Mer om programmet Valrörelsen: S och C syns tillsammans • Örebro: LVU hävs efter felaktigheter • Tradition: Surströmmingspremiär i dag Mer om programmet Ukraina: Fedorov vill ha val trots krig • Rotavdrag: Fusk för miljoner • SVT i höst: Serier, humor och reality Mer om programmet Opinionsläget: Oppositionen behåller ledning • Ukraina: Flera döda i ryska anfall • Djur och natur: \"Helvetesfjärilen\" har hittats i Skåne Mer om programmet Ukraina: Kapprustning eskalerar • Italien: Har EU:s äldsta befolkning • Skolstart idag: Nya mobilregler i kraft Mer om programmet Ryssland: Omfattande attacker mot Moskva • Val 2026: Bortglömd glesbygd? • Dödskallegrottan: Sensationella fynd Mer om programmet Nyheter från Sverige och världen. Mer om programmet",
           "url": "https://www.svtplay.se/video/jqPPXq9/rapport/igar-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54772463/1787419430?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-22T17:30:00Z",
+          "published_at": "2026-08-22T19:30:00Z",
           "embed_url": "https://www.svtplay.se/video/jqPPXq9/rapport/igar-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -2113,6 +2113,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "b722c05c7b0b",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Zelensky has 'questions to answer' on corruption, Mykhailo Fedorov says",
+          "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+          "body_text": "Ukrainian President Volodymyr Zelensky has \"questions to answer\" about corruption in his government, his sacked defence minister Mykhailo Fedorov has told the BBC. Fedorov, a popular minister who modernised the armed forces and pioneered drone warfare, was fired last month after reportedly falling out with the head of Ukraine's armed forces. He told the BBC a money laundering investigation announced last week raised questions about Zelensky's awareness of potential corruption in his inner circle. Fedorov also reiterated that \"democracy should not be the hostage of Putin\" - but stopped short of declaring his own political ambitions days after he posted a video calling for elections in Ukraine. Supporters have protested on Kyiv's streets weekly since he was sacked , calling on the president to reinstate him. Asked whether he missed his old job, the 35-year-old replied \"No\", citing the relentless stress of managing Ukraine's war with Russia while transforming its defence ministry. The protests ended on Wednesday, after Fedorov's replacement was confirmed, hours after he posted a video on YouTube calling for political reform. Ukraine has been under martial law since Russia's full-scale invasion in 2022, meaning elections are suspended. But Fedorov said it was his \"moral right\" to start the conversation about elections. \"We should not be afraid of discussing it. That's what democracy is all about. If I cannot share my ideas and be open about them with my own society, then what are we fighting for?\" If elections were never held, he said, \"then we are no longer a democracy\". In his earlier video statement Fedorov had argued that \"people cannot endlessly live in a state where they do not understand why certain decisions are made\".",
+          "url": "https://www.bbc.com/news/articles/cwy4ypzvd7po",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e08c/live/be3a89f0-9e91-11f1-ab7f-1982e3129a69.jpg",
+          "published_at": "2026-08-23T08:02:22Z",
+          "embed_url": "https://www.bbc.com/news/articles/cwy4ypzvd7po",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "e7ad58eb2ebc",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "12218091fb05",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "da4f95362a87",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "d481264e937b",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "9ab180ce047c",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "e65ee3debbce",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "4619c796b273",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "c1eb496931e6",
@@ -2302,7 +2326,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "ef2c0c5ae635",
@@ -2326,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "638f69dacca5",
@@ -2350,7 +2374,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "a63ebde5f70c",
@@ -2374,7 +2398,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
+          "sort_order": 11
         },
         {
           "id": "05c90f8a9a90",
@@ -2398,7 +2422,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 11
+          "sort_order": 12
         },
         {
           "id": "28d52a3c48f8",
@@ -2415,30 +2439,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
           "published_at": "2026-08-21T18:23:11Z",
           "embed_url": "https://www.bbc.com/news/articles/c39egw7nmk2o",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 12
-        },
-        {
-          "id": "a53d81da0d34",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-          "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-          "body_text": "A new generation of Israeli settlers has returned to the settlement of Kadim, in the occupied West Bank, two decades after it was closed by a previous Israeli government. Thirty \"pioneer families\" had arrived in the settlement on Thursday from Tel Aviv, according to the regional settlers' council, riding a wave of Jewish nationalism driven by Israel's current government. They came in small groups, some under military escort, blue and white Israeli flags fluttering from their cars as they passed Palestinian villages and farmlands. Some dragged trailers loaded with bedding, furniture and building material. Israel's government has overturned a 20-year ban on Jewish settlements around Jenin. Palestinian residents are watching the new push on settlement expansion here with fear. All Israeli settlements and settler outposts are illegal under international law. Outposts are also illegal under Israeli law, though are often supported by state services and funding. \"21 years after the crime of expulsion from northern Samaria, we have completed the correction […] and have returned to the settlement of Kadim,\" said Israel's far-right Finance Minister Bezalel Smotrich at the opening ceremony, using the Biblical word for the northern West Bank. Alongside him were Israel's Justice Minister, the Speaker of the Knesset, and Yossi Dagan, head of the regional settlers' council, who vowed that settlers would one day return to Gaza too. Kadim, on a small hillside outside the Palestinian city of Jenin , was evacuated in 2005 by a previous Israeli government as part of a wider unilateral Disengagement Plan that also saw all Jewish settlers and soldiers pulled out of Gaza, and three other settlements in the northern West Bank dismantled. At the time, the four settlements were considered too isolated and costly to protect, and of little strategic value. In recent weeks, white trailer homes have appeared on the hilltop here again, in preparation for families to return. Our request to speak to people at the opening ceremony was refused; we were told no media were allowed to enter the settlement today. Driving along a dirt track on the hill behind it, we met a Palestinian vegetable farmer, living in the house he was born in 53 years ago.",
-          "url": "https://www.bbc.com/news/articles/cn7n0l4p0kzo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg",
-          "published_at": "2026-08-21T05:00:57Z",
-          "embed_url": "https://www.bbc.com/news/articles/cn7n0l4p0kzo",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -4247,7 +4247,7 @@
           "source_kind": "story",
           "title": "Misstänkt mord i Mariestad",
           "summary": "En person hittades under natten svårt skadad i Mariestad. Personens liv gick inte att rädda. – Vi utreder mord, säger polisens presstalesperson Jens Andersson.",
-          "body_text": "En person hittades under natten svårt skadad i Mariestad. – Vi utreder mord, säger polisens presstalesperson Jens Andersson. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Larmet kom in till polisen strax innan klockan 04 natten till söndag. En person hade då hittats svårt skadad och livlös på en plats i Mariestad . Enligt larmet hade personen blivit misshandlad. Polis och ambulans ryckte ut till platsen. – Personen är medvetslös så vi påbörjar livräddande insatser, säger polisens presstalesperson Jens Andersson. Personens liv gick dock inte att rädda och därför utreder polisen mord. Man ska nu hålla förhör och genomföra en teknisk undersökning av brottsplatsen. Två personer ska vara gripna, rapporterar Aftonbladet med hänvisning till uppgifter. – Det är inget jag kan kommentera just nu, säger Jens Andersson. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "En man hittades under natten svårt skadad i Mariestad. – Vi utreder mord, säger polisens presstalesperson Jens Andersson. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Larmet kom in till polisen strax innan klockan 04 natten till söndag. En person hade då hittats svårt skadad och livlös på en plats i Mariestad . Enligt larmet hade personen, en man i 50-årsåldern, blivit misshandlad. Polis och ambulans ryckte ut till platsen. – Personen är medvetslös så vi påbörjar livräddande insatser, säger polisens presstalesperson Jens Andersson. Mannens liv gick dock inte att rädda och därför utreder polisen mord. Man ska nu hålla förhör och genomföra en teknisk undersökning av brottsplatsen. Två personer ska vara gripna, rapporterar Aftonbladet med hänvisning till uppgifter. – Det är inget jag kan kommentera just nu, säger Jens Andersson. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/krim/dodsmisshandel-i-mariestad-d4vaz/",
           "image_url": "https://static.bonniernews.se/images/3c/27/3c274dbd4ee743b0be539990bbf24c18/16x9/original.jpg",
           "published_at": "2026-08-23T05:20:52Z",
@@ -4365,12 +4365,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen I dag 00.28 Svarar Trump – efter tullhoten: ”Vi är i krig”",
-          "summary": "",
-          "body_text": "",
+          "title": "Svarar Trump – efter tullhoten: ”Vi är i krig”",
+          "summary": "I natt lämnade Kanada tullförhandlingarna med USA. Enligt premiärminister Mark Carney är länderna nu ”i krig”. – Man är i krig när man blir attackerad, och vi blev attackerade, säger Carney till reportrar i Ottawa.",
+          "body_text": "I natt lämnade Kanada tullförhandlingarna med USA. Enligt premiärminister Mark Carney är länderna nu ”i krig”. – Man är i krig när man blir attackerad, och vi blev attackerade, säger Carney till reportrar i Ottawa. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Mark Carneys tal till nationen på lördagen skickade en tydlig signal till grannen i söder. Under natten mot lördag kom beskedet att Kanada drar sig ur handelssamtalen med USA, där Trump hotat med 50 procentiga tullar på flera kanadensiska varor. Enligt Carney har Trump ”felbedömt” situationen. – De frågade efter för mycket och erbjöd för lite, säger han enligt BBC . Enligt Carney hade Kanada gjort flera eftergifter för att undvika USA:s tullar, som exempelvis att tillåta amerikansk sprit i landet och att slopa vedergällningstullar mot den amerikanska stålindustrin. Men i slutet av fredagen hade USA försökt begränsa Kanadas möjlighet att sluta handelsavtal med andra länder – något som blev droppen för Carney och hans förhandlare. – De nya amerikanska tullarna är utformade för att skada oss och splittra oss, de är en felbedömning, sade han. Carney meddelar samtidigt att Kanada kommer matcha USA:s tullar ”dollar för dollar”, och har redan planerat vedergällningstullar mot den amerikanska stål- och aluminiumindustrin.",
           "url": "https://www.expressen.se/nyheter/varlden/svarar-trump-efter-tullhoten-vi-ar-i-krig/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/31/bc/31bc0c972cc640d1ac9e655d974221cd/16x9/original.jpg",
+          "published_at": "2026-08-22T22:28:18Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/svarar-trump-efter-tullhoten-vi-ar-i-krig/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4378,7 +4378,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 8
         },
         {
@@ -4389,12 +4389,12 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Världen I dag 00.03 Pappa lämnade sjuårig son på Fuji – i flera timmar",
-          "summary": "",
-          "body_text": "",
+          "title": "Pappa lämnade sin son på Fuji – i flera timmar",
+          "summary": "En sjuårig pojke klagade på att det var jobbigt att vandra på Japans högsta berg. Då lämnade hans pappa honom – och fortsatte sin resa mot toppen.",
+          "body_text": "En sjuårig pojke klagade på att det var jobbigt att bestiga Japans högsta berg. Då lämnade hans pappa honom – och fortsatte resan mot toppen. Tre timmar senare hittades sonen ensam på 2 000 meters höjd. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. En japansk pappa och hans två söner skulle bestiga berget Fuji utanför Tokyo på torsdagen. När de hade nått runt 2 000 meters höjd – av bergets 3 776 meter – började den yngre sonen klaga på att han var trött. Då sa pappan ”vänta här” – och fortsatte vandringen med den äldre sonen, enligt The Guardian . Efter tre timmar fick en anställd vid en närliggande bergsstuga syn på honom. Han satt på en bänk med en läsk och ett mellanmål som pappan lämnat åt honom. Pojken bjöds in i bergsstugan och den anställde tillkallade polis. När polisen fick tag i pappan befann han sig på bergets åttonde station. Den yngre sonen övergavs på den sjätte stationen. Om pappan och den äldre sonen hade fullföljt vandringen till toppen skulle det ha tagit dem runt åtta timmar att återvända, enligt lokala rapporter. De ombads att vända om – och när familjen återförenats fick pappan en varning.",
           "url": "https://www.expressen.se/nyheter/varlden/pappa-lamnade-sjuarig-son-pa-fuji-i-flera-timmar/",
-          "image_url": "",
-          "published_at": null,
+          "image_url": "https://static.bonniernews.se/images/c2/85/c2850a91f51f4a2ca73b293af03c9609/16x9/original.jpg",
+          "published_at": "2026-08-22T22:03:30Z",
           "embed_url": "https://www.expressen.se/nyheter/varlden/pappa-lamnade-sjuarig-son-pa-fuji-i-flera-timmar/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4402,7 +4402,7 @@
             "Senaste",
             "Expressen"
           ],
-          "is_live": false,
+          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4418,11 +4418,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "Kinesiska e-handelsjätten Alibaba gör som många andra företagsjättar – investerar kraftigt inom AI-utveckling. För att finansiera satsningarna har bolaget meddelat att man gör en nyemission på motsvarande drygt 95 miljarder svenska kronor. Alibaba redovisade tidigare i veckan en vinstnedgång med 75 procent för det senaste kvartalet, detta efter bland annat stora investeringar inom just bolagets AI-verksamhet. Flera personer hamnade i bråk på ett bröllop i Salem natten till söndag, rapporterar LT. Polisen kallades till platsen och när de kom fram var runt 50 personer inblandade i olika fall av pågående misshandel, skriver tidningen. \"Polisen får lugna den stökiga situationen på plats bland annat med hjälp av oc-spray \" , skriver polisen på sin hemsida. – Det ska ha börjat med att det var någon av gästerna som tafsade på någon annan och sedan spårade det ur, uppger vakthavande befäl hos polisen för LT. Två personer uppgav att de blivit misshandlade men det finns i nuläget inga uppgifter om att någon ska ha behövt sjukvård. Polisen har upprättat anmälan om misshandeln men ingen misstänkt har i nuläget kunnat identifieras eller gripas, skriver de på sin hemsida. Ett 50-tal ungdomar har under natten \"varit inne och stökat\" i en trädgård i Höllviken, skriver polisen på sin hemsida. Flera polispatruller åkte dit för att få ordning på de fulla ungdomarna. Polisen fick larm om en misshandel och en svårt skadad person i Mariestad natten till söndag. Ambulans och och polis åkte till platsen men lyckades inte rädda personens liv. – Personen har blivit misshandlad, säger polisens presstalesperson Jens Andersson. Polisen har nu inlett en förundersökning gällande mord. Ingen är gripen. Polisen larmades under lördagskvällen till en fest i Trollhättan efter att den spårat ur. Flera ungdomar var å platsen när polisen kom dit. Samtidigt som polisen arbetade på platsen kom en bil körande i full fart, och situationen bedömdes enligt polisen som farlig.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
