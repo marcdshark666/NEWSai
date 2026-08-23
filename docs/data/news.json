@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:45:12Z",
+  "generated_at": "2026-08-23T11:16:36Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -130,20 +130,20 @@
           "sort_order": 3
         },
         {
-          "id": "b001f0a746e1",
+          "id": "bf276be16ac3",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
           "provider": "TV4",
           "category": "Ekonomi",
           "surface": "video",
           "source_kind": "video",
-          "title": "Gardermoen stängd – stora störningar i flygtrafiken",
-          "summary": "Nyheter från TV4: Gardermoen stängd – stora störningar i flygtrafiken",
-          "body_text": "Gardermoen tidigare i veckan. Arkivbild. Gardermoen stängd – stora störningar i flygtrafiken Strejken har påverkat även andra flygplatser runtom i Norge. Vid Bergens flygplats uppges ett hundratal personer ha blivit strandade och fått sova på flygplatsen, rapporterar norska medier. Därför har flygplatspersonal fått ställa ut tältsängar till passagerare som fastnat på flygplatsen.",
-          "url": "https://www.tv4.se/artikel/tt-260823-norgeflygstrejk1-3e60bfc5/gardermoen-stangd-stora-storningar-i-flygtrafiken",
+          "title": "Gardermoen öppnad – med stora störningar",
+          "summary": "Nyheter från TV4: Gardermoen öppnad – med stora störningar",
+          "body_text": "Gardermoen tidigare i veckan. Arkivbild. Gardermoen öppnad – med stora störningar Gardermoen flygplats utanför Oslo stängde tidigt på söndagsmorgonen i samband med den norska flygledarstrejken. Nu har den öppnat igen, men med stora störningar i flygtrafiken under resten av dagen. Strejken har påverkat även andra flygplatser runtom i Norge. Vid Bergens flygplats uppges ett hundratal personer ha blivit strandade och fått sova på flygplatsen, och flygplatspersonal har fått ställa ut tältsängar till passagerare som fastnat på flygplatsen. Samtidigt är så gott som alla tåg mellan Oslo och Bergen utsålda hela nästa vecka.",
+          "url": "https://www.tv4.se/artikel/tt-260823-norgeflygstrejk1-3e60bfc5/gardermoen-oppnad-med-stora-storningar",
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdldAsVlaoHYto/735d633b4cf880e7ad2eb25f09a70d18/Gardermoen_tidigare_i_veckan._Arkivbild._",
           "published_at": "2026-08-23T04:53:10Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260823-norgeflygstrejk1-3e60bfc5/gardermoen-stangd-stora-storningar-i-flygtrafiken",
+          "embed_url": "https://www.tv4.se/artikel/tt-260823-norgeflygstrejk1-3e60bfc5/gardermoen-oppnad-med-stora-storningar",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "2f7432c52863",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+          "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+          "body_text": "More than 50 co-ordinated arson and incendiary attacks \"aimed at creating unrest\" have been carried out across Thailand's insurgency-hit south, the Thai military has said. Two people were injured, with a local government office building, a convenience store, and a stolen vehicle among the targets set on fire. The incidents took place across the country's southern border provinces between 20:00 local time (13:00 GMT) and midnight on Saturday, the military's Internal Security Operations Command said in a statement. Most were reported in Narathiwat province, with others occurring in neighbouring Yala and Pattani. According to the Bangkok Post, two women were injured when a bomb exploded in Muang district in Narathiwat province. Telecommunication towers were set on fire in several locations, and security officials warned residents not to touch suspicious objects. Authorities imposed an overnight curfew in the Narathiwat province that was lifted on Sunday morning. No further attacks had been reported on Sunday. No group has claimed responsibility for the arson attacks. Since 2004, a low-level conflict has simmered in the southernmost provinces of Buddhist-majority Thailand, as rebels in the Muslim-majority region battle for greater autonomy. More than 7,000 people have been killed in the violence so far. The insurgency is mainly led by the Barisan Revolusi Nasional. Since talks facilitated by Malaysia began in 2013, the peace process ​has repeatedly stalled amid changing governments in Bangkok, with internal divisions on both sides. In July, five soldiers were killed in a gun and bomb attack at a checkpoint in Narathiwat prompting the authorities to postpone a planned dialogue process.",
+          "url": "https://www.bbc.com/news/articles/c8enegx4xy3o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7da8/live/cbf69b50-9ee2-11f1-9797-eb684645fdf7.jpg",
+          "published_at": "2026-08-23T10:22:32Z",
+          "embed_url": "https://www.bbc.com/news/articles/c8enegx4xy3o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "183b59bf75aa",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "b722c05c7b0b",
@@ -2158,7 +2182,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e7ad58eb2ebc",
@@ -2182,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "12218091fb05",
@@ -2206,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "60a66c884b5a",
@@ -2230,7 +2254,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "da4f95362a87",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "d481264e937b",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "9ab180ce047c",
@@ -2302,7 +2326,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "4619c796b273",
@@ -2326,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "c1eb496931e6",
@@ -2350,7 +2374,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "ef2c0c5ae635",
@@ -2367,30 +2391,6 @@
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
           "published_at": "2026-08-22T13:48:06Z",
           "embed_url": "https://www.bbc.com/news/articles/cqlxlvz01z1o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "638f69dacca5",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Laptop catches fire on US flight, with passenger treated at airport",
-          "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
-          "body_text": "One person has received medical treatment after a passenger's laptop caught fire on an American Airlines flight. The pilot had reported a \"cabin fire in the back of the airplane\" to air traffic control, saying \"the flight attendants are trying to put it out now\", according to audio obtained by the BBC's US reporting partner CBS News. \"I think we have about four to five passengers that were burned by the laptop. The laptop is contained about mid-aircraft.\" One passenger received medical attention on site and was released after American Airlines Flight 2398 - coming from Atlanta, Georgia - landed at Dallas Fort Worth International Airport in Texas on Friday. The airline told the BBC that the flight landed safely \"after reports of smoke from a customer's device during landing. We thank our crew for their professionalism and swift response to quickly contain the device.\" After landing, the aircraft taxied to the gate, and emergency personnel met the aircraft upon arrival, per procedure. The Federal Aviation Administration (FAA) warns that lithium batteries, including laptop batteries, are capable of overheating \"as a result of various factors, including if the battery is damaged, overheated, exposed to water, overcharged, or improperly packed\". The FAA recorded 58 verified lithium battery air incidents so far this year involving smoke, fire or extreme heat. In the last 20 years, the highest number of incidents was related to battery packs, with 84 cases related to laptops. Lithium batteries must be stowed in carry-on baggage only, the US regulator says. In May, a UK-bound EasyJet flight from Egypt was diverted to Rome after a power bank was found to be charging in a passenger's luggage in the hold of the aircraft. The flight was rescheduled for the next day. The UK's aviation regulator the Civil Aviation Authority has said power banks are causing a growing number of serious issues on flights worldwide, and urged more awareness as portable chargers carry \"serious risks\" of overheating or catching fire.",
-          "url": "https://www.bbc.com/news/articles/ce979zpjj85o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c85e/live/8f3dc3c0-9e09-11f1-95e0-53a570c83624.jpg",
-          "published_at": "2026-08-22T09:45:29Z",
-          "embed_url": "https://www.bbc.com/news/articles/ce979zpjj85o",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -3912,7 +3912,7 @@
           "source_kind": "story",
           "title": "The founder's secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it | TechCrunch",
           "summary": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
-          "body_text": "Want to know what separates the founders and operators who build industry-defining companies from everyone else? They understand how ecosystems work. They’ve seen how the best events are orchestrated, how networks are built, and how real opportunities emerge. You can get an insider’s view by volunteering at TechCrunch Disrupt 2026 , taking place October 13-15 at San Francisco’s Moscone West. You’ll work alongside the TechCrunch team that produces the tech event at the epicenter of startup culture. You’ll see founders pitch their biggest ideas. You’ll watch VCs make investment decisions. You’ll understand the mechanics of how the tech industry actually operates — knowledge that pays dividends whether you’re launching your own company, building a career in tech, or investing. And you get free general admission for all three days. The people running TechCrunch Disrupt 2026 learned by doing it. Now it’s your turn. We prefer volunteers to be local to San Francisco but it’s not required. The best networkers in tech aren’t just attendees — they’re also part of the team that makes it happen. Become a TechCrunch Disrupt 2026 volunteer . When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. In less than 48 hours, your chance to save up to $300 on your tickets will end! Michael Polansky is training an AI model on skin that’s still alive How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours Tesla’s solar roof is dead — here’s what went wrong",
+          "body_text": "Want to know what separates the founders and operators who build industry-defining companies from everyone else? They understand how ecosystems work. They’ve seen how the best events are orchestrated, how networks are built, and how real opportunities emerge. You can get an insider’s view by volunteering at TechCrunch Disrupt 2026 , taking place October 13-15 at San Francisco’s Moscone West. You’ll work alongside the TechCrunch team that produces the tech event at the epicenter of startup culture. You’ll see founders pitch their biggest ideas. You’ll watch VCs make investment decisions. You’ll understand the mechanics of how the tech industry actually operates — knowledge that pays dividends whether you’re launching your own company, building a career in tech, or investing. And you get free general admission for all three days. The people running TechCrunch Disrupt 2026 learned by doing it. Now it’s your turn. We prefer volunteers to be local to San Francisco but it’s not required. The best networkers in tech aren’t just attendees — they’re also part of the team that makes it happen. Become a TechCrunch Disrupt 2026 volunteer . When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. In less than 48 hours, your chance to save up to $300 on your tickets will end! Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research Michael Polansky is training an AI model on skin that’s still alive How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
           "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
           "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/TC-Disrupt-2025.jpg?resize=1200,800",
           "published_at": "2026-08-19T14:02:00Z",
@@ -4174,8 +4174,8 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Liam Nebel misstänks för skolattacken",
-          "summary": "Liam Nebel, 18, misstänks för svärdattacken på Brinellskolan i Fagersta. I sociala medier delade han hyllningsvideor på massmördare – men skolkamrater beskriver honom som en lugn och ”helt vanlig” kille. Den misstänkte skolmördaren var med under lektioner i veckan – och på fredagseftermiddagen utförde han dådet som skakat ett helt land. På söndagen häktades han, misstänkt för mord och mordförsök.",
-          "body_text": "Liam Nebel, 18, misstänks för svärdattacken på Brinellskolan i Fagersta. I sociala medier delade han hyllningsvideor på massmördare – men skolkamrater beskriver honom som en lugn och ”helt vanlig” kille. Den misstänkte skolmördaren var med under lektioner i veckan – och på fredagseftermiddagen utförde han dådet som skakat ett helt land. På söndagen häktades han, misstänkt för mord och mordförsök. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Klockan 14:06 på fredagen fick polisen larm om pågående dödligt våld på Brinellskolan i Fagersta . En man med mörka kläder, hjälm och mask attackerade personer med svärd. Elever flydde svärdmannen i panik. Men alla hann inte undan. En 17-årig flicka dödades. Tre tonårspojkar skadades i samband med händelsen. Den misstänkte gärningsmannen – 18-årige Liam Nebel – greps tio minuter efter att larmet inkom. Han är nu häktad, misstänkt för mord och mordförsök på sannolika skäl. Liam Nebel började på el- och energiprogrammet på Brinellskolan förra året. En klasskamrat beskriver honom som ”en helt vanlig person”. – Det var inget konstigt med honom. Han var en vanlig elev, skötte sig. Han var lugn. Man kunde prata och skratta med honom. Men vi var inte nära vänner och brukade inte hänga efter skolan. Jag vet inget om hans privata liv.",
+          "summary": "Liam Nebel, 18, misstänks för svärdattacken på Brinellskolan i Fagersta. I sociala medier delade han hyllningsvideor på massmördare – men skolkamrater beskriver honom som en lugn och ”helt vanlig” kille. Den misstänkte skolmördaren var med under lektioner i veckan – och på fredagseftermiddagen utförde han dådet som skakat ett helt land. På söndagen häktades han, misstänkt för mord och mordförsök. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app",
+          "body_text": "Liam Nebel, 18, misstänks för svärdattacken på Brinellskolan i Fagersta. I sociala medier delade han hyllningsvideor på massmördare – men skolkamrater beskriver honom som en lugn och ”helt vanlig” kille. Den misstänkte skolmördaren var med under lektioner i veckan – och på fredagseftermiddagen utförde han dådet som skakat ett helt land. På söndagen häktades han, misstänkt för mord och mordförsök. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Klockan 14:06 på fredagen fick polisen larm om pågående dödligt våld på Brinellskolan i Fagersta . En man med mörka kläder, hjälm och mask attackerade personer med svärd. Elever flydde svärdmannen i panik. Men alla hann inte undan. En 17-årig flicka dödades. Tre tonårspojkar skadades i samband med händelsen. Den misstänkte gärningsmannen – 18-årige Liam Nebel – greps tio minuter efter att larmet inkom. Han är nu häktad, misstänkt för mord och mordförsök på sannolika skäl. Liam Nebel började på el- och energiprogrammet på Brinellskolan förra året. En klasskamrat beskriver honom som ”en helt vanlig person”.",
           "url": "https://www.expressen.se/nyheter/sverige/liam-nebel-18-misstanks-for-skolattacken-i-fagersta/",
           "image_url": "https://static.bonniernews.se/images/9f/41/9f418065b98641c1a12ab469f2122d31/16x9/original.png",
           "published_at": "2026-08-23T10:23:35Z",
@@ -4190,20 +4190,20 @@
           "sort_order": 0
         },
         {
-          "id": "db4a7ab4b7b1",
+          "id": "3a8bff8b728f",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "18-åringen häktad",
-          "summary": "Liam Nebel, 18, som misstänks för attacken mot Brinellskolan i Fagersta häktas. Det skriver Åklagarmyndigheten i ett pressmeddelande.",
-          "body_text": "Liam Nebel, 18, som misstänks för attacken mot Brinellskolan i Fagersta häktas. Det skriver Åklagarmyndigheten i ett pressmeddelande. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Liam Nebel häktas på sannolika skäl misstänkt för mord och mordförsök. Häktningen skedde i Västmanlands tingsrätt på söndagen. En 17-årig flicka dödades och tre skadades i skolattacken i Fagersta i fredags. Liam Nebel misstänks ha gått till attack med ett svärd inne på skolan. Tio minuter efter att det första larmet om dådet kom kunde han gripas. Vid 14.06 på fredagen 21 augusti kom det första larmet om pågående dödligt våld på gymnasieskolan Brinellskolan i Fagersta. En person hade gått till attack med ett svärd inne på skolan. Tre minuter senare var polisen på plats vid skolan. Klockan 14.16 meddelades det att en ”gärningsperson var bekämpad med verkanseld”, och senare gripen. En person har dödats och tre personer har skadats, varav två allvarligt. De tre skadade är pojkar i 12-17-årsåldern, enligt Region Västmanland. En 18-årig man misstänks för dådet. Mannen är elev på skolan. Polisen har inte uttalat sig om något motiv. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/krim/misstankte-18-aringen-i-fagersta-haktas/",
-          "image_url": "https://static.bonniernews.se/images/aa/bc/aabcbc5aaa524833bf41817c44f005db/16x9/original.jpg",
+          "title": "Liam Nebel häktad för skolattacken",
+          "summary": "Liam Nebel, 18, som misstänks för attacken mot Brinellskolan i Fagersta häktas.",
+          "body_text": "Liam Nebel, 18, som misstänks för skolattacken i Fagersta häktas. Det skriver Åklagarmyndigheten i ett pressmeddelande. – Han medgav att det förelåg sannolika skäl för misstanke om mord, säger försvarsadvokaten Anes Sabic. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Liam Nebel, 18, häktades på söndagen på sannolika skäl misstänkt för mord och mordförsök. Häktningen skedde i Västmanlands tingsrätt. – Han medgav att det förelåg sannolika skäl för misstanke om mord. Han bestred att det förelåg sannolika skäl för misstanke om försök till mord, säger mannens försvarsadvokat Anes Sabic. Anes Sabic understryker att medgivandet endast handlar om åklagarens framställan om häktning och frågan om sannolika skäl. – Vad hans inställning gällande konkreta brottsmisstankarna, det kommer jag inte yttra mig kring, säger han. En 17-årig flicka dödades och tre skadades i skolattacken i Fagersta i fredags. Liam Nebel misstänks ha gått till attack med ett svärd inne på skolan. Tio minuter efter att det första larmet om dådet kom kunde han gripas. Vid 14.06 på fredagen 21 augusti kom det första larmet om pågående dödligt våld på gymnasieskolan Brinellskolan i Fagersta. En person hade gått till attack med ett svärd inne på skolan.",
+          "url": "https://www.expressen.se/nyheter/krim/liam-nebel-haktas-misstankt-for-skolattacken-i-fagersta/",
+          "image_url": "https://static.bonniernews.se/images/42/a0/42a0011e28f44f1bbffd95971591cfa6/16x9/original.png",
           "published_at": "2026-08-23T10:22:31Z",
-          "embed_url": "https://www.expressen.se/nyheter/krim/misstankte-18-aringen-i-fagersta-haktas/",
+          "embed_url": "https://www.expressen.se/nyheter/krim/liam-nebel-haktas-misstankt-for-skolattacken-i-fagersta/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4245,11 +4245,11 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "SL varnar för trängsel",
+          "title": "SL varnar: Tusentals människor väntas",
           "summary": "Tiotusentals människor kan komma att tåga genom Stockholms gator under söndagen. Demonstrationen anordnas till stöd för klimatet.",
           "body_text": "Tiotusentals människor kan komma att tåga genom Stockholms gator under söndagen. Demonstrationen anordnas till stöd för klimatet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Över 250 organisationer deltar i ”Den stora klimatdemonstrationen” som anordnas av Naturskyddsföreningen, Researcher's desk, Rebellmammorna och Rebellpapporna. Demonstrationen är partipolitiskt obunden och arrangören uppmanar på sin hemsida deltagare att undvika partipolitiska symboler eller länders flaggor. Många människor väntas delta i demonstrationståget, som går från Vasaparken till Gustav Adolfs torg. Naturskyddsföreningen säger till Mitti att man räknar med över 10 000 deltagare. Senast i april anordnades en liknande demonstration i Stockholm . Då samlades över 6 000 deltagare. Flera busslinjer i Stockholms innerstad påverkas av demonstrationen, enligt SL som varnar för trängsel och uppmanar till att vara ute i god tid. Det kan även bli störningar för biltrafiken i city. Polisen har dock inte planerat att stänga av några vägar eller platser, rapporterar Mitti. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/sverige/sl-varnar--stor-klimatdemonstration-i-centrala-stockholm/",
-          "image_url": "https://static.bonniernews.se/images/ef/eb/efeb552044354bffb5e3cf76f00eab2c/16x9/original.jpg",
+          "image_url": "https://static.bonniernews.se/images/31/2f/312f34083ec447d5baa15dc09eeb6362/16x9/original.jpg",
           "published_at": "2026-08-23T08:59:19Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/sl-varnar--stor-klimatdemonstration-i-centrala-stockholm/",
           "play_mode": "page_iframe",
@@ -4318,8 +4318,8 @@
           "surface": "newsroom",
           "source_kind": "story",
           "title": "Fredrik, 16, körde huggen pojke till sjukhuset: ”Panik”",
-          "summary": "En snabbtänkt 16-åring kan ha räddat livet på ett av offren på Brinellskolan. Fredrik Ericson, 16, såg en pojke huggas ner med svärd i elevhallen, och körde sen den kraftigt blödande 16-åringen till sjukhuset i Fagersta i sin gamla EPA. – Han var svårt stucken i både arm och rygg, berättar Fredrik Ericson.",
-          "body_text": "En snabbtänkt 16-åring kan ha räddat livet på ett av offren på Brinellskolan. Fredrik Ericson, 16, såg en pojke huggas ner med svärd i elevhallen, och körde sen den kraftigt blödande 16-åringen till sjukhuset i Fagersta i sin gamla EPA. – Han var svårt stucken i både arm och rygg, berättar Fredrik Ericson. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Klockan är ett par minuter över två, fredag eftermiddag. Fredrik Ericson har snart stökat av terminens första skolvecka, årskurs 2 på ekonomiprogrammet i Brinellskolan. Han sitter i elevhallen på nedre botten med en kompis och gör skoluppgifter. Runt om i uppehållsrummet finns ett 20-tal elever. Då ser han den misstänkte gärningsmannen komma in i elevhallen från trapphuset. Han bär en gammaldags krigshjälm på huvudet, och ett långt svärd som han svingar. 18-åringen bär en svart balaklava uppdragen över nedre delen av ansiktet. Han är klädd i en svart t-shirt med vitt tryck på. – Så hugger han en kille. Först i armen, sen i ryggen. Allt är så nära, kanske ett par tre meter bort. Och det är blod på golvet, det blir kaos. Det är en 16-årig förstaårselev som är offret, en kille som Fredrik Ericson spelat i samma fotbollslag som. Han är svårt skadad, men han lyckas lämna elevhallen med de andra. – Alla fick panik. Vi sprang ut därifrån. Vi bara flydde för att rädda våra liv, säger Fredrik Ericson. Han springer åt ett håll. Hans kompis åt ett annat. Ett 20-tal ungdomar flyr gärningsmannen.",
+          "summary": "En snabbtänkt 16-åring kan ha räddat livet på ett av offren på Brinellskolan. Fredrik Ericson, 16, såg en pojke huggas ner med svärd i elevhallen, och körde sen den kraftigt blödande 16-åringen till sjukhuset i Fagersta i sin gamla EPA. – Han var svårt stucken i både arm och rygg, berättar Fredrik Ericson. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app",
+          "body_text": "En snabbtänkt 16-åring kan ha räddat livet på ett av offren på Brinellskolan. Fredrik Ericson, 16, såg en pojke huggas ner med svärd i elevhallen, och körde sen den kraftigt blödande 16-åringen till sjukhuset i Fagersta i sin gamla EPA. – Han var svårt stucken i både arm och rygg, berättar Fredrik Ericson. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Klockan är ett par minuter över två, fredag eftermiddag. Fredrik Ericson har snart stökat av terminens första skolvecka, årskurs 2 på ekonomiprogrammet i Brinellskolan. Han sitter i elevhallen på nedre botten med en kompis och gör skoluppgifter. Runt om i uppehållsrummet finns ett 20-tal elever. Då ser han den misstänkte gärningsmannen komma in i elevhallen från trapphuset. Han bär en gammaldags krigshjälm på huvudet, och ett långt svärd som han svingar. 18-åringen bär en svart balaklava uppdragen över nedre delen av ansiktet. Han är klädd i en svart t-shirt med vitt tryck på. – Så hugger han en kille. Först i armen, sen i ryggen. Allt är så nära, kanske ett par tre meter bort. Och det är blod på golvet, det blir kaos. Det är en 16-årig förstaårselev som är offret, en kille som Fredrik Ericson spelat i samma fotbollslag som. Han är svårt skadad, men han lyckas lämna elevhallen med de andra. – Alla fick panik. Vi sprang ut därifrån. Vi bara flydde för att rädda våra liv, säger Fredrik Ericson.",
           "url": "https://www.expressen.se/nyheter/sverige/fredrik-16-korde-huggen-pojke-till-sjukhuset-efter-dadet-i-fagersta/",
           "image_url": "https://static.bonniernews.se/images/78/0d/780d9ea393fd47e2ac332c6219229fdc/16x9/original.png",
           "published_at": "2026-08-23T05:31:55Z",
