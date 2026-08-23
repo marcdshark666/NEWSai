@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T18:53:06Z",
+  "generated_at": "2026-08-23T19:19:07Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -311,7 +311,7 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 11,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
@@ -339,7 +339,7 @@
           "sort_order": 0
         },
         {
-          "id": "b1c88e06594c",
+          "id": "dc72e2ff1cb0",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
@@ -348,11 +348,11 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 21:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
-          "url": "https://www.svtplay.se/video/85ddXBz/rapport/ikvall-21-00",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 21 aug 09:30 2 min 59 sek Publicerades: Fre 21 aug 08:30 3 min 2 sek Publicerades: Fre 21 aug 07:30 2 min 56 sek",
+          "url": "https://www.svtplay.se/video/85ddXBz/rapport/ikvall-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-23T19:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/85ddXBz/rapport/ikvall-21-00",
+          "published_at": "2026-08-23T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/85ddXBz/rapport/ikvall-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -361,6 +361,54 @@
           ],
           "is_live": false,
           "sort_order": 1
+        },
+        {
+          "id": "f3194605ccb5",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Idag 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 21 aug 09:30 2 min 59 sek Publicerades: Fre 21 aug 08:30 3 min 2 sek Publicerades: Fre 21 aug 07:30 2 min 56 sek",
+          "url": "https://www.svtplay.se/video/eorrDxz/rapport/idag-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54773645/1787494241?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-23T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/eorrDxz/rapport/idag-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "96d6ccd949f7",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 22:15",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 21 aug 09:30 2 min 59 sek Publicerades: Fre 21 aug 08:30 3 min 2 sek Publicerades: Fre 21 aug 07:30 2 min 56 sek",
+          "url": "https://www.svtplay.se/video/ePBB5oA/rapport/igar-22-15?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54772772/1787430761?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-22T22:15:00Z",
+          "embed_url": "https://www.svtplay.se/video/ePBB5oA/rapport/igar-22-15?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
         },
         {
           "id": "e6c2239d52ef",
@@ -384,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "84649b6b4150",
@@ -408,7 +456,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "4fde1c7ef755",
@@ -432,7 +480,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "06b15ecdac24",
@@ -456,7 +504,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "4befcaa1fe56",
@@ -480,7 +528,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "f7dcbc45ed39",
@@ -504,7 +552,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "a715d440253f",
@@ -528,55 +576,31 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "0b99714c2c3c",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna special: Avgörs valet på TikTok?",
-          "summary": "För första gången finns alla partiledare på Tiktok, samtidigt som nästan hälften av alla förstagångsväljare säger att de oftare tar del av politik på sociala medier än i tidningar, radio och tv. Vad gör det här med politiken, och är det på en kinesisk plattform som framställs som en säkerhetsrisk som det svenska valet kommer att avgöras? Medverkande: Emanuel Karlsten, journalist, Kajsa Falasca, forskare, och Oscar Samuelsson, kommunikationsrådgivare. Programledare: Cecilia Tiberg.",
-          "body_text": "Allt du inte visste att du behövde veta om svensk politik Sveriges politiker som du aldrig har sett dem förut",
-          "url": "https://www.svtplay.se/video/jQ7EbBY/kulturnyheterna-special-2",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54184045/1779191150?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-05-20T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jQ7EbBY/kulturnyheterna-special-2",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "55f34127a308",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sommarjazz: Brad Mehldau",
-          "summary": "Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024)",
-          "body_text": "Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024) Brad Mehldau Trio at Nancy Jazz Pulsations 2024",
-          "url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52899126/1750165744?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-07-11T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
           "sort_order": 10
+        },
+        {
+          "id": "b66187b80586",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 16:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 21 aug 09:30 2 min 59 sek Publicerades: Fre 21 aug 08:30 3 min 2 sek Publicerades: Fre 21 aug 07:30 2 min 56 sek",
+          "url": "https://www.svtplay.se/video/jb335xD/rapport/igar-16-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54772016/1787408016?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-08-22T16:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jb335xD/rapport/igar-16-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 11
         }
       ]
     },
@@ -1697,6 +1721,231 @@
           "sort_order": 0
         },
         {
+          "id": "5ef157fb50e3",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Investment expert explains what is driving Wall Street firms to Texas | Fox News Video",
+          "summary": "Rastegar Property founder and CEO Ari Rastegar reacts to Goldman Sachs and Morgan Stanley expanding their footprint in Texas. This friendly business climate supports over 3.5 million small businesses.",
+          "body_text": "Rastegar Property founder and CEO Ari Rastegar reacts to Goldman Sachs and Morgan Stanley expanding their footprint in Texas. This friendly business climate supports over 3.5 million small businesses. Rastegar Property founder and CEO Ari Rastegar reacts to Goldman Sachs and Morgan Stanley expanding their footprint in Texas. He breaks down how business-friendly tax policies are driving Wall Street firms to the Lone Star State.",
+          "url": "https://www.foxnews.com/video/6403929353112",
+          "image_url": "https://a57.foxnews.com/assets.foxnews.com/images/fox-news/og/1024/512/og-fox-news.png?ve=1&tl=1",
+          "published_at": "2026-08-23T19:10:11Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403929353112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "8d69dc748cfd",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Former White House CIO weighs new ChatGPT limits for minors | Fox News Video",
+          "summary": "Former White House CIO Theresa Payton discusses OpenAI's new parental notification features and safety limits for teen ChatGPT users.",
+          "body_text": "Former White House CIO Theresa Payton discusses OpenAI's new parental notification features and safety limits for teen ChatGPT users. Former White House CIO Theresa Payton discusses OpenAI's new parental notification features and safety limits for teen ChatGPT users. Payton analyzes whether the tech company's safety measures go far enough to protect minors.",
+          "url": "https://www.foxnews.com/video/6403929050112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42580d3a-3b7e-401e-8334-02012100ab2f/175c6918-5602-48b1-a355-8e72a29156f4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T19:04:59Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403929050112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "43604c32520d",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Doug Burgum reveals extreme safety prep for DC IndyCar race | Fox News Video",
+          "summary": "Interior Secretary Doug Burgum details the safety and security measures for the Freedom 250 Grand Prix in Washington, D.C., on ‘The Sunday Briefing.’",
+          "body_text": "Interior Secretary Doug Burgum details the safety and security measures for the Freedom 250 Grand Prix in Washington, D.C., on ‘The Sunday Briefing.’",
+          "url": "https://www.foxnews.com/video/6403928034112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f498e64e-9476-43f6-bc76-458b6afac116/e0ed2835-5c3b-412b-accf-57a0936eb151/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T18:41:45Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403928034112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "b9e8626a0d14",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Former Indy500 winner previews his son’s participation in Freedom 250 Grand Prix | Fox News Video",
+          "summary": "Rahal Letterman Lanigan Racing co-owner Bobby Rahal discusses the inaugural Freedom 250 Grand Prix and his family’s racing legacy on ‘Fox News Live.’",
+          "body_text": "Rahal Letterman Lanigan Racing co-owner Bobby Rahal discusses the inaugural Freedom 250 Grand Prix and his family’s racing legacy on ‘Fox News Live.’ Three-time IndyCar champion and team co-owner Bobby Rahal joins Fox News to preview the historic inaugural Freedom 250 Grand Prix on the streets of Washington, D.C. Rahal discusses the unique racetrack layout around the National Mall, his family's multi-generational racing legacy and his emotional visit to Arlington National Cemetery to honor his veteran father.",
+          "url": "https://www.foxnews.com/video/6403927928112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c0cfdc1-46d4-4b4e-bba5-61fc908c791e/df65336b-d2ba-4520-94cc-d0fcc58c3a6f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T18:36:55Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403927928112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 4
+        },
+        {
+          "id": "26ae33f1e91f",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Donald Trump arrives at Freedom 250 Grand Prix in Washington DC | Fox News Video",
+          "summary": "President Donald Trump and Melania Trump arrive at the Freedom 250 Grand Prix in Washington, D.C. The president meets with racing officials and drivers on the track before waving the green flag for the historic street race.",
+          "body_text": "President Donald Trump and Melania Trump arrive at the Freedom 250 Grand Prix in Washington, D.C. The president meets with racing officials and drivers on the track before waving the green flag for the historic street race. President Donald Trump and Melania Trump arrive at the Freedom 250 Grand Prix in Washington, D.C. Trump greets racing officials and drivers on the 1.7-mile street circuit surrounding the National Mall. The high-profile visit comes as the capital hosts its first-ever IndyCar event, where Trump is set to take a lap of honor and wave the green flag.",
+          "url": "https://www.foxnews.com/video/6403926065112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36a20c81-dad5-442b-9434-2f03f95809a5/97fd6e2a-39f5-4de5-866c-b0ff1cad7e70/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T18:24:33Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403926065112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "b127c4fd2301",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Dramatic bodycam footage shows Tennessee police save baby, Florida carjacker caught | Fox News Video",
+          "summary": "Tennessee police officers save a baby who stopped breathing, while Florida authorities apprehend a carjacker after a high-speed chase. Fox News' Madison Scarpino reports on these heroic law enforcement actions.",
+          "body_text": "Tennessee police officers save a baby who stopped breathing, while Florida authorities apprehend a carjacker after a high-speed chase. Fox News' Madison Scarpino reports on these heroic law enforcement actions. Newly released bodycam footage captures Tennessee police officers saving a newborn baby who stopped breathing, while Florida authorities apprehend an alleged carjacker following a high-speed chase. In Georgia, a shoplifting suspect is arrested after dragging an officer during a traffic stop. Fox News' Madison Scarpino highlights the dangerous and heroic daily actions of local law enforcement.",
+          "url": "https://www.foxnews.com/video/6403926647112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c4a1920-6ac7-466a-bf2c-5abf81603193/a9a6d130-1c24-4db9-bc33-24e8e391c221/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T18:22:17Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403926647112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 6
+        },
+        {
+          "id": "0e863ec9999c",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "McLaughlin reveals what happens behind the wheel ahead of Freedom 250 Grand Prix | Fox News Video",
+          "summary": "IndyCar driver Scott McLaughlin discusses the Freedom 250 Grand Prix on the streets of Washington, D.C. McLaughlin shares pre-race insights, physical demands and his path to becoming a U.S. citizen.",
+          "body_text": "IndyCar driver Scott McLaughlin discusses the Freedom 250 Grand Prix on the streets of Washington, D.C. McLaughlin shares pre-race insights, physical demands and his path to becoming a U.S. citizen. IndyCar driver Scott McLaughlin discusses the Freedom 250 Grand Prix on the streets of Washington, D.C. McLaughlin shares pre-race insights, physical demands and his path to becoming a U.S. citizen. McLaughlin tells Fox News' Peter Doocy what 'racing into history' is like.",
+          "url": "https://www.foxnews.com/video/6403925960112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37284d2b-5564-40cb-b78b-3eeee359f7a8/e08c84ed-8714-44ee-a3e3-85f3300b9b7b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T18:11:27Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403925960112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 7
+        },
+        {
+          "id": "737082c1a019",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rep Biggs calls for increased border protection amid gubernatorial run | Fox News Video",
+          "summary": "Correspondent Natalie Chuck reports on exclusive footage of ICE agents arresting illegal immigrants in Los Angeles. Rep. Andy Biggs joins 'Fox News Live' to discuss immigration enforcement and his Arizona gubernatorial run against Katie Hobbs.",
+          "body_text": "Correspondent Natalie Chuck reports on exclusive footage of ICE agents arresting illegal immigrants in Los Angeles. Rep. Andy Biggs joins 'Fox News Live' to discuss immigration enforcement and his Arizona gubernatorial run against Katie Hobbs. Immigration enforcement operations ramp up in California as federal officers arrest undocumented immigrants with criminal records in Los Angeles. Correspondent Natalie Chuck joins Mike Emanuel with exclusive footage of the raids, including an interview with a repeat deportee. Rep. Andy Biggs, Republican candidate for Arizona governor, analyzes the expansion of ICE operations and previews his campaign against Katie Hobbs.",
+          "url": "https://www.foxnews.com/video/6403927227112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fac5dfdd-2ab1-4511-a162-5e2e6b43f2e1/b3c096b0-c464-4bdf-86aa-134563727041/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T18:10:04Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403927227112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": true,
+          "sort_order": 8
+        },
+        {
+          "id": "610c49b8c246",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Democrats need to ‘make peace’ within their own house ahead of midterms: WSJ reporter | Fox News Video",
+          "summary": "Panelists Philip Wegmann and Yemisi Egbewole analyze campaign messaging ahead of the midterm elections and a reported meeting between Rep. Hakeem Jeffries, D-N.Y., and U.S. special envoy for peace Jared Kushner on ‘The Sunday Briefing.’",
+          "body_text": "Panelists Philip Wegmann and Yemisi Egbewole analyze campaign messaging ahead of the midterm elections and a reported meeting between Rep. Hakeem Jeffries, D-N.Y., and U.S. special envoy for peace Jared Kushner on ‘The Sunday Briefing.’",
+          "url": "https://www.foxnews.com/video/6403924477112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a219a1fd-1bc5-449b-aa2c-cde33f515b77/1e853f76-b012-43b8-a922-3966af0ba8be/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-23T17:56:56Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403924477112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 9
+        },
+        {
           "id": "3f7c6f4345c0",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1711,231 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8663c9f0-45db-49d8-90dd-11d11d9bf971/92e5f2d0-2b8b-4c62-9b61-58743bfa96bb/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-23T17:07:17Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403924440112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "3be99047c485",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sen Todd Young praises rapid disaster relief response for Indiana storms | Fox News Video",
-          "summary": "Indiana Sen. Todd Young joins 'The Sunday Briefing' to discuss the historic IndyCar race in Washington, D.C., first lady Melania Trump's 'Fostering the Future' initiative and emergency relief efforts for severe flooding in Indiana.",
-          "body_text": "Indiana Sen. Todd Young joins 'The Sunday Briefing' to discuss the historic IndyCar race in Washington, D.C., first lady Melania Trump's 'Fostering the Future' initiative and emergency relief efforts for severe flooding in Indiana. Indiana Sen. Todd Young joins 'The Sunday Briefing' from Washington, D.C., to discuss the inaugural Freedom 250 Grand Prix as pre-race events begin. Young highlights first lady Melania Trump's 'Fostering the Future' scholarship initiative using the IndyCar platform. He also addresses severe flooding in Indiana, pushing for critical emergency aid and power restoration for thousands of residents.",
-          "url": "https://www.foxnews.com/video/6403922955112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6475ccda-f53f-4c81-9b67-57d161903e9e/8d461f6a-5273-47e5-be2a-19aac9466d63/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T16:53:33Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403922955112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "a4d0228737ac",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Longtime Fauci advisor pleads guilty to federal conspiracy charge | Fox News Video",
-          "summary": "Rep. Brandon Gill, R-Texas, discusses Dr. Anthony Fauci advisor Dr. David Morens pleading guilty to federal conspiracy charges, the rising national debt and more on ‘Sunday Morning Futures.’",
-          "body_text": "Rep. Brandon Gill, R-Texas, discusses Dr. Anthony Fauci advisor Dr. David Morens pleading guilty to federal conspiracy charges, the rising national debt and more on ‘Sunday Morning Futures.’ Rep. Brandon Gill, R-Texas, reacts to Dr. Anthony Fauci's former advisor Dr. David Morens pleading guilty to a federal conspiracy charge. Speaking on 'Sunday Morning Futures,' Gill criticizes the federal government's transparency failures regarding COVID-19 origins. He also sounds the alarm on the U.S. national debt officially surpassing $40 trillion, warning of long-term economic consequences for taxpayers.",
-          "url": "https://www.foxnews.com/video/6403924118112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5793807-3021-4f35-9566-d8395775b7e3/f17529d3-fed8-4043-868d-e77d35691881/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T16:49:37Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403924118112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "3392fe70e683",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sen Barrasso warns of escalating Iran conflict, impact of Trump’s economic sanctions | Fox News Video",
-          "summary": "Senate Majority Whip John Barrasso, R-Wyo., joins ‘Sunday Morning Futures’ to discuss U.S.-Iran tensions, President Donald Trump’s plans to escalate sanctions and the GOP’s legislative agenda ahead of the midterms.",
-          "body_text": "Senate Majority Whip John Barrasso, R-Wyo., joins ‘Sunday Morning Futures’ to discuss U.S.-Iran tensions, President Donald Trump’s plans to escalate sanctions and the GOP’s legislative agenda ahead of the midterms. Senate Majority Whip John Barrasso joins ‘Sunday Morning Futures’ to analyze escalating U.S.-Iran tensions, the impact on energy markets and President Donald Trump’s strategy to increase economic pressure on Tehran. The Wyoming Republican also discusses the rising U.S. national debt and outlines key GOP legislative priorities ahead of the 2026 midterm elections.",
-          "url": "https://www.foxnews.com/video/6403921944112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b00cc5e-568e-433c-8132-6c71474713b2/e5497ea6-617e-44a4-9392-acd2368c4d1c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T15:58:52Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403921944112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 4
-        },
-        {
-          "id": "e903cb75d034",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Iowa Senate battle heats up as GOP Rep Ashley Hinson targets Dem rival | Fox News Video",
-          "summary": "Iowa Rep. Ashley Hinson joins 'Sunday Morning Futures' to discuss her U.S. Senate campaign against Democrat Josh Turek, her stance on Trump's proposed beef import tariffs and GOP messaging ahead of the midterms.",
-          "body_text": "Iowa Rep. Ashley Hinson joins 'Sunday Morning Futures' to discuss her U.S. Senate campaign against Democrat Josh Turek, her stance on Trump's proposed beef import tariffs and GOP messaging ahead of the midterms. Iowa Rep. Ashley Hinson joins 'Sunday Morning Futures' to discuss her U.S. Senate bid. Hinson discusses the high-stakes race against Democratic opponent Josh Turek and details her opposition to proposed beef import tariffs. She outlines how Republicans plan to address inflation, lower consumer costs and shape their legislative platform ahead of the crucial November midterm elections.",
-          "url": "https://www.foxnews.com/video/6403921129112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb709c57-122a-420c-aa95-86e6ba4fa34b/92b80e8c-f407-4775-8941-447e49d913fd/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T15:35:36Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403921129112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 5
-        },
-        {
-          "id": "bc7df4a1888b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Sen. John Barrasso slams Dems for SAVE America Act opposition | Fox News Video",
-          "summary": "Wyoming Sen. John Barrasso discusses Democrats opposing the SAVE America Act ahead of the critical midterm elections on 'Sunday Morning Futures.'",
-          "body_text": "Wyoming Sen. John Barrasso discusses Democrats opposing the SAVE America Act ahead of the critical midterm elections on 'Sunday Morning Futures.' Wyoming Sen. John Barrasso joins 'Sunday Morning Futures' to discuss the SAVE America Act and Republican midterm election strategy. Barrasso outlines Republican support for the legislation while previewing the upcoming Senate runoff election in South Carolina.",
-          "url": "https://www.foxnews.com/video/6403920400112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f531a934-7b99-4984-b571-eece03a5b079/331a7661-7260-4310-8883-e7536b827208/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T15:33:07Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403920400112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "dfe8471d75a5",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Strait of Hormuz maritime traffic spikes as US military escorts oil tankers | Fox News Video",
-          "summary": "Fox News chief foreign correspondent Trey Yingst reports on economic sanctions against Iran. A panel also analyzes midterm election strategies and U.S. trade negotiations with Canada on 'Fox News Sunday.'",
-          "body_text": "Fox News chief foreign correspondent Trey Yingst reports on economic sanctions against Iran. A panel also analyzes midterm election strategies and U.S. trade negotiations with Canada on 'Fox News Sunday.' Fox News chief foreign correspondent Trey Yingst reports on the implementation of economic sanctions against Iran as the USS Abraham Lincoln concludes a nine-month deployment. The panel also discusses the administration strategy, midterm races and the trade dispute between the U.S. and Canada.",
-          "url": "https://www.foxnews.com/video/6403919935112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/855b652a-8daf-4ae5-8639-9779cd0f8777/904c903c-5b1b-4196-8707-982a812bb933/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T15:25:05Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403919935112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "0a31a9793fd6",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Anna Paulina Luna warns socialist surge is not 'organic' | Fox News Video",
-          "summary": "Rep. Anna Paulina Luna, R-Fla., joins 'Sunday Morning Futures' to discuss the progressive victories in Florida primaries and Senate Majority Leader Chuck Schumer's defense of Democratic Socialists of America members.",
-          "body_text": "Rep. Anna Paulina Luna, R-Fla., joins 'Sunday Morning Futures' to discuss the progressive victories in Florida primaries and Senate Majority Leader Chuck Schumer's defense of Democratic Socialists of America members. Rep. Anna Paulina Luna, R-Fla., joins 'Sunday Morning Futures' to discuss the progressive victories in Florida primaries and Senate Majority Leader Chuck Schumer's defense of Democratic Socialists of America members. She warns of the economic and social consequences of their far-left policies on American families.",
-          "url": "https://www.foxnews.com/video/6403922107112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bce6bc13-4cdf-4481-b05b-5aabe9880a94/c2c5cb79-d5ff-40c2-857e-53c62d067e4c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T15:23:41Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403922107112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "f64575e8eb4b",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Trump continues ballroom construction after Supreme Court win | Fox News Video",
-          "summary": "Fox News correspondent Lucas Tomlinson joins 'Fox News Sunday' to discuss President Donald Trump's continuation of ballroom construction after the Supreme Court's temporary order.",
-          "body_text": "Fox News correspondent Lucas Tomlinson joins 'Fox News Sunday' to discuss President Donald Trump's continuation of ballroom construction after the Supreme Court's temporary order. Fox News correspondent Lucas Tomlinson joins 'Fox News Sunday' to discuss President Donald Trump's continuation of ballroom construction after the Supreme Court's temporary order. Tomlinson also discusses the Freedom 250 Grand Prix race in Washington, D.C., and the president's economic campaign against the Iranian regime.",
-          "url": "https://www.foxnews.com/video/6403920031112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aff2454-3729-441a-b0d5-ea793387a427/df104b8a-7f21-4414-9575-0991e11203d9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T15:16:50Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403920031112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "fab2a7d2a305",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Pato O'Ward breaks down his strategy for Freedom 250 Grand Prix | Fox News Video",
-          "summary": "Arrow McLaren driver Pato O'Ward discusses race preparation and track layout for the Freedom 250 Grand Prix on 'Fox News Sunday.'",
-          "body_text": "Arrow McLaren driver Pato O'Ward discusses race preparation and track layout for the Freedom 250 Grand Prix on 'Fox News Sunday.' Arrow McLaren driver Pato O'Ward discusses race preparation and the track layout for the Freedom 250 Grand Prix on 'Fox News Sunday.' O'Ward outlines the 250-mile course along Pennsylvania Avenue in Washington, D.C., requiring four pit stops while lasting around three hours.",
-          "url": "https://www.foxnews.com/video/6403918325112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/436c163e-657e-4534-853c-f67b25584d55/bc976d53-7043-4ece-91e0-869c1967bfb7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T14:12:34Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403918325112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2022,20 +2046,20 @@
           "sort_order": 13
         },
         {
-          "id": "b2808aed360b",
+          "id": "13919aa8bb55",
           "source_id": "fox-news",
           "source_name": "Fox News",
           "provider": "Amerikansk media",
           "category": "USA",
           "surface": "video",
           "source_kind": "video",
-          "title": "WATCH LIVE: Trump, first lady attend the Freedom 250 Grand Prix in Washington, DC | Fox News Video",
-          "summary": "IndyCar drivers will race through the streets of the nation’s capital in a first-of-its-kind event, capping off a summer of celebration for America's 250th birthday.",
-          "body_text": "IndyCar drivers will race through the streets of the nation’s capital in a first-of-its-kind event, capping off a summer of celebration for America's 250th birthday.",
-          "url": "https://www.foxnews.com/video/6403920771112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b26656d9-ae69-43a1-8b93-725d07a13a24/919bb355-e629-4bce-9c54-fab3546f3728/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-23T14:13:27Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403920771112",
+          "title": "The Sunday Briefing - Sunday, August 23 | Fox News Video",
+          "summary": "The Sunday Briefing, Peter Doocy, IndyCar, Washington DC, Freedom 250 Grand Prix",
+          "body_text": "The Sunday Briefing, Peter Doocy, IndyCar, Washington DC, Freedom 250 Grand Prix Jacqui Heinrich and Peter Doocy feature newsmakers and expert analysis on the week's top stories.",
+          "url": "https://www.foxnews.com/video/6403927245112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/59ff1122-f4b8-4d8b-9d3e-a2b3ec90d0b7/a94326cf-db1c-44e1-a544-0412c8959913/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-23T18:15:00Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403927245112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2043,7 +2067,7 @@
             "USA",
             "Amerikansk media"
           ],
-          "is_live": true,
+          "is_live": false,
           "sort_order": 14
         },
         {
@@ -2362,7 +2386,7 @@
           "source_kind": "mixed",
           "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
           "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-          "body_text": "US President Donald Trump has said Canada wants \"the benefits of being a State, without being one\" after trade talks between the two countries collapsed late on Friday. In his first comments since negotiations broke down, triggering new 50% US tariffs on a range of Canadian goods, Trump also said American farmers had been charged \"massive amounts of Tariffs\" for years. It comes after Canadian Prime Minister Mark Carney called the fresh tariffs a \"miscalculation\" designed to \"hurt and divide us\". Carney confirmed he would match Trump's tariffs \"dollar-for-dollar\" from 8 September, including levies on steel, dairy, appliances and electronics. The US and Canada are now in a trade \"war\", he said. \"They asked too much and they offered too little,\" Carney said on Saturday. \"You're at war when you get attacked. We got attacked,\" he added. Trump's latest comments echo his repeated references to making Canada the \"51st state\" of America since returning to office, sparking frustration among its leaders and residents. The collapse of the trade talks upended a deeply integrated trading relationship, with no clear path to resolution. \"We cannot accept what they've offered, and we will not give what they've asked,\" Carney said. Both countries were optimistic of a deal earlier in the week, but talks fell apart after both sides accused the other of making last-minute changes. The new 50% US tariffs will apply to a range of Canadian goods, in addition to existing US tariffs on Canadian steel, aluminium, automobiles and lumber. They are limited in scope, covering about $20bn (£15bn; C$28bn) of Canadian imports, or about 5% in total, including wine, dairy, cement, clothing and hockey equipment. The prime minister said Canada was retaliating \"reluctantly\" to protect its interests. Details of the counter-measures will be released in the coming days, he said.",
+          "body_text": "US President Donald Trump has said Canada wants \"the benefits of being a State, without being one\" after trade talks between the two countries collapsed late on Friday. His comments come after negotiations broke down, triggering new 50% US tariffs on a range of Canadian goods, Trump also said American farmers had been charged \"massive amounts of Tariffs\" for years. Canadian Prime Minister Mark Carney called the fresh tariffs a \"miscalculation\" designed to \"hurt and divide us\". Carney confirmed he would match Trump's tariffs \"dollar-for-dollar\" from 8 September, including levies on steel, dairy, appliances and electronics. The US and Canada are now in a trade \"war\", he said. \"They asked too much and they offered too little,\" Carney said on Saturday. \"You're at war when you get attacked. We got attacked,\" he added. Trump's latest comments echo his repeated references to making Canada the \"51st state\" of America since returning to office, sparking frustration among its leaders and residents. The collapse of the trade talks upended a deeply integrated trading relationship, with no clear path to resolution. \"We cannot accept what they've offered, and we will not give what they've asked,\" Carney said. On Sunday, while speaking to Fox News, Trump said the Canadians were \"foolish\" to engage in a trade war with the US and think they will \"actually win\". Both countries were optimistic of a deal earlier in the week, but talks fell apart after both sides accused the other of making last-minute changes. The new 50% US tariffs will apply to a range of Canadian goods, in addition to existing US tariffs on Canadian steel, aluminium, automobiles and lumber. They are limited in scope, covering about $20bn (£15bn; C$28bn) of Canadian imports, or about 5% in total, including wine, dairy, cement, clothing and hockey equipment.",
           "url": "https://www.bbc.com/news/articles/cx272np7vgyo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
           "published_at": "2026-08-22T15:44:57Z",
@@ -4456,7 +4480,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "Europaparlamentarikerna Jonas Sjöstedt (V) och Hanna Gedin (V) är bannade från att resa in i Israel, rapporterar Jerusalem Post. Anledningen är att Israels utrikesminister anser att de konsekvent arbetat mot Israel de senaste åren, bland annat genom att kalla Israels aktioner i Gaza för folkmord. Sjöstedt och Gedin skulle ha rest in i Israel för att imorgon åka till Västbanken för ett planerat besök hos den palestinska myndigheten, rapporterar Ekot. Norska kung Harald fördes till sjukhus i början av veckan. Nu berättar norska hovet att kungen blir kvar på sjukhuset och att situationen förvärrats. \"Hans Majestät Konungens hälsa försämrades under helgen. Kungen får antibiotika för en bakteriell infektion i blodet och har svarat bra på denna behandling.\", skriver kungahuset. Kungen lades in på Rikshospitalet i Oslo i måndags på grund av vätskeansamlingar i kroppen, rapporterar TT. 89-årige kung Harald har vårdats på sjukhus flera gånger de senaste åren. En ko ska befinna sig på E22 i höjd med Åserum, enligt flera larmsamtal till polisen. Patrull är på väg för att försöka hitta kon. Polisen skriver att de tar kontakt med gårdar i närheten för att se om någon saknar sitt djur. Polis och ambulans larmades till en bostad i Kungsbacka kommun på söndagsmorgonen. Där hittades en medvetslös kvinna som sedan kunde konstateras avliden. Polisen inledde en förundersökning gällande mord. – En man befann sig i bostaden och han togs in på förhör, säger Magnus Schildt, vakthavande befäl.",
+          "body_text": "Ett eritreanskt passagerarflygplan har landat på Arlanda och i samband med det har räddningstjänsten behövt rycka ut. – Det har varit rökutveckling ur en motor, säger Lars Grantinger, flygräddningsledare. Planet hade Arlanda som destination och det är oklart om det rör sig om en nödlandning. Passagerarna är kvar ombord på planet enligt räddningstjänsten. Europaparlamentarikerna Jonas Sjöstedt (V) och Hanna Gedin (V) är bannade från att resa in i Israel, rapporterar Jerusalem Post. Anledningen är att Israels utrikesminister anser att de konsekvent arbetat mot Israel de senaste åren, bland annat genom att kalla Israels aktioner i Gaza för folkmord. Sjöstedt och Gedin skulle ha rest in i Israel för att imorgon åka till Västbanken för ett planerat besök hos den palestinska myndigheten, rapporterar Ekot. Norska kung Harald fördes till sjukhus i början av veckan. Nu berättar norska hovet att kungen blir kvar på sjukhuset och att situationen förvärrats. \"Hans Majestät Konungens hälsa försämrades under helgen. Kungen får antibiotika för en bakteriell infektion i blodet och har svarat bra på denna behandling.\", skriver kungahuset. Kungen lades in på Rikshospitalet i Oslo i måndags på grund av vätskeansamlingar i kroppen, rapporterar TT. 89-årige kung Harald har vårdats på sjukhus flera gånger de senaste åren. En ko ska befinna sig på E22 i höjd med Åserum, enligt flera larmsamtal till polisen.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
