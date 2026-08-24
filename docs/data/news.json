@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:58:25Z",
+  "generated_at": "2026-08-24T11:28:08Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Besökt vännen på sjukhuset efter svärdattacken • ”Krossar mitt hjärta” Aryam, 17, var en meter från gärningsmannen: ”Så nära döden” Liam Nebel, 18, häktad för skolattacken i Fagersta Experten kritiserar regeringens skolsäkerhetspolitik: ”Quick-fix” Misstänkte 18-åringens uppväxt: Våld och begränsat med mat Experten förvånad över krigsutvecklingen • Ukraina firar 35 år av självständighet Dödliga anfall när Ukraina firar självständighet Här överraskar ukrainske soldaten sin dotter på födelsedagen Läraren Pablo kritisk • ”Växande fenomen” Ny larmrapport om lärare: ”Vi får inte gå sönder”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Besökt vännen på sjukhuset efter svärdattacken • ”Krossar mitt hjärta” Aryam, 17, var en meter från gärningsmannen: ”Så nära döden” Liam Nebel, 18, häktad för skolattacken i Fagersta Experten kritiserar regeringens skolsäkerhetspolitik: ”Quick-fix” Misstänkte 18-åringens uppväxt: Våld och begränsat med mat Experten förvånad över krigsutvecklingen • Ukraina firar 35 år av självständighet Dödliga anfall när Ukraina firar självständighet Här överraskar ukrainske soldaten sin dotter på födelsedagen",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1721,6 +1721,56 @@
           "sort_order": 0
         },
         {
+          "id": "5bdb06a05189",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump administration to roll out new sanctions against Iran | Fox News Video",
+          "summary": "The Trump administration unleashes massive economic sanctions against Iran to increase pressure on Tehran. Trey Yingst and Matt Whitaker discuss the geopolitical and economic fallout as Iranian oil threats escalate.",
+          "body_text": "The Trump administration unleashes massive economic sanctions against Iran to increase pressure on Tehran. Trey Yingst and Matt Whitaker discuss the geopolitical and economic fallout as Iranian oil threats escalate. The Trump administration unleashes massive economic sanctions against Iran in what officials call an 'Economic D-Day.' Foreign correspondent Trey Yingst reports on Tehran's threats to block the Strait of Hormuz as the Iranian Rial collapses. U.S. Ambassador to NATO Matt Whitaker joins 'Fox & Friends First' to analyze the military build-up and the White House's strategy to lower global energy prices.",
+          "url": "https://www.foxnews.com/video/6403950736112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1242e14b-1336-4e44-8ecf-e689a6cc1afb/3b82ff62-63f6-46cb-aeb5-a13b064e4da1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-24T11:07:54Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403950736112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "efc938ee5547",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Farmer faces thousands in losses after violent carjacking of produce van | Fox News Video",
+          "summary": "A Pennsylvania farmer recounts the devastating carjacking of his produce van, resulting in thousands of dollars in losses. The suspect attacked the driver, ransacked the vehicle, and destroyed crops.",
+          "body_text": "A Pennsylvania farmer recounts the devastating carjacking of his produce van, resulting in thousands of dollars in losses. The suspect attacked the driver, ransacked the vehicle, and destroyed crops. A Pennsylvania farmer is reeling from a violent carjacking that destroyed his produce van and cost him thousands. The suspect attacked the driver, ransacked the vehicle, and ruined a valuable crop harvest.",
+          "url": "https://www.foxnews.com/video/6403953704112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da33f9ad-bb3c-4b46-a9e2-23e5e8d4e453/42322065-28af-4b1e-a2c9-361de37750c5/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-24T11:04:57Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403953704112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "86bc77d3c10f",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1793,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "eb9bb1b1445a",
@@ -1768,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "5415559d61e4",
@@ -1793,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "c2b04c10d287",
@@ -1818,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "12409a56614c",
@@ -1843,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "32db3a81c211",
@@ -1868,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 8
         },
         {
           "id": "dcc162b855eb",
@@ -1893,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 9
         },
         {
           "id": "f7d8b5ba38d7",
@@ -1910,56 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29fe5ed3-53b0-4d42-b161-bee15f3cd1bc/365d413b-8705-4d40-a650-e632e567e950/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-24T09:16:40Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403949384112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "2d630582be89",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Supporting data centers is 'perilous' politically: Brian Kilmeade | Fox News Video",
-          "summary": "Fox News host Brian Kilmeade makes the case for expanding U.S. A.I. data centers on 'One Nation.'",
-          "body_text": "Fox News host Brian Kilmeade makes the case for expanding U.S. A.I. data centers on 'One Nation.'",
-          "url": "https://www.foxnews.com/video/6403941262112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88c740da-802b-4429-a12d-29474ec3c61a/362db9db-08b0-4091-9bac-1bd2ef1f7077/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-24T02:53:54Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403941262112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "6931e801204e",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "‘Misinformation’ about AI data centers is widespread, former Texas Gov Rick Perry says | Fox News Video",
-          "summary": "Former Texas Gov. Rick Perry discusses the impact of artificial intelligence data centers on the 2026 midterm elections on ‘One Nation.’",
-          "body_text": "Former Texas Gov. Rick Perry discusses the impact of artificial intelligence data centers on the 2026 midterm elections on ‘One Nation.’",
-          "url": "https://www.foxnews.com/video/6403938728112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ab52b6c-d992-4add-9a1d-a9d20f20d22f/df7f73fa-1d99-41d2-80a4-0f97776b50a6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-24T02:45:14Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403938728112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2046,6 +2046,31 @@
           "sort_order": 13
         },
         {
+          "id": "f176d1fcb92f",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "One Nation with Brian Kilmeade - Sunday, August 23 | Fox News Video",
+          "summary": "Data Center, AOC, Meta, Trump",
+          "body_text": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
+          "url": "https://www.foxnews.com/video/6403948008112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/18bb593f-8811-4c58-900c-59e5ee7e3acd/f9afabfb-07a5-401c-a3bf-1701c5061430/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "published_at": "2026-08-24T09:07:32Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403948008112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 14
+        },
+        {
           "id": "73c372790281",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -2060,31 +2085,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/bc768208-38e3-4aa0-8736-f952a02d180e/dfd6cd55-959e-4ab9-8dbc-574771bd90c6/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
           "published_at": "2026-08-24T05:38:48Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403943442112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 14
-        },
-        {
-          "id": "c44e2e8587ae",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Life, Liberty, Levin - Sunday, August 23 | Fox News Video",
-          "summary": "Democratic Socialists of America, Constitution, ted cruz clarence thomas biography",
-          "body_text": "Democratic Socialists of America, Constitution, ted cruz clarence thomas biography Explore the fundamental values and principles undergirding American society, culture and politics.",
-          "url": "https://www.foxnews.com/video/6403943897112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/14ca0fb2-1e9f-419c-92e5-b5417a135904/67606e5f-be1e-4891-873e-6a9da34d75f8/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "published_at": "2026-08-24T04:55:36Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403943897112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "b3fa0e28eb7c",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Kenya: Four arrested over suspected poisoning of elephants",
+          "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+          "body_text": "Four people have been arrested in Kenya as part of an investigation into a spate of mysterious elephant deaths over the past two months, officials have said. Three Kenyans and one Tanzanian have been detained on suspicion of poisoning at least 18 elephants in the Amboseli National Park, the Kenya Wildlife Service told the BBC. The investigation is looking into whether the elephants died from cyanide poisoning after eating large quantities of tomatoes sprayed with illegal pesticides. Preliminary laboratory tests have found traces of cyanide in samples of the crops taken from the elephants' stomachs. All of the affected elephants - mainly female adults and their calves - had also shown signs of paralysis, which authorities believe also points to cyanide poisoning. Tomato farms are found in the Kimana area, which is part of a corridor between Amboseli National Park and the Tsavo National Park in southern Kenya. It is a vast area known as the Amboseli ecosystem, which straddles the border near Tanzania where more than 2,000 elephants move along in search of food and water. Pesticides prohibited in Kenya are sometimes smuggled across this porous border with Tanzania and used in farms within the Amboseli area, where elephants live near human settlements and are known to raid farms for food. While regulations against illegal agrochemicals exist, there is weak enforcement and little attention paid to how they can affect animals. The suspects have been released on bail and the investigation continues.",
+          "url": "https://www.bbc.com/news/articles/c790w8wxv0do",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9ff1/live/98213ac0-9fa9-11f1-b109-879e35c24276.jpg",
+          "published_at": "2026-08-24T11:08:27Z",
+          "embed_url": "https://www.bbc.com/news/articles/c790w8wxv0do",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "e0623b6e327e",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2158,31 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
+        },
+        {
+          "id": "f308cafdb81a",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Iran faces 'greatest financial offensive ever', says US Treasury Secretary Scott Bessent",
+          "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+          "body_text": "The US treasury secretary has threated Iran with \"the single greatest financial offensive ever\", claiming the US-Israel war with Iran was \"entering its endgame\". Scott Bessent said the US would sever all economic ties with the country in \"an economic D-Day\" and that any nation partnering with Iran financially would also be isolated. Bessent's threat to the Iranian regime follows several U-turns and extended deadlines from US President Donald Trump's administration on previous threats. Iran dismissed Bessent's comments and said it would shut down all oil exports from the region \"if the war continues\", according to news agency Reuters. The Iranian regime has also issued a new warning to shipping not to pass through the Strait of Hormuz without its permission, the agency reported. One fifth of the world's oil and gas usually passes through strait, a waterway south of Iran, but the flow has been effectively blocked by the country since the conflict began at the end of February. Bessent made the comments in an opinion piece for the Financial Times . He did not detail what the economic pressure on Iran would involve, but he is expected to do so in a press conference in the US at 13:00 local time (18:00 BST) on Monday. \"The world should understand that our objective is to sever every economic lifeline that sustains the tyrannical regime until Tehran stands alone,\" he wrote in the piece. The US has made several threats to Iran over the course of its war with the country, including Trump saying in April that \"a whole civilisation will die tonight\" unless Iran agreed a deal to end the war and unblock the Strait of Hormuz. The US eventually climbed down from that position after mediator Pakistan intervened and called for more diplomacy. The Iranian regime already faces tough economic sanctions from the US. Former US president Barrack Obama and several US allies had agreed a deal with the country in 2015 which lifted many sanctions in return for Iran agreeing to limit its nuclear programme.",
+          "url": "https://www.bbc.com/news/articles/c0qxew81y83o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
+          "published_at": "2026-08-24T10:39:23Z",
+          "embed_url": "https://www.bbc.com/news/articles/c0qxew81y83o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 2
         },
         {
           "id": "359551952d39",
@@ -2146,7 +2194,7 @@
           "source_kind": "mixed",
           "title": "Zambia elections: Courts sealed as election petition deadline looms",
           "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-          "body_text": "Court premises in the Zambian capital, Lusaka, and elsewhere have been shut as the deadline for filing a petition against the outcome of the recent presidential election approaches. An unusual police presence has been reported at some courts, which have been taped off to prevent access. Opposition candidate Brian Mundubile said he would challenge the election result, citing irregularities, after coming second with a 38% share of the vote. Incumbent Hakainde Hichilema won a second term with 60%. Mundubile is in hiding over alleged threats made against him, amid a post-election period marked by controversy, including the shooting dead of an opposition figure and the arrest of others. Monday is the last day on which petition against the presidential election result can be filed. Such a petition could potentially affect the inauguration of Hichilema, which is scheduled for 1 September. On Monday, lawyers who arrived at the courts were being asked to depart. One lawyer told the BBC that three armed men approached his vehicle, identified themselves, and instructed him to leave the area. The courts that have been sealed off include the High Court in Lusaka, the Supreme Court, which also houses the Constitutional Court, and several local courts. It is unclear when the premises will reopen. The BBC has contacted the Zambian police and the judiciary for comment. Despite this, preparations for Hichilema's inauguration appear to be continuing. The youth and sport ministry has issued a media invitation for journalists to accompany a cabinet official on an inspection of arrangements at National Heroes Stadium, where the ceremony is expected to take place. Mundubile last week rejected the presidential election results and said he planned to challenge the outcome through the courts.",
+          "body_text": "Court premises in the Zambian capital, Lusaka, and elsewhere have been shut as the deadline for filing a petition against the outcome of the recent presidential election approaches. An unusual police presence has been reported at some courts, which have been taped off to prevent access. Opposition candidate Brian Mundubile said he would challenge the election result, citing irregularities, after coming second with a 38% share of the vote. Incumbent Hakainde Hichilema won a second term with 60%. Mundubile is in hiding over alleged threats made against him, amid a post-election period marked by controversy, including the shooting dead of an opposition figure and the arrest of others. Monday is the last day on which petition against the presidential election result can be filed. Such a petition could potentially affect the inauguration of Hichilema, which is scheduled for 1 September. On Monday, lawyers who arrived at the courts were being asked to depart. One lawyer told the BBC that three armed men approached his vehicle, identified themselves, and instructed him to leave the area. The courts that have been sealed off include the High Court in Lusaka, the Supreme Court, which also houses the Constitutional Court, and several local courts. It is unclear when the premises will reopen. The BBC has contacted the Zambian police and the judiciary for comment. Local media cite a directive by a judiciary administrative official telling all staff not to report to work following the closure of courts for \"security reasons\". The memo, which has also been shared online by some opposition figures, does not give details of the security situation. Some commentators have raised concerns over the closure while questioning the independence of the judiciary.",
           "url": "https://www.bbc.com/news/articles/cgrvjn88rxqo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ef6d/live/b2d751d0-9fa2-11f1-a83c-33ebef033ca4.jpg",
           "published_at": "2026-08-24T10:22:45Z",
@@ -2158,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "94902f8a3b0d",
@@ -2168,7 +2216,7 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "'Half of my business will be gone' - Bracing for fallout in the Canada-US trade war",
+          "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
           "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
           "body_text": "Cindy Baldassi relies on American buyers to keep her stone-and-glass jewellery company going. Some 75% of sales of pieces including amethyst, sea glass and agates from her business, CindyLouWho2, based in Calgary, Alberta, come from Americans. But after trade talks between the US and Canada collapsed over the weekend and leaders of both countries pledged to slap 50% tariffs on each other's products, business owners on both sides of the border are bracing for the fallout. With a majority of the items she sells falling under US President Donald Trump's newly imposed tariffs, Baldassi says she will need to add 50% to the price of most of her products to stay afloat. \"It's quite likely that it will wipe out most of my US sales,\" Baldassi told the BBC. \"I expect that at least half of my business will be gone.\" Canadian Prime Minister Mark Carney has pledged levies starting on 8 September on US steel, dairy, appliances and electronics. Trump tariffs went into effect on Saturday, hitting Canadian wine, dairy, cement, clothing and hockey equipment. In Canada, it is not clear how much more severe the impacts will be, since the country has grown somewhat used to the on-again-off-again trade war. Lind Furniture has been in business for almost 60 years in the Canadian province of Ontario, selling leather furniture to big store clients like Sears and Costco over the years. Sales dropped when Trump took office in 2025. \"As soon as there were tariffs in the air, people put purchases on hold,\" Michael Saifer, general manager of Lind Furniture, told the BBC. Now, his concern centres around Canadians' chances for victory. \"Everyone wants to sell to the Americans - they can buy from whoever they want,\" he said. \"I don't know that we're going to win a war with them; we may get killed.\" The US tariffs that took effect after talks broke off on Friday apply to about $20bn (£15bn; C$28bn) worth of Canadian exports to the US - about 5% of what Canada ships to the US annually. The levies add to US tariffs already in place on Canadian steel, aluminium, automobiles and lumber.",
           "url": "https://www.bbc.com/news/articles/cy0j0zz8l83o",
@@ -2182,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "d3410e4ecea3",
@@ -2194,7 +2242,7 @@
           "source_kind": "mixed",
           "title": "Hawk fire: 90,000 told to evacuate as wildfire approaches Reno, Nevada",
           "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-          "body_text": "Tens of thousands of people have been told to evacuate from an area close to Reno, Nevada, as a large wildfire reached the outskirts of the city. Around 42,000 people have been ordered to leave their homes immediately, with a further 45,000 people urged to get ready to leave. The fire, which was first reported on Saturday morning, had so far injured six people, officials said. Windy and unpredictable weather conditions have contributed to its spread. Nevada's Governor Joe Lombardo has declared a state of emergency in Washoe County and ordered the National Guard to join firefighting and law enforcement efforts. \"This is an active and rapidly evolving situation and I urge everyone in the affected areas to remain vigilant and follow the direction of local officials,\" he said. The fire was caused by humans and first reported at 11:15 local time (18:15 GMT) on Saturday, according to local officials. The Washoe emergency information centre said around 15,000 acres (23 sq miles) had been burned. It said that, as of Sunday evening, no part of the fire's perimeter had yet been contained. Around 13,700 homes were inside the evacuation area, local emergency services said, with two shelters set up to take in displaced residents. Of the six injured, three were emergency responders fighting the fire. All Washoe County schools will be closed on Monday, except one, and mass road closures are in place. The immediate \"go now\" evacuation zone and wider \"get set\" area - where people are being warned to prepare to evacuate - do not extend to the centre of Reno, but do affect large urban areas and part of a highway.",
+          "body_text": "Tens of thousands of people have been told to evacuate from an area close to Reno, Nevada, as a large wildfire reached the outskirts of the city. Around 42,000 people have been ordered to leave their homes immediately, with a further 45,000 people urged to get ready to leave. The fire, which was first reported on Saturday morning, had so far injured six people, officials said. Windy and unpredictable weather conditions have contributed to its spread. Nevada's Governor Joe Lombardo has declared a state of emergency in Washoe County and ordered the National Guard to join firefighting and law enforcement efforts. \"This is an active and rapidly evolving situation and I urge everyone in the affected areas to remain vigilant and follow the direction of local officials,\" he said. The fire was caused by humans and first reported at 11:15 local time (18:15 GMT) on Saturday, according to local officials. The Washoe emergency information centre said around 15,000 acres (23 sq miles) had been burned. It said that, as of Sunday lunchtime, no part of the fire's perimeter had yet been contained. Around 13,700 homes were inside the evacuation area, local emergency services said, with two shelters set up to take in displaced residents. Of the six injured, three were emergency responders fighting the fire. Over the weekend, local officials described the fire as fast-moving, with windy weather and dry conditions contributing to its spread. \"The fire has definitely exploded in size,\" Lucia Starbuck, a local reporter for KUNR Public Radio, told the BBC.",
           "url": "https://www.bbc.com/news/articles/c4gqlp0yzyjo",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6e00/live/287ab570-9f95-11f1-b109-879e35c24276.jpg",
           "published_at": "2026-08-24T08:34:26Z",
@@ -2206,31 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "7ad5d1309f1d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Zolani Tete: Four arrested over boxing champion's murder in South Africa",
-          "summary": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
-          "body_text": "Four people have been arrested in South Africa in connection with the murder of boxing champion Zolani Tete, who was shot dead outside his home on Friday. Tete, 38, was gunned down in what has been described as an ambush in Mdantsane, Eastern Cape. A young woman who was with him was also shot and is in hospital. One of the men being held, a 22-year-old who was arrested on Saturday, will make an initial appearance in court on Monday, and faces murder and attempted murder charges. Tete held the WBO bantamweight title from 2017 to 2019, as well as the IBF super-flyweight title in 2014. He was later given a four-year ban, which lapsed in July this year. The remaining suspects, who were arrested on Sunday, are due in court on Tuesday. Two have been charged with unlawful possession of firearms and ammunition. It is unclear whether they will also be charged with murder and attempted murder. Tete was in his car waiting for the gate to his house to open when two armed suspects in balaclavas emerged from a vehicle and fired \"multiple shots\" at him and a 27‑year‑old female passenger, according to officials. The motive behind the attack is unclear. Tributes have been pouring in for the two-time world champion since his death. South Africa's Sports Minister Gayton McKenzie said: \"South Africa has lost one of the finest fighters it has ever produced.\" Former Sports Minister Fikile Mbalula also paid tribute to Tete, lamenting the loss of a \"a great South African who has made an immense contribution in the sport of boxing\". Tete beat Liverpool's Paul Butler in 2015 in one of the eight times he fought in the United Kingdom. He also holds a Guinness World Record for the fastest knockout in a title fight, ending his match with Siboniso Gonya inside 11 seconds in 2017. Tete last fought in July 2022, beating Briton Jason Cunningham by knockout In London, but it was later ruled a no-contest after he failed a drugs test.",
-          "url": "https://www.bbc.com/news/articles/cg7k9rmnzp7o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/268e/live/95256940-9f90-11f1-9fae-bbc7231f436d.jpg",
-          "published_at": "2026-08-24T08:32:46Z",
-          "embed_url": "https://www.bbc.com/news/articles/cg7k9rmnzp7o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "eb3fd1084296",
@@ -2254,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "2cc8b978b7f2",
@@ -2278,7 +2302,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "84a5835644df",
@@ -2302,7 +2326,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "1a3fa51196bd",
@@ -2326,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "65f44e821646",
@@ -2350,7 +2374,31 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
+        },
+        {
+          "id": "83fab2c7a5f6",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Leah Stewart: Australian shark attack victim grateful for 'second chance at life'",
+          "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+          "body_text": "An Australian woman bitten by a shark at a popular Sydney beach earlier this year says she has been given a \"second chance at life\" and will be making the most of it. Leah Stewart, 34, was mauled by a shark during a morning swim at Coogee Beach in June, suffering multiple bites to her arms and legs, amid a spate of attacks in Australia. The mother-of-one was placed in an induced coma and had several surgeries, including having one of her arms amputated. In an online post on Monday, she thanked her supporters who have raised more than AU$550,000 (US$394,000; £289,000) for her, saying her recovery has been \"incredibly difficult\" but she is making \"remarkable\" progress. \"After what has been an incredibly difficult few months, I'm so happy that I've progressed enough to build some independence, and I can finally see some light after all of this,\" Stewart wrote, in her first comments since the attack. \"I want you to know that I feel like I've been given a second chance at life, and I'm not going to waste it.\" Stewart said she had been \"overwhelmed\" by the support from family, friends and \"even strangers\", adding that the \"you've inspired me to get better, not bitter\". An online fundraiser for her would now be closed, she wrote, with the money raised giving her the chance to recover at home as well as \"options for further medical treatment down the road\". \"I still have a long way to go, but my recovery has been remarkable, and a huge part of that is because of the absolute army of love, support, prayers and encouragement surrounding my family and I from all over the world.\" In an interview with Nine Network's 60 Minutes, due to be aired this weekend, Stewart described seeing the shark's \"horrific\" face. \"I'll never forget its face - it was a monster,\" she says. \"It was holding onto my leg and I just thought of (my daughter) August, and I thought, 'she's not going to have a mum. She's gonna grow up without a mum'.\"",
+          "url": "https://www.bbc.com/news/articles/c87n792dnlno",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2afc/live/c95cb650-9f81-11f1-a291-b542ee92de7c.jpg",
+          "published_at": "2026-08-24T00:34:59Z",
+          "embed_url": "https://www.bbc.com/news/articles/c87n792dnlno",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 11
         },
         {
           "id": "776e006c16b8",
@@ -2374,73 +2422,25 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "183b59bf75aa",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Robot boxing, football and sprinting at World Humanoid Games",
-          "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-          "body_text": "The second-edition of the World Humanoid Games is under way in China. The competition, which kicked off on Saturday, will run for five days and has already included a robot running faster than Usain Bolt's 100m sprint world record. Elsewhere at the event in Beijing, a robot performed Cristiano Ronaldo's iconic 'Siuuu' celebration on the football pitch and droids took part in synchronised marching at its opening ceremony. Robots have also been competing in events including boxing, high jump, Tai Chi and table tennis. The BBC's China correspondent Stephen McDonell reports from the country's capital. Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife. A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday. In one of the world's fastest aging countries, older people are finding creative ways to stay healthy. As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down. The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star. Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain. At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-          "url": "https://www.bbc.com/news/videos/c7vgvj6e1emo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
-          "published_at": "2026-08-23T09:42:05Z",
-          "embed_url": "https://www.bbc.com/news/videos/c7vgvj6e1emo",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 11
-        },
-        {
-          "id": "9ab180ce047c",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Erin Patterson: The hotel booking snafu that could free mushroom murderer",
-          "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
-          "body_text": "Last July, hundreds descended on Australia's Gippsland region from around the country for the most exciting event on the annual table tennis calendar. But as elite players vied for medals at the national championships, one of the biggest criminal cases in the nation's history - that of mushroom murderer Erin Patterson - was unfolding just a few kilometres away. This tournament inadvertently became part of a perfect storm which the triple killer's lawyers are now arguing \"fatally undermined\" the fairness of her trial. The jury which condemned Patterson to prison were supposed to be isolated - sheltered from the frenzy surrounding the case while they deliberated. But accommodation shortages in the region, exacerbated by the table tennis competition, meant they shared a hotel with members of the prosecution, a key police witness, and journalists. Now Patterson's legal team is trying to overturn her convictions on appeal. \"The only proper remedy is... the order for a re-trial,\" Patterson's barrister Richard Edney said. When Patterson served her estranged husband's relatives a poisonous mushroom-laced lunch in 2023, killing three and gravely injuring another, she thrust the sleepy Gippsland region into the global spotlight. The community of Korumburra, where the victims were beloved figures, became shrouded in grief. Leongatha, where Patterson lived, was gripped by shock. And Morwell, host of the lengthy trial, was overwhelmed by journalists, lawyers and spectators - as were towns nearby. You couldn't walk down the main street without spotting some of the courtroom's stars, or grab a coffee without overhearing chatter about the case. It was this frenzy from which the jury of 12 needed protection, the trial judge decided. Jurors are required to consider only the evidence presented to them in court, and must only talk about the case among themselves. In Australia, these rules are so strict that discussion with outsiders is forbidden even after a trial wraps up.",
-          "url": "https://www.bbc.com/news/articles/c9w09dj7qk5o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c1c1/live/1bf3a560-9d46-11f1-a137-179a8d1c790b.jpg",
-          "published_at": "2026-08-22T19:03:03Z",
-          "embed_url": "https://www.bbc.com/news/articles/c9w09dj7qk5o",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": true,
           "sort_order": 12
         },
         {
-          "id": "4619c796b273",
+          "id": "919ddccde26c",
           "source_id": "bbc-video",
           "source_name": "BBC World",
           "provider": "BBC",
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-          "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-          "body_text": "US President Donald Trump has said Canada wants \"the benefits of being a state, without being one\" after trade talks between the two countries collapsed late on Friday. The breakdown of negotiations triggered new 50% US tariffs on a range of Canadian goods. Trump also said American farmers had been charged \"massive amounts of Tariffs\" for years. Canadian Prime Minister Mark Carney called the fresh tariffs a \"miscalculation\" designed to \"hurt and divide us\". Carney confirmed he would match Trump's tariffs \"dollar-for-dollar\" from 8 September, including levies on steel, dairy, appliances and electronics, saying the US and Canada were now in a trade war. Both countries were optimistic of a deal earlier in the week, but talks fell apart after both sides accused the other of making last-minute changes. \"They asked too much and they offered too little,\" Carney said on Saturday. \"You're at war when you get attacked. We got attacked.\" Trump's latest comments echo his repeated references to making Canada the \"51st state\" of America since returning to office, sparking frustration among its leaders and residents. The collapse of the trade talks upended a deeply integrated trading relationship with no clear path to resolution. \"We cannot accept what they've offered and we will not give what they've asked,\" Carney said. Trump told Fox News on Sunday that the Canadians were \"foolish\" to engage in a trade war with the US and think they will \"actually win\". The new 50% US tariffs will apply to a range of Canadian goods, in addition to existing US tariffs on Canadian steel, aluminium, automobiles and lumber. They are limited in scope, covering about $20bn (£15bn; C$28bn) of imports from Canada, or about 5% in total, including wine, dairy, cement, clothing and hockey equipment.",
-          "url": "https://www.bbc.com/news/articles/cx272np7vgyo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
-          "published_at": "2026-08-22T15:44:57Z",
-          "embed_url": "https://www.bbc.com/news/articles/cx272np7vgyo",
-          "play_mode": "iframe",
-          "article_type": "video",
+          "title": "Guinea rubbish landfill collapse kills 31 in Conakry",
+          "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+          "body_text": "At least 31 people have been killed after a mound of rubbish at a major waste site collapsed onto nearby homes in Guinea's capital Conakry, the government has said. Another 22 people were injured, including six seriously, in the city's Dar-es-Salam area. \"Significant\" resources and personnel - including the military - were deployed to search for survivors after the collapse at about 02:00 local time following heavy rain overnight, the government added in a statement. One woman told local media her five children had died in the disaster. There are fears that the death toll will rise further. Rescuers were later seen using excavators to comb through a mountain of scattered rubbish at the site as local residents gathered nearby. One eyewitness said many people were buried when a second part of the site gave way. \"People tried to come to the rescue [after the first section collapsed]... They came running and climbed onto the refuse to see if anyone was there,\" Robert Kamano Sâa told the Associated Press. \"That was when the second section collapsed in three successive stages, cascading down. And that is what poured onto the people.\" Guinea's Prime Minister Mamadou Oury Bah has visited the scene to assess the situation and oversee the search efforts. Mamadouba Bangoura, who lost his house in the collapse, said he and his family were woken up by the \"loud noise\" of the first wave of rubbish, which did not reach them. \"[Then] the second wave came. That is what knocked over - pushed the house - and it fell,\" he told Reuters news agency. \"There were a lot of people [buried]... It is very, very difficult to talk about it because seeing a human being lose their life like that is pathetic, it is so painful.\"",
+          "url": "https://www.bbc.com/news/articles/c4g3g36z7p6o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3b50/live/049ddab0-9f9a-11f1-a291-b542ee92de7c.jpg",
+          "published_at": "2026-08-23T18:17:37Z",
+          "embed_url": "https://www.bbc.com/news/articles/c4g3g36z7p6o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
           "tags": [
             "World",
             "BBC"
@@ -2830,12 +2830,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Juan Pablo Varillas vs Luka Pavlovic: horarios y canales TV del partido por la qualy del US Open 2026",
+          "title": "Juan Pablo Varillas vs Luka Pavlovic hoy: a qué hora es y qué canal transmite el partido por la qualy del US Open 2026",
           "summary": "Juan Pablo Varillas vs Luka Pavlovic EN VIVO: hora, fecha y canal para ver el partido por la primera ronda de la qualy del US Open 2026.",
           "body_text": "Juan Pablo Varillas (236ºATP) se enfrenta al serbio Luka Pavlovic (207ºATP) este lunes 24 de agosto de 2026 por la primera ronda de la qualy del US Open 2026, torneo que se disputa sobre superficie dura en Nueva York. El tenista peruano buscará superar su primer desafío en la fase de clasificación y acercarse al cuadro principal del último Grand Slam de la temporada. El partido entre Juan Pablo Varillas y Luka Pavlovic se disputará este lunes 24 de agosto desde las 10:00 a.m. (hora peruana), de acuerdo con la programación establecida para la jornada. El encuentro se desarrollará en el Court 13 del USTA Billie Jean King National Tennis Center, en Nueva York. El partido entre Juan Pablo Varillas y Luka Pavlovic será transmitido EN VIVO vía streaming por Disney+, plataforma que ofrece la cobertura de los principales torneos de tenis para la región. Los aficionados peruanos podrán seguir el debut del representante nacional en la qualy del US Open 2026 a través de este servicio. Juan Pablo Varillas afrontará ante Luka Pavlovic un importante desafío en su camino hacia el cuadro principal del US Open 2026. El peruano intentará superar la primera ronda de la clasificación y sumar una victoria que le permita acercarse a uno de los escenarios más importantes del tenis mundial. El duelo ante el serbio será el primer paso de Varillas en una fase de clasificación que exige superar tres rondas para conseguir un lugar en el cuadro principal del Grand Slam estadounidense. El ganador avanzará a la segunda ronda de la qualy, donde tendrá un nuevo y exigente partido en busca de continuar con vida en Nueva York.",
           "url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-luka-pavlovic-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-qualy-us-open-2026-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/P7NYOAXBZBEBDP7A7U5IWZCJ6E.png?auth=26e9bcbebe5a9a332ffb8e88005748e2990e15c42e66fd6227edf5cf486fbd06&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-24T04:25:12Z",
+          "published_at": "2026-08-24T11:00:01Z",
           "embed_url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-luka-pavlovic-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-qualy-us-open-2026-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3107,12 +3107,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Juan Pablo Varillas vs Luka Pavlovic: horarios y canales TV del partido por la qualy del US Open 2026",
+          "title": "Juan Pablo Varillas vs Luka Pavlovic hoy: a qué hora es y qué canal transmite el partido por la qualy del US Open 2026",
           "summary": "Juan Pablo Varillas vs Luka Pavlovic EN VIVO: hora, fecha y canal para ver el partido por la primera ronda de la qualy del US Open 2026.",
           "body_text": "Juan Pablo Varillas (236ºATP) se enfrenta al serbio Luka Pavlovic (207ºATP) este lunes 24 de agosto de 2026 por la primera ronda de la qualy del US Open 2026, torneo que se disputa sobre superficie dura en Nueva York. El tenista peruano buscará superar su primer desafío en la fase de clasificación y acercarse al cuadro principal del último Grand Slam de la temporada. El partido entre Juan Pablo Varillas y Luka Pavlovic se disputará este lunes 24 de agosto desde las 10:00 a.m. (hora peruana), de acuerdo con la programación establecida para la jornada. El encuentro se desarrollará en el Court 13 del USTA Billie Jean King National Tennis Center, en Nueva York. El partido entre Juan Pablo Varillas y Luka Pavlovic será transmitido EN VIVO vía streaming por Disney+, plataforma que ofrece la cobertura de los principales torneos de tenis para la región. Los aficionados peruanos podrán seguir el debut del representante nacional en la qualy del US Open 2026 a través de este servicio. Juan Pablo Varillas afrontará ante Luka Pavlovic un importante desafío en su camino hacia el cuadro principal del US Open 2026. El peruano intentará superar la primera ronda de la clasificación y sumar una victoria que le permita acercarse a uno de los escenarios más importantes del tenis mundial. El duelo ante el serbio será el primer paso de Varillas en una fase de clasificación que exige superar tres rondas para conseguir un lugar en el cuadro principal del Grand Slam estadounidense. El ganador avanzará a la segunda ronda de la qualy, donde tendrá un nuevo y exigente partido en busca de continuar con vida en Nueva York.",
           "url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-luka-pavlovic-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-qualy-us-open-2026-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/P7NYOAXBZBEBDP7A7U5IWZCJ6E.png?auth=26e9bcbebe5a9a332ffb8e88005748e2990e15c42e66fd6227edf5cf486fbd06&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-24T04:25:12Z",
+          "published_at": "2026-08-24T11:00:01Z",
           "embed_url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-luka-pavlovic-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-qualy-us-open-2026-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -4156,7 +4156,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till halva priset hos Revolution Race! Upp till 25% på toppar, tunikor och tröjor",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler.",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4181,7 +4181,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Snygga träningskläder att spana in till hösten:",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4214,6 +4214,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "f344cf6d635e",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Läkarmiss – patienter behöver byta hjärtan",
+          "summary": "Läkemedel förväxlades under en öppen hjärtkirurgi på Karolinska universitetsskjukhus. På grund av det behöver två patienter nya hjärtan.",
+          "body_text": "Läkemedel förväxlades under en öppen hjärtkirurgi på Karolinska universitetssjukhus. På grund av det behöver två patienter nya hjärtan. ”Sjukhuset ser mycket allvarligt på det inträffade”, skriver Karolinska i ett pressmeddelande. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Två patienter for illa under operation på Karolinska universitetssjukhuset den 18 augusti. Mitt under en öppen hjärtkirurgi förväxlades de läkemedel patienterna skulle då. På grund av det startade inte deras hjärtan efter operationen och de fick fortsatt livsuppehållande vård med hjärt-lungmaskiner på intensivvårdsavdelningen. Patienterna utreds nu för att få genomgå en hjärttransplantation. ”Sjukhuset ser mycket allvarligt på det inträffade och beklagar det som har hänt. Sjukhuset har en nära dialog med patienternas närstående” , står det i pressmeddelandet. Varför fel läkemedel gavs ut är fortfarande oklart. Men i ett mejl uppger sjukhuset att patienterna felaktigt fått kalciumklorid – ett ämne som vanligtvis inte finns i thoraxoperationsavdelningen. Händelsen är anmäld till enligt Lex Maria och kommer nu att utredas. Vidare skriver universitetssjukhuset att tillverkaren och leverantören informerats om vad de beskriver som en ”sammanblandningsrisk”. ”Rutinerna för mottagande och uppackning av samtliga läkemedelsleveranser till thoraxoperation skärps med omedelbar verkan” , fortsätter utlåtandet. • Kontakta Expressen på tipsa@expressen.se",
+          "url": "https://www.expressen.se/nyheter/sverige/miss-pa-karolinska-universitetssjukhuset-patienter-behover-nya-hjartan/",
+          "image_url": "https://static.bonniernews.se/images/85/0b/850ba6e63d10404c88c87ff11e4bfabf/16x9/original.jpg",
+          "published_at": "2026-08-24T11:01:05Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/miss-pa-karolinska-universitetssjukhuset-patienter-behover-nya-hjartan/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "cd97478dab13",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4235,7 +4259,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "217315ba9561",
@@ -4259,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "ab8a378b7604",
@@ -4283,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "46012f4075da",
@@ -4307,7 +4331,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "d68a62cf00e8",
@@ -4331,7 +4355,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "fda523ece468",
@@ -4355,7 +4379,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "0317c5dda707",
@@ -4379,7 +4403,31 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
+        },
+        {
+          "id": "72f1fa53938e",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Brinellskolan stängd: ”Ingen vanlig skoldag”",
+          "summary": "I dag samlas eleverna på Brinellskolan på kriscenter i Risbrohallen. Där kommer stöd att erbjudas. Samtidigt håller kommunens andra skolor öppet.",
+          "body_text": "I dag samlas eleverna på Brinellskolan på kriscenter i Risbrohallen. Lilla Fagersta, som präglas av chock och sorg, kommer att få hjälp med att ta hand om kommunens elever. – Alla får vi hjälpas åt, säger skolchefen Eeva-Liisa Purolainen. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. • Den 21 augusti skedde en skolattack på Brinellskolan i Fagersta. • Polislarmet kom 14.06 om misstänkt pågående dödligt våld. Enligt polis grips gärningspersonen 14.16. • En 17-årig flicka dödades i attacken och tre personer skadades: två pojkar i åldern 12–17 år svårt och en tredje pojke lindrigt. • Den misstänkte är 18-årige Liam Nebel. Han var elev på skolan och gick till attack med svärd. • Enligt vittnen på platsen bar han mask och hjälm. • Liam Nebel häktades på söndagen misstänkt för mord och mordförsök. • Polisen har inte uttalat sig om något motiv.",
+          "url": "https://www.expressen.se/nyheter/sverige/sa-blir-skoldagen-for-fagerstas-elever/",
+          "image_url": "https://static.bonniernews.se/images/4a/f5/4af5981c25d24bdfbbd5e6539a3d01a5/16x9/original.jpg",
+          "published_at": "2026-08-24T06:51:29Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/sa-blir-skoldagen-for-fagerstas-elever/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 8
         },
         {
           "id": "5bafa9a527a7",
@@ -4403,54 +4451,6 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "72f1fa53938e",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Sverige I dag 08.51 Så blir skoldagen för Fagerstas elever",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/sverige/sa-blir-skoldagen-for-fagerstas-elever/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/sverige/sa-blir-skoldagen-for-fagerstas-elever/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "a23caf084305",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Världen I dag 08.25 Utrikesministern besöker Ukraina",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.expressen.se/nyheter/varlden/utrikesministern-besoker-ukraina/",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/varlden/utrikesministern-besoker-ukraina/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": false,
           "sort_order": 9
         }
       ]
@@ -4466,11 +4466,35 @@
       "surface": "live",
       "source_kind": "live",
       "live_section": true,
-      "status": "error",
-      "article_count": 0,
+      "status": "ok",
+      "article_count": 1,
       "priority_split": 0,
-      "articles": [],
-      "error": "406 Client Error: Not Acceptable for url: https://www.expressen.se/nyheter/expressen-direkt/"
+      "articles": [
+        {
+          "id": "793b90fc6824",
+          "source_id": "expressen-direkt",
+          "source_name": "Expressen Direkt",
+          "provider": "Expressen",
+          "category": "Live",
+          "surface": "live",
+          "source_kind": "live",
+          "title": "Expressen Direkt",
+          "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
+          "body_text": "Det brinner kraftigt i en ladugård i utanför Lammhult i Växjö kommun, skriver Smålandsposten . – Det ska vara öppna lågor och det finns spridningsrisk till andra byggnader, säger operatören på SOS Alarm till tidningen. 13 enheter från räddningstjänsten är kallade till platsen och det finns inga uppgifter om varken skadade personer eller djur. Två patienter for illa under operation på Karolinska universitetsskjukhuset på grund av en miss. Nu behöver de nya hjärtan, skriver sjukhuset i ett pressmeddelande. De två genomförde öppen hjärtkirurgi när personal föväxlade deras läkemedel. På grund av det startade inte deras hjärtan efter operationen och de fick fortsatt livsuppehållande vård med hjärt-lungmaskiner på intensivvårdsavdelningen. \"Sjukhuset ser mycket allvarligt på det inträffade och beklagar det som har hänt. Sjukhuset har en nära dialog med patienternas närstående\" , står det i pressmeddelandet. Händelsen ska anmälas till enligt Lex Maria och kommer nu att utredas. Kronprins Haakon har under dagen anlänt till Rikshospitalet i Oslo, rapporterar norska medier. Där ska han sannolikt besöka sin pappa, 89-årige kung Harald, som ligger inne på sjukhus för en bakterieinfektion i blodet. Kungens hälsotillstånd har enligt hovet försämrats under helgen. Tidigare i dag rapporterade norska medier att hustrun drottning Sonja uteblir från ett planerat evenemang senare i veckan. Den man som hittades död i en öde stuga utanför Värnamo 2022 har identifierats, skriver polisen på sin hemsida. Mannen hade legat död länge när han hittades och var mumifierad. I augusti gick polisen ut med en efterlysning om någon kunde veta vem mannen var. I förra veckan hörde en familj av sig och lämnade dna-prov, vilket visade sig matcha den döde mannen. Mannens närmaste anhöriga har underrättats.",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+          "published_at": "2025-02-03T11:47:19Z",
+          "embed_url": "https://www.expressen.se/nyheter/expressen-direkt/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Live",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        }
+      ]
     },
     {
       "id": "sverigesradio-p4-stockholm",
