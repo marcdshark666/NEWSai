@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:23:48Z",
+  "generated_at": "2026-08-24T09:28:41Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Aryam, 17, var en meter från gärningsmannen: ”Så nära döden” Liam Nebel, 18, häktad för skolattacken i Fagersta Misstänkte 18-åringens uppväxt: Våld och begränsat med mat Läraren Pablo kritisk • ”Växande fenomen” Ny larmrapport om lärare: ”Vi får inte gå sönder”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Experten förvånad över krigsutvecklingen • Ukraina firar 35 år av självständighet Dödliga anfall när Ukraina firar självständighet Här överraskar ukrainske soldaten sin dotter på födelsedagen Aryam, 17, var en meter från gärningsmannen: ”Så nära döden” Liam Nebel, 18, häktad för skolattacken i Fagersta Misstänkte 18-åringens uppväxt: Våld och begränsat med mat",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -1721,6 +1721,31 @@
           "sort_order": 0
         },
         {
+          "id": "f7d8b5ba38d7",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "US weapons stockpile under scrutiny as Trump defends defense supply | Fox News Video",
+          "summary": "Retired Major John Spencer joins 'One Nation' to address concerns regarding the U.S. weapons stockpile and military industrial complex. He discusses President Donald Trump's defense policies and the ongoing efforts to revitalize supply.",
+          "body_text": "Retired Major John Spencer joins 'One Nation' to address concerns regarding the U.S. weapons stockpile and military industrial complex. He discusses President Donald Trump's defense policies and the ongoing efforts to revitalize supply. U.S. weapons stockpile concerns take center stage as retired Major John Spencer joins Brian Kilmeade on 'One Nation' to analyze 2026 defense capabilities. Spencer discusses Donald Trump's defense strategy and the steps being taken to revitalize the military industrial complex. Despite media scrutiny, Spencer emphasizes that efforts to boost production plants and secure munitions are already actively underway to support national defense.",
+          "url": "https://www.foxnews.com/video/6403949384112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29fe5ed3-53b0-4d42-b161-bee15f3cd1bc/365d413b-8705-4d40-a650-e632e567e950/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-08-24T09:16:40Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403949384112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
           "id": "2d630582be89",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1743,7 +1768,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "6931e801204e",
@@ -1768,7 +1793,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "2c56c2d2d1d8",
@@ -1793,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "70249523441f",
@@ -1818,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "878f22db194c",
@@ -1843,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "b04e468fe1ad",
@@ -1868,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "e767b93f4418",
@@ -1893,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "f0dc30aa5a6b",
@@ -1918,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "9ad10391bf38",
@@ -1935,31 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6e4e934-c281-487d-9d4b-256c29fbf4f0/1f965d8e-ada5-4972-8344-133b98122a8f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-08-24T00:46:33Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403936189112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "87f8158291c0",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Heightened security at Fever-Sky game in Chicago amid WNBA controversies: Report | Fox News Video",
-          "summary": "OutKick founder Clay Travis discusses the New York Liberty allegedly modifying a fan's scoreboard message supporting XX-XY Athletics and the controversy surrounding the WNBA over transgender athletes in women’s sports on ‘The Big Weekend Show.’",
-          "body_text": "OutKick founder Clay Travis discusses the New York Liberty allegedly modifying a fan's scoreboard message supporting XX-XY Athletics and the controversy surrounding the WNBA over transgender athletes in women’s sports on ‘The Big Weekend Show.’",
-          "url": "https://www.foxnews.com/video/6403936569112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40f5eed0-97e2-4b2a-8026-2df81809f8f0/6ce29219-c2ca-4bc3-bc4c-2ab712419590/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-08-24T00:02:48Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6403936569112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2113,6 +2113,78 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "d3410e4ecea3",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Hawk fire: 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+          "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+          "body_text": "Tens of thousands of people have been told to evacuate from an area close to Reno, Nevada, as a large wildfire reached the outskirts of the city. Around 42,000 people have been ordered to leave their homes immediately, with a further 45,000 people urged to get ready to leave. The fire, which was first reported on Saturday morning, had so far injured six people, officials said. Windy and unpredictable weather conditions have contributed to its spread. Nevada's Governor Joe Lombardo has declared a state of emergency in Washoe County and ordered the National Guard to join firefighting and law enforcement efforts. \"This is an active and rapidly evolving situation and I urge everyone in the affected areas to remain vigilant and follow the direction of local officials,\" he said. The fire was caused by humans and first reported at 11:15 local time (18:15 GMT) on Saturday, according to local officials. They said that, as of Sunday evening, the fire had burned around 10,500 acres and was 0% contained. Around 13,700 homes were inside the evacuation area, local emergency services said, with two shelters set up to take in displaced residents. Of the six injured, three were emergency responders fighting the fire. All Washoe County schools will be closed on Monday, except one, and mass road closures are in place. Reno, in western Nevada, is located close to the state boundary with California and has a population of around 280,000 people. Are you in the area? If it is safe to do so, share your story .",
+          "url": "https://www.bbc.com/news/articles/c4gqlp0yzyjo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6e00/live/287ab570-9f95-11f1-b109-879e35c24276.jpg",
+          "published_at": "2026-08-24T08:34:26Z",
+          "embed_url": "https://www.bbc.com/news/articles/c4gqlp0yzyjo",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
+          "id": "7ad5d1309f1d",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Zolani Tete: Four arrested over boxing champion's murder in South Africa",
+          "summary": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+          "body_text": "Four people have been arrested in South Africa in connection with the murder of boxing champion Zolani Tete, who was shot dead outside his home on Friday. Tete, 38, was gunned down in what has been described as an ambush in Mdantsane, Eastern Cape. A young woman who was with him was also shot and is in hospital. One of the men being held, a 22-year-old who was arrested on Saturday, will make an initial appearance in court on Monday, and faces murder and attempted murder charges. Tete held the WBO bantamweight title from 2017 to 2019, as well as the IBF super-flyweight title in 2014. He was later given a four-year ban, which lapsed in July this year. The remaining suspects, who were arrested on Sunday, are due in court on Tuesday. Two have been charged with unlawful possession of firearms and ammunition. It is unclear whether they will also be charged with murder and attempted murder. Tete was in his car waiting for the gate to his house to open when two armed suspects in balaclavas emerged from a vehicle and fired \"multiple shots\" at him and a 27‑year‑old female passenger, according to officials. Tributes have been pouring in for the two-time world champion since his death. South Africa's Sports Minister Gayton McKenzie said: \"South Africa has lost one of the finest fighters it has ever produced.\" Former Sports Minister Fikile Mbalula also paid tribute to Tete, lamenting the loss of a \"a great South African who has made an immense contribution in the sport of boxing\". Tete beat Liverpool's Paul Butler in 2015 in one of the eight times he fought in the United Kingdom. He also holds a Guinness World Record for the fastest knockout in a title fight, ending his match with Siboniso Gonya inside 11 seconds in 2017. Tete last fought in July 2022, beating Briton Jason Cunningham by knockout In London, but it was later ruled a no-contest after he failed a drugs test. He tested positive for anabolic steroid stanozolol and was given a ban by the UK Anti-Doping Agency.",
+          "url": "https://www.bbc.com/news/articles/cg7k9rmnzp7o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/268e/live/95256940-9f90-11f1-9fae-bbc7231f436d.jpg",
+          "published_at": "2026-08-24T08:32:46Z",
+          "embed_url": "https://www.bbc.com/news/articles/cg7k9rmnzp7o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
+          "id": "eb3fd1084296",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Norway's King Harald V's health has worsened, palace says",
+          "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+          "body_text": "King Harald V of Norway's health has worsened, the palace has said, as he remains in hospital receiving antibiotics for a bacterial infection in his bloodstream. The monarch has responded to treatment despite the deterioration in his condition, according to the palace, but he will remain at Oslo University Hospital, Rikshospitalet, and on leave from royal duties until further notice. The 89-year-old, who has been on the throne since 1991, was admitted to hospital and put on sick leave a week ago. His son, Crown Prince Haakon, 53, has been serving as regent while his father is on leave. King Harald has been treated in recent weeks with cortisone for a rare blood condition, haemolytic anaemia. It causes the number of red blood cells in the body to be reduced, and leads to fatigue and shortness of breath. In April 2024, Norway's royal household said that King Harald would make a \"permanent reduction\" to his public engagements \"out of consideration for his age\". That year, the king had been fitted with a pacemaker after falling ill on holiday in Malaysia. The Norwegian royal family has already faced a challenging year in 2026. Crown Prince Haakon's wife, Crown Princess Mette-Marit, received a lung transplant in June after she had been diagnosed with a rare form of pulmonary fibrosis in 2018. The transplant came two days after Mette-Marit's son Marius Borg Høiby was sentenced to four years in prison after being convicted of two counts of rape. He had denied the most serious charges and his lawyers said he would appeal the sentence. Høiby, 29, was four when his mother married Crown Prince Haakon and is not himself a royal figure. Also earlier in the year, documents were released revealing Mette-Marit's frequent contact with the late sex offender Jeffrey Epstein. She later apologised to Norway's king and queen for her three-year friendship with Epstein and admitted to \"poor judgement\", adding in a national TV interview that she wished she had never met him.",
+          "url": "https://www.bbc.com/news/articles/c36lnekj659o",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3908/live/3388cd30-9f8b-11f1-9fae-bbc7231f436d.jpg",
+          "published_at": "2026-08-24T08:31:55Z",
+          "embed_url": "https://www.bbc.com/news/articles/c36lnekj659o",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
           "id": "2cc8b978b7f2",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2134,7 +2206,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 3
         },
         {
           "id": "84a5835644df",
@@ -2158,7 +2230,7 @@
             "BBC"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "1a3fa51196bd",
@@ -2182,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "65f44e821646",
@@ -2194,7 +2266,7 @@
           "source_kind": "mixed",
           "title": "Nearly three million Teslas recalled in China over hidden door handles",
           "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-          "body_text": "Minimalistic retractable door handles became a signature feature of electric vehicles (EVs), but the controversial designs are now at the centre of China's biggest car recall, affecting more than 4 million vehicles. The recall, which includes 2.98 million Chinese-made Teslas, follows safety concerns that the hidden door handles are difficult to locate and open in emergency situations. Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely. Made popular by multi-billionaire Elon Musk's Tesla, hidden door handles are designed to tuck seamlessly within the car's door panel and only extend outwards when an owner approaches their vehicle. The design came under scrutiny after two fatal crashes in China involving Xiaomi EVs, in which power failures were suspected to have prevented doors from being opened. Tesla said in a statement on Friday that it was recalling some of its Model 3, Y, S and X vehicles due to door handles that are \"difficult to identify and operate because their colour is similar to the interior trim\". This could hinder occupants or rescuers from quickly opening the doors in an emergency, such as during a \"severe collision causing the vehicle's low-voltage system to fail.\" Tesla said it will place warning labels on the recalled vehicles and issue a software update to automatically lower a vehicle's windows after a collision. It is not clear if the affected firms plan to make a similar recall for the rest of the world. The BBC has contacted Tesla, XPeng, Xiaomi and Geely for comment. The use of the hidden handle design has \"snowballed\" after Chinese brands were quick to copy the \"sleek\" look of Tesla's Model S sedan since 2014, said Tu Le, the founder of consultancy Sino Auto Insights. The use of warning labels and a software update is more of a \"band-aid\" than a lasting solution for the issue, he added.",
+          "body_text": "Minimalistic door handles became a signature feature of electric vehicles (EVs), but the controversial designs are now at the centre of China's biggest car recall, affecting more than 4 million vehicles. The recall, which includes 2.98 million Chinese-made Teslas, follows safety concerns that the hidden door handles are difficult to locate and open in emergency situations. Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely. The recalled vehicles will have a warning label stuck on the interior door and receive a software update to automatically lower the windows in a crash. The designs have come under scrutiny after two fatal crashes in China involving Xiaomi EVs, in which power failures were suspected to have prevented doors from being opened. Tesla said in a statement on Friday that it was recalling some of its Model 3, Y, S and X vehicles due to door handles that are \"difficult to identify and operate because their colour is similar to the interior trim\". \"In extreme situations such as a severe collision causing the vehicle's low-voltage system to fail, this could hinder occupants from quickly opening the doors to escape and impede rescue efforts by those outside the vehicle, posing a safety hazard,\" it said. Tesla said it would place warning labels on the recalled vehicles and issue a software update to automatically lower a vehicle's windows after a collision. It is not clear if the affected firms plan to make a similar recall for the rest of the world. The BBC has contacted Tesla, XPeng, Xiaomi and Geely for comment. The use of hidden handle designs has \"snowballed\" after Chinese brands were quick to copy the \"sleek\" look of Tesla's Model S sedan since 2014, said Tu Le, the founder of consultancy Sino Auto Insights. The use of warning labels and a software update is more of a \"band-aid\" than a lasting solution for the issue, he added.",
           "url": "https://www.bbc.com/news/articles/c4g6ggdg030o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/96b3/live/afd3f120-9f87-11f1-aed2-8d6da8d75094.jpg",
           "published_at": "2026-08-24T03:27:11Z",
@@ -2206,31 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "25469868650d",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Shein aims for almost $27bn valuation in stock market debut",
-          "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-          "body_text": "Fast-fashion giant Shein could see its stock market valuation reach almost $27bn (£19.8bn) when its makes its debut in Hong Kong on 1 September. The long-awaited move comes after failed attempts to list in the US and London due to regulatory challenges amid scrutiny of the firm, which has its headquarters in Singapore but was founded in China. Since it was founded in 2008, Shein has risen to become one of the world's biggest fast-fashion retailers, with customers in more than 150 countries. The e-commerce giant is known for selling ultra-cheap clothes, backed by a vast network of factories in China that are able to quickly manufacture new products based on the latest trends. Shein said in a filing on Monday that it will offer nearly 280 million shares for between HK$47.60 ($6.07; £4.45) and HK$49.50 each. At the top of the range, the share sale would raise $1.77bn (£1.3bn) for the company and give it a market valuation of $26.8bn. But that is much lower than the $100bn it was worth in 2022, reflecting weaker sales growth and higher costs. The initial public offering (IPO) is being backed by Wall Street investment giants Goldman Sachs, Morgan Stanley and JP Morgan. The company will make its highly anticipated debut on the Hong Kong stock exchange after efforts to go public since 2023. Hong Kong has been revived as \"one of the largest IPO markets\" after attracting more firms from mainland China, said economics associate professor Feng Qu from the Nanyang Technological University. Shein is likely to command a higher valuation in Hong Kong than it would in London, where regulatory scrutiny derailed its plans to sell shares there, Feng said. Chinese companies may also be wary of selling shares in the US as tensions between the world's two largest economies could result in firms being de-listed, he added.",
-          "url": "https://www.bbc.com/news/articles/cdeweewjdxno",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg",
-          "published_at": "2026-08-24T01:23:19Z",
-          "embed_url": "https://www.bbc.com/news/articles/cdeweewjdxno",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "83fab2c7a5f6",
@@ -2254,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "919ddccde26c",
@@ -2264,61 +2312,13 @@
           "category": "World",
           "surface": "video",
           "source_kind": "mixed",
-          "title": "Guinea rubbish landfill collapse kills 30 in Conakry",
+          "title": "Guinea rubbish landfill collapse kills 31 in Conakry",
           "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-          "body_text": "At least 30 people have been killed after a mound of rubbish at a major waste site collapsed onto nearby homes in Guinea's capital Conakry, the government has said. Another 22 people were injured, including six seriously, in the city's Dar-es-Salam area. \"Significant\" resources and personnel - including the military - were deployed to search for survivors after the collapse at about 02:00 local time following heavy rain overnight, the government added in a statement. One woman told local media her five children had died in the disaster. There are fears that the death toll will rise further. Rescuers were later seen using excavators to comb through a mountain of scattered rubbish at the site as local residents gathered nearby. Guinea's Prime Minister Mamadou Oury Bah visited the scene to assess the situation and oversee the search efforts. Neighbourhood leader Lancine Sylla had earlier told the AFP news agency that he feared there would be a heavy death toll. \"We have pulled out 18 bodies that were taken to the morgue,\" he said. Another landslide at the site killed 10 people in 2017.",
+          "body_text": "At least 31 people have been killed after a mound of rubbish at a major waste site collapsed onto nearby homes in Guinea's capital Conakry, the government has said. Another 22 people were injured, including six seriously, in the city's Dar-es-Salam area. \"Significant\" resources and personnel - including the military - were deployed to search for survivors after the collapse at about 02:00 local time following heavy rain overnight, the government added in a statement. One woman told local media her five children had died in the disaster. There are fears that the death toll will rise further. Rescuers were later seen using excavators to comb through a mountain of scattered rubbish at the site as local residents gathered nearby. Guinea's Prime Minister Mamadou Oury Bah visited the scene to assess the situation and oversee the search efforts. Neighbourhood leader Lancine Sylla had earlier told the AFP news agency that he feared there would be a heavy death toll. \"We have pulled out 18 bodies that were taken to the morgue,\" he said. Visiting the injured in hospital, Health Minister Khaïté Sall said they would get free medical care, while assuring families of government support. Guinea has experienced similar landslide tragedies before, with 10 people being killed at the same site in 2017. The government had recently ordered people living close to the site to move, but many residents chose to stay. Guinea's opposition figure and former Prime Minister Cellou Dalein Diallo, who is in exile abroad, called the accident \"a tragedy that plunges us into dismay\".",
           "url": "https://www.bbc.com/news/articles/c4g3g36z7p6o",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3b50/live/049ddab0-9f9a-11f1-a291-b542ee92de7c.jpg",
           "published_at": "2026-08-23T18:17:37Z",
           "embed_url": "https://www.bbc.com/news/articles/c4g3g36z7p6o",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "b88e29ea47cc",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "France links sharp rise in drownings to prolonged heatwaves",
-          "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-          "body_text": "France has seen 301 drownings since 19 June, a government minister has said, linking the sharp rise in deaths from last year to a series of prolonged heatwaves. Sports and Youth Minister Marina Ferrari told France Inter radio the number of deaths - a 14% hike on 2025 - was a \"tragic toll\". France, Spain and Italy have all been hit by heatwaves that have triggered massive wildfires that have scorched thousands of hectares of land this summer. Ferrari said people had been taking risks by going into the water, adding: \"Many deadly accidents have occurred in areas that are not authorised or supervised for swimming.\" She said a number of the drownings were recorded in \"open water, in canals for example\". Ferrari said the government was working with regional authorities \"to improve swimming areas and make things safer\". Speaking on Friday, she added that \"many drownings, particularly among the elderly, occurred in individual pools\". The minister said that sudden immersion in cold water on a hot day could cause shock, and that in some cases \"people can also exceed their physical capabilities\". In June, Ferrari warned that too many people were trying to cool off in rivers and canals without necessarily taking the risks into account. Climate change is driving up global average temperatures, making heatwaves more frequent and intense. This has been felt acutely in Europe, which is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service. A heatwave in June saw a nuclear power plant in south-west France temporarily shut down because water temperatures in the River Garonne topped 28C. Under French laws, water used to cool the reactors at the Golfech plant must not exceed that temperature.",
-          "url": "https://www.bbc.com/news/articles/cqlxlp4lx9yo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg",
-          "published_at": "2026-08-23T15:00:17Z",
-          "embed_url": "https://www.bbc.com/news/articles/cqlxlp4lx9yo",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 7
-        },
-        {
-          "id": "f6bda542a0d2",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-          "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-          "body_text": "The Democratic Republic of Congo government and the Rwanda-backed M23 rebel group have agreed a roadmap for peace talks. In a joint statement after five days of talks in Switzerland, they said they had pledged to \"pursue negotiations towards comprehensive peace and conflict resolution\" and set up a mechanism to monitor the ceasefire. The roadmap sets out a timeline for talks under a US-brokered peace framework which they signed in 2025 - only for fighting to then continue in eastern DR Congo, which has been engulfed in conflict for decades. But disagreements remain over issues including sanctions against M23, the release of detainees and the timing of political reforms. The latest negotiations were attended by M23, the government of DR Congo, Qatar, the US, the Republic of Togo, the African Union Commission and host Switzerland. \"The parties agreed to establish a mechanism tasked with reviewing progress and addressing challenges in implementation of obligations and commitments under the Doha Framework Agreement,\" the statement added, referring to the 2025 deal. They developed \"sequenced steps and timelines\" while also committing to \"flexibility and creativity\", the statement said. They also agreed to implement a mechanism to monitor ceasefire violations. Its secretariat has been established and the first verification mission is due to take place on Monday in Minembwe, an area of South Kivu affected by fighting. Fighting has continued in North and South Kivu despite repeated ceasefire commitments, with the government and M23 accusing each other of violations. The conflict is closely linked to tensions between DR Congo and neighbouring Rwanda. Rwanda says DR Congo has failed to dismantle the Democratic Forces for the Liberation of Rwanda (FDLR), an armed group that Kigali considers a security threat. DR Congo denies supporting the FDLR and accuses Rwanda of backing M23 with troops and weapons.",
-          "url": "https://www.bbc.com/news/articles/cre4e1q3wewo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg",
-          "published_at": "2026-08-23T12:52:08Z",
-          "embed_url": "https://www.bbc.com/news/articles/cre4e1q3wewo",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4156,7 +4156,7 @@
           "source_kind": "story",
           "title": "Om Sportbladet",
           "summary": "Om Sportbladet",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support/Kundservie: https://support.aftonbladet.se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. På Aftonbladet skiljer vi på nyhetsjournalistiken och åsiktsjournalistiken. På Aftonbladet jobbar ett hundratal journalister, både med nyheter och opinion. Klicka här för att se några av våra mest framstående profiler. Upp till halva priset hos Revolution Race! Upp till 25% på toppar, tunikor och tröjor",
           "url": "https://www.aftonbladet.se/a/zpKAO/om-sportbladet",
           "image_url": "https://aftonbladet.se/monorepo-api/og/zpKAO.png",
           "published_at": "2017-05-23T12:54:15Z",
@@ -4181,7 +4181,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Snygga träningskläder att spana in till hösten:",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4214,6 +4214,54 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "217315ba9561",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "SL blöder pengar – kostat miljarder mer",
+          "summary": "Flera av satsningarna på kollektivtrafiken i Stockholm har blivit mycket dyrare än tänkt. Hittills har notan landat på 34 miljarder kronor för mycket, rapporterar P4 Stockholm.",
+          "body_text": "Flera av satsningarna på kollektivtrafiken i Stockholm har blivit mycket dyrare än tänkt. Hittills har notan landat på 34 miljarder kronor för mycket, rapporterar P4 Stockholm . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Bussterminalen vid Slussen. Utbyggnaden av Roslags- och tvärbanan. Och nya tunnelbanan. De senaste åren har Region Stockholm sjösatt flera stora projekt som ska utöka och förbättra kollektivtrafiken. Det rör sig om satsningar som löpt under flera mandatperioder och olika politiska styren. Men projekten har redan hunnit kosta flera miljarder mer än vad man planerat för, enligt en granskning som P4 Stockholm har gjort. Det rör sig om 34 miljarder kronor, vilket enligt P4 motsvarar en summa som skulle kunna göra kollektivtrafiken helt gratis för alla Stockholms pendlare i nästan åtta år. Dessutom är flera av projekten långt ifrån klara, vilket innebär att slutnotan kan bli ännu högre. – Det är ett väldigt stort problem för Stockholm att man låter de här projekten blivit så dyra. 34 miljarder är väldigt mycket pengar, säger nationalekonomen Fredrik Bergström till radion. Jakop Dalunde, trafikregionråd i Stockholm (MP), förklarar kostnadsökningen med bland annat långa byggtider, krig i omvärlden, och pandemin. Men han är också kritisk till att Trafikförvaltningen ”slimmats ner”. – Och blivit beroende av konsulter, vilket är oerhört kostnadsdrivande. Det är en kultur vi gör upp med nu, säger han till P4 Stockholm. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/sverige/granskning-sl-projekt-har-blivit-34-miljarder-dyrare/",
+          "image_url": "https://static.bonniernews.se/images/f1/4c/f14c852f7c334cc78f00a3110971fae3/16x9/original.jpg",
+          "published_at": "2026-08-24T08:52:32Z",
+          "embed_url": "https://www.expressen.se/nyheter/sverige/granskning-sl-projekt-har-blivit-34-miljarder-dyrare/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
+          "id": "392119c969d0",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Misstänkte Brattåsmördaren tillbaka på mordplatsen – vägran",
+          "summary": "Här vägrar den misstänkte Brattåsmördaren – klädd i häktets gröna kläder och med handfängsel – kliva ur bilen när rätten besöker mordplatsen på måndagsmorgonen.",
+          "body_text": "Här vägrar den misstänkte Brattåsmördaren – klädd i häktets gröna kläder och med handfängsel – kliva ur bilen när rätten besöker mordplatsen på måndagsmorgonen. Mannen har tidigare meddelat att han inte vill medverka i rekonstruktioner på platsen. I eftermiddag fortsätter förhandlingarna i Ångermanlands tingsrätt. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. På måndagsmorgonen besökte rätten gården där pensionärsparet Tor Öberg och Gerd Viklund mördades för 21 år sedan. Den mordmisstänkte mannen, som är i 45-årsåldern, fördes dit i en av Kriminalvårdens minibussar. Men väl på plats vägrade han kliva ur. Rådmannen och domaren Anita Enocksson försökte övertala honom att delta, men utan resultat. Han har tidigare meddelat att han inte vill medverka vid några rekonstruktioner på platsen. När rättens ledamöter – och Tor Öbergs döttrar – vallades runt på platsen satt han kvar i baksätet på minibussen, bredvid en häktesvakt. Strax efter halv tio på måndagsförmiddagen lämnade minibussen med den misstänkte platsen. Enligt planen återupptas förhandlingarna i Ångermanlands tingsrätt under eftermiddagen. Under fredagens förhör i rättssalen gav den mordmisstänkte för första gången en sammanhängande berättelse om vad som hände på gården den 31 maj 2005. Han läste upp en redogörelse som han skrivit under tiden i häktet, där han suttit i snart fem månader. Enligt mannen kom han till gården av en slump efter att ha hört skrik, och när han kom dit såg han två män lämna platsen. Han hävdar att han sedan hittade kvinnan livlös med ”otäcka skador” i huvudet. Han säger själv att han fick panik och drog in den döda kvinnan en lada. – Jag var rädd att bli misstänkt om någon skulle hitta henne, påstod han under rättegången.",
+          "url": "https://www.expressen.se/nyheter/krim/misstankte-mordaren-tillbaka-i-brattas-vagrar-kliva-ur-bilen/",
+          "image_url": "https://static.bonniernews.se/images/cc/31/cc31a6be0fe742478805ee8350530fc0/16x9/original.jpg",
+          "published_at": "2026-08-24T08:32:31Z",
+          "embed_url": "https://www.expressen.se/nyheter/krim/misstankte-mordaren-tillbaka-i-brattas-vagrar-kliva-ur-bilen/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "46012f4075da",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4223,7 +4271,7 @@
           "source_kind": "story",
           "title": "Förslaget efter Fagersta",
           "summary": "Regeringen tillsätter en skoldådskommission efter dådet i Fagersta. Utbildningsminister Simona Mohamsson (L) riktar sig direkt till föräldrar och elever under en pressträff på måndagen. – Jag vill försäkra er om att jag och regeringen gör allt, säger hon.",
-          "body_text": "Regeringen tillsätter en skoldådskommission efter dådet i Fagersta. Utbildningsminister Simona Mohamsson (L) riktar sig direkt till föräldrar och elever under en pressträff på måndagen. – Jag vill försäkra er om att jag och regeringen gör allt, säger hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Moderaterna, Kristdemokraterna och Liberalerna tillsätter en Skoldådskommission efter attacken mot Brinellskolan i Fagersta, meddelar regeringen på måndagen. Kommissionen ska förhindra framtida våldsdåd i skolan. Arbetet i kommissionen ska bland annat gå ut på att analysera hur man kan förebygga framtida skoldåd och risken att skolattacker inspirerar så kallade ”copycats”. Den ska även jobba med att stoppa radikalisering på internet och stärka säkerheten på Sveriges skolor. På måndagsförmiddagen håller L-ledaren Simona Mohamsson – som också är utbildningsminister – en pressträff tillsammans med Skolverkets tf generaldirektör Christina Månberg. Mohamsson inleder pressträffen med att säga att hon känner med alla som drabbats av attacken i Fagersta. Sedan riktar hon sig mot föräldrar och elever runtom i Sverige: – Nu väntar en ny skolvecka. Jag förstår att man känner oro och ångest. Prata om det som har hänt även om det känns tufft. Jag vill försäkra er om att jag och regeringen gör allt för att säkerställa tryggheten i skolan. Regeringen har under den gångna mandatperioden vidtagit flera åtgärder för att göra skolorna säkrare, berättar minister. Det handlar bland annat om att rektorer är skyldiga att anmäla brott kopplat till skolmiljön, och att det blivit obligatoriskt för skolor att utforma beredskapsplaner och ha ett löpande beredskapsarbete. Men efter attacken i Fagersta kan det bli aktuellt att göra mer, säger Simona Mohamsson. – Jag utesluter inga ytterligare åtgärder framåt när vi får en klarare bild av vad som har skett.",
+          "body_text": "Regeringen tillsätter en skoldådskommission efter dådet i Fagersta. Utbildningsminister Simona Mohamsson (L) riktar sig direkt till föräldrar och elever under en pressträff på måndagen. – Jag vill försäkra er om att jag och regeringen gör allt, säger hon. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Moderaterna, Kristdemokraterna och Liberalerna tillsätter en Skoldådskommission efter attacken mot Brinellskolan i Fagersta, meddelar regeringen på måndagen. Kommissionen ska förhindra framtida våldsdåd i skolan. Regeringen tillsätter en skoldådskommission efter attacken mot Brinellskolan i Fagersta. Kommissionen ska se hur framtida skoldåd kan förebyggas och hur skolor kan bli tryggare. Den ska också titta på risken för så kallade ”copycats” och på radikalisering på nätet. Utbildningsminister Simona Mohamsson säger att regeringen gör allt för att stärka säkerheten i skolan. Hon öppnar för fler åtgärder, men vill inte dra för snabba slutsatser om mobilförbudet efter händelsen. Arbetet i kommissionen ska bland annat gå ut på att analysera hur man kan förebygga framtida skoldåd och risken att skolattacker inspirerar så kallade ”copycats”. Den ska även jobba med att stoppa radikalisering på internet och stärka säkerheten på Sveriges skolor. På måndagsförmiddagen håller L-ledaren Simona Mohamsson – som också är utbildningsminister – en pressträff tillsammans med Skolverkets tf generaldirektör Christina Månberg.",
           "url": "https://www.expressen.se/nyheter/politik/mohamsson-haller-presstraff-om-skolsakerheten/",
           "image_url": "https://www.expressen.se/images/logotype-for-sharing.png",
           "published_at": "2026-08-24T08:02:14Z",
@@ -4235,7 +4283,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 2
         },
         {
           "id": "d68a62cf00e8",
@@ -4259,7 +4307,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "fda523ece468",
@@ -4283,7 +4331,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "0317c5dda707",
@@ -4293,9 +4341,9 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "JUST NU: Svarar efter SD-utspelet",
+          "title": "L-ledaren svarar efter SD-utspelet",
           "summary": "Jimmie Åkesson gick i helgen ut och tog avstånd från Liberalerna. Nu svarar Simona Mohamsson. – Jag kommer inte att kalla honom quisling, men jag undrar, säger hon till Expressen.",
-          "body_text": "Jimmie Åkesson gick i helgen ut och tog avstånd från Liberalerna. – Jag kommer inte att kalla honom quisling, men jag undrar, varför pratar vi inte om vänstersidan? säger hon till Expressen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Sverigedemokrater ska inte stödrösta på andra partier, gjorde Jimmie Åkesson tydligt i ett inlägg på X i söndags. Han beskrev Tidökollegan L som ”en bromskloss” och ”politiska motståndare”. I SVT:s partiledarutfrågning satte han dessutom en slags deadline på partiet – om L inte nått upp till 3,5 procent opinionsstöd med tio dagar kvar till valet borde alla Tidöväljare överge partiet, tycker han. Nu svarar L-ledaren Simona Mohamsson på Åkessons känga. – Jag kommer inte att kalla honom quisling, men jag undrar, varför pratar vi inte om vänstersidan? Mitt fokus är de rödgröna och att stoppa det kaos som Sverige riskerar att hamna i om de får ta över makten. Mohamsson understryker att hon fortfarande tror på Tidöprojektet och att partiernas fokus borde ligga på att vinna valet och få sitta fyra till år i regering. Enligt henne är det viktigt att Tidösidan vinner valet för att inte få den ”mest vänsterlutande regering Sverige någonsin haft”. – Om man gör matematiken så förstår man att en förutsättning för att vi ska kunna fortsätta i ett blågult lag är att Liberalerna är med. Det är en förutsättning för att Ulf ska kunna fortsätta vara statsminister. Det är en förutsättning för att Jimmie ens ska bli minister är att Liberalerna finns med. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "body_text": "Jimmie Åkesson gick i helgen ut och tog avstånd från Liberalerna. – Jag kommer inte att kalla honom quisling, men jag undrar, varför pratar vi inte om vänstersidan? säger hon till Expressen. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Sverigedemokrater ska inte stödrösta på andra partier, gjorde Jimmie Åkesson tydligt i ett inlägg på X i söndags. Han beskrev Tidökollegan L som ”en bromskloss” och ”politiska motståndare”. I SVT:s partiledarutfrågning satte han dessutom en slags deadline på partiet – om L inte nått upp till 3,5 procent opinionsstöd med tio dagar kvar till valet borde alla Tidöväljare överge partiet, tycker han. Nu svarar L-ledaren Simona Mohamsson på Åkessons känga. – Jag kommer inte att kalla honom quisling, men jag undrar, varför pratar vi inte om vänstersidan? Mitt fokus är de rödgröna och att stoppa det kaos som Sverige riskerar att hamna i om de får ta över makten. Mohamsson understryker att hon fortfarande tror på Tidöprojektet och att partiernas fokus borde ligga på att vinna valet och få sitta fyra till år i regering. Enligt henne är det viktigt att Tidösidan vinner valet för att inte få den ”mest vänsterlutande regering Sverige någonsin haft”. – Om man gör matematiken så förstår man att en förutsättning för att vi ska kunna fortsätta i ett blågult lag är att Liberalerna är med. Det är en förutsättning för att Ulf ska kunna fortsätta vara statsminister. Det är en förutsättning för att Jimmie ens ska bli minister är att Liberalerna finns med. – Jag är den högerledare som nu fortfarande varje dag kommer visa på att jag tror på det här Tidöprojektet helhjärtat. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/politik/mohamsson-slar-tillbaka-efter-sd-utspelet/",
           "image_url": "https://static.bonniernews.se/images/e4/43/e44334136cc34cd2b08f58176442c5c5/16x9/original.jpg",
           "published_at": "2026-08-24T06:56:47Z",
@@ -4307,7 +4355,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "72f1fa53938e",
@@ -4331,7 +4379,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "a23caf084305",
@@ -4355,7 +4403,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "3b5f5cab977c",
@@ -4372,54 +4420,6 @@
           "image_url": "https://static.bonniernews.se/images/62/88/6288d26aefc3410bb97d958042ba54e7/16x9/original.png",
           "published_at": "2026-08-24T04:03:17Z",
           "embed_url": "https://www.expressen.se/nyheter/sverige/mohamed-20-raddade-skadade-killen-i-fagersta/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 6
-        },
-        {
-          "id": "fdb3c9707f2f",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Varnar föräldrar för trenden bland unga",
-          "summary": "Fältpersonal som arbetar bland ungdomar varnar för att tonåringar dricker sig berusade på handsprit. – Det är inte ett nytt fenomen, men vi ser ett uppsving nu, säger fältpedagog Linnéa Norberg.",
-          "body_text": "Fältpersonal som arbetar bland ungdomar varnar för att tonåringar dricker sig berusade på handsprit. – Det är inte ett nytt fenomen, men vi ser ett uppsving nu, säger fältpedagog Linnéa Norberg. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Hon och kollegan Ida Assarsson Bystedt i Fältgruppen i Umeå kommun nämner flera tecken på den farliga trenden: tomma handspritsflaskor på festställen, polisens iakttagelser, samtal från allmänheten som oroar sig för så unga som 12- och 13-åringar – och uppsnappade samtal mellan ungdomar. – När vi tar hand om ungdomar som druckit för mycket och skickar dem till sjukhus vet vi inte alltid vad de har druckit, men vi hör och ser indikationerna på att handsprit förekommer, säger Ida Assarsson Bystedt. I ett Facebookinlägg vädjar Fältgruppen till föräldrar och andra vuxna att prata med tonåringarna och sätta gränser. Att dricka handsprit kan vara förenat med livsfara, konstaterar Erik Lindeman, läkare vid Giftinformationscentralen. – Faran är framför allt att man dricker en väldigt stark sprit. Handsprit innehåller som regel 70 procent etanol. Det finns också handsprit som innehåller isopropanol som gör personen ännu mer berusad. Det är fullständigt livsfarligt – du blir akut alkoholförgiftad och kan mycket väl kräkas, dra ned det i lungorna och hittas död. Umeå är inte ensamt om att ha ungdomar som berusar sig på handsprit. Giftinformationscentralen får ett femtiotal samtal årligen om just unga och handsprit. – Siffran har legat relativt konstant de senaste åren, så vi ser ingen ökning, säger Erik Lindeman. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/sverige/varnar-foraldrar-unga-berusar-sig-pa-handsprit/",
-          "image_url": "https://static.bonniernews.se/images/ab/12/ab12cdca10b74158bdfe735995ec1bbf/16x9/original.jpg",
-          "published_at": "2026-08-24T04:01:42Z",
-          "embed_url": "https://www.expressen.se/nyheter/sverige/varnar-foraldrar-unga-berusar-sig-pa-handsprit/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "744d8da838a9",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Rita, 32, misstänks för ryska generalmordet",
-          "summary": "I juni dödades den ukrainska landsförrädaren Robert Shagejev i ett bombdåd. Nu misstänks den ryska reseledaren Margarita Reut, 32, för mordet. – Det fanns inget som tydde på att hon skulle göra detta, säger hennes chef till The Guardian.",
-          "body_text": "I juni dödades den ukrainska landsförrädaren Robert Shagejev i ett bombdåd. Nu misstänks den ryska reseledaren Margarita Reut, 32, för mordet. – Det fanns inget som tydde på att hon skulle göra detta, säger hennes chef till The Guardian. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. I samband med att Ryssland tog Krim 2014 hoppade den ukrainska amiralen Robert Shagejev av till Ryssland. Shagejev var befälhavare på Ukrainas enda ubåt vid tillfället. Han har stigit i rang under sina år inom den ryska marinen, och varit ett mål för Ukraina under lång tid. Den 13 augusti promenerade han från sitt hem i Sevastopol. När han gick förbi en soptunna small det till. Bara timmar senare greps en 32-årig rysk kvinna misstänkt för mordet. Nu målar hennes vänner upp en helt annan bild av Margarita ”Rita” Reut. Ryska myndigheter meddelade gripandet bara några timmar efter attentatet. The Guardian har pratat med flera av Reuts vänner och gamla kollegor. De vittnar om en äventyrslysten kvinna som gillade fallskärmshoppning, att köra go-kart och att resa. – Margarita var orädd. Hon klättrade i träd, hoppade från bilar, gjorde sådant som de flesta pojkar inte vågade, säger en barndomsvän. Hon föddes i Jaroslavl, nordost om Moskva, men flyttade senare till Sotji vid Svartahavskusten. Där jobbade hon först som reseledare, innan hon fick jobb på ett alternativmedicinskt företag specialiserat på livslängd.",
-          "url": "https://www.expressen.se/nyheter/varlden/rita-32-misstanks-for-toppmordet/",
-          "image_url": "https://static.bonniernews.se/images/df/05/df05e114d5604850a6d4ab939f1ff251/16x9/original.png",
-          "published_at": "2026-08-24T00:33:41Z",
-          "embed_url": "https://www.expressen.se/nyheter/varlden/rita-32-misstanks-for-toppmordet/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4480,7 +4480,7 @@
           "source_kind": "live",
           "title": "Expressen Direkt",
           "summary": "Expressens direkflöde med senaste nyheterna i korthet • Största nyhetshändelserna i Sverige och världen",
-          "body_text": "En 26-årig man som misstänks ha våldtagit en kvinna i Västsverige har överlämnats från Italien till Sverige. Våldtäkten ska ha skett i kvinnans hem 2023, och de inblandade ska vara ytligt bekanta med varandra. Efter övergreppet ska mannen ha hotat att skada kvinnan och sedan lämnat i hennes bil. Den misstänkte lämnade sedan Sverige och har gömt sig på olika platser i Europa. Han häktades i sin utevaro och har efter att ha blivit gripen av italiensk polis i Florens överlämnats till Sverige i förra veckan. Mannen är nu häktad, misstänkt för våldtäkt samt olaga hot och grovt olovligt förfogande, skriver polisen på sin hemsida. Myndigheter i den amerikanska delstaten Nevada har uppmanat omkring 42 000 människor att lämna sina hem för att skydda sig mot en snabbt spridande skogsbrand. Ytterligare 45 000 personer i delstaten uppmanas göra sig beredda på att de kan behöva evakuera i takt med att branden närmar sig staden Reno. På söndagseftermiddagen, lokal tid, brann det på en yta på omkring 6 000 hektar. Flera hus har förstörts och sex personer skadats. Enligt lokala myndigheter har branden inte uppstått naturligt, men det är oklart huruvida den är anlagd eller en olyckshändelse. Flera bilar har kolliderat på riksväg 27 söder om Värnamo, skriver polisen på sin hemsida. Det råder stor påverkan på trafiken med anledning av krocken och vägen har stängts av för trafik. Norges drottning Sonja ställer in ett planerat uppdrag på onsdag, rapporterar Dagbladet. Hon och kronprins Haakon skulle närvara vid Kongens Gardes uppvisning vid slottet på tisdag, men nu är hon struken från programmet och evenemanget är flyttat till onsdag. Det framgår inte varför drottningen inte kommer närvara. Men hennes man, kung Harald, har sedan en tid tillbaka legat inlagd på sjukhus på grund av en bakterieinfektion i blodet. På söndagen meddelade norska hovet att Haralds hälsotillstånd har förvärrats över helgen. Det är problem för Västtrafiks app. På grund av det får alla resenärer resa gratis i 30 minuter, rapporterar GP. Biljetter laddar inte som de ska i appen för vissa användare och därför har man lagt upp en gratisbiljett som gäller i 30 minuter. Den biljetten gäller i hela regionen och fram till att strulet är löst. En bil körde tidigt under morgonen in i en vägg vid en påfart på Essingeleden, rapporterar P4 Stockholm. Efteråt ska flera personer ha lämnat den kvaddade bilen och lämnat tunneln via nödutgångar. Polisen rubricerar händelsen som smitning och märkesförfalskning, enligt radion. Ingen har gripits.",
+          "body_text": "En person har hittats död i Hällefors, skriver polisen på sin hemsida. Man har med anledning av det inlett en utredning om mord alternativt dråp och har spärrat av en adress. Polisen fick kännedom om ärendet under måndagsmorgonen. En kniv har hittats på Linköpings universitets campus i Norrköping, rapporterar NT. Polisen bekräftar för tidningen att man varit på plats och hittat en kniv. – Det finns ingen person som man kan koppla den till. Vi har tagit den därifrån för att förverka den. Ingen är just nu misstänkt för något brott, säger polisens presstalesperson Olle Älveroth till tidningen. Ett Gripen-flygplan har störtat i Ungern, meddelar den ungerska regeringen. Planet hör till det ungerska flygvapnet. Dess pilot ska ha lyckats skjuta ut sig, meddelar premiärminister Péter Magyar via sociala medier. Två svenskar har gripits i Thailand, rapporterar thailändska myndigheter enligt Ekot . En av dem uppges vara en känd kriminell som är efterlyst av svensk polis för våldsbrott. Den andra beskrivs som hans medhjälpare. Båda svenskarna ska utlämnas till Sverige, enligt radion. En 26-årig man som misstänks ha våldtagit en kvinna i Västsverige har överlämnats från Italien till Sverige. Våldtäkten ska ha skett i kvinnans hem 2023, och de inblandade ska vara ytligt bekanta med varandra. Efter övergreppet ska mannen ha hotat att skada kvinnan och sedan lämnat i hennes bil. Den misstänkte lämnade sedan Sverige och har gömt sig på olika platser i Europa. Han häktades i sin utevaro och har efter att ha blivit gripen av italiensk polis i Florens överlämnats till Sverige i förra veckan. Mannen är nu häktad, misstänkt för våldtäkt samt olaga hot och grovt olovligt förfogande, skriver polisen på sin hemsida. Myndigheter i den amerikanska delstaten Nevada har uppmanat omkring 42 000 människor att lämna sina hem för att skydda sig mot en snabbt spridande skogsbrand.",
           "url": "https://www.expressen.se/nyheter/expressen-direkt/",
           "image_url": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
           "published_at": "2025-02-03T11:47:19Z",
