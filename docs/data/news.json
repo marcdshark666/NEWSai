@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:58:37Z",
+  "generated_at": "2026-08-24T14:36:07Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "4a013ac9ae84",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Trump eskalerar handelskonflikt med Kanada",
+          "summary": "Nyheter från TV4: Trump eskalerar handelskonflikt med Kanada",
+          "body_text": "Trump eskalerar handelskonflikt med Kanada USA:s president Donald Trump kommer med nya hot i tullbråket med Kanada. ”Den första januari 2027 kommer tullar på alla bilar, lastbilar, både små och stora, bildelar och stål att höjas till 50 procent”, skriver Trump på sitt eget sociala medier-nätverk Truth Social . Tullförhandlingar mellan USA och Kanada har nyligen strandat, vilket har inneburit att USA införde 50-procentiga tullar på en lång rad kanadensiska varor. Kanadas premiärminister Mark Carney satte hårt mot hårt och presenterade i helgen svarstullar gentemot USA, som ska gälla från och med september. I fjol meddelade Trump bland annat en 25-procentig tull på bilar och lastbilar från Kanada. Nu höjs alltså insatserna ytterligare i konflikten. ”Börja bygg i USA så kommer ni ha noll tullar. Kanada kommer inte längre behandlas som en delstat\", fortsätter Trump.",
+          "url": "https://www.tv4.se/artikel/tt-260824-usatullar1-8844b6e5/trump-eskalerar-handelskonflikt-med-kanada",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlpGtsrfWxKl8/b5be659b671834211ff0c89828c388a3/Donald_Trump._Arkivbild.",
+          "published_at": "2026-08-24T14:02:38Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260824-usatullar1-8844b6e5/trump-eskalerar-handelskonflikt-med-kanada",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "0fcf5f71978a",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "08540d30d453",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "78f0882024b6",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "824af9f9a113",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdl3KUg9GJFAhI/973aca802c308ba89c6bdd74b54e9bba/Hogre_tillvaxt_i_OECD-landerna_i_andra_kvartalet._Arkivbild",
           "published_at": "2026-08-24T10:23:25Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260824-oecdtillvaxt1-dbb8ab78/nagot-hogre-tillvaxt-i-oecd-landerna",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "51968a296db4",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "SSAB lyfter i tullkriget mellan USA och Kanada",
-          "summary": "Nyheter från TV4: SSAB lyfter i tullkriget mellan USA och Kanada",
-          "body_text": "SSAB:s aktie lyfter när tullkriget mellan Kanada och USA får nytt liv. Arkivbild SSAB lyfter i tullkriget mellan USA och Kanada SSAB ses som en vinnare efter helgens återupplivade handelskonflikt mellan USA och Kanada. Slopade tullar mellan länderna – som nu inte blir av – hade sabbat konkurrensfördelar för den svenska ståltillverkaren. SSAB-aktien stiger nästan 4 procent sedan förhandlingarna mellan USA och Kanada avslutats utan uppgörelse, vilket lett till nya 50-procentiga USA-tullar på kanadensiska varor för 20 miljarder dollar och ett kanadensiskt hot om att svara med samma mynt ”dollar för dollar”. SSAB-aktien har med måndagens lyft gått upp 44 procent sedan årsskiftet. Aluminiumbjässen Norsk Hydro är en annan aktie som går bra efter helgens höga tonläge kring nya tullar från Washington och Ottawa.",
-          "url": "https://www.tv4.se/artikel/tt-260824-ssabusa1-15e1b34d/ssab-lyfter-i-tullkriget-mellan-usa-och-kanada",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlOGm9jeCxgrQ/85cb8bbb6b689ffec07f37664b3f3025/SSAB_s_aktie_lyfter_nar_tullkriget_mellan_Kanada_och_USA_far_nytt_liv._Arkivbild",
-          "published_at": "2026-08-24T08:03:15Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260824-ssabusa1-15e1b34d/ssab-lyfter-i-tullkriget-mellan-usa-och-kanada",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -752,7 +752,7 @@
           "body_text": "SVT:s fördjupande nyhetsprogram. Mer om programmet Fagersta: Minst två allvarligt skadade i skolattack • Fagersta: 18-årig man misstänks gick till attack med svärd • Skolattacken i Fagersta: Stad i chock – Kommunen upprättar kriscentrum Mer om programmet Busch om C-inviten: Irriterad på oppositionen • Handtransplantationer: Väcker hopp och kritik • Sjukvården: Väljarnas viktigaste fråga Mer om programmet Rödgröna motsättningar: Kampen hårdnar mellan C och V • ROT-avdrag: Fusk för miljoner • Ukraina: Nu utmanas Zelenskyj Mer om programmet Opinionsläget: Kan Tidöpartierna komma ikapp? • Opinionsläget: Varför ser det ut som det gör? • Hälsa: Elfte fallet av mässling Mer om programmet VAL 2026: Höstens första partiledardebatt igång • Ukrainakriget: Ukrainska attacker intensifieras • Debatt om glesbygden: Kullgren (KD) möter Helldén (MP) Mer om programmet Publiceras: Ikväll 21:00 Ikväll 21:00 • 38 min Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KDvvyYz/aktuellt/ons-19-aug-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54750329/1787165632?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-08-19T19:00:00Z",
+          "published_at": "2026-08-19T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/KDvvyYz/aktuellt/ons-19-aug-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -2830,12 +2830,12 @@
           "category": "Economia",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Juan Pablo Varillas vs Luka Pavlovic ONLINE: a qué hora y dónde ver el partido por la qualy del US Open 2026",
+          "title": "Partido, Juan Pablo Varillas vs Luka Pavlovic EN DIRECTO HOY: horario y canal TV por la qualy del US Open 2026",
           "summary": "Juan Pablo Varillas vs Luka Pavlovic EN VIVO: hora, fecha y canal para ver el partido por la primera ronda de la qualy del US Open 2026.",
           "body_text": "Juan Pablo Varillas (236ºATP) se enfrenta al francés Luka Pavlovic (207ºATP) este lunes 24 de agosto de 2026 por la primera ronda de la qualy del US Open 2026, torneo que se disputa sobre superficie dura en Nueva York. El tenista peruano buscará superar su primer desafío en la fase de clasificación y acercarse al cuadro principal del último Grand Slam de la temporada. El partido entre Juan Pablo Varillas y Luka Pavlovic se disputará este lunes 24 de agosto desde las 10:00 a.m. (hora peruana), de acuerdo con la programación establecida para la jornada. El encuentro se desarrollará en el Court 13 del USTA Billie Jean King National Tennis Center, en Nueva York. El partido entre Juan Pablo Varillas y Luka Pavlovic será transmitido EN VIVO vía streaming por Disney+, plataforma que ofrece la cobertura de los principales torneos de tenis para la región. Los aficionados peruanos podrán seguir el debut del representante nacional en la qualy del US Open 2026 a través de este servicio. Juan Pablo Varillas afrontará ante Luka Pavlovic un importante desafío en su camino hacia el cuadro principal del US Open 2026. El peruano intentará superar la primera ronda de la clasificación y sumar una victoria que le permita acercarse a uno de los escenarios más importantes del tenis mundial. El duelo ante el serbio será el primer paso de Varillas en una fase de clasificación que exige superar tres rondas para conseguir un lugar en el cuadro principal del Grand Slam estadounidense. El ganador avanzará a la segunda ronda de la qualy, donde tendrá un nuevo y exigente partido en busca de continuar con vida en Nueva York.",
           "url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-luka-pavlovic-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-qualy-us-open-2026-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/P7NYOAXBZBEBDP7A7U5IWZCJ6E.png?auth=26e9bcbebe5a9a332ffb8e88005748e2990e15c42e66fd6227edf5cf486fbd06&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-24T13:41:28Z",
+          "published_at": "2026-08-24T14:23:30Z",
           "embed_url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-luka-pavlovic-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-qualy-us-open-2026-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3107,12 +3107,12 @@
           "category": "Mundo",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Juan Pablo Varillas vs Luka Pavlovic ONLINE: a qué hora y dónde ver el partido por la qualy del US Open 2026",
+          "title": "Partido, Juan Pablo Varillas vs Luka Pavlovic EN DIRECTO HOY: horario y canal TV por la qualy del US Open 2026",
           "summary": "Juan Pablo Varillas vs Luka Pavlovic EN VIVO: hora, fecha y canal para ver el partido por la primera ronda de la qualy del US Open 2026.",
           "body_text": "Juan Pablo Varillas (236ºATP) se enfrenta al francés Luka Pavlovic (207ºATP) este lunes 24 de agosto de 2026 por la primera ronda de la qualy del US Open 2026, torneo que se disputa sobre superficie dura en Nueva York. El tenista peruano buscará superar su primer desafío en la fase de clasificación y acercarse al cuadro principal del último Grand Slam de la temporada. El partido entre Juan Pablo Varillas y Luka Pavlovic se disputará este lunes 24 de agosto desde las 10:00 a.m. (hora peruana), de acuerdo con la programación establecida para la jornada. El encuentro se desarrollará en el Court 13 del USTA Billie Jean King National Tennis Center, en Nueva York. El partido entre Juan Pablo Varillas y Luka Pavlovic será transmitido EN VIVO vía streaming por Disney+, plataforma que ofrece la cobertura de los principales torneos de tenis para la región. Los aficionados peruanos podrán seguir el debut del representante nacional en la qualy del US Open 2026 a través de este servicio. Juan Pablo Varillas afrontará ante Luka Pavlovic un importante desafío en su camino hacia el cuadro principal del US Open 2026. El peruano intentará superar la primera ronda de la clasificación y sumar una victoria que le permita acercarse a uno de los escenarios más importantes del tenis mundial. El duelo ante el serbio será el primer paso de Varillas en una fase de clasificación que exige superar tres rondas para conseguir un lugar en el cuadro principal del Grand Slam estadounidense. El ganador avanzará a la segunda ronda de la qualy, donde tendrá un nuevo y exigente partido en busca de continuar con vida en Nueva York.",
           "url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-luka-pavlovic-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-qualy-us-open-2026-noticia/",
           "image_url": "https://elcomercio.pe/resizer/v2/P7NYOAXBZBEBDP7A7U5IWZCJ6E.png?auth=26e9bcbebe5a9a332ffb8e88005748e2990e15c42e66fd6227edf5cf486fbd06&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-08-24T13:41:28Z",
+          "published_at": "2026-08-24T14:23:30Z",
           "embed_url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-luka-pavlovic-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-qualy-us-open-2026-noticia/",
           "play_mode": "page_iframe",
           "article_type": "text",
@@ -3940,33 +3940,9 @@
       "source_kind": "story",
       "live_section": false,
       "status": "ok",
-      "article_count": 4,
+      "article_count": 2,
       "priority_split": 0,
       "articles": [
-        {
-          "id": "9dc21e14e4de",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Boosted gave me a defective scooter. It broke my finger.",
-          "summary": "I was looking forward to riding the Rev — the popular electric skateboard maker’s first foray into scooters — so I was a bit taken aback, one fine Friday morning, when the scooter nearly took the tip of my finger clean off.",
-          "body_text": "This is not a review of Boosted’s new Rev scooter. This is a cautionary tale — and a bloody one. I was really looking forward to testing the Boosted Rev — the popular electric skateboard maker’s first foray into two-wheeled mobility. It promised to be a fast, more-durable riding experience than many of its competitors, plus the thing was just sick to look at, all metal and black rubber. Having gotten my hands on a review unit, I couldn’t wait to ride it — so I was a bit taken aback, one fine Friday morning, when the scooter nearly took the tip of my finger clean off. I was leaving my apartment building, ready to start the day, carrying the scooter in the folded position, with the handlebar stalk bent over and clicked into the rear wheel hub. This was supposed to be a stable way to carry and store the three-and-a-half foot tall, 48-pound scooter. At least that’s what I thought until the handlebars suddenly detached, and the ring finger on my right hand was crushed in the scooter’s hinge. [Image: The blood spattered floor in my building’s lobby https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18319588/ahawkins_190628_3553_0002.jpg?quality=90&strip=all] The pain didn’t come right away. “Oh no,” I thought, as blood sprayed across the floor, bright red against the white tiled marble. “The lobby was just cleaned.” A quick examination of the wound revealed multiple deep lacerations and a fingernail skewed at a distressing angle. Folks, I am not exaggerating when I say it looked like the tip of my finger was hanging by a thread. The Rev is no dinky 25-pound electric scooter, the type that can be rented in many cities around the world (or easily tossed into a river, as it were). This scooter is nearly 50 pounds, a little over twice that of Xiaomi’s most popular model. Boosted wanted its first scooter to be “vehicle grade,” strong enough to withstand the bumps and potholes of city-riding, but designed to handle any terrain imaginable. If the Xiaomi is a Toyota Camry of electric scooters, the Boosted Rev is the Ford F-150. I felt every ounce of that weight when the hinge snapped closed on my finger. I wrapped my mangled digit in my t-shirt and raced upstairs to tell my wife what happened. My four-year-old daughter took one look at me, saw the dark blood staining my shirt, and burst into tears. The pain was starting to come, but I wasn’t fully clear on what it meant. Thinking the wound wasn’t that bad, I decided to simply pop by an urgent care clinic. I even took a few minutes to mop up the blood in the lobby before heading out. But it didn’t take long to realize the injury was more severe than I first thought. “Nope,” the urgent care doctor said after a quick glance at the finger. “You need to go to the emergency room and see a hand surgeon. Like, immediately.” In my nearly four decades on this planet, I have never broken a bone, nor have I ever been to the ER. I’m a pretty risk-averse person, avoiding things like team sports, parachutes, bungee cords, ziplines, or anything that requires you to sign a waiver. That said, I bike regularly in New York, an activity that unfortunately is far more dangerous than it should be. I’m aware of the rise in head injuries associated with electric scooters, but never imagined that simply carrying a scooter could result in bodily harm. Still, as I sat in the ER waiting room at Methodist Hospital in Brooklyn, watching a woman vomit into a plastic bag, I found it difficult to muster up too much acrimony. Should I be mad at Boosted for ruining my enjoyment of what so-far I found to be a well-produced and thoroughly enjoyable electric scooter? At myself for attempting to carry the nearly 50-pound beast instead of doing the practical thing, unfolding it and rolling it outside? It was only later, after the doctor had injected me with anesthesia (first shot incredibly painful, next two shots much less so), removed my fingernail (!!), reset the bone, stitched up the lacerations, and splinted the finger, that I started to feel pissed off. It was summer time, and a broken finger was going to seriously cramp my style. No swimming or bike riding for at least a month. I would have difficulty doing basic stuff like taking care of my kids. My wife had already canceled her weekend plans to help me recover. All because of a scooter that, again, I wasn’t even riding at the time. Right after I left the ER, my phone rang. It was Boosted, calling to warn me about a possible defect. [Image: Me and the Boosted Rev, in happier times https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16277388/boosted_rev_scooter_4349.jpg?quality=90&strip=all] I’m not going to lecture you on the inherent dangers of reviewing consumer products for a website, because for the most part there are none. Some of my coworkers have put their bodies in harm’s way to bring you all the unbiased product reviews you’ve come to rely on, but only mildly so. Bruised feet, injured faces (mostly from dropped phones, to be honest), concussions (not from reviewing a product, but subsequently turned into content), and bruised elbows and tailbones. Other product reviewers have told us tales of strained backs and lightly roasted thighs from overheated laptops. But a quick survey of my Verge colleagues revealed my broken finger appears to be among the worst injuries sustained in the line of duty. Not a distinction I’m proud of, but I’ll take it. I am not a war correspondent or the kind of journalist who puts his life in danger to bring essential coverage from the frontlines of conflicts around the world. I broke my finger carrying an electric scooter. It feels dumb to be writing about this, but my broken finger was no freak accident, and hundreds (if not thousands) of people are likely very excited to jump on their Rev scooters when it starts shipping in a few days. So dumb, but relevant. To be sure, electric scooters are really dangerous. The degree to which people are breaking bones and sustaining head injuries while riding e-scooters is alarming public health officials, who recently put out a study that found 20 people injured per 100,000 e-scooter trips over a three-month period. Of those injured riders, almost half sustained head injuries. Fifteen percent experienced traumatic brain injuries. Some of these injuries could have been prevented by wearing a helmet, but only one of 190 injured scooter riders was wearing one. (Cars are exponentially more dangerous than scooters, especially to people who aren’t in them, but that is a subject for a different day.) If I had taken a bad fall while riding the scooter, I don’t think I would feel as disappointed as I do today. That would be an understandable byproduct of riding an electric scooter in a big city in the Year of our Lord 2019. If anything, it’s practically inevitable. As scooters proliferate in cities across the world, safety officials are wringing their hands about how best to protect riders. There’s been a renewed focus on scooter safety after the death of YouTuber Emily Hartridge, who was killed recently when her scooter was hit by a truck in London. [Image: The hungry maw of the scooter’s hinge https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16277392/boosted_rev_scooter_4366.jpg?quality=90&strip=all] Boosted’s solution was to build a better scooter. So how did this happen? After sending the offending scooter back to Boosted in California, I got on the phone with the company’s CEO Jeff Russakow and co-founder and CTO John Ulman to see if they could provide an adequate explanation. In short, Boosted fucked up. Shocking, right? First of all, the company gave us a pre-production unit to review, which from a reviewer’s standpoint is irksome because it puts us in the position of attempting to evaluate an unfinished version of a product that may not resemble what ultimately ends up in the hands of consumers. As an editorial policy, we do not provide scoring or any buying recommendations based on experiences with pre-production products. So here’s what happened: in the rush to get us a fresh-looking scooter for a review, Boosted swapped out some parts on its pre-production unit with newer ones. According to Russakow, this scooter had been ridden around for a few months by employees, as well as friends and family of the company, and probably looked a little worse for the wear. So the company directed a technician to exchange some of the more worn-down looking parts with newer ones. It then sent the scooter to our New York office for me to test for a few weeks. You can see where this is going. Two of those parts, the stem catch in the handlebars and stomp brake on the rear hub, were mismatched. The pins in the stem catch were too wide, and weren’t sliding in properly to the grove on the stomp brake, gouging the plastic in the process. That’s why the handlebars struggled to latch to the rear hub, and why it ultimately popped open when I was carrying it. “I think we clearly gave you a unit that was not in tip-top shape,” Ulman said. “And yeah, that wasn’t okay. We’re super sorry about that.” Russakow added, “It was just a fluke.” [Image: The damaged stem catch and the mismatched stomp brake below. https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18321140/IMG_5214.jpg?quality=90&strip=all] Should journalists be reviewing pre-production units in the first place? It’s hard to say, especially when you take into account the jankiness of even some post-production products. This came up during the great Samsung Galaxy Fold Debacle of 2019, when a number of review units, including The Verge’s, appeared to break during testing. Many reviewers, like The Wall Street Journal’s Joanna Stern, concluded there was no point in weighing in on a foldable tablet that was so clearly not ready. “Are we beta-testing a prototype here?” Stern asked. In the Rev’s case, the answer seems to be yes. All of the reviews that went live at various publications and on YouTube over the last few weeks were of pre-production versions of the scooter — a handful of reviewers even disclosed that fact to their readers. (Time’s Patrick Lucas Austin even went so far as to note that “some pre-production units had issues with the latch disengaging,” but assured readers that “Boosted says the problem has since been fixed.” Oh really?) Russakow defended Boosted’s policy of sending pre-production scooters to journalists, but acknowledged that the company was reevaluating whether it would continue to do so in light of the incident with my finger. “We’re not in the habit of sending pre-production units that we think might have a risk on them either: to our own people, to you, our families, anyone,” he said. “This was literally a case where because we’re trying to get stuff out as fast as we could, we were going with a pre-production unit that we understood or believed to be safe, because we ourselves have been riding it for a long time.” Well, as they say: speed kills. Russakow wanted me to make it clear that this was not going to be an issue for any of its production scooters that had just now started to ship to customers. It was specific to the scooter they gave to me. I hope he’s right. To test the efficacy of the latch mechanism on the Rev, Boosted hooks the scooter to a machine that basically shakes it 250,000 times with 2 Gs of force to try to unlatch it. Then they do it another 100,000 times, but with only one of the two pins in the stem catch attached. This is meant to simulate a person shaking the folded-up scooter over and over again for years, but condensed to just a few minutes. Automakers and smartphone makers do this too. It’s a common practice in manufacturing. The best example is Ford’s so-called “Robutt,” a mechanical butt used to test car seats. Obviously there are some cracks in this system. If a pre-production unit with mismatched parts can slip through, who’s to say the same thing can’t happen to Boosted’s production scooters? Russakow was adamant that it couldn’t, but my bandaged and splinted finger has left me with doubts. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16277384/boosted_rev_scooter_4323.jpg?quality=90&strip=all] Boosted has a lot riding on the Rev. It is racing to prove that electric scooters don’t all have to be as janky as the dockless rental ones scattered across the world right now. They can be a viable — and profitable — means of urban transportation, as long as customers are willing to ditch the Birds and Limes of the world and go with Boosted’s $1,599 version. “We’re seeing thousands and thousands and thousands of people injured on those things,” Russakow said, referring to the dockless scooters. “And so in our case, I’m trying to be at zero instances. The fact that you got nipped with a pre production unit is just a bummer. We work so hard to make sure that the units that we shelve and we ship are safe as can be.” “Safe” isn’t a word that appears in very many reviews of the Rev that have been published so far. Rather it’s being described as “fun,” “an absolute blast,” and “with power to spare,” which is fine. Scooters are fun. Scooters are dangerous too. These things are not mutually exclusive. I did not have an “absolute blast” getting my finger crushed by Boosted’s defective scooter, but if one can break an adult man’s finger, I guess it does have “power to spare.” I look forward to reviewing the Rev myself, but I’ll wait until a production version is ready. I have no doubt that Boosted is going to sell a ton of these things. Statistically, people will get injured riding them too — and their injuries will likely be much worse than a broken finger.",
-          "url": "https://www.theverge.com/2019/7/22/20699803/boosted-rev-electric-scooter-injury-broken-finger",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18322522/VRG_ILLO_3553_001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2019-07-22T13:00:00Z",
-          "embed_url": "https://www.theverge.com/2019/7/22/20699803/boosted-rev-electric-scooter-injury-broken-finger",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": true,
-          "sort_order": 0
-        },
         {
           "id": "124705a62feb",
           "source_id": "theverge-latest",
@@ -3989,7 +3965,7 @@
             "The Verge"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 0
         },
         {
           "id": "cf2abac3858f",
@@ -4013,31 +3989,7 @@
             "The Verge"
           ],
           "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "a72021af2dc0",
-          "source_id": "theverge-latest",
-          "source_name": "The Verge",
-          "provider": "The Verge",
-          "category": "Latest",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "https://www.theverge.com/2019/7/22/20699803/boosted-rev-electric-scooter-injury-broken-finger\\\"\\u003eI",
-          "summary": "",
-          "body_text": "",
-          "url": "https://www.theverge.com/2019/7/22/20699803/boosted-rev-electric-scooter-injury-broken-finger\\\"\\u003eI",
-          "image_url": "",
-          "published_at": null,
-          "embed_url": "https://www.theverge.com/2019/7/22/20699803/boosted-rev-electric-scooter-injury-broken-finger\\\"\\u003eI",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Latest",
-            "The Verge"
-          ],
-          "is_live": false,
-          "sort_order": 3
+          "sort_order": 1
         }
       ]
     },
@@ -4131,7 +4083,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet – kontakt och redaktionell policy",
           "summary": "Om Aftonbladet – kontakt och redaktionell policy",
-          "body_text": "Tjänstgörande redaktörer: Sofia Hedberg , Stefan Sköld och Amanda Niklasson . Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Eric Rosén och Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet Hierta Aktiebolag ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius (verkliga huvudmän, enligt definitionen i artikel 3.6 i direktiv (EU) 2015/849, är styrelseledamöterna i Stiftelsen, vid var tid redovisade här: https://www.tinius.com/en/the-board ) och till 9 procent av Landsorganisationen i Sverige, LO. LO har vetorätt när det gäller att tillsätta Aftonbladets politiska chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Tjänstgörande redaktörer: Sandra Christensen , Edvin Lundqvist och Mattias Kling Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Eric Rosén och Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet Hierta Aktiebolag ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius (verkliga huvudmän, enligt definitionen i artikel 3.6 i direktiv (EU) 2015/849, är styrelseledamöterna i Stiftelsen, vid var tid redovisade här: https://www.tinius.com/en/the-board ) och till 9 procent av Landsorganisationen i Sverige, LO. LO har vetorätt när det gäller att tillsätta Aftonbladets politiska chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/LOlQ4/om-aftonbladet",
           "image_url": "https://akamai.vgc.no/v2/images/11bc7a56-7cf1-4ae6-9bd3-f357872611de?fit=crop&h=675&upscale=true&w=1200&s=344ab4ad89686c61ce5a66acae91e9391538ec39",
           "published_at": "2020-09-02T08:55:45Z",
@@ -4181,7 +4133,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Snygga träningskläder att spana in till hösten:",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
