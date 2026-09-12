@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:36:41Z",
+  "generated_at": "2026-09-12T22:32:01Z",
   "update_interval_minutes": 20,
   "sources": [
     {
@@ -34,6 +34,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "8703223c543a",
+          "source_id": "tv4-ekonomi",
+          "source_name": "TV4 Ekonomi",
+          "provider": "TV4",
+          "category": "Ekonomi",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Altman: Ingen börsnotering för Open AI i år",
+          "summary": "Nyheter från TV4: Altman: Ingen börsnotering för Open AI i år",
+          "body_text": "Altman: Ingen börsnotering för Open AI i år AI-jätten Open AI kommer inte att börsnoteras i år. Det uppger bolagets vd Sam Altman i en intervju på lördagen. I intervjun med Fortune uppger Altman att man för närvarande fokuserar på säkerhetsrelaterade frågor rörande teknologin och att det vore ”ogenomtänkt” att parallellt med detta satsa på att noteras på börsen. Det ska i stället ske nästa år. Jag anser att vi i det här läget är på väg in i en ny era och att vi sannolikt måste – precis som vi tidigare gjort när vi klivit in i nya eror – agera annorlunda i syfte att försäkra oss om att vi gör något som gagnar hela mänskligheten, säger han och pekar betydande risker med den nuvarande utvecklingen på området som han ser. Beskedet kommer sedan både Altman, Anthropics vd Dario Amodei samt entreprenören och miljardären Elon Musk alla varnat för att AI-utvecklingen måste bromsas.",
+          "url": "https://www.tv4.se/artikel/tt-260912-openai1-50f14bc7/altman-ingen-borsnotering-for-open-ai-i-ar",
+          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlrkH29eGWeSc/414c3856f9804125dee227b6526957da/Sam_Altman._Arkivbild.",
+          "published_at": "2026-09-12T21:15:19Z",
+          "embed_url": "https://www.tv4.se/artikel/tt-260912-openai1-50f14bc7/altman-ingen-borsnotering-for-open-ai-i-ar",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Ekonomi",
+            "TV4"
+          ],
+          "is_live": false,
+          "sort_order": 0
+        },
+        {
           "id": "96d0650c201b",
           "source_id": "tv4-ekonomi",
           "source_name": "TV4 Ekonomi",
@@ -55,7 +79,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "689299dfeb41",
@@ -79,7 +103,7 @@
             "TV4"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e3cdba295e64",
@@ -103,7 +127,7 @@
             "TV4"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "667a1c839970",
@@ -120,30 +144,6 @@
           "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlUCEp_wg5l7o/73f69b4097826b9501e75451b8ada2c3/Nvidias_grundare_och_vd_Jensen_Huang._Arkivbild",
           "published_at": "2026-09-12T05:17:16Z",
           "embed_url": "https://www.tv4.se/artikel/tt-260912-usanvidiaanthropic1-311fba82/nvidia-uppges-storsatsa-i-borsnotering-av-ai-bolag",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Ekonomi",
-            "TV4"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
-          "id": "7da059079377",
-          "source_id": "tv4-ekonomi",
-          "source_name": "TV4 Ekonomi",
-          "provider": "TV4",
-          "category": "Ekonomi",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Open AI:s agenter bakom ytterligare cyberattack",
-          "summary": "Nyheter från TV4: Open AI:s agenter bakom ytterligare cyberattack",
-          "body_text": "Open AI står bland annat bakom AI-tjänsten Chat GPT. Arkivbild. Open AI:s agenter bakom ytterligare cyberattack Två månader innan Open AI:s AI-modeller bröt sig ur en testmiljö och attackerade plattformen Hugging Face hade de redan genomfört en annan cyberattack, rapporterar The Wall Street Journal . Det var så kallade AI-agenter som testades av Open AI som genomförde en attack mot Rubygems, en onlinetjänst för kodare, som behövde stoppa registreringen av nya konton för att hantera attacken. Open AI bekräftar att företagets AI-agenter varit inblandade i en händelse kopplad till Rubygems, och uppger att företaget fortsätter att utreda händelsen. Den mer uppmärksammade attacken skedde i juli, då Open AI:s AI-agenter attackerade plattformen Hugging Face. Open AI, som ligger bakom ChatGPT, har tidigare uppgett att det framöver kommer att införa hårdare restriktioner för AI-modellernas internetåtkomst och bättre övervakning.",
-          "url": "https://www.tv4.se/artikel/tt-260912-openai1-c45dab9e/open-ai-s-agenter-bakom-ytterligare-cyberattack",
-          "image_url": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlcSo9FDjV26I/e62db5745851b5930c29f1de57d09d83/Open_AI_star_bland_annat_bakom_AI-tjansten_Chat_GPT._Arkivbild._",
-          "published_at": "2026-09-12T02:12:48Z",
-          "embed_url": "https://www.tv4.se/artikel/tt-260912-openai1-c45dab9e/open-ai-s-agenter-bakom-ytterligare-cyberattack",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -235,7 +235,7 @@
           "source_kind": "video",
           "title": "Annonsera - TV4.se",
           "summary": "Nyheter från TV4: Annonsera",
-          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Kommunalrådets ord om attacken – riktar hård kritik mot SD Partiledarna om attacken mot kommunalrådet: ”Förfärligt” Andersson (S) ger statsministern ”fett underkänt” Hugo, 21, framför egenskriven låt • ”En magi över dig” Katia Mosally i tårar: ”Kan inte lyssna på den låten”",
+          "body_text": "27 april 2023 ・ Uppdaterad: 15 juni 2023 Kristersson om de rödgröna: ”En ny kaosregering” Andersson (S) ger statsministern ”fett underkänt” Kommunalrådets ord om attacken – riktar hård kritik mot SD Partiledarna om attacken mot kommunalrådet: ”Förfärligt” Hugo, 21, framför egenskriven låt • ”En magi över dig” Katia Mosally i tårar: ”Kan inte lyssna på den låten”",
           "url": "https://www.tv4.se/artikel/2RfbhPXnyHDBhsmIlM6eCo/annonsera-www-tv4-se",
           "image_url": "https://imageproxy.a2d.tv/?source=https%3A%2F%2Fassets.tv4.se%2Fimages%2Fdefault-og-image.jpg&width=1200",
           "published_at": "2023-04-27T12:24:20Z",
@@ -311,24 +311,24 @@
       "source_kind": "video",
       "live_section": false,
       "status": "ok",
-      "article_count": 10,
+      "article_count": 12,
       "priority_split": 0,
       "articles": [
         {
-          "id": "00765f51684e",
+          "id": "1ac535332db5",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Sön 6 sep 19:30",
-          "summary": "Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval Mer om programmet",
-          "url": "https://www.svtplay.se/video/8myy5Vk/rapport/son-6-sep-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54884471/1788715556?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "title": "Rapport – Mån 7 sep 19:30",
+          "summary": "Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag",
+          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 15 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 11 sep 19:30 Fre 11 sep • 25 min SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Publiceras: Idag 15:50 Idag 15:50 • 5 min",
+          "url": "https://www.svtplay.se/video/jqPPw25/rapport/man-7-sep-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54893381/1788801889?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-13T23:59:00Z",
-          "embed_url": "https://www.svtplay.se/video/8myy5Vk/rapport/son-6-sep-19-30?video=visa",
+          "embed_url": "https://www.svtplay.se/video/jqPPw25/rapport/man-7-sep-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -339,7 +339,7 @@
           "sort_order": 0
         },
         {
-          "id": "f9b488845c7a",
+          "id": "d23ddd329731",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
@@ -348,11 +348,11 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 23:00",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet",
-          "url": "https://www.svtplay.se/video/jkAA4Yg/rapport/ikvall-23-00",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/35812861/1686133144?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-12T21:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/jkAA4Yg/rapport/ikvall-23-00",
+          "body_text": "Publicerades: Igår 23:00 Igår 23:00 • 4 min 35 sek Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 15:50 Igår 15:50 • 2 min 59 sek Publicerades: Fre 11 sep 23:00 Fre 11 sep • 4 min 44 sek Publicerades: Fre 11 sep 09:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 09:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 08:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 08:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 07:30 Fre 11 sep • 2 min 46 sek Publicerades: Fre 11 sep 07:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 06:30 Fre 11 sep • 3 min 8 sek Publiceras: Idag 15:50 Idag 15:50 • 5 min",
+          "url": "https://www.svtplay.se/video/jkAA4Yg/rapport/ikvall-23-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54937034/1789248321?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-12T15:50:00Z",
+          "embed_url": "https://www.svtplay.se/video/jkAA4Yg/rapport/ikvall-23-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -372,10 +372,10 @@
           "source_kind": "video",
           "title": "Rapport – Ikväll 19:30",
           "summary": "Nyheter från Sverige och världen.",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval Mer om programmet",
+          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 15 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 11 sep 19:30 Fre 11 sep • 25 min SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Publiceras: Idag 15:50 Idag 15:50 • 5 min",
           "url": "https://www.svtplay.se/video/KDvv52G/rapport/ikvall-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54936485/1789235756?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-12T17:30:00Z",
+          "published_at": "2026-09-12T15:50:00Z",
           "embed_url": "https://www.svtplay.se/video/KDvv52G/rapport/ikvall-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -387,30 +387,6 @@
           "sort_order": 2
         },
         {
-          "id": "7e2567a2137f",
-          "source_id": "svt-rapport",
-          "source_name": "Rapport",
-          "provider": "SVT Play",
-          "category": "Nyheter",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Rapport – Igår 19:30",
-          "summary": "SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval Mer om programmet",
-          "url": "https://www.svtplay.se/video/eXvvLMZ/rapport/igar-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54933269/1789147548?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/eXvvLMZ/rapport/igar-19-30?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Nyheter",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 3
-        },
-        {
           "id": "b47c1e2b7df2",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
@@ -420,10 +396,10 @@
           "source_kind": "video",
           "title": "Rapport – Tor 10 sep 19:30",
           "summary": "Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval Mer om programmet",
+          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 15 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 11 sep 19:30 Fre 11 sep • 25 min SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Publiceras: Idag 15:50 Idag 15:50 • 5 min",
           "url": "https://www.svtplay.se/video/KDvvABV/rapport/tor-10-sep-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54923369/1789061204?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T19:30:00Z",
+          "published_at": "2026-09-12T15:50:00Z",
           "embed_url": "https://www.svtplay.se/video/KDvvABV/rapport/tor-10-sep-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -432,7 +408,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 3
         },
         {
           "id": "19ba0518f41e",
@@ -444,10 +420,10 @@
           "source_kind": "video",
           "title": "Rapport – Ons 9 sep 19:30",
           "summary": "Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval Mer om programmet",
+          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 15 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 11 sep 19:30 Fre 11 sep • 25 min SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Publiceras: Idag 15:50 Idag 15:50 • 5 min",
           "url": "https://www.svtplay.se/video/KZxxzDq/rapport/ons-9-sep-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54912764/1788974727?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T19:30:00Z",
+          "published_at": "2026-09-12T15:50:00Z",
           "embed_url": "https://www.svtplay.se/video/KZxxzDq/rapport/ons-9-sep-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -456,7 +432,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 4
         },
         {
           "id": "355b1073bae0",
@@ -468,11 +444,35 @@
           "source_kind": "video",
           "title": "Rapport – Tis 8 sep 19:30",
           "summary": "Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval Mer om programmet",
+          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 15 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 11 sep 19:30 Fre 11 sep • 25 min SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Publiceras: Idag 15:50 Idag 15:50 • 5 min",
           "url": "https://www.svtplay.se/video/8EqqAyb/rapport/tis-8-sep-19-30?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54902927/1788888344?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T19:30:00Z",
+          "published_at": "2026-09-12T15:50:00Z",
           "embed_url": "https://www.svtplay.se/video/8EqqAyb/rapport/tis-8-sep-19-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "00765f51684e",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Sön 6 sep 19:30",
+          "summary": "Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om",
+          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 15 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 11 sep 19:30 Fre 11 sep • 25 min SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Publiceras: Idag 15:50 Idag 15:50 • 5 min",
+          "url": "https://www.svtplay.se/video/8myy5Vk/rapport/son-6-sep-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54884471/1788715556?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-12T15:50:00Z",
+          "embed_url": "https://www.svtplay.se/video/8myy5Vk/rapport/son-6-sep-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -483,20 +483,20 @@
           "sort_order": 6
         },
         {
-          "id": "1ac535332db5",
+          "id": "44fe14c09e4c",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Mån 7 sep 19:30",
-          "summary": "Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval Mer om programmet",
-          "url": "https://www.svtplay.se/video/jqPPw25/rapport/man-7-sep-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54893381/1788801889?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/jqPPw25/rapport/man-7-sep-19-30?video=visa",
+          "title": "Rapport – Idag 15:50",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Publicerades: Igår 23:00 Igår 23:00 • 4 min 35 sek Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 15:50 Igår 15:50 • 2 min 59 sek Publicerades: Fre 11 sep 23:00 Fre 11 sep • 4 min 44 sek Publicerades: Fre 11 sep 09:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 09:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 08:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 08:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 07:30 Fre 11 sep • 2 min 46 sek Publicerades: Fre 11 sep 07:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 06:30 Fre 11 sep • 3 min 8 sek Publiceras: Idag 15:50 Idag 15:50 • 5 min",
+          "url": "https://www.svtplay.se/video/KGVVM4n/rapport/idag-15-50?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54935771/1789221776?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-12T15:50:00Z",
+          "embed_url": "https://www.svtplay.se/video/KGVVM4n/rapport/idag-15-50?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -507,20 +507,20 @@
           "sort_order": 7
         },
         {
-          "id": "21a020adf986",
+          "id": "164c8d4d21bf",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Rapport – Lör 5 sep 19:30",
-          "summary": "Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval",
-          "body_text": "Nyheter från Sverige och världen. Mer om programmet SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Ryssland: Amerikanska sändebud på plats • Elpris: Dyrare vinter att vänta • Tyskland: AFD favoriter i delstatsval Mer om programmet",
-          "url": "https://www.svtplay.se/video/KZxxRZ9/rapport/lor-5-sep-19-30?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54882068/1788629239?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T19:30:00Z",
-          "embed_url": "https://www.svtplay.se/video/KZxxRZ9/rapport/lor-5-sep-19-30?video=visa",
+          "title": "Rapport – Igår 23:00",
+          "summary": "Nyheter från Sverige och världen.",
+          "body_text": "Publicerades: Igår 23:00 Igår 23:00 • 4 min 35 sek Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 15:50 Igår 15:50 • 2 min 59 sek Publicerades: Fre 11 sep 23:00 Fre 11 sep • 4 min 44 sek Publicerades: Fre 11 sep 09:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 09:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 08:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 08:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 07:30 Fre 11 sep • 2 min 46 sek Publicerades: Fre 11 sep 07:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 06:30 Fre 11 sep • 3 min 8 sek Publiceras: Idag 15:50 Idag 15:50 • 5 min",
+          "url": "https://www.svtplay.se/video/j1qqALV/rapport/igar-23-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54934709/1789161836?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-11T23:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/j1qqALV/rapport/igar-23-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -531,20 +531,20 @@
           "sort_order": 8
         },
         {
-          "id": "55f34127a308",
+          "id": "7e2567a2137f",
           "source_id": "svt-rapport",
           "source_name": "Rapport",
           "provider": "SVT Play",
           "category": "Nyheter",
           "surface": "video",
           "source_kind": "video",
-          "title": "Sommarjazz: Brad Mehldau",
-          "summary": "Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024)",
-          "body_text": "USA-reportage med Stefan Åsberg inför valet Brad Mehldau Trio i en spelning från jazzfestivalen Nancy Jazz Pulsations hösten 2024. En trio som i sin nya konstellation består av - förutom Brad Mehldau själv på piano - basisten Felix Moseholm och Jorge Rossy på trummor. På konsertprogrammet framför allt kompositioner och arrangemang av Mehldau själv, som Say Goodbye, Blues Impulse och A Walk In The Park. (Frankrike, 2024) Brad Mehldau Trio at Nancy Jazz Pulsations 2024",
-          "url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/52899126/1750165744?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2025-07-11T00:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/j16GYGD/sommarjazz-brad-mehldau",
+          "title": "Rapport – Igår 19:30",
+          "summary": "SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren",
+          "body_text": "Publicerades: Igår 19:30 Igår 19:30 • 15 min Nyheter från Sverige och världen. Mer om programmet Publicerades: Fre 11 sep 19:30 Fre 11 sep • 25 min SVT Verian: Gapet minskar • Ungdomsarbetslöshet: Uppmaning: Flytta norrut! • Ground Zero: Tyst minut för att hedra offren Mer om programmet Valet 2026: Slutspurt i valkampen • Copernicus: EU bekräftar rekordvärme • Vallokaler: Skolbarn fixar valbås Mer om programmet Riskerna med AI: Skarpa varningar senaste veckorna • Norges Kung Harald: Begravdes idag Mer om programmet Svenska elever: Får dåliga resultat i Pisamätning • Riktat stöd till operationer: Drabbar patienter med större behov • Lådbilsrally i Östersund: Läderlappen på plats Mer om programmet Försvarsmakten: Får raketartilleri • Vänsterpartiet: Stryker åtta kandidater • Nytt varningssystem: Testades idag Mer om programmet Unga väljare: Fler män gillar vänster • Västbanken: Bosättarattackerna ökar • Världen: Nu ritas kartan om Mer om programmet Publiceras: Idag 15:50 Idag 15:50 • 5 min",
+          "url": "https://www.svtplay.se/video/eXvvLMZ/rapport/igar-19-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54933269/1789147548?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-11T19:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/eXvvLMZ/rapport/igar-19-30?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -553,6 +553,54 @@
           ],
           "is_live": false,
           "sort_order": 9
+        },
+        {
+          "id": "4615ccad5b43",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 09:30",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Igår 23:00 Igår 23:00 • 4 min 35 sek Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 15:50 Igår 15:50 • 2 min 59 sek Publicerades: Fre 11 sep 23:00 Fre 11 sep • 4 min 44 sek Publicerades: Fre 11 sep 09:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 09:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 08:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 08:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 07:30 Fre 11 sep • 2 min 46 sek Publicerades: Fre 11 sep 07:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 06:30 Fre 11 sep • 3 min 8 sek Publiceras: Idag 15:50 Idag 15:50 • 5 min",
+          "url": "https://www.svtplay.se/video/e9dyM3z/rapport/igar-09-30?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54928367/1789112496?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-11T09:30:00Z",
+          "embed_url": "https://www.svtplay.se/video/e9dyM3z/rapport/igar-09-30?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 10
+        },
+        {
+          "id": "72998f742cea",
+          "source_id": "svt-rapport",
+          "source_name": "Rapport",
+          "provider": "SVT Play",
+          "category": "Nyheter",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Rapport – Igår 09:00",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Igår 23:00 Igår 23:00 • 4 min 35 sek Nyheter från Sverige och världen. Mer om programmet Publicerades: Igår 15:50 Igår 15:50 • 2 min 59 sek Publicerades: Fre 11 sep 23:00 Fre 11 sep • 4 min 44 sek Publicerades: Fre 11 sep 09:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 09:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 08:30 Fre 11 sep • 2 min 59 sek Publicerades: Fre 11 sep 08:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 07:30 Fre 11 sep • 2 min 46 sek Publicerades: Fre 11 sep 07:00 Fre 11 sep • 7 min Publicerades: Fre 11 sep 06:30 Fre 11 sep • 3 min 8 sek Publiceras: Idag 15:50 Idag 15:50 • 5 min",
+          "url": "https://www.svtplay.se/video/jXv3nn6/rapport/igar-09-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54927740/1789111326?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-11T09:00:00Z",
+          "embed_url": "https://www.svtplay.se/video/jXv3nn6/rapport/igar-09-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Nyheter",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 11
         }
       ]
     },
@@ -596,6 +644,30 @@
           "sort_order": 0
         },
         {
+          "id": "dee19dae992e",
+          "source_id": "svt-aktuellt",
+          "source_name": "Aktuellt",
+          "provider": "SVT Play",
+          "category": "Fordjupning",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Aktuellt – Mån 7 sep 21:00",
+          "summary": "Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter",
+          "body_text": "Publicerades: Fre 11 sep 21:00 Fre 11 sep • 23 min Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "url": "https://www.svtplay.se/video/8YqqNgy/aktuellt/man-7-sep-21-00?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54894041/1788807313?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-13T23:59:00Z",
+          "embed_url": "https://www.svtplay.se/video/8YqqNgy/aktuellt/man-7-sep-21-00?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Fordjupning",
+            "SVT Play"
+          ],
+          "is_live": true,
+          "sort_order": 1
+        },
+        {
           "id": "9d32822d8d31",
           "source_id": "svt-aktuellt",
           "source_name": "Aktuellt",
@@ -605,7 +677,7 @@
           "source_kind": "video",
           "title": "Aktuellt – Igår 21:00",
           "summary": "Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet",
-          "body_text": "Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Fre 11 sep 21:00 Fre 11 sep • 23 min Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/j4ddWZg/aktuellt/igar-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54933917/1789153067?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T21:00:00Z",
@@ -617,7 +689,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "d14f672f2222",
@@ -629,7 +701,7 @@
           "source_kind": "video",
           "title": "Aktuellt – Tor 10 sep 21:00",
           "summary": "EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet",
-          "body_text": "Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Fre 11 sep 21:00 Fre 11 sep • 23 min Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/e4ddWrn/aktuellt/tor-10-sep-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54923996/1789066547?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T21:00:00Z",
@@ -641,7 +713,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "7a501bf24b39",
@@ -653,7 +725,7 @@
           "source_kind": "video",
           "title": "Aktuellt – Ons 9 sep 21:00",
           "summary": "Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra?",
-          "body_text": "Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Fre 11 sep 21:00 Fre 11 sep • 23 min Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/89ddPwy/aktuellt/ons-9-sep-21-00?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54913547/1788980061?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T21:00:00Z",
@@ -665,7 +737,7 @@
             "SVT Play"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "9ef627f4cb62",
@@ -677,35 +749,11 @@
           "source_kind": "video",
           "title": "Aktuellt – Valspurt",
           "summary": "Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat?",
-          "body_text": "Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Fre 11 sep 21:00 Fre 11 sep • 23 min Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/ed66NJ3/aktuellt/valspurt?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54901145/1788873359?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T21:00:00Z",
           "embed_url": "https://www.svtplay.se/video/ed66NJ3/aktuellt/valspurt?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Fordjupning",
-            "SVT Play"
-          ],
-          "is_live": true,
-          "sort_order": 4
-        },
-        {
-          "id": "dee19dae992e",
-          "source_id": "svt-aktuellt",
-          "source_name": "Aktuellt",
-          "provider": "SVT Play",
-          "category": "Fordjupning",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Aktuellt – Mån 7 sep 21:00",
-          "summary": "Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter",
-          "body_text": "Slutdebatt i SVT: Sista sammandrabbningen innan valet • Fem nya opinionsmätningar: Gapet minskar mellan blocken - och L över spärren • Jemen: Huthierna har tagit kontroll över viktiga sundet Mer om programmet EBBA BUSCH:: \"Smutskastning från det egna laget\" • Klimatdebatt:: Kinnunen (SD) möter Helldén (MP) • USA:: Nytt löfte från Trump inför mellanårsvalet Mer om programmet Statsministermötet: Hur avgörande är kvällens duell? • Skrällen i Novus:: Liberalerna rusar till 5,8% • AI-utvecklingen: Vad bör politikerna göra? Mer om programmet Publicerades: Tis 8 sep 21:00 Tis 8 sep • 39 min Med fem dagar till valet möts Magdalena Andersson och Jimmie Åkesson i debatt om vad som står på spel för Sverige. Och vad är deras förklaring till dagens historiskt dåliga Pisa-resultat? Mer om programmet Val 2026: Näringslivstoppar varnar för nya skatter • Sverige: Strul när nytt larm testades • Val 2026: Valspurt med Svenska Nyheter Mer om programmet SVT:s fördjupande nyhetsprogram. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
-          "url": "https://www.svtplay.se/video/8YqqNgy/aktuellt/man-7-sep-21-00?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54894041/1788807313?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T21:00:00Z",
-          "embed_url": "https://www.svtplay.se/video/8YqqNgy/aktuellt/man-7-sep-21-00?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -838,7 +886,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Imorgon 17:55",
           "summary": "Senaste nytt i sportvärlden.",
-          "body_text": "Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jb339AQ/sportnytt/imorgon-17-55",
           "image_url": "https://www.svtstatic.se/image/custom/1144/33071930/1686135762?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-13T15:55:00Z",
@@ -862,7 +910,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ikväll 19:45",
           "summary": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/KR55nog/sportnytt/ikvall-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54936770/1789240666?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-12T17:45:00Z",
@@ -886,7 +934,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Igår 21:30",
           "summary": "Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jd66Gkz/sportnytt/igar-21-30",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54935252/1789205508?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T19:30:00Z",
@@ -910,7 +958,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 10 sep 21:46",
           "summary": "Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/eYqqGkd/sportnytt/tor-10-sep-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54935246/1789205369?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-10T19:46:00Z",
@@ -934,7 +982,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 9 sep 21:46",
           "summary": "Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget.",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/KAMMPay/sportnytt/ons-9-sep-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54916631/1789022462?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-09T19:46:00Z",
@@ -958,7 +1006,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tis 8 sep 21:46",
           "summary": "Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/KGVVqpn/sportnytt/tis-8-sep-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54911888/1788966687?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-08T19:46:00Z",
@@ -982,7 +1030,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Mån 7 sep 21:46",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/eWmmG7z/sportnytt/man-7-sep-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54895094/1788843465?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-07T19:46:00Z",
@@ -1006,7 +1054,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Lör 5 sep 19:45",
           "summary": "Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/e2ddEm3/sportnytt/lor-5-sep-19-45",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54882905/1788692329?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-05T17:45:00Z",
@@ -1030,7 +1078,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Fre 4 sep 21:30",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/KkAAYkm/sportnytt/fre-4-sep-21-30",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54880796/1788554810?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-04T19:30:00Z",
@@ -1054,7 +1102,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Tor 3 sep 21:46",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/K1qqL1a/sportnytt/tor-3-sep-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54870012/1788466343?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-03T19:46:00Z",
@@ -1078,7 +1126,7 @@
           "source_kind": "video",
           "title": "Sportnytt – Ons 2 sep 21:46",
           "summary": "De senaste sportnyheterna, analyserna och fördjupningarna.",
-          "body_text": "Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
+          "body_text": "Publicerades: Igår 19:45 Igår 19:45 • 14 min Svenska duon dominerar fullständigt på Solheim Cup • AIK överkört på hemmaplan • Anton Källberg skrällde i Macao Mer om programmet Publicerades: Fre 11 sep 21:30 Fre 11 sep • 14 min Första Ultimate Championship inlett i Budapest • Andreas Brännström inledde comebacken med en poäng • John Klingberg lägger av – ny hockeyexpert hos SVT Mer om programmet Landslagsstjärnan Fridolina Rolfö är gravid • Mäktig premiär på volleyboll-EM för Sverige • Anton Källberg fortsätter imponera i Macao Mer om programmet Potter hoppas på snar Kulusevski-comeback • Truls Möregårdh vände underläge • EM-slutspel för första gången på 33 år för volleylandslaget. Mer om programmet Finalklart i speedwayens SM-slutspel • Regerande mästaren byter tränare • Två svenska tränare nominerade till ärofyllt pris Mer om programmet De senaste sportnyheterna, analyserna och fördjupningarna. Mer om programmet Blytung seger i allsvenska bottenstriden • Sirius studsade tillbaka • Tilda Månsson vann Tjejmilen Mer om programmet Publiceras: Idag 17:55 Idag 17:55 • 5 min Senaste nytt i sportvärlden. Mer om programmet Personliga möten med svenska idrottsstjärnor",
           "url": "https://www.svtplay.se/video/jJyyzp3/sportnytt/ons-2-sep-21-46",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54859548/1788379964?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-02T19:46:00Z",
@@ -1143,10 +1191,10 @@
           "source_kind": "video",
           "title": "Morgonstudion – Valspecial",
           "summary": "Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed.",
-          "body_text": "Publicerades: Idag 08:00 Idag 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Mån 14 sep 06:00 Mån 14 sep 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Om 9 tim • Söndag 08:00: SVT följer röstningen i valet hela dagen 1 tim 60 min • Partiledarna debatterar i Gasklockorna i Gävle inför riksdagsvalet 35 sek • Vilka partier matchar dina åsikter? 6 min • Se alla partiledarnas slutanföranden Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Igår 08:00 Igår 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Publicerades: Fre 11 sep 06:00 Fre 11 sep • 4 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Imorgon 06:00 Imorgon 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet 2 tim 58 min • Spännande gäster summerar valrörelsen Om 7 tim • Söndag 08:00: SVT följer röstningen i valet hela dagen 1 tim 60 min • Partiledarna debatterar i Gasklockorna i Gävle inför riksdagsvalet 35 sek • Vilka partier matchar dina åsikter? 6 min • Se alla partiledarnas slutanföranden",
           "url": "https://www.svtplay.se/video/jABYqqD/morgonstudion/valspecial?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54920708/1789046160?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-12T08:00:00Z",
+          "published_at": "2026-09-13T06:00:00Z",
           "embed_url": "https://www.svtplay.se/video/jABYqqD/morgonstudion/valspecial?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -1167,7 +1215,7 @@
           "source_kind": "video",
           "title": "Morgonstudion – Igår 06:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
-          "body_text": "Publicerades: Idag 08:00 Idag 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Mån 14 sep 06:00 Mån 14 sep 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Igår 08:00 Igår 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Publicerades: Fre 11 sep 06:00 Fre 11 sep • 4 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Imorgon 06:00 Imorgon 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KAMMvQb/morgonstudion/igar-06-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54935153/1789201791?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T04:00:00Z",
@@ -1191,7 +1239,7 @@
           "source_kind": "video",
           "title": "Morgonstudion – Tor 10 sep 06:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen!",
-          "body_text": "Publicerades: Idag 08:00 Idag 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Mån 14 sep 06:00 Mån 14 sep 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Igår 08:00 Igår 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Publicerades: Fre 11 sep 06:00 Fre 11 sep • 4 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Imorgon 06:00 Imorgon 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KGVVy9P/morgonstudion/tor-10-sep-06-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54928907/1789115021?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-10T04:00:00Z",
@@ -1215,7 +1263,7 @@
           "source_kind": "video",
           "title": "Morgonstudion – Ons 9 sep 06:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen!",
-          "body_text": "Publicerades: Idag 08:00 Idag 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Mån 14 sep 06:00 Mån 14 sep 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Igår 08:00 Igår 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Publicerades: Fre 11 sep 06:00 Fre 11 sep • 4 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Imorgon 06:00 Imorgon 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/eWmmgZ3/morgonstudion/ons-9-sep-06-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54918602/1789029566?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-09T04:00:00Z",
@@ -1239,7 +1287,7 @@
           "source_kind": "video",
           "title": "Morgonstudion – Tis 8 sep 06:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen!",
-          "body_text": "Publicerades: Idag 08:00 Idag 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Mån 14 sep 06:00 Mån 14 sep 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Igår 08:00 Igår 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Publicerades: Fre 11 sep 06:00 Fre 11 sep • 4 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Imorgon 06:00 Imorgon 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/KkAA7zg/morgonstudion/tis-8-sep-06-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54908663/1788942276?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-08T04:00:00Z",
@@ -1263,7 +1311,7 @@
           "source_kind": "video",
           "title": "Morgonstudion – Mån 7 sep 06:00",
           "summary": "Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme.",
-          "body_text": "Publicerades: Idag 08:00 Idag 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Mån 14 sep 06:00 Mån 14 sep 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+          "body_text": "Publicerades: Igår 08:00 Igår 08:00 • 3 tim 51 min Morgonstudions valspecial följer partiernas slutspurt och analyserar de hetaste frågorna inför valdagen med direktrapportering från olika delar av landet och experter och kommentatorer i studion. Programledare: Prescilia Haddad och Marcus Carlehed. Mer om programmet Publicerades: Fre 11 sep 06:00 Fre 11 sep • 4 tim Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Mer om programmet Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme. Häng med i chatt i SVT Play och Duo-appen! Mer om programmet Publiceras: Imorgon 06:00 Imorgon 06:00 • 4 tim Vakna med Morgonstudion som följer upp valresultatet med uppdateringar, analyser och gäster. Programledare: Karin Magnusson och Ted Wigren. Mer om programmet Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
           "url": "https://www.svtplay.se/video/K1qqRkV/morgonstudion/man-7-sep-06-00",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54898763/1788855941?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-07T04:00:00Z",
@@ -1343,20 +1391,20 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "a189e6a6de89",
+          "id": "e6936028fde3",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
           "provider": "SVT Play",
           "category": "Kultur",
           "surface": "video",
           "source_kind": "video",
-          "title": "Kulturnyheterna – Igår 21:22",
+          "title": "Kulturnyheterna – Mån 7 sep 18:24",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek",
-          "url": "https://www.svtplay.se/video/jVwwDXZ/kulturnyheterna/igar-21-22?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54934199/1789155906?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T21:22:00Z",
-          "embed_url": "https://www.svtplay.se/video/jVwwDXZ/kulturnyheterna/igar-21-22?video=visa",
+          "body_text": "Publicerades: Fre 11 sep 18:24 Fre 11 sep • 10 min Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
+          "url": "https://www.svtplay.se/video/8myybk1/kulturnyheterna/man-7-sep-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54893327/1788799536?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-13T23:59:00Z",
+          "embed_url": "https://www.svtplay.se/video/8myybk1/kulturnyheterna/man-7-sep-18-24?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1365,78 +1413,6 @@
           ],
           "is_live": false,
           "sort_order": 0
-        },
-        {
-          "id": "810b3bf2274c",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Tor 10 sep 21:38",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek",
-          "url": "https://www.svtplay.se/video/egWWxqR/kulturnyheterna/tor-10-sep-21-38?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54924152/1789070566?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T21:22:00Z",
-          "embed_url": "https://www.svtplay.se/video/egWWxqR/kulturnyheterna/tor-10-sep-21-38?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 1
-        },
-        {
-          "id": "37dc34f1702c",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Tor 10 sep 09:41",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek",
-          "url": "https://www.svtplay.se/video/85dvra1/kulturnyheterna/tor-10-sep-09-41?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54918368/1789027401?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T21:22:00Z",
-          "embed_url": "https://www.svtplay.se/video/85dvra1/kulturnyheterna/tor-10-sep-09-41?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 2
-        },
-        {
-          "id": "37871a503562",
-          "source_id": "svt-kulturnyheterna",
-          "source_name": "Kulturnyheterna",
-          "provider": "SVT Play",
-          "category": "Kultur",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Kulturnyheterna – Igår 18:24",
-          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "url": "https://www.svtplay.se/video/KDvvxNb/kulturnyheterna/igar-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54932948/1789145106?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T18:24:00Z",
-          "embed_url": "https://www.svtplay.se/video/KDvvxNb/kulturnyheterna/igar-18-24?video=visa",
-          "play_mode": "page_iframe",
-          "article_type": "video",
-          "tags": [
-            "Kultur",
-            "SVT Play"
-          ],
-          "is_live": false,
-          "sort_order": 3
         },
         {
           "id": "80202a8e5423",
@@ -1448,10 +1424,10 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Tor 10 sep 18:24",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Fre 11 sep 18:24 Fre 11 sep • 10 min Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
           "url": "https://www.svtplay.se/video/KZxx4v3/kulturnyheterna/tor-10-sep-18-24?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54926198/1789107075?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T18:24:00Z",
+          "published_at": "2026-09-13T18:24:00Z",
           "embed_url": "https://www.svtplay.se/video/KZxx4v3/kulturnyheterna/tor-10-sep-18-24?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -1460,7 +1436,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 1
         },
         {
           "id": "49ce59ff163c",
@@ -1472,10 +1448,10 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Ons 9 sep 18:24",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Fre 11 sep 18:24 Fre 11 sep • 10 min Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
           "url": "https://www.svtplay.se/video/8EqqxNz/kulturnyheterna/ons-9-sep-18-24?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54912593/1788972147?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T18:24:00Z",
+          "published_at": "2026-09-13T18:24:00Z",
           "embed_url": "https://www.svtplay.se/video/8EqqxNz/kulturnyheterna/ons-9-sep-18-24?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
@@ -1484,7 +1460,7 @@
             "SVT Play"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 2
         },
         {
           "id": "b36561765801",
@@ -1496,11 +1472,83 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Tis 8 sep 18:24",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Fre 11 sep 18:24 Fre 11 sep • 10 min Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
           "url": "https://www.svtplay.se/video/jqPPJGX/kulturnyheterna/tis-8-sep-18-24?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54906575/1788936226?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
-          "published_at": "2026-09-11T18:24:00Z",
+          "published_at": "2026-09-13T18:24:00Z",
           "embed_url": "https://www.svtplay.se/video/jqPPJGX/kulturnyheterna/tis-8-sep-18-24?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
+          "id": "810b3bf2274c",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Tor 10 sep 21:38",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Fre 11 sep 21:22 Fre 11 sep • 8 min Publicerades: Fre 11 sep 09:41 Fre 11 sep • 6 min Publicerades: Fre 11 sep 08:41 Fre 11 sep • 4 min 28 sek Publicerades: Fre 11 sep 07:41 Fre 11 sep • 3 min 8 sek Publicerades: Fre 11 sep 06:41 Fre 11 sep • 4 min 57 sek Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
+          "url": "https://www.svtplay.se/video/egWWxqR/kulturnyheterna/tor-10-sep-21-38?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54924152/1789070566?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-13T18:24:00Z",
+          "embed_url": "https://www.svtplay.se/video/egWWxqR/kulturnyheterna/tor-10-sep-21-38?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 4
+        },
+        {
+          "id": "37dc34f1702c",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Tor 10 sep 09:41",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Fre 11 sep 21:22 Fre 11 sep • 8 min Publicerades: Fre 11 sep 09:41 Fre 11 sep • 6 min Publicerades: Fre 11 sep 08:41 Fre 11 sep • 4 min 28 sek Publicerades: Fre 11 sep 07:41 Fre 11 sep • 3 min 8 sek Publicerades: Fre 11 sep 06:41 Fre 11 sep • 4 min 57 sek Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
+          "url": "https://www.svtplay.se/video/85dvra1/kulturnyheterna/tor-10-sep-09-41?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54918368/1789027401?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-13T18:24:00Z",
+          "embed_url": "https://www.svtplay.se/video/85dvra1/kulturnyheterna/tor-10-sep-09-41?video=visa",
+          "play_mode": "page_iframe",
+          "article_type": "video",
+          "tags": [
+            "Kultur",
+            "SVT Play"
+          ],
+          "is_live": false,
+          "sort_order": 5
+        },
+        {
+          "id": "a189e6a6de89",
+          "source_id": "svt-kulturnyheterna",
+          "source_name": "Kulturnyheterna",
+          "provider": "SVT Play",
+          "category": "Kultur",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Kulturnyheterna – Igår 21:22",
+          "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
+          "body_text": "Publicerades: Fre 11 sep 21:22 Fre 11 sep • 8 min Publicerades: Fre 11 sep 09:41 Fre 11 sep • 6 min Publicerades: Fre 11 sep 08:41 Fre 11 sep • 4 min 28 sek Publicerades: Fre 11 sep 07:41 Fre 11 sep • 3 min 8 sek Publicerades: Fre 11 sep 06:41 Fre 11 sep • 4 min 57 sek Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
+          "url": "https://www.svtplay.se/video/jVwwDXZ/kulturnyheterna/igar-21-22?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54934199/1789155906?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "published_at": "2026-09-11T21:22:00Z",
+          "embed_url": "https://www.svtplay.se/video/jVwwDXZ/kulturnyheterna/igar-21-22?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1511,20 +1559,20 @@
           "sort_order": 6
         },
         {
-          "id": "e6936028fde3",
+          "id": "37871a503562",
           "source_id": "svt-kulturnyheterna",
           "source_name": "Kulturnyheterna",
           "provider": "SVT Play",
           "category": "Kultur",
           "surface": "video",
           "source_kind": "video",
-          "title": "Kulturnyheterna – Mån 7 sep 18:24",
+          "title": "Kulturnyheterna – Igår 18:24",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "url": "https://www.svtplay.se/video/8myybk1/kulturnyheterna/man-7-sep-18-24?video=visa",
-          "image_url": "https://www.svtstatic.se/image/custom/1144/54893327/1788799536?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
+          "body_text": "Publicerades: Fre 11 sep 18:24 Fre 11 sep • 10 min Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
+          "url": "https://www.svtplay.se/video/KDvvxNb/kulturnyheterna/igar-18-24?video=visa",
+          "image_url": "https://www.svtstatic.se/image/custom/1144/54932948/1789145106?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T18:24:00Z",
-          "embed_url": "https://www.svtplay.se/video/8myybk1/kulturnyheterna/man-7-sep-18-24?video=visa",
+          "embed_url": "https://www.svtplay.se/video/KDvvxNb/kulturnyheterna/igar-18-24?video=visa",
           "play_mode": "page_iframe",
           "article_type": "video",
           "tags": [
@@ -1544,7 +1592,7 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Igår 09:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek",
+          "body_text": "Publicerades: Fre 11 sep 21:22 Fre 11 sep • 8 min Publicerades: Fre 11 sep 09:41 Fre 11 sep • 6 min Publicerades: Fre 11 sep 08:41 Fre 11 sep • 4 min 28 sek Publicerades: Fre 11 sep 07:41 Fre 11 sep • 3 min 8 sek Publicerades: Fre 11 sep 06:41 Fre 11 sep • 4 min 57 sek Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
           "url": "https://www.svtplay.se/video/jQrAYRD/kulturnyheterna/igar-09-41?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54928802/1789113706?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T09:41:00Z",
@@ -1568,7 +1616,7 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Igår 08:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek",
+          "body_text": "Publicerades: Fre 11 sep 21:22 Fre 11 sep • 8 min Publicerades: Fre 11 sep 09:41 Fre 11 sep • 6 min Publicerades: Fre 11 sep 08:41 Fre 11 sep • 4 min 28 sek Publicerades: Fre 11 sep 07:41 Fre 11 sep • 3 min 8 sek Publicerades: Fre 11 sep 06:41 Fre 11 sep • 4 min 57 sek Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
           "url": "https://www.svtplay.se/video/e3dwB7g/kulturnyheterna/igar-08-41?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54927308/1789110086?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T08:41:00Z",
@@ -1592,7 +1640,7 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Igår 07:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek",
+          "body_text": "Publicerades: Fre 11 sep 21:22 Fre 11 sep • 8 min Publicerades: Fre 11 sep 09:41 Fre 11 sep • 6 min Publicerades: Fre 11 sep 08:41 Fre 11 sep • 4 min 28 sek Publicerades: Fre 11 sep 07:41 Fre 11 sep • 3 min 8 sek Publicerades: Fre 11 sep 06:41 Fre 11 sep • 4 min 57 sek Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
           "url": "https://www.svtplay.se/video/Kn4LwpW/kulturnyheterna/igar-07-41?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54926147/1789106751?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T07:41:00Z",
@@ -1616,7 +1664,7 @@
           "source_kind": "video",
           "title": "Kulturnyheterna – Igår 06:41",
           "summary": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-          "body_text": "Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek",
+          "body_text": "Publicerades: Fre 11 sep 21:22 Fre 11 sep • 8 min Publicerades: Fre 11 sep 09:41 Fre 11 sep • 6 min Publicerades: Fre 11 sep 08:41 Fre 11 sep • 4 min 28 sek Publicerades: Fre 11 sep 07:41 Fre 11 sep • 3 min 8 sek Publicerades: Fre 11 sep 06:41 Fre 11 sep • 4 min 57 sek Publicerades: Tor 10 sep 09:41 4 min 22 sek Publicerades: Tor 10 sep 08:41 4 min 28 sek Publicerades: Tor 10 sep 07:41 4 min 6 sek Publicerades: Tor 10 sep 06:41 4 min 19 sek Publiceras: Imorgon 18:24 Imorgon 18:24 • 10 min",
           "url": "https://www.svtplay.se/video/jGVdRA9/kulturnyheterna/igar-06-41?video=visa",
           "image_url": "https://www.svtstatic.se/image/custom/1144/54925022/1789103101?format=auto&chromaSubSampling=false&enableAvif=true&quality=85",
           "published_at": "2026-09-11T06:41:00Z",
@@ -1673,6 +1721,81 @@
           "sort_order": 0
         },
         {
+          "id": "522ffd7817d5",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Voters face stark choice heading into midterms | Fox News Video",
+          "summary": "RNC chairman Joe Gruters joins 'The Big Weekend Show' to analyze midterm election dynamics, tech expansions and challenges facing U.S. ranchers.",
+          "body_text": "RNC chairman Joe Gruters joins 'The Big Weekend Show' to analyze midterm election dynamics, tech expansions and challenges facing U.S. ranchers. RNC chairman Joe Gruters joins 'The Big Weekend Show' to analyze midterm election dynamics, tech expansions and challenges facing U.S. ranchers. He also discusses public concerns over inflation and foreign agricultural imports.",
+          "url": "https://www.foxnews.com/video/6404988364112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a99cede-e613-4040-9f3e-6aa850be07f0/f675f394-c01f-4ce2-849f-4d501de406e0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-09-12T21:55:37Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6404988364112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "4ef6837568b6",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Senate prepares key test vote on landmark cryptocurrency bill | Fox News Video",
+          "summary": "Fox News chief congressional correspondent Chad Pergram reports as the Senate prepares for a key test vote on landmark cryptocurrency legislation on 'Fox Report.'",
+          "body_text": "Fox News chief congressional correspondent Chad Pergram reports as the Senate prepares for a key test vote on landmark cryptocurrency legislation on 'Fox Report.' Fox News chief congressional correspondent Chad Pergram reports on the Senate's upcoming test vote on landmark cryptocurrency legislation. He breaks down the political battle over the bill, including President Donald Trump's support for the crypto industry and opposition from Sens. Elizabeth Warren, D-Mass., and Adam Schiff, D-Calif.",
+          "url": "https://www.foxnews.com/video/6404987781112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceb06922-9a0e-423b-9131-e0ecad4216a7/56535cf7-2860-44e3-a1ef-660cffec984f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-09-12T21:39:08Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6404987781112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 2
+        },
+        {
+          "id": "dfc461c65247",
+          "source_id": "fox-news",
+          "source_name": "Fox News",
+          "provider": "Amerikansk media",
+          "category": "USA",
+          "surface": "video",
+          "source_kind": "video",
+          "title": "Guided-missile destroyers defend USS George Washington in Middle East | Fox News Video",
+          "summary": "Fox News chief foreign correspondent Trey Yingst reports on U.S. military operations in the Middle East aboard the USS George Washington on ‘Fox Report.’",
+          "body_text": "Fox News chief foreign correspondent Trey Yingst reports on U.S. military operations in the Middle East aboard the USS George Washington on ‘Fox Report.’",
+          "url": "https://www.foxnews.com/video/6404985800112",
+          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40bd3f5d-5826-40f8-a3ab-648885e21d91/5321348d-e15d-46bb-bea6-e76457b6d1ee/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "published_at": "2026-09-12T21:33:59Z",
+          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6404985800112",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "video, fox news, news videos, breaking news videos",
+            "USA",
+            "Amerikansk media"
+          ],
+          "is_live": false,
+          "sort_order": 3
+        },
+        {
           "id": "4da7e07d0358",
           "source_id": "fox-news",
           "source_name": "Fox News",
@@ -1695,7 +1818,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 4
         },
         {
           "id": "56a3de412b4d",
@@ -1720,7 +1843,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 5
         },
         {
           "id": "de14f2076da0",
@@ -1745,7 +1868,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 6
         },
         {
           "id": "997254a158e8",
@@ -1770,7 +1893,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 7
         },
         {
           "id": "6075b0d74611",
@@ -1795,7 +1918,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 8
         },
         {
           "id": "d3ca4f5d576d",
@@ -1820,7 +1943,7 @@
             "Amerikansk media"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 9
         },
         {
           "id": "02d92fd8f7a7",
@@ -1837,81 +1960,6 @@
           "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc051f9b-808a-4598-9973-a00a62fc0f62/2eb22168-c9ad-48c8-b605-a1c4aa5b2d6a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
           "published_at": "2026-09-12T18:58:15Z",
           "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6404983823112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "dc1d8ab4eb28",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Newsom signs California bill targeting addictive social media features for kids | Fox News Video",
-          "summary": "Grit & Grace Nation founder and CEO Fanchon Stinger joins 'Fox News Live' to discuss California's new law targeting addictive social media features for children and what parents can do to protect their kids.",
-          "body_text": "Grit & Grace Nation founder and CEO Fanchon Stinger joins 'Fox News Live' to discuss California's new law targeting addictive social media features for children and what parents can do to protect their kids. Grit & Grace Nation founder and CEO Fanchon Stinger discusses California Gov. Gavin Newsom's newly signed legislation aimed at limiting addictive social media features for children. She also explains why she believes parental involvement remains the most important safeguard for kids online.",
-          "url": "https://www.foxnews.com/video/6404983995112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9aaa7535-9111-4112-ab2a-2d3230d4d764/aafdace4-2019-4b1b-8e51-55e96afd6edb/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-09-12T18:47:33Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6404983995112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": true,
-          "sort_order": 8
-        },
-        {
-          "id": "9e1a41397fbe",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Trump promises a $5K dividend if Republicans retain the House and Senate | Fox News Video",
-          "summary": "The 'Journal Editorial Review' panel discusses Trump's $5,000 dividend promise and the Republican strategy for keeping control of Congress.",
-          "body_text": "The 'Journal Editorial Review' panel discusses Trump's $5,000 dividend promise and the Republican strategy for keeping control of Congress. The 'Journal Editorial Review' panel discusses Trump's $5,000 dividend promise and the Republican strategy for keeping control of Congress. This comes after GOP held its first-ever midterm convention.",
-          "url": "https://www.foxnews.com/video/6404984401112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aef7401-9dfa-470e-bcff-517b8b576f85/9f1496a2-1f5d-49e2-93de-7152017c7251/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-09-12T18:45:33Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6404984401112",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "video, fox news, news videos, breaking news videos",
-            "USA",
-            "Amerikansk media"
-          ],
-          "is_live": false,
-          "sort_order": 9
-        },
-        {
-          "id": "244821b091be",
-          "source_id": "fox-news",
-          "source_name": "Fox News",
-          "provider": "Amerikansk media",
-          "category": "USA",
-          "surface": "video",
-          "source_kind": "video",
-          "title": "Karl Rove breaks down GOP midterm convention and Texas Senate race | Fox News Video",
-          "summary": "Fox News contributor Karl Rove analyzes the Republican midterm convention in Dallas, President Donald Trump’s tax dividend proposal and the Texas Senate race on ‘Fox News Live.’",
-          "body_text": "Fox News contributor Karl Rove analyzes the Republican midterm convention in Dallas, President Donald Trump’s tax dividend proposal and the Texas Senate race on ‘Fox News Live.’ Fox News Contributor Karl Rove joins Fox News Live to analyze President Donald Trump's dividend proposal if Republicans hold the House and Senate. Rove also breaks down the Texas Senate race where Paxton trails Talarico. The discussion highlights key strategies shaping the upcoming midterm elections.",
-          "url": "https://www.foxnews.com/video/6404983219112",
-          "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4359714d-511e-4d57-a66f-2686f8cce169/0866297d-446d-4d03-8d91-593a16e77e03/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "published_at": "2026-09-12T18:33:55Z",
-          "embed_url": "https://video.foxnews.com/v/video-embed.html?video_id=6404983219112",
           "play_mode": "iframe",
           "article_type": "video",
           "tags": [
@@ -2065,6 +2113,30 @@
       "priority_split": 5,
       "articles": [
         {
+          "id": "a008482d0e06",
+          "source_id": "bbc-video",
+          "source_name": "BBC World",
+          "provider": "BBC",
+          "category": "World",
+          "surface": "video",
+          "source_kind": "mixed",
+          "title": "Trump: US president's comments on a united Ireland may have targeted an audience across the Atlantic",
+          "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+          "body_text": "When another world leader meets US President Donald Trump the only certainty about what might happen is the uncertainty about what might happen. This was exactly the case ahead of President Trump's two-day visit to Ireland. Nobody could have predicted that by the end of the first day, the main global headline would be his desire to see a unified Ireland . As the shockwaves of his remarks rippled through this island and Great Britain, it was unclear whether this represented a new US administration policy, or an off-the-cuff remark from a president who likes to take questions from reporters, and likes to give answers. Former Republican Congressman Mick Mulvaney was Trump's special envoy to Northern Ireland in his first term in office. He cautioned against anyone reading too much into the president's remarks. \"This does not represent a shift in US foreign policy,\" he said. \"We're still very much committed to the Good Friday Agreement.\" Democratic Congressman Brendan Boyle agreed. \"There is bipartisan support for that deal, and that is not going to change.\" Although both agreed that Donald Trump was probably right to say that \"eventually\" unification would happen, that did not mean the US was about to start pushing for it. Giving an answer to a question that is asked at a free-flowing press conference is one thing, but Donald Trump repeated his sentiments a short time later when he was delivering a speech to an invited audience at the US Ambassador's residence.",
+          "url": "https://www.bbc.com/news/articles/cwyzppd1d5lo",
+          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
+          "published_at": "2026-09-12T21:25:28Z",
+          "embed_url": "https://www.bbc.com/news/articles/cwyzppd1d5lo",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "World",
+            "BBC"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "cf47aa1f8f3d",
           "source_id": "bbc-video",
           "source_name": "BBC World",
@@ -2086,7 +2158,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "3e87df8a6f3b",
@@ -2110,7 +2182,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "2c451510a4be",
@@ -2134,7 +2206,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "2d2dfda52f97",
@@ -2158,7 +2230,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "8fa0eaedf7f4",
@@ -2170,7 +2242,7 @@
           "source_kind": "mixed",
           "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-          "body_text": "The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored. In an essay on Saturday, Dario Amodei said developing AI was not in question, but the risks associated with it were \"serious\" and companies and governments must be given time to address them. The heads of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei. There have been growing concerns recently about the technology's potential risks, the most serious of which suggested there is a greater than 10% chance it \"could kill all humans\" within the next decade . Anthropic previously said it had identified and disrupted attempts to use its AI model for \"malicious activity\" which could support the development of biological weapons. But the starkest warning came from two employees from Anthropic's safety team who have resigned in the last two weeks saying humanity may not survive the race among AI companies to develop machines that are smarter than humans. Amodei proposed a three-point plan that includes independent monitoring of AI models as they are developed, industry-wide regulation and global regulation. As his proposal made the rounds, even competitors voiced support for the idea of third-party monitors who could evaluate the safety of models as they are developed. \"I agree with Dario that we need to pace the frontier,\" wrote OpenAI CEO Sam Altman on X. He called independent evaluators \"a great idea.\" In a new interview with Fortune Magazine, Altman had sounded similar safety concerns, saying standards were \"not at a place\" to push AI capabilities much further. He added that he believed AI beyond human control is \"absolutely\" possible. Elon Musk meanwhile said the Anthropic boss was \"right\".",
+          "body_text": "The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored. In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were \"serious\" and companies and governments must be given time to address them. The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei. There have been growing concerns recently about the technology's potential risks. An AI researcher who left Anthropic this week told the BBC that \"if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future\". Jacob Coxon told Laura Kuenssberg that people working at AI companies were \"genuinely frightened... genuinely concerned about the fate of humanity in the next two years\". \"It's not at all an exaggeration to say that the people who are involved with both founding these companies and building the tech believe there is a possibility of human extinction,\" Coxon said. \"Many of the people who are sort of deep in the weeds on actually coding the thing believe that there is like a greater than ten percent chance, or even greater. Some smaller, but they all have different numbers for a probability that humans might die. And they all keep this in their head on a daily basis while working on the technology.\" In Amodei's essay, called We Must Pace the Frontier and made public on Saturday, he proposed a three-point plan that includes independent monitoring of AI models as they are developed, industry-wide regulation and global regulation. As his proposal made the rounds, even competitors voiced support for the idea of third-party monitors who could evaluate the safety of models as they are developed. \"I agree with Dario that we need to pace the frontier,\" wrote OpenAI CEO Sam Altman on X. He called independent evaluators \"a great idea.\" In a new interview with Fortune Magazine, Altman had sounded similar safety concerns, saying standards were \"not at a place\" to push AI capabilities much further. He added that he believed AI beyond human control is \"absolutely\" possible.",
           "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
           "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
           "published_at": "2026-09-12T15:37:39Z",
@@ -2182,7 +2254,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "a07843cbf654",
@@ -2206,7 +2278,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "afbd72f9288a",
@@ -2230,7 +2302,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "36f010329016",
@@ -2254,7 +2326,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "3e672f4e51ba",
@@ -2278,7 +2350,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 8
+          "sort_order": 9
         },
         {
           "id": "c4a69774efd4",
@@ -2302,7 +2374,7 @@
             "BBC"
           ],
           "is_live": false,
-          "sort_order": 9
+          "sort_order": 10
         },
         {
           "id": "1a887565ed16",
@@ -2321,30 +2393,6 @@
           "embed_url": "https://www.bbc.com/news/articles/cwyz755yeg9o",
           "play_mode": "page_iframe",
           "article_type": "text",
-          "tags": [
-            "World",
-            "BBC"
-          ],
-          "is_live": false,
-          "sort_order": 10
-        },
-        {
-          "id": "58efff48c592",
-          "source_id": "bbc-video",
-          "source_name": "BBC World",
-          "provider": "BBC",
-          "category": "World",
-          "surface": "video",
-          "source_kind": "mixed",
-          "title": "Donald Trump: A united Ireland would be 'fantastic' says Trump during Irish visit",
-          "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-          "body_text": "US President Donald Trump has said he would love to see a united Ireland while at a meeting with the Taoiseach (Irish Prime Minister) during a visit in Dublin. Trump is on a two-day visit to the country where earlier he had a courtesy call with the Irish President Catherine Connolly at the Áras an Uachtaráin - the official residence of the Irish president. He attended meetings in Dublin, before travelling to County Clare for the Amgen Irish Open golf tournament. Trump said a united Ireland would happen eventually and that the Taoiseach was \"the right man over here to get it moving\". Meanwhile, more than 10,000 people marched through Dublin to show their opposition to the US president. During his meeting with Micheál Martin at Farmleigh House, in Phoenix Park, Trump said a united Ireland would be a \"fantastic thing\", and added: \"now the UK would have something to say about it obviously but I think it would be a great thing, I mean, how can it be bad?\" A spokesperson for Number 10 referred to Prime Minister Andy Burnham's words on Wednesday in the House of Commons that he \"will stick to it (the Good Friday Agreement) 100%\". On Wednesday, Burnham added that \"the question of a border poll\" was for the Northern Ireland secretary \"when there is clear consensus in the country - when public opinion has changed to the point at which the call has to be considered\". A spokesperson for Martin said Trump's comments should \"come as a surprise to no one\" and the US president has been \"consistent in his view that he sees unity in Ireland as the optimal outcome\". The Good Friday Agreement says the secretary of state must hold a border poll if it appears likely that a majority of people in Northern Ireland would vote for Irish unification - and the circumstances of when that could happen is the subject of constant debate in Northern Ireland and the Republic. Earlier this week, Martin said there needed to be more clarity on when a border poll can be called , while Burnham ruled out calling a referendum, describing a poll as \"off the table\" . Sinn Féin leader Mary Lou McDonald said she acknowledged Trumps comments on a united Ireland and said the onus is on the Taoiseach to begin planning.",
-          "url": "https://www.bbc.com/news/articles/cy0zvx15rywo",
-          "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a39c/live/b6611ef0-aec3-11f1-b1d1-571ed4d7ff2c.jpg",
-          "published_at": "2026-09-11T23:01:52Z",
-          "embed_url": "https://www.bbc.com/news/articles/cy0zvx15rywo",
-          "play_mode": "iframe",
-          "article_type": "video",
           "tags": [
             "World",
             "BBC"
@@ -2498,32 +2546,6 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "82bde7496d93",
-          "source_id": "elcomercio-senaste",
-          "source_name": "Senaste",
-          "provider": "El Comercio",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Alianza Lima vs Universitario: horario, canal y últimas noticias del clásico por el Torneo Clausura 2026",
-          "summary": "Alianza Lima vs Universitario en vivo hoy por Torneo Clausura, Liga 1 | LBPosting Apuesplan",
-          "body_text": "Alianza Lima vs Universitario en vivo hoy por Torneo Clausura, Liga 1 | LBPosting Apuesplan",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-universitario-en-vivo-hoy-por-torneo-clausura-liga-1-lbposting-apuesplan-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/FTFF2NDX45GP7PCJ2HNASGGWKU.jpg?auth=12290d3ef11adf99e56e1af49ad6212eb9b66c6e68c82950f8b0eb06da4eed1c&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-09-12T20:32:46Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-universitario-en-vivo-hoy-por-torneo-clausura-liga-1-lbposting-apuesplan-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "alianza lima vs universitario, alianza lima vs universitario en vivo, alianza lima vs universitario de deportes, liga 1 max alianza vs universitario, clásico alianza vs universitario, universitario de deportes, alianza lima",
-            "Fútbol peruano",
-            "Senaste",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
           "id": "dc3ade85b971",
           "source_id": "elcomercio-senaste",
           "source_name": "Senaste",
@@ -2547,7 +2569,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 0
         },
         {
           "id": "a1ea4869e66c",
@@ -2569,6 +2591,32 @@
           "tags": [
             "Apple, iPhone 18, iPhone 18 Pro, celulares, móviles, smartphones",
             "Móviles",
+            "Senaste",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "a428aa8ec1bb",
+          "source_id": "elcomercio-senaste",
+          "source_name": "Senaste",
+          "provider": "El Comercio",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tasa de dólar BCV hoy, miércoles 9 de septiembre: A cuánto se cotiza en Venezuela",
+          "summary": "El Banco Central de Venezuela (BCV) publicó la tasa oficial del dólar para este lunes. Conoce el precio actualizado de la divisa estadounidense en bolívares",
+          "body_text": "Dólar BCV en Venezuela hoy, miércoles 9 de septiembre de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 820,10 Bs según la tasa del Banco Central de Venezuela.",
+          "url": "https://elcomercio.pe/respuestas/venezuela/dolar-oficial-bcv-hoy-revisa-el-tipo-de-cambio-y-tasa-oficial-segun-el-banco-central-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/VNMZMIWWP5ENNG7WMJOG32AIEQ.png?auth=13745cd383c8dbaafdac46dffc7785acf17c64a5ed9a9b042f93505f2afad729&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-09-09T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/respuestas/venezuela/dolar-oficial-bcv-hoy-revisa-el-tipo-de-cambio-y-tasa-oficial-segun-el-banco-central-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
+            "Venezuela",
             "Senaste",
             "El Comercio"
           ],
@@ -3323,32 +3371,6 @@
       "priority_split": 0,
       "articles": [
         {
-          "id": "82bde7496d93",
-          "source_id": "elcomercio-peru",
-          "source_name": "Peru",
-          "provider": "El Comercio",
-          "category": "Peru",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Alianza Lima vs Universitario: horario, canal y últimas noticias del clásico por el Torneo Clausura 2026",
-          "summary": "Alianza Lima vs Universitario en vivo hoy por Torneo Clausura, Liga 1 | LBPosting Apuesplan",
-          "body_text": "Alianza Lima vs Universitario en vivo hoy por Torneo Clausura, Liga 1 | LBPosting Apuesplan",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-universitario-en-vivo-hoy-por-torneo-clausura-liga-1-lbposting-apuesplan-noticia/",
-          "image_url": "https://elcomercio.pe/resizer/v2/FTFF2NDX45GP7PCJ2HNASGGWKU.jpg?auth=12290d3ef11adf99e56e1af49ad6212eb9b66c6e68c82950f8b0eb06da4eed1c&width=980&height=528&quality=75&smart=true",
-          "published_at": "2026-09-12T20:32:46Z",
-          "embed_url": "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-universitario-en-vivo-hoy-por-torneo-clausura-liga-1-lbposting-apuesplan-noticia/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "alianza lima vs universitario, alianza lima vs universitario en vivo, alianza lima vs universitario de deportes, liga 1 max alianza vs universitario, clásico alianza vs universitario, universitario de deportes, alianza lima",
-            "Fútbol peruano",
-            "Peru",
-            "El Comercio"
-          ],
-          "is_live": false,
-          "sort_order": 0
-        },
-        {
           "id": "dc3ade85b971",
           "source_id": "elcomercio-peru",
           "source_name": "Peru",
@@ -3372,7 +3394,7 @@
             "El Comercio"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 0
         },
         {
           "id": "a1ea4869e66c",
@@ -3394,6 +3416,32 @@
           "tags": [
             "Apple, iPhone 18, iPhone 18 Pro, celulares, móviles, smartphones",
             "Móviles",
+            "Peru",
+            "El Comercio"
+          ],
+          "is_live": false,
+          "sort_order": 1
+        },
+        {
+          "id": "a428aa8ec1bb",
+          "source_id": "elcomercio-peru",
+          "source_name": "Peru",
+          "provider": "El Comercio",
+          "category": "Peru",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tasa de dólar BCV hoy, miércoles 9 de septiembre: A cuánto se cotiza en Venezuela",
+          "summary": "El Banco Central de Venezuela (BCV) publicó la tasa oficial del dólar para este lunes. Conoce el precio actualizado de la divisa estadounidense en bolívares",
+          "body_text": "Dólar BCV en Venezuela hoy, miércoles 9 de septiembre de 2026. ¿Cuál es la cotización más reciente del dólar según el Banco Central de Venezuela (BCV)? Consulta el tipo de cambio del dólar estadounidense en Venezuela y conoce por qué es tan relevante conocer la tasa oficial del billete. Esta equivalencia económica ayuda a establecer valores similares entre ambos billetes. La tasa oficial asignada al dólar BCV se emplea para, así, con su cotización, facilitar el flujo de la economía y sus valores entre billetes de distintos países. En este caso, Estados Unidos y Venezuela. Con esta cotización oficial y su equivalencia se podrán realizar pagos de diferentes índoles, desde pagos de la canasta básica hasta otros servicios. El Banco Central de Venezuela ha señalado que el precio del dólar que ofrece se establece como un promedio ponderado de otras cotizaciones financieras. Con la finalidad de encontrar una equivalencia más precisa al mercado bolivariano. El dólar BCV se cotiza en 820,10 Bs según la tasa del Banco Central de Venezuela.",
+          "url": "https://elcomercio.pe/respuestas/venezuela/dolar-oficial-bcv-hoy-revisa-el-tipo-de-cambio-y-tasa-oficial-segun-el-banco-central-tdpe-noticia/",
+          "image_url": "https://elcomercio.pe/resizer/v2/VNMZMIWWP5ENNG7WMJOG32AIEQ.png?auth=13745cd383c8dbaafdac46dffc7785acf17c64a5ed9a9b042f93505f2afad729&width=980&height=528&quality=75&smart=true",
+          "published_at": "2026-09-09T11:00:01Z",
+          "embed_url": "https://elcomercio.pe/respuestas/venezuela/dolar-oficial-bcv-hoy-revisa-el-tipo-de-cambio-y-tasa-oficial-segun-el-banco-central-tdpe-noticia/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Dólar BCV, Dólar en Venezuela, Venezuela, dolar en Perú",
+            "Venezuela",
             "Peru",
             "El Comercio"
           ],
@@ -3632,6 +3680,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "e82b8a9af4fd",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "OpenAI’s Sam Altman says it would be 'ill-advised' to go public in 2026 | TechCrunch",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "body_text": "While OpenAI has filed confidentially for an IPO , the company will not be going public this year , according to CEO Sam Altman. Altman was interviewed recently by Fortune editor in chief Alyson Shontell; amidst the fallout from the OpenAI-HuggingFace hack , as well as broader discussions about AI safety , Shontell asked whether OpenAI still feels pressure to “move really fast” due to its IPO plans. “We’re not rushing into an IPO,” Altman said. “I actually think that given everything happening with safety, right now would be an ill-advised moment to go public.” Instead, he insisted that OpenAI will go public “when we’re ready, which is when the business is ready, when we feel ready from what the moment is like in society with this technology.” When pressed on whether that means the IPO isn’t happening in 2026, Altman replied, “I would say not 2026, yeah. We’ve got a lot of stuff to do.” The New York Times reported in June that although OpenAI had hired bankers and lawyers with the goal of going public in the third or fourth quarter of 2026, the company was leaning toward 2027 due to the volatility of tech stocks and its own financial challenges. Last day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+          "published_at": "2026-09-12T20:19:16Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "7658eb64cf66",
           "source_id": "techcrunch-latest",
           "source_name": "TechCrunch",
@@ -3653,7 +3725,31 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
+        },
+        {
+          "id": "94903067997a",
+          "source_id": "techcrunch-latest",
+          "source_name": "TechCrunch",
+          "provider": "TechCrunch",
+          "category": "Tech",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Tesla says it will finally unveil the second generation Roadster on October 1 | TechCrunch",
+          "summary": "Tesla’s halo sports car was first announced in November 2017.",
+          "body_text": "The long-awaited second generation of the Tesla Roadster might finally be ready for the public. In a post on X on Saturday, the electric vehicle company simply wrote, “Go for launch,” with a graphic showing a “10.01” date — so expect the new Roadster to be unveiled on October 1. The graphic also seems to hint at the promised cold gas thrusters, developed by Tesla CEO Elon Musk’s other big company, SpaceX; those optional thrusters are supposed to allow the Roadster to fly in some way. Tesla’s second generation sports car was first announced in November 2017 and has been pushed back multiple times. It was even the subject of a social media spat between Musk and OpenAI CEO Sam Altman last year, when Altman said that “7.5 years has felt like a long time to wait” after paying a $50,000 reservation fee, while Musk insisted that Altman had gotten a refund. The Information recently reported that the 2017 version of the car had been completely abandoned for a new, yet-to-be-revealed design that would be revealed imminently. Musk has previously acknowledged that even after the big reveal, the Roadster won’t actually go into production for another 12 or 18 months. Go for launch pic.twitter.com/Khu03eiZ04 Last day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall. Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility is your destination for transportation news and insight. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Provides movers and shakers with the info they need to start their day.",
+          "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
+          "published_at": "2026-09-12T19:21:19Z",
+          "embed_url": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg",
+          "play_mode": "iframe",
+          "article_type": "video",
+          "tags": [
+            "Tech",
+            "TechCrunch"
+          ],
+          "is_live": true,
+          "sort_order": 2
         },
         {
           "id": "07e30d1ae0c5",
@@ -3677,7 +3773,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 1
+          "sort_order": 3
         },
         {
           "id": "ccfd05f69c6f",
@@ -3701,7 +3797,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 4
         },
         {
           "id": "2619d8ade240",
@@ -3725,7 +3821,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 3
+          "sort_order": 5
         },
         {
           "id": "b3b4818aa362",
@@ -3749,7 +3845,7 @@
             "TechCrunch"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 6
         },
         {
           "id": "c9bc20e4988d",
@@ -3773,7 +3869,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 5
+          "sort_order": 7
         },
         {
           "id": "54bc95a279e4",
@@ -3797,31 +3893,7 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 6
-        },
-        {
-          "id": "e6be10aaed13",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Roblox is making it easier to build games with AI — and play them outside Roblox | TechCrunch",
-          "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
-          "body_text": "At its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features, including new game-creation tools, expanded NPC (non-player character) capabilities, and the ability to make games available across platforms, including the web. The company is also launching a dedicated Roblox Card and Roblox Wallet for creators. In addition, Roblox is rolling out its generative AI game creation more broadly. First announced in July, the feature called “Build ” lets Roblox users create games using natural language prompts. Initially, it was available only in New Zealand. Now the company is expanding it to Serbia and Singapore. Build is also gaining desktop access for big-screen creation, a new asset library, and iterative control. Later this year, it will also get a new prompt-based scene-generation feature, which will extend to Roblox Studio. The gaming platform is making sure that all these newly created games are available to play in more places. The company said creators will soon be able to make their games available as separate apps on mobile, PC, and consoles, with Roblox being the game engine behind that. By year-end, players will be able to join a game in-browser through a link. The announcements indicate Roblox is now focused not only on bringing people to Roblox, but also on expanding the reach of what developers build, while also making building easier and more accessible. Besides the new creation tools, the company is adding new capabilities to NPCs, including ones that can playtest a game, later this year. Creators will also be able to add an offline mode in their games, allowing people to continue playing when they’re in an area with a weak network connection. In addition, players will get a new Friends chat tab that moves across the game with them, with voice typing support. Meanwhile, an improved discovery algorithm will suggest shorter-format games to younger users and games with a longer playtime to older users. Through its game engine, Roblox is also debuting the ability to create 2D games with an orthographic camera, animated image containers, and direct sprite-sheet import for animation. It also added that within its Moments vertical feed , players can soon tap on any avatar in a clip and purchase items. Roblox said that since 2013, game makers have earned more than $5 billion on the platform, with earnings for the last 12 months reaching $1.7 billion. Now the company is launching financial products to let creators have different tools to use their earnings. First is a Roblox Wallet where creators can get paid in real money by the end of each business day. Users can also transfer their money to other bank accounts. The company is partnering with Airwallex to provide wallet services to U.S. users aged 18 and older, with plans for future global expansion. The gaming service also teased a Roblox Card, launching next year, that would let users spend their earnings at places that accept the card. Roblox is looking to drum up engagement time on its platform and beyond. The company’s founder and CEO, David Baszucki, said that in the last quarter, players spent over 29 billion hours cumulatively across 180 countries.",
-          "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675",
-          "published_at": "2026-09-11T19:00:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": false,
-          "sort_order": 7
+          "sort_order": 8
         },
         {
           "id": "32dab8dab57e",
@@ -3845,30 +3917,6 @@
             "TechCrunch"
           ],
           "is_live": false,
-          "sort_order": 8
-        },
-        {
-          "id": "48cb73e50a4e",
-          "source_id": "techcrunch-latest",
-          "source_name": "TechCrunch",
-          "provider": "TechCrunch",
-          "category": "Tech",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play | TechCrunch",
-          "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-          "body_text": "Collaborative Fund, the 15-year-old, New York-based generalist venture firm that has roughly $1 billion under management and that made early bets on Lyft, Reddit, Sweetgreen, and Olipop, among others, is taking a stake in the soccer club D.C. United and its stadium, Audi Field. It’s the latest — and smallest — firm to try something that Thrive Capital opened the door to just months ago: turning venture money into pro sports ownership. To recap, Joshua Kushner’s Thrive launched a new vehicle, Thrive Eternal, explicitly built to hold “iconic franchises and cultural institutions” for decades, funded by many of the same investors already in Thrive’s venture and growth funds. The firm kicked things off by announcing a stake in the San Francisco Giants. Months later, the same vehicle — with former Disney CEO Bob Iger, a Thrive partner, joining as co-owner — bought the Lakers outright for a record $12.5 billion. That’s new. Historically, money has poured into pro sports two other ways: individual tech fortunes and private equity. For example, Vinod Khosla and his family agreed this summer to buy the Seattle Seahawks for a record $9.6 billion soon after the Khosla family also took a stake in the San Francisco 49ers alongside OpenAI chairman Bret Taylor. That was a personal-wealth play, the kind we’ve seen over and over. Private equity firms have also been at this for years, including Sixth Street, which holds stakes in the Boston Celtics, the New England Patriots, and MLB’s San Francisco Giants; Ares, which owns a piece of the Miami Dolphins outright and separately financed Chelsea’s stadium plans through a $500 million preferred-equity deal; RedBird, which owns AC Milan outright and holds a minority stake in Fenway Sports Group, the holding company behind Liverpool and the Red Sox; and Arctos, with minority positions scattered across MLB, the NFL, the NBA, and European soccer. (Apollo, the newest entrant, has mostly stuck to sports financing deals so far rather than ownership stakes.) Thrive and Collaborative are doing neither of those things. At the same time, the two firms’ approaches to sports ownership look very different. Thrive built a stand-alone, permanent-capital vehicle specifically to hold trophy assets. Collaborative is investing out of the same early-stage fund it uses to write seed and Series A checks, and treating the deal less like something to buy and hold and almost more like infrastructure. In a memo shared with TechCrunch, Collaborative Fund founder and managing partner Craig Shapiro framed the deal as an extension of what the firm already does. “A franchise is the ultimate consumer product,” he wrote, arguing that D.C. United’s status as one of Major League Soccer’s original clubs gives Collaborative access to an institution with a decades-long fan base to build on. He pointed to the tailwinds around American soccer specifically (a World Cup just behind the sport, the LA Olympics ahead of it, soaring youth participation numbers in the U.S.), as well as D.C.’s ownership of Audi Field in Washington, D.C., plus a talent-development pipeline through Loudoun County, Virginia, and rights to a future Baltimore expansion team. Indeed, the thesis Shapiro laid out at a TechCrunch StrictlyVC event Thursday night in New York is less about owning a piece of an appreciating asset — the sports team itself — and more about what the team makes possible. Collaborative wants to turn Audi Field into what he describes as a living showcase for its own portfolio. As a backer of both fitness band maker Whoop and the beverage brand Olipop, for example, Collaborative Fund is imagining a Whoop wearables activation for fans, or Olipop drinks woven into game-day concessions. He’s thinking about the stadium’s foot traffic — tens of thousands of people showing up on a predictable schedule — as a distribution channel at a time when, because AI is making more of daily life feel synthetic, live experiences are becoming more valuable. Shapiro doesn’t dwell on this, but it surely helped sell Collaborative’s investors that team valuations have been soaring, so the stake could pay off on its own. Soccer valuations in particular have been on a tear. Inter Miami’s franchise value has roughly doubled in the two years since Lionel Messi arrived, MLS’s average club value is up roughly 134% since 2019, and D.C. United’s own valuation has climbed from $35 million in 2008 to $785 million today, factoring in its ownership of Audi Field and the surrounding real estate. If Shapiro is right that a franchise is also “the ultimate consumer product,” it could be a pretty good place to park money. Time will tell.",
-          "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800",
-          "published_at": "2026-09-10T22:30:00Z",
-          "embed_url": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg",
-          "play_mode": "iframe",
-          "article_type": "video",
-          "tags": [
-            "Tech",
-            "TechCrunch"
-          ],
-          "is_live": true,
           "sort_order": 9
         }
       ]
@@ -4268,7 +4316,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet – kontakt och redaktionell policy",
           "summary": "Om Aftonbladet – kontakt och redaktionell policy",
-          "body_text": "Tjänstgörande redaktörer: Sebastian Laneby, Sandra Christensen, Mattias Kling Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Eric Rosén och Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet Hierta Aktiebolag ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius (verkliga huvudmän, enligt definitionen i artikel 3.6 i direktiv (EU) 2015/849, är styrelseledamöterna i Stiftelsen, vid var tid redovisade här: https://www.tinius.com/en/the-board ) och till 9 procent av Landsorganisationen i Sverige, LO. LO har vetorätt när det gäller att tillsätta Aftonbladets politiska chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Tjänstgörande redaktörer: Leo Pettersson Chefredaktör, vd och ansvarig utgivare: Lotta Folcker Stf ansvariga utgivare: Karin Schmidt, Eric Rosén och Magnus Herbertsson Redaktionschef: Karin Schmidt Här kan du se Aftonbladets hela ledningsgrupp och redaktionsledning. Support/kundservice inklusive Plus: 08-725 25 25 (09–15 från 1 mars 2025) Support/kundservice: https://support.aftonbladet.se Frågor om tidningsprenumeration: www.aftonbladet.se/preninfo eller 08-725 20 70 (vardagar 08–15) Söker du en specifik medarbetare? Mejla enligt mallen: fornamn.efternamn@aftonbladet.se Har du ett extra känsligt tips? Tipsa krypterat via Secure Drop Vill du jobba på Aftonbladet? Klicka här. Besöksadress: Kungsbron 13, Stockholm Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vi har som vision att göra Sverige lite bättre, världen lite mer begriplig och livet lite enklare. Lars Johan Hierta är Aftonbladets grundare och en pionjär inom den svenska journalistiken och tryckfriheten. Han ville väcka folkets vilja till ett större deltagande i samhällsarbetet. Han ville granska makten, utmana de styrande och avslöja missförhållanden. Men han ville också informera – och inte minst underhålla. I den andan har vi verkat sedan 1830. Vi fortsätter göra det varje dag. Aftonbladet Hierta Aktiebolag ägs till 91 procent av den norska mediekoncernen Schibsted med moderbolaget Schibsted Media AS, vars yttersta ägare är Stiftelsen Tinius (verkliga huvudmän, enligt definitionen i artikel 3.6 i direktiv (EU) 2015/849, är styrelseledamöterna i Stiftelsen, vid var tid redovisade här: https://www.tinius.com/en/the-board ) och till 9 procent av Landsorganisationen i Sverige, LO. LO har vetorätt när det gäller att tillsätta Aftonbladets politiska chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
           "url": "https://www.aftonbladet.se/a/LOlQ4/om-aftonbladet",
           "image_url": "https://akamai.vgc.no/v2/images/11bc7a56-7cf1-4ae6-9bd3-f357872611de?fit=crop&h=675&upscale=true&w=1200&s=344ab4ad89686c61ce5a66acae91e9391538ec39",
           "published_at": "2020-09-02T08:55:45Z",
@@ -4318,7 +4366,7 @@
           "source_kind": "story",
           "title": "Om Aftonbladet Nöje",
           "summary": "Om Aftonbladet Nöje",
-          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg.",
+          "body_text": "Besöksadress: Västra Järnvägsgatan 21, Stockholm Kontakt: förnamn.efternamn@aftonbladet.se Support: h ttps://support.aftonbladet. se Org.nr: 556100-1123 Momsregistreringsnr: SE 556100-112301 © Aftonbladet Hierta AB MMS/SMS: 71000 E-post: tipsa@aftonbladet.se Telefon: 08-411 11 11 Tipsa krypterat via Secure Drop Aftonbladet har funnits sedan Lars Johan Hierta startade tidningen år 1830. Vår vision är att vara: ” Sveriges mest engagerande nyhetskälla som värnar sanningen, granskar makten och ger dig inflytande genom journalistik”. Aftonbladet ägs till 91 procent av den norska mediekoncernen Schibsted och till 9 procent av Landsorganisationen i Sverige, LO . LO har vetorätt när det gäller att tillsätta Aftonbladets politiske chefredaktör, men har inget inflytande över journalistiken. Aftonbladets ledarsida beskriver sig som ”oberoende socialdemokratisk”, men nyhetsredaktionen har ingen politisk färg. Rensa hemma och få betalt för gammalt guld – gratis värdering hos Guldbrev!",
           "url": "https://www.aftonbladet.se/a/0R8QM/om-aftonbladet-noje",
           "image_url": "https://aftonbladet.se/monorepo-api/og/0R8QM.png",
           "published_at": "2017-05-23T12:48:09Z",
@@ -4351,6 +4399,30 @@
       "priority_split": 0,
       "articles": [
         {
+          "id": "827adc346b5c",
+          "source_id": "expressen-senaste",
+          "source_name": "Senaste nytt",
+          "provider": "Expressen",
+          "category": "Senaste",
+          "surface": "newsroom",
+          "source_kind": "story",
+          "title": "Munk stal 27 miljoner – avslöjad av sexvideo",
+          "summary": "Buddhistmunken förskingrade 27 miljoner kronor. Han avslöjades av en sexvideo. Nu har munken och hans kvinnliga medbrottsling gripits.",
+          "body_text": "Buddhistmunken förskingrade 27 miljoner kronor. Nu har munken och hans kvinnliga medbrottsling gripits, skriver Guardian . Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Den buddhistiske munken hade avlagt ett celibatlöfte och avstått från materiella ägodelar. Thailändsk polis grep på torsdagen den 66-årige munken misstänkt för att ha förskingrat 27 miljoner kronor avsedda för hans tempel. Under gripandet granskade polisen övervakningsfilmer inuti munkens bostad. Han hade filmats när han hade sex med en 47-årig kvinna vid ett bord i bostaden. Kvinnan var enligt polisen en medbrottsling som hjälpte munken att hantera de förskingrade pengarna. De 27 miljoner kronorna som ska ha förskingrats var donationer till tempelrenoveringar samt betalningar för buddhistiska amuletter och andra föremål. – Men pengarna kom aldrig in på templets konto – inte en enda spänn, säger polisens utredare Pattanasak Bupphasuwan. Polisen hittade kontanter och guldtackor under en razzia i munkens bostad. I kvinnans hem beslagtogs guldamuletter, guldtackor och smycken. Brottsanklagelserna mot munken och kvinnan gäller bland annat förskingring och penningtvätt, enligt Pattanasak Bupphasuwan. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
+          "url": "https://www.expressen.se/nyheter/varlden/munk-stal-27-miljoner-avslojad-av-sexvideo/",
+          "image_url": "https://static.bonniernews.se/images/46/13/4613edee3c3f44e1918b81df7dd73175/16x9/original.png",
+          "published_at": "2026-09-12T22:27:50Z",
+          "embed_url": "https://www.expressen.se/nyheter/varlden/munk-stal-27-miljoner-avslojad-av-sexvideo/",
+          "play_mode": "page_iframe",
+          "article_type": "text",
+          "tags": [
+            "Senaste",
+            "Expressen"
+          ],
+          "is_live": true,
+          "sort_order": 0
+        },
+        {
           "id": "f716bc71e0d8",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
@@ -4372,7 +4444,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 0
+          "sort_order": 1
         },
         {
           "id": "6ed7e5e820f3",
@@ -4396,7 +4468,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 1
+          "sort_order": 2
         },
         {
           "id": "e1468b268d4c",
@@ -4420,7 +4492,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 2
+          "sort_order": 3
         },
         {
           "id": "3ed2a61daacc",
@@ -4444,7 +4516,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 3
+          "sort_order": 4
         },
         {
           "id": "d576b14a4d88",
@@ -4468,7 +4540,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 4
+          "sort_order": 5
         },
         {
           "id": "1c820e950338",
@@ -4492,7 +4564,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 5
+          "sort_order": 6
         },
         {
           "id": "6b5b989542a0",
@@ -4502,7 +4574,7 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Varnar turisterna",
+          "title": "Varnar turister efter det enorma fyndet",
           "summary": "Bara toalettpapper hör hemma i toaletten. Det är budskapet till turister från det lokala vattenbolaget på södra Teneriffa.",
           "body_text": "Bara toalettpapper hör hemma i toaletten. Det är budskapet till turister från det lokala vattenbolaget på södra Teneriffa. Hittills i år har 200 ton våtservetter rensats bort ur avloppssystemet. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Till skillnad från toalettpapper löses våtservetter inte upp tillräckligt snabbt i vatten. I stället kan de fastna i pumparna och med tiden bilda stora proppar. Det har personalen vid vattenbolaget Entemanser på södra Teneriffa fått erfara under 2026, rapporterar Canarian Weekly . Hittills i år har de rensat bort 200 ton våtservetter från de totalt 34 pumpstationerna i Adeje, Guía de Isora och Granadilla de Abona. Tillsammans med annat skräp som fastnat i systemet har rensningsarbetet redan krävt mer än 6 500 arbetstimmar. Därför riktar Entemanser nu en uppmaning till både invånare och turister: våtservetter ska aldrig spolas ner i toaletten. Det gäller även sådana som marknadsförs som biologiskt nedbrytbara. Ett fullständigt stopp i pumparna kan i värsta fall leda till översvämningar eller utsläpp i omgivningen. I november förra året tvingades till exempel stranden Los Guanches på Teneriffas östkust att tillfälligt stänga sedan avloppsvatten nått badområdet. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
           "url": "https://www.expressen.se/nyheter/varlden/varnar-turister-pa-teneriffa-efter-enorma-fyndet-i-avloppet/",
@@ -4516,7 +4588,7 @@
             "Expressen"
           ],
           "is_live": true,
-          "sort_order": 6
+          "sort_order": 7
         },
         {
           "id": "f80043ee4d5d",
@@ -4526,37 +4598,13 @@
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Här serverar Busch och Mohamsson öl",
-          "summary": "Lördag kväll och Simona Mohamsson (L) och Ebba Busch (KD) är kungar i baren. – Såklart jag vill slutspurta med Simona, säger Ebba Busch som hivar ölsejdlar med Mohamsson på en fullsatt bar i centrala Stockholm.",
-          "body_text": "Lördag kväll och Simona Mohamsson (L) och Ebba Busch (KD) är kungar i baren. – Såklart jag vill slutspurta med Simona, säger Ebba Busch som hivar ölsejdlar med Mohamsson på en fullsatt bar i centrala Stockholm. Ljuduppspelningen är AI-genererad. Felaktigheter kan förekomma. Busch har jeans och egen merchtröja utan ärmar. Mohamsson bär T-shirt och jeans. Sannolikt blir det ombyte innan kvällens Skavlan där alla partiledare deltar. – En lördag kväll vill man vara där Sverige är, och då är många i baren. Klart jag vill slutspurta med Simona och Romina, säger Busch. – Jag gör allt jag kan! Det är ingen som ska vakna på måndag och säga ”Simona kunde ha gjort mer!” säger Simona Mohamsson . Kvällen före valdagen samlas liberaler, kristdemokrater och en och annan moderat på Vaudeville vid Norrmalmstorg. Det är ministertätt – bakom baren. Förutom Mohamsson och Busch serverar Romina Pourmokthari och Johan Britz öl, och bland gästerna syns Lotta Edholm och Maria Malmer Stenergard. Senare ikväll, när krogarna runt Stureplan fylls, kommer Liberalerna att servera 1000 ”stödkorvar”. Det ryktas att en annan kompis (Jimmie Åkesson (SD)) ska servera korv med dig i natt? – Vi får se. Jag har många kompisar. Så är det när man är ett lag, säger Mohamsson. Detta är en nyhetsartikel. Expressen granskar, avslöjar och ger dig senaste nyheterna på ett sakligt sätt. Mer om oss här. Vill du tipsa oss om något? Skicka in det här!",
-          "url": "https://www.expressen.se/nyheter/politik/ebba-busch-och-simona-mohamsson-serverar-ol-pa-bar/",
-          "image_url": "https://static.bonniernews.se/images/1d/e7/1de7414095fc474d9a8c616296502519/16x9/original.jpg",
-          "published_at": "2026-09-12T18:57:21Z",
-          "embed_url": "https://www.expressen.se/nyheter/politik/ebba-busch-och-simona-mohamsson-serverar-ol-pa-bar/",
-          "play_mode": "page_iframe",
-          "article_type": "text",
-          "tags": [
-            "Senaste",
-            "Expressen"
-          ],
-          "is_live": true,
-          "sort_order": 7
-        },
-        {
-          "id": "ae895722fb9f",
-          "source_id": "expressen-senaste",
-          "source_name": "Senaste nytt",
-          "provider": "Expressen",
-          "category": "Senaste",
-          "surface": "newsroom",
-          "source_kind": "story",
-          "title": "Politik I dag 20.37 Jonas Attenius (S) hotad i Göteborg",
+          "title": "Politik I går 20.57 Ebba Busch och Simona Mohamsson serverar öl på bar",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/jonas-attenius-s-hotad-i-goteborg/",
+          "url": "https://www.expressen.se/nyheter/politik/ebba-busch-och-simona-mohamsson-serverar-ol-pa-bar/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/jonas-attenius-s-hotad-i-goteborg/",
+          "embed_url": "https://www.expressen.se/nyheter/politik/ebba-busch-och-simona-mohamsson-serverar-ol-pa-bar/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
@@ -4567,20 +4615,20 @@
           "sort_order": 8
         },
         {
-          "id": "b85d68d1a22b",
+          "id": "ae895722fb9f",
           "source_id": "expressen-senaste",
           "source_name": "Senaste nytt",
           "provider": "Expressen",
           "category": "Senaste",
           "surface": "newsroom",
           "source_kind": "story",
-          "title": "Politik I dag 20.21 Stora oron i Vänsterpartiet – flera krismöten",
+          "title": "Politik I går 20.37 Jonas Attenius (S) hotad i Göteborg",
           "summary": "",
           "body_text": "",
-          "url": "https://www.expressen.se/nyheter/politik/stora-oron-i-vansterpartiet-flera-krismoten/",
+          "url": "https://www.expressen.se/nyheter/politik/jonas-attenius-s-hotad-i-goteborg/",
           "image_url": "",
           "published_at": null,
-          "embed_url": "https://www.expressen.se/nyheter/politik/stora-oron-i-vansterpartiet-flera-krismoten/",
+          "embed_url": "https://www.expressen.se/nyheter/politik/jonas-attenius-s-hotad-i-goteborg/",
           "play_mode": "page_iframe",
           "article_type": "text",
           "tags": [
